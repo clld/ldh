@@ -1,0 +1,147 @@
+{
+  "objectId" : "item_406998",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-08-05T10:50:20.235+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-1F8D-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Quelle: bibliografische Daten korrigiert",
+  "lastModificationDate" : "2014-08-05T10:50:20.235+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-93D1-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:51:50.329+0000",
+  "latestRelease" : {
+    "objectId" : "item_406998",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-05T10:50:20.235+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1F8D-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406998",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-05T10:50:20.235+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1F8D-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Features and categories : non-finite constructions in Finnish",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Päivi Hannele",
+        "familyName" : "Koskinen",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1998",
+    "datePublishedInPrint" : "1998",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37592",
+      "type" : "OTHER"
+    }, {
+      "id" : "finnish_koskinen1998_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Toronto",
+      "publisher" : "Univ."
+    },
+    "sources" : [ {
+      "title" : "Toronto Working Papers in Linguistics : TWPL",
+      "publishingInfo" : {
+        "place" : "Toronto",
+        "publisher" : "Univ."
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PH131,\nLoC Subject Headings: Finnish language",
+    "subjects" : [ {
+      "value" : "fin - Finnish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "viii, 390 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PH131,\nLoC Subject Headings: Finnish language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406997",
+    "name" : "finnish_koskinen1998_s.pdf",
+    "creationDate" : "2010-04-01T13:51:50.077+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-93D0-D",
+    "content" : "/rest/items/item_406998_4/component/file_406997/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2c6bc7920b19eade6cfa761398e859d2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2009439,
+    "metadata" : {
+      "title" : "finnish_koskinen1998_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2009439
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2048231",
+    "name" : "https://twpl.library.utoronto.ca/index.php/twpl/article/view/6514",
+    "creationDate" : "2014-08-05T08:24:30.152+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-1E8C-5",
+    "content" : "https://twpl.library.utoronto.ca/index.php/twpl/article/view/6514",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1455aeac63476db611f5e347ab7053fb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://twpl.library.utoronto.ca/index.php/twpl/article/view/6514",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Toronto, Linguistics Graduate Course Union (LGCU), TWPL Toronto Working Papers in Linguistics, pdf",
+      "size" : 0
+    }
+  } ]
+}

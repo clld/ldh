@@ -1,0 +1,119 @@
+{
+  "objectId" : "item_402211",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T11:15:47.362+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-77E2-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:15:47.362+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-77E2-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:27:53.197+0000",
+  "latestRelease" : {
+    "objectId" : "item_402211",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:15:47.362+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-77E2-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402211",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:15:47.362+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-77E2-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Aspects of Lakhota syntax : a study of Lakhota (Teton Dakota) syntax and its implications for universal grammar",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Van Valin, Robert Detrick",
+        "givenName" : "Robert Detrick",
+        "familyName" : "Van Valin",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1977",
+    "datePublishedInPrint" : "1977",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29286",
+      "type" : "OTHER"
+    }, {
+      "id" : "lakhota_vanvalin1977_o.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "place" : "Berkeley",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Subject Headings: Lakota dialect",
+    "subjects" : [ {
+      "value" : "lkt - Lakota",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "153 S.",
+    "abstracts" : [ {
+      "value" : "PM1024.Z8, ISO 639-3 : lkt, Lakota dialect -- Syntax"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402210",
+    "name" : "lakhota_vanvalin1977_o.pdf",
+    "creationDate" : "2010-04-01T11:27:52.265+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-77E1-7",
+    "content" : "/rest/items/item_402211_3/component/file_402210/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d5dabb048d91e27d2f40d72a8e047bc3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9367044,
+    "metadata" : {
+      "title" : "lakhota_vanvalin1977_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9367044,
+      "copyrightDate" : "2010-08-31",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

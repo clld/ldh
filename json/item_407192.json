@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_407192",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-08-06T10:11:44.214+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-23C3-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-08-06T10:11:44.214+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-94DE-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:01:04.667+0000",
+  "latestRelease" : {
+    "objectId" : "item_407192",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-06T10:11:44.214+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-23C3-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407192",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-06T10:11:44.214+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-23C3-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The grammatical realization of temporal expressions in Tsou",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Chia-jung",
+        "familyName" : "Pan",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37767",
+      "type" : "OTHER"
+    }, {
+      "id" : "tsou_pan2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Min-Hsiung",
+      "publisher" : "National Chung Cheng Univ."
+    },
+    "freeKeywords" : "LoC Class: PL6166,\nLoC Subject Headings: Tsou language",
+    "subjects" : [ {
+      "value" : "tsu - Tsou",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiv, 234 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407191",
+    "name" : "tsou_pan2007_s.pdf",
+    "creationDate" : "2010-04-01T14:01:04.346+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-94DD-B",
+    "content" : "/rest/items/item_407192_3/component/file_407191/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a0cbc2215391b28f49c024438d5f18cf",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2718492,
+    "metadata" : {
+      "title" : "tsou_pan2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2718492
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2048437",
+    "name" : "http://handle.ncl.edu.tw/11296/ndltd/26347584035693141617",
+    "creationDate" : "2014-08-06T10:09:35.264+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-23C5-7",
+    "content" : "http://handle.ncl.edu.tw/11296/ndltd/26347584035693141617",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9a3e3612dada6afec506559df9bd403b",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://handle.ncl.edu.tw/11296/ndltd/26347584035693141617",
+      "contentCategory" : "publisher-version",
+      "description" : "NDLTD National Digital Library of Theses and Dissertations in Taiwan, zip file, pdf // fulltext access: free e-mail registration necessary",
+      "size" : 0
+    }
+  } ]
+}

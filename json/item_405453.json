@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_405453",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:47:26.179+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8B33-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:47:26.179+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B33-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:13:16.656+0000",
+  "latestRelease" : {
+    "objectId" : "item_405453",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:47:26.179+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B33-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405453",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:47:26.179+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B33-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Corps de la Paix Madagascar Livre du Formateur . Langue: Sakalava (Peace Corps Madagascar Teacher's Manual. Language: Sakalava) .",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Tshiangale, Mupemba Wa",
+        "givenName" : "Mupemba Wa",
+        "familyName" : "Tshiangale",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "organization" : {
+        "name" : "Peace Corps, Antananarivo (Madagascar)"
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34962",
+      "type" : "OTHER"
+    }, {
+      "id" : "sakalava_tshiangale1996_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Antananarivo",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL5379,\nLoC Subject Headings: Sakalava dialect",
+    "subjects" : [ {
+      "value" : "skg - Sakalava Malagasy",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "262 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405451",
+    "name" : "http://tinyurl.com/6h3bk6",
+    "creationDate" : "2010-04-01T13:13:12.899+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B31-3",
+    "content" : "http://tinyurl.com/6h3bk6",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f3dde1c5effbda6885885be4678cc1aa",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://tinyurl.com/6h3bk6",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405452",
+    "name" : "sakalava_tshiangale1996_o.pdf",
+    "creationDate" : "2010-04-01T13:13:16.047+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B32-1",
+    "content" : "/rest/items/item_405453_2/component/file_405452/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4fb54c883197d59ea9ca9f3319290463",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5964216,
+    "metadata" : {
+      "title" : "sakalava_tshiangale1996_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5964216
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

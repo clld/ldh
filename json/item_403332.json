@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_403332",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:06:54.429+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7E79-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:06:54.429+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E79-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:16:37.416+0000",
+  "latestRelease" : {
+    "objectId" : "item_403332",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:06:54.429+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7E79-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403332",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:06:54.429+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7E79-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The computation of prosody",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Idsardi, William James",
+        "givenName" : "William James",
+        "familyName" : "Idsardi",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1992",
+    "datePublishedInPrint" : "1992",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31149",
+      "type" : "OTHER"
+    }, {
+      "id" : "prosody_idsardi1992_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cambridge",
+      "publisher" : " Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P224,\nLoC Subject Headings: Prosodic analysis (Linguistics)",
+    "totalNumberOfPages" : "197 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403330",
+    "name" : "http://www.ai.mit.edu/projects/dm/theses/idsardi92.pdf",
+    "creationDate" : "2010-04-01T12:16:04.284+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E77-3",
+    "content" : "http://www.ai.mit.edu/projects/dm/theses/idsardi92.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "19aacd49efc20b5535189672c3074637",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ai.mit.edu/projects/dm/theses/idsardi92.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403331",
+    "name" : "prosody_idsardi1992_o.pdf",
+    "creationDate" : "2010-04-01T12:16:36.515+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E78-1",
+    "content" : "/rest/items/item_403332_2/component/file_403331/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "40bec7e47eb0b5f7afc7b656e04cb8a2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9120029,
+    "metadata" : {
+      "title" : "prosody_idsardi1992_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9120029
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

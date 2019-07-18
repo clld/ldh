@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_405712",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-10T07:25:09.750+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-E423-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-10T07:25:09.750+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8CA8-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:19:03.323+0000",
+  "latestRelease" : {
+    "objectId" : "item_405712",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-10T07:25:09.750+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-E423-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405712",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-10T07:25:09.750+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-E423-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Hybrid models for Chinese unknown word resolution",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Xiaofei",
+        "familyName" : "Lu",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35311",
+      "type" : "OTHER"
+    }, {
+      "id" : "chinese_lu2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: PL1315.Y44,\nLoC Subject Headings: Chinese language",
+    "subjects" : [ {
+      "value" : "cmn - Mandarin Chinese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XIII, 157 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL1315.Y44,\nLoC Subject Headings: Chinese language--Morphemics, Chinese language--Parts of speech, Chinese language--Semantics"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405711",
+    "name" : "chinese_lu2006_s.pdf",
+    "creationDate" : "2010-04-01T13:19:03.185+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8CA7-A",
+    "content" : "/rest/items/item_405712_3/component/file_405711/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e457e48993cbb54227c759200ddf7220",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 408404,
+    "metadata" : {
+      "title" : "chinese_lu2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 408404
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2039804",
+    "name" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1154631880",
+    "creationDate" : "2014-07-10T07:23:53.134+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-E425-5",
+    "content" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1154631880",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b2416b668b4347a574a2bb4e8bef2e56",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1154631880",
+      "contentCategory" : "any-fulltext",
+      "description" : "OhioLINK, Electronic Theses & Dissertations Center, pdf",
+      "size" : 0
+    }
+  } ]
+}

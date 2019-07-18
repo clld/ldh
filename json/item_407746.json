@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_407746",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-24T10:40:59.914+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BFEE-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-24T10:40:59.914+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-97D7-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:19:42.384+0000",
+  "latestRelease" : {
+    "objectId" : "item_407746",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-24T10:40:59.914+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BFEE-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407746",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-24T10:40:59.914+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BFEE-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Affix positions and cooccurrences : the PARADIGM program",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Joseph E.",
+        "familyName" : "Grimes",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1983",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "41820",
+      "type" : "OTHER"
+    }, {
+      "id" : "paradigm_grimes1983_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Dallas, Tex.",
+      "publisher" : "Summer Institute of Linguistics [u.a.]"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics",
+      "volume" : "69",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P245, LoC Subject Headings: Grammar/Comparative and general--Affixes--Data processing",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "VII, 90 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407745",
+    "name" : "paradigm_grimes1983_o.pdf",
+    "creationDate" : "2010-04-01T14:19:42.113+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-97D6-3",
+    "content" : "/rest/items/item_407746_4/component/file_407745/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3b1b9a5faac04b7842e38217929d8776",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2264964,
+    "metadata" : {
+      "title" : "paradigm_grimes1983_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2264964
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2148922",
+    "name" : "http://www.sil.org/resources/archives/8825",
+    "creationDate" : "2015-04-24T10:40:37.552+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/8825",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "76a11125aeab9ee39c9091def2698f3e",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/8825",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Language & Culture Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

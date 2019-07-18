@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_403317",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-13T02:15:43.892+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-725F-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:15:43.892+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E63-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:13:04.237+0000",
+  "latestRelease" : {
+    "objectId" : "item_403317",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:15:43.892+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-725F-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403317",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:15:43.892+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-725F-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Planar phonology and morphology",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jennifer Sandra",
+        "familyName" : "Cole",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1987",
+    "datePublishedInPrint" : "1987",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31142",
+      "type" : "OTHER"
+    }, {
+      "id" : "planar_cole1987_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P217, LoC Subject Headings: Grammar/Comparative and general--Phonology, LoC Subject Headings: Grammar/Comparative and general--Morphology, LoC Subject Headings: Autosegmental theory (Linguistics)",
+    "totalNumberOfPages" : "vii, 267 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403316",
+    "name" : "planar_cole1987_o.pdf",
+    "creationDate" : "2010-04-01T12:13:02.980+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E62-2",
+    "content" : "/rest/items/item_403317_4/component/file_403316/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "87710924671430d35859b2a31984fd3c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12619903,
+    "metadata" : {
+      "title" : "planar_cole1987_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12619903
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110884",
+    "name" : "http://hdl.handle.net/1721.1/14637",
+    "creationDate" : "2015-03-11T10:25:44.561+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/14637",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d34682f7b334ba8dae22fcecb94764c8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/14637",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

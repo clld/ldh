@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_576583",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-06-21T08:34:11.000+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-D3DE-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-21T08:34:11.000+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-D3DE-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-12-13T09:06:34.107+0000",
+  "latestRelease" : {
+    "objectId" : "item_576583",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-21T08:34:11.000+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-D3DE-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_576583",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-21T08:34:11.000+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-D3DE-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "" ],
+  "metadata" : {
+    "title" : "Mítica korebajü-español",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Pedro",
+        "familyName" : "Marín Silva",
+        "organizations" : [ {
+          "address" : ", ",
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "genre" : "THESIS",
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "place" : "Bogotá",
+      "publisher" : "Univ. Nacional de Colombia"
+    },
+    "freeKeywords" : "LoC Subject Headings: Coreguaje language",
+    "subjects" : [ {
+      "value" : "coe - Koreguaje",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "38 S.",
+    "abstracts" : [ {
+      "value" : "PM5851, ISO 639-3 : coe, Coreguaje language, Coreguaje mythology, Coreguaje Indians --Social life and customs, Coreguaje language --Texts"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_576581",
+    "name" : "coreguaje_marinsilva2004_s.pdf",
+    "creationDate" : "2010-12-13T09:06:32.738+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-D3DC-2",
+    "content" : "/rest/items/item_576583_3/component/file_576581/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "50eb9e45720448e0c6f6f68912b7fdde",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3304705,
+    "metadata" : {
+      "title" : "coreguaje_marinsilva2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3304705,
+      "copyrightDate" : "-",
+      "license" : "http://creativecommons.org/licenses/by-nc-nd/2.5/"
+    }
+  }, {
+    "objectId" : "file_576582",
+    "name" : "http://www.bdigital.unal.edu.co/1462/",
+    "creationDate" : "2010-12-13T09:06:32.866+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-D3DD-F",
+    "content" : "http://www.bdigital.unal.edu.co/1462/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b95e672d4e8a305fe01f42c1b07dd8a6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.bdigital.unal.edu.co/1462/",
+      "contentCategory" : "any-fulltext",
+      "size" : 0
+    }
+  } ]
+}

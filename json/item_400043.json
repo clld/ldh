@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_400043",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-10T10:04:38.996+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0B15-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-10T10:04:38.996+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6B0F-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:38:59.128+0000",
+  "latestRelease" : {
+    "objectId" : "item_400043",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T10:04:38.996+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0B15-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400043",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T10:04:38.996+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0B15-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Central Bontoc : Sentence, paragraph and discourse",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lawrence A.",
+        "familyName" : "Reid",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1970",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "751",
+      "type" : "OTHER"
+    }, {
+      "id" : "bontoc_reid1970.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Norman",
+      "publisher" : "Summer Institute of Linguistics of the University of Oklahoma\n"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics and Related Fields",
+      "volume" : "27",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL5641, LoC Subject Headings: Central Bontoc dialect",
+    "subjects" : [ {
+      "value" : "bnc - Bontok",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xv, 185 pages",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL5641,\nLoC Subject Headings: Central Bontoc dialect--Sentences, Central Bontoc dialect--Discourse analysis"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400042",
+    "name" : "bontoc_reid1970.pdf",
+    "creationDate" : "2010-04-01T10:38:56.841+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6B0E-6",
+    "content" : "/rest/items/item_400043_3/component/file_400042/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e50b707d70d7cade8ba17a6f22737a92",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 24002827,
+    "metadata" : {
+      "title" : "bontoc_reid1970.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 24002827
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110523",
+    "name" : "http://www.sil.org/resources/archives/8567",
+    "creationDate" : "2015-03-10T10:03:55.612+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/8567",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a55b72be1089aa20a7134b704a6d3403",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/8567",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL.org, Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

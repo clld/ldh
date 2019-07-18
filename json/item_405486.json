@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_405486",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:01:57.508+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8B64-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:01:57.508+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B64-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:13:43.804+0000",
+  "latestRelease" : {
+    "objectId" : "item_405486",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:01:57.508+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B64-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405486",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:01:57.508+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B64-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Estudios sobre el idioma siriono",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Priest, Perry",
+        "givenName" : "Perry",
+        "familyName" : "Priest",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1980",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34997",
+      "type" : "OTHER"
+    }, {
+      "id" : "siriono_priest1980_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Riberalta",
+      "publisher" : "Inst. Ling. de Verano"
+    },
+    "sources" : [ {
+      "title" : "Notas lingüísticas de Bolivia",
+      "volume" : "10",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM7074,\nLoC Subject Headings: Siriano language",
+    "subjects" : [ {
+      "value" : "srq - Sirionó",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "42 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405484",
+    "name" : "http://www.sil.org/acpub/repository/16397.pdf",
+    "creationDate" : "2010-04-01T13:13:39.058+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B62-6",
+    "content" : "http://www.sil.org/acpub/repository/16397.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/acpub/repository/16397.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405485",
+    "name" : "siriono_priest1980_o.pdf",
+    "creationDate" : "2010-04-01T13:13:43.643+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B63-4",
+    "content" : "/rest/items/item_405486_2/component/file_405485/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f433fed84d3bb717dc0d4b8e0d3dee70",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 635370,
+    "metadata" : {
+      "title" : "siriono_priest1980_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 635370
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

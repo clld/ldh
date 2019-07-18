@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_405721",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-07T08:35:09.087+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A809-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-07T08:35:09.087+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8CB4-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:19:09.281+0000",
+  "latestRelease" : {
+    "objectId" : "item_405721",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-07T08:35:09.087+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A809-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405721",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-07T08:35:09.087+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A809-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Las clases de verbos intransitivos y el alineamiento agentivo en el Chol de Tila, Chiapas",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Pedro",
+        "familyName" : "Guitiérrez Sánchez",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "35321",
+      "type" : "OTHER"
+    }, {
+      "id" : "choldetila_sanchez2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "México, D. F.",
+      "publisher" : "CIESAS"
+    },
+    "freeKeywords" : "LoC Class: PM3649.Z5, LoC Subject Headings: Chol language",
+    "subjects" : [ {
+      "value" : "cti - Chol, Tila",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XII, 309 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM3649.Z5,\nLoC Subject Headings: Chol language--Dictionaries"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405719",
+    "name" : "http://www.anthro.ucsd.edu/~jhaviland/ArchiveHTML/Chol/Pedro/PedroTesis.htm",
+    "creationDate" : "2010-04-01T13:19:08.412+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8CB2-0",
+    "content" : "http://www.anthro.ucsd.edu/~jhaviland/ArchiveHTML/Chol/Pedro/PedroTesis.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c2d0567c26be6a348792385e8000f2cf",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.anthro.ucsd.edu/~jhaviland/ArchiveHTML/Chol/Pedro/PedroTesis.htm",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of California, San Diegeo, website of John B. Haviland, pdf download ",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405720",
+    "name" : "choldetila_sanchez2004_s.pdf",
+    "creationDate" : "2010-04-01T13:19:08.846+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8CB3-E",
+    "content" : "/rest/items/item_405721_3/component/file_405720/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "861f2024484c69109d2e6d03390f2243",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3744192,
+    "metadata" : {
+      "title" : "choldetila_sanchez2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3744192
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

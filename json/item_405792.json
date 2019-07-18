@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_405792",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:32:51.642+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8D1B-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:32:51.642+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8D1B-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:20:41.670+0000",
+  "latestRelease" : {
+    "objectId" : "item_405792",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:32:51.642+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8D1B-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405792",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:32:51.642+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8D1B-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The number of language families in the world and its correlations",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Hammarström, Harald",
+        "givenName" : "Harald",
+        "familyName" : "Hammarström",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2006",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "35418",
+      "type" : "OTHER"
+    }, {
+      "id" : "families_hammarstroem2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N.A.",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: P371,\nLoC Subject Headings: Language and languages --Indexes",
+    "totalNumberOfPages" : "215 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405790",
+    "name" : "http://www.cs.chalmers.se/%7Eharald2/language_families_full.pdf",
+    "creationDate" : "2010-04-01T13:20:40.685+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D19-F",
+    "content" : "http://www.cs.chalmers.se/%7Eharald2/language_families_full.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "697bec75e838ae6b08431f761afc12fc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.cs.chalmers.se/%7Eharald2/language_families_full.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405791",
+    "name" : "families_hammarstroem2006_s.pdf",
+    "creationDate" : "2010-04-01T13:20:41.545+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D1A-D",
+    "content" : "/rest/items/item_405792_2/component/file_405791/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "039c77ebcd67644e1d7959e7f627589c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 734014,
+    "metadata" : {
+      "title" : "families_hammarstroem2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 734014
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

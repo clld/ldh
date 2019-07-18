@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_406441",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-28T10:39:41.717+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0027-76C7-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-28T10:39:41.717+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-90A5-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:38:02.164+0000",
+  "latestRelease" : {
+    "objectId" : "item_406441",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-28T10:39:41.717+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0027-76C7-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406441",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-28T10:39:41.717+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0027-76C7-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Sociolinguistics of the Luvian language : volume 1",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ilya S.",
+        "familyName" : "Yakubovich",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2008",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36915",
+      "type" : "OTHER"
+    }, {
+      "id" : "luvian_yakubovich2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Chicago",
+      "publisher" : "Univ.of Chicago"
+    },
+    "freeKeywords" : "LoC Class: P949, LoC Subject Headings: Luwian language",
+    "subjects" : [ {
+      "value" : "hlu - Hieroglyphic Luwian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "I of II vols (xi, 556 S.)"
+  },
+  "files" : [ {
+    "objectId" : "file_406439",
+    "name" : "http://oi.uchicago.edu/research/library/dissertation/yakubovich.html",
+    "creationDate" : "2010-04-01T13:38:01.681+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://oi.uchicago.edu/research/library/dissertation/yakubovich.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f160b08a8980cd48b856301703f20f16",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://oi.uchicago.edu/research/library/dissertation/yakubovich.html",
+      "contentCategory" : "publisher-version",
+      "description" : "University of Chicago, Oriental Institute",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406440",
+    "name" : "luvian_yakubovich2008_s.pdf",
+    "creationDate" : "2010-04-01T13:38:01.893+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-90A4-D",
+    "content" : "/rest/items/item_406441_4/component/file_406440/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a0fdfa1eeaf406f390bb0b3a43265869",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2269167,
+    "metadata" : {
+      "title" : "luvian_yakubovich2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2269167,
+      "copyrightDate" : "2010-09-29",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

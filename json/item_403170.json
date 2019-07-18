@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_403170",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T07:36:40.866+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA29-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T07:36:40.866+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D87-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:00:16.887+0000",
+  "latestRelease" : {
+    "objectId" : "item_403170",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T07:36:40.866+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA29-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403170",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T07:36:40.866+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA29-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Sentential complementation in modern Greek",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Robert Joseph Peter",
+        "familyName" : "Ingria",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1981",
+    "datePublishedInPrint" : "1981",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31056",
+      "type" : "OTHER"
+    }, {
+      "id" : "greek_ingria1981_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachussets Inst. of  Technology"
+    },
+    "freeKeywords" : "LoC Class: PA1091, LoC Subject Headings: Greek language/Modern",
+    "subjects" : [ {
+      "value" : "ell - Modern Greek (1453-)",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "250 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403169",
+    "name" : "greek_ingria1981_o.pdf",
+    "creationDate" : "2010-04-01T12:00:14.894+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D86-5",
+    "content" : "/rest/items/item_403170_4/component/file_403169/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8a827f03a481acbfe7e7af84a6949156",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 20781499,
+    "metadata" : {
+      "title" : "greek_ingria1981_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 20781499
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147245",
+    "name" : "http://hdl.handle.net/1721.1/15836",
+    "creationDate" : "2015-04-21T07:36:02.144+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/15836",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "950dd002f1261d41ac41d6dc3bcd6677",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/15836",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

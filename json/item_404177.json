@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_404177",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-10T09:23:31.432+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0ACE-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-10T09:23:31.432+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-83FF-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:36:30.325+0000",
+  "latestRelease" : {
+    "objectId" : "item_404177",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T09:23:31.432+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0ACE-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404177",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T09:23:31.432+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0ACE-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "On the word order of locative prepositional phrases in Cantonese : processing, iconicity and grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Wing Man Stella",
+        "familyName" : "Kwan",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32386",
+      "type" : "OTHER"
+    }, {
+      "id" : "cantonese_kwan2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Hongkong",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL1739, LoC Subject Headings: Cantonese dialects",
+    "subjects" : [ {
+      "value" : "yue - Chinese, Yue",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VII, 138 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL1739, LoC Subject Headings: Cantonese dialects--Prepositional phrase, Cantonese dialects--Word order"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404176",
+    "name" : "cantonese_kwan2005_s.pdf",
+    "creationDate" : "2010-04-01T12:36:30.190+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-83FE-0",
+    "content" : "/rest/items/item_404177_3/component/file_404176/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0d33602b8e14c7e9008d1ef19fadd727",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 721968,
+    "metadata" : {
+      "title" : "cantonese_kwan2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 721968
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110503",
+    "name" : "http://hub.hku.hk/handle/10722/39985",
+    "creationDate" : "2015-03-10T09:22:58.629+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hub.hku.hk/handle/10722/39985",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b10c1c3ff6f61cae31b27a7353cbc6fa",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hub.hku.hk/handle/10722/39985",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Hong Kong, The HKU Scholars Hub, Theses, pdf download",
+      "size" : 0
+    }
+  } ]
+}

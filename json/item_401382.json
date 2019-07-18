@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_401382",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:46:10.405+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7306-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:46:10.405+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7306-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:10:59.894+0000",
+  "latestRelease" : {
+    "objectId" : "item_401382",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:46:10.405+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7306-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401382",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:46:10.405+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7306-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Aspectos prosódicos da língua Ikpeng",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Campetela, Cilene",
+        "givenName" : "Cilene",
+        "familyName" : "Campetela",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "26519",
+      "type" : "OTHER"
+    }, {
+      "id" : "ikpeng_campetela2002_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM6203,\nLoC Subject Headings: Ikpeng language",
+    "subjects" : [ {
+      "value" : "txi - Ikpeng",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "209 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401380",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000252294",
+    "creationDate" : "2010-04-01T11:10:58.714+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7304-0",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000252294",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4219d99b1e886c26c8f90cffbfa58732",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000252294",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401381",
+    "name" : "ikpeng_campetela2002_o.pdf",
+    "creationDate" : "2010-04-01T11:10:59.323+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7305-E",
+    "content" : "/rest/items/item_401382_2/component/file_401381/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ac06ea99c72f67fe2817c09731985d1a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4250042,
+    "metadata" : {
+      "title" : "ikpeng_campetela2002_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4250042
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

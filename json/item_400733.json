@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_400733",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-10T10:37:40.605+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0B67-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-10T10:37:40.605+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6F39-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:57:45.318+0000",
+  "latestRelease" : {
+    "objectId" : "item_400733",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T10:37:40.605+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0B67-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400733",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T10:37:40.605+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0B67-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Estudios sobre la fonologia del Chamicuro",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Stephen G.",
+        "familyName" : "Parker",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1991",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "23991",
+      "type" : "OTHER"
+    }, {
+      "id" : "chamicuro_parker1991_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1a ed.",
+      "place" : "Yarinacocha, Perú",
+      "publisher" : "Instituto Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística peruana",
+      "volume" : "30",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5805, LoC Subject Headings: Chamicuro language",
+    "subjects" : [ {
+      "value" : "ccc - Chamicuro",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "218 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5805, LoC Subject Headings: Chamicuro language--Phonology, Chamicuro language--Morphophonemics, Chamicuro language--Syllabication"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400732",
+    "name" : "chamicuro_parker1991_o.pdf",
+    "creationDate" : "2010-04-01T10:57:43.955+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F38-6",
+    "content" : "/rest/items/item_400733_3/component/file_400732/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c5297cf86c6fa4fe5deba5edad3abdc1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5873844,
+    "metadata" : {
+      "title" : "chamicuro_parker1991_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5873844
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110551",
+    "name" : "http://www.peru.sil.org/resources/archives/30004",
+    "creationDate" : "2015-03-10T10:36:24.378+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/30004",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d174f5c07a4a2eca55f5f0de1832fc70",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/30004",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Peru Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

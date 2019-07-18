@@ -1,0 +1,151 @@
+{
+  "objectId" : "item_408253",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-05T07:20:04.215+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C688-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-05T07:20:04.215+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9AC4-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:33:06.193+0000",
+  "latestRelease" : {
+    "objectId" : "item_408253",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-05T07:20:04.215+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C688-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408253",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-05T07:20:04.215+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C688-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulario comparativo : palabras selectas de lenguas indígenas de Colombia",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Randal Q.",
+        "familyName" : "Huber",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Robert B.",
+        "familyName" : "Reed",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1992",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "42766",
+      "type" : "OTHER"
+    }, {
+      "id" : "colombia_huber1992_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "958-21-0037-0",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Santafé de Bogota, Colombia",
+      "publisher" : "Asociatión Instituto Lingüístico de Verano"
+    },
+    "freeKeywords" : "LoC Class: PM5191, LoC Subject Headings: Indians of South America--Colombia--Languages",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "xxxvi, 387p.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5191,\nLoC Subject Headings: Indians of South America--Colombia--Languages--Glossaries/vocabularies/etc.--Polyglot"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_408251",
+    "name" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=32105",
+    "creationDate" : "2010-04-01T14:33:04.875+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=32105",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e64ceb7f6c264874a36edc24d1e48bfc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=32105",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Colombia, publications, pdfs",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408252",
+    "name" : "colombia_huber1992_o.pdf",
+    "creationDate" : "2010-04-01T14:33:05.104+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9AC3-A",
+    "content" : "/rest/items/item_408253_4/component/file_408252/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "853c05cf034077468c1cdf5c37f9f418",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11199989,
+    "metadata" : {
+      "title" : "colombia_huber1992_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11199989
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

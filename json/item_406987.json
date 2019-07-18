@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_406987",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-04-21T06:05:51.686+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA10-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T06:05:51.686+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-93C1-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:51:34.662+0000",
+  "latestRelease" : {
+    "objectId" : "item_406987",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-21T06:05:51.686+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA10-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406987",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-21T06:05:51.686+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA10-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Une description linguistique du Creole Guadeloupeen dans la perspective de la generation automatique d'enonces",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Fabrice",
+        "familyName" : "Delumeau",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedOnline" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37588",
+      "type" : "OTHER"
+    }, {
+      "id" : "creole_delumeau2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "place" : "Paris",
+      "publisher" : "Univ. Nanterre (X)"
+    },
+    "freeKeywords" : "LoC Class: PM7854.G8, LoC Subject Headings: Creole dialects/French--Guadeloupe",
+    "subjects" : [ {
+      "value" : "gcf - Guadeloupean Creole French",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "317 S.",
+    "abstracts" : [ {
+      "value" : "The aim of this PhD thesis is to put forward a description of the Creole of Guadeloupe in the perspective of the automatic generation of uterrances in Creole, using contemporary French as an input. In phonology and morpho-phonology, the permanent features one observes point out to rules accounting for what is called 'synchronic Creolisation'. As regards the syntactic domain, the emphasis is laid on the differences between French and Creole, and a formalised description of the main structures of Guadeloupe Creole is presented."
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406985",
+    "name" : "http://tel.archives-ouvertes.fr/tel-00169457/",
+    "creationDate" : "2010-04-01T13:51:31.400+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://tel.archives-ouvertes.fr/tel-00169457/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "bf24c56bed4ef89fd199f616f77d579f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://tel.archives-ouvertes.fr/tel-00169457/",
+      "contentCategory" : "publisher-version",
+      "description" : "TEL - multidisciplinary theses server, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406986",
+    "name" : "creole_delumeau2006_s.pdf",
+    "creationDate" : "2010-04-01T13:51:34.175+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-93C0-4",
+    "content" : "/rest/items/item_406987_5/component/file_406986/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7e4b79f3cdee138b1411a3027734fb4a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4480819,
+    "metadata" : {
+      "title" : "creole_delumeau2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4480819
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

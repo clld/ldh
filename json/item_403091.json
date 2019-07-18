@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_403091",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T09:06:59.473+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA96-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T09:06:59.473+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D0D-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:54:14.552+0000",
+  "latestRelease" : {
+    "objectId" : "item_403091",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T09:06:59.473+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA96-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403091",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T09:06:59.473+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA96-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Multiple case assignments",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Katherine McCreight",
+        "familyName" : "Young",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1988",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30938",
+      "type" : "OTHER"
+    }, {
+      "id" : "case_young1988_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachussetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P163, LoC Subject Headings: Case grammar, LoC Subject Headings: Grammar/Comparative and general--Case",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "195 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403090",
+    "name" : "case_young1988_o.pdf",
+    "creationDate" : "2010-04-01T11:54:13.563+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D0C-C",
+    "content" : "/rest/items/item_403091_4/component/file_403090/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4fb398bdf45123067232d6ffedf48842",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9709655,
+    "metadata" : {
+      "title" : "case_young1988_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9709655
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147326",
+    "name" : "http://hdl.handle.net/1721.1/14409",
+    "creationDate" : "2015-04-21T09:06:37.775+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/14409",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "efafd1b983897b11c4b7edffa62dd119",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/14409",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_407067",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T19:55:18.465+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F77-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:55:18.465+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9434-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:53:39.321+0000",
+  "latestRelease" : {
+    "objectId" : "item_407067",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T19:55:18.465+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F77-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407067",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T19:55:18.465+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F77-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Une approche phonétique en identification automatique des langues : la modélisation acoustique des systèmes vocaliques",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Pellegrino, François",
+        "givenName" : "François",
+        "familyName" : "Pellegrino",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1998",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37624",
+      "type" : "OTHER"
+    }, {
+      "id" : "parole_pellegrino1998_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Toulouse",
+      "publisher" : " Univ. Paul Sabatier"
+    },
+    "freeKeywords" : "LoC Class: P221.5, LoC Subject Headings: Phonetics, LoC Subject Headings: Automatic spelling-to-sound conversion",
+    "totalNumberOfPages" : "xxv, 224 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407065",
+    "name" : "http://www.ddl.ish-lyon.cnrs.fr/fulltext/pellegrino/Pellegrino_1998_PhD.pdf",
+    "creationDate" : "2010-04-01T13:53:26.954+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9432-B",
+    "content" : "http://www.ddl.ish-lyon.cnrs.fr/fulltext/pellegrino/Pellegrino_1998_PhD.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "fc19530d29dcf4bc3b0627685da0d40f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ddl.ish-lyon.cnrs.fr/fulltext/pellegrino/Pellegrino_1998_PhD.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407066",
+    "name" : "parole_pellegrino1998_s.pdf",
+    "creationDate" : "2010-04-01T13:53:38.826+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9433-9",
+    "content" : "/rest/items/item_407067_3/component/file_407066/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1052ffebe8bb7fefd60f1d309952cd79",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4409806,
+    "metadata" : {
+      "title" : "parole_pellegrino1998_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4409806
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

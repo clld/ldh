@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_408164",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-08-12T11:00:49.860+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-3101-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz entfernt, link nicht mehr verfügbar",
+  "lastModificationDate" : "2014-08-12T11:00:49.860+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9A45-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:31:10.028+0000",
+  "latestRelease" : {
+    "objectId" : "item_408164",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-12T11:00:49.860+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-3101-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408164",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-12T11:00:49.860+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-3101-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of Atayal",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Der-Hwa Victoria",
+        "familyName" : "Rau",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1992",
+    "datePublishedInPrint" : "2001",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "42424",
+      "type" : "OTHER"
+    }, {
+      "id" : "atayal_rau1992_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PL6163, LoC Subject Headings: Tayal language",
+    "subjects" : [ {
+      "value" : "tay - Atayal",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xv, 283 S.",
+    "abstracts" : [ {
+      "value" : "LoC Subject Headings: Tayal language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_408163",
+    "name" : "atayal_rau1992_o.pdf",
+    "creationDate" : "2010-04-01T14:31:09.195+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9A44-6",
+    "content" : "/rest/items/item_408164_4/component/file_408163/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "78cfa410a3baa93395abdc9c2414dba3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8139086,
+    "metadata" : {
+      "title" : "atayal_rau1992_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8139086,
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

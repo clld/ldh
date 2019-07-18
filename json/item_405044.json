@@ -1,0 +1,149 @@
+{
+  "objectId" : "item_405044",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-02-25T11:32:12.086+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-E30D-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Autor korrigiert",
+  "lastModificationDate" : "2015-02-25T11:32:12.086+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-88FB-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:54:35.196+0000",
+  "latestRelease" : {
+    "objectId" : "item_405044",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-02-25T11:32:12.086+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E30D-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405044",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-02-25T11:32:12.086+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E30D-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Chinook vocabulary : Chinook - English ;  from the original of Rt. Rev. Bishop Durieu, O.M.I., with the Chinook words in phonography",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jean Marie Raphaël",
+        "familyName" : "Le Jeune",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Paul",
+        "familyName" : "Durieu",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1892",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34307#",
+      "type" : "OTHER"
+    }, {
+      "id" : "chinook_durieu1892.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "2nd ed.",
+      "place" : "Kamloops, British Columbia",
+      "publisher" : "[s.n.]"
+    },
+    "freeKeywords" : "LoC Class: PM847,\nLoC Subject Headings: Chinook jargon",
+    "subjects" : [ {
+      "value" : "chn - Chinook jargon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "21 Bl.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM847,\nLoC Subject Headings: Chinook jargon--Glossary, Chinook jargon--Vocabulary"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405043",
+    "name" : "chinook_durieu1892.pdf",
+    "creationDate" : "2010-04-01T12:54:34.988+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-88FA-C",
+    "content" : "/rest/items/item_405044_4/component/file_405043/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "968c127ddc31b3a2bcd2a0f0fdf4a4ce",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1407815,
+    "metadata" : {
+      "title" : "chinook_durieu1892.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1407815,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2104100",
+    "name" : "https://archive.org/details/cihm_15474",
+    "creationDate" : "2015-02-25T11:29:13.474+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/cihm_15474",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "fd6d69159f39be834671e39e4ec176ff",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/cihm_15474",
+      "contentCategory" : "any-fulltext",
+      "description" : "Archive.org: Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

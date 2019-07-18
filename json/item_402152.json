@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_402152",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-08-21T09:49:16.862+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-C19E-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Stichwörter bereinigt",
+  "lastModificationDate" : "2014-08-21T09:49:16.862+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7782-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:26:42.133+0000",
+  "latestRelease" : {
+    "objectId" : "item_402152",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-21T09:49:16.862+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C19E-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402152",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-21T09:49:16.862+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C19E-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Some observations on antecedent-consequent constructions in Japanese : a pragmatic study of Kara and No De",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mari",
+        "familyName" : "Nakamura",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1987",
+    "datePublishedInPrint" : "1987",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29239",
+      "type" : "OTHER"
+    }, {
+      "id" : "japanese_nakawura1987_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Columbus]",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: PL601,\nLoC Subject Headings: Japanese language",
+    "subjects" : [ {
+      "value" : "jpn - Japanese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "X, 79 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL601,\nLoC Subject Headings: Japanese language--Particles"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402151",
+    "name" : "japanese_nakawura1987_o.pdf",
+    "creationDate" : "2010-04-01T11:26:41.882+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7781-1",
+    "content" : "/rest/items/item_402152_4/component/file_402151/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b511390be4baf45f0f7488f39203cb67",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1989509,
+    "metadata" : {
+      "title" : "japanese_nakawura1987_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1989509
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2033904",
+    "name" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1116616037",
+    "creationDate" : "2014-06-18T11:13:07.231+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1116616037",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c3b94681fbb938905c7e604528a0aec3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1116616037",
+      "contentCategory" : "publisher-version",
+      "description" : "OhioLINK, Electronic Theses & Dissertations Center, pdf",
+      "size" : 0
+    }
+  } ]
+}

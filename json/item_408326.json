@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_408326",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T21:46:02.617+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7064-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:46:02.617+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9B2A-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:34:42.391+0000",
+  "latestRelease" : {
+    "objectId" : "item_408326",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T21:46:02.617+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7064-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408326",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T21:46:02.617+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7064-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulario sáliba-español, español-sáliba",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Benaissa, Taik",
+        "givenName" : "Taik",
+        "familyName" : "Benaissa",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1991",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "42974",
+      "type" : "OTHER"
+    }, {
+      "id" : "saliba_benaissa1995_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "958-21-0066-4",
+      "type" : "ISBN"
+    } ],
+    "publishingInfo" : {
+      "edition" : "1 a. ed.",
+      "place" : "Lomalinda, Meta, República de Colombia",
+      "publisher" : "Editorial Alberto Lleras Camargo"
+    },
+    "freeKeywords" : "LoC Class: PM7031.Z5, LoC Subject Headings: Saliva language --Dictionaries --Spanish, LoC Subject Headings: Spanish language --Dictionaries --Saliva",
+    "subjects" : [ {
+      "value" : "sbe - Saliba",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 97 p."
+  },
+  "files" : [ {
+    "objectId" : "file_408324",
+    "name" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=27582",
+    "creationDate" : "2010-04-01T14:34:41.763+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=27582",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "51c121a01070747065797677932100e7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=27582",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408325",
+    "name" : "saliba_benaissa1995_o.pdf",
+    "creationDate" : "2010-04-01T14:34:41.987+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9B29-B",
+    "content" : "/rest/items/item_408326_4/component/file_408325/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ce6d5c145e84c4002a0df79fa4992b66",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3672966,
+    "metadata" : {
+      "title" : "saliba_benaissa1995_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3672966
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

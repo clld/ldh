@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_402602",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:27:25.142+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7A0A-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:27:25.142+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7A0A-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:34:52.090+0000",
+  "latestRelease" : {
+    "objectId" : "item_402602",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:27:25.142+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7A0A-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402602",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:27:25.142+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7A0A-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Die Maqamen des Hariri in tabarischer Übersetzung (I-VIII) nach einer Teheraner Handschrift (Bibliothek Malek,ms. 2487)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Bahar",
+        "familyName" : "Mokhtarian",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30034",
+      "type" : "OTHER"
+    }, {
+      "id" : "tabarisch_mokhtarian2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Tübingen",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PK6996.M39,\nLoC Subject Headings: Mazandarani language",
+    "subjects" : [ {
+      "value" : "mzn - Mazanderani",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "167 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402600",
+    "name" : "http://w210.ub.uni-tuebingen.de/dbt/volltexte/2005/1676/pdf/Maqamat_i_Hariri_(tabarische_Mundart).pdf",
+    "creationDate" : "2010-04-01T11:34:51.507+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A08-C",
+    "content" : "http://w210.ub.uni-tuebingen.de/dbt/volltexte/2005/1676/pdf/Maqamat_i_Hariri_(tabarische_Mundart).pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d555085b0f6b36c480d3cd37549ed6b8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://w210.ub.uni-tuebingen.de/dbt/volltexte/2005/1676/pdf/Maqamat_i_Hariri_(tabarische_Mundart).pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402601",
+    "name" : "tabarisch_mokhtarian2004_s.pdf",
+    "creationDate" : "2010-04-01T11:34:51.922+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A09-A",
+    "content" : "/rest/items/item_402602_2/component/file_402601/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f6495c2ce52546758e0163f46f323758",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1019242,
+    "metadata" : {
+      "title" : "tabarisch_mokhtarian2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1019242
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

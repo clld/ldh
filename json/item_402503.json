@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_402503",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-01-30T11:37:47.148+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-ABDB-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-01-30T11:37:47.148+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7981-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:32:38.940+0000",
+  "latestRelease" : {
+    "objectId" : "item_402503",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-30T11:37:47.148+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-ABDB-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402503",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-30T11:37:47.148+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-ABDB-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "\"Ruhrdeutsch\" - die Sprache des Ruhrgebiets in einer umfassenden Analyse",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Anne Katrin",
+        "familyName" : "Becker",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29974",
+      "type" : "OTHER"
+    }, {
+      "id" : "ruhrdeutsch_becker2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "place" : "Freiburg (Breisgau)",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PF5429.R8,\nLoC Subject Headings: German language",
+    "subjects" : [ {
+      "value" : "deu - German",
+      "type" : "ISO639_3"
+    } ],
+    "abstracts" : [ {
+      "value" : "LoC Class: PF5429.R8,\nLoC Subject Headings: German language--Dialects--Germany--Ruhr Region--Glossaries, vocabularies, etc."
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402501",
+    "name" : "http://www.freidok.uni-freiburg.de/volltexte/703/pdf/diss_aktuell_ohne.pdf",
+    "creationDate" : "2010-04-01T11:32:37.753+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-797F-A",
+    "content" : "http://www.freidok.uni-freiburg.de/volltexte/703/pdf/diss_aktuell_ohne.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6106c8ae7dc5cd2296d356d1cc70a0c1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.freidok.uni-freiburg.de/volltexte/703/pdf/diss_aktuell_ohne.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402502",
+    "name" : "ruhrdeutsch_becker2003_s.pdf",
+    "creationDate" : "2010-04-01T11:32:38.564+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7980-4",
+    "content" : "/rest/items/item_402503_3/component/file_402502/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "74585e65bf5475d0d21a0c0387e0d379",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3044047,
+    "metadata" : {
+      "title" : "ruhrdeutsch_becker2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3044047
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

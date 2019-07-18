@@ -1,0 +1,113 @@
+{
+  "objectId" : "item_2326768",
+  "versionNumber" : 8,
+  "modificationDate" : "2017-10-02T08:36:03.053+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-002D-FC77-6",
+  "modifier" : {
+    "objectId" : "user_2073577"
+  },
+  "lastModificationDate" : "2017-10-02T08:36:03.053+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-002B-1745-A",
+  "creator" : {
+    "objectId" : "user_2073577"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2016-08-03T08:13:29.334+0000",
+  "latestRelease" : {
+    "objectId" : "item_2326768",
+    "versionNumber" : 8,
+    "modificationDate" : "2017-10-02T08:36:03.053+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002D-FC77-6",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2326768",
+    "versionNumber" : 8,
+    "modificationDate" : "2017-10-02T08:36:03.053+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002D-FC77-6",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "A Grammar of Yorno So (Toro So subgroup of Dogon, Mali)\n",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jeffrey",
+        "familyName" : "Heath",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "University of Michigan",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ],
+        "identifier" : {
+          "id" : "/persons/resource/persons202070",
+          "type" : "CONE"
+        }
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedOnline" : "2017-09",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "10.17617/2.2326768",
+      "type" : "DOI"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Ann Arbor]",
+      "publisher" : "Univ. of Michigan"
+    },
+    "freeKeywords" : "LoC Class: PL8139.1, LoC Subject Headings: Dogon language",
+    "subjects" : [ {
+      "value" : "dym - Yanda Dom Dogon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "473"
+  },
+  "files" : [ {
+    "objectId" : "file_2483732",
+    "name" : "Heath Yorno So grammar & texts 2017.pdf",
+    "creationDate" : "2017-10-02T07:27:31.800+0000",
+    "creator" : {
+      "objectId" : "user_2073577"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-002D-FC59-A",
+    "content" : "/rest/items/item_2326768_8/component/file_2483732/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b6b915bb34a718a75521637c21ebde4d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2402666,
+    "metadata" : {
+      "title" : "Heath Yorno So grammar & texts 2017.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2402666,
+      "license" : "http://creativecommons.org/licenses/by/4.0/"
+    }
+  } ]
+}

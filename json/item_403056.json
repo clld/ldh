@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_403056",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-13T02:18:28.531+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7264-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:18:28.531+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7CCE-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:52:30.714+0000",
+  "latestRelease" : {
+    "objectId" : "item_403056",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T02:18:28.531+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7264-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403056",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T02:18:28.531+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7264-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Towards a theory of phonological alphabets",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Andrea",
+        "familyName" : "Calabrese",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1988",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30914",
+      "type" : "OTHER"
+    }, {
+      "id" : "alphabets_calabrese1988_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Institute of Technology"
+    },
+    "freeKeywords" : "LoC Class: P227, LoC Subject Headings: Phonetic alphabet, LoC Subject Headings: Grammar/Comparative and general--Phonology",
+    "totalNumberOfPages" : "477 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403055",
+    "name" : "alphabets_calabrese1988_o.pdf",
+    "creationDate" : "2010-04-01T11:52:28.388+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7CCD-2",
+    "content" : "/rest/items/item_403056_5/component/file_403055/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e15cdd2f1d95eb1026d44609841cce66",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 24506833,
+    "metadata" : {
+      "title" : "alphabets_calabrese1988_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 24506833
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110900",
+    "name" : "http://hdl.handle.net/1721.1/14404",
+    "creationDate" : "2015-03-11T10:50:59.374+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/14404",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "597d4c604cb7dade923687f8c74fd5b4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/14404",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

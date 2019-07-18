@@ -1,0 +1,114 @@
+{
+  "objectId" : "item_2378134",
+  "versionNumber" : 5,
+  "modificationDate" : "2017-02-20T08:15:26.404+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-002C-7B6A-1",
+  "modifier" : {
+    "objectId" : "user_2073577"
+  },
+  "lastModificationDate" : "2017-02-20T08:15:26.404+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-002C-2E5D-6",
+  "creator" : {
+    "objectId" : "user_2073577"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2017-01-03T09:52:34.273+0000",
+  "latestRelease" : {
+    "objectId" : "item_2378134",
+    "versionNumber" : 5,
+    "modificationDate" : "2017-02-20T08:15:26.404+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002C-7B6A-1",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2378134",
+    "versionNumber" : 5,
+    "modificationDate" : "2017-02-20T08:15:26.404+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002C-7B6A-1",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "A grammar of Penange (Dogon, Mali)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jeffrey",
+        "familyName" : "Heath",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "University of Michigan",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ],
+        "identifier" : {
+          "id" : "/persons/resource/persons202070",
+          "type" : "CONE"
+        }
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedOnline" : "2016-09",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "10.17617/2.2378134",
+      "type" : "DOI"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Ann Arbor",
+      "publisher" : "Univ. of Michigan"
+    },
+    "freeKeywords" : "LoC Class: PL8139.1, LoC Subject Headings: Dogon language",
+    "subjects" : [ {
+      "value" : "dbg - Dogul Dom Dogon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "342"
+  },
+  "files" : [ {
+    "objectId" : "file_2378133",
+    "name" : "Heath_Penange_grammar 2016.pdf",
+    "creationDate" : "2017-01-03T09:52:33.431+0000",
+    "creator" : {
+      "objectId" : "user_2073577"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-002C-2E5F-2",
+    "content" : "/rest/items/item_2378134_5/component/file_2378133/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "82535a6b606cb1ebe341f7903534c6f8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 59656165,
+    "metadata" : {
+      "title" : "Heath_Penange_grammar 2016.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 59656165,
+      "rights" : "©by the author ",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

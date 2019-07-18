@@ -1,0 +1,147 @@
+{
+  "objectId" : "item_408142",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-01-23T13:28:16.782+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-A241-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2015-01-23T13:28:16.782+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9A1E-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:30:49.444+0000",
+  "latestRelease" : {
+    "objectId" : "item_408142",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-01-23T13:28:16.782+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A241-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408142",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-01-23T13:28:16.782+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A241-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The Mutsun dialect of Costanoan based on the vocabulary of De la Cuesta",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "John Alden",
+        "familyName" : "Mason",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Felipe",
+        "familyName" : "de la Arroya Cuesta"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1916",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "42413",
+      "type" : "OTHER"
+    }, {
+      "id" : "mutsun_mason1916_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Univ. of California Publications in American Archaeology and Ethnology ",
+      "volume" : "11",
+      "issue" : "7",
+      "startPage" : "399",
+      "endPage" : "472",
+      "publishingInfo" : {
+        "place" : "Berkeley",
+        "publisher" : "Univ. Press"
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM1976,\nLoC Subject Headings: Mutsun dialect",
+    "subjects" : [ {
+      "value" : "css - Southern Ohlone",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "74 S."
+  },
+  "files" : [ {
+    "objectId" : "file_408140",
+    "name" : "http://www.archive.org/details/mutsundialectofc00masorich",
+    "creationDate" : "2010-04-01T14:30:47.137+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.archive.org/details/mutsundialectofc00masorich",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b9092bdd17c145690e4f81ce414511eb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/mutsundialectofc00masorich",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, view online & pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408141",
+    "name" : "mutsun_mason1916_o.pdf",
+    "creationDate" : "2010-04-01T14:30:48.569+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9A1D-F",
+    "content" : "/rest/items/item_408142_5/component/file_408141/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3c8243fb70ead7bc52722c5d714fce8f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8266866,
+    "metadata" : {
+      "title" : "mutsun_mason1916_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8266866,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

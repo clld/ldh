@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_406863",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-08-04T10:49:59.920+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-1C12-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-08-04T10:49:59.920+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-92F9-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:48:42.754+0000",
+  "latestRelease" : {
+    "objectId" : "item_406863",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-04T10:49:59.920+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1C12-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406863",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-04T10:49:59.920+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1C12-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Descrição preliminar de aspectos da fonologia e da morfologia do lembaama",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Bruno",
+        "familyName" : "Okoudowa",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37475",
+      "type" : "OTHER"
+    }, {
+      "id" : "lembaama_okoudowa2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "place" : "Sao Paulo",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL8376.K451,\nLoC Subject Headings: Kela language",
+    "subjects" : [ {
+      "value" : "kel - Kela",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "111 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8376.K451,\nLoC Subject Headings: Kela language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406862",
+    "name" : "lembaama_okoudowa2005_s.pdf",
+    "creationDate" : "2010-04-01T13:48:42.633+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-92F8-E",
+    "content" : "/rest/items/item_406863_3/component/file_406862/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f03f52ed2b1c470244c41923dc61492d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 461027,
+    "metadata" : {
+      "title" : "lembaama_okoudowa2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 461027
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2048107",
+    "name" : "http://www.teses.usp.br/teses/disponiveis/8/8139/tde-11032008-121559",
+    "creationDate" : "2014-08-04T10:46:18.186+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-1C1D-2",
+    "content" : "http://www.teses.usp.br/teses/disponiveis/8/8139/tde-11032008-121559",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b6e15ae1c2d158a73d798cc2ff1ecb86",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.teses.usp.br/teses/disponiveis/8/8139/tde-11032008-121559",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. de São Paulo, Biblioteca Digital, pdf",
+      "size" : 0
+    }
+  } ]
+}

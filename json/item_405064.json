@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_405064",
+  "versionNumber" : 5,
+  "modificationDate" : "2014-07-03T10:04:28.699+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-D979-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Rechtschreibfehler Titel korrigiert",
+  "lastModificationDate" : "2014-07-03T10:04:28.699+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-890F-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:54:46.783+0000",
+  "latestRelease" : {
+    "objectId" : "item_405064",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-07-03T10:04:28.699+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D979-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405064",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-07-03T10:04:28.699+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D979-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Morfología del verbo de la lengua chol de Tila, Chiapas",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Juan Jesús",
+        "familyName" : "Vázquez Alvarez",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34327",
+      "type" : "OTHER"
+    }, {
+      "id" : "choldetila_alvarez2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "place" : "Mexico, D.F.",
+      "publisher" : "Centro de Investigaciones y Estudios Superiores en AntropologÌa Social "
+    },
+    "freeKeywords" : "LoC Class: PM3649,\nLoC Subject Headings: Chol language",
+    "subjects" : [ {
+      "value" : "cti - Chol, Tila",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XXII, 387"
+  },
+  "files" : [ {
+    "objectId" : "file_405063",
+    "name" : "choldetila_alvarez2002_s.pdf",
+    "creationDate" : "2010-04-01T12:54:46.582+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-890E-7",
+    "content" : "/rest/items/item_405064_5/component/file_405063/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e9ad3c2f62fb4a39a524be418e395f2b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1140473,
+    "metadata" : {
+      "title" : "choldetila_alvarez2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1140473
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2036813",
+    "name" : "http://anthroweb.ucsd.edu/~jhaviland/ArchiveHTML/Chol/JJesus/JJesusTesis.htm",
+    "creationDate" : "2014-07-03T10:00:59.272+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-D978-2",
+    "content" : "http://anthroweb.ucsd.edu/~jhaviland/ArchiveHTML/Chol/JJesus/JJesusTesis.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6f2e54ddb152554ec4e128288bfe63cb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://anthroweb.ucsd.edu/~jhaviland/ArchiveHTML/Chol/JJesus/JJesusTesis.htm",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. of California San Diego, Anthropology, pdfs",
+      "size" : 0
+    }
+  } ]
+}

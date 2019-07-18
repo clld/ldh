@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_405626",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T20:37:59.019+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FD8-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:37:59.019+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8C28-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:16:30.067+0000",
+  "latestRelease" : {
+    "objectId" : "item_405626",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:37:59.019+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FD8-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405626",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:37:59.019+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FD8-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Linguistic variation and sociological consciousness",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Robin M.",
+        "familyName" : "Dodsworth",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35131",
+      "type" : "OTHER"
+    }, {
+      "id" : "variation_dodsworth2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Columbus]",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: P120.V37, LoC Subject Headings: Sociolinguistics, LoC Subject Headings: Language and languages--Variation, LoC Subject Headings: English language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XVI, 244 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: P120.V37,\nLoC Subject Headings: Sociolinguistics, Language and languages--Variation, English language--Spoken English--Ohio--Worthington, English language--Social aspects--Ohio--Worthington"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405625",
+    "name" : "variation_dodsworth2005_s.pdf",
+    "creationDate" : "2010-04-01T13:16:29.823+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C27-8",
+    "content" : "/rest/items/item_405626_4/component/file_405625/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a6c48227ba78c5c5b5a12ddd5dac6c9e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1681954,
+    "metadata" : {
+      "title" : "variation_dodsworth2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1681954
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2039557",
+    "name" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1123115802",
+    "creationDate" : "2014-07-08T12:13:02.467+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1123115802",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "413e96cbf17c335c72c8ef0152afc0e5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1123115802",
+      "contentCategory" : "any-fulltext",
+      "description" : "OhioLINK, Electronic Theses & Dissertations Center, pdf",
+      "size" : 0
+    }
+  } ]
+}

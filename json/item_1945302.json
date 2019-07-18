@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_1945302",
+  "versionNumber" : 2,
+  "modificationDate" : "2015-01-16T10:59:22.322+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-9222-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-01-16T10:59:22.322+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0015-8C3A-3",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-03-13T07:44:26.673+0000",
+  "latestRelease" : {
+    "objectId" : "item_1945302",
+    "versionNumber" : 2,
+    "modificationDate" : "2015-01-16T10:59:22.322+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-9222-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_1945302",
+    "versionNumber" : 2,
+    "modificationDate" : "2015-01-16T10:59:22.322+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-9222-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Historical and statistical Information, respecting the History, Condition and Prospects of the Indian Tribes of the United States [Volume 4] : coll. and prepared under the direction of the Bureau of Indian Affairs per act of Congress of march 3rd 1847 ",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Henry Rowe",
+        "familyName" : "Schoolcraft",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1854",
+    "genre" : "MONOGRAPH",
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Philadelphia",
+      "publisher" : "Lippincott"
+    },
+    "freeKeywords" : "LoC Subject Headings: Indians of North America, LoC Subject Headings: Ojibwa language, LoC Subject Headings: Iowa language\nLoC Class: E77",
+    "subjects" : [ {
+      "value" : "oji - Ojibwa",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "ciw - Chippewa",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "iow - Iowa-Oto",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "667 S., 41 Bl. : Ill., Kt. ",
+    "abstracts" : [ {
+      "value" : "Chapter IX Language (p. 371-435): Includes several articles about Indian Languages, e.g. Chippewa Tongue (p. 385-396), Iowa Language (p. 397- 406)  and vocabulary lists of languages of California (p. 406-432)"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_1945300",
+    "name" : "indiantribes_schoolcraft1854_vol4_s.pdf",
+    "creationDate" : "2014-03-13T07:44:20.905+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0015-8C3E-C",
+    "content" : "/rest/items/item_1945302_2/component/file_1945300/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "caba6d5d431b918b70fb6b1974b95060",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 395956552,
+    "metadata" : {
+      "title" : "indiantribes_schoolcraft1854_vol4_s.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Vol. 4",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 395956552,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_1945301",
+    "name" : "http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10220587_00001.html",
+    "creationDate" : "2014-03-13T07:44:26.384+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10220587_00001.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c92100d3e48f27ecbe025b427fd61079",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10220587_00001.html",
+      "contentCategory" : "publisher-version",
+      "description" : "Vol. 4",
+      "size" : 0
+    }
+  } ]
+}

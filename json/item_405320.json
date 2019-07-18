@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_405320",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-05-05T07:16:25.518+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C686-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-05T07:16:25.518+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8A74-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:07:15.319+0000",
+  "latestRelease" : {
+    "objectId" : "item_405320",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-05-05T07:16:25.518+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C686-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405320",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-05-05T07:16:25.518+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C686-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Contributions to the ethnography and philology of the Indian tribes of the Missouri Valley",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ferdinand Vandeveer",
+        "familyName" : "Hayden",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "William F.",
+        "familyName" : "Raynolds"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1862",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34537",
+      "type" : "OTHER"
+    }, {
+      "id" : "missouri_hayden1862_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Philadelphia",
+      "publisher" : "Sherman"
+    },
+    "freeKeywords" : "LoC Class: E78.M82, LoC Subject Headings: Indians of North America--Missouri River Valley",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "2 p. l., [231]-461 p. 2 pl",
+    "abstracts" : [ {
+      "value" : "LoC Class: E78.M82,\nLoC Subject Headings: Indians of North America--Missouri River Valley, Indians of North America--Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405319",
+    "name" : "missouri_hayden1862_o.pdf",
+    "creationDate" : "2010-04-01T13:07:13.155+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A73-8",
+    "content" : "/rest/items/item_405320_6/component/file_405319/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ba0dd25c524d00413e00b502c452aa52",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 22879835,
+    "metadata" : {
+      "title" : "missouri_hayden1862_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 22879835,
+      "rights" : "Not in Copyright, public domain"
+    }
+  }, {
+    "objectId" : "file_2039422",
+    "name" : "https://archive.org/details/contributionstoe00haydrich",
+    "creationDate" : "2014-07-08T09:02:58.068+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/contributionstoe00haydrich",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1618b575269da946f7b4246a0828d701",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/contributionstoe00haydrich",
+      "contentCategory" : "publisher-version",
+      "description" : "archive.org, California Digital Library, pdf",
+      "size" : 0
+    }
+  } ]
+}

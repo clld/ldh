@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_408229",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T22:34:41.905+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70B1-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T22:34:41.905+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9AA4-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:32:35.227+0000",
+  "latestRelease" : {
+    "objectId" : "item_408229",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T22:34:41.905+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70B1-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408229",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T22:34:41.905+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70B1-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario Náhuatl : de los municipios de Mecayapan y Tatahuicapan de Juárez, Veracruz",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Wolgemuth",
+        "familyName" : "Walters",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2000",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "42726",
+      "type" : "OTHER"
+    }, {
+      "id" : "nahuatl_wolgemuth2002a_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Coyoacán, México",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "freeKeywords" : "LoC Class: PM4068, LoC Subject Headings: Nahuatl language -- Dictionaries -- Spanish, LoC Subject Headings: Spanish language -- Dictionaries -- Nahuatl, LoC Subject Headings: Nahuatl language -- Dialects -- Mexico -- Tatahuicapan de Juárez -- Dictionaries, LoC Subject Headings: Nahuatl language -- Mexico -- Veracruz-Llave (State) -- Dictionaries -- Spanish, LoC Subject Headings: Nahuatl language -- Mexico -- Tatahuicapan de Juárez -- Dictionaries -- Spanish, LoC Subject Headings: Nahuatl language -- Dialects -- Mexico -- Mecayapan -- Dictionaries, LoC Subject Headings: Nahuatl language -- Dialects -- Mexico -- Veracruz-Llave (State) -- Dictionaries, LoC Subject Headings: Nahuatl language -- Mexico -- Mecayapan -- Dictionaries -- Spanish",
+    "subjects" : [ {
+      "value" : "nhx - Nahuatl, Isthmus-Mecayapan",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxi, 285 S."
+  },
+  "files" : [ {
+    "objectId" : "file_408227",
+    "name" : "http://www.sil.org/mexico/nahuatl/istmo/G020a-DiccNahIst-NAU.htm",
+    "creationDate" : "2010-04-01T14:32:34.710+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/mexico/nahuatl/istmo/G020a-DiccNahIst-NAU.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "fc0c7ded9efabf8b67e1fb7e7d2534b4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/mexico/nahuatl/istmo/G020a-DiccNahIst-NAU.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408228",
+    "name" : "nahuatl_wolgemuth2002a_s.pdf",
+    "creationDate" : "2010-04-01T14:32:34.889+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9AA3-1",
+    "content" : "/rest/items/item_408229_3/component/file_408228/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "bb3223336568836220c3ec06a035ae35",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2770774,
+    "metadata" : {
+      "title" : "nahuatl_wolgemuth2002a_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2770774
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

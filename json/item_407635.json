@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_407635",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T07:29:31.164+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA27-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T07:29:31.164+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9745-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:17:19.128+0000",
+  "latestRelease" : {
+    "objectId" : "item_407635",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T07:29:31.164+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA27-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407635",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T07:29:31.164+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA27-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Bibliografia das línguas Macro-Jê",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Wilmar da Rocha d'",
+        "familyName" : "Angelis",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Carla Maria",
+        "familyName" : "Cunha"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2002",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "40460",
+      "type" : "OTHER"
+    }, {
+      "id" : "macro-je_angelis2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : "UNICAMP"
+    },
+    "freeKeywords" : "LoC Class: PM7108, LoC Subject Headings: Ge languages",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "101 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM7108, LoC Subject Headings: Gê languages -- Bibliography, LoC Subject Headings: Indians of South America -- Brazil -- Languages -- Bibliography"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407633",
+    "name" : "http://biblio.etnolinguistica.org/dangelis_2002_bibliografia",
+    "creationDate" : "2010-04-01T14:17:17.797+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://biblio.etnolinguistica.org/dangelis_2002_bibliografia",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a72582f78395d482da3c645eea14133c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://biblio.etnolinguistica.org/dangelis_2002_bibliografia",
+      "contentCategory" : "publisher-version",
+      "description" : "Etnolinguistica.org, Acesso, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407634",
+    "name" : "macro-je_angelis2002_s.pdf",
+    "creationDate" : "2010-04-01T14:17:18.752+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9744-B",
+    "content" : "/rest/items/item_407635_4/component/file_407634/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fa5040389edba75d4e040615dbda7f6d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3220218,
+    "metadata" : {
+      "title" : "macro-je_angelis2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3220218
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

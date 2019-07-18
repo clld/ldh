@@ -1,0 +1,145 @@
+{
+  "objectId" : "item_406312",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-12T19:46:42.009+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F65-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:46:42.009+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8FF7-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:35:23.777+0000",
+  "latestRelease" : {
+    "objectId" : "item_406312",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T19:46:42.009+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F65-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406312",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T19:46:42.009+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F65-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Verb-object dependencies in Hungarian and English : a DRT-based account",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ágnes",
+        "familyName" : "Bende-Farkas",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36685",
+      "type" : "OTHER"
+    }, {
+      "id" : "hungarian_bendefarkas2001.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "urn:nbn:de:bsz:93-opus-16607",
+      "type" : "URN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Stuttgart",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: P162, LoC Subject Headings: Hungarian language, LoC Subject Headings: English language",
+    "subjects" : [ {
+      "value" : "hun - Hungarian",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "255 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: P162, LoC Subject Headings: Hungarian language--Dependency grammar, English language--Dependency grammar "
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406311",
+    "name" : "hungarian_bendefarkas2001.pdf",
+    "creationDate" : "2010-04-01T13:35:23.328+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8FF6-D",
+    "content" : "/rest/items/item_406312_5/component/file_406311/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "431d5deabefc6ea212ab4b31f1cff0bb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2180249,
+    "metadata" : {
+      "title" : "hungarian_bendefarkas2001.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2180249
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2043595",
+    "name" : "http://elib.uni-stuttgart.de/opus/volltexte/2004/1660/",
+    "creationDate" : "2014-07-22T09:23:24.788+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-FB2B-D",
+    "content" : "http://elib.uni-stuttgart.de/opus/volltexte/2004/1660/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "366ea57c67ad5cb8edf3027921d1ea50",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://elib.uni-stuttgart.de/opus/volltexte/2004/1660/",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. Stuttgart, institutional repository, pdf",
+      "size" : 0
+    }
+  } ]
+}

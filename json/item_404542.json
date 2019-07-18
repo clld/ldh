@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_404542",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-12-18T12:29:45.718+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-5CF2-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-18T12:29:45.718+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8618-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:43:19.916+0000",
+  "latestRelease" : {
+    "objectId" : "item_404542",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-18T12:29:45.718+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5CF2-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404542",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-18T12:29:45.718+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5CF2-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Catecismo y declaración de la doctrina cristiana en lengua otomí : con un vocabulario del mismo idioma",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Hernando",
+        "familyName" : "López Yepes",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1826",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "33401",
+      "type" : "OTHER"
+    }, {
+      "id" : "otomi_yepes1826_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Mégico",
+      "publisher" : "Valdés"
+    },
+    "freeKeywords" : "LoC Class: PM4149,\nLoC Subject Headings: Otomi language",
+    "subjects" : [ {
+      "value" : "ote - Mezquital Otomi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "254 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM4149,\nLoC Subject Headings: Catholic Church--Catechisms--Otomí, Otomi language--Texts, Spanish language--Dictionaries--Otomí"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404541",
+    "name" : "otomi_yepes1826_o.pdf",
+    "creationDate" : "2010-04-01T12:43:18.278+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8617-7",
+    "content" : "/rest/items/item_404542_3/component/file_404541/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ea3093534ab9c6b66cf53a12d0ca8d17",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 15826940,
+    "metadata" : {
+      "title" : "otomi_yepes1826_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 15826940,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2079549",
+    "name" : "https://archive.org/details/catecismoydecla00yepegoog",
+    "creationDate" : "2014-12-18T12:29:06.648+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/catecismoydecla00yepegoog",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f5505b973c068e3d04905ca04c7588dc",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/catecismoydecla00yepegoog",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org",
+      "size" : 0
+    }
+  } ]
+}

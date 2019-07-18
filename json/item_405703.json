@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_405703",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-10T06:49:42.149+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-E407-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Refernz aktualisiert",
+  "lastModificationDate" : "2014-07-10T06:49:42.149+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8C9B-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:18:55.645+0000",
+  "latestRelease" : {
+    "objectId" : "item_405703",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-10T06:49:42.149+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-E407-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405703",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-10T06:49:42.149+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-E407-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Chinese morphology and its interface with the syntax",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Xiang-ling",
+        "familyName" : "Dai",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1992",
+    "datePublishedInPrint" : "1992",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35307",
+      "type" : "OTHER"
+    }, {
+      "id" : "chinese_dai1993_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: PL1230,\nLoC Subject Headings: Chinese language",
+    "totalNumberOfPages" : "IX, 294 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL1230,\nLoC Subject Headings: Chinese language--Syntax, Chinese language--Morphosyntax, Chinese language--Morphology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405702",
+    "name" : "chinese_dai1993_o.pdf",
+    "creationDate" : "2010-04-01T13:18:54.806+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C9A-8",
+    "content" : "/rest/items/item_405703_3/component/file_405702/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6eb8fc7869974aa9b2d3404b0fa685bd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8475302,
+    "metadata" : {
+      "title" : "chinese_dai1993_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8475302
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2039797",
+    "name" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1218131835",
+    "creationDate" : "2014-07-10T06:45:26.512+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-E409-3",
+    "content" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1218131835",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "56856389e3a3555764324953edee1326",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1218131835",
+      "contentCategory" : "any-fulltext",
+      "description" : "OhioLINK, Electronic Theses & Dissertations Center, pdf",
+      "size" : 0
+    }
+  } ]
+}

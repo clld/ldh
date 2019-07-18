@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_402480",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T18:12:46.836+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6EAA-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T18:12:46.836+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7960-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:32:18.725+0000",
+  "latestRelease" : {
+    "objectId" : "item_402480",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:12:46.836+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EAA-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402480",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:12:46.836+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EAA-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Morphologie, Syntax und Textstrukturen des (Maya-)Quiche des Popol Vuh : linguistische Beschreibung eines kolonialzeitlichen Dokuments aus dem Hochland von Guatemala",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Dürr, Michael",
+        "givenName" : "Michael",
+        "familyName" : "Dürr",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1986",
+    "datePublishedInPrint" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29964",
+      "type" : "OTHER"
+    }, {
+      "id" : "quiche_duerr2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "edition" : "Durchges. und korr. elektr. Neuausg.",
+      "place" : "Zugl.: Berlin",
+      "publisher" : " Freie Univ."
+    },
+    "freeKeywords" : "LoC Class: PM4231.Z6, LoC Subject Headings: Popol vuh, LoC Subject Headings: Quiché language--Grammar, LoC Subject Headings: Quiché language--Discourse analysis",
+    "subjects" : [ {
+      "value" : "qut - Kiche, West Central",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XII, 380 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402478",
+    "name" : "http://home.snafu.de/duerr/PDF_Doku/Diss_Duerr.pdf",
+    "creationDate" : "2010-04-01T11:32:16.698+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://home.snafu.de/duerr/PDF_Doku/Diss_Duerr.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://home.snafu.de/duerr/PDF_Doku/Diss_Duerr.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402479",
+    "name" : "quiche_duerr2003_s.pdf",
+    "creationDate" : "2010-04-01T11:32:18.427+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-795F-1",
+    "content" : "/rest/items/item_402480_3/component/file_402479/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "557a521e8f37e6cf59be5cb6e8cb79c1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2692940,
+    "metadata" : {
+      "title" : "quiche_duerr2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2692940
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

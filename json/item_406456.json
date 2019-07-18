@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_406456",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-30T09:24:19.209+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C544-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-30T09:24:19.209+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-90BB-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:38:34.854+0000",
+  "latestRelease" : {
+    "objectId" : "item_406456",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-30T09:24:19.209+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C544-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406456",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-30T09:24:19.209+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C544-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "An amerind etymological dictionary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Joseph H.",
+        "familyName" : "Greenberg",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Merrit",
+        "familyName" : "Ruhlen"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2007",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "36964",
+      "type" : "OTHER"
+    }, {
+      "id" : "amerind_greenberg2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Stanford",
+      "publisher" : "Stanford Univ."
+    },
+    "freeKeywords" : "LoC Class: PM136, LoC Subject Headings: Indians--Languages",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "305 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406454",
+    "name" : "http://starling.rinet.ru/Texts/Ruhlen_AED5.pdf",
+    "creationDate" : "2010-04-01T13:38:17.476+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://starling.rinet.ru/Texts/Ruhlen_AED5.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "09f32797ffa4d507cc3e7f77c718e027",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://starling.rinet.ru/Texts/Ruhlen_AED5.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "The Tower of Babel, An Etymological Database Project, Copyright  2006-2013 George Starostin, direct link to pdf version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406455",
+    "name" : "amerind_greenberg2007_s.pdf",
+    "creationDate" : "2010-04-01T13:38:33.932+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-90BA-E",
+    "content" : "/rest/items/item_406456_4/component/file_406455/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "22664af185a3a8cbf076baa14a0423b9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9259434,
+    "metadata" : {
+      "title" : "amerind_greenberg2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9259434,
+      "copyrightDate" : "2010-10-21",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

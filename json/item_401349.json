@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_401349",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T08:20:56.155+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA67-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T08:20:56.155+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-72D8-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:10:31.155+0000",
+  "latestRelease" : {
+    "objectId" : "item_401349",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:20:56.155+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA67-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401349",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:20:56.155+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA67-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Linguistic complexity : the influence of social change on verbal inflection",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Christiaan Wouter",
+        "familyName" : "Kusters",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "26373",
+      "type" : "OTHER"
+    }, {
+      "id" : "complexity_kusters2003_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "90-76864-41-1",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "sources" : [ {
+      "title" : "LOT Dissertation Series",
+      "volume" : "77",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P259, LoC Subject Headings: Grammar/Comparative and general--Inflection, LoC Subject Headings: Grammar/Comparative and general--Verb, LoC Subject Headings: Linguistic change, LoC Subject Headings: Languages in contact, LoC Subject Headings: Optimality theory (Linguistics)",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "411 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401348",
+    "name" : "complexity_kusters2003_s.pdf",
+    "creationDate" : "2010-04-01T11:10:30.806+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-72D7-B",
+    "content" : "/rest/items/item_401349_4/component/file_401348/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1dd2485d1eeb8632f0b042c1a793488d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2917722,
+    "metadata" : {
+      "title" : "complexity_kusters2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2917722
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147295",
+    "name" : "http://www.lotpublications.nl/linguistic-complexity-linguistic-complexity",
+    "creationDate" : "2015-04-21T08:20:32.495+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.lotpublications.nl/linguistic-complexity-linguistic-complexity",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "064a1848673e46e9f8c7e07c2c59b9a4",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lotpublications.nl/linguistic-complexity-linguistic-complexity",
+      "contentCategory" : "publisher-version",
+      "description" : "LOT Publications, open access, pdf download",
+      "size" : 0
+    }
+  } ]
+}

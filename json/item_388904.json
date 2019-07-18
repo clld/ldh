@@ -1,0 +1,144 @@
+{
+  "objectId" : "item_388904",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-04-24T12:00:05.747+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C044-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-24T12:00:05.747+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-69A9-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-03-19T12:29:05.636+0000",
+  "latestRelease" : {
+    "objectId" : "item_388904",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-24T12:00:05.747+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C044-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_388904",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-24T12:00:05.747+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C044-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "A frequentist explanation of some universals of reflexive marking ",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Martin",
+        "familyName" : "Haspelmath",
+        "organizations" : [ {
+          "identifier" : "ou_38005",
+          "name" : "Department of Linguistics, Max Planck Institute for Evolutionary Anthropology, Max Planck Society",
+          "identifierPath" : [ "ou_38005", "ou_38004", "ou_persistent13" ]
+        } ],
+        "identifier" : {
+          "id" : "/persons/resource/persons72732",
+          "type" : "CONE"
+        }
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2008",
+    "datePublishedOnline" : "2008",
+    "genre" : "ARTICLE",
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Linguistic discovery",
+      "volume" : "6",
+      "issue" : "1",
+      "startPage" : "40",
+      "endPage" : "63",
+      "sequenceNumber" : "3",
+      "publishingInfo" : {
+        "place" : "Hanover, NH",
+        "publisher" : "Dartmouth College"
+      },
+      "identifiers" : [ {
+        "id" : "1537-0852",
+        "type" : "ISSN"
+      } ],
+      "genre" : "JOURNAL",
+      "totalNumberOfPages" : "63"
+    } ],
+    "freeKeywords" : "LoC Class: P299.R44, LoC Subject Headings: Grammar/Comparative and general--Reflexives",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_388902",
+    "name" : "reflexive_haspelmath2008_s.pdf",
+    "creationDate" : "2010-03-19T12:29:04.990+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-69A7-D",
+    "content" : "/rest/items/item_388904_5/component/file_388902/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4c6eab4c92da8436301e7848453345d8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 367754,
+    "metadata" : {
+      "title" : "reflexive_haspelmath2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 367754,
+      "copyrightDate" : "2010-03-11",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_388903",
+    "name" : "http://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/2/xmlpage/1/article/331",
+    "creationDate" : "2010-03-19T12:29:05.072+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/2/xmlpage/1/article/331",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "16ded80044a2a9109377726c0fdf9ade",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/2/xmlpage/1/article/331",
+      "contentCategory" : "publisher-version",
+      "description" : "Linguistic Discovery, Dartmouth College",
+      "size" : 0
+    }
+  } ]
+}

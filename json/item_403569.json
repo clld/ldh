@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403569",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T11:52:12.409+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8033-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:52:12.409+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8033-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:49.156+0000",
+  "latestRelease" : {
+    "objectId" : "item_403569",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:52:12.409+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8033-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403569",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:52:12.409+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8033-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Esquisse phonologique du Shingu",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Ndawouo, Martine",
+        "givenName" : "Martine",
+        "familyName" : "Ndawouo",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1990",
+    "datePublishedInPrint" : "1990",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31410",
+      "type" : "OTHER"
+    }, {
+      "id" : "shingu_ndawouo1990_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "publisher" : "Unversité de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon--Languages",
+    "subjects" : [ {
+      "value" : "nnz - Ndanda",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "iii, 126 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : nnz, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403568",
+    "name" : "shingu_ndawouo1990_o.pdf",
+    "creationDate" : "2010-04-01T12:19:48.661+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8032-0",
+    "content" : "/rest/items/item_403569_3/component/file_403568/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "819f715cde5b9f0eb50f3df8e84759de",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4522191,
+    "metadata" : {
+      "title" : "shingu_ndawouo1990_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "with permission from Université de Yaoundé I",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4522191
+    }
+  } ]
+}

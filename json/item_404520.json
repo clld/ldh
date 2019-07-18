@@ -1,0 +1,116 @@
+{
+  "objectId" : "item_404520",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-10-01T11:34:32.767+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-5C51-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain",
+  "lastModificationDate" : "2013-10-01T11:34:32.767+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-85F7-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:42:57.041+0000",
+  "latestRelease" : {
+    "objectId" : "item_404520",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-01T11:34:32.767+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5C51-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404520",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-01T11:34:32.767+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5C51-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Koptische Grammatik",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Moritz Gotthilf",
+        "familyName" : "Schwartze",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1850",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "33386",
+      "type" : "OTHER"
+    }, {
+      "id" : "koptische_schwartze1850_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Berlin",
+      "publisher" : "Duemmler"
+    },
+    "freeKeywords" : "LoC Subject Headings: Coptic language",
+    "subjects" : [ {
+      "value" : "cop - Coptic",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XVI, 492 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PJ2033,\nLoC Subject Headings: Coptic language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404519",
+    "name" : "koptische_schwartze1850_o.pdf",
+    "creationDate" : "2010-04-01T12:42:55.908+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-85F6-A",
+    "content" : "/rest/items/item_404520_3/component/file_404519/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3ab1064d2ea18cd88c623ca10d91d59b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11717026,
+    "metadata" : {
+      "title" : "koptische_schwartze1850_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11717026
+    }
+  } ]
+}

@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_403208",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-05-12T09:20:14.514+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CC3D-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-12T09:20:14.514+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7DBC-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:04:08.903+0000",
+  "latestRelease" : {
+    "objectId" : "item_403208",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-12T09:20:14.514+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CC3D-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403208",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-12T09:20:14.514+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CC3D-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The accentual system of standard Japanese",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "James D.",
+        "familyName" : "McCawley",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1965",
+    "datePublishedInPrint" : "1965",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31078",
+      "type" : "OTHER"
+    }, {
+      "id" : "japanese_mccawley1965_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: PL544, LoC Subject Headings: Japanese language",
+    "subjects" : [ {
+      "value" : "jpn - Japanese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "223 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403207",
+    "name" : "japanese_mccawley1965_o.pdf",
+    "creationDate" : "2010-04-01T12:04:07.202+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7DBB-2",
+    "content" : "/rest/items/item_403208_3/component/file_403207/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3ea7ba3e607b3a650c77e0f910bc1a8e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 17176813,
+    "metadata" : {
+      "title" : "japanese_mccawley1965_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 17176813
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2152245",
+    "name" : "http://hdl.handle.net/1721.1/13012",
+    "creationDate" : "2015-05-12T09:19:42.760+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/13012",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0af0cd9928664daceb12e0ffb217b464",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/13012",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_2065707",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-13T02:02:11.388+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7248-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:02:11.388+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0024-0239-1",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-10-24T07:56:18.833+0000",
+  "latestRelease" : {
+    "objectId" : "item_2065707",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T02:02:11.388+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7248-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2065707",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T02:02:11.388+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7248-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "A Crosslinguistic Investigation of Palatalization",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Nicoleta",
+        "familyName" : "Bateman",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "San Diego",
+      "publisher" : "Univ. of California"
+    },
+    "sources" : [ {
+      "title" : "UC San Diego Electronic Theses and Dissertations",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P238.5, LoC Subject Headings: Phonetics--Palatalization, LoC Subject Headings: Moldovan dialect, LoC Subject Headings: Latin language, LoC Subject Headings: Tswana language",
+    "subjects" : [ {
+      "value" : "ron - Romanian",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "lat - Latin",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "tsn - Tswana",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxii, 527 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: P238.5, LoC Subject Headings: Phonetics--Palatalization, Moldovan dialect--Palatalization, Latin language--Palatalization, Tswana language--Palatalization"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_2065705",
+    "name" : "palatalization_bateman2007_o.pdf",
+    "creationDate" : "2014-10-24T07:56:16.435+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-023B-E",
+    "content" : "/rest/items/item_2065707_3/component/file_2065705/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8bee0255386c9e01dce7e151952958cd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2145974,
+    "metadata" : {
+      "title" : "palatalization_bateman2007_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2145974,
+      "copyrightDate" : "2014-10-09",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  }, {
+    "objectId" : "file_2065706",
+    "name" : "https://escholarship.org/uc/item/1dw64743",
+    "creationDate" : "2014-10-24T07:56:16.565+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://escholarship.org/uc/item/1dw64743",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a8e8b8931c500b4006a900aa78995e17",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://escholarship.org/uc/item/1dw64743",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. of California, eScholarship, electronic theses and dissertations, UC San Diego, pdf",
+      "size" : 0
+    }
+  } ]
+}

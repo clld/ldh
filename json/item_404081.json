@@ -1,0 +1,146 @@
+{
+  "objectId" : "item_404081",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-18T08:46:16.291+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-79F0-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-18T08:46:16.291+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8377-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:34:14.570+0000",
+  "latestRelease" : {
+    "objectId" : "item_404081",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-18T08:46:16.291+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-79F0-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404081",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-18T08:46:16.291+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-79F0-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Glosario de la lengua Atacameña",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Emilio F.",
+        "familyName" : "Vaïsse",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Félix",
+        "familyName" : "Hoyos"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Aníbal",
+        "familyName" : "Echeverría y Reyes"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1896",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "32221",
+      "type" : "OTHER"
+    }, {
+      "id" : "atacamena_vaisse1896_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "freeKeywords" : "LoC Class: PM5521, LoC Subject Headings: Atacameno language",
+    "subjects" : [ {
+      "value" : "kuz - Kunza",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "36 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5521, LoC Subject Headings: Atacameno language--Glossaries, vocabularies, etc."
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404079",
+    "name" : "http://www.memoriachilena.cl/temas/documento_detalle.asp?id=MC0012697",
+    "creationDate" : "2010-04-01T12:34:11.865+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.memoriachilena.cl/temas/documento_detalle.asp?id=MC0012697",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f270663bf01e5121d8b2a5b10a0f4839",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.memoriachilena.cl/temas/documento_detalle.asp?id=MC0012697",
+      "contentCategory" : "publisher-version",
+      "description" : "Biblioteca Nacional de Chile, memoria chilena, pdf download (descargar)",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404080",
+    "name" : "atacamena_vaisse1896_o.pdf",
+    "creationDate" : "2010-04-01T12:34:13.719+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8376-D",
+    "content" : "/rest/items/item_404081_5/component/file_404080/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5a39da674b9031d742ab8504e7b41bd7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8394705,
+    "metadata" : {
+      "title" : "atacamena_vaisse1896_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8394705
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

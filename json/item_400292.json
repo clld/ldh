@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_400292",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:02:42.432+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6C7E-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:02:42.432+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6C7E-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:44:42.142+0000",
+  "latestRelease" : {
+    "objectId" : "item_400292",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:02:42.432+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6C7E-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400292",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:02:42.432+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6C7E-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The acquisition of Russian aspect",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Stoll, Sabine Erika",
+        "givenName" : "Sabine Erika",
+        "familyName" : "Stoll",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedInPrint" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "17518",
+      "type" : "OTHER"
+    }, {
+      "id" : "russian_stoll2001_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PG2306,\nLoC Subject Headings: Russian language--Aspect",
+    "subjects" : [ {
+      "value" : "rus - Russian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "viii, 368 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400290",
+    "name" : "http://www.eva.mpg.de/lingua/staff/stoll/stolldiss.pdf",
+    "creationDate" : "2010-04-01T10:44:41.232+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6C7C-6",
+    "content" : "http://www.eva.mpg.de/lingua/staff/stoll/stolldiss.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "aa262405d12c06a68a31ee97066733f5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.eva.mpg.de/lingua/staff/stoll/stolldiss.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400291",
+    "name" : "russian_stoll2001_s.pdf",
+    "creationDate" : "2010-04-01T10:44:42.018+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6C7D-4",
+    "content" : "/rest/items/item_400292_2/component/file_400291/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e13297f6cb4af7dc2e02c5300004cfcd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 680211,
+    "metadata" : {
+      "title" : "russian_stoll2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 680211
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

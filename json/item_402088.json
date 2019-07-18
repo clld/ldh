@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_402088",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-03T12:22:46.560+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0289-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-03T12:22:46.560+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7716-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:25:40.397+0000",
+  "latestRelease" : {
+    "objectId" : "item_402088",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T12:22:46.560+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0289-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402088",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T12:22:46.560+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0289-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Bade-English-Hausa dictionary : (Gashua Dialect)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Muktar Musa",
+        "familyName" : "Tarbutu",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29080",
+      "type" : "OTHER"
+    }, {
+      "id" : "gashuabade_schuh2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Potiskum",
+      "publisher" : "Ajami Press"
+    },
+    "freeKeywords" : "LoC Class: PL8047.5.B274, LoC Subject Headings: Bade language, LoC Subject Headings: Hausa language",
+    "subjects" : [ {
+      "value" : "bde - Bade",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "hau - Hausa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XIV, 144 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8047.5.B274,\nLoC Subject Headings: Bade language--Dictionaries--English, Bade language--Dictionaries--Hausa, English language--Dictionaries--Bade, Hausa language--Dictionaries--Bade"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402087",
+    "name" : "gashuabade_schuh2004_s.pdf",
+    "creationDate" : "2010-04-01T11:25:39.936+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7715-4",
+    "content" : "/rest/items/item_402088_3/component/file_402087/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0cdfe0a40ddbedb235028eec5f880ce1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4016960,
+    "metadata" : {
+      "title" : "gashuabade_schuh2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4016960
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2104877",
+    "name" : "http://aflang.humnet.ucla.edu/Yobe/Dictionaries/Gbade_english_hausa.pdf",
+    "creationDate" : "2015-03-03T12:22:03.718+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://aflang.humnet.ucla.edu/Yobe/Dictionaries/Gbade_english_hausa.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2a1d0afac0f94d558c4e280c00142b8e",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://aflang.humnet.ucla.edu/Yobe/Dictionaries/Gbade_english_hausa.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of California, AFLANG directory, Bade language, Bade dictionary, download the dictionaries, pdf",
+      "size" : 0
+    }
+  } ]
+}

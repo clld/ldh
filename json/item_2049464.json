@@ -1,0 +1,127 @@
+{
+  "objectId" : "item_2049464",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-13T01:47:57.277+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-722F-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:47:57.277+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-001A-2952-0",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-08-08T09:04:50.805+0000",
+  "latestRelease" : {
+    "objectId" : "item_2049464",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T01:47:57.277+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-722F-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2049464",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T01:47:57.277+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-722F-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Linguistic diffusion in Arnhem Land",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jeffrey",
+        "familyName" : "Heath",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1978",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "0-85575-066-9",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Canberra",
+      "publisher" : "Australian Institute of Aboriginal Studies"
+    },
+    "sources" : [ {
+      "title" : "Australian aboriginal studies / Research and regional studies",
+      "volume" : "13",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL7091.A7, LoC Subject Headings: Australian languages, LoC Subject Headings: Arnhem Land (N.T.)--Languages, LoC Subject Headings: Ngandi language, LoC Subject Headings: Ritharrngu language, LoC Subject Headings: Nunggubuyu language, LoC Subject Headings: Wandarang language",
+    "subjects" : [ {
+      "value" : "nid - Ngandi",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "rit - Ritarungo",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "nuy - Nunggubuyu",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "wnd - Wandarang",
+      "type" : "ISO639_3"
+    } ],
+    "abstracts" : [ {
+      "value" : "identical to: Chicago, Univ., Diss., 1976"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_2049463",
+    "name" : "arnhemland_heath1978_o.pdf",
+    "creationDate" : "2014-08-08T09:04:50.592+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-2956-8",
+    "content" : "/rest/items/item_2049464_3/component/file_2049463/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7be68eac565d347efcf52ec2ece8a5d6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7039125,
+    "metadata" : {
+      "title" : "arnhemland_heath1978_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7039125,
+      "copyrightDate" : "24-April-2014",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

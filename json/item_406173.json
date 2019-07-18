@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_406173",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-05-06T11:29:03.361+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C7BC-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-06T11:29:03.361+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8F35-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:31:11.579+0000",
+  "latestRelease" : {
+    "objectId" : "item_406173",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-05-06T11:29:03.361+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7BC-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406173",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-05-06T11:29:03.361+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7BC-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Wörterbuch der Botokudensprache",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Bruno",
+        "familyName" : "Rudolph",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1909",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "36417",
+      "type" : "OTHER"
+    }, {
+      "id" : "botokudensprache_rudolph1909_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Hamburg",
+      "publisher" : "Thaden"
+    },
+    "freeKeywords" : "LoC Class: PM5641, LoC Subject Headings: Indians of South America--Brazil--Languages, LoC Subject Headings: Botocudo Indians--Language",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "XIII, 85 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406171",
+    "name" : "http://biblio.etnolinguistica.org/rudolph_1909_worterbuch",
+    "creationDate" : "2010-04-01T13:31:08.763+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://biblio.etnolinguistica.org/rudolph_1909_worterbuch",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "424e73b26506eb73ef389fcbf6e41079",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://biblio.etnolinguistica.org/rudolph_1909_worterbuch",
+      "contentCategory" : "publisher-version",
+      "description" : "etnolinguistica.org, Biblioteca Digital Curt Nimuendajú : línguas e culturas indígenas sul-americanas, Obras disponíveis, Acesso, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406172",
+    "name" : "botokudensprache_rudolph1909_o.pdf",
+    "creationDate" : "2010-04-01T13:31:10.522+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8F34-3",
+    "content" : "/rest/items/item_406173_6/component/file_406172/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ea8d03dad1c5f6f9a59c846cd414c876",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10696812,
+    "metadata" : {
+      "title" : "botokudensprache_rudolph1909_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10696812,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

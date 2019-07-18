@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_407100",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:32:52.853+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-945D-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:32:52.853+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-945D-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:54:23.093+0000",
+  "latestRelease" : {
+    "objectId" : "item_407100",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:32:52.853+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-945D-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407100",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:32:52.853+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-945D-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Escola Makuxi : identidades em construção",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Freitas, Déborah de Brito Albuquerque Pontes",
+        "givenName" : "Déborah de Brito Albuquerque Pontes",
+        "familyName" : "Freitas",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37650",
+      "type" : "OTHER"
+    }, {
+      "id" : "makuxi_freitas2003_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : " Univ. Estadual"
+    },
+    "freeKeywords" : "LoC Class: PM6397,\nLoC Subject Headings: Macusi language",
+    "subjects" : [ {
+      "value" : "mbc - Macushi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xviii, 218 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407098",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000317270",
+    "creationDate" : "2010-04-01T13:54:21.860+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-945B-2",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000317270",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ae15055f5a774b7320a004ed17c9f370",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000317270",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407099",
+    "name" : "makuxi_freitas2003_o.pdf",
+    "creationDate" : "2010-04-01T13:54:22.580+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-945C-F",
+    "content" : "/rest/items/item_407100_2/component/file_407099/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2135948164cbf9f99e22f367458c6424",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4877274,
+    "metadata" : {
+      "title" : "makuxi_freitas2003_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4877274
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

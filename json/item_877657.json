@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_877657",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-08-11T08:28:04.092+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-2CF8-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "bibliografische Daten ergänzt",
+  "lastModificationDate" : "2014-08-11T08:28:04.092+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0011-554F-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2011-04-28T11:06:26.326+0000",
+  "latestRelease" : {
+    "objectId" : "item_877657",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-11T08:28:04.092+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-2CF8-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_877657",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-11T08:28:04.092+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-2CF8-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Fala instituinte do discurso mitico Guarani Mbya\n",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Luiz Carlos",
+        "familyName" : "Borges",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1998",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37651",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "place" : "Campinas",
+      "publisher" : "Univ. Estadual"
+    },
+    "freeKeywords" : "LoC Class: PM6487,\nLoC Subject Headings: Mbya language",
+    "subjects" : [ {
+      "value" : "gun - Guaraní, Mbyá",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "366 S."
+  },
+  "files" : [ {
+    "objectId" : "file_877655",
+    "name" : "mbya _borges1998_o.pdf",
+    "creationDate" : "2011-04-28T11:06:23.511+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0011-554D-7",
+    "content" : "/rest/items/item_877657_3/component/file_877655/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "104a4d2efaf8917011d141bdc0594411",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 19024764,
+    "metadata" : {
+      "title" : "mbya _borges1998_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 19024764
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_877656",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000187668",
+    "creationDate" : "2011-04-28T11:06:23.848+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-2CFA-F",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000187668",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1c6c5e76489e69dc6178240e6f18c1a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000187668",
+      "contentCategory" : "publisher-version",
+      "description" : "Biblioteca Digital da UNICAMP",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_406993",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:01:20.320+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-93CA-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:01:20.320+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-93CA-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:51:43.704+0000",
+  "latestRelease" : {
+    "objectId" : "item_406993",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:01:20.320+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-93CA-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406993",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:01:20.320+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-93CA-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Phonologie et morphosyntaxe du Dzùùngoo de Samogohiri",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Solomiac, Paul",
+        "givenName" : "Paul",
+        "familyName" : "Solomiac",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37590",
+      "type" : "OTHER"
+    }, {
+      "id" : "dzuungoo_solomiac2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Lyon",
+      "publisher" : " Univ. Lumière"
+    },
+    "freeKeywords" : "LoC Class: PL8021.B8,\nLoC Subject Headings: Burkina Faso --Languages",
+    "subjects" : [ {
+      "value" : "dnn - Dzùùngoo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "608 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406991",
+    "name" : "http://demeter.univ-lyon2.fr/sdx/theses/these/lyon2/2007/solomiac_p/pdfAmont/these_solomiac.pdf",
+    "creationDate" : "2010-04-01T13:51:38.072+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-93C8-3",
+    "content" : "http://demeter.univ-lyon2.fr/sdx/theses/these/lyon2/2007/solomiac_p/pdfAmont/these_solomiac.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6cea6ad8c31c5f7a38716b7646179e5e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://demeter.univ-lyon2.fr/sdx/theses/these/lyon2/2007/solomiac_p/pdfAmont/these_solomiac.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406992",
+    "name" : "dzuungoo_solomiac2007_s.pdf",
+    "creationDate" : "2010-04-01T13:51:43.230+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-93C9-1",
+    "content" : "/rest/items/item_406993_2/component/file_406992/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b0a634acaf3e8c26e9a1250be20fa126",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4477163,
+    "metadata" : {
+      "title" : "dzuungoo_solomiac2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4477163
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_407085",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:59:17.931+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9449-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:59:17.931+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9449-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:54:10.251+0000",
+  "latestRelease" : {
+    "objectId" : "item_407085",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:59:17.931+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9449-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407085",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:59:17.931+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9449-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Stress in stoney",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Rhyasen Erdman, Corrie Lee",
+        "givenName" : "Rhyasen",
+        "familyName" : "Erdman",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1997",
+    "datePublishedInPrint" : "1997",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37630",
+      "type" : "OTHER"
+    }, {
+      "id" : "stoney_erdman1997_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "0-612-24613-2",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ottawa",
+      "publisher" : "National Library of Canada"
+    },
+    "freeKeywords" : "LoC Class: PM101,\nLoC Subject Headings: Assiniboine dialect",
+    "subjects" : [ {
+      "value" : "sto - Stoney",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "viii, 102 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407083",
+    "name" : "http://www.collectionscanada.gc.ca/obj/s4/f2/dsk3/ftp04/mq24613.pdf",
+    "creationDate" : "2010-04-01T13:53:59.517+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9447-E",
+    "content" : "http://www.collectionscanada.gc.ca/obj/s4/f2/dsk3/ftp04/mq24613.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f88f4eab102a982df965423552465a99",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.collectionscanada.gc.ca/obj/s4/f2/dsk3/ftp04/mq24613.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407084",
+    "name" : "stoney_erdman1997_o.pdf",
+    "creationDate" : "2010-04-01T13:54:09.743+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9448-C",
+    "content" : "/rest/items/item_407085_2/component/file_407084/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8f4e00453a26409857db9ab29b2df0d2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4874699,
+    "metadata" : {
+      "title" : "stoney_erdman1997_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4874699
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

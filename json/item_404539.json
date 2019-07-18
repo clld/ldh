@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_404539",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-10-01T12:08:59.893+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-5C84-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain",
+  "lastModificationDate" : "2013-10-01T12:08:59.893+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8614-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:43:16.538+0000",
+  "latestRelease" : {
+    "objectId" : "item_404539",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-01T12:08:59.893+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5C84-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404539",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-01T12:08:59.893+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5C84-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Kurzgefasste Neger-Englische Grammatik",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "H.R.",
+        "familyName" : "Wullschlägel",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1854",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "33400",
+      "type" : "OTHER"
+    }, {
+      "id" : "negerenglische_wullschlaegel1854_o              .html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Bautzen",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Subject Headings: Black English",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "68 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PE3102.N4,\nLoC Subject Headings: Black English -- Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404537",
+    "name" : "http://books.google.com/books?id=b3gCAAAAQAAJ",
+    "creationDate" : "2010-04-01T12:43:15.711+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-5C85-6",
+    "content" : "http://books.google.com/books?id=b3gCAAAAQAAJ",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2b12cb0029bed383dd82159a482763b1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://books.google.com/books?id=b3gCAAAAQAAJ",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404538",
+    "name" : "negerenglische_wullschlaegel1854_o.pdf",
+    "creationDate" : "2010-04-01T12:43:16.166+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8613-F",
+    "content" : "/rest/items/item_404539_3/component/file_404538/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5003c0c4c0e0c73b10e38a914f8a9cb1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3361196,
+    "metadata" : {
+      "title" : "negerenglische_wullschlaegel1854_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3361196
+    }
+  } ]
+}

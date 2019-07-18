@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_401161",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:14:05.272+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-71C5-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:14:05.272+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-71C5-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:06:39.010+0000",
+  "latestRelease" : {
+    "objectId" : "item_401161",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:14:05.272+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-71C5-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401161",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:14:05.272+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-71C5-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The Awara verbal system",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Quigley, Susan R.",
+        "givenName" : "Susan R.",
+        "familyName" : "Quigley",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "25240",
+      "type" : "OTHER"
+    }, {
+      "id" : "awara_quigley2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Grand Forks, ND",
+      "publisher" : "Univ. of North Dakota"
+    },
+    "freeKeywords" : "LoC Class: PL6621.A95",
+    "subjects" : [ {
+      "value" : "awx - Awara",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xv, 128 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401159",
+    "name" : "http://www.und.edu/dept/linguistics/theses/2002QuigleyS.PDF",
+    "creationDate" : "2010-04-01T11:06:32.652+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-71C3-0",
+    "content" : "http://www.und.edu/dept/linguistics/theses/2002QuigleyS.PDF",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8fbcbe4b4f0bad4d195a1e84ea94120d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.und.edu/dept/linguistics/theses/2002QuigleyS.PDF",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401160",
+    "name" : "awara_quigley2002_s.pdf",
+    "creationDate" : "2010-04-01T11:06:38.860+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-71C4-E",
+    "content" : "/rest/items/item_401161_2/component/file_401160/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "267033a1bb2b87ff4ef680524ca46aa2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1093051,
+    "metadata" : {
+      "title" : "awara_quigley2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1093051
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

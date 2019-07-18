@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_405770",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-10T07:46:17.601+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-E42F-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-10T07:46:17.601+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8CFB-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:20:20.343+0000",
+  "latestRelease" : {
+    "objectId" : "item_405770",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-10T07:46:17.601+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-E42F-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405770",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-10T07:46:17.601+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-E42F-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The synchrony and diachrony of the English prepositional passive : Form, Meaning and Function",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Gwang-Yoon",
+        "familyName" : "Goh",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "datePublishedInPrint" : "2000",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35374",
+      "type" : "OTHER"
+    }, {
+      "id" : "english_goh2000_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: PE1285,\nLoC Subject Headings: English language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XVI, 227 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PE1285,\nLoC Subject Headings: English language -- Prepositions"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405769",
+    "name" : "english_goh2000_o.pdf",
+    "creationDate" : "2010-04-01T13:20:19.583+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8CFA-0",
+    "content" : "/rest/items/item_405770_3/component/file_405769/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9eff71108d5c9799f87fc13160343891",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6291773,
+    "metadata" : {
+      "title" : "english_goh2000_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6291773
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2039811",
+    "name" : "http://linguistics.osu.edu/sites/linguistics.osu.edu/files/dissertations/Goh2000.pdf",
+    "creationDate" : "2014-07-10T07:45:27.738+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-E431-9",
+    "content" : "http://linguistics.osu.edu/sites/linguistics.osu.edu/files/dissertations/Goh2000.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2f0589c88fced36290c9bed3a68e0b50",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://linguistics.osu.edu/sites/linguistics.osu.edu/files/dissertations/Goh2000.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "Ohio State Univ., Dep. of Linguistics, Dissertations, direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

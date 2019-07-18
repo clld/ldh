@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_408276",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-05-12T09:14:37.379+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CC3B-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-12T09:14:37.379+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9AE5-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:33:34.362+0000",
+  "latestRelease" : {
+    "objectId" : "item_408276",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-12T09:14:37.379+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CC3B-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408276",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-12T09:14:37.379+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CC3B-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diachrony in clause linkage and related issues",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Toshio",
+        "familyName" : "Ohori",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1992",
+    "datePublishedInPrint" : "1992",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "42823",
+      "type" : "OTHER"
+    }, {
+      "id" : "clauselinkage_ohori1992_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Berkeley",
+      "publisher" : "Univ. of California"
+    },
+    "freeKeywords" : "LoC Class: PL625, LoC Subject Headings: Japanese language",
+    "subjects" : [ {
+      "value" : "jpn - Japanese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "viii, 275 S."
+  },
+  "files" : [ {
+    "objectId" : "file_408274",
+    "name" : "http://wings.buffalo.edu/linguistics/people/students/dissertations/ohori/ohori.pdf",
+    "creationDate" : "2010-04-01T14:33:32.873+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9AE3-2",
+    "content" : "http://wings.buffalo.edu/linguistics/people/students/dissertations/ohori/ohori.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a96bea58d40490c77ae42bb8ebf4f1e3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://wings.buffalo.edu/linguistics/people/students/dissertations/ohori/ohori.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Buffalo, Linguistics, direct link to pdf version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408275",
+    "name" : "clauselinkage_ohori1992_s.pdf",
+    "creationDate" : "2010-04-01T14:33:34.203+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9AE4-F",
+    "content" : "/rest/items/item_408276_3/component/file_408275/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9c49d543c502b65e1659b6b1dbb0f6ff",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 837145,
+    "metadata" : {
+      "title" : "clauselinkage_ohori1992_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 837145
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

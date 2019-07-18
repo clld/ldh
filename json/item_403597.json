@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_403597",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-04-30T09:39:33.990+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C549-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-30T09:39:33.990+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-806F-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:20:21.519+0000",
+  "latestRelease" : {
+    "objectId" : "item_403597",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-30T09:39:33.990+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C549-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403597",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-30T09:39:33.990+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C549-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Travels in Central America particularly in\nNicaragua : with a description of its aboriginal monuments, scenery and people, their languages,\ninstitutions, religion, &c.",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ephraim George",
+        "familyName" : "Squier",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1853",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31424",
+      "type" : "OTHER"
+    }, {
+      "id" : "centralamerica1_squier1853.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "New York",
+      "publisher" : "Appleton"
+    },
+    "freeKeywords" : "LoC Class: P119.32.N5, LoC Subject Headings: Indians of Central America--Nicaragua",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "xxii, 424 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403596",
+    "name" : "centralamerica1_squier1853.pdf",
+    "creationDate" : "2010-04-01T12:20:19.006+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-806E-C",
+    "content" : "/rest/items/item_403597_5/component/file_403596/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1c80cd01fbd8f899b5a2e5ebc873abd2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 23611488,
+    "metadata" : {
+      "title" : "centralamerica1_squier1853.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 23611488,
+      "copyrightDate" : "2010-11-16",
+      "rights" : "public domain, Ephraim George Squier, 1821-1888"
+    }
+  }, {
+    "objectId" : "file_2149423",
+    "name" : "http://name.umdl.umich.edu/ACQ8688.0001.001",
+    "creationDate" : "2015-04-30T09:39:06.373+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://name.umdl.umich.edu/ACQ8688.0001.001",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2142289870e8f7b58471c4d0700cf0ee",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://name.umdl.umich.edu/ACQ8688.0001.001",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Michigan Digital Library (UMDL), Making of America (MOA), view online",
+      "size" : 0
+    }
+  } ]
+}

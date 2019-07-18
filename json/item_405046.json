@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_405046",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-12-23T11:59:32.524+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-6063-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-23T11:59:32.524+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-88FE-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:54:38.028+0000",
+  "latestRelease" : {
+    "objectId" : "item_405046",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-12-23T11:59:32.524+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-6063-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405046",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-12-23T11:59:32.524+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-6063-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Hymns in the Chinook jargon language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Myron",
+        "familyName" : "Eells",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1878",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34310",
+      "type" : "OTHER"
+    }, {
+      "id" : "chinook_eels1878_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Portland, Or.",
+      "publisher" : "Himes"
+    },
+    "freeKeywords" : "LoC Class: PM846,\nLoC Subject Headings: Chinook jargon",
+    "subjects" : [ {
+      "value" : "chn - Chinook jargon",
+      "type" : "ISO639_3"
+    } ],
+    "tableOfContents" : "hinook hymns with English translation on opposite pages\n\n\"The Lord's prayer\", p. 28-29, and \"A blessing before meals\", p.30, have interlinear translation",
+    "totalNumberOfPages" : "30 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM846,\nLoC Subject Headings: Chinook jargon--Texts, Chinook jargon--Hymns"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405045",
+    "name" : "chinook_eels1878_o.pdf",
+    "creationDate" : "2010-04-01T12:54:37.889+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-88FD-6",
+    "content" : "/rest/items/item_405046_4/component/file_405045/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9b059402c99f1b4578cf66f79768af32",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 779216,
+    "metadata" : {
+      "title" : "chinook_eels1878_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 779216,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2080898",
+    "name" : "https://archive.org/details/cihm_14947",
+    "creationDate" : "2014-12-23T11:58:46.871+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/cihm_14947",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b0b1450d5efcfe8103f8cf7bec2a9767",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/cihm_14947",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, Additional Collections, Microfilm, pdf & view online",
+      "size" : 0
+    }
+  } ]
+}

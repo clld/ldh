@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_401230",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-17T11:59:24.237+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-78B0-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-17T11:59:24.237+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-722C-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:08:00.743+0000",
+  "latestRelease" : {
+    "objectId" : "item_401230",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-17T11:59:24.237+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-78B0-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401230",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-17T11:59:24.237+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-78B0-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Nasalidad en aguaruna",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "David Lawrence",
+        "familyName" : "Payne",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1978",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "25473",
+      "type" : "OTHER"
+    }, {
+      "id" : "aguaruna_payne1978_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[Yarinacocha, Perú]",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística peruana",
+      "volume" : "15",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5337.A51, LoC Subject Headings: Aguaruna dialect",
+    "subjects" : [ {
+      "value" : "agr - Aguaruna",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "83 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5337.A51,\nLoC Subject Headings: Aguaruna dialect--Nasality"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401229",
+    "name" : "aguaruna_payne1978_o.pdf",
+    "creationDate" : "2010-04-01T11:07:58.385+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-722B-2",
+    "content" : "/rest/items/item_401230_4/component/file_401229/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "17ce0849a4ab9791f63ab45025b1325b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2649194,
+    "metadata" : {
+      "title" : "aguaruna_payne1978_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2649194
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116531",
+    "name" : "http://www.peru.sil.org/resources/archives/30356",
+    "creationDate" : "2015-03-17T11:07:24.853+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/30356",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "815757cef9eeee04458cfbe60422c72a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/30356",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

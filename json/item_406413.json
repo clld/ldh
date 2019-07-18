@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_406413",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:59:57.537+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9083-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:59:57.537+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9083-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:37:39.441+0000",
+  "latestRelease" : {
+    "objectId" : "item_406413",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:59:57.537+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9083-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406413",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:59:57.537+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9083-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Participants in Gunu narrative discourse : [Manuscript]",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Robinson, Clinton D. W.",
+        "givenName" : "Clinton D. W.",
+        "familyName" : "Robinson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1980",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "36880",
+      "type" : "OTHER"
+    }, {
+      "id" : "gunu_robinson1980_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yaounde",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PL8221.6,\nLoC Subject Headings: Gunu language",
+    "subjects" : [ {
+      "value" : "yas - Nugunu",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "21 Bl."
+  },
+  "files" : [ {
+    "objectId" : "file_406411",
+    "name" : "http://www.sil.org/africa/cameroun/bylanguage/languages/nugunu.html",
+    "creationDate" : "2010-04-01T13:37:38.798+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9081-C",
+    "content" : "http://www.sil.org/africa/cameroun/bylanguage/languages/nugunu.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/africa/cameroun/bylanguage/languages/nugunu.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406412",
+    "name" : "gunu_robinson1980_o.pdf",
+    "creationDate" : "2010-04-01T13:37:39.326+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9082-A",
+    "content" : "/rest/items/item_406413_2/component/file_406412/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4f6cc813c82cd08fbaf6aa6b63b983e4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 607116,
+    "metadata" : {
+      "title" : "gunu_robinson1980_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 607116
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_406666",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-05-13T10:27:02.082+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CD58-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-13T10:27:02.082+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-91E3-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:45:46.449+0000",
+  "latestRelease" : {
+    "objectId" : "item_406666",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T10:27:02.082+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD58-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406666",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T10:27:02.082+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD58-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A phonology of Khmu Lue at Nan province",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Cholthissa",
+        "familyName" : "Ong-Arj",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1988",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37375",
+      "type" : "OTHER"
+    }, {
+      "id" : "khmulue_cholthissa1988_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Salaya",
+      "publisher" : "Mahidol Univ."
+    },
+    "freeKeywords" : "LoC Class: PL4351, LoC Subject Headings: Khmu' language",
+    "subjects" : [ {
+      "value" : "kjg - Khmu",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "x, 155 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406664",
+    "name" : "http://archives.sealang.net/mahidol",
+    "creationDate" : "2010-04-01T13:45:45.797+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://archives.sealang.net/mahidol",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "86fa3379c3cfd9ea6e00bb37274e97b0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://archives.sealang.net/mahidol",
+      "contentCategory" : "publisher-version",
+      "description" : "SEAlang Library, Archive, Dissertations and articles from Mahidol University Cholthissa Ong-Arj, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406665",
+    "name" : "khmulue_cholthissa1988_o.pdf",
+    "creationDate" : "2010-04-01T13:45:46.060+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-91E2-C",
+    "content" : "/rest/items/item_406666_3/component/file_406665/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c5d18e9f485b81024bef733872fd3319",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3146372,
+    "metadata" : {
+      "title" : "khmulue_cholthissa1988_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3146372
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

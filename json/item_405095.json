@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_405095",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:03:11.935+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8942-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:03:11.935+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8942-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:55:10.885+0000",
+  "latestRelease" : {
+    "objectId" : "item_405095",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:03:11.935+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8942-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405095",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:03:11.935+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8942-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A preliminary stratificational analysis of some Denya (ACLAM 882) morphological and syntactic structures",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Seguin, Lawrence",
+        "givenName" : "Lawrence",
+        "familyName" : "Seguin",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1998",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34340",
+      "type" : "OTHER"
+    }, {
+      "id" : "denya_seguin1998_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yaoundé",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PL8047.3.A5972,\nLoC Subject Headings: Anyang language",
+    "subjects" : [ {
+      "value" : "anv - Denya",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405093",
+    "name" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/denya_seguin1998_2284_o.pdf",
+    "creationDate" : "2010-04-01T12:55:10.383+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8940-4",
+    "content" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/denya_seguin1998_2284_o.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/denya_seguin1998_2284_o.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405094",
+    "name" : "denya_seguin1998_s.pdf",
+    "creationDate" : "2010-04-01T12:55:10.743+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8941-2",
+    "content" : "/rest/items/item_405095_2/component/file_405094/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c139322f3757a74a965565723704c92d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 574023,
+    "metadata" : {
+      "title" : "denya_seguin1998_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 574023
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

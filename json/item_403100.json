@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_403100",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T17:50:23.659+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6E79-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T17:50:23.659+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D1B-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:54:49.649+0000",
+  "latestRelease" : {
+    "objectId" : "item_403100",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:50:23.659+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E79-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403100",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:50:23.659+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E79-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Chains and anaphoric dependence : on reconstruction and its implications",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Barss, Andrew",
+        "givenName" : "Andrew",
+        "familyName" : "Barss",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1986",
+    "datePublishedInPrint" : "1986",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30951",
+      "type" : "OTHER"
+    }, {
+      "id" : "chains_barss1986_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cambridge",
+      "publisher" : " Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P158.2, LoC Subject Headings: Government-binding theory (Linguistics), LoC Subject Headings: Anaphora (Linguistics), LoC Subject Headings: Reconstruction (Linguistics)",
+    "totalNumberOfPages" : "581 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403098",
+    "name" : "http://www.ai.mit.edu/projects/dm/theses/barss86.pdf",
+    "creationDate" : "2010-04-01T11:54:35.466+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.ai.mit.edu/projects/dm/theses/barss86.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3b5c7bc90d77f0b593439ca26c09427b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ai.mit.edu/projects/dm/theses/barss86.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403099",
+    "name" : "chains_barss1986_o.pdf",
+    "creationDate" : "2010-04-01T11:54:47.124+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D1A-A",
+    "content" : "/rest/items/item_403100_3/component/file_403099/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7febadd2971011772e73b7f1f88de78f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 25189458,
+    "metadata" : {
+      "title" : "chains_barss1986_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 25189458
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

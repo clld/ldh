@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_405632",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:59:31.078+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8C32-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:59:31.078+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8C32-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:16:50.365+0000",
+  "latestRelease" : {
+    "objectId" : "item_405632",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:59:31.078+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8C32-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405632",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:59:31.078+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8C32-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Self-organisation in vowel systems : by Bart de Boer",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "De Boer, Bart",
+        "givenName" : "Bart",
+        "familyName" : "De Boer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1999",
+    "datePublishedInPrint" : "1999",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35136",
+      "type" : "OTHER"
+    }, {
+      "id" : "vowel_deboer1999_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Brussel",
+      "publisher" : " Vrije Univ."
+    },
+    "freeKeywords" : "LoC Class: P233,\nLoC Subject Headings: Vowels",
+    "totalNumberOfPages" : "XVII, 185 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405630",
+    "name" : "http://www.ai.rug.nl/~bart/deBoerThesis.pdf",
+    "creationDate" : "2010-04-01T13:16:48.751+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C30-1",
+    "content" : "http://www.ai.rug.nl/~bart/deBoerThesis.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6fc574367cc04cef88ff6f68861e4f1e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ai.rug.nl/~bart/deBoerThesis.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405631",
+    "name" : "vowel_deboer1999_s.pdf",
+    "creationDate" : "2010-04-01T13:16:49.723+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C31-0",
+    "content" : "/rest/items/item_405632_2/component/file_405631/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "06859428678a9c207d981692d9d56ce1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6402783,
+    "metadata" : {
+      "title" : "vowel_deboer1999_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6402783
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

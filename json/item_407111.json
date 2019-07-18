@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_407111",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-08-27T10:09:04.225+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-C609-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz ergänzt",
+  "lastModificationDate" : "2014-08-27T10:09:04.225+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9469-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:54:43.641+0000",
+  "latestRelease" : {
+    "objectId" : "item_407111",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-27T10:09:04.225+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C609-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407111",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-27T10:09:04.225+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C609-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Morfologia e sintaxe da língua Xavante",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Rosana Costa de",
+        "familyName" : "Oliveira",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37672",
+      "type" : "OTHER"
+    }, {
+      "id" : "xavante_oliveira2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "place" : "Rio de Janeiro",
+      "publisher" : "Univ. Federal"
+    },
+    "freeKeywords" : "LoC Class: PM5809,\nLoC Subject Headings: Xavante language",
+    "subjects" : [ {
+      "value" : "xav - Xavánte",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "281 S. (xi + 270 S.)"
+  },
+  "files" : [ {
+    "objectId" : "file_407110",
+    "name" : "xavante_oliveira2007_s.pdf",
+    "creationDate" : "2010-04-01T13:54:43.472+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9468-4",
+    "content" : "/rest/items/item_407111_3/component/file_407110/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8476704f09d69b84eb2b72cb9b9c8077",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1150263,
+    "metadata" : {
+      "title" : "xavante_oliveira2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1150263
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2053113",
+    "name" : "http://www.livrosgratis.com.br/arquivos_livros/cp050936.pdf",
+    "creationDate" : "2014-08-27T10:08:39.398+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.livrosgratis.com.br/arquivos_livros/cp050936.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c2df93207265d61f6a9de5872823d0dc",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.livrosgratis.com.br/arquivos_livros/cp050936.pdf",
+      "contentCategory" : "any-fulltext",
+      "size" : 0
+    }
+  } ]
+}

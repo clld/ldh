@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_400523",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-08-20T09:44:26.111+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-C037-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2014-08-20T09:44:26.111+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6DF1-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:52:07.613+0000",
+  "latestRelease" : {
+    "objectId" : "item_400523",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-20T09:44:26.111+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C037-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400523",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-20T09:44:26.111+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C037-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammaticization of indexic signs : how American sign language expresses numerosity",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Kearsy Annette",
+        "familyName" : "Cormier",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "20744",
+      "type" : "OTHER"
+    }, {
+      "id" : "indexic_cormier2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Austin",
+      "publisher" : "Univ. of Texas"
+    },
+    "freeKeywords" : "LoC Class: HV2474,\nLoC Subject Headings: American Sign Language",
+    "totalNumberOfPages" : "xix, 184 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: HV2474,\nLoC Subject Headings: American Sign Language--Deixis"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400522",
+    "name" : "indexic_cormier2002_s.pdf",
+    "creationDate" : "2010-04-01T10:52:07.325+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6DF0-7",
+    "content" : "/rest/items/item_400523_4/component/file_400522/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "936a21a886602656e69d86582a71aee3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2388972,
+    "metadata" : {
+      "title" : "indexic_cormier2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2388972
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2032865",
+    "name" : "http://kearsy.macmate.me/web/Dissertation.html",
+    "creationDate" : "2014-06-12T08:05:23.695+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://kearsy.macmate.me/web/Dissertation.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1e8a077ca52cd4d69af0cec9009b4153",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://kearsy.macmate.me/web/Dissertation.html",
+      "contentCategory" : "publisher-version",
+      "description" : "Kearsy Cormier's website, pdf",
+      "size" : 0
+    }
+  } ]
+}

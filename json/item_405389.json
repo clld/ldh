@@ -1,0 +1,158 @@
+{
+  "objectId" : "item_405389",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T20:06:39.368+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F8F-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:06:39.368+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8AD0-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:10:58.020+0000",
+  "latestRelease" : {
+    "objectId" : "item_405389",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:06:39.368+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F8F-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405389",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:06:39.368+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F8F-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario and arte of the Othomi (Otomí) language : L. D. Luis de Neve y Molina, 1767",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Boot, Erik",
+        "givenName" : "Erik",
+        "familyName" : "Boot",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34777",
+      "type" : "OTHER"
+    }, {
+      "id" : "othomi_boot2005.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[s.l.]",
+      "publisher" : "FAMSI"
+    },
+    "freeKeywords" : "LoC Class: PM4145, LoC Subject Headings: Otomian languages, LoC Subject Headings: Otomanguean languages",
+    "subjects" : [ {
+      "value" : "otm - Eastern Highland Otomi",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "ots - Estado de México Otomi",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "otz - Ixtenco Otomi",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "ote - Mezquital Otomi",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "otq - Querétaro Otomi",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "ott - Temoaya Otomi",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "otn - Tenango Otomi",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "otx - Texcatepec Otomi",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "otl - Tilapa Otomi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XIV, 93 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405387",
+    "name" : "http://www.famsi.org/research/boot/neve_y_molina_1767/Neve-y-Molina-1767_full.pdf",
+    "creationDate" : "2010-04-01T13:09:08.541+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.famsi.org/research/boot/neve_y_molina_1767/Neve-y-Molina-1767_full.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "08369a31046b5ee6a814fa1c36398c29",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.famsi.org/research/boot/neve_y_molina_1767/Neve-y-Molina-1767_full.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405388",
+    "name" : "othomi_boot2005.pdf",
+    "creationDate" : "2010-04-01T13:10:53.833+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8ACF-D",
+    "content" : "/rest/items/item_405389_3/component/file_405388/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4327588d07d9c619426305c1892c9e7d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 43524269,
+    "metadata" : {
+      "title" : "othomi_boot2005.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 43524269
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

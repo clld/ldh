@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403077",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-04-14T08:13:17.155+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B232-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-14T08:13:17.155+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7CF1-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:53:35.970+0000",
+  "latestRelease" : {
+    "objectId" : "item_403077",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-14T08:13:17.155+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B232-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403077",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-14T08:13:17.155+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B232-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Aspects of A",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Orin J.",
+        "familyName" : "Percus",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1997",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30930",
+      "type" : "OTHER"
+    }, {
+      "id" : "aspects_percus1997_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Institute of Technology"
+    },
+    "freeKeywords" : "LoC Class: P299.D43, LoC Subject Headings: English language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "172 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: P299.D43, LoC Subject Headings: English language--Definiteness (Linguistics), LoC Subject Headings: English language--Semantics"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403076",
+    "name" : "aspects_percus1997_o.pdf",
+    "creationDate" : "2010-04-01T11:53:35.150+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7CF0-0",
+    "content" : "/rest/items/item_403077_5/component/file_403076/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5e8d2273dfe3ba5f673874cf3f6f3e79",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7920574,
+    "metadata" : {
+      "title" : "aspects_percus1997_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7920574
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2144416",
+    "name" : "http://hdl.handle.net/1721.1/10235",
+    "creationDate" : "2015-04-14T08:12:30.094+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/10235",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1c65b5d6f1ff5ca60648488749fb1bf7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/10235",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

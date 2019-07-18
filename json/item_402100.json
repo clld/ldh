@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_402100",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-04-11T12:46:52.565+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-772C-1",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "message" : "EJ, Band und Startseite erg.",
+  "lastModificationDate" : "2013-04-11T12:46:52.565+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-772A-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:25:49.790+0000",
+  "latestRelease" : {
+    "objectId" : "item_402100",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-04-11T12:46:52.565+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-772C-1",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402100",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-04-11T12:46:52.565+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-772C-1",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A estrutura verbal Waurá",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Joan",
+        "familyName" : "Richards",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1988",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "29137",
+      "type" : "OTHER"
+    }, {
+      "id" : "waura_richards1988_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "sources" : [ {
+      "title" : "Série Lingüística",
+      "volume" : "9",
+      "startPage" : "197",
+      "endPage" : "218",
+      "publishingInfo" : {
+        "place" : "Brasília",
+        "publisher" : "N.A."
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5154.Z,\nLoC Subject Headings: Brazil --Languages",
+    "subjects" : [ {
+      "value" : "wau - Waurá",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402098",
+    "name" : "http://www.sil.org/americas/brasil/PUBLCNS/LING/WRVerb.pdf",
+    "creationDate" : "2010-04-01T11:25:48.682+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7728-9",
+    "content" : "http://www.sil.org/americas/brasil/PUBLCNS/LING/WRVerb.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4823147c0de782cbf28e23cbb94dac6e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/brasil/PUBLCNS/LING/WRVerb.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402099",
+    "name" : "waura_richards1988_s.pdf",
+    "creationDate" : "2010-04-01T11:25:49.717+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7729-7",
+    "content" : "/rest/items/item_402100_3/component/file_402099/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4823147c0de782cbf28e23cbb94dac6e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 158160,
+    "metadata" : {
+      "title" : "waura_richards1988_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 158160
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

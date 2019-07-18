@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_402345",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:10:16.832+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-78A8-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:10:16.832+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-78A8-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:30:33.550+0000",
+  "latestRelease" : {
+    "objectId" : "item_402345",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:10:16.832+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-78A8-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402345",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:10:16.832+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-78A8-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A discourse analysis of a Machiguenga text",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Carlson, Sylvia Elizabeth",
+        "givenName" : "Sylvia Elizabeth",
+        "familyName" : "Carlson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1985",
+    "datePublishedInPrint" : "1985",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29667",
+      "type" : "OTHER"
+    }, {
+      "id" : "machiguenga_carlson1985_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Arlington",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM6388,\nLoC Subject Headings: Machiguenga language",
+    "subjects" : [ {
+      "value" : "mcb - Machiguenga",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "IX, 121 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402343",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3380",
+    "creationDate" : "2010-04-01T11:30:30.673+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-78A6-7",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3380",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1ec609ca2aecf11d0a469b00b525a433",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3380",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402344",
+    "name" : "machiguenga_carlson1985_o.pdf",
+    "creationDate" : "2010-04-01T11:30:31.547+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-78A7-5",
+    "content" : "/rest/items/item_402345_2/component/file_402344/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "964f4faeb6b05d67e043fe0c29570d18",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4173165,
+    "metadata" : {
+      "title" : "machiguenga_carlson1985_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4173165
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

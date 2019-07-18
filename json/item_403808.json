@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_403808",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T08:50:56.637+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA87-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T08:50:56.637+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-81EA-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:26:08.089+0000",
+  "latestRelease" : {
+    "objectId" : "item_403808",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:50:56.637+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA87-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403808",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:50:56.637+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA87-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Approaching second : second position clitics and related phenomena",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Aaron L.",
+        "familyName" : "Halpern",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Arnold M.",
+        "familyName" : "Zwicky"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "31737",
+      "type" : "OTHER"
+    }, {
+      "id" : "clitics_halpern1996_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "CSLI lecture notes",
+      "volume" : "61",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P288, LoC Subject Headings: Grammar/Comparative and general--Clitics, LoC Subject Headings: Order (Grammar), LoC Subject Headings: Prosodic analysis (Linguistics)",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "xxiii, 629 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403806",
+    "name" : "http://sul-derivatives.stanford.edu/derivative?CSNID=00000057&mediaType=application/pdf",
+    "creationDate" : "2010-04-01T12:24:53.710+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-81E8-0",
+    "content" : "http://sul-derivatives.stanford.edu/derivative?CSNID=00000057&mediaType=application/pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "14278e7e88cfb694bfa4a9ad0c5d1afb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://sul-derivatives.stanford.edu/derivative?CSNID=00000057&mediaType=application/pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403807",
+    "name" : "clitics_halpern1996_s.pdf",
+    "creationDate" : "2010-04-01T12:26:05.156+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-81E9-E",
+    "content" : "/rest/items/item_403808_4/component/file_403807/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fae01d98f66d06603d16c396bea731c5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 30765576,
+    "metadata" : {
+      "title" : "clitics_halpern1996_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 30765576
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

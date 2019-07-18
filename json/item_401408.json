@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_401408",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:47:31.068+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7329-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:47:31.068+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7329-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:11:22.266+0000",
+  "latestRelease" : {
+    "objectId" : "item_401408",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:47:31.068+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7329-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401408",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:47:31.068+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7329-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Aspectos fonológicos e gramaticais da língua Yawalapiti (Aruak)",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Ortega Mujica, Mitzila Isabel",
+        "givenName" : "Ortega",
+        "familyName" : "Mujica",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1992",
+    "datePublishedInPrint" : "1992",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "26528",
+      "type" : "OTHER"
+    }, {
+      "id" : "yawalapiti_mujica1992_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM7302,\nLoC Subject Headings: Yawalapiti language",
+    "subjects" : [ {
+      "value" : "yaw - Yawalapití",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "89 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401406",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000053888",
+    "creationDate" : "2010-04-01T11:11:21.383+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7327-2",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000053888",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000053888",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401407",
+    "name" : "yawalapiti_mujica1992_o.pdf",
+    "creationDate" : "2010-04-01T11:11:22.001+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7328-F",
+    "content" : "/rest/items/item_401408_2/component/file_401407/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1e2f5f519427d0a323ecad4f479950a1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2046748,
+    "metadata" : {
+      "title" : "yawalapiti_mujica1992_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2046748
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

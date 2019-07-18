@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_405036",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-10T12:12:17.267+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0C0B-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-10T12:12:17.267+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-88F4-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:54:31.585+0000",
+  "latestRelease" : {
+    "objectId" : "item_405036",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T12:12:17.267+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0C0B-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405036",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T12:12:17.267+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0C0B-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A diachronic study of the 'passive construction' in the Chinese language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Tin-chi",
+        "familyName" : "Lam",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1985",
+    "datePublishedInPrint" : "1985",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34292",
+      "type" : "OTHER"
+    }, {
+      "id" : "chinese_lam1985_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Hong Kong",
+      "publisher" : "Univ. of Hong Kong"
+    },
+    "freeKeywords" : "LoC Class: PL1074, LoC Subject Headings: Chinese language",
+    "subjects" : [ {
+      "value" : "cmn - Mandarin Chinese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VII, 174 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL1074,\nLoC Subject Headings: Chinese language -- Grammar, Comparative"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405035",
+    "name" : "chinese_lam1985_s.pdf",
+    "creationDate" : "2010-04-01T12:54:30.331+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-88F3-9",
+    "content" : "/rest/items/item_405036_3/component/file_405035/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "293415eca22d6dd7eaa8adeccef3d053",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12994709,
+    "metadata" : {
+      "title" : "chinese_lam1985_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12994709
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110653",
+    "name" : "http://hub.hku.hk/handle/10722/28489",
+    "creationDate" : "2015-03-10T12:11:03.817+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hub.hku.hk/handle/10722/28489",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hub.hku.hk/handle/10722/28489",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Hong Kong, The HKU Scholars Hub, Theses, pdf download",
+      "size" : 0
+    }
+  } ]
+}

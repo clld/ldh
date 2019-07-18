@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_403236",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-06-06T07:56:10.493+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7DE8-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:56:10.493+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7DE8-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:05:17.999+0000",
+  "latestRelease" : {
+    "objectId" : "item_403236",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:56:10.493+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7DE8-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403236",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:56:10.493+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7DE8-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "On the relationship of the lexicon to syntax",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Maria Luisa",
+        "familyName" : "Zubizarreta",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1982",
+    "datePublishedInPrint" : "1982",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31097",
+      "type" : "OTHER"
+    }, {
+      "id" : "lexicon_zubizarreta1982_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "totalNumberOfPages" : "257 S.",
+    "abstracts" : [ {
+      "value" : "P125, ISO 639-3 : -, Grammar, Comparative and general--Syntax, Lexicology, Linguistic analysis (Linguistics), Linguistics"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403234",
+    "name" : "http://www.ai.mit.edu/projects/dm/theses/zubizarreta82.pdf",
+    "creationDate" : "2010-04-01T12:05:11.417+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7DE6-F",
+    "content" : "http://www.ai.mit.edu/projects/dm/theses/zubizarreta82.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "881b1ce21470fba96d10305151f67dab",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ai.mit.edu/projects/dm/theses/zubizarreta82.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403235",
+    "name" : "lexicon_zubizarreta1982_o.pdf",
+    "creationDate" : "2010-04-01T12:05:17.044+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7DE7-D",
+    "content" : "/rest/items/item_403236_3/component/file_403235/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0fe6cb59b2c88670c9249cb7c14248dd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9570297,
+    "metadata" : {
+      "title" : "lexicon_zubizarreta1982_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9570297,
+      "copyrightDate" : "2010-11-22",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

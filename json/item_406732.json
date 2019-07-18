@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_406732",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-28T08:00:07.053+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C2B4-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-28T08:00:07.053+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-923F-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:46:43.726+0000",
+  "latestRelease" : {
+    "objectId" : "item_406732",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-28T08:00:07.053+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2B4-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406732",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-28T08:00:07.053+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2B4-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A collection of interlinear texts in the Xədi language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Elizabeth",
+        "familyName" : "Gathman",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1994",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "37404",
+      "type" : "OTHER"
+    }, {
+      "id" : "xixiangji_cheng1984_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Yaoundé",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PL8239, LoC Subject Headings: Hdi language",
+    "subjects" : [ {
+      "value" : "xed - Hdi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "79 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406731",
+    "name" : "xixiangji_cheng1984_o.pdf",
+    "creationDate" : "2010-04-01T13:46:42.990+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-923E-1",
+    "content" : "/rest/items/item_406732_3/component/file_406731/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d5d70110d058777b110d1d07e47a7cc6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7302005,
+    "metadata" : {
+      "title" : "xixiangji_cheng1984_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7302005
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2149165",
+    "name" : "http://www.silcam.org/languages/languagepage.php?languageid=264",
+    "creationDate" : "2015-04-28T07:59:45.731+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.silcam.org/languages/languagepage.php?languageid=264",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "609e7151e6b641fab165f358af8c99e4",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.silcam.org/languages/languagepage.php?languageid=264",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Cameroon, Languages & Publications, \nHDI (Cameroon), pdf download",
+      "size" : 0
+    }
+  } ]
+}

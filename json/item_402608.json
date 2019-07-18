@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_402608",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T11:41:41.191+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7A12-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:41:41.191+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7A12-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:34:55.712+0000",
+  "latestRelease" : {
+    "objectId" : "item_402608",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:41:41.191+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7A12-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402608",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:41:41.191+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7A12-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Essai de grammaire de la langue Tamachek : renfermant les principes du langage parlé par les Imouchar' ou Touareg, des conversations en Tamachek', des fac-simile d'écriture en caractères Tifinar', et une carte indiquant les parties de l'Algérie où la langue Berbère est encore en usage",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Adolphe",
+        "familyName" : "Hanoteau",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1896",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30036",
+      "type" : "OTHER"
+    }, {
+      "id" : "tamachek_hanoteau1896_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "deuxième ed.",
+      "place" : "Alger",
+      "publisher" : "Jourdan"
+    },
+    "freeKeywords" : "LoC Subject Headings: Tamashek language",
+    "subjects" : [ {
+      "value" : "thv - Tahaggart Tamahaq",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XXXII, 299 S.",
+    "abstracts" : [ {
+      "value" : "PJ2381, ISO 639-3 : thv, Tamashek language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402606",
+    "name" : "http://gallica.bnf.fr/ark:/12148/bpt6k1047497",
+    "creationDate" : "2010-04-01T11:34:53.812+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A10-7",
+    "content" : "http://gallica.bnf.fr/ark:/12148/bpt6k1047497",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6140e89260ac8ae4378b73436955701d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://gallica.bnf.fr/ark:/12148/bpt6k1047497",
+      "contentCategory" : "publisher-version",
+      "description" : "gallica, bnf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402607",
+    "name" : "tamachek_hanoteau1896_o.pdf",
+    "creationDate" : "2010-04-01T11:34:54.414+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A11-5",
+    "content" : "/rest/items/item_402608_3/component/file_402607/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a96795d47ca22812e352d5978835d1b4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 13348451,
+    "metadata" : {
+      "title" : "tamachek_hanoteau1896_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 13348451,
+      "copyrightDate" : "2010-06-17",
+      "rights" : "Public domain, Adolphe Hanoteau 1814-1897"
+    }
+  } ]
+}

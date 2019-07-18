@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_405923",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-05-13T12:12:06.368+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CDC1-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-05-13T12:12:06.368+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8DD1-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:23:32.490+0000",
+  "latestRelease" : {
+    "objectId" : "item_405923",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T12:12:06.368+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CDC1-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405923",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T12:12:06.368+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CDC1-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Tone, segments and their interaction in North Kyungsang Korean : a correspondence theoretic account",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "No-Ju",
+        "familyName" : "Kim",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1997",
+    "datePublishedInPrint" : "1997",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35550",
+      "type" : "OTHER"
+    }, {
+      "id" : "korean_kim1997_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: PL915, LoC Subject Headings: Korean language",
+    "subjects" : [ {
+      "value" : "kor - Korean",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XIV, 249 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405922",
+    "name" : "korean_kim1997_s.pdf",
+    "creationDate" : "2010-04-01T13:23:32.348+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8DD0-4",
+    "content" : "/rest/items/item_405923_3/component/file_405922/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "94a27c38c945cffa647c1315dc9ba2d1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 874666,
+    "metadata" : {
+      "title" : "korean_kim1997_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 874666
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2155702",
+    "name" : "http://dx.doi.org/doi:10.7282/T34X56P0",
+    "creationDate" : "2015-05-13T12:11:31.971+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dx.doi.org/doi:10.7282/T34X56P0",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ffa9dfcdc8b80dc7848924428d4bf298",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dx.doi.org/doi:10.7282/T34X56P0",
+      "contentCategory" : "publisher-version",
+      "description" : "Rutgers Univ., Community Repository (RUCore), pdf download",
+      "size" : 0
+    }
+  } ]
+}

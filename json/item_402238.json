@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_402238",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-05-28T10:47:48.532+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0027-76D0-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-28T10:47:48.532+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-780B-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:28:23.065+0000",
+  "latestRelease" : {
+    "objectId" : "item_402238",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-05-28T10:47:48.532+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0027-76D0-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402238",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-05-28T10:47:48.532+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0027-76D0-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Applicative constructions in Maasai",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Siri van Dorn",
+        "familyName" : "Lamoureaux",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29471",
+      "type" : "OTHER"
+    }, {
+      "id" : "maasai_lamoureaux2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Eugene",
+      "publisher" : "Univ. of Oregon"
+    },
+    "freeKeywords" : "LoC Class: PL8501, LoC Subject Headings: Maasai language",
+    "subjects" : [ {
+      "value" : "mas - Maasai",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XI, 104 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402236",
+    "name" : "http://darkwing.uoregon.edu/~dlpayne/Nilotic/LamoureauxMaasaiApplicatives.pdf",
+    "creationDate" : "2010-04-01T11:28:20.471+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7809-7",
+    "content" : "http://darkwing.uoregon.edu/~dlpayne/Nilotic/LamoureauxMaasaiApplicatives.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7fa49d5939234c01d4f67d198db79fdb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://darkwing.uoregon.edu/~dlpayne/Nilotic/LamoureauxMaasaiApplicatives.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Oregon, Dep. of Linguistics, Doris L. Payne's website, direct link to pdf version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402237",
+    "name" : "maasai_lamoureaux2004_s.pdf",
+    "creationDate" : "2010-04-01T11:28:22.966+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-780A-5",
+    "content" : "/rest/items/item_402238_6/component/file_402237/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7a263449cc9daf18553d93ac83bef4a1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 398718,
+    "metadata" : {
+      "title" : "maasai_lamoureaux2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 398718
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

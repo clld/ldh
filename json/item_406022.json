@@ -1,0 +1,111 @@
+{
+  "objectId" : "item_406022",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-12-05T09:55:37.426+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-4B55-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2014-12-05T09:55:37.426+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8E62-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:26:22.217+0000",
+  "latestRelease" : {
+    "objectId" : "item_406022",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-12-05T09:55:37.426+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-4B55-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406022",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-12-05T09:55:37.426+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-4B55-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Structures and strings",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Virginia",
+        "familyName" : "Savova",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35608",
+      "type" : "OTHER"
+    }, {
+      "id" : "structures_savova2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Baltimore",
+      "publisher" : "The Johns Hopkins Univ."
+    },
+    "freeKeywords" : "LoC Class: P291,\nLoC Subject Headings: Optimality theory (Linguistics)",
+    "totalNumberOfPages" : "xii, 204 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406021",
+    "name" : "structures_savova2006_s.pdf",
+    "creationDate" : "2010-04-01T13:26:22.090+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E61-5",
+    "content" : "/rest/items/item_406022_4/component/file_406021/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "44dd16ffdd4e46b47c98d4b321b02d83",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 677187,
+    "metadata" : {
+      "title" : "structures_savova2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 677187,
+      "copyrightDate" : "2014-11-28",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

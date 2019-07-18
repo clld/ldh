@@ -1,0 +1,146 @@
+{
+  "objectId" : "item_402574",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T17:13:32.732+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6E32-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T17:13:32.732+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-79E9-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:34:26.459+0000",
+  "latestRelease" : {
+    "objectId" : "item_402574",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:13:32.732+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E32-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402574",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:13:32.732+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E32-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Lecciones para el aprendizaje del quechua de San Martín",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Park, Marinell",
+        "givenName" : "Marinell",
+        "familyName" : "Park",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Elisabeth",
+        "familyName" : "Wyss"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1995",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30021",
+      "type" : "OTHER"
+    }, {
+      "id" : "sanmartin_park1995a_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1. ed.",
+      "place" : "Yarinacocha [u.a.]",
+      "publisher" : "Instituto Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Documento de trabajo",
+      "volume" : "26",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6303, LoC Subject Headings: Quechua language -- Textbooks for foreign speakers -- Spanish, LoC Subject Headings: Quechua language -- Dialects -- Peru -- San Martín (Dept.)",
+    "subjects" : [ {
+      "value" : "quh - South Bolivian Quechua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "48 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402572",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=540",
+    "creationDate" : "2010-04-01T11:34:25.234+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=540",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "612b261108ddc864c8f87a4c2d8a2402",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=540",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402573",
+    "name" : "sanmartin_park1995a_o.pdf",
+    "creationDate" : "2010-04-01T11:34:26.225+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-79E8-9",
+    "content" : "/rest/items/item_402574_3/component/file_402573/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "88ac45cf67abab4d029c1ac195ac4814",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1298968,
+    "metadata" : {
+      "title" : "sanmartin_park1995a_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1298968
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_402876",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-01-30T11:52:51.155+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-ABE7-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter bereinigt",
+  "lastModificationDate" : "2015-01-30T11:52:51.155+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7BC0-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:46:45.501+0000",
+  "latestRelease" : {
+    "objectId" : "item_402876",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-30T11:52:51.155+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-ABE7-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402876",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-30T11:52:51.155+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-ABE7-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Girawa dictionary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Pat",
+        "familyName" : "Lillie",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1999",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "30729",
+      "type" : "OTHER"
+    }, {
+      "id" : "girawa_sil2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ukarumpa",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PL6606,\nLoC Subject Headings: Papuan languages",
+    "subjects" : [ {
+      "value" : "bbr - Girawa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "47 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6606,\nLoC Subject Headings: Papuan languages --Glossaries, vocabularies, etc."
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402874",
+    "name" : "http://www.sil.org/pacific/png/pubs/0000016/Girawa_dictionary.pdf",
+    "creationDate" : "2010-04-01T11:46:42.354+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7BBE-A",
+    "content" : "http://www.sil.org/pacific/png/pubs/0000016/Girawa_dictionary.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "99d516208c2131b9ac930703a971d173",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/pacific/png/pubs/0000016/Girawa_dictionary.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Papua New Guinea, PNG Language Resources, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402875",
+    "name" : "girawa_sil2005_s.pdf",
+    "creationDate" : "2010-04-01T11:46:45.408+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7BBF-8",
+    "content" : "/rest/items/item_402876_3/component/file_402875/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9418685e17270d52e7ca363cd51d1bd9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 319170,
+    "metadata" : {
+      "title" : "girawa_sil2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 319170
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

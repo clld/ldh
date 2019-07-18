@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_404202",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-07T07:05:30.809+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A7C0-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-07T07:05:30.809+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-841D-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:37:11.205+0000",
+  "latestRelease" : {
+    "objectId" : "item_404202",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-07T07:05:30.809+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7C0-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404202",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-07T07:05:30.809+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7C0-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Phonological variation : the case of the syllable-final velar nasal in cantonese",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Suet Yin",
+        "familyName" : "Wong",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32464",
+      "type" : "OTHER"
+    }, {
+      "id" : "cantonese_wong2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Hongkong",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PL1739, LoC Subject Headings: Cantonese dialects",
+    "subjects" : [ {
+      "value" : "yue - Chinese, Yue",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VI, 59 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL1739, LoC Subject Headings: Cantonese dialects -- Phonology, LoC Subject Headings: Sociolinguistics"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404200",
+    "name" : "http://sunzi1.lib.hku.hk/hkuto/record/B31940912",
+    "creationDate" : "2010-04-01T12:37:09.893+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://sunzi1.lib.hku.hk/hkuto/record/B31940912",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e06ac3807c405b4d0a492ac91582a50c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://sunzi1.lib.hku.hk/hkuto/record/B31940912",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Hong Kong, The HKU Scholars Hub, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404201",
+    "name" : "cantonese_wong2005_s.pdf",
+    "creationDate" : "2010-04-01T12:37:10.865+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-841C-D",
+    "content" : "/rest/items/item_404202_4/component/file_404201/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a9950c089753066208c570d7700bc5d0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2701511,
+    "metadata" : {
+      "title" : "cantonese_wong2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2701511
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_405442",
+  "versionNumber" : 7,
+  "modificationDate" : "2015-04-24T11:47:03.461+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C03C-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-24T11:47:03.461+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B21-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:12:52.482+0000",
+  "latestRelease" : {
+    "objectId" : "item_405442",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-04-24T11:47:03.461+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C03C-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405442",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-04-24T11:47:03.461+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C03C-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Studies on the semantics of questions and the pragmatics of answers",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jeroen Antonius Gerardus",
+        "familyName" : "Groenendijk",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Martin Johan Bastiaan",
+        "familyName" : "Stokhof"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1984",
+    "datePublishedInPrint" : "1984",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34957",
+      "type" : "OTHER"
+    }, {
+      "id" : "questions_groenendijk1984_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Amsterdam",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: P325, LoC Subject Headings: Semantics, LoC Class: Pragmatics, LoC Subject Headings: Grammar/Comparative and general--Interrogative",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "2 parts in I (X, 569 p)"
+  },
+  "files" : [ {
+    "objectId" : "file_405441",
+    "name" : "questions_groenendijk1984_o.pdf",
+    "creationDate" : "2010-04-01T13:12:51.021+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B20-9",
+    "content" : "/rest/items/item_405442_7/component/file_405441/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e27b2a3115c159a173aee1746b74a094",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 14852473,
+    "metadata" : {
+      "title" : "questions_groenendijk1984_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 14852473,
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_2148953",
+    "name" : "http://hdl.handle.net/11245/1.392528",
+    "creationDate" : "2015-04-24T11:46:21.443+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/11245/1.392528",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "09bfb48bc9126ebc85fb8483c640ce3d",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/11245/1.392528",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Amsterdam, Institutional Repository (UvA-DARE)",
+      "size" : 0
+    }
+  } ]
+}

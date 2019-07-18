@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_403917",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-02-24T11:06:20.011+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-D99E-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-02-24T11:06:20.011+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-828A-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:29:07.481+0000",
+  "latestRelease" : {
+    "objectId" : "item_403917",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-24T11:06:20.011+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-D99E-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403917",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-24T11:06:20.011+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-D99E-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Het Negerhollands der Deense Antillen : bijdrage tot de geschiedenis der nederlandse taal in Amerika",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Dirk Christiaan",
+        "familyName" : "Hesseling",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1905",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "32050",
+      "type" : "OTHER"
+    }, {
+      "id" : "negerhollands_hesseling2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "nld" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Leiden",
+      "publisher" : "Sijthoff"
+    },
+    "freeKeywords" : "LoC Class: PM7861 .H58,\nLoC Subject Headings: Creole dialects/Dutch",
+    "totalNumberOfPages" : "viii, 290 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403915",
+    "name" : "http://dbnl.org/tekst/hess002nege01_01/index.htm",
+    "creationDate" : "2010-04-01T12:29:06.790+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dbnl.org/tekst/hess002nege01_01/index.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "767808bdd5781754bcad82db51309d9f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dbnl.org/tekst/hess002nege01_01/index.htm",
+      "contentCategory" : "publisher-version",
+      "description" : "De Digitale Bibliotheek voor de Nederlandse Letteren DBNL, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403916",
+    "name" : "negerhollands_hesseling2006_s.pdf",
+    "creationDate" : "2010-04-01T12:29:07.257+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8289-B",
+    "content" : "/rest/items/item_403917_3/component/file_403916/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7c1ec5613438094235c6663513dd3d41",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1417607,
+    "metadata" : {
+      "title" : "negerhollands_hesseling2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1417607,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

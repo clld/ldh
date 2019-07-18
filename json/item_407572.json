@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_407572",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-17T11:30:00.815+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B80F-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-17T11:30:00.815+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-96EC-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:15:33.237+0000",
+  "latestRelease" : {
+    "objectId" : "item_407572",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-17T11:30:00.815+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B80F-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407572",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-17T11:30:00.815+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B80F-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dynamic two-place indirect verbs in French : a synchronic and diachronic study in variation and change of valence",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Michelle Ann",
+        "familyName" : "Troberg",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2008",
+    "datePublishedOnline" : "2009",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "39456",
+      "type" : "OTHER"
+    }, {
+      "id" : "french_troberg2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Toronto",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PC2315.I6, LoC Subject Headings: French language",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "viii, 242 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PC2315.I6, LoC Subject Headings: French language --Grammar, LoC Subject Headings: Comparative and general--Syntax, LoC Subject Headings: French language--Historical linguistics"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407570",
+    "name" : "http://hdl.handle.net/1807/17269",
+    "creationDate" : "2010-04-01T14:15:30.947+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1807/17269",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c7755132f46e46026bf4a91d2f80c9c9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1807/17269",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Toronto, TSpace, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407571",
+    "name" : "french_troberg2008_s.pdf",
+    "creationDate" : "2010-04-01T14:15:32.799+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-96EB-C",
+    "content" : "/rest/items/item_407572_4/component/file_407571/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2adb26810a3cd2d9e80c7a225c4c2ecb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2746000,
+    "metadata" : {
+      "title" : "french_troberg2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2746000
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

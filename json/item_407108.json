@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_407108",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:08:41.444+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9465-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:08:41.444+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9465-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:54:42.116+0000",
+  "latestRelease" : {
+    "objectId" : "item_407108",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:08:41.444+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9465-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407108",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:08:41.444+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9465-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The transmission of language : models of biological and cultural evolution",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Smith, Kenneth",
+        "givenName" : "Kenneth",
+        "familyName" : "Smith",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37671",
+      "type" : "OTHER"
+    }, {
+      "id" : "transmission_smith2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Edinburgh",
+      "publisher" : " Diss."
+    },
+    "freeKeywords" : "LoC Class: P116,\nLoC Subject Headings: Language and languages --Origin",
+    "totalNumberOfPages" : "xxiii, 451 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407106",
+    "name" : "http://www.isrl.uiuc.edu/~amag/langev/paper/smith03phdthesis.html",
+    "creationDate" : "2010-04-01T13:54:40.762+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9463-E",
+    "content" : "http://www.isrl.uiuc.edu/~amag/langev/paper/smith03phdthesis.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "18a0c7ff0a585288aea2d49daa9d45b6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.isrl.uiuc.edu/~amag/langev/paper/smith03phdthesis.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407107",
+    "name" : "transmission_smith2003_s.pdf",
+    "creationDate" : "2010-04-01T13:54:41.628+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9464-C",
+    "content" : "/rest/items/item_407108_2/component/file_407107/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "aed1d85745e0e7e95de22f5de730fb56",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4753441,
+    "metadata" : {
+      "title" : "transmission_smith2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4753441
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

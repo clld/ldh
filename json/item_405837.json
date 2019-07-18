@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_405837",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-28T10:33:27.971+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0027-76BA-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-28T10:33:27.971+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8D58-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:21:30.026+0000",
+  "latestRelease" : {
+    "objectId" : "item_405837",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-28T10:33:27.971+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0027-76BA-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405837",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-28T10:33:27.971+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0027-76BA-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Similarity in phonology : evidence from reduplication and loan adaptation",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Heidi Anne",
+        "familyName" : "Fleischhacker",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35444",
+      "type" : "OTHER"
+    }, {
+      "id" : "phonology_fleischhacker2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Los Angeles",
+      "publisher" : "Univ. of California"
+    },
+    "freeKeywords" : "LoC Class: P245, LoC Subject Headings: Reduplication (Linguistics), LoC Subject Headings: Language and languages--Foreign words and phrases",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "xii, 193 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405835",
+    "name" : "http://www.linguistics.ucla.edu/general/dissertations/FleischhackerDissertationUCLA2005.pdf",
+    "creationDate" : "2010-04-01T13:21:19.350+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D56-5",
+    "content" : "http://www.linguistics.ucla.edu/general/dissertations/FleischhackerDissertationUCLA2005.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8c909d602375c8a4f2770240bb1d72e2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.linguistics.ucla.edu/general/dissertations/FleischhackerDissertationUCLA2005.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405836",
+    "name" : "phonology_fleischhacker2005_s.pdf",
+    "creationDate" : "2010-04-01T13:21:29.871+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D57-3",
+    "content" : "/rest/items/item_405837_4/component/file_405836/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2c293398de8c703622f797acbab4b300",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 855373,
+    "metadata" : {
+      "title" : "phonology_fleischhacker2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 855373
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

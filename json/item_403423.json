@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403423",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-06-06T07:20:30.216+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7F02-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:20:30.216+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7F02-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:07.155+0000",
+  "latestRelease" : {
+    "objectId" : "item_403423",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:20:30.216+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F02-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403423",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:20:30.216+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F02-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Esquisse phonologique du parler Bali-Kumbat",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Alise",
+        "familyName" : "Kouonang Nganmou, Alise ",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1982",
+    "datePublishedInPrint" : "1982",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31239",
+      "type" : "OTHER"
+    }, {
+      "id" : "balikumbat_kouonang1983_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaounde"
+    },
+    "freeKeywords" : "LoC Subject Headings: Bugotu language",
+    "subjects" : [ {
+      "value" : "bgt - Bughotu",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "105 S.",
+    "abstracts" : [ {
+      "value" : "PL6225.Z5, ISO 639-3 : bgt, Bugotu language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403422",
+    "name" : "balikumbat_kouonang1983_o.pdf",
+    "creationDate" : "2010-04-01T12:18:06.853+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7F01-3",
+    "content" : "/rest/items/item_403423_3/component/file_403422/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "10206b2c171cb8bb959b3bb45b6e3407",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2139264,
+    "metadata" : {
+      "title" : "balikumbat_kouonang1983_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2139264,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

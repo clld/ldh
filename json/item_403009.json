@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_403009",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T12:04:23.379+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7C7E-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T12:04:23.379+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7C7E-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:50:48.744+0000",
+  "latestRelease" : {
+    "objectId" : "item_403009",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T12:04:23.379+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7C7E-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403009",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T12:04:23.379+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7C7E-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Waffa syntax - verbs and verb phrases",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mary",
+        "familyName" : "Stringer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Joyce",
+        "familyName" : "Hotz"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1969",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30798",
+      "type" : "OTHER"
+    }, {
+      "id" : "waffa_stringer1969_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ukarumpa",
+      "publisher" : "Summer Inst. of Linguistics"
+    },
+    "freeKeywords" : "LoC Class: PL6621,\nLoC Subject Headings: Waffa language",
+    "subjects" : [ {
+      "value" : "waj - Waffa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "59 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403007",
+    "name" : "http://www.sil.org/pacific/png/pubs/0000107/Waffa%20%5BWAJ%5D%20Syntax_Verbs%20and%20Verb%20Phrases_1969.pdf",
+    "creationDate" : "2010-04-01T11:50:20.427+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7C7C-5",
+    "content" : "http://www.sil.org/pacific/png/pubs/0000107/Waffa%20%5BWAJ%5D%20Syntax_Verbs%20and%20Verb%20Phrases_1969.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a765b3aa202c197b719bb1a975f131f5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/pacific/png/pubs/0000107/Waffa%20%5BWAJ%5D%20Syntax_Verbs%20and%20Verb%20Phrases_1969.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403008",
+    "name" : "waffa_stringer1969_o.pdf",
+    "creationDate" : "2010-04-01T11:50:48.390+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7C7D-3",
+    "content" : "/rest/items/item_403009_2/component/file_403008/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "58fd473374adadad6b184fc22ee05b95",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3129620,
+    "metadata" : {
+      "title" : "waffa_stringer1969_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3129620
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

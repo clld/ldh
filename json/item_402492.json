@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_402492",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:47:46.081+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7970-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:47:46.081+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7970-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:32:30.101+0000",
+  "latestRelease" : {
+    "objectId" : "item_402492",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:47:46.081+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7970-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402492",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:47:46.081+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7970-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of Resígaro",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Allin, Trevor Reginald",
+        "givenName" : "Trevor Reginald",
+        "familyName" : "Allin",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1976",
+    "datePublishedInPrint" : "1976",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29969",
+      "type" : "OTHER"
+    }, {
+      "id" : "resigaro_allin1976.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Buckinghamshire",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PM7003,\nLoC Subject Headings: Resigero language--Grammar",
+    "subjects" : [ {
+      "value" : "rgr - Resígaro",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "x, 533 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402490",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3264",
+    "creationDate" : "2010-04-01T11:32:27.503+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-796E-0",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3264",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8d1b096197be5fcf864bb16f8cb8c86c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3264",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402491",
+    "name" : "resigaro_allin1976.pdf",
+    "creationDate" : "2010-04-01T11:32:28.565+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-796F-E",
+    "content" : "/rest/items/item_402492_2/component/file_402491/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "59ba6e9808f4fdb855f22c7a99747612",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 15765476,
+    "metadata" : {
+      "title" : "resigaro_allin1976.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 15765476
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

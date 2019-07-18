@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_400914",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-11T10:20:59.906+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-2122-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-11T10:20:59.906+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7049-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:00:33.823+0000",
+  "latestRelease" : {
+    "objectId" : "item_400914",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-11T10:20:59.906+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-2122-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400914",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-11T10:20:59.906+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-2122-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Manual de morfosintaxis",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Velma B.",
+        "familyName" : "Pickett",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2002",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "24689",
+      "type" : "OTHER"
+    }, {
+      "id" : "morfosintaxis_pickett2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "4 ed. (electrónica)",
+      "place" : "México",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "freeKeywords" : "LoC Class: P241, LoC Subject Headings: Grammar/Comparative and general--Morphosyntax",
+    "totalNumberOfPages" : "[168 S.]"
+  },
+  "files" : [ {
+    "objectId" : "file_400912",
+    "name" : "http://www.sil.org/mexico/ling/E002-ManualMorfosintaxis.htm",
+    "creationDate" : "2010-04-01T11:00:33.518+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/mexico/ling/E002-ManualMorfosintaxis.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b86196b23d2e53a409ee2f2313b9c1af",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/mexico/ling/E002-ManualMorfosintaxis.htm",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL in Mexico, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400913",
+    "name" : "morfosintaxis_pickett2002_s.pdf",
+    "creationDate" : "2010-04-01T11:00:33.714+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7048-0",
+    "content" : "/rest/items/item_400914_4/component/file_400913/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "eca21848f66a81d7eb0a35fe49e8da66",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 550053,
+    "metadata" : {
+      "title" : "morfosintaxis_pickett2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 550053
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

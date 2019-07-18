@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_408161",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-06-06T07:27:45.654+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9A3F-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:27:45.654+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9A3F-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:31:08.256+0000",
+  "latestRelease" : {
+    "objectId" : "item_408161",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-06-06T07:27:45.654+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9A3F-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408161",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-06-06T07:27:45.654+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9A3F-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Aspects of Hausa morphosyntax in role and reference grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mahamane Laoualy",
+        "familyName" : "Abdoulaye",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1992",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "42423",
+      "type" : "OTHER"
+    }, {
+      "id" : "hausa_abdoulaye1992_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Buffalo",
+      "publisher" : "State Univ. of New York"
+    },
+    "freeKeywords" : "LoC Subject Headings: Hausa language",
+    "subjects" : [ {
+      "value" : "hau - Hausa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 472 S.",
+    "abstracts" : [ {
+      "value" : "PL8231, ISO 639-3 : hau , Hausa language--Morphosyntax"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_408159",
+    "name" : "http://wings.buffalo.edu/linguistics/people/students/dissertations/abdoulaye/hausadiss.pdf",
+    "creationDate" : "2010-04-01T14:31:06.560+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9A3D-7",
+    "content" : "http://wings.buffalo.edu/linguistics/people/students/dissertations/abdoulaye/hausadiss.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8f425c9c0e6881d18900bdf28f85e029",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://wings.buffalo.edu/linguistics/people/students/dissertations/abdoulaye/hausadiss.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408160",
+    "name" : "hausa_abdoulaye1992_s.pdf",
+    "creationDate" : "2010-04-01T14:31:08.049+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9A3E-5",
+    "content" : "/rest/items/item_408161_4/component/file_408160/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3e71230c0fb2af20765af948d2a906a4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1218414,
+    "metadata" : {
+      "title" : "hausa_abdoulaye1992_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "State Univ. of New York, Buffalo",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1218414,
+      "copyrightDate" : "2010-10-29",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

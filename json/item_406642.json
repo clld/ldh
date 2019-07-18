@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_406642",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T19:57:21.940+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F7A-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:57:21.940+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-91C1-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:44:50.483+0000",
+  "latestRelease" : {
+    "objectId" : "item_406642",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T19:57:21.940+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F7A-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406642",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T19:57:21.940+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F7A-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Language contact and dialect contact : cross-generational  phonological variation in a puerto rican community in the midwest of the United States",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Michelle F.",
+        "familyName" : "Ramos-Pellicia",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37365",
+      "type" : "OTHER"
+    }, {
+      "id" : "puertorican_ramospellicia2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Columbus]",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: PC4095, LoC Subject Headings: Spanish language, LoC Subject Headings: Languages in contact--United States",
+    "subjects" : [ {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "240 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PC4095,\nLoC Subject Headings: Spanish language--Dialects--Ohio--Lorain, Spanish language--Variation, Spanish language--Phonology, Languages in contact--United States"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406641",
+    "name" : "puertorican_ramospellicia2004_s.pdf",
+    "creationDate" : "2010-04-01T13:44:50.305+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-91C0-7",
+    "content" : "/rest/items/item_406642_4/component/file_406641/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "aa0a08f058b1aa60d975a72438cdbfb8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1093785,
+    "metadata" : {
+      "title" : "puertorican_ramospellicia2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1093785
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2048068",
+    "name" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1101755688",
+    "creationDate" : "2014-08-04T09:13:41.789+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1101755688",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a08acaeea02e13bc3963bc71e8cc1150",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1101755688",
+      "contentCategory" : "any-fulltext",
+      "description" : "OhioLINK, Electronic Theses & Dissertations Center, pdf",
+      "size" : 0
+    }
+  } ]
+}

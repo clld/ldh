@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403412",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T10:23:55.011+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7EEE-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:23:55.011+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7EEE-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:00.498+0000",
+  "latestRelease" : {
+    "objectId" : "item_403412",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:23:55.011+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7EEE-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403412",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:23:55.011+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7EEE-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Tone in orthography : the case of Bafut and related languages",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Joseph Ngwa",
+        "familyName" : "Mfonyam",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1989",
+    "datePublishedInPrint" : "1989",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31222",
+      "type" : "OTHER"
+    }, {
+      "id" : "bafut_mfonyam1989_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Bafut language",
+    "subjects" : [ {
+      "value" : "bfd - Bafut",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xvi, 686 S.",
+    "abstracts" : [ {
+      "value" : "PL8047.5.B452, ISO 639-3 : bfd, Bafut language--Tone, Bafut language--Orthography and spelling, Ngyemboon language--Tone, Ngyemboon language--Orthography and spelling"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403411",
+    "name" : "bafut_mfonyam1989_o.pdf",
+    "creationDate" : "2010-04-01T12:17:56.875+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7EED-E",
+    "content" : "/rest/items/item_403412_3/component/file_403411/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "14615c369fa289f82051429038aa81fc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 38652919,
+    "metadata" : {
+      "title" : "bafut_mfonyam1989_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 38652919,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

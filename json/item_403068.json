@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403068",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-18T08:25:27.604+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-79E5-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter angepasst",
+  "lastModificationDate" : "2015-03-18T08:25:27.604+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7CE5-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:53:19.447+0000",
+  "latestRelease" : {
+    "objectId" : "item_403068",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T08:25:27.604+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-79E5-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403068",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T08:25:27.604+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-79E5-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Arabic phonology : implications for phonological theory and historical Semitic",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Michael K.",
+        "familyName" : "Brame",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1970",
+    "datePublishedInPrint" : "1972",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30927",
+      "type" : "OTHER"
+    }, {
+      "id" : "arabic_brame1970_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : " Massachusetts Institute of Technologie"
+    },
+    "freeKeywords" : "LoC Class: PJ6121, LoC Subject Headings: Arabic language",
+    "subjects" : [ {
+      "value" : "arb - Standard Arabic",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 463, [7] S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PJ6121,\nLoC Subject Headings: Arabic language--Phonology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403067",
+    "name" : "arabic_brame1970_o.pdf",
+    "creationDate" : "2010-04-01T11:53:17.353+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7CE4-C",
+    "content" : "/rest/items/item_403068_3/component/file_403067/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1b44d3bd2050edd06f4656f77c3f3f6e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 21051446,
+    "metadata" : {
+      "title" : "arabic_brame1970_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 21051446
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116677",
+    "name" : "http://hdl.handle.net/1721.1/12967",
+    "creationDate" : "2015-03-18T08:24:39.875+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/12967",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d5a4cfc79ed4babaee0d64cad1f58c9d",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/12967",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

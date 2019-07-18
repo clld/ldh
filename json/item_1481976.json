@@ -1,0 +1,112 @@
+{
+  "objectId" : "item_1481976",
+  "versionNumber" : 1,
+  "modificationDate" : "2012-07-06T11:43:19.943+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-000F-AA00-5",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "lastModificationDate" : "2012-07-06T11:43:19.943+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-000F-A9FF-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2012-07-06T11:42:59.618+0000",
+  "latestRelease" : {
+    "objectId" : "item_1481976",
+    "versionNumber" : 1,
+    "modificationDate" : "2012-07-06T11:43:19.943+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-000F-AA00-5",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_1481976",
+    "versionNumber" : 1,
+    "modificationDate" : "2012-07-06T11:43:19.943+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-000F-AA00-5",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "" ],
+  "metadata" : {
+    "title" : "Indagini sulla morfologia verbale nella lingua ayoreo",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Luca",
+        "familyName" : "Ciucci",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2007",
+    "dateSubmitted" : "2012-07-06",
+    "genre" : "ARTICLE",
+    "languages" : [ "ita" ],
+    "sources" : [ {
+      "title" : "Quaderni del Laboratorio di Linguistica",
+      "volume" : "7",
+      "identifiers" : [ {
+        "id" : "1251852-9",
+        "type" : "ZDB"
+      } ],
+      "genre" : "JOURNAL"
+    } ],
+    "freeKeywords" : "LoC Class: PM6556,\nLoC Subject Headings: Moro language (South America)",
+    "subjects" : [ {
+      "value" : "ayo - Ayoreo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "17"
+  },
+  "files" : [ {
+    "objectId" : "file_1481975",
+    "name" : "Ciucci_Ayoreo_verbal_morphology.pdf",
+    "creationDate" : "2012-07-06T11:42:59.495+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-000F-A9FE-8",
+    "content" : "/rest/items/item_1481976_1/component/file_1481975/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b1dc58c571d74f19a66988d5626822ab",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 204579,
+    "metadata" : {
+      "title" : "Ciucci_Ayoreo_verbal_morphology.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 204579,
+      "copyrightDate" : "2007",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/"
+    }
+  } ]
+}

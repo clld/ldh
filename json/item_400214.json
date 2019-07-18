@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_400214",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:50:48.424+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6C0F-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:50:48.424+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6C0F-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:42:36.003+0000",
+  "latestRelease" : {
+    "objectId" : "item_400214",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:50:48.424+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6C0F-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400214",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:50:48.424+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6C0F-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Chocho, Santa Catarina Ocotlán, Oaxaca",
+    "creators" : [ {
+      "organization" : {
+        "name" : "Centro de Investigación para la Integración\n              Social (Mexico City, Mexico)"
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    }, {
+      "person" : {
+        "givenName" : "Gloria",
+        "familyName" : "de Ruiz Bravo Ahuja",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1977",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "11818",
+      "type" : "OTHER"
+    }, {
+      "id" : "chocho_archivo1977_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "México",
+      "publisher" : "El Colegio de México"
+    },
+    "sources" : [ {
+      "title" : "Archivo de lenguas indígenas de México",
+      "volume" : "04",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM3641,\nLoC Subject Headings: Chocho language",
+    "totalNumberOfPages" : "175 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400212",
+    "name" : "http://www.colmex.mx/alim/coleccion.html",
+    "creationDate" : "2010-04-01T10:42:34.696+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6C0D-2",
+    "content" : "http://www.colmex.mx/alim/coleccion.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.colmex.mx/alim/coleccion.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400213",
+    "name" : "chocho_archivo1977_o.pdf",
+    "creationDate" : "2010-04-01T10:42:35.249+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6C0E-F",
+    "content" : "/rest/items/item_400214_2/component/file_400213/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d36ae5605157db2960dfda7b81252645",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7367718,
+    "metadata" : {
+      "title" : "chocho_archivo1977_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7367718
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

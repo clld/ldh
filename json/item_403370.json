@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_403370",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-13T01:36:43.158+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-721C-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:36:43.158+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7EAC-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:17:31.202+0000",
+  "latestRelease" : {
+    "objectId" : "item_403370",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T01:36:43.158+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-721C-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403370",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T01:36:43.158+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-721C-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A description of Moken : a Malayo-Polynesian language",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Chantanakomes, Veena",
+        "givenName" : "Veena",
+        "familyName" : "Chantanakomes",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1980",
+    "datePublishedInPrint" : "1980",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31191",
+      "type" : "OTHER"
+    }, {
+      "id" : "moken_veena1980_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Nakhon Pathom",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PL5031, LoC Subject Headings: Moken (Southeast Asian people), LoC Subject Headings: Austronesian languages",
+    "subjects" : [ {
+      "value" : "mwt - Moken",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxx, [38] S."
+  },
+  "files" : [ {
+    "objectId" : "file_403368",
+    "name" : "http://archives.sealang.net/mahidol",
+    "creationDate" : "2010-04-01T12:17:29.318+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://archives.sealang.net/mahidol",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "86fa3379c3cfd9ea6e00bb37274e97b0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://archives.sealang.net/mahidol",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403369",
+    "name" : "moken_veena1980_o.pdf",
+    "creationDate" : "2010-04-01T12:17:30.394+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7EAB-2",
+    "content" : "/rest/items/item_403370_3/component/file_403369/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c787e62ae6372d56bc961018072eab65",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8239636,
+    "metadata" : {
+      "title" : "moken_veena1980_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8239636
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

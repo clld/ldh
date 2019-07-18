@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_406714",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-08-04T10:06:11.398+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-1B4B-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-08-04T10:06:11.398+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9227-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:46:21.053+0000",
+  "latestRelease" : {
+    "objectId" : "item_406714",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-04T10:06:11.398+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1B4B-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406714",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-04T10:06:11.398+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1B4B-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The phonetics and phonology of rhotic duration contrast and neutralization",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Travis G.",
+        "familyName" : "Bradley",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37397",
+      "type" : "OTHER"
+    }, {
+      "id" : "rhotic_bradley2001_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[State College]",
+      "publisher" : "Pennsylvania State Univ."
+    },
+    "freeKeywords" : "LoC Class: PC4135,\nLoC Subject Headings: Spanish language",
+    "subjects" : [ {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "328 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PC4135,\nLoC Subject Headings: Spanish language--Phonology, Spanish language--Phonetics"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406713",
+    "name" : "rhotic_bradley2001_s.pdf",
+    "creationDate" : "2010-04-01T13:46:20.749+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9226-6",
+    "content" : "/rest/items/item_406714_3/component/file_406713/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "90d9f8779690a99170e378938b152201",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2482122,
+    "metadata" : {
+      "title" : "rhotic_bradley2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2482122
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2048091",
+    "name" : "http://hdl.rutgers.edu/1782.1/rucore00000002165.ETD.000064946",
+    "creationDate" : "2014-08-04T10:03:23.167+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-1B4E-B",
+    "content" : "http://hdl.rutgers.edu/1782.1/rucore00000002165.ETD.000064946",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f8e05ea2076680f480e1a09cbdb123c2",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.rutgers.edu/1782.1/rucore00000002165.ETD.000064946",
+      "contentCategory" : "any-fulltext",
+      "description" : "Rutgers Univ., RUcore community repository, pdf",
+      "size" : 0
+    }
+  } ]
+}

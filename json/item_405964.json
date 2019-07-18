@@ -1,0 +1,110 @@
+{
+  "objectId" : "item_405964",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-07-15T08:02:57.608+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-EC01-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz entfernt, nicht mehr verfügbar",
+  "lastModificationDate" : "2014-07-15T08:02:57.608+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8E0A-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:24:56.240+0000",
+  "latestRelease" : {
+    "objectId" : "item_405964",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-15T08:02:57.608+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-EC01-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405964",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-15T08:02:57.608+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-EC01-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A semantic framework for analyzing tense, aspect and mood : an application to the ranges of polysemy of -xr, -dir, -iyor and -Ø in Turkish",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ceyhan",
+        "familyName" : "Temürcü",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2007",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "35570",
+      "type" : "OTHER"
+    }, {
+      "id" : "semantic_temuercue2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "freeKeywords" : "LoC Class: PL101, LoC Subject Headings: Turkish language",
+    "subjects" : [ {
+      "value" : "tur - Turkish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XII, 233 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405963",
+    "name" : "semantic_temuercue2007_s.pdf",
+    "creationDate" : "2010-04-01T13:24:55.968+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E09-B",
+    "content" : "/rest/items/item_405964_4/component/file_405963/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1f3664ae888f9f05ebbbda10c3052b76",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1915964,
+    "metadata" : {
+      "title" : "semantic_temuercue2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1915964,
+      "copyrightDate" : "02.12.2010",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

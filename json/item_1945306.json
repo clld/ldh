@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_1945306",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-01-16T10:56:33.322+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-9220-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-01-16T10:56:33.322+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0015-8C48-3",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-03-13T08:10:22.825+0000",
+  "latestRelease" : {
+    "objectId" : "item_1945306",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-16T10:56:33.322+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-9220-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_1945306",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-16T10:56:33.322+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-9220-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Historical and statistical Information, respecting the History, Condition and Prospects of the Indian Tribes of the United States [Volume 5] : coll. and prepared under the direction of the Bureau of Indian Affairs per act of Congress of march 3rd 1847 ",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Henry Rowe",
+        "familyName" : "Schoolcraft",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1855",
+    "genre" : "MONOGRAPH",
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Philadelphia",
+      "publisher" : "Lippincott"
+    },
+    "freeKeywords" : "LoC Subject Headings: Indians of North America, LoC Subject Headings: Ojibwa language, LoC Class: E77",
+    "subjects" : [ {
+      "value" : "oji - Ojibwa",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "ciw - Chippewa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "667 S., 41 Bl. : Ill., Kt. ",
+    "abstracts" : [ {
+      "value" : "Chapter IX Language (p. 297 – 388): Includes an article about Chippewa Lanugage and the conjugation of the verb Waub, \"to see\", \nAppendix (p. 689-691): Includes short articles about dialects in New Mexico, vocabulary of the Passamaquoddy (Openango) and milicite numerals"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_1945304",
+    "name" : "indiantribes_schoolcraft1855_vol5_s.pdf",
+    "creationDate" : "2014-03-13T08:10:20.361+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0015-8C4A-0",
+    "content" : "/rest/items/item_1945306_3/component/file_1945304/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1f09f1f5fef80b82ceb786dad1e0b427",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 153058558,
+    "metadata" : {
+      "title" : "indiantribes_schoolcraft1855_vol5_s.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Vol. 5",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 153058558,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_1945305",
+    "name" : "http://reader.digitale-sammlungen.de/resolve/display/bsb10220588.html",
+    "creationDate" : "2014-03-13T08:10:22.564+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://reader.digitale-sammlungen.de/resolve/display/bsb10220588.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "900c728cecc00fc1f0dae6e4498948b0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://reader.digitale-sammlungen.de/resolve/display/bsb10220588.html",
+      "contentCategory" : "publisher-version",
+      "description" : "Vol. 5",
+      "size" : 0
+    }
+  } ]
+}

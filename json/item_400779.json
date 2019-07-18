@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_400779",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:45:13.523+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6F79-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:45:13.523+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6F79-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:59:03.600+0000",
+  "latestRelease" : {
+    "objectId" : "item_400779",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:45:13.523+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6F79-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400779",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:45:13.523+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6F79-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Aspectos da língua Xavante",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ruth",
+        "familyName" : "MacLeod",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Valerie",
+        "familyName" : "Mitchell"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2003",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "24193",
+      "type" : "OTHER"
+    }, {
+      "id" : "xavante_mcleod2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "4a impr. (electrônica), rev. e atual.",
+      "place" : "Cuiabá",
+      "publisher" : "Summer Institute of Linguistics"
+    },
+    "freeKeywords" : "LoC Subject Headings: Xavante language--Textbooks for foreign speakers--Portuguese",
+    "totalNumberOfPages" : "198 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400777",
+    "name" : "http://www.sil.org/americas/brasil/PUBLCNS/LING/XVGram.pdf",
+    "creationDate" : "2010-04-01T10:59:03.286+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F77-7",
+    "content" : "http://www.sil.org/americas/brasil/PUBLCNS/LING/XVGram.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2039c0bf9454513a8d8770367d737477",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/brasil/PUBLCNS/LING/XVGram.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400778",
+    "name" : "xavante_mcleod2003_s.pdf",
+    "creationDate" : "2010-04-01T10:59:03.483+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F78-5",
+    "content" : "/rest/items/item_400779_2/component/file_400778/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "02863ed353d25b57a3a25572fc647c1d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 367610,
+    "metadata" : {
+      "title" : "xavante_mcleod2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 367610
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,113 @@
+{
+  "objectId" : "item_2049478",
+  "versionNumber" : 2,
+  "modificationDate" : "2014-08-08T11:42:20.421+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-2B47-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2014-08-08T11:42:20.421+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-001A-29BA-6",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-08-08T09:45:12.873+0000",
+  "latestRelease" : {
+    "objectId" : "item_2049478",
+    "versionNumber" : 2,
+    "modificationDate" : "2014-08-08T11:42:20.421+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-2B47-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2049478",
+    "versionNumber" : 2,
+    "modificationDate" : "2014-08-08T11:42:20.421+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-2B47-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Nunggubuyu dictionary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jeffrey",
+        "familyName" : "Heath",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1982",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "0-85575-133-9",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Canberra",
+      "publisher" : "Australian Institute of Aboriginal Studies"
+    },
+    "freeKeywords" : "LoC Class: PL7101.N8, LoC Subject Headings: Nunggubuyu language",
+    "subjects" : [ {
+      "value" : "nuy - Nunggubuyu",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xvi, 399 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL7101.N8, LoC Subject Headings: Nunggubuyu language--Dictionaries--English, English language--Dictionaries--Nunggubuyu"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_2049477",
+    "name" : "nunggubuyudictionary_heath1982_o.pdf",
+    "creationDate" : "2014-08-08T09:45:12.323+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-29BE-D",
+    "content" : "/rest/items/item_2049478_2/component/file_2049477/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6eff7bbfe3b7fe399df2c971a03e8bbb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 15900941,
+    "metadata" : {
+      "title" : "nunggubuyudictionary_heath1982_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 15900941,
+      "copyrightDate" : "2014-April-24",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_404045",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-03T10:31:42.760+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0224-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter bereinigt",
+  "lastModificationDate" : "2015-03-03T10:31:42.760+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8341-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:33:19.774+0000",
+  "latestRelease" : {
+    "objectId" : "item_404045",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T10:31:42.760+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0224-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404045",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T10:31:42.760+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0224-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Aspects of Akan grammar and the phonology-syntax interface",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Charles Ofosu",
+        "familyName" : "Marfo",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32199",
+      "type" : "OTHER"
+    }, {
+      "id" : "akan_marfo2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Hong Kong",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL8046.A631, LoC Subject Headings: Akan language",
+    "subjects" : [ {
+      "value" : "aka - Akan",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "viii, 212 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8046.A631,\nLoC Subject Headings: Akan language -- Phonology, Show similar items, Akan language--Syntax, Akan language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404043",
+    "name" : "http://sunzi1.lib.hku.hk/hkuto/record/B32053563",
+    "creationDate" : "2010-04-01T12:33:18.431+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://sunzi1.lib.hku.hk/hkuto/record/B32053563",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3375e0b3801bcb29948679f5bf450e94",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://sunzi1.lib.hku.hk/hkuto/record/B32053563",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404044",
+    "name" : "akan_marfo2005_s.pdf",
+    "creationDate" : "2010-04-01T12:33:19.636+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8340-5",
+    "content" : "/rest/items/item_404045_3/component/file_404044/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "841dffff78d07c3a1e6ded0e807f875f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 806570,
+    "metadata" : {
+      "title" : "akan_marfo2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 806570
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

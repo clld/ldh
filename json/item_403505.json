@@ -1,0 +1,119 @@
+{
+  "objectId" : "item_403505",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T23:19:39.353+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70FB-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T23:19:39.353+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7FA7-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:04.087+0000",
+  "latestRelease" : {
+    "objectId" : "item_403505",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T23:19:39.353+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70FB-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403505",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T23:19:39.353+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70FB-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Lexical expansion in the Mankon language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Roseta Ade",
+        "familyName" : "Swiri ",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1998",
+    "datePublishedInPrint" : "1998",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31324",
+      "type" : "OTHER"
+    }, {
+      "id" : "mankon_swiri1998_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Yaoundé",
+      "publisher" : "Universite de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Mankon dialect, LoC Subject Headings: Ngemba languages (Cameroon)",
+    "subjects" : [ {
+      "value" : "nge - Ngemba",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix, 106 S.",
+    "abstracts" : [ {
+      "value" : "PL8496.M35, ISO 639-3 : nge, Mankon dialect, Ngemba languages (Cameroon)"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403504",
+    "name" : "mankon_swiri1998_o.pdf",
+    "creationDate" : "2010-04-01T12:19:03.779+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7FA6-4",
+    "content" : "/rest/items/item_403505_4/component/file_403504/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f490af5b8c3044fd0e69305c2df75c5e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2515431,
+    "metadata" : {
+      "title" : "mankon_swiri1998_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2515431,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_407386",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:50:45.295+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-95E4-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:50:45.295+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-95E4-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:12:44.734+0000",
+  "latestRelease" : {
+    "objectId" : "item_407386",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:50:45.295+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-95E4-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407386",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:50:45.295+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-95E4-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Aspectos da morfossintaxe da lingua Trumai (isolada) e de seu sistema de Marcacão de caso",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Guirardello, Raquel",
+        "givenName" : "Raquel",
+        "familyName" : "Guirardello",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1992",
+    "datePublishedInPrint" : "1992",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38543",
+      "type" : "OTHER"
+    }, {
+      "id" : "trumai_guirardello1992_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : " Univ. Estadual"
+    },
+    "freeKeywords" : "LoC Class: PM7158,\nLoC Subject Headings: Trumai language",
+    "subjects" : [ {
+      "value" : "tpy - Trumai",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "200 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407384",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000049080",
+    "creationDate" : "2010-04-01T14:12:43.127+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-95E2-6",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000049080",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2af3b87c5d4e525182fe8d789d791ae2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000049080",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407385",
+    "name" : "trumai_guirardello1992_o.pdf",
+    "creationDate" : "2010-04-01T14:12:44.144+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-95E3-4",
+    "content" : "/rest/items/item_407386_2/component/file_407385/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c4fe3e4d67c0140426a99d5266a1ac92",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5438698,
+    "metadata" : {
+      "title" : "trumai_guirardello1992_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5438698
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

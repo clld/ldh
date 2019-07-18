@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_404610",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T23:31:37.044+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7119-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T23:31:37.044+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8675-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:44:51.444+0000",
+  "latestRelease" : {
+    "objectId" : "item_404610",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T23:31:37.044+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7119-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404610",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T23:31:37.044+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7119-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The Yoruba language in Western Nigeria : its major dialect areas",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Adetugbo, Abiodun",
+        "givenName" : "Abiodun",
+        "familyName" : "Adetugbo",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1967",
+    "datePublishedInPrint" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "33609",
+      "type" : "OTHER"
+    }, {
+      "id" : "yoruba_adetugbo1967_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PL8824.Z9, LoC Subject Headings: Yoruba language, LoC Subject Headings: Nigeria -- Languages",
+    "subjects" : [ {
+      "value" : "yor - Yoruba",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "X, 270 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404608",
+    "name" : "http://tinyurl.com/4skqf2",
+    "creationDate" : "2010-04-01T12:44:45.605+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://tinyurl.com/4skqf2",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4807a709a03771e56d5785ef2253442c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://tinyurl.com/4skqf2",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404609",
+    "name" : "yoruba_adetugbo1967_o.pdf",
+    "creationDate" : "2010-04-01T12:44:50.413+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8674-8",
+    "content" : "/rest/items/item_404610_3/component/file_404609/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "883a454b948124b91294d993ff968b11",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9982547,
+    "metadata" : {
+      "title" : "yoruba_adetugbo1967_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9982547
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

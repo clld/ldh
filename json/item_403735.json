@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_403735",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T23:53:58.226+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7142-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T23:53:58.226+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-817A-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:23:12.894+0000",
+  "latestRelease" : {
+    "objectId" : "item_403735",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T23:53:58.226+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7142-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403735",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T23:53:58.226+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7142-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Filipino-English vocabulary with practical examples of Filipino and English grammars",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Dáluz, Eusebio T.",
+        "givenName" : "Eusebio T.",
+        "familyName" : "Dáluz",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1915",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31560",
+      "type" : "OTHER"
+    }, {
+      "id" : "filipino_daluz1915.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa", "eng" ],
+    "publishingInfo" : {
+      "edition" : "1. Aufl.",
+      "place" : "Manila",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL6055, LoC Subject Headings: Tagalog language--Dictionaries--English, LoC Subject Headings: Tagalog language--Grammar",
+    "subjects" : [ {
+      "value" : "tgl - Tagalog",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "5, [220] S."
+  },
+  "files" : [ {
+    "objectId" : "file_403733",
+    "name" : "http://www.hti.umich.edu/cgi/t/text/text-idx?c=philamer;idno=AEQ6702.0001.001",
+    "creationDate" : "2010-04-01T12:23:08.392+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.hti.umich.edu/cgi/t/text/text-idx?c=philamer;idno=AEQ6702.0001.001",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "98c850737168f200923c1c75e93764e5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.hti.umich.edu/cgi/t/text/text-idx?c=philamer;idno=AEQ6702.0001.001",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403734",
+    "name" : "filipino_daluz1915.pdf",
+    "creationDate" : "2010-04-01T12:23:11.174+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8179-8",
+    "content" : "/rest/items/item_403735_3/component/file_403734/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "34ab0492abbe7e2cdc787e7201dc3526",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 17890788,
+    "metadata" : {
+      "title" : "filipino_daluz1915.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 17890788
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_403720",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-04-07T08:09:50.706+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A7F4-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Korrektur Metadaten",
+  "lastModificationDate" : "2015-04-07T08:09:50.706+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8166-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:22:37.518+0000",
+  "latestRelease" : {
+    "objectId" : "item_403720",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-07T08:09:50.706+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7F4-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403720",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-07T08:09:50.706+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7F4-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A vocabulary and outlines of grammar of the Nitlakapamuk or Thompson tongue : the Indian language spoken between Yale, Lillooet, Cache Creek and Nicola Lake, together with a phonetic Chinook dictionary, adapted for use in the province of British Columbia",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "John Booth",
+        "familyName" : "Good",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1880",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31555",
+      "type" : "OTHER"
+    }, {
+      "id" : "thompson_good1880_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Victoria [B.C.]",
+      "publisher" : "St. Paul's Mission Press"
+    },
+    "freeKeywords" : "LoC Class: PM2045, LoC Subject Headings: Ntlakyapamuk language, LoC Subject Headings: Chinook language",
+    "subjects" : [ {
+      "value" : "thp - Thompson",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "chh - Chinook",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "46 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM2045, LoC Subject Headings: English language--Dictionaries--Chinook, English language--Dictionaries--Ntlakyapamuk, English language Dictionaries -- Ntlakyapamuk, Ntlakyapamuk language--Glossaries, vocabularies, etc., Ntlakyapamuk language, English language Dictionaries -- Chinook"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403718",
+    "name" : "http://www.canadiana.org/ECO/ItemRecord/02276",
+    "creationDate" : "2010-04-01T12:22:36.764+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.canadiana.org/ECO/ItemRecord/02276",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "113bdb8a31e80cfea69830e1b61329a7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.canadiana.org/ECO/ItemRecord/02276",
+      "contentCategory" : "publisher-version",
+      "description" : "Early Canadiana online, view online",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403719",
+    "name" : "thompson_good1880_o.pdf",
+    "creationDate" : "2010-04-01T12:22:37.236+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8165-3",
+    "content" : "/rest/items/item_403720_6/component/file_403719/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0179e27bf19b6fbb896fae7457951b27",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2314851,
+    "metadata" : {
+      "title" : "thompson_good1880_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2314851
+    }
+  } ]
+}

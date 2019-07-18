@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_400025",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T16:39:32.906+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6DE8-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T16:39:32.906+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6AF7-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:38:43.339+0000",
+  "latestRelease" : {
+    "objectId" : "item_400025",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T16:39:32.906+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6DE8-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400025",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T16:39:32.906+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6DE8-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Philippine languages : discourse, paragraph and sentence structure",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Longacre, Robert E.",
+        "givenName" : "Robert E.",
+        "familyName" : "Longacre",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1970",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "745",
+      "type" : "OTHER"
+    }, {
+      "id" : "phillipine_longacre1968_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "Microfiche ed.",
+      "place" : "Dallas",
+      "publisher" : "Summer Institute of Linguistics"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics",
+      "volume" : "21",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL5506, LoC Subject Headings: Philippine languages, LoC Subject Headings: Philippine languages--Syntax",
+    "totalNumberOfPages" : "6 MF"
+  },
+  "files" : [ {
+    "objectId" : "file_400023",
+    "name" : "http://www.ethnologue.com/show_work.asp?id=11481",
+    "creationDate" : "2010-04-01T10:38:40.632+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.ethnologue.com/show_work.asp?id=11481",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "07f7188809a9e152e0c06af5e2c53176",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ethnologue.com/show_work.asp?id=11481",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400024",
+    "name" : "phillipine_longacre1968_o.pdf",
+    "creationDate" : "2010-04-01T10:38:41.249+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6AF6-2",
+    "content" : "/rest/items/item_400025_3/component/file_400024/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6af7b5e65d0cedd3a0821a6ef58e6a49",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 21652483,
+    "metadata" : {
+      "title" : "phillipine_longacre1968_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 21652483
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

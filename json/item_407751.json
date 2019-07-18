@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_407751",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:48:11.622+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-97DE-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:48:11.622+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-97DE-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:19:45.597+0000",
+  "latestRelease" : {
+    "objectId" : "item_407751",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:48:11.622+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-97DE-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407751",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:48:11.622+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-97DE-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Senoufo phonology, discourse to syllable : (a prosodic approach)",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Mills, Elizabeth",
+        "givenName" : "Elizabeth",
+        "familyName" : "Mills",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1984",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "41822",
+      "type" : "OTHER"
+    }, {
+      "id" : "senoufo_mills1984_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Dallas, Tex.",
+      "publisher" : "Summer Institute of Linguistics [u.a.]"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics",
+      "volume" : "72",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL8658.1,\nLoC Subject Headings: Senari language--Phonology",
+    "subjects" : [ {
+      "value" : "sef - Cebaara Senoufo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XXVII, 217 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407749",
+    "name" : "http://www.ethnologue.com/show_work.asp?id=18838",
+    "creationDate" : "2010-04-01T14:19:44.222+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-97DC-8",
+    "content" : "http://www.ethnologue.com/show_work.asp?id=18838",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ec492ac8ad18e38ba153184f025c1dc2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ethnologue.com/show_work.asp?id=18838",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407750",
+    "name" : "senoufo_mills1984_o.pdf",
+    "creationDate" : "2010-04-01T14:19:44.918+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-97DD-6",
+    "content" : "/rest/items/item_407751_2/component/file_407750/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6066aeeca3e2a0ccaa12a14c6bb57368",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6723249,
+    "metadata" : {
+      "title" : "senoufo_mills1984_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6723249
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

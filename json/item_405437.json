@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_405437",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T20:17:35.273+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FA5-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:17:35.273+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B15-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:12:39.031+0000",
+  "latestRelease" : {
+    "objectId" : "item_405437",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:17:35.273+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FA5-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405437",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:17:35.273+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FA5-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Pragmatics and language learning : Volume 5",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lawrence F.",
+        "familyName" : "Bouton",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Yamuna",
+        "familyName" : "Kachsu"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1994",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34955",
+      "type" : "OTHER"
+    }, {
+      "id" : "pragmatics_bouton1994_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Urbana-Champaign",
+      "publisher" : "Illinois Univ."
+    },
+    "freeKeywords" : "LoC Class: P99.4.P72, LoC Subject Headings: Pragmatics, LoC Subject Headings: Language and languages --Study and teaching, LoC Subject Headings: Second language acquisition",
+    "totalNumberOfPages" : "V, 315 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405436",
+    "name" : "pragmatics_bouton1994_o.pdf",
+    "creationDate" : "2010-04-01T13:12:37.699+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B14-5",
+    "content" : "/rest/items/item_405437_4/component/file_405436/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "79d7b75e1934ec8a77f2b54f44790f79",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 13894185,
+    "metadata" : {
+      "title" : "pragmatics_bouton1994_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 13894185
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_527038",
+    "name" : "http://eric.ed.gov/PDFS/ED398736.pdf",
+    "creationDate" : "2010-09-23T11:36:06.663+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://eric.ed.gov/PDFS/ED398736.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "096dd6b09a331f8d890763cd8fd62f99",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eric.ed.gov/PDFS/ED398736.pdf",
+      "contentCategory" : "any-fulltext",
+      "size" : 0
+    }
+  } ]
+}

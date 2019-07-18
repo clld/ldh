@@ -1,0 +1,116 @@
+{
+  "objectId" : "item_2249192",
+  "versionNumber" : 3,
+  "modificationDate" : "2017-01-23T14:06:48.956+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-002C-44A2-9",
+  "modifier" : {
+    "objectId" : "user_2073577"
+  },
+  "message" : "Release during adding DOI",
+  "lastModificationDate" : "2017-02-20T08:28:54.666+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0029-B0ED-4",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2016-02-16T08:29:38.413+0000",
+  "latestRelease" : {
+    "objectId" : "item_2249192",
+    "versionNumber" : 3,
+    "modificationDate" : "2017-01-23T14:06:48.956+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002C-44A2-9",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2249192",
+    "versionNumber" : 4,
+    "modificationDate" : "2017-02-20T08:28:54.666+0000",
+    "versionState" : "SUBMITTED",
+    "versionPid" : null,
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Dictionary Humburi Senni (Songhay of Hombori, Mali) - English - French : Dictionnaire Humburi Senni (songhay de Hombori, Mali) - anglais - français",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jeffrey",
+        "familyName" : "Heath",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "University of Michigan",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ],
+        "identifier" : {
+          "id" : "/persons/resource/persons202070",
+          "type" : "CONE"
+        }
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedOnline" : "2016-02",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "10.17617/2.2249192",
+      "type" : "DOI"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Ann Arbor",
+      "publisher" : "Univ. of Michigan"
+    },
+    "freeKeywords" : "LoC Subject Headings: Songhai language,  LoC Class: PL 8685",
+    "subjects" : [ {
+      "value" : "hmb - Humburi Senni Songhay",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vi, 248"
+  },
+  "files" : [ {
+    "objectId" : "file_2249191",
+    "name" : "Heath_HumburiSenni_2015.pdf",
+    "creationDate" : "2016-02-16T08:29:37.529+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0029-B0EF-F",
+    "content" : "/rest/items/item_2249192_3/component/file_2249191/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "aa7b47fca6cfe96a0882b560d89ee1b6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 83603707,
+    "metadata" : {
+      "title" : "Heath_HumburiSenni_2015.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 83603707,
+      "copyrightDate" : "2016-02-13",
+      "rights" : "©by the author ",
+      "license" : "http:/ / creativecommons.org/licenses/by/4.0/"
+    }
+  } ]
+}

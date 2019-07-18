@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_402401",
+  "versionNumber" : 7,
+  "modificationDate" : "2015-05-19T07:50:24.350+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-D09F-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter aktualisiert",
+  "lastModificationDate" : "2015-05-19T07:50:24.350+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-78F5-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:31:12.624+0000",
+  "latestRelease" : {
+    "objectId" : "item_402401",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-05-19T07:50:24.350+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D09F-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402401",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-05-19T07:50:24.350+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D09F-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "De l'ordre des mots dans les langues anciennes comparées aux langues modernes",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Henri",
+        "familyName" : "Weil",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1844",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29851",
+      "type" : "OTHER"
+    }, {
+      "id" : "mots_weil1844_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Paris",
+      "publisher" : "Crapelet"
+    },
+    "sources" : [ {
+      "title" : "Question de grammaire générale",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P143, LoC Subject Headings: Comparative linguistics, LoC Subject Headings: Languages/Modern, LoC Subject Headings: Classical languages, LoC Subject Headings: Comparative linguistics",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "133 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PB213,\nLoC Subject Headings: Languages/Modern -- Word order, Classical languages -- Word order"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402400",
+    "name" : "mots_weil1844_o.pdf",
+    "creationDate" : "2010-04-01T11:31:12.158+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-78F4-6",
+    "content" : "/rest/items/item_402401_7/component/file_402400/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "13d2b4e763e76490bebda495ef239304",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4214411,
+    "metadata" : {
+      "title" : "mots_weil1844_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4214411,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2110821",
+    "name" : "https://archive.org/details/delordredesmots02weilgoog",
+    "creationDate" : "2015-03-11T08:35:39.776+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/delordredesmots02weilgoog",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "dbef7b322cf524bc6609a919bca73681",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/delordredesmots02weilgoog",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, Internet Archive, view online",
+      "size" : 0
+    }
+  } ]
+}

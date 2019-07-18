@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_404157",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-18T10:54:57.887+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7A86-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-18T10:54:57.887+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-83E4-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:35:59.503+0000",
+  "latestRelease" : {
+    "objectId" : "item_404157",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T10:54:57.887+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A86-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404157",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T10:54:57.887+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A86-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Blackfoot for beginners : books 1, 2, and 3",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Esther",
+        "familyName" : "Tailfeathers",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1993",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "32335",
+      "type" : "OTHER"
+    }, {
+      "id" : "blackfoot_tailfeathers1993_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Edmonton",
+      "publisher" : "Alberta Dept. of Education"
+    },
+    "freeKeywords" : "LoC Class: PM2341, LoC Subject Headings: Blackfoot language",
+    "subjects" : [ {
+      "value" : "bla - Siksika",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "299 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM2341, LoC Subject Headings: Blackfoot language--Study and teaching--Alberta"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404156",
+    "name" : "blackfoot_tailfeathers1993_o.pdf",
+    "creationDate" : "2010-04-01T12:35:58.892+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-83E3-A",
+    "content" : "/rest/items/item_404157_3/component/file_404156/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ae4afb92b786110fe6059f1f0dc632c1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5774011,
+    "metadata" : {
+      "title" : "blackfoot_tailfeathers1993_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5774011
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116726",
+    "name" : "http://eric.ed.gov/?q=Blackfoot+for+beginners&id=ED365158",
+    "creationDate" : "2015-03-18T10:54:22.674+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://eric.ed.gov/?q=Blackfoot+for+beginners&id=ED365158",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3490d24a6fffa0535b50098316aa05b1",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eric.ed.gov/?q=Blackfoot+for+beginners&id=ED365158",
+      "contentCategory" : "publisher-version",
+      "description" : "Education Resources Information Center (ERIC), pdf download",
+      "size" : 0
+    }
+  } ]
+}

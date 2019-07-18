@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_402109",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T11:40:43.141+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7739-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:40:43.141+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7739-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:25:58.172+0000",
+  "latestRelease" : {
+    "objectId" : "item_402109",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T11:40:43.141+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7739-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402109",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T11:40:43.141+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7739-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Principes généraux de grammaire pour toutes les langues : avec leur application particulière langue française",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Étienne Bonnot de",
+        "familyName" : "Condillac",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1798",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29148",
+      "type" : "OTHER"
+    }, {
+      "id" : "grammaire_condillac1798_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "nouvelle éd.",
+      "place" : "Paris",
+      "publisher" : "Ducour"
+    },
+    "freeKeywords" : "LoC Subject Headings: French language",
+    "subjects" : [ {
+      "value" : "fra - French",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "368 S.",
+    "abstracts" : [ {
+      "value" : "PC2109, ISO 639-3 : fra, Grammar, Comparative and general, French language -- Grammar -- Early works to 1800"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402107",
+    "name" : "http://visualiseur.bnf.fr/CadresFenetre?O=NUMM-84340&M=pagination&Y=Image",
+    "creationDate" : "2010-04-01T11:25:55.509+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7737-7",
+    "content" : "http://visualiseur.bnf.fr/CadresFenetre?O=NUMM-84340&M=pagination&Y=Image",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7b303dae1dc61db6417715db8bb6d0dd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://visualiseur.bnf.fr/CadresFenetre?O=NUMM-84340&M=pagination&Y=Image",
+      "contentCategory" : "publisher-version",
+      "description" : "Gallica, bnf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402108",
+    "name" : "grammaire_condillac1798_o.pdf",
+    "creationDate" : "2010-04-01T11:25:55.820+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7738-5",
+    "content" : "/rest/items/item_402109_4/component/file_402108/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8547728b18de0340e9201ed5f94861a5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 24791232,
+    "metadata" : {
+      "title" : "grammaire_condillac1798_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 24791232,
+      "copyrightDate" : "2010-06-17",
+      "rights" : "not in copyright, Etienne Bonnot de Condillac 1714-1780"
+    }
+  } ]
+}

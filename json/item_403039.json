@@ -1,0 +1,168 @@
+{
+  "objectId" : "item_403039",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-05-19T05:55:00.871+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-D07E-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-19T05:55:00.871+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7CB2-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:51:29.517+0000",
+  "latestRelease" : {
+    "objectId" : "item_403039",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-05-19T05:55:00.871+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D07E-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403039",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-05-19T05:55:00.871+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D07E-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Kwakiutl texts - Second series",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Franz",
+        "familyName" : "Boas",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "George",
+        "familyName" : "Hunt"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1906",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "30894",
+      "type" : "OTHER"
+    }, {
+      "id" : "kwakiutl_boas1902_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Leiden [u.a.]",
+      "publisher" : "Brill"
+    },
+    "sources" : [ {
+      "title" : "Memoir of the American museum of natural history ",
+      "creators" : [ {
+        "organization" : {
+          "identifier" : "ou_persistent22",
+          "name" : "American Museum of Natural History <New York, NY>",
+          "identifierPath" : [ "ou_persistent22" ]
+        },
+        "role" : "EDITOR",
+        "type" : "ORGANIZATION"
+      } ],
+      "volume" : "14.1",
+      "genre" : "SERIES"
+    }, {
+      "title" : "Publications of the Jesup north Pacific expedition ",
+      "creators" : [ {
+        "organization" : {
+          "identifier" : "ou_persistent22",
+          "name" : "Jesup North Pacific Expedition <1897 - 1903>",
+          "identifierPath" : [ "ou_persistent22" ]
+        },
+        "role" : "EDITOR",
+        "type" : "ORGANIZATION"
+      } ],
+      "volume" : "10.1",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM1641.Z77, LoC Subject Headings: Kwakiutl language",
+    "subjects" : [ {
+      "value" : "kwk - Kwakiutl",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "269 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403037",
+    "name" : "http://hdl.handle.net/2246/22",
+    "creationDate" : "2010-04-01T11:51:22.536+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/2246/22",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "96b8bf43d4c25460694f97de692ed127",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/2246/22",
+      "contentCategory" : "publisher-version",
+      "description" : "American Museum of Natural History (AMHN) Research Library",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403038",
+    "name" : "kwakiutl_boas1902_s.pdf",
+    "creationDate" : "2010-04-01T11:51:23.162+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7CB1-D",
+    "content" : "/rest/items/item_403039_5/component/file_403038/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b2d5473f4a585408962c1c93174c69a5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 66736689,
+    "metadata" : {
+      "title" : "kwakiutl_boas1902_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 66736689
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

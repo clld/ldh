@@ -1,0 +1,146 @@
+{
+  "objectId" : "item_406886",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-04-28T06:57:18.251+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C299-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-28T06:57:18.251+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9321-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:49:06.475+0000",
+  "latestRelease" : {
+    "objectId" : "item_406886",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-28T06:57:18.251+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C299-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406886",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-28T06:57:18.251+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C299-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Resumptive chains in restrictive relatives, appositives and dislocation structures",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Hamida Khadiga",
+        "familyName" : "Demirdache",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1991",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37493",
+      "type" : "OTHER"
+    }, {
+      "id" : "resumptive_demirdache1991_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge, MA",
+      "publisher" : "Massachusetts Institute of Technology"
+    },
+    "sources" : [ {
+      "title" : "MIT Working Papers in Linguistics",
+      "alternativeTitles" : [ {
+        "value" : "MITWPL",
+        "type" : "ABBREVIATION"
+      } ],
+      "publishingInfo" : {
+        "place" : "Cambridge, MA",
+        "publisher" : "Massachusetts Institute of Technology"
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P279, LoC Subject Headings: Grammar/Comparative and general--Pronoun, LoC Subject Headings: Grammar/Comparative and general--Apposition, LoC Subject Headings: Grammar/Comparative and general--Clitics, LoC Subject Headings: Grammar/Comparative and general--Interrogative",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "215 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406885",
+    "name" : "resumptive_demirdache1991_o.pdf",
+    "creationDate" : "2010-04-01T13:49:05.260+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9320-A",
+    "content" : "/rest/items/item_406886_5/component/file_406885/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d109d68508d53f7b61a62da340d35ab8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12627463,
+    "metadata" : {
+      "title" : "resumptive_demirdache1991_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12627463,
+      "copyrightDate" : "2010-11-30",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  }, {
+    "objectId" : "file_2062580",
+    "name" : "http://hdl.handle.net/1721.1/13518",
+    "creationDate" : "2014-10-17T11:18:12.577+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/13518",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "538b526d4d515b4b050b97d16213c40d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/13518",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, theses, pdf",
+      "size" : 0
+    }
+  } ]
+}

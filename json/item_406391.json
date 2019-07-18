@@ -1,0 +1,144 @@
+{
+  "objectId" : "item_406391",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T20:53:56.628+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FF8-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:53:56.628+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9063-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:37:19.983+0000",
+  "latestRelease" : {
+    "objectId" : "item_406391",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:53:56.628+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FF8-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406391",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:53:56.628+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FF8-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The changing character of the mental lexicon : an Information-based Account of Early Word Learning",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jesse",
+        "familyName" : "Snedeker",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Michael",
+        "familyName" : "Brent"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Lila",
+        "familyName" : "Gleitman"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2008",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "36808",
+      "type" : "OTHER"
+    }, {
+      "id" : "mentallexicon_snedeker2001_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N.A.",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: P118, LoC Subject Headings: Language acquisition, LoC Subject Headings: Lexicology",
+    "totalNumberOfPages" : "63 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406389",
+    "name" : "http://www.wjh.harvard.edu/~lds/pdfs/SnedekerBrent&Gleitman.pdf",
+    "creationDate" : "2010-04-01T13:37:18.434+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9061-3",
+    "content" : "http://www.wjh.harvard.edu/~lds/pdfs/SnedekerBrent&Gleitman.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6d61ab8e9210411d4880461b32560eff",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.wjh.harvard.edu/~lds/pdfs/SnedekerBrent&Gleitman.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406390",
+    "name" : "mentallexicon_snedeker2001_s.pdf",
+    "creationDate" : "2010-04-01T13:37:19.884+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9062-1",
+    "content" : "/rest/items/item_406391_3/component/file_406390/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6d61ab8e9210411d4880461b32560eff",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 388832,
+    "metadata" : {
+      "title" : "mentallexicon_snedeker2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 388832
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

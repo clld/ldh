@@ -1,0 +1,147 @@
+{
+  "objectId" : "item_402836",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:39:53.996+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7B82-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:39:53.996+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7B82-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:45:43.181+0000",
+  "latestRelease" : {
+    "objectId" : "item_402836",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:39:53.996+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7B82-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402836",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:39:53.996+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7B82-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Seimat grammar essentials",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Wozna, Beata",
+        "givenName" : "Beata",
+        "familyName" : "Wozna",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Theresa",
+        "familyName" : "Wilson"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30649",
+      "type" : "OTHER"
+    }, {
+      "id" : "seimat_wozna&wilson2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ukarumpa",
+      "publisher" : "Summer Institute of Linguistics"
+    },
+    "sources" : [ {
+      "title" : "Data papers on Papua New Guinea languages",
+      "volume" : "48",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6304 .W69,\nLoC Subject Headings: Seimat language-Grammar",
+    "subjects" : [ {
+      "value" : "ssg - Seimat",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "96 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402834",
+    "name" : "http://www.sil.org/pacific/png/pubs/0000018/Seimat_Grammar_Essentials.pdf",
+    "creationDate" : "2010-04-01T11:45:38.789+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7B80-1",
+    "content" : "http://www.sil.org/pacific/png/pubs/0000018/Seimat_Grammar_Essentials.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6fbf289f09aab2ad5a046dca15bc30e4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/pacific/png/pubs/0000018/Seimat_Grammar_Essentials.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402835",
+    "name" : "seimat_wozna&wilson2005_s.pdf",
+    "creationDate" : "2010-04-01T11:45:43.017+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7B81-0",
+    "content" : "/rest/items/item_402836_2/component/file_402835/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8a4a21d331a016c7c867685caa2b289f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 732771,
+    "metadata" : {
+      "title" : "seimat_wozna&wilson2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 732771
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

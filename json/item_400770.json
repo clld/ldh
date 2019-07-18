@@ -1,0 +1,144 @@
+{
+  "objectId" : "item_400770",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T16:08:45.318+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6D9C-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T16:08:45.318+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6F6D-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:58:20.555+0000",
+  "latestRelease" : {
+    "objectId" : "item_400770",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T16:08:45.318+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6D9C-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400770",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T16:08:45.318+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6D9C-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario básico del mixteco de Xochapa, Guerrero",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Stark C., Sharon Sara",
+        "givenName" : "Stark",
+        "familyName" : "C.",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Johnson",
+        "familyName" : "P."
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2003",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "24167",
+      "type" : "OTHER"
+    }, {
+      "id" : "mixteco_stark2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "2a ed. (versión electrónica)",
+      "place" : "Coyoacán",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "freeKeywords" : "LoC Class: PM4016.Z5, LoC Subject Headings: Mixtec language--Dictionaries--Spanish, LoC Subject Headings: Mixtec language--Mexico--Guerrero (State), LoC Subject Headings: Spanish language--Dictionaries--Mixtec, LoC Subject Headings: Mixtec language--Grammar",
+    "subjects" : [ {
+      "value" : "xta - Mixtec, Alcozauca",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "164 S.",
+    "abstracts" : [ {
+      "value" : "This bilingual Mixtec-Spanish dictionary\n              documents the variety of Mixtec spoken in the\n              town of Xochapa, in the municipio of Alcozauca\n              , Guerrero, Mexico. It is a \"basic\" dictionary\n              in two senses: only the most common words\n              (approximately 500) are represented as entry\n              forms and the entry forms are the most basic\n              forms of the words. Compound and derived forms\n              of words are generally given as subentries,\n              but do not have full entries of their own. (It\n              does, however, include minor entries for\n              variant and irregular forms.)"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400768",
+    "name" : "mixteco_stark2003_s.pdf",
+    "creationDate" : "2010-04-01T10:58:20.067+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F6B-3",
+    "content" : "/rest/items/item_400770_3/component/file_400768/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "266ac23608b6bd2b82efcc5a0dbf7c2d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2439092,
+    "metadata" : {
+      "title" : "mixteco_stark2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2439092
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_400769",
+    "name" : "http://www.sil.org/mexico/mixteca/xochapa/P004-DiccXochapa-xta.htm",
+    "creationDate" : "2010-04-01T10:58:20.346+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/mexico/mixteca/xochapa/P004-DiccXochapa-xta.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "df2c208b06d02f22aca0abb1727bc709",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/mexico/mixteca/xochapa/P004-DiccXochapa-xta.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  } ]
+}

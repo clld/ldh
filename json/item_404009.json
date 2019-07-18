@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_404009",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-11T10:07:15.062+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-20ED-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-11T10:07:15.062+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8310-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:32:41.311+0000",
+  "latestRelease" : {
+    "objectId" : "item_404009",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-11T10:07:15.062+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-20ED-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404009",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-11T10:07:15.062+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-20ED-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The logic of variation : A cross-linguistic account of wh-question formation",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Willemien Katrien",
+        "familyName" : "Vermaat",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32119",
+      "type" : "OTHER"
+    }, {
+      "id" : "variation_vermaat2006_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "90-76864-89-6",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "sources" : [ {
+      "title" : "LOT Dissertation Series",
+      "volume" : "121",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P299.I57, LoC Subject Headings: Grammar/Comparative and general--Interrogative",
+    "totalNumberOfPages" : "235 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404008",
+    "name" : "variation_vermaat2006_s.pdf",
+    "creationDate" : "2010-04-01T12:32:41.064+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-830F-A",
+    "content" : "/rest/items/item_404009_4/component/file_404008/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "756480052271213bafe5e3ea39723448",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2037820,
+    "metadata" : {
+      "title" : "variation_vermaat2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2037820
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110872",
+    "name" : "http://dspace.library.uu.nl/handle/1874/8128",
+    "creationDate" : "2015-03-11T10:05:43.164+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dspace.library.uu.nl/handle/1874/8128",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "daa77b8ca851f8933ffcd116af6f1d77",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dspace.library.uu.nl/handle/1874/8128",
+      "contentCategory" : "publisher-version",
+      "description" : "Utrecht Univ., Repository, pdf download",
+      "size" : 0
+    }
+  } ]
+}

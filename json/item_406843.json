@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_406843",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-28T07:33:14.797+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C2AC-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-28T07:33:14.797+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-92DD-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:48:07.926+0000",
+  "latestRelease" : {
+    "objectId" : "item_406843",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-28T07:33:14.797+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2AC-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406843",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-28T07:33:14.797+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2AC-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Phonologie et morphologie du Japhug (rGyalrong)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Guillaume",
+        "familyName" : "Jacques",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37466",
+      "type" : "OTHER"
+    }, {
+      "id" : "japhug_jacques2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "place" : "Paris",
+      "publisher" : "Univ. Paris-Diderot/Paris VII"
+    },
+    "freeKeywords" : "LoC Class: PL3651.G91, LoC Subject Headings: Gyarung language",
+    "subjects" : [ {
+      "value" : "jya - Jiarong",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "529 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406841",
+    "name" : "http://tel.archives-ouvertes.fr/tel-00138568/",
+    "creationDate" : "2010-04-01T13:48:07.151+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://tel.archives-ouvertes.fr/tel-00138568/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f55426ce47acf15759e623a1b46ce794",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://tel.archives-ouvertes.fr/tel-00138568/",
+      "contentCategory" : "publisher-version",
+      "description" : "TEL, multidisciplinary theses server, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406842",
+    "name" : "japhug_jacques2004_s.pdf",
+    "creationDate" : "2010-04-01T13:48:07.511+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-92DC-0",
+    "content" : "/rest/items/item_406843_4/component/file_406842/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7f429b89b2d134aa03fecac8eced057e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3507112,
+    "metadata" : {
+      "title" : "japhug_jacques2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3507112,
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/"
+    }
+  } ]
+}

@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_406720",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:45:21.830+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-922F-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:45:21.830+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-922F-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:46:34.432+0000",
+  "latestRelease" : {
+    "objectId" : "item_406720",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:45:21.830+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-922F-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406720",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:45:21.830+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-922F-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Yokuts dialect survey",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Kroeber, Alfred Louis",
+        "givenName" : "Alfred Louis",
+        "familyName" : "Kroeber",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1963",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37399",
+      "type" : "OTHER"
+    }, {
+      "id" : "yokuts_kroeber1963_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Berkeley [u.a.]",
+      "publisher" : "Univ. of California Press"
+    },
+    "sources" : [ {
+      "title" : "University of California publications : anthropological records",
+      "volume" : "11,3",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM2681.Z77,\nLoC Subject Headings: Yokuts language -- Dialects",
+    "subjects" : [ {
+      "value" : "yok - Yokuts",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "viii, 177-251 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406718",
+    "name" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=225",
+    "creationDate" : "2010-04-01T13:46:31.801+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-922D-7",
+    "content" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=225",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f0792ec171bd4367ed2066a54fb8ad3e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=225",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406719",
+    "name" : "yokuts_kroeber1963_o.pdf",
+    "creationDate" : "2010-04-01T13:46:33.301+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-922E-5",
+    "content" : "/rest/items/item_406720_2/component/file_406719/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8fe7255ab83ce58cb5c85945f00f8391",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11664919,
+    "metadata" : {
+      "title" : "yokuts_kroeber1963_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11664919
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

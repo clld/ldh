@@ -1,0 +1,146 @@
+{
+  "objectId" : "item_407159",
+  "versionNumber" : 12,
+  "modificationDate" : "2011-05-31T09:36:49.893+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-94A7-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:36:49.893+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-94A7-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:56:26.291+0000",
+  "latestRelease" : {
+    "objectId" : "item_407159",
+    "versionNumber" : 12,
+    "modificationDate" : "2011-05-31T09:36:49.893+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-94A7-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407159",
+    "versionNumber" : 12,
+    "modificationDate" : "2011-05-31T09:36:49.893+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-94A7-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Moseteno vocabulary and treatises",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Benigno",
+        "familyName" : "Bibolotti",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Rudolph",
+        "familyName" : "Schuller"
+      },
+      "role" : "CONTRIBUTOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1917",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37751",
+      "type" : "OTHER"
+    }, {
+      "id" : "moseteno_bibolotti1917_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Evanston , Chicago",
+      "publisher" : "Northwestern Univ."
+    },
+    "freeKeywords" : "LoC Subject Headings: Moseteno language",
+    "subjects" : [ {
+      "value" : "cas - Tsimané",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "cxiii, 141 S.",
+    "abstracts" : [ {
+      "value" : "ISO 639-3 : cas, Franciscans -- Bolivia, Moseteno language, Mosetenos, Moseten language --Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407157",
+    "name" : "http://www.archive.org/details/mosetenovocabula00biboiala",
+    "creationDate" : "2010-04-01T13:56:21.261+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-94A5-9",
+    "content" : "http://www.archive.org/details/mosetenovocabula00biboiala",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4f23c9944e7bd1ec495727918ecfe729",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/mosetenovocabula00biboiala",
+      "contentCategory" : "publisher-version",
+      "description" : "Internet Archive",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407158",
+    "name" : "moseteno_bibolotti1917_o.pdf",
+    "creationDate" : "2010-04-01T13:56:22.512+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-94A6-7",
+    "content" : "/rest/items/item_407159_12/component/file_407158/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ede906c8f4963c9cb3335a79e84e0dae",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 18145275,
+    "metadata" : {
+      "title" : "moseteno_bibolotti1917_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 18145275,
+      "copyrightDate" : "2010-04-22",
+      "rights" : "Bibolotti, Benigno 1857-1868\nSchuller, Rudolph 1879-1932"
+    }
+  } ]
+}

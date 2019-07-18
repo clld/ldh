@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_401979",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-13T01:53:18.247+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7237-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:53:18.247+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-766F-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:23:53.996+0000",
+  "latestRelease" : {
+    "objectId" : "item_401979",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T01:53:18.247+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7237-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401979",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T01:53:18.247+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7237-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A natural history of complete consonantal assimilations",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "James Wallace",
+        "familyName" : "Hutcheson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1973",
+    "datePublishedInPrint" : "1973",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "28846",
+      "type" : "OTHER"
+    }, {
+      "id" : "assimilations_hutcheson1973_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Ohio",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: P217, LoC Subject Headings: Grammar/Comparative and general--Phonology, LoC Subject Headings: Generative grammar",
+    "totalNumberOfPages" : "iv, 129 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401978",
+    "name" : "assimilations_hutcheson1973_o.pdf",
+    "creationDate" : "2010-04-01T11:23:53.579+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-766E-6",
+    "content" : "/rest/items/item_401979_5/component/file_401978/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0161b36fecff35f05ed2297bd4bc8c54",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3822715,
+    "metadata" : {
+      "title" : "assimilations_hutcheson1973_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3822715
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2033124",
+    "name" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1116356201",
+    "creationDate" : "2014-06-13T09:30:30.098+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1116356201",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4d483de22b1731c1bb4d5601d3e996ec",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1116356201",
+      "contentCategory" : "publisher-version",
+      "description" : "OhioLINK, Electronic Theses & Dissertations Center, pdf",
+      "size" : 0
+    }
+  } ]
+}

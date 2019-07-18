@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_403772",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-12-23T10:36:45.848+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-6047-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-23T10:36:45.848+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-81B9-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:24:14.393+0000",
+  "latestRelease" : {
+    "objectId" : "item_403772",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-23T10:36:45.848+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-6047-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403772",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-23T10:36:45.848+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-6047-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Nueva gramática tagalog : teórico-práctica",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Joaqúin de",
+        "familyName" : "Coria",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1872",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31721",
+      "type" : "OTHER"
+    }, {
+      "id" : "tagalog_coria1872.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Madrid",
+      "publisher" : "Garcia"
+    },
+    "freeKeywords" : "LoC Class: PL6053,\nLoC Subject Headings: Tagalog language",
+    "subjects" : [ {
+      "value" : "tgl - Tagalog",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "552, iv S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6053,\nLoC Subject Headings: Tagalog language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403771",
+    "name" : "tagalog_coria1872.pdf",
+    "creationDate" : "2010-04-01T12:24:10.726+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-81B8-9",
+    "content" : "/rest/items/item_403772_3/component/file_403771/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6248e8cbcbfc8820c592908567b50710",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 38160183,
+    "metadata" : {
+      "title" : "tagalog_coria1872.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 38160183,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2080409",
+    "name" : "https://archive.org/details/aeg2107.0001.001.umich.edu",
+    "creationDate" : "2014-12-23T10:36:19.500+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/aeg2107.0001.001.umich.edu",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a577ee2266b944c90c81a5b5236ce0b4",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/aeg2107.0001.001.umich.edu",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, Univ. of Michigan Books, view online & pdf",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_576592",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-21T08:34:34.850+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-D3EF-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-21T08:34:34.850+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-D3EF-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-12-13T09:51:19.275+0000",
+  "latestRelease" : {
+    "objectId" : "item_576592",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-21T08:34:34.850+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-D3EF-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_576592",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-21T08:34:34.850+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-D3EF-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "" ],
+  "metadata" : {
+    "title" : "Religión y mitología de los Uitotos ",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Konrad Theodor",
+        "familyName" : "Preuss",
+        "organizations" : [ {
+          "address" : ", ",
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1994",
+    "genre" : "THESIS",
+    "publishingInfo" : {
+      "place" : "Bogotá",
+      "publisher" : "Ed. Univ. Nacional"
+    },
+    "freeKeywords" : "LoC Subject Headings: Huitoto language",
+    "subjects" : [ {
+      "value" : "hto - Huitoto, Minica",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "912 S.",
+    "abstracts" : [ {
+      "value" : "F2270.2.W5 ISO 639-3 : hto, Witoto Indians --Religion, Witoto mythology, Witoto Indians --Folklore, Witoto language --Texts"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_576590",
+    "name" : "witoto_preuss1994_1_s.pdf",
+    "creationDate" : "2010-12-13T09:51:17.716+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-D3ED-B",
+    "content" : "/rest/items/item_576592_2/component/file_576590/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2a75e1913cf34023a198b3f112162b25",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 23766092,
+    "metadata" : {
+      "title" : "witoto_preuss1994_1_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 23766092,
+      "copyrightDate" : "-",
+      "license" : "http://creativecommons.org/licenses/by-nc-nd/2.5/"
+    }
+  }, {
+    "objectId" : "file_576591",
+    "name" : "witoto_preuss1994_2_s.pdf",
+    "creationDate" : "2010-12-13T09:51:18.123+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-D3EE-9",
+    "content" : "/rest/items/item_576592_2/component/file_576591/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4182f0f6438bc7b83d1162397e8df28d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 73675094,
+    "metadata" : {
+      "title" : "witoto_preuss1994_2_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 73675094,
+      "copyrightDate" : "-",
+      "license" : "http://creativecommons.org/licenses/by-nc-nd/2.5/"
+    }
+  } ]
+}

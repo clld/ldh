@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_405762",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-03-12T21:00:22.507+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7004-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:00:22.507+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8CEF-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:20:11.395+0000",
+  "latestRelease" : {
+    "objectId" : "item_405762",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-12T21:00:22.507+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7004-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405762",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-12T21:00:22.507+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7004-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Lexically triggered unbounded discontinuities\nin English : an indexed phrase structure grammar approach",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Hee-Rahk",
+        "familyName" : "Chae",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1992",
+    "datePublishedInPrint" : "1992",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35370",
+      "type" : "OTHER"
+    }, {
+      "id" : "english_chae1992_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: P326, LoC Subject Headings: English language, LoC Subject Headings: Lexicology",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "x, 270 S.",
+    "abstracts" : [ {
+      "value" : "P326, LoC Subject Headings: Lexicology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405761",
+    "name" : "english_chae1992_o.pdf",
+    "creationDate" : "2010-04-01T13:20:10.521+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8CEE-C",
+    "content" : "/rest/items/item_405762_6/component/file_405761/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f363b6a1bb01caff1710a85047b78853",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8612879,
+    "metadata" : {
+      "title" : "english_chae1992_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8612879,
+      "copyrightDate" : "2011-11-29",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_2039806",
+    "name" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1235744035",
+    "creationDate" : "2014-07-10T07:31:00.536+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1235744035",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "45ae70752be6984363365dc9cdcf2b07",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1235744035",
+      "contentCategory" : "any-fulltext",
+      "description" : "OhioLINK, Electronic Theses & Dissertations Center, pdf",
+      "size" : 0
+    }
+  } ]
+}

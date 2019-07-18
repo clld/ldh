@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_400223",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:35:26.666+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6C1B-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:35:26.666+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6C1B-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:42:43.240+0000",
+  "latestRelease" : {
+    "objectId" : "item_400223",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:35:26.666+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6C1B-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400223",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:35:26.666+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6C1B-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Chontal de la Sierra de Oaxaca",
+    "creators" : [ {
+      "organization" : {
+        "name" : "Centro de Investigación para la Integración\n              Social (Mexico City, Mexico)"
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    }, {
+      "person" : {
+        "givenName" : "Gloria",
+        "familyName" : "de Ruiz Bravo Ahuja",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1980",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "11824",
+      "type" : "OTHER"
+    }, {
+      "id" : "chontal_archivo1980_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "México",
+      "publisher" : "Colegio de México"
+    },
+    "sources" : [ {
+      "title" : "Archivo de lenguas indígenas de México",
+      "volume" : "07",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM3651",
+    "totalNumberOfPages" : "173 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400221",
+    "name" : "http://www.colmex.mx/alim/coleccion.html",
+    "creationDate" : "2010-04-01T10:42:41.725+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6C19-6",
+    "content" : "http://www.colmex.mx/alim/coleccion.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.colmex.mx/alim/coleccion.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400222",
+    "name" : "chontal_archivo1980_o.pdf",
+    "creationDate" : "2010-04-01T10:42:42.237+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6C1A-4",
+    "content" : "/rest/items/item_400223_2/component/file_400222/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "94b74bf9dc031cf835d5fec8d07433b2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10047595,
+    "metadata" : {
+      "title" : "chontal_archivo1980_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10047595
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

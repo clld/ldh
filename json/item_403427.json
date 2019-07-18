@@ -1,0 +1,111 @@
+{
+  "objectId" : "item_403427",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T10:16:42.372+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7F0B-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:16:42.372+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7F0B-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:11.781+0000",
+  "latestRelease" : {
+    "objectId" : "item_403427",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:16:42.372+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F0B-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403427",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:16:42.372+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F0B-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Essai de description phonologique du Bamena",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Ngueyep, Justin",
+        "givenName" : "Justin",
+        "familyName" : "Ngueyep",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1988",
+    "datePublishedInPrint" : "1988",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31241",
+      "type" : "OTHER"
+    }, {
+      "id" : "bamena_ngueyep1988_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Bamileke languages",
+    "totalNumberOfPages" : "iii, 95 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403426",
+    "name" : "bamena_ngueyep1988_o.pdf",
+    "creationDate" : "2010-04-01T12:18:11.275+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7F0A-2",
+    "content" : "/rest/items/item_403427_3/component/file_403426/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "75a808cbc4d793057942843dd518ec29",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4738752,
+    "metadata" : {
+      "title" : "bamena_ngueyep1988_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4738752,
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

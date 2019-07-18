@@ -1,0 +1,161 @@
+{
+  "objectId" : "item_406336",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-03-12T19:48:21.088+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F68-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:48:21.088+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9017-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:35:41.389+0000",
+  "latestRelease" : {
+    "objectId" : "item_406336",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-12T19:48:21.088+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F68-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406336",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-12T19:48:21.088+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F68-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "La ensenanza de la lengua espanola a hablantes ivorienses de diversas lenguas autoctonas : dificultades y problemas que plantea",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Seydou",
+        "familyName" : "Kone",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36719",
+      "type" : "OTHER"
+    }, {
+      "id" : "espanola_kone2005_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "84-669-2759-X",
+      "type" : "ISBN"
+    } ],
+    "publishingInfo" : {
+      "place" : "Madrid",
+      "publisher" : "Univ. Complutense"
+    },
+    "freeKeywords" : "LoC Class: PM4066, LoC Subject Headings: Spanish language, LoC Subject Headings: Language and languages--Study and teaching",
+    "subjects" : [ {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "577 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM4066,\nLoC Subject Headings: Spanish language--Study and teaching--Foreign speakers, Language and languages--Study and teaching"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406335",
+    "name" : "espanola_kone2005_s.pdf",
+    "creationDate" : "2010-04-01T13:35:41.110+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9016-F",
+    "content" : "/rest/items/item_406336_6/component/file_406335/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "51b28527592c2d52d1e1880524795052",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2037838,
+    "metadata" : {
+      "title" : "espanola_kone2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2037838
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2044398",
+    "name" : "http://hispanismo.cervantes.es/detalleTesis.asp?ID=22",
+    "creationDate" : "2014-07-24T07:44:20.060+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hispanismo.cervantes.es/detalleTesis.asp?ID=22",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "934d86dd538057a7a28462c7547cf8c6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hispanismo.cervantes.es/detalleTesis.asp?ID=22",
+      "contentCategory" : "publisher-version",
+      "description" : "Portal del Hispanismo, Tesis, second link 'Página de Internet', pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2044399",
+    "name" : "http://biblioteca.ucm.es/tesis/fll/ucm-t28585.pdf",
+    "creationDate" : "2014-07-24T07:44:20.611+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-0070-A",
+    "content" : "http://biblioteca.ucm.es/tesis/fll/ucm-t28585.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f9579f5c695062769eab51f7dca052f8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://biblioteca.ucm.es/tesis/fll/ucm-t28585.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

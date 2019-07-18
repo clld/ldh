@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_404401",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-13T01:19:40.918+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-71FE-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:19:40.918+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8543-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:40:56.673+0000",
+  "latestRelease" : {
+    "objectId" : "item_404401",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T01:19:40.918+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-71FE-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404401",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T01:19:40.918+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-71FE-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The acquisition of Nairobi Swahili : the morphosyntax of inflectional prefixes and subjects",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Salah Ud Deen, Kamil Ud Deen",
+        "givenName" : "Salah Ud",
+        "familyName" : "Deen",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "33192",
+      "type" : "OTHER"
+    }, {
+      "id" : "swahili_salahuddeen2002_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PL8701.2, LoC Subject Headings: Swahili language -- Kenya -- Nairobi -- Acquisition, LoC Subject Headings: Swahili language -- Morphosyntax, LoC Subject Headings: Swahili language -- Suffixes and prefixes, LoC Subject Headings: Swahili language -- Noun phrase",
+    "subjects" : [ {
+      "value" : "swh - Swahili (individual language)",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XXI, 315 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404399",
+    "name" : "http://www2.hawaii.edu/%7Ekamil/SwahiliAcquisition.pdf",
+    "creationDate" : "2010-04-01T12:40:51.674+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8541-F",
+    "content" : "http://www2.hawaii.edu/%7Ekamil/SwahiliAcquisition.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "22ffbfd8d57752b592dbdd277f77c582",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www2.hawaii.edu/%7Ekamil/SwahiliAcquisition.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404400",
+    "name" : "swahili_salahuddeen2002_o.pdf",
+    "creationDate" : "2010-04-01T12:40:55.474+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8542-D",
+    "content" : "/rest/items/item_404401_3/component/file_404400/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "41bf434309cfb749f056e6623085950d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12103335,
+    "metadata" : {
+      "title" : "swahili_salahuddeen2002_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12103335
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

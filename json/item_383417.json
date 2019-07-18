@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_383417",
+  "versionNumber" : 8,
+  "modificationDate" : "2015-03-13T01:43:09.776+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7225-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:43:09.776+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6822-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-03-05T21:35:47.087+0000",
+  "latestRelease" : {
+    "objectId" : "item_383417",
+    "versionNumber" : 8,
+    "modificationDate" : "2015-03-13T01:43:09.776+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7225-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_383417",
+    "versionNumber" : 8,
+    "modificationDate" : "2015-03-13T01:43:09.776+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7225-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "Linglit Import 3 2010-03-05 17:04" ],
+  "metadata" : {
+    "title" : "Typological and social constraints on language\ncontact : Amerindian languages in contact with Spanish",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Gómez Rendón",
+        "familyName" : "Jorge Arsenio",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38481",
+      "type" : "OTHER"
+    }, {
+      "id" : "978-90-78328-62-9",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "freeKeywords" : "LoC Subject Headings: Spanish language, LoC Subject Headings: Guarani language, LoC Subject Headings: Quechua language, LoC Subject Headings: Otomi language",
+    "subjects" : [ {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "2 vols (I:xvii, 268 S. / II: xvii, 269-517)",
+    "abstracts" : [ {
+      "value" : "P130.52.A47, Languages in contact --Ecuador, Languages in contact --Paraguay, Spanish language --Influence on Quechua, Languages in contact --Mexico, Guarani language --Foreign elements --Spanish, Quechua language --Foreign elements --Spanish, Spanish language --Influence on Guarani, Otomi language --Foreign elements --Spanish, Spanish language --Influence on Otomi"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_383414",
+    "name" : "http://www.lotpublications.nl/publish/issues/Rendon/index.html",
+    "creationDate" : "2010-03-05T21:35:46.362+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.lotpublications.nl/publish/issues/Rendon/index.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lotpublications.nl/publish/issues/Rendon/index.html",
+      "contentCategory" : "publisher-version",
+      "description" : "LOT Publications, Utrecht",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_383415",
+    "name" : "amerindian_gomez2008-1_s.pdf",
+    "creationDate" : "2010-03-05T21:35:46.487+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6821-0",
+    "content" : "/rest/items/item_383417_8/component/file_383415/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5078e8fbadb11484436d6ab12ec87cd0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2676828,
+    "metadata" : {
+      "title" : "amerindian_gomez2008-1_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2676828,
+      "copyrightDate" : "2009-12-11",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

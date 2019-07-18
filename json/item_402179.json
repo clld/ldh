@@ -1,0 +1,186 @@
+{
+  "objectId" : "item_402179",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-12T19:30:36.234+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F4A-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:30:36.234+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-77A8-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:27:02.585+0000",
+  "latestRelease" : {
+    "objectId" : "item_402179",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T19:30:36.234+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F4A-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402179",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T19:30:36.234+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F4A-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Karekare-English-Hausa dictionary : second edition",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Abubakar Idris ",
+        "familyName" : "Tikau",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Ibrahim",
+        "familyName" : "Yusuf",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Russell G.",
+        "familyName" : "Schuh",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2009",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29252",
+      "type" : "OTHER"
+    }, {
+      "id" : "karekare_schuh2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "second ed.",
+      "place" : "Potiskum",
+      "publisher" : "Ajami Press"
+    },
+    "freeKeywords" : "LoC Class: PL8374.K33974, LoC Subject Headings: Karekare language, LoC Subject Headings: Hausa language",
+    "subjects" : [ {
+      "value" : "kai - Karekare",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "hau - Hausa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xvi, 78 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8374.K33974,\nLoC Subject Headings: Karekare language -- Dictionaries -- English, Karekare language -- Dictionaries -- Hausa, English language -- Dictionaries -- Karekare, Hausa language -- Dictionaries -- Karekare"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402177",
+    "name" : "http://aflang.humnet.ucla.edu/Yobe/Pages/yobe_dictionaries.html",
+    "creationDate" : "2010-04-01T11:27:01.970+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-77A6-F",
+    "content" : "http://www.humnet.ucla.edu/humnet/aflang/Yobe/Papers/karekare_Vsystem.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://aflang.humnet.ucla.edu/Yobe/Pages/yobe_dictionaries.html",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Calif., Aflang directory, The Yobe Languages Research Project, Yobe dictionaries, Karekare-English-Hausa Dictionary (2nd edition, 2009), pdf (2,3 MB)",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402178",
+    "name" : "karekare_schuh2004_s.pdf",
+    "creationDate" : "2010-04-01T11:27:02.193+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-77A7-D",
+    "content" : "/rest/items/item_402179_5/component/file_402178/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "27573f10049a71f6ddd259e55fcbc942",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3215198,
+    "metadata" : {
+      "title" : "karekare_schuh2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3215198
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2034067",
+    "name" : "http://aflang.humnet.ucla.edu/Yobe/Dictionaries/Karekare_english_hausa_2009.pdf",
+    "creationDate" : "2014-06-19T11:11:42.400+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-C1D4-D",
+    "content" : "http://aflang.humnet.ucla.edu/Yobe/Dictionaries/Karekare_english_hausa_2009.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "de829ec4b8fb05fd639d9f5076a3fb46",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://aflang.humnet.ucla.edu/Yobe/Dictionaries/Karekare_english_hausa_2009.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "direct linkt to pdf version",
+      "size" : 0
+    }
+  } ]
+}

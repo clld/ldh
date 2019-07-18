@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_400930",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-04-11T12:43:04.103+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7064-0",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "message" : "EJ ergänzt",
+  "lastModificationDate" : "2013-04-11T12:43:04.103+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7062-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:00:41.264+0000",
+  "latestRelease" : {
+    "objectId" : "item_400930",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-04-11T12:43:04.103+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7064-0",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400930",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-04-11T12:43:04.103+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7064-0",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "El pronombre inaudible en el zapoteco del Istmo",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Stephen A.",
+        "familyName" : "Marlett",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Velma B.",
+        "familyName" : "Prickett"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1999",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "24698",
+      "type" : "OTHER"
+    }, {
+      "id" : "zapoteco_marlett1999_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "sources" : [ {
+      "title" : "SIL online",
+      "startPage" : "1",
+      "endPage" : "20",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4548,\nLoC Subject Headings: Zapotec language",
+    "subjects" : [ {
+      "value" : "zai - Isthmus Zapotec",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400928",
+    "name" : "http://www.sil.org/mexico/zapoteca/istmo/G008-PronInaudible-ZAI.htm",
+    "creationDate" : "2010-04-01T11:00:41.003+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7060-7",
+    "content" : "http://www.sil.org/mexico/zapoteca/istmo/G008-PronInaudible-ZAI.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6a267112517cf81549318566ddccb9d9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/mexico/zapoteca/istmo/G008-PronInaudible-ZAI.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400929",
+    "name" : "zapoteco_marlett1999_s.pdf",
+    "creationDate" : "2010-04-01T11:00:41.201+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7061-5",
+    "content" : "/rest/items/item_400930_3/component/file_400929/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "06120a5ca2c04d867c7c0ace82db35e4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 72617,
+    "metadata" : {
+      "title" : "zapoteco_marlett1999_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 72617
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

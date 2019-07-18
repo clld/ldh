@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_407588",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:44:11.807+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9702-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:44:11.807+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9702-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:16:06.193+0000",
+  "latestRelease" : {
+    "objectId" : "item_407588",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:44:11.807+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9702-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407588",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:44:11.807+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9702-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "West Germanic OV and VO : the status of exceptions",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Cloutier, Robert A.",
+        "givenName" : "Robert A.",
+        "familyName" : "Cloutier",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2009",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "39612",
+      "type" : "OTHER"
+    }, {
+      "id" : "germanic_cloutier2009_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "978-90-78328-79-7",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "sources" : [ {
+      "title" : "LOT Dissertation Series",
+      "volume" : "202",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PD369,\nLoC Subject Headings: Germanic languages",
+    "totalNumberOfPages" : "x, 211 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407586",
+    "name" : "http://dare.uva.nl/record/295549",
+    "creationDate" : "2010-04-01T14:16:03.384+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9700-3",
+    "content" : "http://dare.uva.nl/record/295549",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "19dc56cc8d050a0a3f249114dced9c73",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dare.uva.nl/record/295549",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407587",
+    "name" : "germanic_cloutier2009_s.pdf",
+    "creationDate" : "2010-04-01T14:16:05.875+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9701-1",
+    "content" : "/rest/items/item_407588_2/component/file_407587/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2d8db40982ccd97a54b301750bf74893",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2669170,
+    "metadata" : {
+      "title" : "germanic_cloutier2009_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2669170
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

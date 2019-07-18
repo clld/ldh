@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_405456",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:42:24.414+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8B37-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:42:24.414+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B37-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:13:20.408+0000",
+  "latestRelease" : {
+    "objectId" : "item_405456",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:42:24.414+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B37-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405456",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:42:24.414+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B37-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gagana Samoa Ho Pisikoa : Peace Corps Samoan Language Handbook",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Kaslano, Auimatagi S.",
+        "givenName" : "Auimatagi S.",
+        "familyName" : "Kaslano",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1991",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34963",
+      "type" : "OTHER"
+    }, {
+      "id" : "samoan_kaslano1991_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "", "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N.A.",
+      "publisher" : "Peace Corps (Western Samoa)"
+    },
+    "freeKeywords" : "LoC Class: PL6501,\nLoC Subject Headings: Samoan language --Textbooks for foreign speakers --English",
+    "subjects" : [ {
+      "value" : "smo - Samoan",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "190 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405454",
+    "name" : "http://tinyurl.com/5sdzvw",
+    "creationDate" : "2010-04-01T13:13:17.386+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B35-C",
+    "content" : "http://tinyurl.com/5sdzvw",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "edd3ed34a0e6bf797c64840b4278d15f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://tinyurl.com/5sdzvw",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405455",
+    "name" : "samoan_kaslano1991_o.pdf",
+    "creationDate" : "2010-04-01T13:13:19.968+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B36-A",
+    "content" : "/rest/items/item_405456_2/component/file_405455/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2d1f94ad9fd82e315d8c241a0bafc5e0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3774928,
+    "metadata" : {
+      "title" : "samoan_kaslano1991_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3774928
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

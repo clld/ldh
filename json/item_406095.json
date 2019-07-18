@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_406095",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T21:15:39.169+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-702A-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:15:39.169+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8EC5-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:29:13.943+0000",
+  "latestRelease" : {
+    "objectId" : "item_406095",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T21:15:39.169+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-702A-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406095",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T21:15:39.169+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-702A-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Open problems in linguistics and lexicography",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Sica, Giandomenico",
+        "givenName" : "Giandomenico",
+        "familyName" : "Sica",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2006",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "35782",
+      "type" : "OTHER"
+    }, {
+      "id" : "problems_sica2006_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "978-88-7699-056-4",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Monza",
+      "publisher" : "Polimetrica"
+    },
+    "freeKeywords" : "LoC Class: P327, LoC Subject Headings: Lexicography, LoC Subject Headings: Linguistics",
+    "totalNumberOfPages" : "373 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406093",
+    "name" : "http://www.polimetrica.com/",
+    "creationDate" : "2010-04-01T13:29:12.268+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.polimetrica.com/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d79dce239a0692295e359e56968fdfa7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.polimetrica.com/",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406094",
+    "name" : "problems_sica2006_s.pdf",
+    "creationDate" : "2010-04-01T13:29:13.309+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8EC4-5",
+    "content" : "/rest/items/item_406095_3/component/file_406094/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9d531872f163840dfb5dbe593f43e365",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5536371,
+    "metadata" : {
+      "title" : "problems_sica2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5536371
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_405638",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-13T02:17:24.832+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7262-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:17:24.832+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8C3A-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:17:05.444+0000",
+  "latestRelease" : {
+    "objectId" : "item_405638",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:17:24.832+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7262-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405638",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:17:24.832+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7262-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Learning features and segments from waveforms : a statistical model of early phonological acquisition",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ying",
+        "familyName" : "Lin",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35139",
+      "type" : "OTHER"
+    }, {
+      "id" : "waveforms_lin2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Los Angeles",
+      "publisher" : "Univ. of California"
+    },
+    "freeKeywords" : "LoC Class: P118, LoC Subject Headings: Language acquisition, LoC Subject Headings: Grammar/Comparative and general--Phonology",
+    "totalNumberOfPages" : "XIX, 190 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405636",
+    "name" : "http://dingo.sbs.arizona.edu/%7Eyinglin/dissertation.pdf",
+    "creationDate" : "2010-04-01T13:16:56.922+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C38-2",
+    "content" : "http://dingo.sbs.arizona.edu/%7Eyinglin/dissertation.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "29d5b7664f6fa82fff8a3afd552789e9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dingo.sbs.arizona.edu/%7Eyinglin/dissertation.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405637",
+    "name" : "waveforms_lin2005_s.pdf",
+    "creationDate" : "2010-04-01T13:17:05.255+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C39-F",
+    "content" : "/rest/items/item_405638_4/component/file_405637/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d7b76368cc52e9921f3b655b9d904a2c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1294522,
+    "metadata" : {
+      "title" : "waveforms_lin2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1294522
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

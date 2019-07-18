@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_407168",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-08-06T10:04:16.839+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-23B1-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-08-06T10:04:16.839+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-94BD-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:56:32.247+0000",
+  "latestRelease" : {
+    "objectId" : "item_407168",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-06T10:04:16.839+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-23B1-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407168",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-06T10:04:16.839+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-23B1-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Syntax of the Bi comparative construction in Mandarin Chinese",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Sally",
+        "familyName" : "Hsiu-Ju Chung",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37758",
+      "type" : "OTHER"
+    }, {
+      "id" : "mandarin_chung2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Min-Hsiung",
+      "publisher" : "National Chung Cheng Univ."
+    },
+    "freeKeywords" : "LoC Class: PL1107,\nLoC Subject Headings: Chinese language",
+    "subjects" : [ {
+      "value" : "cmn - Mandarin Chinese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "iv, 82 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL1107,\nLoC Subject Headings: Chinese language --Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407167",
+    "name" : "mandarin_chung2006_s.pdf",
+    "creationDate" : "2010-04-01T13:56:32.116+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-94BC-6",
+    "content" : "/rest/items/item_407168_3/component/file_407167/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3b3b541d1c7c1701260a7734adbe7527",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 398735,
+    "metadata" : {
+      "title" : "mandarin_chung2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 398735
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2048436",
+    "name" : "http://handle.ncl.edu.tw/11296/ndltd/24630067498059402773",
+    "creationDate" : "2014-08-06T10:03:10.301+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-23B3-F",
+    "content" : "http://handle.ncl.edu.tw/11296/ndltd/24630067498059402773",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6641c7735659ae7ec0211d312e04acaf",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://handle.ncl.edu.tw/11296/ndltd/24630067498059402773",
+      "contentCategory" : "publisher-version",
+      "description" : "NDLTD National Digital Library of Theses and Dissertations in Taiwan, zip file, pdf // fulltext access: free e-mail registration necessary",
+      "size" : 0
+    }
+  } ]
+}

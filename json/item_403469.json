@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403469",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T09:55:12.371+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7F61-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:55:12.371+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7F61-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:39.313+0000",
+  "latestRelease" : {
+    "objectId" : "item_403469",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:55:12.371+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F61-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403469",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:55:12.371+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F61-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vitalité et morphologie verbale du Fulfulde Fuunaangere",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Daniel Hippolyte",
+        "familyName" : "Bickoe",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "datePublishedInPrint" : "2000",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31299",
+      "type" : "OTHER"
+    }, {
+      "id" : "fulfulde_bickoe2000_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Fula language",
+    "subjects" : [ {
+      "value" : "fuv - Fulfulde, Nigerian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "174 S.",
+    "abstracts" : [ {
+      "value" : "PL8182, ISO 639-3 : fuv, Fula language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403468",
+    "name" : "fulfulde_bickoe2000_o.pdf",
+    "creationDate" : "2010-04-01T12:18:38.610+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7F60-F",
+    "content" : "/rest/items/item_403469_3/component/file_403468/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "aa730dcff7e6ffa3261aefe573681569",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6900717,
+    "metadata" : {
+      "title" : "fulfulde_bickoe2000_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6900717,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

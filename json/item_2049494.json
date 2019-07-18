@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_2049494",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-08-08T10:42:35.331+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-2AC4-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2014-08-08T10:42:35.331+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-001A-2A8B-8",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-08-08T10:18:57.000+0000",
+  "latestRelease" : {
+    "objectId" : "item_2049494",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-08T10:42:35.331+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-2AC4-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2049494",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-08T10:42:35.331+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-2AC4-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Grammar of Humburi Senni (Songhay of Hombori, Mali)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jeffrey",
+        "familyName" : "Heath",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedOnline" : "2014",
+    "genre" : "MONOGRAPH",
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Ann Arbor]"
+    },
+    "freeKeywords" : "LoC Class: PL8685, LoC Subject Headings: Songhai language",
+    "subjects" : [ {
+      "value" : "hmb - Humburi Senni Songhay",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiv, 436 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8685, LoC Subject Headings: Songhai language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_2049492",
+    "name" : "HumburiSenni_Heath2014_color.pdf",
+    "creationDate" : "2014-08-08T10:18:55.599+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-2A96-E",
+    "content" : "/rest/items/item_2049494_3/component/file_2049492/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2f706e06f73825557765c34387a74255",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 54699408,
+    "metadata" : {
+      "title" : "HumburiSenni_Heath2014_color.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "colored version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 54699408,
+      "copyrightDate" : "12-April-2014",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  }, {
+    "objectId" : "file_2049493",
+    "name" : "HumburiSenni_Heath2014_b&w.pdf",
+    "creationDate" : "2014-08-08T10:18:56.319+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-2A98-A",
+    "content" : "/rest/items/item_2049494_3/component/file_2049493/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "de79a266a8d8334a242faecdf376bbe9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 54320772,
+    "metadata" : {
+      "title" : "HumburiSenni_Heath2014_b&w.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 54320772,
+      "copyrightDate" : "12-April-2014",
+      "rights" : "monochrome version",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_402259",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-10T10:43:09.465+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0B78-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-10T10:43:09.465+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-782A-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:29:17.356+0000",
+  "latestRelease" : {
+    "objectId" : "item_402259",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T10:43:09.465+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0B78-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402259",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T10:43:09.465+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0B78-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario chayahuita-castellano (Canponanquë nisha nisha nonacasoʼ)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Helen",
+        "familyName" : "Hart",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1988",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29486",
+      "type" : "OTHER"
+    }, {
+      "id" : "chayahuita_hart1988_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1a ed.",
+      "place" : "[Lima]",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística peruana",
+      "volume" : "29",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5809.5.Z5, LoC Subject Headings: Chayahuita language",
+    "subjects" : [ {
+      "value" : "cbt - Chayahuita",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "495 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5809.5.Z5, LoC Subject Headings: Chayahuita language--Dictionaries--Spanish, Spanish language--Dictionaries--Chayahuita, Chayahuita language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402258",
+    "name" : "chayahuita_hart1988_o.pdf",
+    "creationDate" : "2010-04-01T11:29:15.089+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7829-0",
+    "content" : "/rest/items/item_402259_3/component/file_402258/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ea9857275f113688d035f7abbaf8e896",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 24084685,
+    "metadata" : {
+      "title" : "chayahuita_hart1988_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 24084685
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110557",
+    "name" : "http://www.peru.sil.org/resources/archives/30123",
+    "creationDate" : "2015-03-10T10:41:52.589+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/30123",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c9a9ede062612bfe411e54673548bd3b",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/30123",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Peru Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

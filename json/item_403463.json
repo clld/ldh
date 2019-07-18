@@ -1,0 +1,119 @@
+{
+  "objectId" : "item_403463",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T09:54:33.514+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7F56-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:54:33.514+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7F56-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:33.765+0000",
+  "latestRelease" : {
+    "objectId" : "item_403463",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T09:54:33.514+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F56-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403463",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T09:54:33.514+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F56-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Description phonologique du fan",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Emile, Jean Eko",
+        "givenName" : "Jean Emile",
+        "familyName" : "Eko ",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1974",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31271",
+      "type" : "OTHER"
+    }, {
+      "id" : "fan_eko1974_o               .html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yaoundé",
+      "publisher" : "Université de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Fan language",
+    "subjects" : [ {
+      "value" : "fan - Fang",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "64 S.",
+    "abstracts" : [ {
+      "value" : "PL8167.F3, ISO 639-3 : fan, Fan language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403462",
+    "name" : "fan_eko1974_o.pdf",
+    "creationDate" : "2010-04-01T12:18:33.534+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7F55-7",
+    "content" : "/rest/items/item_403463_4/component/file_403462/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8c83d8719895ccf7a7920e4a3df3b27a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1859111,
+    "metadata" : {
+      "title" : "fan_eko1974_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1859111,
+      "copyrightDate" : "2010-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

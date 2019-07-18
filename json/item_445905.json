@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_445905",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-21T08:38:13.331+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-B81E-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-21T08:38:13.331+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-B81E-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-05-28T09:44:54.094+0000",
+  "latestRelease" : {
+    "objectId" : "item_445905",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-21T08:38:13.331+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-B81E-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_445905",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-21T08:38:13.331+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-B81E-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "" ],
+  "metadata" : {
+    "title" : "Topological relations in an Athapaskan language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Martin",
+        "familyName" : "Thiering",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2006",
+    "genre" : "PAPER",
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "UofA Working Papers of Linguistics",
+      "creators" : [ {
+        "organization" : {
+          "identifier" : "ou_persistent22",
+          "name" : "\t University of Alberta <Edmonton, Alberta> / Department of Linguistics",
+          "identifierPath" : [ "ou_persistent22" ]
+        },
+        "role" : "EDITOR",
+        "type" : "ORGANIZATION"
+      } ],
+      "volume" : "1",
+      "publishingInfo" : {
+        "place" : "Edmonton",
+        "publisher" : "Univ. of Alberta"
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Athapascan languages",
+    "totalNumberOfPages" : "38 ",
+    "abstracts" : [ {
+      "value" : "PM641 , Athapascan languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_445903",
+    "name" : "athapaskan_thiering2006_s.pdf",
+    "creationDate" : "2010-05-28T09:44:52.448+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-B81C-A",
+    "content" : "/rest/items/item_445905_2/component/file_445903/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d4bc2f2c8c3ee7c1f81f224cc600a3be",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 978083,
+    "metadata" : {
+      "title" : "athapaskan_thiering2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 978083,
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_445904",
+    "name" : "http://www.linguistics.ualberta.ca/UAWPL_vol1.cfm",
+    "creationDate" : "2010-05-28T09:44:52.599+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-B81D-8",
+    "content" : "http://www.linguistics.ualberta.ca/UAWPL_vol1.cfm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d41d8cd98f00b204e9800998ecf8427e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.linguistics.ualberta.ca/UAWPL_vol1.cfm",
+      "contentCategory" : "publisher-version",
+      "description" : "University of Alberta, Department of Linguistics, UAWPL Archive",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,155 @@
+{
+  "objectId" : "item_401795",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-13T01:51:45.836+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7234-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:51:45.836+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-755C-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:19:06.520+0000",
+  "latestRelease" : {
+    "objectId" : "item_401795",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T01:51:45.836+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7234-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401795",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T01:51:45.836+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7234-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Substrate influence in the formation of the Surinamese Plantation Creole : A consideration of sociohistorical data and lingusitic data from Ndyuka and Gbe",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Bettina M.",
+        "familyName" : "Migge",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1998",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "28034",
+      "type" : "OTHER"
+    }, {
+      "id" : "surinamese_migge1998_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Columbus, Ohio]",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: PM7874.S8, LoC Subject Headings: Creole dialects--Suriname, LoC Subject Headings: Suriname--Languages--History",
+    "subjects" : [ {
+      "value" : "njt - Ndyuka-Trio Pidgin",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxii, 378 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401794",
+    "name" : "surinamese_migge1998_o.pdf",
+    "creationDate" : "2010-04-01T11:19:05.654+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-755B-B",
+    "content" : "/rest/items/item_401795_5/component/file_401794/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c37cd75a202c4a9e9baada3f16baff36",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8283387,
+    "metadata" : {
+      "title" : "surinamese_migge1998_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8283387
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2033083",
+    "name" : "http://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+    "creationDate" : "2014-06-13T07:02:33.159+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5ebe02780038aa7ae1f34225ab2cb381",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+      "contentCategory" : "publisher-version",
+      "description" : "Ohio State Univ., OSU Dissertations in Linguistics, 1990-1998 Bettina Migge",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2033084",
+    "name" : "http://linguistics.osu.edu/sites/linguistics.osu.edu/files/dissertations/Migge1998.pdf",
+    "creationDate" : "2014-06-13T07:02:34.926+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-BB89-C",
+    "content" : "http://linguistics.osu.edu/sites/linguistics.osu.edu/files/dissertations/Migge1998.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0cc9e614dcf1f04bb62193f380f06d19",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://linguistics.osu.edu/sites/linguistics.osu.edu/files/dissertations/Migge1998.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "direct link to pdf-version",
+      "size" : 0
+    }
+  } ]
+}

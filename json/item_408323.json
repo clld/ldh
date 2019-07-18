@@ -1,0 +1,152 @@
+{
+  "objectId" : "item_408323",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T21:43:01.004+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-705F-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:43:01.004+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9B25-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:34:41.010+0000",
+  "latestRelease" : {
+    "objectId" : "item_408323",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T21:43:01.004+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-705F-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408323",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T21:43:01.004+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-705F-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulario bilingüe : dialecto minica, huitoto-espanol, espanol-huitoto",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Eugene E.",
+        "familyName" : "Minor",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Dorothy A.",
+        "familyName" : "Minor"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Jorge Arbaláez",
+        "familyName" : "Giraldo"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1987",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "42956",
+      "type" : "OTHER"
+    }, {
+      "id" : "huitoto_minor1987.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "1-5567-1050-X",
+      "type" : "ISBN"
+    } ],
+    "publishingInfo" : {
+      "edition" : "1st ed.",
+      "place" : "Lomalinda, Meta, República de Colombia",
+      "publisher" : "Editorial Townsend"
+    },
+    "freeKeywords" : "LoC Class: PM7254.Z5, LoC Subject Headings: Witoto language --Dictionaries --Spanish, LoC Subject Headings: Spanish language --Dictionaries --Witoto",
+    "subjects" : [ {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "hto - Huitoto, Minica",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xvi, 317 S."
+  },
+  "files" : [ {
+    "objectId" : "file_408321",
+    "name" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=21705",
+    "creationDate" : "2010-04-01T14:34:40.215+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=21705",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5e2825ca54ce9c80546516e57f0396cf",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=21705",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408322",
+    "name" : "huitoto_minor1987.pdf",
+    "creationDate" : "2010-04-01T14:34:40.470+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9B24-6",
+    "content" : "/rest/items/item_408323_4/component/file_408322/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "cd2bfe410f28455a602192efd2576a17",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5144178,
+    "metadata" : {
+      "title" : "huitoto_minor1987.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5144178
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_406669",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:43:42.662+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-91E7-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:43:42.662+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-91E7-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:45:48.252+0000",
+  "latestRelease" : {
+    "objectId" : "item_406669",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:43:42.662+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-91E7-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406669",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:43:42.662+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-91E7-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Comparação fonológica do Kuruáya com o Mundurukú",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Mendes, Junior Djalma Gomes",
+        "givenName" : "Junior Djalma Gomes",
+        "familyName" : "Mendes",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37376",
+      "type" : "OTHER"
+    }, {
+      "id" : "kuruaya_gomes2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Brasília",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PM6596.Z5,\nLoC Subject Headings: Munduruku language--Dictionaries",
+    "subjects" : [ {
+      "value" : "kyr - Kuruáya",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "myu - Mundurukú",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "66 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406667",
+    "name" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=2135",
+    "creationDate" : "2010-04-01T13:45:47.164+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-91E5-6",
+    "content" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=2135",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "51abd0cf4e75efaf7555f93604a33901",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=2135",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406668",
+    "name" : "kuruaya_gomes2007_s.pdf",
+    "creationDate" : "2010-04-01T13:45:48.133+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-91E6-4",
+    "content" : "/rest/items/item_406669_2/component/file_406668/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "19b3ddbf42a75c50b9eabb8e120924c5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 273284,
+    "metadata" : {
+      "title" : "kuruaya_gomes2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 273284
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_406628",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:20:47.642+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-91AD-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:20:47.642+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-91AD-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:44:30.316+0000",
+  "latestRelease" : {
+    "objectId" : "item_406628",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:20:47.642+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-91AD-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406628",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:20:47.642+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-91AD-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Computational models of real world phonological change",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Choudhury, Monojit",
+        "givenName" : "Monojit",
+        "familyName" : "Choudhury",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37356",
+      "type" : "OTHER"
+    }, {
+      "id" : "phonological_choudhury2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Kharagpur",
+      "publisher" : " Indian Inst. of Techn."
+    },
+    "freeKeywords" : "LoC Class: P25,\nLoC Subject Headings: Computational linguistics",
+    "totalNumberOfPages" : "296 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406626",
+    "name" : "http://www.isrl.uiuc.edu/~amag/langev/paper/choudhury07phdthesis.html",
+    "creationDate" : "2010-04-01T13:44:29.527+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-91AB-A",
+    "content" : "http://www.isrl.uiuc.edu/~amag/langev/paper/choudhury07phdthesis.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6afb4acc92c2761912f204bb0ab0f0fc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.isrl.uiuc.edu/~amag/langev/paper/choudhury07phdthesis.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406627",
+    "name" : "phonological_choudhury2007_s.pdf",
+    "creationDate" : "2010-04-01T13:44:29.995+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-91AC-8",
+    "content" : "/rest/items/item_406628_2/component/file_406627/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f1400af9c8c684b7f2c35ec393222846",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2787195,
+    "metadata" : {
+      "title" : "phonological_choudhury2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2787195
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

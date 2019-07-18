@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_406470",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-05-13T12:16:29.277+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CDC9-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-13T12:16:29.277+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-90CF-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:38:54.864+0000",
+  "latestRelease" : {
+    "objectId" : "item_406470",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T12:16:29.277+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CDC9-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406470",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T12:16:29.277+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CDC9-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Lexique du koya : langue des Pygmées du Nort-Est du Gabon",
+    "creators" : [ {
+      "organization" : {
+        "identifier" : "ou_persistent22",
+        "name" : "UNESCO  / Office <Libreville>",
+        "identifierPath" : [ "ou_persistent22" ]
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "2006",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "36993",
+      "type" : "OTHER"
+    }, {
+      "id" : "koya_unesco2006_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Libreville",
+      "publisher" : "UNESCO Office"
+    },
+    "freeKeywords" : "LoC Class: PL4693, LoC Subject Headings: Koya language",
+    "subjects" : [ {
+      "value" : "kff - Koya",
+      "type" : "ISO639_3"
+    }, {
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vi, 127 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406468",
+    "name" : "http://unesdoc.unesco.org/images/0015/001598/159852fb.pdf",
+    "creationDate" : "2010-04-01T13:38:51.267+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://unesdoc.unesco.org/images/0015/001598/159852fb.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e6be0097ef5175d34a6583c638671a1e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://unesdoc.unesco.org/images/0015/001598/159852fb.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "UNESCO, Resources, UNESDOC, direct link to pdf version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406469",
+    "name" : "koya_unesco2006_o.pdf",
+    "creationDate" : "2010-04-01T13:38:54.334+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-90CE-4",
+    "content" : "/rest/items/item_406470_3/component/file_406469/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "46ed1894e615516dcd76945d2feef7bd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5007356,
+    "metadata" : {
+      "title" : "koya_unesco2006_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5007356
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

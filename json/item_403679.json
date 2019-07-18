@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403679",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-05-31T12:04:30.750+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8121-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T12:04:30.750+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8121-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:22:05.275+0000",
+  "latestRelease" : {
+    "objectId" : "item_403679",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T12:04:30.750+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8121-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403679",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T12:04:30.750+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8121-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Principes de la langue des sauvages appelés Sauteux",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "George Antoine",
+        "familyName" : "Belcourt",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1839",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31505",
+      "type" : "OTHER"
+    }, {
+      "id" : "sauteux_belcourt1839_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Québec",
+      "publisher" : "Impr. de Fréchette"
+    },
+    "freeKeywords" : "LoC Subject Headings: Ojibwa language",
+    "subjects" : [ {
+      "value" : "ojb - Northwestern Ojibwa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "146 S.",
+    "abstracts" : [ {
+      "value" : "PM852, ISO 639-3 : ojb, Ojibwa language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403678",
+    "name" : "sauteux_belcourt1839_o.pdf",
+    "creationDate" : "2010-04-01T12:22:04.364+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8120-0",
+    "content" : "/rest/items/item_403679_5/component/file_403678/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "631fa00373770b6044a2544c9676f890",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8167725,
+    "metadata" : {
+      "title" : "sauteux_belcourt1839_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8167725,
+      "copyrightDate" : "2010-12-01",
+      "rights" : "not in copyright, George Antoine Belcourt,  1803-1874"
+    }
+  } ]
+}

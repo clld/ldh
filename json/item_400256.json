@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_400256",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-14T07:28:05.072+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B20D-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwort korrigiert",
+  "lastModificationDate" : "2015-04-14T07:28:05.072+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6C4A-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:44:00.648+0000",
+  "latestRelease" : {
+    "objectId" : "item_400256",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-14T07:28:05.072+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B20D-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400256",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-14T07:28:05.072+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B20D-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Wirã ya, peamasa ya wererituri (Desano-Español) (Diccionario bilingüe de 896 palabras)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Tulio",
+        "familyName" : "Alemán M.",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "López H.",
+        "familyName" : "Reinaldo"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2000",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "15899",
+      "type" : "OTHER"
+    }, {
+      "id" : "desano_aleman2000_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1st ed.",
+      "place" : "Bogotá",
+      "publisher" : "Editorial Alberto Lleras Camargo"
+    },
+    "freeKeywords" : "LoC Class: PM5924.Z5, LoC Subject Headings: Desana language",
+    "subjects" : [ {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "133 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5924.Z5,\nLoC Subject Headings: Desana language--Dictionaries--Spanish"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400255",
+    "name" : "desano_aleman2000_o.pdf",
+    "creationDate" : "2010-04-01T10:44:00.009+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6C49-9",
+    "content" : "/rest/items/item_400256_3/component/file_400255/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "201ce83d002343c7a3db73ebfeb6e65f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6191909,
+    "metadata" : {
+      "title" : "desano_aleman2000_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6191909
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2144396",
+    "name" : "http://www-01.sil.org/americas/colombia/pubs/abstract.asp?id=928474518929",
+    "creationDate" : "2015-04-14T07:27:43.074+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www-01.sil.org/americas/colombia/pubs/abstract.asp?id=928474518929",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1192ea26afe8bedaddb83ecfc70599c2",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www-01.sil.org/americas/colombia/pubs/abstract.asp?id=928474518929",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Colombia, Languages and Cultures of Colombia, pdf download",
+      "size" : 0
+    }
+  } ]
+}

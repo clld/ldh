@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_402004",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-07T08:03:19.275+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A7F2-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-07T08:03:19.275+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7690-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:24:17.321+0000",
+  "latestRelease" : {
+    "objectId" : "item_402004",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-07T08:03:19.275+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7F2-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402004",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-07T08:03:19.275+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7F2-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "On noun-verb overlapping in Cantonese",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Yeung Lau Luk",
+        "familyName" : "Margery",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1999",
+    "datePublishedInPrint" : "1999",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "28859",
+      "type" : "OTHER"
+    }, {
+      "id" : "cantonese_margery1999_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Hong Kong",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL1733, LoC Subject Headings: Chinese language",
+    "subjects" : [ {
+      "value" : "yue - Chinese, Yue",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "140 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL1733, LoC Subject Headings: Chinese language--Dialects--Canton"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402002",
+    "name" : "http://sunzi1.lib.hku.hk/hkuto/record/B29947364",
+    "creationDate" : "2010-04-01T11:24:12.978+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://sunzi1.lib.hku.hk/hkuto/record/B29947364",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "278fd1eef4a1614bf09588eaea59f2ba",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://sunzi1.lib.hku.hk/hkuto/record/B29947364",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Hong Kong, The HKU Scholars Hub, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402003",
+    "name" : "cantonese_margery1999_s.pdf",
+    "creationDate" : "2010-04-01T11:24:16.963+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-768F-D",
+    "content" : "/rest/items/item_402004_3/component/file_402003/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e326f2e778edf80e1fe3e9ec4a71ecd6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2357157,
+    "metadata" : {
+      "title" : "cantonese_margery1999_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2357157
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

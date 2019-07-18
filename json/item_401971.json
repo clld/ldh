@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_401971",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-18T08:14:28.583+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-79DC-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-18T08:14:28.583+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7664-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:23:47.052+0000",
+  "latestRelease" : {
+    "objectId" : "item_401971",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T08:14:28.583+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-79DC-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401971",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T08:14:28.583+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-79DC-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The arabic noun phrase : a minimalist approach",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Joost Merijn",
+        "familyName" : "Kremers",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "28840",
+      "type" : "OTHER"
+    }, {
+      "id" : "arabic_kremers2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Untrecht",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PJ6000, LoC Subject Headings: Arabic language",
+    "subjects" : [ {
+      "value" : "arb - Standard Arabic",
+      "type" : "ISO639_3"
+    } ],
+    "abstracts" : [ {
+      "value" : "LoC Class: PJ6000,\nLoC Subject Headings: Arabic language --Noun phrase"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401969",
+    "name" : "http://hdl.handle.net/2066/19283",
+    "creationDate" : "2010-04-01T11:23:44.423+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/2066/19283",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "36127b8b64a43e4eaab0447805f87978",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/2066/19283",
+      "contentCategory" : "publisher-version",
+      "description" : "Radboud Univ. Nijmegen, DSpace Repositorium, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401970",
+    "name" : "arabic_kremers2003_s.pdf",
+    "creationDate" : "2010-04-01T11:23:45.100+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7663-B",
+    "content" : "/rest/items/item_401971_3/component/file_401970/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "460b20aa8395f123d867535fcd33dd58",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 979955,
+    "metadata" : {
+      "title" : "arabic_kremers2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 979955
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

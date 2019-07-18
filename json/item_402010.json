@@ -1,0 +1,144 @@
+{
+  "objectId" : "item_402010",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-10-14T10:52:39.885+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-EF51-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Einverständniserklärung ccby-lizenz liegt vor",
+  "lastModificationDate" : "2014-10-14T10:52:39.885+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7698-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:24:22.843+0000",
+  "latestRelease" : {
+    "objectId" : "item_402010",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-10-14T10:52:39.885+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-EF51-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402010",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-10-14T10:52:39.885+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-EF51-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The structure and use of shape-based noun classes in Miraña (North West Amazon)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Frank",
+        "familyName" : "Seifart",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "28940",
+      "type" : "OTHER"
+    }, {
+      "id" : "mirana_seifart2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Nijmegen",
+      "publisher" : "Max Planck Institute for Psycholinguistics"
+    },
+    "sources" : [ {
+      "title" : "MPI series in psycholinguistics",
+      "volume" : "32",
+      "publishingInfo" : {
+        "place" : "Nijmegen",
+        "publisher" : "Max Planck Institute for Psycholinguistics"
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5634,\nLoC Subject Headings: Bora language",
+    "subjects" : [ {
+      "value" : "boa - Bora",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiii, 375 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402009",
+    "name" : "mirana_seifart2005_s.pdf",
+    "creationDate" : "2010-04-01T11:24:22.244+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7697-A",
+    "content" : "/rest/items/item_402010_3/component/file_402009/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "96535e132e7e023e64727b2c79704d2d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5167830,
+    "metadata" : {
+      "title" : "mirana_seifart2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5167830,
+      "copyrightDate" : "2013-12-11",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  }, {
+    "objectId" : "file_2060973",
+    "name" : "http://hdl.handle.net/2066/26990",
+    "creationDate" : "2014-10-14T10:51:31.387+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/2066/26990",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0ae684879e90ef3fa5ca868298326118",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/2066/26990",
+      "contentCategory" : "publisher-version",
+      "description" : "Radboud Univ. Nijmegen, DSpace Repositorium, pdf",
+      "size" : 0
+    }
+  } ]
+}

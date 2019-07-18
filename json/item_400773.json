@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_400773",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T16:09:05.709+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6D9D-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T16:09:05.709+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6F71-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:58:46.623+0000",
+  "latestRelease" : {
+    "objectId" : "item_400773",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T16:09:05.709+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6D9D-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400773",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T16:09:05.709+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6D9D-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario básico del mixteco de Yosondúa, Oaxaca",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Farris, Kathryn Beaty de",
+        "givenName" : "Kathryn Beaty de",
+        "familyName" : "Farris",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "24170",
+      "type" : "OTHER"
+    }, {
+      "id" : "mixteco_bartholomew2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "2a éd., versión electrónica",
+      "place" : "Coyoacán",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie de vocabularios y diccionarios indígenas Mariano Silva y Aceves",
+      "volume" : "46",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4016.Z5, LoC Subject Headings: Mixtec language -- Mexico -- Santiago Yosondúa -- Dictionaries -- Spanish, LoC Subject Headings: Spanish language -- Mexico -- Santiago Yosondúa -- Dictionaries -- Mixtec",
+    "subjects" : [ {
+      "value" : "mpm - Mixtec, Yosondúa",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "191 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400771",
+    "name" : "mixteco_bartholomew2004_s.pdf",
+    "creationDate" : "2010-04-01T10:58:21.319+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F6F-C",
+    "content" : "/rest/items/item_400773_3/component/file_400771/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1f460a91dfbfc05ab4eb05bbc9002bcd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2960271,
+    "metadata" : {
+      "title" : "mixteco_bartholomew2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2960271
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_400772",
+    "name" : "http://www.sil.org/mexico/mixteca/yosondua/S046-DicMixtYos-MPM.pdf",
+    "creationDate" : "2010-04-01T10:58:21.643+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/mexico/mixteca/yosondua/S046-DicMixtYos-MPM.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "480b8caa98d8182be51e22476cd9f031",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/mexico/mixteca/yosondua/S046-DicMixtYos-MPM.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  } ]
+}

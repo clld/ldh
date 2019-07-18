@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_406374",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:51:24.815+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-904B-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:51:24.815+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-904B-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:36:40.357+0000",
+  "latestRelease" : {
+    "objectId" : "item_406374",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:51:24.815+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-904B-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406374",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:51:24.815+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-904B-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Argument composition and the lexicon : lexical and periphrastic causatives in korean",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Elizabeth Owen",
+        "familyName" : "Bratt",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1996",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36786",
+      "type" : "OTHER"
+    }, {
+      "id" : "korean_bratt1996_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Stanford",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PL927,\nLoC Subject Headings: Korean language",
+    "subjects" : [ {
+      "value" : "kor - Korean",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XXV, 547 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406372",
+    "name" : "http://www.ai.sri.com/~owen/diss.pdf",
+    "creationDate" : "2010-04-01T13:36:35.426+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9049-C",
+    "content" : "http://www.ai.sri.com/~owen/diss.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b11e52e2fd4ab9bc44082ba308848b8d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ai.sri.com/~owen/diss.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406373",
+    "name" : "korean_bratt1996_s.pdf",
+    "creationDate" : "2010-04-01T13:36:39.937+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-904A-A",
+    "content" : "/rest/items/item_406374_2/component/file_406373/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "99625356cb8b5f754d0aa1e029c72a0a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1663280,
+    "metadata" : {
+      "title" : "korean_bratt1996_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1663280
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

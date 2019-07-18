@@ -1,0 +1,120 @@
+{
+  "objectId" : "item_403541",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T10:42:00.672+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7FF6-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:42:00.672+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7FF6-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:30.777+0000",
+  "latestRelease" : {
+    "objectId" : "item_403541",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:42:00.672+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7FF6-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403541",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:42:00.672+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7FF6-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A sketch outline of the phonology of Ndemli",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Ngoran, Loveline Lenaka",
+        "givenName" : "Ngoran Loveline",
+        "familyName" : "Lenaka",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1999",
+    "datePublishedInPrint" : "1999",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31380",
+      "type" : "OTHER"
+    }, {
+      "id" : "ndemli_ngoran1999_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Yaoundé",
+      "publisher" : "Universite de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon --Languages",
+    "subjects" : [ {
+      "value" : "nml - Ndemli",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vii, 92 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : nml, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403540",
+    "name" : "ndemli_ngoran1999_o.pdf",
+    "creationDate" : "2010-04-01T12:19:30.485+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7FF5-0",
+    "content" : "/rest/items/item_403541_3/component/file_403540/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6bc14664e518d857dcab2dc202c4c0ff",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2394550,
+    "metadata" : {
+      "title" : "ndemli_ngoran1999_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "with permission from Université de Yaoundé I",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2394550,
+      "copyrightDate" : "2005-11-29"
+    }
+  } ]
+}

@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_402715",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:31:08.659+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7AB4-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:31:08.659+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7AB4-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:37:29.752+0000",
+  "latestRelease" : {
+    "objectId" : "item_402715",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:31:08.659+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7AB4-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402715",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:31:08.659+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7AB4-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Papuan languages and the new guinea linguistic scene",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "S.A.",
+        "familyName" : "Wurm",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1975",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30304",
+      "type" : "OTHER"
+    }, {
+      "id" : "papuan_wurm1975_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Canberra",
+      "publisher" : "Univ."
+    },
+    "sources" : [ {
+      "title" : "New Guinea area languages and study",
+      "volume" : "1",
+      "genre" : "SERIES"
+    }, {
+      "title" : "Pacific linguistics : Series C, Books",
+      "volume" : "38",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P381.P3,\nLoC Subject Headings: Papuan languages",
+    "totalNumberOfPages" : "xlvi, 1038 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402713",
+    "name" : "http://www.papuaweb.org/dlib/bk/pl/C38/_toc.html",
+    "creationDate" : "2010-04-01T11:37:24.862+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7AB2-A",
+    "content" : "http://www.papuaweb.org/dlib/bk/pl/C38/_toc.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c7ee6990ca47d03462902a27d0cb357c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.papuaweb.org/dlib/bk/pl/C38/_toc.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402714",
+    "name" : "papuan_wurm1975_o.pdf",
+    "creationDate" : "2010-04-01T11:37:25.897+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7AB3-8",
+    "content" : "/rest/items/item_402715_2/component/file_402714/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c06ce57f5793f9e18d70fe77e5468111",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 38956823,
+    "metadata" : {
+      "title" : "papuan_wurm1975_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 38956823
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

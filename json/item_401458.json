@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_401458",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:55:58.652+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-736C-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:55:58.652+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-736C-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:12:06.896+0000",
+  "latestRelease" : {
+    "objectId" : "item_401458",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:55:58.652+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-736C-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401458",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:55:58.652+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-736C-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The Begak (Ida'an) language of Sabah",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Goudswaard, Nelleke Elisabeth",
+        "givenName" : "Nelleke Elisabeth",
+        "familyName" : "Goudswaard",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "26724",
+      "type" : "OTHER"
+    }, {
+      "id" : "begak_goudswaard2005_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "90-76864-73-X",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "sources" : [ {
+      "title" : "LOT Dissertation Series",
+      "volume" : "107",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P381.S23,\nLoC Subject Headings: Sabah --Languages --Phonology",
+    "subjects" : [ {
+      "value" : "dbj - Ida'an",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xix, 520 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401456",
+    "name" : "http://www.lotpublications.nl/publish/issues/Goudswaard/index.html",
+    "creationDate" : "2010-04-01T11:12:06.099+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-736A-A",
+    "content" : "http://www.lotpublications.nl/publish/issues/Goudswaard/index.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "38589bcaf0c12c6c4064bb6f31f17e5e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lotpublications.nl/publish/issues/Goudswaard/index.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401457",
+    "name" : "begak_goudswaard2005_s.pdf",
+    "creationDate" : "2010-04-01T11:12:06.211+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-736B-8",
+    "content" : "/rest/items/item_401458_2/component/file_401457/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a3bcd8f45d78766a2134af9ac2debd9b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6772584,
+    "metadata" : {
+      "title" : "begak_goudswaard2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6772584
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

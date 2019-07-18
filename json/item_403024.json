@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_403024",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-06-06T07:33:05.024+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7C93-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:33:05.024+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7C93-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:51:05.597+0000",
+  "latestRelease" : {
+    "objectId" : "item_403024",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-06-06T07:33:05.024+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7C93-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403024",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-06-06T07:33:05.024+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7C93-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "San Carlos Apache texts",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Pliny Earle",
+        "familyName" : "Goddard",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1919",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30885",
+      "type" : "OTHER"
+    }, {
+      "id" : "apache_goddard1919_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "New York",
+      "publisher" : "Trustees"
+    },
+    "sources" : [ {
+      "title" : "Anthropological papers of the American Museum of Natural History",
+      "volume" : "24.3",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Apache languages",
+    "subjects" : [ {
+      "value" : "apl - Lipan Apache",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "141-367 S.",
+    "abstracts" : [ {
+      "value" : "PM858.Z73, ISO 639-3 : apl, Apache languages--Texts, Apache Indians--Folklore"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403022",
+    "name" : "http://hdl.handle.net/2246/205",
+    "creationDate" : "2010-04-01T11:51:02.508+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7C91-4",
+    "content" : "http://hdl.handle.net/2246/205",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6c04c4832316dc0930572bf40b89c872",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/2246/205",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403023",
+    "name" : "apache_goddard1919_s.pdf",
+    "creationDate" : "2010-04-01T11:51:03.357+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7C92-2",
+    "content" : "/rest/items/item_403024_4/component/file_403023/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "50df031e21c400e5181af9ce696f86fd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 23362805,
+    "metadata" : {
+      "title" : "apache_goddard1919_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 23362805,
+      "copyrightDate" : "2010-11-18",
+      "rights" : "public domain, Pliny Earl Goddard 1869-1928"
+    }
+  } ]
+}

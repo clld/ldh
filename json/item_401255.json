@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_401255",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-30T08:08:30.760+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C507-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-30T08:08:30.760+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-724F-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:08:18.252+0000",
+  "latestRelease" : {
+    "objectId" : "item_401255",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-30T08:08:30.760+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C507-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401255",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-30T08:08:30.760+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C507-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulario huambisa",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Martha",
+        "familyName" : "Jakway",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1987",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "25483",
+      "type" : "OTHER"
+    }, {
+      "id" : "huambisa_jakway1987_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "2a ed.",
+      "place" : "Yarinacocha, Pucallpa, Perú",
+      "publisher" : "Instituto Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística peruana",
+      "volume" : "24",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6164.H83, LoC Subject Headings: Huambisa language",
+    "subjects" : [ {
+      "value" : "hub - Huambisa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "226 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401254",
+    "name" : "huambisa_jakway1987_o.pdf",
+    "creationDate" : "2010-04-01T11:08:17.415+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-724E-3",
+    "content" : "/rest/items/item_401255_4/component/file_401254/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "27846eaa5452dec5bb7c90322135089a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8516070,
+    "metadata" : {
+      "title" : "huambisa_jakway1987_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8516070
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2149375",
+    "name" : "http://www.sil.org/resources/archives/29604",
+    "creationDate" : "2015-04-30T08:08:02.316+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/29604",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "53fb7ac349be88afc7397870896006f6",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/29604",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Language & Culture Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

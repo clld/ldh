@@ -1,0 +1,151 @@
+{
+  "objectId" : "item_406073",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-17T07:02:20.311+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-EFB9-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-17T07:02:20.311+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8EA6-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:28:51.020+0000",
+  "latestRelease" : {
+    "objectId" : "item_406073",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-17T07:02:20.311+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-EFB9-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406073",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-17T07:02:20.311+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-EFB9-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Inductive learning of phonotactic patterns",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jeffrey Nicholas",
+        "familyName" : "Heinz",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35666",
+      "type" : "OTHER"
+    }, {
+      "id" : "phonotactic_heinz2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Los Angeles",
+      "publisher" : "Univ. of California"
+    },
+    "freeKeywords" : "LoC Class: P217.3,\nLoC Subject Headings: Grammar/Comparative and general--Phonology",
+    "totalNumberOfPages" : "XXi, 309 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406072",
+    "name" : "phonotactic_heinz2007_s.pdf",
+    "creationDate" : "2010-04-01T13:28:50.735+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8EA5-D",
+    "content" : "/rest/items/item_406073_3/component/file_406072/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8f5e92cd4d38e4380a39fd77a14bed63",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1535041,
+    "metadata" : {
+      "title" : "phonotactic_heinz2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1535041
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2042673",
+    "name" : "http://www.linguistics.ucla.edu/component/content/article/12-research/55-ucla-phd-dissertations.html",
+    "creationDate" : "2014-07-17T06:59:21.860+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-EFBB-A",
+    "content" : "http://www.linguistics.ucla.edu/component/content/article/12-research/55-ucla-phd-dissertations.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0763426e337cecf83bfefeb3dab5506d",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.linguistics.ucla.edu/component/content/article/12-research/55-ucla-phd-dissertations.html",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. of Calif. Los Angeles, Dep. of Linguistics, UCLA Ph.D. Dissertations, Heinz, Jeffrey 2007, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2042674",
+    "name" : "http://www.linguistics.ucla.edu/general/Dissertations/heinz-2007-UCLA-diss.pdf",
+    "creationDate" : "2014-07-17T06:59:23.810+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-EFBD-6",
+    "content" : "http://www.linguistics.ucla.edu/general/Dissertations/heinz-2007-UCLA-diss.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c9a8cd501f1eb837effb99abbb85354b",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.linguistics.ucla.edu/general/Dissertations/heinz-2007-UCLA-diss.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

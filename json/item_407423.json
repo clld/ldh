@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_407423",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T22:28:56.015+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70A7-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T22:28:56.015+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9618-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:13:25.385+0000",
+  "latestRelease" : {
+    "objectId" : "item_407423",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T22:28:56.015+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70A7-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407423",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T22:28:56.015+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70A7-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The phonetics and phonology of San Martín Itunyoso Trique",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "DiCanio, Christian Thomas",
+        "givenName" : "Christian Thomas",
+        "familyName" : "DiCanio",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2008",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38888",
+      "type" : "OTHER"
+    }, {
+      "id" : "triqui_dicanio2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Zugl.:  Berkeley",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PM4431.Z5, LoC Subject Headings: Triqui, LoC Subject Headings: San Martín Itunyoso (trq)",
+    "subjects" : [ {
+      "value" : "trq - San Martín Itunyoso Triqui",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407421",
+    "name" : "http://www.linguistics.berkeley.edu/~dicanio/DiCanio_dissertation_papersaver.pdf",
+    "creationDate" : "2010-04-01T14:13:16.495+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.linguistics.berkeley.edu/~dicanio/DiCanio_dissertation_papersaver.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b92fe175e4ba1f0bcfec290d818fbce1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.linguistics.berkeley.edu/~dicanio/DiCanio_dissertation_papersaver.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407422",
+    "name" : "triqui_dicanio2008_s.pdf",
+    "creationDate" : "2010-04-01T14:13:24.770+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9617-A",
+    "content" : "/rest/items/item_407423_3/component/file_407422/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "58b45af456c2a89abc40c2d57db45d8b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5778907,
+    "metadata" : {
+      "title" : "triqui_dicanio2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5778907
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

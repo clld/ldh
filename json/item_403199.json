@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403199",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-10T12:21:34.084+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-AE68-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-10T12:21:34.084+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7DAF-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:03:38.573+0000",
+  "latestRelease" : {
+    "objectId" : "item_403199",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T12:21:34.084+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-AE68-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403199",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T12:21:34.084+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-AE68-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The intonational system of English",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mark Yoffe",
+        "familyName" : "Liberman",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1975",
+    "datePublishedInPrint" : "1978",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31073",
+      "type" : "OTHER"
+    }, {
+      "id" : "intonational_liberman1975_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: PE1139.5, LoC Subject Headings: English language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "319 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PE1139.5, LoC Subject Headings: English language -- Intonation, LoC Subject Headings: English language--Accents and accentuation, LoC Subject Headings: English language--Rhythm"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403198",
+    "name" : "intonational_liberman1975_o.pdf",
+    "creationDate" : "2010-04-01T12:03:36.942+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7DAE-F",
+    "content" : "/rest/items/item_403199_4/component/file_403198/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7405c0736b70e8348dc814f1aa65629c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 17103934,
+    "metadata" : {
+      "title" : "intonational_liberman1975_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 17103934
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2134746",
+    "name" : "http://hdl.handle.net/1721.1/27376",
+    "creationDate" : "2015-04-10T12:21:04.432+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/27376",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1fbb4fd9c3634abcb106bbeb3bdc7bdb",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/27376",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

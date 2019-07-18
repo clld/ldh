@@ -1,0 +1,120 @@
+{
+  "objectId" : "item_403425",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T11:57:01.511+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7F06-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:57:01.511+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7F06-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:08.864+0000",
+  "latestRelease" : {
+    "objectId" : "item_403425",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T11:57:01.511+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F06-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403425",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T11:57:01.511+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F06-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The lexical phonology of Bàlòn",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Limnyuy, Frida Kong",
+        "givenName" : "Frida Kong",
+        "familyName" : "Limnyuy",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "datePublishedInPrint" : "2000",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31240",
+      "type" : "OTHER"
+    }, {
+      "id" : "balon_kong2000_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Yaoundé",
+      "publisher" : "Université de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon --Languages",
+    "subjects" : [ {
+      "value" : "bwt - Bafaw-Balong",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xi, 126 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : bwt, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403424",
+    "name" : "balon_kong2000_o.pdf",
+    "creationDate" : "2010-04-01T12:18:08.221+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7F05-C",
+    "content" : "/rest/items/item_403425_4/component/file_403424/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a5a4fe638fd183ca0efd42d0d094a448",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5990233,
+    "metadata" : {
+      "title" : "balon_kong2000_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "with permission from Université de Yaoundé I",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5990233,
+      "copyrightDate" : "2005-11-29"
+    }
+  } ]
+}

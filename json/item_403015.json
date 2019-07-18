@@ -1,0 +1,146 @@
+{
+  "objectId" : "item_403015",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-01-23T13:33:41.005+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-A248-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2015-01-23T13:33:41.005+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7C86-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:50:56.652+0000",
+  "latestRelease" : {
+    "objectId" : "item_403015",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-01-23T13:33:41.005+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A248-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403015",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-01-23T13:33:41.005+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A248-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Yana texts",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Edward",
+        "familyName" : "Sapir",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Roland Burrage",
+        "familyName" : "Dixon"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1910",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "30802",
+      "type" : "OTHER"
+    }, {
+      "id" : "yana_sapir1910_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "University of California Publications in American Archaeology and Ethnology : Yana Texts [Vol.]",
+      "volume" : "9",
+      "issue" : "1",
+      "startPage" : "1",
+      "endPage" : "235",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: E99.Y22,\nLoC Subject Headings: Yana language",
+    "subjects" : [ {
+      "value" : "ynn - Yana",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "234 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: E99.Y22,\nLoC Subject Headings: Yana Indians--Folklore, Yana language--Texts"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403013",
+    "name" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=224",
+    "creationDate" : "2010-04-01T11:50:53.014+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=224",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05b9041ae17c46f0805715bddc934c52",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=224",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of California, The George and Mary Foster Anthropology Library, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403014",
+    "name" : "yana_sapir1910_o.pdf",
+    "creationDate" : "2010-04-01T11:50:54.650+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7C85-F",
+    "content" : "/rest/items/item_403015_4/component/file_403014/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a8376e75c122177b5818bafcebf87229",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 20972312,
+    "metadata" : {
+      "title" : "yana_sapir1910_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 20972312,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_402173",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T10:06:28.912+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-779F-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:06:28.912+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-779F-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:27:00.014+0000",
+  "latestRelease" : {
+    "objectId" : "item_402173",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:06:28.912+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-779F-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402173",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:06:28.912+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-779F-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gramática da língua kanoê",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Bacelar, Laércio Nora",
+        "givenName" : "Laércio Nora",
+        "familyName" : "Bacelar",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29246",
+      "type" : "OTHER"
+    }, {
+      "id" : "kanoe_bacelar2004_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "90-9017958-5",
+      "type" : "ISBN"
+    } ],
+    "publishingInfo" : {
+      "place" : "Nijmegen",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM5151,\nLoC Subject Headings: Brazil languages",
+    "subjects" : [ {
+      "value" : "kxo - Kanoé",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "326 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402171",
+    "name" : "http://webdoc.ubn.kun.nl/mono/b/bacelar_l/gramdalik.pdf",
+    "creationDate" : "2010-04-01T11:26:58.849+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-779D-5",
+    "content" : "http://webdoc.ubn.kun.nl/mono/b/bacelar_l/gramdalik.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8dbef6363faf09bd8b7d4befd730b9ab",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://webdoc.ubn.kun.nl/mono/b/bacelar_l/gramdalik.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "webdoc.ubn.kun.nl\n",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402172",
+    "name" : "kanoe_bacelar2004_s.pdf",
+    "creationDate" : "2010-04-01T11:26:59.619+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-779E-3",
+    "content" : "/rest/items/item_402173_3/component/file_402172/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e03e60e1e809d10af5697cd57e374895",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3597475,
+    "metadata" : {
+      "title" : "kanoe_bacelar2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3597475
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

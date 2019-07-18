@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_406590",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T20:35:13.737+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FD1-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:35:13.737+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9178-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:43:48.125+0000",
+  "latestRelease" : {
+    "objectId" : "item_406590",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:35:13.737+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FD1-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406590",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:35:13.737+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FD1-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Contact between Mexican sign language and American sign language in two Texas border areas",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "David Gilbert",
+        "familyName" : "Quinto-Pozos",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37323",
+      "type" : "OTHER"
+    }, {
+      "id" : "contact_quintopozos2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Austin",
+      "publisher" : "Univ. of Texas"
+    },
+    "freeKeywords" : "LoC Subject Headings: Mexican Sign Language, LoC Subject Headings: American Sign Language",
+    "subjects" : [ {
+      "value" : "mfs - Mexican Sign Language",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xvii, 235 S.",
+    "abstracts" : [ {
+      "value" : "HV2475, ISO 639-3 : mfs, Mexican Sign Language, American Sign Language, Languages in contact -- Texas"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406589",
+    "name" : "contact_quintopozos2002_s.pdf",
+    "creationDate" : "2010-04-01T13:43:46.923+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9177-B",
+    "content" : "/rest/items/item_406590_4/component/file_406589/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7e4acf28d6605fb9ae2bf741c0974a2f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12503409,
+    "metadata" : {
+      "title" : "contact_quintopozos2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12503409,
+      "copyrightDate" : "04.01.2011",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_622545",
+    "name" : "http://hdl.handle.net/2152/517",
+    "creationDate" : "2011-01-06T08:32:48.551+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/2152/517",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "bade4599f451c3151cdce64cce8e6ff1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/2152/517",
+      "contentCategory" : "any-fulltext",
+      "description" : "University of Texas Library / Digital Repository",
+      "size" : 0
+    }
+  } ]
+}

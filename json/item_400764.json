@@ -1,0 +1,148 @@
+{
+  "objectId" : "item_400764",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-10T08:38:37.637+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0A97-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-10T08:38:37.637+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6F65-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:58:16.169+0000",
+  "latestRelease" : {
+    "objectId" : "item_400764",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T08:38:37.637+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0A97-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400764",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T08:38:37.637+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0A97-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Morfología, fonología y fonética del asheninca del apurucayali (campa-arawak preandino)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "David L.",
+        "familyName" : "Payne",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Judith K.",
+        "familyName" : "Payne"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1982",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "24151",
+      "type" : "OTHER"
+    }, {
+      "id" : "asheninca_payne1982_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1a ed.",
+      "place" : "Yarinacocha",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüistica Peruana",
+      "volume" : "18",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5716.Z9, LoC Subject Headings: Campa languages",
+    "subjects" : [ {
+      "value" : "cpc - Ajyíninka Apurucayali",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "311 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5716.Z9, LoC Subject Headings: Campa language--Dialects--Peru--Apurucayali River Valley--Morphology, Campa language--Dialects--Peru--Apurucayali River Valley--Phonology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400763",
+    "name" : "asheninca_payne1982_o.pdf",
+    "creationDate" : "2010-04-01T10:58:15.170+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F64-2",
+    "content" : "/rest/items/item_400764_3/component/file_400763/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0b48a2b576deb51f5bf45b232ef0aa3c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10199330,
+    "metadata" : {
+      "title" : "asheninca_payne1982_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10199330
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110491",
+    "name" : "http://www.peru.sil.org/resources/archives/29935",
+    "creationDate" : "2015-03-10T08:37:43.136+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/29935",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c3b3a79832748eaee6c59d10ffebdbe3",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/29935",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Peru Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

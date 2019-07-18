@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_405670",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-11T11:39:24.630+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-68C0-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter aktualisiert",
+  "lastModificationDate" : "2015-03-11T11:39:24.630+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8C69-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:18:12.822+0000",
+  "latestRelease" : {
+    "objectId" : "item_405670",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T11:39:24.630+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-68C0-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405670",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T11:39:24.630+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-68C0-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Essai de grammaire de la langue baguirmienne : suivi de textes et de vocabulaires baguirmien-français et français-baguirmien",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Henri",
+        "familyName" : "Gaden",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1906",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "35205",
+      "type" : "OTHER"
+    }, {
+      "id" : "baguirmienne_gaden1909.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Paris",
+      "publisher" : "Leroux"
+    },
+    "freeKeywords" : "LoC Class: PL8047.5.B47, LoC Subject Headings: Bagirmi language",
+    "subjects" : [ {
+      "value" : "bmi - Bagirmi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "147 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8047.5.B47,\nLoC Subject Headings: Bagirmi language -- Grammar, Bagirmi language -- Dictionaries -- French, French language -- Dictionaries -- Bagirmi"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405669",
+    "name" : "baguirmienne_gaden1909.pdf",
+    "creationDate" : "2010-04-01T13:18:12.171+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C68-5",
+    "content" : "/rest/items/item_405670_3/component/file_405669/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3d7cb9dc26c0c123ae6c2e5f8648e97d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6417470,
+    "metadata" : {
+      "title" : "baguirmienne_gaden1909.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6417470
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110934",
+    "name" : "https://archive.org/details/rosettaproject_bmi_phon-1",
+    "creationDate" : "2015-03-11T11:39:01.201+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/rosettaproject_bmi_phon-1",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0079dec3d8075e0ac214dc9348a7d72b",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/rosettaproject_bmi_phon-1",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

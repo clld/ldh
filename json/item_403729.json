@@ -1,0 +1,145 @@
+{
+  "objectId" : "item_403729",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-03T09:41:34.299+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-01F8-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-03T09:41:34.299+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8171-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:22:59.695+0000",
+  "latestRelease" : {
+    "objectId" : "item_403729",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-03T09:41:34.299+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-01F8-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403729",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-03T09:41:34.299+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-01F8-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Arte compendiado de la lengua Cebuana",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Julián",
+        "familyName" : "Bermejo",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Francisco",
+        "familyName" : "Encina"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1894",
+    "datePublishedOnline" : "2005",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31558",
+      "type" : "OTHER"
+    }, {
+      "id" : "cebuana_bermejo1894_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "2 Aufl.",
+      "place" : "Tambobong",
+      "publisher" : "Pequena Tipo-lit. del Asilo de Huerfanos"
+    },
+    "freeKeywords" : "LoC Class: PL5649, LoC Subject Headings: Cebuano language",
+    "subjects" : [ {
+      "value" : "ceb - Cebuano",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "180, [5] S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL5649,\nLoC Subject Headings: Cebuano language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403728",
+    "name" : "cebuana_bermejo1894_o.pdf",
+    "creationDate" : "2010-04-01T12:22:58.637+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8170-9",
+    "content" : "/rest/items/item_403729_4/component/file_403728/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2327d0f450e6b746aaa5c981119ba416",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10640710,
+    "metadata" : {
+      "title" : "cebuana_bermejo1894_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10640710
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_513107",
+    "name" : "http://name.umdl.umich.edu/AQN8194.0001.001",
+    "creationDate" : "2010-08-25T08:17:05.227+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://name.umdl.umich.edu/AQN8194.0001.001",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e443c4f4f46826a53cd9460143d9351d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://name.umdl.umich.edu/AQN8194.0001.001",
+      "contentCategory" : "publisher-version",
+      "description" : "University of Michigan Digital Library Text Collections (UMDL), view online & print",
+      "size" : 0
+    }
+  } ]
+}

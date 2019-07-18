@@ -1,0 +1,144 @@
+{
+  "objectId" : "item_403633",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-04-28T08:50:51.970+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C2DB-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-28T08:50:51.970+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-80B5-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:21:03.652+0000",
+  "latestRelease" : {
+    "objectId" : "item_403633",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-28T08:50:51.970+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2DB-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403633",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-28T08:50:51.970+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2DB-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gramática ilocana",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Francisco",
+        "familyName" : "López",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Andrés.",
+        "familyName" : "Carro"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1895",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31452",
+      "type" : "OTHER"
+    }, {
+      "id" : "ilocana_lopez1895.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "3. ed.",
+      "place" : "Malabón",
+      "publisher" : "Asilo de la Consolación"
+    },
+    "freeKeywords" : "LoC Class: PL5752, LoC Subject Headings: Iloko language",
+    "subjects" : [ {
+      "value" : "ilo - Ilocano",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xvi, 354, [2] S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL5752, LoC Subject Headings: Iloko language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403632",
+    "name" : "ilocana_lopez1895.pdf",
+    "creationDate" : "2010-04-01T12:21:00.939+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-80B4-A",
+    "content" : "/rest/items/item_403633_6/component/file_403632/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "cf7ff2b1cc05e7eebe238f96a9179919",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 28852168,
+    "metadata" : {
+      "title" : "ilocana_lopez1895.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 28852168,
+      "copyrightDate" : "2010-11-18",
+      "rights" : "public domain"
+    }
+  }, {
+    "objectId" : "file_2149186",
+    "name" : "https://archive.org/details/rosettaproject_ilo_morsyn-1",
+    "creationDate" : "2015-04-28T08:50:05.735+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/rosettaproject_ilo_morsyn-1",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "faa22d25f384f552f19a662170e7dfe9",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/rosettaproject_ilo_morsyn-1",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, Internet Archive, pdf download",
+      "size" : 0
+    }
+  } ]
+}

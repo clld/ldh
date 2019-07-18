@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_407771",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-19T06:41:07.222+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-D08C-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-19T06:41:07.222+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-97F9-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:20:12.507+0000",
+  "latestRelease" : {
+    "objectId" : "item_407771",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-19T06:41:07.222+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D08C-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407771",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-19T06:41:07.222+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D08C-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The structure of Thai narrative",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Somsonge",
+        "familyName" : "Burusphat",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1991",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "41832",
+      "type" : "OTHER"
+    }, {
+      "id" : "thai_burusphat1991_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Dallas, Tex.",
+      "publisher" : "SIL [u.a.]"
+    },
+    "sources" : [ {
+      "title" : "SIL International Publications in Linguistics",
+      "volume" : "98",
+      "genre" : "SERIES"
+    }, {
+      "title" : "Summer Institute of Linguistics and the University of Texas at Arlington Publications in Linguistics",
+      "volume" : "98",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL4177, LoC Subject Headings: Thai language",
+    "subjects" : [ {
+      "value" : "tha - Thai",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XII, 231 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407770",
+    "name" : "thai_burusphat1991_o.pdf",
+    "creationDate" : "2010-04-01T14:20:11.775+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-97F8-8",
+    "content" : "/rest/items/item_407771_4/component/file_407770/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1abd548d9e766a6591027d693da7b5f0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7284677,
+    "metadata" : {
+      "title" : "thai_burusphat1991_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7284677
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2156042",
+    "name" : "http://www.sil.org/resources/archives/8415",
+    "creationDate" : "2015-05-19T06:40:43.514+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/8415",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "89120da41d147a53ca71451066264af8",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/8415",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Language & Culture Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

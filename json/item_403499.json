@@ -1,0 +1,121 @@
+{
+  "objectId" : "item_403499",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T10:11:42.212+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7F9B-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:11:42.212+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7F9B-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:01.058+0000",
+  "latestRelease" : {
+    "objectId" : "item_403499",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:11:42.212+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F9B-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403499",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:11:42.212+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F9B-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Morphologie nominale du Mámbìlà",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Laurence Ndiola",
+        "familyName" : "Tsuata",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31321",
+      "type" : "OTHER"
+    }, {
+      "id" : "mambila_ndiola2004_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Mambila language",
+    "subjects" : [ {
+      "value" : "mcu - Mambila, Cameroon",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "mzk - Mambila, Nigeria",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "viii, 111 S.",
+    "abstracts" : [ {
+      "value" : "PL8484.M25, ISO 639-3 : mcu / mzk, Mambila language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403498",
+    "name" : "mambila_ndiola2004_o.pdf",
+    "creationDate" : "2010-04-01T12:19:00.738+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7F9A-F",
+    "content" : "/rest/items/item_403499_3/component/file_403498/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "632196e43d094700f0ca554ddb3214f1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2753640,
+    "metadata" : {
+      "title" : "mambila_ndiola2004_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2753640,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

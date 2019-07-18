@@ -1,0 +1,145 @@
+{
+  "objectId" : "item_401342",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-18T12:20:03.811+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7AC4-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-18T12:20:03.811+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-72CE-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:10:26.957+0000",
+  "latestRelease" : {
+    "objectId" : "item_401342",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-18T12:20:03.811+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7AC4-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401342",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-18T12:20:03.811+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7AC4-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Lecciones para el aprendizaje del idioma ashéninca",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Judith",
+        "familyName" : "Payne",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1989",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "26270",
+      "type" : "OTHER"
+    }, {
+      "id" : "asheninca_payne1989_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yarinacocha",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística Peruana",
+      "volume" : "28",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5716, LoC Subject Headings: Campa language",
+    "subjects" : [ {
+      "value" : "cpu - Pichis Ashéninka",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "prq - Ashéninka Perené",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "502 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5716, LoC Subject Headings: Campa languages--Textbooks for foreign speakers--Spanish, Campa languages--Grammar, Campa languages--Dictionaries--Spanish, Spanish language--Dictionaries--Campa"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401341",
+    "name" : "asheninca_payne1989_o.pdf",
+    "creationDate" : "2010-04-01T11:10:25.644+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-72CD-3",
+    "content" : "/rest/items/item_401342_4/component/file_401341/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5902c183d3a40614d9cb440eddab6bc8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 13681646,
+    "metadata" : {
+      "title" : "asheninca_payne1989_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 13681646
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110487",
+    "name" : "http://www.peru.sil.org/resources/archives/29992",
+    "creationDate" : "2015-03-10T08:32:51.471+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/29992",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "74e9488700e08738c49f4a9a6e60f1ee",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/29992",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Peru Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

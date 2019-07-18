@@ -1,0 +1,107 @@
+{
+  "objectId" : "item_405567",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:59:52.710+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8BD7-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:59:52.710+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8BD7-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:15:37.421+0000",
+  "latestRelease" : {
+    "objectId" : "item_405567",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:59:52.710+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8BD7-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405567",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:59:52.710+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8BD7-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "On the Greeting Forms among Uzbek and American People",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Sattarov, Tojimat",
+        "givenName" : "Tojimat",
+        "familyName" : "Sattarov",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "35052",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Tajikistan",
+      "publisher" : "Khujand State Univ."
+    },
+    "freeKeywords" : "LoC Class: PL55.U8,\nLoC Subject Headings: Uzbek language",
+    "subjects" : [ {
+      "value" : "uzn - Northern Uzbek",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "37 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405566",
+    "name" : "http://eric.ed.gov/ERICDocs/data/ericdocs2/content_storage_01/0000000b/80/27/11/7a.pdf65",
+    "creationDate" : "2010-04-01T13:15:37.257+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8BD6-4",
+    "content" : "http://eric.ed.gov/ERICDocs/data/ericdocs2/content_storage_01/0000000b/80/27/11/7a.pdf65",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eric.ed.gov/ERICDocs/data/ericdocs2/content_storage_01/0000000b/80/27/11/7a.pdf65",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_405140",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T11:40:09.016+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-897C-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:40:09.016+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-897C-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:55:58.044+0000",
+  "latestRelease" : {
+    "objectId" : "item_405140",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:40:09.016+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-897C-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405140",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:40:09.016+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-897C-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dictionnaire de Fulfulde (Fulfulde Dictionary) : Trainee's Book",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Bautista, Andreliz",
+        "givenName" : "Andreliz",
+        "familyName" : "Bautista",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1991",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34366",
+      "type" : "OTHER"
+    }, {
+      "id" : "fulfuldedic_bautista1991.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng", "fra", "ful" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Niamey (Niger)",
+      "publisher" : "Peace Corps"
+    },
+    "freeKeywords" : "LoC Class: PL8181,\nLoC Subject Headings: Fula language",
+    "subjects" : [ {
+      "value" : "fuv - Fulfulde, Nigerian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "101 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405139",
+    "name" : "fulfuldedic_bautista1991.pdf",
+    "creationDate" : "2010-04-01T12:55:57.463+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-897B-F",
+    "content" : "/rest/items/item_405140_3/component/file_405139/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "09f1b7888e8348bf463558befb0f7280",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5352179,
+    "metadata" : {
+      "title" : "fulfuldedic_bautista1991.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5352179
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_446244",
+    "name" : "http://www.eric.ed.gov/ERICWebPortal/Home.portal?_nfpb=true&ERICExtSearch_SearchValue_0=%22FULFULDE%22&searchtype=basic&ERICExtSearch_SearchType_0=kw&_pageLabel=RecordDetails&objectId=0900019b800ad063&accno=ED401765&_nfls=false",
+    "creationDate" : "2010-06-10T09:28:21.161+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.eric.ed.gov/ERICWebPortal/Home.portal?_nfpb=true&ERICExtSearch_SearchValue_0=%22FULFULDE%22&searchtype=basic&ERICExtSearch_SearchType_0=kw&_pageLabel=RecordDetails&objectId=0900019b800ad063&accno=ED401765&_nfls=false",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a9abce76f50e39e337df89cfbf4a1b88",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.eric.ed.gov/ERICWebPortal/Home.portal?_nfpb=true&ERICExtSearch_SearchValue_0=%22FULFULDE%22&searchtype=basic&ERICExtSearch_SearchType_0=kw&_pageLabel=RecordDetails&objectId=0900019b800ad063&accno=ED401765&_nfls=false",
+      "contentCategory" : "publisher-version",
+      "description" : "ERIC - Education Resources Information Center",
+      "size" : 0
+    }
+  } ]
+}

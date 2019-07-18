@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_402313",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:46:25.487+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-787C-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:46:25.487+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-787C-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:30:04.845+0000",
+  "latestRelease" : {
+    "objectId" : "item_402313",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:46:25.487+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-787C-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402313",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:46:25.487+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-787C-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Korean causatives in role and reference grammar",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Park, Ki-seong",
+        "givenName" : "Ki-seong",
+        "familyName" : "Park",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1993",
+    "datePublishedInPrint" : "1993",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29609",
+      "type" : "OTHER"
+    }, {
+      "id" : "korean_park1993_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Buffalo",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL904,\nLoC Subject Headings: Korean language",
+    "subjects" : [ {
+      "value" : "kor - Korean",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "69 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402311",
+    "name" : "http://linguistics.buffalo.edu/people/faculty/vanvalin/rrg/park/ksparkmasters.pdf",
+    "creationDate" : "2010-04-01T11:30:03.898+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-787A-B",
+    "content" : "http://linguistics.buffalo.edu/people/faculty/vanvalin/rrg/park/ksparkmasters.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3c6ba7e9833940f11767505175a62446",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://linguistics.buffalo.edu/people/faculty/vanvalin/rrg/park/ksparkmasters.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402312",
+    "name" : "korean_park1993_s.pdf",
+    "creationDate" : "2010-04-01T11:30:04.765+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-787B-9",
+    "content" : "/rest/items/item_402313_2/component/file_402312/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0f3e28045bb4cac492b62ab313bc86b6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 171770,
+    "metadata" : {
+      "title" : "korean_park1993_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 171770
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

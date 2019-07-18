@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_400226",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-06-19T07:28:37.533+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-C18A-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Stichwörter für LDH-Blog bereinigt",
+  "lastModificationDate" : "2014-06-19T07:28:37.533+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6C1E-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:42:45.417+0000",
+  "latestRelease" : {
+    "objectId" : "item_400226",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-06-19T07:28:37.533+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-C18A-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400226",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-06-19T07:28:37.533+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-C18A-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Huave de San Mateo del Mar, Oaxaca (Huave of San Mateo del Mar, Oaxaca)",
+    "creators" : [ {
+      "organization" : {
+        "identifier" : "ou_persistent22",
+        "name" : "Centro de Investigación para la Integración               Social (Mexico City, Mexico)",
+        "identifierPath" : [ "ou_persistent22" ]
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "1983",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "11826",
+      "type" : "OTHER"
+    }, {
+      "id" : "huave_archivo1983_o.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "México",
+      "publisher" : "Colegio de México, Centro de Investigación para la Integración Social"
+    },
+    "sources" : [ {
+      "title" : "Archivo de lenguas indígenas de México ",
+      "alternativeTitles" : [ {
+        "value" : "Archivo de lenguas indígenas de México"
+      } ],
+      "volume" : "11",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM3836.Z9, LoC Subject Headings: Huave language",
+    "subjects" : [ {
+      "value" : "hve - Huave, San Dionisio del Mar",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "136 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM3836.Z9 ,\nLoC Subject Headings: Huave language, Huave language--Mexico--San Mateo del Mar--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400225",
+    "name" : "huave_archivo1983_o.pdf",
+    "creationDate" : "2010-04-01T10:42:44.765+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6C1D-D",
+    "content" : "/rest/items/item_400226_4/component/file_400225/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a7b49528224c6ec2075e42e44b83a096",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6317550,
+    "metadata" : {
+      "title" : "huave_archivo1983_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6317550
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_417511",
+    "name" : "http://www.eric.ed.gov/ERICWebPortal/custom/portlets/recordDetails/detailmini.jsp?_nfpb=true&_&ERICExtSearch_SearchValue_0=ED378797&ERICExtSearch_SearchType_0=no&accno=ED378797",
+    "creationDate" : "2010-04-15T14:08:37.239+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-C18B-4",
+    "content" : "http://www.eric.ed.gov/ERICWebPortal/custom/portlets/recordDetails/detailmini.jsp?_nfpb=true&_&ERICExtSearch_SearchValue_0=ED378797&ERICExtSearch_SearchType_0=no&accno=ED378797",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a6f483512d54f0d30a7056cccb6bdacc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.eric.ed.gov/ERICWebPortal/custom/portlets/recordDetails/detailmini.jsp?_nfpb=true&_&ERICExtSearch_SearchValue_0=ED378797&ERICExtSearch_SearchType_0=no&accno=ED378797",
+      "contentCategory" : "publisher-version",
+      "description" : "Education Resources Information Center (ERIC), pdf",
+      "size" : 0
+    }
+  } ]
+}

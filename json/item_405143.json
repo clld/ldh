@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_405143",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:01:16.705+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8981-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:01:16.705+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8981-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:56:09.944+0000",
+  "latestRelease" : {
+    "objectId" : "item_405143",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:01:16.705+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8981-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405143",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:01:16.705+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8981-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gadsup nominal phrases",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Frantz, Chester I.",
+        "givenName" : "Chester I.",
+        "familyName" : "Frantz",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1974",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34367",
+      "type" : "OTHER"
+    }, {
+      "id" : "gadsup_frantz1974_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N.A.",
+      "publisher" : "Summer Inst. of Linguistics, Papua New Guinea"
+    },
+    "freeKeywords" : "LoC Class: PL6601,\nLoC Subject Headings: Gadsup language",
+    "subjects" : [ {
+      "value" : "gaj - Gadsup",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "47 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405141",
+    "name" : "http://www.sil.org/pacific/png/pubs/0000464/Gadsup%20%5BGAJ%5D%20Grammar_1974.pdf",
+    "creationDate" : "2010-04-01T12:55:58.759+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-897F-7",
+    "content" : "http://www.sil.org/pacific/png/pubs/0000464/Gadsup%20%5BGAJ%5D%20Grammar_1974.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f7622133534ef3154c6da0226f6ba1d6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/pacific/png/pubs/0000464/Gadsup%20%5BGAJ%5D%20Grammar_1974.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405142",
+    "name" : "gadsup_frantz1974_o.pdf",
+    "creationDate" : "2010-04-01T12:56:09.737+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8980-1",
+    "content" : "/rest/items/item_405143_2/component/file_405142/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fddf07e73e98b23ae2e24de6fac3281f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1574819,
+    "metadata" : {
+      "title" : "gadsup_frantz1974_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1574819
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

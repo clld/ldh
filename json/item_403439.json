@@ -1,0 +1,115 @@
+{
+  "objectId" : "item_403439",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-13T00:04:19.554+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7159-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T00:04:19.554+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7F26-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:18.316+0000",
+  "latestRelease" : {
+    "objectId" : "item_403439",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T00:04:19.554+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7159-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403439",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T00:04:19.554+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7159-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Essai de description phonologique du Bapi",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Ngueffo, Noe",
+        "givenName" : "Noe",
+        "familyName" : "Ngueffo",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1979",
+    "datePublishedInPrint" : "1979",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31249",
+      "type" : "OTHER"
+    }, {
+      "id" : "bapi_ngueffo1979_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Bandjoun language, LoC Subject Headings: Cameroon--Languages",
+    "totalNumberOfPages" : "iii, 85 S.",
+    "abstracts" : [ {
+      "value" : "PL8052, Bandjoun language--Clauses, Cameroon--Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403438",
+    "name" : "bapi_ngueffo1979_o.pdf",
+    "creationDate" : "2010-04-01T12:18:18.052+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7F25-4",
+    "content" : "/rest/items/item_403439_4/component/file_403438/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ebcead36c9f76b7302049352c7526269",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2105055,
+    "metadata" : {
+      "title" : "bapi_ngueffo1979_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2105055,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

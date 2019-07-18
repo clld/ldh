@@ -1,0 +1,151 @@
+{
+  "objectId" : "item_404942",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-17T12:11:46.274+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-78BC-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter aktualisiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-17T12:11:46.274+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-886A-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:51:30.449+0000",
+  "latestRelease" : {
+    "objectId" : "item_404942",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-17T12:11:46.274+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-78BC-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404942",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-17T12:11:46.274+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-78BC-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Albanian : Language Competencies for Peace Corps Volunteers in Albania",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ismail",
+        "familyName" : "Haznedan",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "organization" : {
+        "identifier" : "ou_persistent22",
+        "name" : "United States / Peace Corps",
+        "identifierPath" : [ "ou_persistent22" ]
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    }, {
+      "person" : {
+        "givenName" : "Sami",
+        "familyName" : "Repishti"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1992",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34063",
+      "type" : "OTHER"
+    }, {
+      "id" : "albanian_haznedari1992_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Washington, D.C.",
+      "publisher" : "Peace Corps"
+    },
+    "freeKeywords" : "LoC Class: PG9527.5.E5, LoC Subject Headings: Albanian language",
+    "subjects" : [ {
+      "value" : "sqi - Albanian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "273 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PG9527.5.E5,\nLoC Subject Headings: Albanian language --Textbooks for foreign speakers --English"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404941",
+    "name" : "albanian_haznedari1992_o.pdf",
+    "creationDate" : "2010-04-01T12:51:29.833+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8869-1",
+    "content" : "/rest/items/item_404942_3/component/file_404941/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e7aee002ffebe39de68a8aaaf970e6b4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5965399,
+    "metadata" : {
+      "title" : "albanian_haznedari1992_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5965399
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116585",
+    "name" : "http://eric.ed.gov/?id=ED402763",
+    "creationDate" : "2015-03-17T12:11:06.100+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://eric.ed.gov/?id=ED402763",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6900ded7d8d389ff63aaf62e6333d5e7",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eric.ed.gov/?id=ED402763",
+      "contentCategory" : "publisher-version",
+      "description" : "Education Resources Information Center (ERIC), pdf download",
+      "size" : 0
+    }
+  } ]
+}

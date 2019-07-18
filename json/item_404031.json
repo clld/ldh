@@ -1,0 +1,152 @@
+{
+  "objectId" : "item_404031",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-13T00:11:53.383+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7169-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T00:11:53.383+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8330-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:32:57.217+0000",
+  "latestRelease" : {
+    "objectId" : "item_404031",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T00:11:53.383+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7169-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404031",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T00:11:53.383+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7169-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario Zapoteco de San Bartolomé Zoogocho , Oaxaca",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Long C., Rebecca",
+        "givenName" : "Rebecca",
+        "familyName" : "Long C.",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Sofronio",
+        "familyName" : "Cruz M."
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2000",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "32167",
+      "type" : "OTHER"
+    }, {
+      "id" : "zapotec_long2000_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "2. Aufl., elektronisch",
+      "place" : "Coyoacán",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie de Vocabularios y Diccionarios Indígenas Mariano Silva y Aceves",
+      "alternativeTitles" : [ {
+        "value" : "Serie de vocabularios y diccionarios indígenas Mariano Silva y Aceves"
+      } ],
+      "volume" : "38",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4548, LoC Subject Headings: Zapotec language -- Dictionaries -- Spanish, LoC Subject Headings: Spanish language -- Dictionaries -- Zapotec, LoC Subject Headings: Zapotec language -- Mexico -- Zoogoche, LoC Subject Headings: Zapotec language -- Grammar",
+    "subjects" : [ {
+      "value" : "zpq - Zoogocho Zapotec",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xx, 531 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404029",
+    "name" : "http://www.sil.org/mexico/zapoteca/zoogocho/S038a-Diccionario-ZPQ.htm",
+    "creationDate" : "2010-04-01T12:32:56.672+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/mexico/zapoteca/zoogocho/S038a-Diccionario-ZPQ.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4d0a6320156b61e717e6d4abf2f2b70c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/mexico/zapoteca/zoogocho/S038a-Diccionario-ZPQ.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404030",
+    "name" : "zapotec_long2000_s.pdf",
+    "creationDate" : "2010-04-01T12:32:56.852+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-832F-F",
+    "content" : "/rest/items/item_404031_3/component/file_404030/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2bfb846bdf4fd9063707ad1855d59862",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3290362,
+    "metadata" : {
+      "title" : "zapotec_long2000_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3290362
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

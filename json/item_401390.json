@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_401390",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:15:21.325+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7311-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:15:21.325+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7311-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:11:07.727+0000",
+  "latestRelease" : {
+    "objectId" : "item_401390",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:15:21.325+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7311-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401390",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:15:21.325+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7311-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Um estudo de fonologia da língua Makuxi (karib) : inter-relações das teorias fonológicas",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Cunha, Carla Maria",
+        "givenName" : "Carla Maria",
+        "familyName" : "Cunha",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "26522",
+      "type" : "OTHER"
+    }, {
+      "id" : "makuxi_cunha2004_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM6397,\nLoC Subject Headings: Macusi language",
+    "subjects" : [ {
+      "value" : "mbc - Macushi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "191 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401388",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000318263",
+    "creationDate" : "2010-04-01T11:11:06.562+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-730F-9",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000318263",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6d38db3a5c58661182c8009610cd7eb2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000318263",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401389",
+    "name" : "makuxi_cunha2004_o.pdf",
+    "creationDate" : "2010-04-01T11:11:07.154+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7310-3",
+    "content" : "/rest/items/item_401390_2/component/file_401389/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ce3259742f2185aa903e5f69c78b8b1b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4922756,
+    "metadata" : {
+      "title" : "makuxi_cunha2004_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4922756
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

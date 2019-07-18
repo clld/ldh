@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_403085",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-18T10:08:41.170+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7A3E-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-18T10:08:41.170+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7CFD-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:53:59.038+0000",
+  "latestRelease" : {
+    "objectId" : "item_403085",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T10:08:41.170+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A3E-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403085",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T10:08:41.170+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A3E-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Studies in Basque syntax : relative clauses",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Rudolphus Pieter Gerardus",
+        "familyName" : "De Rijk",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1972",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30935",
+      "type" : "OTHER"
+    }, {
+      "id" : "basque_derijk1972_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P291, LoC Subject Headings: Basque language",
+    "subjects" : [ {
+      "value" : "eus - Basque",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix, 182 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: P291, LoC Subject Headings: Basque language--Syntax"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403084",
+    "name" : "basque_derijk1972_o.pdf",
+    "creationDate" : "2010-04-01T11:53:57.156+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7CFC-7",
+    "content" : "/rest/items/item_403085_3/component/file_403084/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e725e0d1226f4a627ea6074900222883",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 19495680,
+    "metadata" : {
+      "title" : "basque_derijk1972_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 19495680
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116704",
+    "name" : "http://hdl.handle.net/1721.1/12980",
+    "creationDate" : "2015-03-18T10:07:58.257+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/12980",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5d6436c54fc4ea4e868721263f247824",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/12980",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

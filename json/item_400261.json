@@ -1,0 +1,145 @@
+{
+  "objectId" : "item_400261",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:51:08.605+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6C52-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:51:08.605+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6C52-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:44:05.183+0000",
+  "latestRelease" : {
+    "objectId" : "item_400261",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:51:08.605+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6C52-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400261",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:51:08.605+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6C52-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Língua Matis : aspectos descritivos da morfossintaxe",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Vicente Ferreira, Rogério",
+        "givenName" : "Rogério",
+        "familyName" : "Vicente Ferreira",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedInPrint" : "2001",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "16439",
+      "type" : "OTHER"
+    }, {
+      "id" : "matis_ferreira2001_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "3-89586-417-4",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[München]",
+      "publisher" : "[Lincom]"
+    },
+    "sources" : [ {
+      "title" : "LINCOM Studies in Native American Linguistics",
+      "volume" : "38",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6773.Z9,\nLoC Subject Headings: Matis language -- Morphosyntax",
+    "subjects" : [ {
+      "value" : "mpq - Matís",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "176 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400259",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000218970",
+    "creationDate" : "2010-04-01T10:44:03.328+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6C50-8",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000218970",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d50d91efb64c3c904cc190d24bd9c7db",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000218970",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400260",
+    "name" : "matis_ferreira2001_s.pdf",
+    "creationDate" : "2010-04-01T10:44:05.040+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6C51-6",
+    "content" : "/rest/items/item_400261_2/component/file_400260/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fa98fd7acc4c9c3c478e0673e36079c3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 765152,
+    "metadata" : {
+      "title" : "matis_ferreira2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 765152
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

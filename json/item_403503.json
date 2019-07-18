@@ -1,0 +1,119 @@
+{
+  "objectId" : "item_403503",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T23:20:33.214+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70FE-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T23:20:33.214+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7FA3-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:03.119+0000",
+  "latestRelease" : {
+    "objectId" : "item_403503",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T23:20:33.214+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70FE-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403503",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T23:20:33.214+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70FE-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Structure syntaxique de la phrase Mankon : approche generative",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Ngum, Lucresse Rachelle",
+        "givenName" : "Lucresse Rachelle",
+        "familyName" : "Ngum",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1997",
+    "datePublishedInPrint" : "1997",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31323",
+      "type" : "OTHER"
+    }, {
+      "id" : "mankon_ngum1997_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Ngemba language, LoC Subject Headings: Mankon dialect",
+    "subjects" : [ {
+      "value" : "nge - Ngemba",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "V, 132 S.",
+    "abstracts" : [ {
+      "value" : "PL8496.M35, ISO 639-3 : nge, Ngemba language, Mankon dialect"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403502",
+    "name" : "mankon_ngum1997_o.pdf",
+    "creationDate" : "2010-04-01T12:19:02.718+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7FA2-C",
+    "content" : "/rest/items/item_403503_4/component/file_403502/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2c25f32617510c056245f4b584e12ddf",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3681498,
+    "metadata" : {
+      "title" : "mankon_ngum1997_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3681498,
+      "copyrightDate" : "2010-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

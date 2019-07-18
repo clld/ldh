@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_404570",
+  "versionNumber" : 5,
+  "modificationDate" : "2013-09-25T11:57:09.702+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-56D2-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain",
+  "lastModificationDate" : "2013-09-25T11:57:09.702+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8640-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:43:46.079+0000",
+  "latestRelease" : {
+    "objectId" : "item_404570",
+    "versionNumber" : 5,
+    "modificationDate" : "2013-09-25T11:57:09.702+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-56D2-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404570",
+    "versionNumber" : 5,
+    "modificationDate" : "2013-09-25T11:57:09.702+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-56D2-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "An account of the natives of the Tonga Islands in the south pacific ocean : vol. II ; with an original grammar and vocabulary of their language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "William",
+        "familyName" : "Mariner",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "John",
+        "familyName" : "Martin"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1817",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "33494",
+      "type" : "OTHER"
+    }, {
+      "id" : "tonga_mariner1817_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "London",
+      "publisher" : "Murray"
+    },
+    "freeKeywords" : "LoC Subject Headings: Tongan language",
+    "subjects" : [ {
+      "value" : "ton - Tonga (Tonga Islands)",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "412 S.[+ vocabulary list]",
+    "abstracts" : [ {
+      "value" : "LoC Class: PN6519.T6,\nLoC Subject Headings: Ethnology -- Tonga, Tongan language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404568",
+    "name" : "http://books.google.de/books?id=FI0PAAAAYAAJ&dq",
+    "creationDate" : "2010-04-01T12:43:43.501+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-56D3-F",
+    "content" : "http://tinyurl.com/59qse9",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ba0afd0ac39ed7b2a977245ba653f4e9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://books.google.de/books?id=FI0PAAAAYAAJ&dq",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404569",
+    "name" : "tonga_mariner1817_o.pdf",
+    "creationDate" : "2010-04-01T12:43:44.207+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-863F-2",
+    "content" : "/rest/items/item_404570_5/component/file_404569/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "bee29b35250af6c81dc5e3f79c2488d4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 19664668,
+    "metadata" : {
+      "title" : "tonga_mariner1817_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 19664668
+    }
+  } ]
+}

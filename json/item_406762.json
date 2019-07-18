@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_406762",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T21:04:00.929+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-700D-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:04:00.929+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9267-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:47:07.617+0000",
+  "latestRelease" : {
+    "objectId" : "item_406762",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T21:04:00.929+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-700D-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406762",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T21:04:00.929+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-700D-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Proto-Wintun",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Shepherd, Alice",
+        "givenName" : "Alice",
+        "familyName" : "Shepherd",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2006",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37428",
+      "type" : "OTHER"
+    }, {
+      "id" : "wintun_shephard2005_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "0520098528",
+      "type" : "ISBN"
+    } ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Berkeley [u.a.]",
+      "publisher" : "Univ. of California Press"
+    },
+    "sources" : [ {
+      "title" : "University of California publications in linguistics",
+      "alternativeTitles" : [ {
+        "value" : "University of California publications in linguistics ; 137"
+      } ],
+      "volume" : "137",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM2595, LoC Subject Headings: Wintun languages -- Grammatical categories, LoC Subject Headings: Wintun languages -- Morphology, LoC Subject Headings: Wintun languages -- Cognate words",
+    "totalNumberOfPages" : "xvii, 247 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406760",
+    "name" : "http://repositories.cdlib.org/cgi/viewcontent.cgi?article=1004&context=ucpress/ucpl",
+    "creationDate" : "2010-04-01T13:47:05.161+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://repositories.cdlib.org/cgi/viewcontent.cgi?article=1004&context=ucpress/ucpl",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4ea16b64fbba30c0d1637412da211c6f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://repositories.cdlib.org/cgi/viewcontent.cgi?article=1004&context=ucpress/ucpl",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406761",
+    "name" : "wintun_shephard2005_s.pdf",
+    "creationDate" : "2010-04-01T13:47:07.405+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9266-5",
+    "content" : "/rest/items/item_406762_3/component/file_406761/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1e838a3b493239ca5d74cce115a2b543",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1085516,
+    "metadata" : {
+      "title" : "wintun_shephard2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1085516
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_407052",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:16:29.865+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-941E-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:16:29.865+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-941E-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:53:12.708+0000",
+  "latestRelease" : {
+    "objectId" : "item_407052",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:16:29.865+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-941E-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407052",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:16:29.865+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-941E-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Sprache und Kultur : eine Geschichte der deutschsprachigen Ethnolinguistik",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Karstedt, Lars von",
+        "givenName" : "Lars von",
+        "familyName" : "Karstedt",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37617",
+      "type" : "OTHER"
+    }, {
+      "id" : "ethnolinguistik_karstedt2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Hamburg",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: P35.5.G3,\nLoC Subject Headings: Anthropological linguistics --Germany",
+    "totalNumberOfPages" : "294 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407050",
+    "name" : "http://www.sub.uni-hamburg.de/opus/volltexte/2005/2544/index.html",
+    "creationDate" : "2010-04-01T13:53:12.428+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-941C-E",
+    "content" : "http://www.sub.uni-hamburg.de/opus/volltexte/2005/2544/index.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9bf7dc1c3cd1d5a4fa152e28328833ed",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sub.uni-hamburg.de/opus/volltexte/2005/2544/index.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407051",
+    "name" : "ethnolinguistik_karstedt2004_s.pdf",
+    "creationDate" : "2010-04-01T13:53:12.504+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-941D-C",
+    "content" : "/rest/items/item_407052_2/component/file_407051/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c093b4174bf08c92646f0981dc194e20",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1602216,
+    "metadata" : {
+      "title" : "ethnolinguistik_karstedt2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1602216
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

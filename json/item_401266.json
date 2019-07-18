@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_401266",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-18T08:11:52.712+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-79DA-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-18T08:11:52.712+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-725F-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:08:29.178+0000",
+  "latestRelease" : {
+    "objectId" : "item_401266",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-18T08:11:52.712+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-79DA-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401266",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-18T08:11:52.712+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-79DA-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario arabela-castellano",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Rolland G.",
+        "familyName" : "Rich",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1999",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "25510",
+      "type" : "OTHER"
+    }, {
+      "id" : "arabela_rich1999_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa", "arl" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Lima, Perú",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística peruana",
+      "volume" : "49",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5438, LoC Subject Headings: Arabela language",
+    "subjects" : [ {
+      "value" : "arl - Arabela",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "643 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5438, LoC Subject Headings: Arabela language--Dictionaries--Spanish, LoC Subject Headings: Spanish language--Dictionaries--Arabela"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401265",
+    "name" : "arabela_rich1999_s.pdf",
+    "creationDate" : "2010-04-01T11:08:28.584+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-725E-0",
+    "content" : "/rest/items/item_401266_4/component/file_401265/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7d658de81d855cbde712faecde53b8fb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5884168,
+    "metadata" : {
+      "title" : "arabela_rich1999_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5884168
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116672",
+    "name" : "http://www.peru.sil.org/resources/archives/29682",
+    "creationDate" : "2015-03-18T08:10:15.800+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/29682",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "287e57c81ec05cbb4f969d9a653878b2",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/29682",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

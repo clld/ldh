@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_400703",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-28T08:59:53.359+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C2E4-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-28T08:59:53.359+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6F11-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:57:16.596+0000",
+  "latestRelease" : {
+    "objectId" : "item_400703",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-28T08:59:53.359+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2E4-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400703",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-28T08:59:53.359+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2E4-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Datos de la lengua iñapari",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Stephen G.",
+        "familyName" : "Parker",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1995",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "23976",
+      "type" : "OTHER"
+    }, {
+      "id" : "inapari_parker1995_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1a ed.",
+      "place" : "Yarinacocha, Perú",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Documento de trabajo",
+      "volume" : "27",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6213, LoC Subject Headings: Inapari language",
+    "subjects" : [ {
+      "value" : "inp - Iñapari",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "208 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM6213, LoC Subject Headings: Inapari language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400702",
+    "name" : "inapari_parker1995_o.pdf",
+    "creationDate" : "2010-04-01T10:57:15.839+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F10-D",
+    "content" : "/rest/items/item_400703_3/component/file_400702/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "355c500367797951d981aa455d6a1056",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7552713,
+    "metadata" : {
+      "title" : "inapari_parker1995_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7552713
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2149190",
+    "name" : "http://www.sil.org/resources/archives/29963",
+    "creationDate" : "2015-04-28T08:59:31.966+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/29963",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3771cd554613936f8f614c02183b1407",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/29963",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Language & Culture Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

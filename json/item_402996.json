@@ -1,0 +1,153 @@
+{
+  "objectId" : "item_402996",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-17T11:25:40.255+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-788D-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-17T11:25:40.255+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7C6D-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:49:25.961+0000",
+  "latestRelease" : {
+    "objectId" : "item_402996",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-17T11:25:40.255+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-788D-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402996",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-17T11:25:40.255+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-788D-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Amanab grammar essentials",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Andy",
+        "familyName" : "Minch",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1992",
+    "genre" : "BOOK_ITEM",
+    "identifiers" : [ {
+      "id" : "30794",
+      "type" : "OTHER"
+    }, {
+      "id" : "amanab_minch_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Namia and Amanab grammar essentials",
+      "alternativeTitles" : [ { } ],
+      "creators" : [ {
+        "person" : {
+          "givenName" : "John R.",
+          "familyName" : "Roberts"
+        },
+        "role" : "AUTHOR",
+        "type" : "PERSON"
+      } ],
+      "startPage" : "99",
+      "endPage" : "173",
+      "publishingInfo" : {
+        "place" : "Ukarumpa",
+        "publisher" : "SIL"
+      },
+      "genre" : "BOOK"
+    }, {
+      "title" : "Data Papers on Papua New Guinea Languages",
+      "volume" : "39",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6621.N34, LoC Subject Headings: Amanab language",
+    "subjects" : [ {
+      "value" : "amn - Amanab",
+      "type" : "ISO639_3"
+    } ],
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6621.N34,\nLoC Subject Headings: Amanab language -- Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402995",
+    "name" : "amanab_minch_o.pdf",
+    "creationDate" : "2010-04-01T11:49:25.659+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7C6C-9",
+    "content" : "/rest/items/item_402996_4/component/file_402995/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e043314a794fec3171e37e9cb372a5d6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2001581,
+    "metadata" : {
+      "title" : "amanab_minch_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2001581
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116551",
+    "name" : "http://www-01.sil.org/pacific/png/abstract.asp?id=34684",
+    "creationDate" : "2015-03-17T11:25:19.005+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www-01.sil.org/pacific/png/abstract.asp?id=34684",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2611524730c5abd9044c35099afae675",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www-01.sil.org/pacific/png/abstract.asp?id=34684",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Papua New Guinea, PNG Language Resources, pdf download",
+      "size" : 0
+    }
+  } ]
+}

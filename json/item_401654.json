@@ -1,0 +1,112 @@
+{
+  "objectId" : "item_401654",
+  "versionNumber" : 5,
+  "modificationDate" : "2013-09-06T12:51:11.401+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-4DC2-4",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "lastModificationDate" : "2013-09-06T12:51:11.401+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7490-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:15:58.548+0000",
+  "latestRelease" : {
+    "objectId" : "item_401654",
+    "versionNumber" : 5,
+    "modificationDate" : "2013-09-06T12:51:11.401+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-4DC2-4",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401654",
+    "versionNumber" : 5,
+    "modificationDate" : "2013-09-06T12:51:11.401+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-4DC2-4",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Specimens of a dialect, of the aborigines of\nNew South Wales, being the first attempt to\nform their speech into a written language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lancelot Edward",
+        "familyName" : "Threlkeld",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1827",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "27428",
+      "type" : "OTHER"
+    }, {
+      "id" : "specimens_threlkeld1827_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "freeKeywords" : "LoC Subject Headings: Australian languages",
+    "subjects" : [ {
+      "value" : "awk - Awabakal",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "27 S.",
+    "abstracts" : [ {
+      "value" : "PL7101.A7, ISO 639-3 : awk, Australian languages, Ethnology--New South Wales"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401653",
+    "name" : "specimens_threlkeld1827_o.pdf",
+    "creationDate" : "2010-04-01T11:15:58.292+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-748F-0",
+    "content" : "/rest/items/item_401654_5/component/file_401653/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f5503c95c813563f6a5f406f74c85e7f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2022956,
+    "metadata" : {
+      "title" : "specimens_threlkeld1827_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2022956,
+      "copyrightDate" : "2010-16-11",
+      "rights" : "public domain, Lancelot Edward Threkeld 1788-1859"
+    }
+  } ]
+}

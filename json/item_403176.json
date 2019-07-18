@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403176",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-28T07:42:24.343+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C2AE-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-28T07:42:24.343+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D90-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:00:57.951+0000",
+  "latestRelease" : {
+    "objectId" : "item_403176",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-28T07:42:24.343+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2AE-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403176",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-28T07:42:24.343+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2AE-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The phonology and morphology of Tiberian Hebrew",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Alan Sanford",
+        "familyName" : "Prince",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1975",
+    "datePublishedInPrint" : "1975",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31059",
+      "type" : "OTHER"
+    }, {
+      "id" : "hebrew_prince1975_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: PJ4855, LoC Subject Headings: Hebrew language",
+    "subjects" : [ {
+      "value" : "heb - Hebrew",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "248 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PJ4855, LoC Subject Headings: Hebrew language--Dialects, LoC Subject Headings: Hebrew language--Phonology, LoC Subject Headings: Hebrew language--Accents and accentuation"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403175",
+    "name" : "hebrew_prince1975_o.pdf",
+    "creationDate" : "2010-04-01T12:00:56.696+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D8F-4",
+    "content" : "/rest/items/item_403176_4/component/file_403175/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2a6bd97587f708efac925d14a5475764",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12788116,
+    "metadata" : {
+      "title" : "hebrew_prince1975_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12788116
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2149161",
+    "name" : "http://hdl.handle.net/1721.1/27378",
+    "creationDate" : "2015-04-28T07:41:49.482+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/27378",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "eed9fdce260bffca6def1548495c9fc3",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/27378",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

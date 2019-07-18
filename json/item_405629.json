@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_405629",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T11:40:58.022+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8C2C-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:40:58.022+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8C2C-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:16:47.509+0000",
+  "latestRelease" : {
+    "objectId" : "item_405629",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T11:40:58.022+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8C2C-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405629",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T11:40:58.022+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8C2C-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The time course of breathiness and laryngealization in vowels",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Barabara",
+        "familyName" : "Blankenship",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1997",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "35135",
+      "type" : "OTHER"
+    }, {
+      "id" : "vowels_blankenship1997_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N.A.",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Subject Headings: Phonetics",
+    "totalNumberOfPages" : "x, 132 S.",
+    "abstracts" : [ {
+      "value" : "P233, Vowels, Duration (Phonetics), Vocal cords, Laryngeals (Phonetics), Glottalization (Phonetics)"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405627",
+    "name" : "http://www.linguistics.ucla.edu/faciliti/research/blankenship.pdf",
+    "creationDate" : "2010-04-01T13:16:30.802+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C2A-2",
+    "content" : "http://www.linguistics.ucla.edu/faciliti/research/blankenship.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d3ea6aaa5dec7f4b9ed633184aa5c10d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.linguistics.ucla.edu/faciliti/research/blankenship.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "University of California (UCLA) Linguistics Department",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405628",
+    "name" : "vowels_blankenship1997_s.pdf",
+    "creationDate" : "2010-04-01T13:16:47.288+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C2B-F",
+    "content" : "/rest/items/item_405629_4/component/file_405628/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "37016753d29291a259a0eed4aafaaff2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1064267,
+    "metadata" : {
+      "title" : "vowels_blankenship1997_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1064267,
+      "copyrightDate" : "2010-11-11",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

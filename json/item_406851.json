@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_406851",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-04-10T10:01:55.413+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-ADC8-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2015-04-10T10:01:55.413+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-92E9-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:48:12.564+0000",
+  "latestRelease" : {
+    "objectId" : "item_406851",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-10T10:01:55.413+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-ADC8-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406851",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-10T10:01:55.413+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-ADC8-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Os crioulos portugueses do golfo da Guiné : quatro línguas diferentes ou dialetos de uma mesma língua",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Djiby",
+        "familyName" : "Mané",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37471",
+      "type" : "OTHER"
+    }, {
+      "id" : "portugueses_mane2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "place" : "Brasília",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM7849.G8, LoC Subject Headings: Creole dialects/Portuguese--Guinea/Gulf of",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "309 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406849",
+    "name" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=1651",
+    "creationDate" : "2010-04-01T13:48:11.420+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-92E7-5",
+    "content" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=1651",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d6fe2e71e840f1f57159922d721d0e59",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=1651",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406850",
+    "name" : "portugueses_mane2007_s.pdf",
+    "creationDate" : "2010-04-01T13:48:12.386+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-92E8-3",
+    "content" : "/rest/items/item_406851_5/component/file_406850/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "895e92208f331650e037c9c2d4a8ea93",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1056912,
+    "metadata" : {
+      "title" : "portugueses_mane2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1056912
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

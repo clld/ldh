@@ -1,0 +1,157 @@
+{
+  "objectId" : "item_2399122",
+  "versionNumber" : 6,
+  "modificationDate" : "2017-12-12T10:24:18.810+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-002E-8965-3",
+  "modifier" : {
+    "objectId" : "user_2073577"
+  },
+  "lastModificationDate" : "2017-12-12T10:24:18.810+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-002C-7B60-6",
+  "creator" : {
+    "objectId" : "user_2073577"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2017-02-20T07:41:00.627+0000",
+  "latestRelease" : {
+    "objectId" : "item_2399122",
+    "versionNumber" : 6,
+    "modificationDate" : "2017-12-12T10:24:18.810+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002E-8965-3",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2399122",
+    "versionNumber" : 6,
+    "modificationDate" : "2017-12-12T10:24:18.810+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002E-8965-3",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Dietary diversity on the Swahili coast: the fauna from two Zanzibar trading locales",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mary E.",
+        "familyName" : "Prendergast"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Erèndira M.",
+        "familyName" : "Quintana Morales"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "A.",
+        "familyName" : "Crowther"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Mark C.",
+        "familyName" : "Horton"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Nicole L.",
+        "familyName" : "Boivin",
+        "organizations" : [ {
+          "identifier" : "ou_2074312",
+          "name" : "Archaeology, Max Planck Institute for the Science of Human History, Max Planck Society",
+          "identifierPath" : [ "ou_2074312", "ou_2074309", "ou_persistent13" ]
+        } ],
+        "identifier" : {
+          "id" : "/persons/resource/persons188575",
+          "type" : "CONE"
+        }
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2017-02-09",
+    "datePublishedOnline" : "2017-04-09",
+    "dateSubmitted" : "2016-11-15",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "10.1002/oa.2585",
+      "type" : "DOI"
+    } ],
+    "languages" : [ "eng" ],
+    "reviewMethod" : "PEER",
+    "sources" : [ {
+      "title" : "International Journal of Osteoarchaeology",
+      "volume" : "27",
+      "startPage" : "621",
+      "endPage" : "637",
+      "publishingInfo" : {
+        "place" : "New York, NY",
+        "publisher" : "John Wiley & Sons"
+      },
+      "identifiers" : [ {
+        "id" : "1047-482X",
+        "type" : "ISSN"
+      }, {
+        "id" : "/journals/resource/954925592443",
+        "type" : "CONE"
+      } ],
+      "genre" : "JOURNAL"
+    } ],
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "17"
+  },
+  "files" : [ {
+    "objectId" : "file_2511401",
+    "name" : "shh747.pdf",
+    "creationDate" : "2017-12-12T09:26:27.331+0000",
+    "creator" : {
+      "objectId" : "user_2073577"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-002E-8935-2",
+    "content" : "/rest/items/item_2399122_6/component/file_2511401/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "64ce2452352d601ff4404d5c58d7637e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 627448,
+    "metadata" : {
+      "title" : "shh747.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 627448,
+      "rights" : "This is an open access article under the terms of the Creative Commons Attribution-NoDerivs License, which permits use and distribution in any medium, provided the original work is properly cited and no modifications or adaptations are made",
+      "license" : "http://creativecommons.org/licenses/by/4.0/"
+    }
+  } ]
+}

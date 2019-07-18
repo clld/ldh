@@ -1,0 +1,147 @@
+{
+  "objectId" : "item_406567",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:21:30.362+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9158-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:21:30.362+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9158-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:41:19.155+0000",
+  "latestRelease" : {
+    "objectId" : "item_406567",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:21:30.362+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9158-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406567",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:21:30.362+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9158-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario paez-espanol, espanol-paez",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Marianna C.",
+        "familyName" : "Slocum",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Florence L.",
+        "familyName" : "Gerdel"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1983",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37251",
+      "type" : "OTHER"
+    }, {
+      "id" : "paez_slocum1983_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "0-88312-277-4",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1. Aufl.",
+      "place" : "Lomalinda",
+      "publisher" : "Editorial Townsend"
+    },
+    "freeKeywords" : "LoC Class: PM6736,\nLoC Subject Headings: Paez language",
+    "subjects" : [ {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "pbb - Páez",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxii, 493 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406565",
+    "name" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=20107",
+    "creationDate" : "2010-04-01T13:41:18.184+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9156-6",
+    "content" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=20107",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "aa0ec89593b447e70e43526da11d4d69",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=20107",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406566",
+    "name" : "paez_slocum1983_o.pdf",
+    "creationDate" : "2010-04-01T13:41:18.418+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9157-4",
+    "content" : "/rest/items/item_406567_2/component/file_406566/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2e008f4d929b965d4d983e1406054729",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7328134,
+    "metadata" : {
+      "title" : "paez_slocum1983_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7328134
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

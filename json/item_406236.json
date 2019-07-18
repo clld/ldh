@@ -1,0 +1,145 @@
+{
+  "objectId" : "item_406236",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:45:46.224+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8F8D-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:45:46.224+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8F8D-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:33:27.969+0000",
+  "latestRelease" : {
+    "objectId" : "item_406236",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:45:46.224+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8F8D-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406236",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:45:46.224+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8F8D-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Directionality and locality in vowel harmony : with special reference to vowel harmony in Assamese",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Mahanta, Shakuntala",
+        "givenName" : "Shakuntala",
+        "familyName" : "Mahanta",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36502",
+      "type" : "OTHER"
+    }, {
+      "id" : "vowelharmony_mahanta2007_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "978-90-78328-47-6",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "sources" : [ {
+      "title" : "LOT Dissertation Series",
+      "volume" : "173",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PK1550,\nLoC Subject Headings: Assamese language",
+    "subjects" : [ {
+      "value" : "asm - Assamese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "278 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406234",
+    "name" : "http://www.lotpublications.nl/publish/articles/002690/bookpart.pdf",
+    "creationDate" : "2010-04-01T13:33:27.276+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8F8B-1",
+    "content" : "http://www.lotpublications.nl/publish/articles/002690/bookpart.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6230c09e63703b85fe7f3703d97f6e87",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lotpublications.nl/publish/articles/002690/bookpart.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406235",
+    "name" : "vowelharmony_mahanta2007_s.pdf",
+    "creationDate" : "2010-04-01T13:33:27.720+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8F8C-0",
+    "content" : "/rest/items/item_406236_2/component/file_406235/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1edaeb70697de20e8fea0f06629db687",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1884942,
+    "metadata" : {
+      "title" : "vowelharmony_mahanta2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1884942
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

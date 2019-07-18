@@ -1,0 +1,113 @@
+{
+  "objectId" : "item_403613",
+  "versionNumber" : 7,
+  "modificationDate" : "2011-05-31T10:33:26.674+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-808C-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:33:26.674+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-808C-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:20:42.645+0000",
+  "latestRelease" : {
+    "objectId" : "item_403613",
+    "versionNumber" : 7,
+    "modificationDate" : "2011-05-31T10:33:26.674+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-808C-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403613",
+    "versionNumber" : 7,
+    "modificationDate" : "2011-05-31T10:33:26.674+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-808C-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Catalogo delle lingue conosciute e notizia della loro affinita', e diversita'",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lorenzo",
+        "familyName" : "Hervás",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1784",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31432",
+      "type" : "OTHER"
+    }, {
+      "id" : "conosciute_hervas1784_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "ita" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "In Cesena",
+      "publisher" : "Biasini"
+    },
+    "totalNumberOfPages" : "260 S.",
+    "abstracts" : [ {
+      "value" : "P201, ISO 639-3 : -, Grammar, Comparative and general, Ethnology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403612",
+    "name" : "conosciute_hervas1784_o.pdf",
+    "creationDate" : "2010-04-01T12:20:41.259+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-808B-8",
+    "content" : "/rest/items/item_403613_7/component/file_403612/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "232ad72520d33a2bb93294790baeaf48",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11301321,
+    "metadata" : {
+      "title" : "conosciute_hervas1784_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11301321,
+      "copyrightDate" : "2010-11-18",
+      "rights" : "public domain, Lorenzo Hervás 1735-1809"
+    }
+  } ]
+}

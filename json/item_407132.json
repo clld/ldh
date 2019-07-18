@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_407132",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-02-26T11:41:17.353+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-E481-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-02-26T11:41:17.353+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9485-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:55:20.178+0000",
+  "latestRelease" : {
+    "objectId" : "item_407132",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-26T11:41:17.353+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E481-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407132",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-26T11:41:17.353+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E481-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The Mafulu mountain people of British New Guinea",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Robert Wood",
+        "familyName" : "Williamson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1912",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37739",
+      "type" : "OTHER"
+    }, {
+      "id" : "mafulu_williamson1912_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "London",
+      "publisher" : "Macmillan"
+    },
+    "freeKeywords" : "LoC Class: GN671.N5,\nLoC Subject Headings: Mafulus, LoC Subject Headings: Fuyuge language",
+    "subjects" : [ {
+      "value" : "fuy - Fuyug",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxiii, 364 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: GN671.N5,\nLoC Subject Headings: Mafulus, Fuyuge language, Ethnology--New Guinea"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407130",
+    "name" : "http://www.archive.org/details/mafulumountainpe00willuoft",
+    "creationDate" : "2010-04-01T13:55:13.414+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.archive.org/details/mafulumountainpe00willuoft",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e3f54462e43c4e9e25413fbf48cf6f01",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/mafulumountainpe00willuoft",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org: Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407131",
+    "name" : "mafulu_williamson1912_o.pdf",
+    "creationDate" : "2010-04-01T13:55:14.715+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9484-4",
+    "content" : "/rest/items/item_407132_3/component/file_407131/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c98948e02a906dbbabef580a4b4b6a71",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 56528195,
+    "metadata" : {
+      "title" : "mafulu_williamson1912_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 56528195,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

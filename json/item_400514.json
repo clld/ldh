@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_400514",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-10T11:59:52.367+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0BF1-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-10T11:59:52.367+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6DE8-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:52:00.607+0000",
+  "latestRelease" : {
+    "objectId" : "item_400514",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T11:59:52.367+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0BF1-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400514",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T11:59:52.367+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0BF1-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The phonetics and phonology of retroflexes",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Silke Renate",
+        "familyName" : "Hamann",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "20696",
+      "type" : "OTHER"
+    }, {
+      "id" : "retroflexes_hamann2003_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "90-76864-39-X",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "sources" : [ {
+      "title" : "LOT Dissertation Series",
+      "volume" : "75",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P221.5, LoC Subject Headings: Grammar/Comparative and general",
+    "totalNumberOfPages" : "iv, 228 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400512",
+    "name" : "retroflexes_hamann2003_s.pdf",
+    "creationDate" : "2010-04-01T10:52:00.016+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6DE6-0",
+    "content" : "/rest/items/item_400514_3/component/file_400512/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "828c679e9eb1d2cc1508b28fde8da7ac",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4566154,
+    "metadata" : {
+      "title" : "retroflexes_hamann2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4566154
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110648",
+    "name" : "http://dspace.library.uu.nl/handle/1874/627",
+    "creationDate" : "2015-03-10T11:59:00.232+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dspace.library.uu.nl/handle/1874/627",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0b3e66ad6ff3dd1f4c39ebb42ea470fe",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dspace.library.uu.nl/handle/1874/627",
+      "contentCategory" : "publisher-version",
+      "description" : "Utrecht Univ. Repository DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

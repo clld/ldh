@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_407253",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:36:07.172+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9533-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:36:07.172+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9533-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:02:39.202+0000",
+  "latestRelease" : {
+    "objectId" : "item_407253",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:36:07.172+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9533-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407253",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:36:07.172+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9533-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A expressão da futuridade na lingua falada",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Silva, Ademar da",
+        "givenName" : "Ademar da",
+        "familyName" : "Silva",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1997",
+    "datePublishedInPrint" : "1997",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37848",
+      "type" : "OTHER"
+    }, {
+      "id" : "falada_dasilva1997_o.pdf",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PC5079 .C65,\nLoC Subject Headings: Portuguese language --Provincialisms --Brazil",
+    "subjects" : [ {
+      "value" : "por - Portuguese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "275 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407251",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000115674",
+    "creationDate" : "2010-04-01T14:02:36.961+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9531-5",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000115674",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b18ebc66f34c3e760e53d703eee93409",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000115674",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407252",
+    "name" : "falada_dasilva1997_o.pdf",
+    "creationDate" : "2010-04-01T14:02:38.206+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9532-3",
+    "content" : "/rest/items/item_407253_2/component/file_407252/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "764cfbf200a6d04f7b658d205d97f4af",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10050391,
+    "metadata" : {
+      "title" : "falada_dasilva1997_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10050391
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

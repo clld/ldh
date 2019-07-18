@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_405075",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:41:30.039+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-891F-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:41:30.039+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-891F-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:54:53.247+0000",
+  "latestRelease" : {
+    "objectId" : "item_405075",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:41:30.039+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-891F-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405075",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:41:30.039+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-891F-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Daba Narrative",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Giger, Marti",
+        "givenName" : "Marti",
+        "familyName" : "Giger",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1980",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34333",
+      "type" : "OTHER"
+    }, {
+      "id" : "daba_giger1980_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yaounde",
+      "publisher" : "Soc. Internat. de Linguistique"
+    },
+    "freeKeywords" : "LoC Class: PL8117.2,\nLoC Subject Headings: Daba language (Cameroon and Nigeria)",
+    "subjects" : [ {
+      "value" : "dbq - Daba",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "73 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405073",
+    "name" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/daba_giger1980_1846_p.pdf",
+    "creationDate" : "2010-04-01T12:54:52.458+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-891D-5",
+    "content" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/daba_giger1980_1846_p.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/daba_giger1980_1846_p.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405074",
+    "name" : "daba_giger1980_o.pdf",
+    "creationDate" : "2010-04-01T12:54:53.033+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-891E-3",
+    "content" : "/rest/items/item_405075_2/component/file_405074/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5510ca3c192d7ae39a26dc7e9f628506",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1588864,
+    "metadata" : {
+      "title" : "daba_giger1980_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1588864
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

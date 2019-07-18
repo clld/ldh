@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_408216",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-12T22:39:51.341+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70B3-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T22:39:51.341+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9A92-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:32:27.549+0000",
+  "latestRelease" : {
+    "objectId" : "item_408216",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T22:39:51.341+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70B3-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408216",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T22:39:51.341+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70B3-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A língua Pirahã e a teoria da sintaxe : descrição, perspectivas e teoria",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Daniel Leonard",
+        "familyName" : "Everett",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1983",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "61057",
+      "type" : "OTHER"
+    }, {
+      "id" : "piraha_everett1983_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "place" : "Campinas",
+      "publisher" : "Unicamp"
+    },
+    "freeKeywords" : "LoC Class: PM6606, LoC Subject Headings: Pirahá dialect--Syntax, LoC Subject Headings: Pirahá dialect--Grammar",
+    "subjects" : [ {
+      "value" : "myp - Pirahã",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "410 S."
+  },
+  "files" : [ {
+    "objectId" : "file_408214",
+    "name" : "http://www.bibliotecadigital.unicamp.br/document/?code=vtls000047308",
+    "creationDate" : "2010-04-01T14:32:25.907+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000047274",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.bibliotecadigital.unicamp.br/document/?code=vtls000047308",
+      "contentCategory" : "any-fulltext",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_1859093",
+    "name" : "piraha_everett1983_o.pdf",
+    "creationDate" : "2013-12-03T13:00:01.872+0000",
+    "creator" : {
+      "objectId" : "user_36017"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0014-BC90-F",
+    "content" : "/rest/items/item_408216_5/component/file_1859093/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e9fcc0d102922562de05dc232497f10c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6061425,
+    "metadata" : {
+      "title" : "piraha_everett1983_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6061425
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_407105",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:41:51.930+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9461-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:41:51.930+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9461-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:54:40.078+0000",
+  "latestRelease" : {
+    "objectId" : "item_407105",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:41:51.930+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9461-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407105",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:41:51.930+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9461-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Sinais de morte ou de vitalidade? : mudanças estruturais na língua tembé ; contribuição ao estudo dos efeitos de contato lingüístico na Amazônia Oriental",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Pereira de Carvalho, Márcia Goretti",
+        "givenName" : "Pereira",
+        "familyName" : "de Carvalho",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37658",
+      "type" : "OTHER"
+    }, {
+      "id" : "tembe_carvalho2001_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Belém",
+      "publisher" : " Univ. Federal do Pará"
+    },
+    "freeKeywords" : "LoC Class: PM7115,\nLoC Subject Headings: Tenetehara language",
+    "subjects" : [ {
+      "value" : "tqb - Tembé",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "120 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407103",
+    "name" : "http://www.unb.br/il/lali/semana_de_outubro/ws_linguas_ameacadas/pdf/versao.de.7defever.final.1.pdf",
+    "creationDate" : "2010-04-01T13:54:27.112+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-945F-9",
+    "content" : "http://www.unb.br/il/lali/semana_de_outubro/ws_linguas_ameacadas/pdf/versao.de.7defever.final.1.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.unb.br/il/lali/semana_de_outubro/ws_linguas_ameacadas/pdf/versao.de.7defever.final.1.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407104",
+    "name" : "tembe_carvalho2001_s.pdf",
+    "creationDate" : "2010-04-01T13:54:39.942+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9460-3",
+    "content" : "/rest/items/item_407105_2/component/file_407104/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "77545046f4d704f9e302f4b3390a65ad",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 382616,
+    "metadata" : {
+      "title" : "tembe_carvalho2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 382616
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

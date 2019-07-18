@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_407259",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-08-07T08:26:44.616+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-261D-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-08-07T08:26:44.616+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-953B-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:03:06.497+0000",
+  "latestRelease" : {
+    "objectId" : "item_407259",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-07T08:26:44.616+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-261D-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407259",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-07T08:26:44.616+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-261D-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A rede de Capistrano de Abreu (1853-1927): uma análise historiográfica do rã-txa hu-ni-ku-~i em face da Sul-americanística dos anos 1890-1929",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Beatriz Protti",
+        "familyName" : "Christino",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38004",
+      "type" : "OTHER"
+    }, {
+      "id" : "abreu_christino2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "place" : "São Paulo",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM6290.K3,\nLoC Subject Headings: Cashinawa language",
+    "subjects" : [ {
+      "value" : "cbs - Cashinahua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "233 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407258",
+    "name" : "abreu_christino2006_s.pdf",
+    "creationDate" : "2010-04-01T14:03:04.730+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-953A-4",
+    "content" : "/rest/items/item_407259_3/component/file_407258/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "49c8e7670a44f5cf1a8816910f4a36d4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5034499,
+    "metadata" : {
+      "title" : "abreu_christino2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5034499
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2049288",
+    "name" : "http://www.teses.usp.br/teses/disponiveis/8/8139/tde-16042007-162715/pt-br.php",
+    "creationDate" : "2014-08-07T08:25:02.843+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-261F-B",
+    "content" : "http://www.teses.usp.br/teses/disponiveis/8/8139/tde-16042007-162715/pt-br.php",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "379a3a96385b9875458b2d7909c860f4",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.teses.usp.br/teses/disponiveis/8/8139/tde-16042007-162715/pt-br.php",
+      "contentCategory" : "publisher-version",
+      "description" : "Universidade de São Paulo, Biblioteca Digital, pdf",
+      "size" : 0
+    }
+  } ]
+}

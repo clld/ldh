@@ -1,0 +1,151 @@
+{
+  "objectId" : "item_406293",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T19:34:08.890+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F4F-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:34:08.890+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8FDC-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:34:35.836+0000",
+  "latestRelease" : {
+    "objectId" : "item_406293",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T19:34:08.890+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F4F-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406293",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T19:34:08.890+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F4F-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Hat patterns and double peaks : the phonetics and psycholinguistics of broad versus late narrow versus double focus intonations\n",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Stefanie",
+        "familyName" : "Jannedy",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36662",
+      "type" : "OTHER"
+    }, {
+      "id" : "hat_jannedy2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: P37, LoC Subject Headings: Psycholinguistics, LoC Subject Headings: Phonetics",
+    "totalNumberOfPages" : "xx, 170 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406292",
+    "name" : "hat_jannedy2002_s.pdf",
+    "creationDate" : "2010-04-01T13:34:35.671+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8FDB-B",
+    "content" : "/rest/items/item_406293_4/component/file_406292/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "735d554f72f40ca03260204bfd477c18",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 766698,
+    "metadata" : {
+      "title" : "hat_jannedy2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 766698
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2043589",
+    "name" : "https://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+    "creationDate" : "2014-07-22T09:06:09.902+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e6a9af06db142007cf885ee9387ed041",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+      "contentCategory" : "any-fulltext",
+      "description" : "Ohio State Univ., Dep. of Linguistics, OSU Dissertations in Linguistics, 2002, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2043590",
+    "name" : "https://linguistics.osu.edu/sites/linguistics.osu.edu/files/Jannedy_dissertation_2002.pdf",
+    "creationDate" : "2014-07-22T09:06:10.500+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://linguistics.osu.edu/sites/linguistics.osu.edu/files/Jannedy_dissertation_2002.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "075ac559819626b788168de96fe0c764",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://linguistics.osu.edu/sites/linguistics.osu.edu/files/Jannedy_dissertation_2002.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

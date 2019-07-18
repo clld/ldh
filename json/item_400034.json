@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_400034",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-05-19T06:11:59.316+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-D086-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-05-19T06:11:59.316+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6B03-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:38:51.325+0000",
+  "latestRelease" : {
+    "objectId" : "item_400034",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-19T06:11:59.316+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D086-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400034",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-19T06:11:59.316+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D086-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The grammar of Lamani",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ronald L.",
+        "familyName" : "Trail",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1970",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "748",
+      "type" : "OTHER"
+    }, {
+      "id" : "lamani_trail1970_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Norman, Okla.",
+      "publisher" : "SIL of the Univ. of Oklahoma"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics and Related Fields ",
+      "volume" : "24",
+      "genre" : "SERIES"
+    }, {
+      "title" : "SIL International Publications in Linguistics",
+      "volume" : "24",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PK2251, LoC Subject Headings: Lambadi language",
+    "subjects" : [ {
+      "value" : "lmn - Lambadi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "v, 225 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400033",
+    "name" : "lamani_trail1970_o.pdf",
+    "creationDate" : "2010-04-01T10:38:50.757+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6B02-D",
+    "content" : "/rest/items/item_400034_3/component/file_400033/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6f6300ec4f93a8cbc4efb6b128080056",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5285009,
+    "metadata" : {
+      "title" : "lamani_trail1970_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5285009
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2156040",
+    "name" : "http://www.sil.org/resources/archives/8432",
+    "creationDate" : "2015-05-19T06:11:35.311+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/8432",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "55a529a29e11b103bce35e0579af2abd",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/8432",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Language & Culture Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

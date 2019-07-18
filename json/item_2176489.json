@@ -1,0 +1,114 @@
+{
+  "objectId" : "item_2176489",
+  "versionNumber" : 7,
+  "modificationDate" : "2017-02-15T09:06:49.537+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-002C-6545-F",
+  "modifier" : {
+    "objectId" : "user_2073577"
+  },
+  "lastModificationDate" : "2017-02-15T09:06:49.537+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0028-1B38-C",
+  "creator" : {
+    "objectId" : "user_36017"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2015-08-03T14:17:54.253+0000",
+  "latestRelease" : {
+    "objectId" : "item_2176489",
+    "versionNumber" : 7,
+    "modificationDate" : "2017-02-15T09:06:49.537+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002C-6545-F",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2176489",
+    "versionNumber" : 7,
+    "modificationDate" : "2017-02-15T09:06:49.537+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002C-6545-F",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Texts in Ben Tey, Dogon of Béni village, Mali",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jeffrey",
+        "familyName" : "Heath",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "University of Michigan",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ],
+        "identifier" : {
+          "id" : "/persons/resource/persons202070",
+          "type" : "CONE"
+        }
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedOnline" : "2015-08",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "10.17617/2.2176489",
+      "type" : "DOI"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Ann Arbor]",
+      "publisher" : "Univ. of Michigan"
+    },
+    "freeKeywords" : "LoC Class: PL8139.1, LoC Subject Headings: Dogon language",
+    "subjects" : [ {
+      "value" : "dbt - Ben Tey Dogon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "III, 210 S."
+  },
+  "files" : [ {
+    "objectId" : "file_2176488",
+    "name" : "Heath_Ben_Tey_texts_2015 recorded 2005.pdf",
+    "creationDate" : "2015-08-03T14:17:53.252+0000",
+    "creator" : {
+      "objectId" : "user_36017"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0028-1B3A-8",
+    "content" : "/rest/items/item_2176489_7/component/file_2176488/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fb19498b627602d647d82a7ff8e779de",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 68269923,
+    "metadata" : {
+      "title" : "Heath_Ben_Tey_texts_2015 recorded 2005.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 68269923,
+      "rights" : "©by the author ",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_403756",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-01-23T14:04:35.484+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-A25B-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-01-23T14:04:35.484+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-81A0-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:23:51.047+0000",
+  "latestRelease" : {
+    "objectId" : "item_403756",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-23T14:04:35.484+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A25B-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403756",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-23T14:04:35.484+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A25B-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "An English-Spanish-Pampango dictionary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Luther",
+        "familyName" : "Parker",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1905",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31695",
+      "type" : "OTHER"
+    }, {
+      "id" : "pampango_parker1905_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng", "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Manila",
+      "publisher" : "American Book and News"
+    },
+    "freeKeywords" : "LoC Class: PL5992,\nLoC Subject Headings: Pampanga language",
+    "subjects" : [ {
+      "value" : "pam - Pampanga",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "[XII], 164 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL5992,\nLoC Subject Headings: English language--Dictionaries--Polyglot, Pampanga language--Dictionaries--Spanish"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403755",
+    "name" : "pampango_parker1905_o.pdf",
+    "creationDate" : "2010-04-01T12:23:50.206+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-819F-3",
+    "content" : "/rest/items/item_403756_3/component/file_403755/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f47a9de0ccf848c651426215cb1fe5be",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8233041,
+    "metadata" : {
+      "title" : "pampango_parker1905_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8233041,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2085267",
+    "name" : "https://archive.org/details/ajd2885.0001.001.umich.edu",
+    "creationDate" : "2015-01-23T14:03:07.983+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/ajd2885.0001.001.umich.edu",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d5ef53bf6dcb13f6dd38c7936aba8054",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/ajd2885.0001.001.umich.edu",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, read online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

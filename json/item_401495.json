@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_401495",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:48:43.101+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-73A1-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:48:43.101+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-73A1-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:12:58.161+0000",
+  "latestRelease" : {
+    "objectId" : "item_401495",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:48:43.101+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-73A1-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401495",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:48:43.101+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-73A1-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gramática asuriní : aspectos de uma gramática transformacional e discursos monologados da língua asuriní, família tupi guaraní",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Harrison, Carl H.",
+        "givenName" : "Carl H.",
+        "familyName" : "Harrison",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1976",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "26891",
+      "type" : "OTHER"
+    }, {
+      "id" : "asurini_harrison1975_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Brasília",
+      "publisher" : "SIL"
+    },
+    "sources" : [ {
+      "title" : "Série Lingüística",
+      "volume" : "4",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM7115,\nLoC Subject Headings: Tenetehara language--Grammar",
+    "subjects" : [ {
+      "value" : "tqb - Tembé",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "2 MF (175 S.)"
+  },
+  "files" : [ {
+    "objectId" : "file_401493",
+    "name" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/ASgram.pdf",
+    "creationDate" : "2010-04-01T11:12:53.122+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-739F-3",
+    "content" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/ASgram.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5597b9da34edaf155f8a7fb5e376edc0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/ASgram.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401494",
+    "name" : "asurini_harrison1975_s.pdf",
+    "creationDate" : "2010-04-01T11:12:58.011+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-73A0-E",
+    "content" : "/rest/items/item_401495_2/component/file_401494/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5597b9da34edaf155f8a7fb5e376edc0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 919187,
+    "metadata" : {
+      "title" : "asurini_harrison1975_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 919187
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

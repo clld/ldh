@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_403248",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-13T02:19:51.579+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7267-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:19:51.579+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7DF9-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:05:45.169+0000",
+  "latestRelease" : {
+    "objectId" : "item_403248",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:19:51.579+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7267-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403248",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:19:51.579+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7267-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The theory of markedness in generative grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mary-Louise",
+        "familyName" : "Kean",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1975",
+    "datePublishedInPrint" : "1975",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31102",
+      "type" : "OTHER"
+    }, {
+      "id" : "markedness_kean1975_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P299.M35, LoC Subject Headings: Generative grammar, LoC Subject Headings: Grammar/Comparative and general--Phonology, LoC Subject Headings: Markedness (Linguistics)",
+    "totalNumberOfPages" : "180 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403247",
+    "name" : "markedness_kean1975_o.pdf",
+    "creationDate" : "2010-04-01T12:05:44.364+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7DF8-7",
+    "content" : "/rest/items/item_403248_4/component/file_403247/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9b9e25042b710d5ab1ae995775d72884",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8017249,
+    "metadata" : {
+      "title" : "markedness_kean1975_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8017249
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110911",
+    "name" : "http://hdl.handle.net/1721.1/27381",
+    "creationDate" : "2015-03-11T11:02:51.464+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/27381",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5ebadf64c94f8cd10ef364784eda87eb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/27381",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

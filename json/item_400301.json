@@ -1,0 +1,127 @@
+{
+  "objectId" : "item_400301",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-10-24T06:38:00.455+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-0225-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "CCby-nc-nd Lizenz liegt vor",
+  "lastModificationDate" : "2014-10-24T06:38:00.455+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6C8B-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:44:50.333+0000",
+  "latestRelease" : {
+    "objectId" : "item_400301",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-10-24T06:38:00.455+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-0225-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400301",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-10-24T06:38:00.455+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-0225-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of Awtuw",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Harry",
+        "familyName" : "Feldman",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1983",
+    "datePublishedInPrint" : "1986",
+    "degree" : "PHD",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "17590",
+      "type" : "OTHER"
+    }, {
+      "id" : "awtuw_feldman1983_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "0-85883-342-5",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Canberra",
+      "publisher" : "Australian National Univ."
+    },
+    "sources" : [ {
+      "title" : "Pacific Linguistics : Series B, Monographs",
+      "volume" : "94",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6603,\nLoC Subject Headings: Awtuw language",
+    "subjects" : [ {
+      "value" : "kmn - Awtuw",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "v, 225 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6603,\nLoC Subject Headings: Awtuw language--Grammar, Papuan languages--Grammar, Sandaun Province (Papua New Guinea)--Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_2065691",
+    "name" : "awtuw_feldman1986_o.pdf",
+    "creationDate" : "2014-10-24T06:36:40.855+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-0226-B",
+    "content" : "/rest/items/item_400301_4/component/file_2065691/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ab3e660f7aa653632061559d7da76f31",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5017136,
+    "metadata" : {
+      "title" : "awtuw_feldman1986_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5017136,
+      "copyrightDate" : "2014-03-26",
+      "license" : "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    }
+  } ]
+}

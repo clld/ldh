@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403673",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T11:43:12.115+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8114-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:43:12.115+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8114-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:21:59.667+0000",
+  "latestRelease" : {
+    "objectId" : "item_403673",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T11:43:12.115+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8114-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403673",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T11:43:12.115+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8114-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammatica del dialetto Napoletano",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Raffaele",
+        "familyName" : "Capozzoli",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1889",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31500",
+      "type" : "OTHER"
+    }, {
+      "id" : "napoletano_capozzoli1889.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "ita" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Napoli",
+      "publisher" : "Chiurazzi"
+    },
+    "freeKeywords" : "LoC Subject Headings: Italian language",
+    "subjects" : [ {
+      "value" : "nap - Napoletano-Calabrese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "224 S.",
+    "abstracts" : [ {
+      "value" : "PC1811, ISO 639-3 : nap, Italian language--Dialects--Italy--Naples, Italian language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403672",
+    "name" : "napoletano_capozzoli1889.pdf",
+    "creationDate" : "2010-04-01T12:21:57.657+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8113-E",
+    "content" : "/rest/items/item_403673_4/component/file_403672/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8761ac2af265e23a8f2e1f06930ea890",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 21061568,
+    "metadata" : {
+      "title" : "napoletano_capozzoli1889.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 21061568,
+      "copyrightDate" : "2010-11-24",
+      "rights" : "not in copyright, Raffaele Capozzoli, "
+    }
+  } ]
+}

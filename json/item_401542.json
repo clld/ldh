@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_401542",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T18:38:42.746+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6EE9-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T18:38:42.746+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-73E4-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:14:17.037+0000",
+  "latestRelease" : {
+    "objectId" : "item_401542",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:38:42.746+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EE9-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401542",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:38:42.746+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EE9-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Aspectos da língua mundurukú",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Crofts, Marjorie",
+        "givenName" : "Marjorie",
+        "familyName" : "Crofts",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "27094",
+      "type" : "OTHER"
+    }, {
+      "id" : "munduruku_crofts2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "1st ed, rev.",
+      "place" : "Brasília, DF",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PM6596, LoC Subject Headings: Munduruku language -- Textbooks for foreign speakers -- Portuguese, LoC Subject Headings: Munduruku language -- Grammar",
+    "subjects" : [ {
+      "value" : "myu - Mundurukú",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxii, 305 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401540",
+    "name" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/MDGram.pdf",
+    "creationDate" : "2010-04-01T11:14:07.245+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-73E2-B",
+    "content" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/MDGram.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3a79d2c53a8f875e908889ceeddeb78e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/MDGram.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401541",
+    "name" : "munduruku_crofts2004_s.pdf",
+    "creationDate" : "2010-04-01T11:14:16.872+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-73E3-9",
+    "content" : "/rest/items/item_401542_3/component/file_401541/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "39d29d0595d2192fefbd3719f302b7cc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1093659,
+    "metadata" : {
+      "title" : "munduruku_crofts2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1093659
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

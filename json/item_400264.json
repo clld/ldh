@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_400264",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:22:09.193+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6C56-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:22:09.193+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6C56-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:44:06.703+0000",
+  "latestRelease" : {
+    "objectId" : "item_400264",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:22:09.193+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6C56-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400264",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:22:09.193+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6C56-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Língua matis (pano) : uma análise fonológica",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Spanghero Ferreira, Vitória Regina",
+        "givenName" : "Spanghero",
+        "familyName" : "Ferreira",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2001",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "16499",
+      "type" : "OTHER"
+    }, {
+      "id" : "matis_ferreira2000_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "3-89586-418-8",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "München",
+      "publisher" : "Lincom Europa"
+    },
+    "sources" : [ {
+      "title" : "LINCOM Studies in Native American Linguistics",
+      "volume" : "39",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6773.Z9,\nLoC Subject Headings: Matis language -- Phonology",
+    "subjects" : [ {
+      "value" : "mpq - Matís",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "170 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400262",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000215733",
+    "creationDate" : "2010-04-01T10:44:05.979+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6C54-F",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000215733",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8175af06aa440b8fc6a96d767393c836",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000215733",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400263",
+    "name" : "matis_ferreira2000_s.pdf",
+    "creationDate" : "2010-04-01T10:44:06.575+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6C55-D",
+    "content" : "/rest/items/item_400264_2/component/file_400263/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a372f146918898a58142cd2fa4fa533c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 750678,
+    "metadata" : {
+      "title" : "matis_ferreira2000_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 750678
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

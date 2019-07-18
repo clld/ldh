@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_383407",
+  "versionNumber" : 7,
+  "modificationDate" : "2011-06-21T08:35:29.424+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-681A-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-21T08:35:29.424+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-681A-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-03-05T21:35:21.879+0000",
+  "latestRelease" : {
+    "objectId" : "item_383407",
+    "versionNumber" : 7,
+    "modificationDate" : "2011-06-21T08:35:29.424+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-681A-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_383407",
+    "versionNumber" : 7,
+    "modificationDate" : "2011-06-21T08:35:29.424+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-681A-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "Linglit Import 3 2010-03-05 17:04" ],
+  "metadata" : {
+    "title" : "Revisão da família lingüística Kamakã proposta por Chestmir Loukotka",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Martins, Andérbio Márcio Silva",
+        "givenName" : "Andérbio Márcio Silva",
+        "familyName" : "Martins",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38448",
+      "type" : "OTHER"
+    }, {
+      "id" : "kamaka_martins2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "freeKeywords" : "LoC Subject Headings: Ge languages",
+    "subjects" : [ {
+      "value" : "vkm - Kamakan",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xi, 89 S.",
+    "abstracts" : [ {
+      "value" : "PM5741, ISO-Code 639 : vkm, Ge languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_383405",
+    "name" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=1954",
+    "creationDate" : "2010-03-05T21:35:20.754+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6818-6",
+    "content" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=1954",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c20904b9a30d19307f51a3e8bafdf017",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=1954",
+      "contentCategory" : "publisher-version",
+      "description" : "Biblioteca Digital de Teses e Dissertações / Univ. de Brasilia",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_383406",
+    "name" : "kamaka_martins2007_s.pdf",
+    "creationDate" : "2010-03-05T21:35:21.760+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6819-4",
+    "content" : "/rest/items/item_383407_7/component/file_383406/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3af39781365623d75d403f94f77364df",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 498119,
+    "metadata" : {
+      "title" : "kamaka_martins2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 498119,
+      "copyrightDate" : "2010-02-11",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

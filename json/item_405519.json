@@ -1,0 +1,147 @@
+{
+  "objectId" : "item_405519",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-08T11:16:17.621+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-DD2E-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-08T11:16:17.621+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B8F-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:14:11.614+0000",
+  "latestRelease" : {
+    "objectId" : "item_405519",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-08T11:16:17.621+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DD2E-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405519",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-08T11:16:17.621+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DD2E-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Tafota Baruga grammar notes",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Cynthia J.M.",
+        "familyName" : "Farr",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Bomi Terrence",
+        "familyName" : "Furoke"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "James",
+        "familyName" : "Buyers Farr"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "35020",
+      "type" : "OTHER"
+    }, {
+      "id" : "tafota_farr_s              .html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[s.l.]",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL6606,\nLoC Subject Headings: Papuan languages",
+    "subjects" : [ {
+      "value" : "bjz - Baruga",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "100 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405518",
+    "name" : "tafota_farr_s.pdf",
+    "creationDate" : "2010-04-01T13:14:11.380+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B8E-6",
+    "content" : "/rest/items/item_405519_3/component/file_405518/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ba0dee7af1a2563a515850810e545266",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1351399,
+    "metadata" : {
+      "title" : "tafota_farr_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1351399
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2039487",
+    "name" : "https://www.eva.mpg.de/lingua/tools-at-lingboard/pdf/Farr_TBGRammarNotes.pdf",
+    "creationDate" : "2014-07-08T11:14:17.439+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-DD30-F",
+    "content" : "https://www.eva.mpg.de/lingua/tools-at-lingboard/pdf/Farr_TBGRammarNotes.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ba0dee7af1a2563a515850810e545266",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://www.eva.mpg.de/lingua/tools-at-lingboard/pdf/Farr_TBGRammarNotes.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "Max-Planck-Institute for Evolutionary Anthropology, Dep. of Linguistics, direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

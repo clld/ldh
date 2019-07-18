@@ -1,0 +1,119 @@
+{
+  "objectId" : "item_403431",
+  "versionNumber" : 7,
+  "modificationDate" : "2015-03-13T00:07:24.039+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7161-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T00:07:24.039+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7F13-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:13.736+0000",
+  "latestRelease" : {
+    "objectId" : "item_403431",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-03-13T00:07:24.039+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7161-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403431",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-03-13T00:07:24.039+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7161-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A phonology of Bangulan and a proposed orthography",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Njeck Mathaus",
+        "familyName" : "Mbah",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31243",
+      "type" : "OTHER"
+    }, {
+      "id" : "bangulan_njeck2003_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Yaoundé",
+      "publisher" : "Université de Yaoundé"
+    },
+    "freeKeywords" : "LoC Class: PL8056.B232, LoC Subject Headings: Cameroon --Languages, LoC Subject Headings: Bangolan language",
+    "subjects" : [ {
+      "value" : "bgj - Bangolan",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "X, 91 S.",
+    "abstracts" : [ {
+      "value" : "PL8056.B232, ISO 639-3 : bgj, Cameroon --Languages, Bangolan language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403430",
+    "name" : "bangulan_njeck2003_o.pdf",
+    "creationDate" : "2010-04-01T12:18:13.404+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7F12-E",
+    "content" : "/rest/items/item_403431_7/component/file_403430/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9be0299811e72e5e141b5882a8629ec9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2849685,
+    "metadata" : {
+      "title" : "bangulan_njeck2003_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2849685,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

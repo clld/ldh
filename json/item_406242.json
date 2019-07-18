@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_406242",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-13T01:55:08.225+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-723A-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:55:08.225+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8F95-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:33:32.685+0000",
+  "latestRelease" : {
+    "objectId" : "item_406242",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T01:55:08.225+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-723A-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406242",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T01:55:08.225+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-723A-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Germanic future constructions : A usage-based approach to grammaticalization",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Martin",
+        "familyName" : "Hilpert",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36529",
+      "type" : "OTHER"
+    }, {
+      "id" : "german_hilpert2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Houston",
+      "publisher" : "Rice Univ."
+    },
+    "freeKeywords" : "LoC Class: PF3105, LoC Subject Headings: German language, LoC Subject Headings: Construction grammar, LoC Subject Headings: Linguistic change",
+    "subjects" : [ {
+      "value" : "deu - German",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "X, 309 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PF3105,\nLoC Subject Headings: German language--Grammar, German language--Usage, Construction grammar, Linguistic change"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406241",
+    "name" : "german_hilpert2007_s.pdf",
+    "creationDate" : "2010-04-01T13:33:32.564+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8F94-B",
+    "content" : "/rest/items/item_406242_4/component/file_406241/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0a7bb9e040b6f47f3de6c16c3be7f477",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 611912,
+    "metadata" : {
+      "title" : "german_hilpert2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 611912
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2052323",
+    "name" : "http://hdl.handle.net/1911/20683",
+    "creationDate" : "2014-08-22T10:05:28.336+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1911/20683",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "dc34945ec71ccf8c7585224601806fbb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1911/20683",
+      "contentCategory" : "publisher-version",
+      "description" : "Rice Univ., digital scholarship archive, pdf",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,129 @@
+{
+  "objectId" : "item_402122",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-03-12T19:18:08.980+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F33-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:18:08.980+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7755-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:26:13.223+0000",
+  "latestRelease" : {
+    "objectId" : "item_402122",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-12T19:18:08.980+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F33-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402122",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-12T19:18:08.980+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F33-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Études sur les langues du Haut-Zambèze : textes originaux",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Édouard",
+        "familyName" : "Jacottet",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1896",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29153",
+      "type" : "OTHER"
+    }, {
+      "id" : "hautzambese_jacottet1896_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Paris",
+      "publisher" : "Leroux"
+    },
+    "sources" : [ {
+      "title" : "Publications de l'École des lettres d'Alger :\nBulletin de Corresponmdance Africaine",
+      "alternativeTitles" : [ {
+        "value" : "Publications de l'École des lettres d'Alger : Bulletin de Corresponmdance Africaine"
+      } ],
+      "volume" : "16",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Subiya language, LoC Subject Headings: Luyana language",
+    "subjects" : [ {
+      "value" : "sbs - Subiya",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "lyn - Luyana",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxxvi, 702 S.",
+    "abstracts" : [ {
+      "value" : "PL8692.S86, ISO 639-3 : sbs / lyn, Subiya language--Grammar, Luyana language--Grammar, Folk literature, Subiya, Folk literature, Luyana"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402121",
+    "name" : "hautzambese_jacottet1896_o.pdf",
+    "creationDate" : "2010-04-01T11:26:11.371+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7754-7",
+    "content" : "/rest/items/item_402122_6/component/file_402121/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "aecf048c4c5f66d3ba6b3f12b95087b7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 19514572,
+    "metadata" : {
+      "title" : "hautzambese_jacottet1896_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 19514572,
+      "copyrightDate" : "2010-11-18",
+      "rights" : "public domain, Édouard Jacottet 1858-1920"
+    }
+  } ]
+}

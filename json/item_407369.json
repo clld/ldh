@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_407369",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:42:01.059+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-95D1-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:42:01.059+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-95D1-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:12:16.336+0000",
+  "latestRelease" : {
+    "objectId" : "item_407369",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:42:01.059+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-95D1-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407369",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:42:01.059+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-95D1-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Languages of the world and their case marking : the Brazilian language Xavante ; a case study",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Oliveira Santos, Victor Dias de",
+        "givenName" : "Oliveira",
+        "familyName" : "Santos",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38458",
+      "type" : "OTHER"
+    }, {
+      "id" : "xavante_santos2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Belo Horizonte",
+      "publisher" : " Univ. Federal de Minas Gerais"
+    },
+    "freeKeywords" : "LoC Class: PM5809,\nLoC Subject Headings: Xavante language --Grammar",
+    "subjects" : [ {
+      "value" : "xav - Xavánte",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "77 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407367",
+    "name" : "http://etnolinguistica.wdfiles.com/local--files/tese:santos-2008a/santos_2008_xavante_case_marking.pdf",
+    "creationDate" : "2010-04-01T14:12:14.384+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-95CF-3",
+    "content" : "http://etnolinguistica.wdfiles.com/local--files/tese:santos-2008a/santos_2008_xavante_case_marking.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f3d9e22f3b1edd83c856339a38e21aa8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://etnolinguistica.wdfiles.com/local--files/tese:santos-2008a/santos_2008_xavante_case_marking.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407368",
+    "name" : "xavante_santos2008_s.pdf",
+    "creationDate" : "2010-04-01T14:12:16.223+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-95D0-E",
+    "content" : "/rest/items/item_407369_2/component/file_407368/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f3d9e22f3b1edd83c856339a38e21aa8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 498024,
+    "metadata" : {
+      "title" : "xavante_santos2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 498024
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

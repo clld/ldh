@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_402679",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-04-14T08:44:22.171+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B25C-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-14T08:44:22.171+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7A7F-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:36:49.430+0000",
+  "latestRelease" : {
+    "objectId" : "item_402679",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-14T08:44:22.171+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B25C-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402679",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-14T08:44:22.171+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B25C-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Wollof-English dictionary",
+    "creators" : [ {
+      "organization" : {
+        "identifier" : "ou_persistent22",
+        "name" : "United States / Peace Corps",
+        "identifierPath" : [ "ou_persistent22" ]
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "1995",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "30261",
+      "type" : "OTHER"
+    }, {
+      "id" : "wollof_peace1995b_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Banjul",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL8785.4, LoC Subject Headings: Wolof language",
+    "subjects" : [ {
+      "value" : "wof - Gambian Wolof",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "74 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402677",
+    "name" : "http://www.africanculture.dk/gambia/ftp/wollof.pdf",
+    "creationDate" : "2010-04-01T11:36:29.271+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A7D-4",
+    "content" : "http://www.africanculture.dk/gambia/ftp/wollof.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7e477a36d79fe82864cb8ed6a5cdb521",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.africanculture.dk/gambia/ftp/wollof.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402678",
+    "name" : "wollof_peace1995b_s.pdf",
+    "creationDate" : "2010-04-01T11:36:49.307+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A7E-2",
+    "content" : "/rest/items/item_402679_6/component/file_402678/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "10be002c12cd57239b3fb09d9af7c03b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 638324,
+    "metadata" : {
+      "title" : "wollof_peace1995b_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 638324
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

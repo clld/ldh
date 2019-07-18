@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_400730",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:42:49.041+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6F35-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:42:49.041+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6F35-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:57:42.645+0000",
+  "latestRelease" : {
+    "objectId" : "item_400730",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:42:49.041+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6F35-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400730",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:42:49.041+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6F35-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gramatica y textos del Quechua Shausha Huanca",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Wroughton, John R.",
+        "givenName" : "John R.",
+        "familyName" : "Wroughton",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "23990",
+      "type" : "OTHER"
+    }, {
+      "id" : "huanca_wroughton1996_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa", "que" ],
+    "publishingInfo" : {
+      "edition" : "1a ed.",
+      "place" : "Yarinacocha, Perú",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Documento de Trabajo",
+      "volume" : "30",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6305,\nLoC Subject Headings: Quechua language--Grammar",
+    "subjects" : [ {
+      "value" : "qxw - Jauja Wanca Quechua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "151 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400728",
+    "name" : "http://www.sil.org/americas/peru/html/nav/pubIndex_sp.html",
+    "creationDate" : "2010-04-01T10:57:41.739+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F33-0",
+    "content" : "http://www.sil.org/americas/peru/html/nav/pubIndex_sp.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "53947f9f17b1ff4b80711ee58d52a053",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/nav/pubIndex_sp.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400729",
+    "name" : "huanca_wroughton1996_o.pdf",
+    "creationDate" : "2010-04-01T10:57:42.100+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F34-E",
+    "content" : "/rest/items/item_400730_2/component/file_400729/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d77561146aea90fb85bcb968b45b3890",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5105991,
+    "metadata" : {
+      "title" : "huanca_wroughton1996_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5105991
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

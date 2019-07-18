@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_400838",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-07-18T13:04:20.359+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0013-FA27-F",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "lastModificationDate" : "2013-07-18T13:04:20.359+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6FDD-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:59:44.240+0000",
+  "latestRelease" : {
+    "objectId" : "item_400838",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-07-18T13:04:20.359+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0013-FA27-F",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400838",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-07-18T13:04:20.359+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0013-FA27-F",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Mbuko lexicon",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Richard",
+        "familyName" : "Gravina",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Robert",
+        "familyName" : "Nelezek"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Robert",
+        "familyName" : "Tchalalao"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2003",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "24339",
+      "type" : "OTHER"
+    }, {
+      "id" : "mbuko_gravina1999_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "freeKeywords" : "LoC Class: PL8026.C53,\nLoC Subject Headings: Chadic languages",
+    "subjects" : [ {
+      "value" : "mqb - Mbuko",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "57 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400836",
+    "name" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/dictionaries/Mbuko%20lexicon.pdf",
+    "creationDate" : "2010-04-01T10:59:43.751+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0013-FA28-D",
+    "content" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/dictionaries/Mbuko%20lexicon.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/dictionaries/Mbuko%20lexicon.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400837",
+    "name" : "mbuko_gravina1999_s.pdf",
+    "creationDate" : "2010-04-01T10:59:44.126+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6FDC-7",
+    "content" : "/rest/items/item_400838_3/component/file_400837/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8d8db897e74337a2388d1a2cf2439fdf",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 549120,
+    "metadata" : {
+      "title" : "mbuko_gravina1999_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 549120
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_404466",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-13T01:32:26.050+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7211-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:32:26.050+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-85A4-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:41:55.899+0000",
+  "latestRelease" : {
+    "objectId" : "item_404466",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T01:32:26.050+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7211-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404466",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T01:32:26.050+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7211-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Word order and information structure in Russian syntax",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Rodionova, Elena V.",
+        "givenName" : "Elena V.",
+        "familyName" : "Rodionova",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedInPrint" : "2001",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "33276",
+      "type" : "OTHER"
+    }, {
+      "id" : "russian_rodionova2001_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Grand Forks",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PG2074, LoC Subject Headings: Russian language--syntax, LoC Subject Headings: Russian language -- Word order",
+    "subjects" : [ {
+      "value" : "rus - Russian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "52 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404464",
+    "name" : "http://www.und.nodak.edu/dept/linguistics/theses/2001Rodionova.PDF",
+    "creationDate" : "2010-04-01T12:41:55.178+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.und.nodak.edu/dept/linguistics/theses/2001Rodionova.PDF",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "99d48094c98dd6f7a0200cb1eadb10dd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.und.nodak.edu/dept/linguistics/theses/2001Rodionova.PDF",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404465",
+    "name" : "russian_rodionova2001_s.pdf",
+    "creationDate" : "2010-04-01T12:41:55.785+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-85A3-6",
+    "content" : "/rest/items/item_404466_3/component/file_404465/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c4472726ce632e5553564aa645079a56",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 216869,
+    "metadata" : {
+      "title" : "russian_rodionova2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 216869
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

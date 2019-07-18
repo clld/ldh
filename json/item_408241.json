@@ -1,0 +1,149 @@
+{
+  "objectId" : "item_408241",
+  "versionNumber" : 5,
+  "modificationDate" : "2014-08-12T10:10:55.181+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-30A0-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2014-08-12T10:10:55.181+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9AB3-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:32:57.354+0000",
+  "latestRelease" : {
+    "objectId" : "item_408241",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-08-12T10:10:55.181+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-30A0-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408241",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-08-12T10:10:55.181+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-30A0-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario bilingüe : Eduria & Barasana-Español, Español-Eduria & Barasana",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Paula S.",
+        "familyName" : "Jones",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Wendell H.",
+        "familyName" : "Jones",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2013",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "978-958-46-3519-8",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "Ed. 2ª",
+      "place" : "Bogotá, D.C.",
+      "publisher" : "La Fundación para el Desarrollo de Pueblos Marginados\n"
+    },
+    "freeKeywords" : "LoC Class: PM5582, LoC Subject Headings: Barasana del Sur language",
+    "subjects" : [ {
+      "value" : "bsn - Barasana-Eduria",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "636 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5582, LoC Subject Headings: Spanish language--Dictionaries--Barasana del Sur language, Barasana del Sur language--Dictionaries--Spanish language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_2049779",
+    "name" : "eduria_jones2013_s.pdf",
+    "creationDate" : "2014-08-12T09:57:37.738+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-001A-308C-2",
+    "content" : "/rest/items/item_408241_5/component/file_2049779/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f90da068f49d1e99a8582784b0a074f5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 44260218,
+    "metadata" : {
+      "title" : "eduria_jones2013_s.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 44260218
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2049780",
+    "name" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=928474555657",
+    "creationDate" : "2014-08-12T09:57:38.350+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-308E-D",
+    "content" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=928474555657",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e69b2560d2ae0e02085b11b8be384605",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=928474555657",
+      "contentCategory" : "publisher-version",
+      "description" : "sil.org, Languages and Cultures of Colombia, pdf",
+      "size" : 0
+    }
+  } ]
+}

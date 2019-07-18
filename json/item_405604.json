@@ -1,0 +1,112 @@
+{
+  "objectId" : "item_405604",
+  "versionNumber" : 7,
+  "modificationDate" : "2015-03-13T02:00:34.480+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7245-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:00:34.480+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8C09-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:16:14.184+0000",
+  "latestRelease" : {
+    "objectId" : "item_405604",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-03-13T02:00:34.480+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7245-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405604",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-03-13T02:00:34.480+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7245-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Quantitative analyses of typological data",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mihai",
+        "familyName" : "Albu",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35084",
+      "type" : "OTHER"
+    }, {
+      "id" : "typological_albu2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Leipzig",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: P302.6, LoC Subject Headings: Discourse analysis--Mathematical models, LoC Subject Headings: Mathematical linguistics",
+    "totalNumberOfPages" : "V, 139 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405603",
+    "name" : "typological_albu2006_s.pdf",
+    "creationDate" : "2010-04-01T13:16:13.868+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C08-E",
+    "content" : "/rest/items/item_405604_7/component/file_405603/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "67a57887fcdb1a61f9ac99c92a43234b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2828169,
+    "metadata" : {
+      "title" : "typological_albu2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2828169,
+      "copyrightDate" : "2013-11-27",
+      "license" : " http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

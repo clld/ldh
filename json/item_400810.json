@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_400810",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T09:55:41.541+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6FA8-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:55:41.541+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6FA8-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:59:30.379+0000",
+  "latestRelease" : {
+    "objectId" : "item_400810",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:55:41.541+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6FA8-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400810",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:55:41.541+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6FA8-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Etude phonologique du Cuvok et principes orthographiques",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Ndokobaï",
+        "familyName" : "Ndokobaï",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "DIPLOMA",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "24329",
+      "type" : "OTHER"
+    }, {
+      "id" : "cuvok_ndokobai2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon --Languages",
+    "subjects" : [ {
+      "value" : "cuv - Cuvok",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "151 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : cuv, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400809",
+    "name" : "cuvok_ndokobai2003_s.pdf",
+    "creationDate" : "2010-04-01T10:59:30.208+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6FA7-E",
+    "content" : "/rest/items/item_400810_3/component/file_400809/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ca51623551976cc802bfa0e59d1b57ba",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1208303,
+    "metadata" : {
+      "title" : "cuvok_ndokobai2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1208303,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  }, {
+    "objectId" : "file_468020",
+    "name" : "http://www.silcam.org/folder030401/page.php",
+    "creationDate" : "2010-06-24T12:51:38.817+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.silcam.org/folder030401/page.php",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.silcam.org/folder030401/page.php",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Cameroon ",
+      "size" : 0
+    }
+  } ]
+}

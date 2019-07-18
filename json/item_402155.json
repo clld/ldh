@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_402155",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-08-21T09:50:51.838+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-C1A0-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Stichwörter bereinigt",
+  "lastModificationDate" : "2014-08-21T09:50:51.838+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7786-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:26:47.237+0000",
+  "latestRelease" : {
+    "objectId" : "item_402155",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-21T09:50:51.838+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C1A0-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402155",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-21T09:50:51.838+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C1A0-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Classificateurs numéraux en Japonais : constructions et catégories",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Sumikazu",
+        "familyName" : "Nishio",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "datePublishedInPrint" : "2000",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29240",
+      "type" : "OTHER"
+    }, {
+      "id" : "japanese_nishio2000_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "place" : "Lyon",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL579,\nLoC Subject Headings: Japanese language",
+    "subjects" : [ {
+      "value" : "jpn - Japanese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "II, 233 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL579,\nLoC Subject Headings: Japanese language--Numerals, Japanese language--Classifiers"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402154",
+    "name" : "japanese_nishio2000_s.pdf",
+    "creationDate" : "2010-04-01T11:26:47.036+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7785-A",
+    "content" : "/rest/items/item_402155_4/component/file_402154/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6f4456e8650f7418ec477d0ec1c09adf",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1473384,
+    "metadata" : {
+      "title" : "japanese_nishio2000_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1473384
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2033930",
+    "name" : "http://theses.univ-lyon2.fr/documents/lyon2/2000/nishio_s",
+    "creationDate" : "2014-06-18T11:26:47.141+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-BFC3-6",
+    "content" : "http://theses.univ-lyon2.fr/documents/lyon2/2000/nishio_s",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d77b2ff9f34cf1e109fda58411b2c141",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://theses.univ-lyon2.fr/documents/lyon2/2000/nishio_s",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. de Lyon, Univ. Lumière Lyon 2, consulter le document, several pdfs",
+      "size" : 0
+    }
+  } ]
+}

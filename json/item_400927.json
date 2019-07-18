@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_400927",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-04-11T13:00:02.801+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-705F-D",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "message" : "EJ ergänzt",
+  "lastModificationDate" : "2013-04-11T13:00:02.801+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-705D-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:00:39.865+0000",
+  "latestRelease" : {
+    "objectId" : "item_400927",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-04-11T13:00:02.801+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-705F-D",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400927",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-04-11T13:00:02.801+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-705F-D",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Sinopsis del idioma seri",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Stephen A.",
+        "familyName" : "Marlett",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1999",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "24697",
+      "type" : "OTHER"
+    }, {
+      "id" : "seri_marlett1999_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "sources" : [ {
+      "title" : "SIL online",
+      "startPage" : "1",
+      "endPage" : "16",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4251.Z5,\nLoC Subject Headings: Seri language",
+    "subjects" : [ {
+      "value" : "sei - Seri",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400925",
+    "name" : "http://www.sil.org/mexico/seri/G001-Sinopsis-SEI.htm",
+    "creationDate" : "2010-04-01T11:00:39.610+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-705B-6",
+    "content" : "http://www.sil.org/mexico/seri/G001-Sinopsis-SEI.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e0a70a10dbeaa042565ac4912e62567b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/mexico/seri/G001-Sinopsis-SEI.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400926",
+    "name" : "seri_marlett1999_s.pdf",
+    "creationDate" : "2010-04-01T11:00:39.801+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-705C-4",
+    "content" : "/rest/items/item_400927_3/component/file_400926/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "70cd40b3a3feaeadb1ecca26d9bb1a55",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 102502,
+    "metadata" : {
+      "title" : "seri_marlett1999_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 102502
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

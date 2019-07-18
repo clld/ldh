@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_404451",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-13T01:31:51.147+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-720F-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:31:51.147+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-858E-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:41:46.730+0000",
+  "latestRelease" : {
+    "objectId" : "item_404451",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T01:31:51.147+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-720F-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404451",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T01:31:51.147+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-720F-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Hindi-Urdu : stress accent or non-stress accent?",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Dyrud, Lars O.",
+        "givenName" : "Lars O.",
+        "familyName" : "Dyrud",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedInPrint" : "2001",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "33269",
+      "type" : "OTHER"
+    }, {
+      "id" : "hindi_dyrud2001_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Grand Forks",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: P291, LoC Subject Headings: Hindi language, LoC Subject Headings: Urdu language",
+    "subjects" : [ {
+      "value" : "hin - Hindi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VI, 45 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404449",
+    "name" : "http://www.und.nodak.edu/dept/linguistics/theses/2001Dyrud.PDF",
+    "creationDate" : "2010-04-01T12:41:46.005+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.und.nodak.edu/dept/linguistics/theses/2001Dyrud.PDF",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "99d48094c98dd6f7a0200cb1eadb10dd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.und.nodak.edu/dept/linguistics/theses/2001Dyrud.PDF",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404450",
+    "name" : "hindi_dyrud2001_s.pdf",
+    "creationDate" : "2010-04-01T12:41:46.650+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-858D-9",
+    "content" : "/rest/items/item_404451_3/component/file_404450/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "23db77a2d5b903c8a28d9185681bbd81",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 191668,
+    "metadata" : {
+      "title" : "hindi_dyrud2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 191668
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_405098",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-13T00:43:37.284+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-71A9-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T00:43:37.284+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8946-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:55:13.215+0000",
+  "latestRelease" : {
+    "objectId" : "item_405098",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T00:43:37.284+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-71A9-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405098",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T00:43:37.284+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-71A9-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A/A-bar partition in derivation",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Hiroaki",
+        "familyName" : "Tada",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1993",
+    "datePublishedInPrint" : "1993",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34341",
+      "type" : "OTHER"
+    }, {
+      "id" : "derivation_tada1993_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Cambridge, Mass.]",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P291, LoC Subject Headings: Extraction (Linguistics), LoC Subject Headings: Generative grammar, LoC Subject Headings: Grammar/Comparative and general--Syntax",
+    "totalNumberOfPages" : "171 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405097",
+    "name" : "derivation_tada1993_o.pdf",
+    "creationDate" : "2010-04-01T12:55:12.338+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8945-9",
+    "content" : "/rest/items/item_405098_4/component/file_405097/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5f683fe621bfb1ed0750ad4925764650",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8916692,
+    "metadata" : {
+      "title" : "derivation_tada1993_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8916692
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2036946",
+    "name" : "http://dspace.mit.edu/handle/1721.1/12677",
+    "creationDate" : "2014-07-04T06:45:21.910+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-DA3D-F",
+    "content" : "http://dspace.mit.edu/handle/1721.1/12677",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "27e5ba3579861f231bd576b9a101b77e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dspace.mit.edu/handle/1721.1/12677",
+      "contentCategory" : "any-fulltext",
+      "description" : "MIT, D-Space repository, pdf",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_405459",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-06-06T07:58:49.346+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8B3B-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:58:49.346+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B3B-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:13:23.067+0000",
+  "latestRelease" : {
+    "objectId" : "item_405459",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-06-06T07:58:49.346+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B3B-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405459",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-06-06T07:58:49.346+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B3B-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A Sanskrit grammar for students",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Arthur Anthony",
+        "familyName" : "Macdonell",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1927",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34964",
+      "type" : "OTHER"
+    }, {
+      "id" : "sanskrit_macdonell1927_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "3rd ed.",
+      "place" : "London",
+      "publisher" : "Milford"
+    },
+    "freeKeywords" : "LoC Subject Headings: Sanskrit language",
+    "subjects" : [ {
+      "value" : "san - Sanskrit",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xviii, 264 S.",
+    "abstracts" : [ {
+      "value" : "PK666, ISO 639-3 : san, Sanskrit language -- Grammar, Sanskrit language -- Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405457",
+    "name" : "http://www.archive.org/details/sanskritgrammarf014425mbp",
+    "creationDate" : "2010-04-01T13:13:21.148+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B39-4",
+    "content" : "http://www.archive.org/details/sanskritgrammarf014425mbp",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3d3561de4bb1af648712bd5392029554",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/sanskritgrammarf014425mbp",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405458",
+    "name" : "sanskrit_macdonell1927_o.pdf",
+    "creationDate" : "2010-04-01T13:13:22.237+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B3A-2",
+    "content" : "/rest/items/item_405459_5/component/file_405458/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e97bd3d7cf0d81e7e488c55190f226a5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8321951,
+    "metadata" : {
+      "title" : "sanskrit_macdonell1927_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8321951,
+      "copyrightDate" : "2011-12-02",
+      "rights" : "not in copyright, Arthur Anthony Macdonell, 1854-1930"
+    }
+  } ]
+}

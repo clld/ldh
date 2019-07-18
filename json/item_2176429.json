@@ -1,0 +1,111 @@
+{
+  "objectId" : "item_2176429",
+  "versionNumber" : 3,
+  "modificationDate" : "2017-10-23T11:41:48.534+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-002E-0F63-D",
+  "modifier" : {
+    "objectId" : "user_2073577"
+  },
+  "message" : "Release during adding DOI",
+  "lastModificationDate" : "2017-10-23T11:41:48.534+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0028-1B47-A",
+  "creator" : {
+    "objectId" : "user_36017"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2015-08-03T13:37:09.448+0000",
+  "latestRelease" : {
+    "objectId" : "item_2176429",
+    "versionNumber" : 3,
+    "modificationDate" : "2017-10-23T11:41:48.534+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002E-0F63-D",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2176429",
+    "versionNumber" : 3,
+    "modificationDate" : "2017-10-23T11:41:48.534+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002E-0F63-D",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Toro Tegu texts",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jeffrey",
+        "familyName" : "Heath",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedOnline" : "2015-05",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "10.17617/2.2176429",
+      "type" : "DOI"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Ann Arbor]",
+      "publisher" : "Univ. of Michigan"
+    },
+    "freeKeywords" : "LoC Class: PL8139.1, LoC Subject Headings: Dogon language",
+    "subjects" : [ {
+      "value" : "dtt - Toro Tegu Dogon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "83 S."
+  },
+  "files" : [ {
+    "objectId" : "file_2176428",
+    "name" : "Heath_Toro_Tegu_2004_texts_complete_2015.pdf",
+    "creationDate" : "2015-08-03T13:37:08.728+0000",
+    "creator" : {
+      "objectId" : "user_36017"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0028-1B49-6",
+    "content" : "/rest/items/item_2176429_3/component/file_2176428/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "441fb1e0cbdd1032f1b6c9493e94f55e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 32294836,
+    "metadata" : {
+      "title" : "Heath_Toro_Tegu_2004_texts_complete_2015.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 32294836,
+      "rights" : "©by the author ",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_406974",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T07:58:18.352+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA45-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T07:58:18.352+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-93AD-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:51:23.049+0000",
+  "latestRelease" : {
+    "objectId" : "item_406974",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T07:58:18.352+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA45-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406974",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T07:58:18.352+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA45-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dependent plurals and plural meaning",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Eytan",
+        "familyName" : "Zweig",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37543",
+      "type" : "OTHER"
+    }, {
+      "id" : "plural_zweig2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "New York City",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: P271, LoC Subject Headings: Grammar/Comparative and general--Noun",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "xii, 179 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406973",
+    "name" : "plural_zweig2008_s.pdf",
+    "creationDate" : "2010-04-01T13:51:22.905+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-93AC-3",
+    "content" : "/rest/items/item_406974_4/component/file_406973/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5e18b81bbc7be99209f1a4c3cb8c1c52",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 578459,
+    "metadata" : {
+      "title" : "plural_zweig2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 578459
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147262",
+    "name" : "http://semanticsarchive.net/Archive/GJhMzhhZ/Zweig2008Plurals_Thesis.pdf",
+    "creationDate" : "2015-04-21T07:57:49.793+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://semanticsarchive.net/Archive/GJhMzhhZ/Zweig2008Plurals_Thesis.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5e18b81bbc7be99209f1a4c3cb8c1c52",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://semanticsarchive.net/Archive/GJhMzhhZ/Zweig2008Plurals_Thesis.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Semanticsarchive.net, direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

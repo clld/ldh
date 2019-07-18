@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_402403",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-12-23T11:41:55.911+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-605D-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-23T11:41:55.911+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-78F8-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:31:14.246+0000",
+  "latestRelease" : {
+    "objectId" : "item_402403",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-23T11:41:55.911+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-605D-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402403",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-23T11:41:55.911+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-605D-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammaire de la langue Nahuatl ou Mexicaine, composée en 1547",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Andrés de",
+        "familyName" : "Olmos",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Remi",
+        "familyName" : "Siméon"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1875",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29853",
+      "type" : "OTHER"
+    }, {
+      "id" : "nahuatl_simeon1875_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Paris",
+      "publisher" : "Impr. nationale"
+    },
+    "freeKeywords" : "LoC Class: PM4063,\nLoC Subject Headings: Nahuatl language",
+    "subjects" : [ {
+      "value" : "nci - Nahuatl, Classical",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XV, 273 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM4063,\nLoC Subject Headings: Nahuatl language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402402",
+    "name" : "nahuatl_simeon1875_o.pdf",
+    "creationDate" : "2010-04-01T11:31:13.309+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-78F7-F",
+    "content" : "/rest/items/item_402403_3/component/file_402402/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0ab53fceb8abd9ad37cb44e0b1cba053",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9501970,
+    "metadata" : {
+      "title" : "nahuatl_simeon1875_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9501970,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2080896",
+    "name" : "https://archive.org/details/grammairedelalan00olmouoft",
+    "creationDate" : "2014-12-23T11:41:23.879+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/grammairedelalan00olmouoft",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "83ded3c79bb9def2ef1879d4cca524fc",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/grammairedelalan00olmouoft",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, Canadian Libraries, Univ. of Toronto - Robarts Library, view online & pdf",
+      "size" : 0
+    }
+  } ]
+}

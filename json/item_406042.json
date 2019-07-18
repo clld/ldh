@@ -1,0 +1,158 @@
+{
+  "objectId" : "item_406042",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T21:24:24.769+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-703B-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:24:24.769+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8E7D-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:26:50.319+0000",
+  "latestRelease" : {
+    "objectId" : "item_406042",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T21:24:24.769+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-703B-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406042",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T21:24:24.769+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-703B-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Topics in dynamic semantics",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Gerhard",
+        "familyName" : "Jäger",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "35619",
+      "type" : "OTHER"
+    }, {
+      "id" : "topics_jaeger1996_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "N.A.",
+      "publisher" : "N.A."
+    },
+    "sources" : [ {
+      "title" : "CIS-Berichte",
+      "identifiers" : [ {
+        "id" : "2240196-9",
+        "type" : "ZDB"
+      } ],
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P39, LoC Subject Headings: Presupposition (Logic), LoC Subject Headings: Semantics",
+    "totalNumberOfPages" : "168 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406041",
+    "name" : "topics_jaeger1996_s.pdf",
+    "creationDate" : "2010-04-01T13:26:50.108+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E7C-B",
+    "content" : "/rest/items/item_406042_4/component/file_406041/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "47bd9ac94bbd208727c37b8fd3b46050",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1518764,
+    "metadata" : {
+      "title" : "topics_jaeger1996_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1518764
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2042455",
+    "name" : "http://www.cis.uni-muenchen.de/publikationenvor2013/cis_berichte/cis-96-092.html",
+    "creationDate" : "2014-07-15T09:59:10.860+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.cis.uni-muenchen.de/publikationenvor2013/cis_berichte/cis-96-092.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.cis.uni-muenchen.de/publikationenvor2013/cis_berichte/cis-96-092.html",
+      "contentCategory" : "publisher-version",
+      "description" : "Ludwig-Maximilian-Univ. München, CIS Centrum für Informations- und Sprachverarbeitung, Topics in Dynamic Semantics, CIS-Bericht-96-92, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2042456",
+    "name" : "http://www.cis.uni-muenchen.de/download/cis-berichte/96-092.pdf",
+    "creationDate" : "2014-07-15T09:59:11.004+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-ECDC-5",
+    "content" : "http://www.cis.uni-muenchen.de/download/cis-berichte/96-092.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "12156594402e9174325b91d9e3c8434a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.cis.uni-muenchen.de/download/cis-berichte/96-092.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

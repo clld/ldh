@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_403281",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-04-21T09:08:52.388+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA97-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T09:08:52.388+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E2A-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:07:42.983+0000",
+  "latestRelease" : {
+    "objectId" : "item_403281",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-21T09:08:52.388+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA97-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403281",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-21T09:08:52.388+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA97-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Null operator constructions",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Marguerite Ann",
+        "familyName" : "Browning",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1987",
+    "datePublishedInPrint" : "1987",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31124",
+      "type" : "OTHER"
+    }, {
+      "id" : "nulloperator_browning1987_o.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P291, LoC Subject Headings: Grammar/Comparative and general--Syntax",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "355 S.",
+    "abstracts" : [ {
+      "value" : "P291, Grammar, Comparative and general--Syntax, Generative grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403280",
+    "name" : "nulloperator_browning1987_o.pdf",
+    "creationDate" : "2010-04-01T12:07:41.423+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E29-4",
+    "content" : "/rest/items/item_403281_6/component/file_403280/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "da62be2d4a2ba7d4e0d0d78d31d12aa9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 16276399,
+    "metadata" : {
+      "title" : "nulloperator_browning1987_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 16276399,
+      "copyrightDate" : "2011-01-07",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_2147327",
+    "name" : "http://hdl.handle.net/1721.1/14701",
+    "creationDate" : "2015-04-21T09:08:28.621+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/14701",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "10b44d989448bb82f5a028660d5321fa",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/14701",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

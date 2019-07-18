@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_405087",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-10T12:11:20.369+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-AE5B-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-10T12:11:20.369+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8937-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:55:07.525+0000",
+  "latestRelease" : {
+    "objectId" : "item_405087",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T12:11:20.369+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-AE5B-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405087",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T12:11:20.369+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-AE5B-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Thus Wrote 'Onchsheshonqy : an introductory grammar of demiotic",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Janet H.",
+        "familyName" : "Johnson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2000",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34337",
+      "type" : "OTHER"
+    }, {
+      "id" : "demotic_johnson2000_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "3rd ed.",
+      "place" : "Chicago",
+      "publisher" : "Univ., Oriental Inst."
+    },
+    "sources" : [ {
+      "title" : "Studies in ancient oriental civilization (SAOC)",
+      "volume" : "45",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PJ1135, LoC Subject Headings: Egyptian language",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "VI, 126 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PJ1135, LoC Subject Headings: Egyptian language--Demotic/ca. 650 B.C.-450 A.D."
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405085",
+    "name" : "http://oi.uchicago.edu/research/pubs/catalog/saoc/saoc45.html",
+    "creationDate" : "2010-04-01T12:55:06.742+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://oi.uchicago.edu/research/pubs/catalog/saoc/saoc45.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "673e297f82b3932e531b77da8274d141",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://oi.uchicago.edu/research/pubs/catalog/saoc/saoc45.html",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Chicago, The Oriental Institute, Studies in Ancient Oriental Civilization (SAOC), pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405086",
+    "name" : "demotic_johnson2000_s.pdf",
+    "creationDate" : "2010-04-01T12:55:07.332+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8936-B",
+    "content" : "/rest/items/item_405087_4/component/file_405086/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5461fd51a0f2c2b8d852ba3b1681f630",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1422546,
+    "metadata" : {
+      "title" : "demotic_johnson2000_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1422546
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

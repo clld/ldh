@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_407165",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-12T19:45:48.628+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F64-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:45:48.628+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-94B9-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:56:31.005+0000",
+  "latestRelease" : {
+    "objectId" : "item_407165",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T19:45:48.628+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F64-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407165",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T19:45:48.628+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F64-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gapless relative clause constructions in Mandarin Chinese",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Chia Hao",
+        "familyName" : "Chang",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37757",
+      "type" : "OTHER"
+    }, {
+      "id" : "mandarin_chang2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Min-Hsiung",
+      "publisher" : "National Chung Cheng Univ."
+    },
+    "freeKeywords" : "LoC Class: PL1510, LoC Subject Headings: Chinese language, LoC Subject Headings: Mandarin dialects",
+    "subjects" : [ {
+      "value" : "cmn - Mandarin Chinese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vii, 116 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL1510,\nLoC Subject Headings: Chinese language--Dialects, Mandarin dialects"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407164",
+    "name" : "mandarin_chang2006_s.pdf",
+    "creationDate" : "2010-04-01T13:56:30.882+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-94B8-E",
+    "content" : "/rest/items/item_407165_5/component/file_407164/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "58da4d5e6223b30f4ccafc8b8a881150",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 613708,
+    "metadata" : {
+      "title" : "mandarin_chang2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 613708
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2048431",
+    "name" : "http://handle.ncl.edu.tw/11296/ndltd/86413467108647809949",
+    "creationDate" : "2014-08-06T09:49:10.721+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://handle.ncl.edu.tw/11296/ndltd/86413467108647809949",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "59aaec444888add97f5ac3c0bf0d00f0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://handle.ncl.edu.tw/11296/ndltd/86413467108647809949",
+      "contentCategory" : "publisher-version",
+      "description" : "NDLTD National Digital Library of Theses and Dissertations in Taiwan, zip file, pdf // fulltext access: free e-mail registration necessary",
+      "size" : 0
+    }
+  } ]
+}

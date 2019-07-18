@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_403124",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-13T02:21:07.629+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-726B-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:21:07.629+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D41-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:56:39.848+0000",
+  "latestRelease" : {
+    "objectId" : "item_403124",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:21:07.629+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-726B-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403124",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:21:07.629+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-726B-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "On the nature of island constraints",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Nomi",
+        "familyName" : "Erteschik-Shir",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1973",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30960",
+      "type" : "OTHER"
+    }, {
+      "id" : "constraints_erteschikshir1973_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technologie"
+    },
+    "freeKeywords" : "LoC Class: P325, LoC Subject Headings: Semantics, LoC Subject Headings: Grammar/Comparative and general, LoC Subject Headings: English language, LoC Subject Headings: Danish language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "dan - Danish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "176 S.",
+    "abstracts" : [ {
+      "value" : "LoC Subject Headings: Semantics, Grammar, Comparative and general, English language -- Grammar, Generative, Danish language -- Grammar, Generative"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403123",
+    "name" : "constraints_erteschikshir1973_o.pdf",
+    "creationDate" : "2010-04-01T11:56:38.400+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D40-1",
+    "content" : "/rest/items/item_403124_4/component/file_403123/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a4a9656990db13b84635ec7849ed2201",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 15090134,
+    "metadata" : {
+      "title" : "constraints_erteschikshir1973_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 15090134
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110925",
+    "name" : "http://hdl.handle.net/1721.1/12991",
+    "creationDate" : "2015-03-11T11:28:51.834+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/12991",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6be026fea67004a40afbc42912292de9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/12991",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

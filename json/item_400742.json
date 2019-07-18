@@ -1,0 +1,146 @@
+{
+  "objectId" : "item_400742",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-12T07:03:03.412+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CBE6-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-05-12T07:03:03.412+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6F45-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:57:51.752+0000",
+  "latestRelease" : {
+    "objectId" : "item_400742",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-12T07:03:03.412+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CBE6-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400742",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-12T07:03:03.412+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CBE6-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Estudios lingüísticos de textos de la Amazonia Peruana",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ågot",
+        "familyName" : "Bergli",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "23997",
+      "type" : "OTHER"
+    }, {
+      "id" : "peruana_bergli1996_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1a ed.",
+      "place" : "Yarinacocha, Perú",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística Peruana ",
+      "creators" : [ {
+        "organization" : {
+          "identifier" : "ou_persistent22",
+          "name" : "Instituto Lingüístico de Verano <Lima>",
+          "identifierPath" : [ "ou_persistent22" ]
+        },
+        "role" : "EDITOR",
+        "type" : "ORGANIZATION"
+      } ],
+      "volume" : "37",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5271, LoC Subject Headings: Indians of South America--Peru--Languages",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "268 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400741",
+    "name" : "peruana_bergli1996_o.pdf",
+    "creationDate" : "2010-04-01T10:57:50.837+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F44-A",
+    "content" : "/rest/items/item_400742_4/component/file_400741/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c4989a4b452199e86903b041160d08b3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9304727,
+    "metadata" : {
+      "title" : "peruana_bergli1996_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9304727
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2152212",
+    "name" : "http://www.peru.sil.org/resources/archives/29916",
+    "creationDate" : "2015-05-12T07:02:17.153+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/29916",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "fd3c90e6cc5b9a828ef2c51f56522bd1",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/29916",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Language & Culture Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

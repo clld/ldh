@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_401588",
+  "versionNumber" : 5,
+  "modificationDate" : "2014-10-29T11:09:53.486+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-1133-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2014-10-29T11:09:53.486+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7428-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:14:56.058+0000",
+  "latestRelease" : {
+    "objectId" : "item_401588",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-10-29T11:09:53.486+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-1133-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401588",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-10-29T11:09:53.486+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-1133-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A tonal analysis of Senufo : Sucite dialect",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Anne Elizabeth",
+        "familyName" : "Garber Kompaoré ",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1987",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "27174",
+      "type" : "OTHER"
+    }, {
+      "id" : "sucite_garber1987_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Urbana-Champaign",
+      "publisher" : "Univ. of Illinois"
+    },
+    "freeKeywords" : "LoC Class: PL8658,\nLoC Subject Headings: Senufo languages",
+    "subjects" : [ {
+      "value" : "sep - Sìcìté Sénoufo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "X, 399 S."
+  },
+  "files" : [ {
+    "objectId" : "file_2055701",
+    "name" : "http://www.aegk.finespun.net/aeg_dissertation.php5",
+    "creationDate" : "2014-09-03T10:03:30.070+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.aegk.finespun.net/aeg_dissertation.php5",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "65141cae325dd77a6fc9354c45453aeb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.aegk.finespun.net/aeg_dissertation.php5",
+      "contentCategory" : "any-fulltext",
+      "description" : "website of Daniel and Anne Garber Kompaoré, multiple pdfs",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2067499",
+    "name" : "sucite_garber1987_ocr.pdf",
+    "creationDate" : "2014-10-29T10:53:18.999+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-1127-0",
+    "content" : "/rest/items/item_401588_5/component/file_2067499/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "72bffb69ed0dc07428ad8b9041297ebb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7679974,
+    "metadata" : {
+      "title" : "sucite_garber1987_ocr.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7679974,
+      "copyrightDate" : "2014-09-11",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

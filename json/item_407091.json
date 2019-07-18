@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_407091",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T20:07:04.889+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F90-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:07:04.889+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9451-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:54:15.001+0000",
+  "latestRelease" : {
+    "objectId" : "item_407091",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:07:04.889+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F90-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407091",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:07:04.889+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F90-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Las lenguas que me enredan : rumo a um planejamentu bilíngüe mapudungun e espanhol",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Hermosilla Sanchez, Julia Elisa",
+        "givenName" : "Hermosilla",
+        "familyName" : "Sanchez",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1997",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37632",
+      "type" : "OTHER"
+    }, {
+      "id" : "enredan_sanchez1997_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : " Univ. Estadual"
+    },
+    "freeKeywords" : "LoC Class: PM5466, LoC Subject Headings: Mapuche language, LoC Subject Headings: Spanish language",
+    "subjects" : [ {
+      "value" : "arn - Mapudungun",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "146 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407089",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000115552",
+    "creationDate" : "2010-04-01T13:54:13.725+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000115552",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d76c4f06cf3f4b6e415d638d41a91b8c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000115552",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407090",
+    "name" : "enredan_sanchez1997_o.pdf",
+    "creationDate" : "2010-04-01T13:54:14.367+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9450-7",
+    "content" : "/rest/items/item_407091_3/component/file_407090/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "21a88f2671354ef34c00fc3f60cf0435",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6278249,
+    "metadata" : {
+      "title" : "enredan_sanchez1997_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6278249
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

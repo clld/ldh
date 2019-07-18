@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_406593",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-08-27T09:32:26.194+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-C5EE-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-08-27T09:32:26.194+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-917D-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:43:50.154+0000",
+  "latestRelease" : {
+    "objectId" : "item_406593",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-27T09:32:26.194+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C5EE-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406593",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-27T09:32:26.194+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C5EE-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The acquisition of morpho-syntax in Spanish : implications for current theories of development",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "José Javier",
+        "familyName" : "Aguado-Orea",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37324",
+      "type" : "OTHER"
+    }, {
+      "id" : "espanol_orea2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Nottingham",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PC4171,\nLoC Subject Headings: Spanish language",
+    "totalNumberOfPages" : "xii, 393 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406592",
+    "name" : "espanol_orea2004_s.pdf",
+    "creationDate" : "2010-04-01T13:43:49.902+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-917C-1",
+    "content" : "/rest/items/item_406593_3/component/file_406592/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "564666227a39a11b6e76dcec997184c3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2055174,
+    "metadata" : {
+      "title" : "espanol_orea2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2055174
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2053099",
+    "name" : "http://www.researchgate.net/publication/242315831_The_acquisition_of_morpho-syntax_in_Spanish_Implications_for_current_theories_of_development_%28PhD_Thesis%29",
+    "creationDate" : "2014-08-27T09:31:20.121+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.researchgate.net/publication/242315831_The_acquisition_of_morpho-syntax_in_Spanish_Implications_for_current_theories_of_development_%28PhD_Thesis%29",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "72a5f341bfcb7f53b67a4cd444e8aca8",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.researchgate.net/publication/242315831_The_acquisition_of_morpho-syntax_in_Spanish_Implications_for_current_theories_of_development_%28PhD_Thesis%29",
+      "contentCategory" : "publisher-version",
+      "description" : "researchgate.net, free registration for fulltext access necessary",
+      "size" : 0
+    }
+  } ]
+}

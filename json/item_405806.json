@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_405806",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T21:02:00.251+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7008-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:02:00.251+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8D2E-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:20:48.867+0000",
+  "latestRelease" : {
+    "objectId" : "item_405806",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T21:02:00.251+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7008-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405806",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T21:02:00.251+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7008-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Phonetic implementation and perception of place coarticulation and tone Sandhi",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Shu-hui",
+        "familyName" : "Peng",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35427",
+      "type" : "OTHER"
+    }, {
+      "id" : "sandhi_peng1996_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ., Dep. of Linguistics"
+    },
+    "freeKeywords" : "LoC Class: P240, LoC Subject Headings: Sandhi, LoC Subject Headings: Phonetics/Experimental, LoC Subject Headings: Tone (Phonetics)",
+    "totalNumberOfPages" : "XIV, 83 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405805",
+    "name" : "sandhi_peng1996_o.pdf",
+    "creationDate" : "2010-04-01T13:20:48.608+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D2D-3",
+    "content" : "/rest/items/item_405806_4/component/file_405805/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e99cacf106557e52b6b35873874a319c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2105321,
+    "metadata" : {
+      "title" : "sandhi_peng1996_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2105321
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2039856",
+    "name" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1384525774",
+    "creationDate" : "2014-07-10T09:29:00.542+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1384525774",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "759d6b4d030d20b45150ea472fa1ecf7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1384525774",
+      "contentCategory" : "any-fulltext",
+      "description" : "OhioLINK, Electronic Theses & Dissertations Center, pdf",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_406430",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:36:48.378+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9096-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:36:48.378+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9096-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:37:56.125+0000",
+  "latestRelease" : {
+    "objectId" : "item_406430",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:36:48.378+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9096-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406430",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:36:48.378+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9096-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Imperatif et injonctif en kak[o]",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Ernst, Urs",
+        "givenName" : "Urs",
+        "familyName" : "Ernst",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1994",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "36905",
+      "type" : "OTHER"
+    }, {
+      "id" : "kako_ernst1994_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yaoundé",
+      "publisher" : "Soc. Internat. de Linguistique"
+    },
+    "freeKeywords" : "LoC Class: PL8347.1,\nLoC Subject Headings: Kako language",
+    "subjects" : [ {
+      "value" : "kkj - Kako",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "28 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406428",
+    "name" : "http://www.silcam.org/download.php?sstid=030100&file=kako_ernst1994_1563_p.pdf",
+    "creationDate" : "2010-04-01T13:37:53.411+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9094-2",
+    "content" : "http://www.silcam.org/download.php?sstid=030100&file=kako_ernst1994_1563_p.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "16da4d6f086c60ddcc128cad2907f087",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.silcam.org/download.php?sstid=030100&file=kako_ernst1994_1563_p.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406429",
+    "name" : "kako_ernst1994_o.pdf",
+    "creationDate" : "2010-04-01T13:37:55.955+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9095-F",
+    "content" : "/rest/items/item_406430_2/component/file_406429/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7e113924cd3e99889deeb61e72ac5548",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 996586,
+    "metadata" : {
+      "title" : "kako_ernst1994_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 996586
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

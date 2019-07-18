@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_405183",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-28T08:17:56.548+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C2BE-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-28T08:17:56.548+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-89B6-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:03:01.289+0000",
+  "latestRelease" : {
+    "objectId" : "item_405183",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-28T08:17:56.548+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2BE-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405183",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-28T08:17:56.548+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2BE-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A preliminary comparison between Hide and Lamang phonology",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Cindy",
+        "familyName" : "Langermann",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1991",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "34383",
+      "type" : "OTHER"
+    }, {
+      "id" : "hide_langermann1991_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Yaoundé",
+      "publisher" : "Société lnternationale de Linguistique"
+    },
+    "freeKeywords" : "LoC Class: PL8239.1, LoC Subject Headings: Hdi language",
+    "subjects" : [ {
+      "value" : "xed - Hdi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "37 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405182",
+    "name" : "hide_langermann1991_o.pdf",
+    "creationDate" : "2010-04-01T13:03:01.148+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-89B5-B",
+    "content" : "/rest/items/item_405183_3/component/file_405182/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fe644ac7958e31a05ce1250849bb1450",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 870994,
+    "metadata" : {
+      "title" : "hide_langermann1991_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 870994
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2149173",
+    "name" : "http://www.silcam.org/languages/languagepage.php?languageid=264",
+    "creationDate" : "2015-04-28T08:17:32.769+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.silcam.org/languages/languagepage.php?languageid=264",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "609e7151e6b641fab165f358af8c99e4",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.silcam.org/languages/languagepage.php?languageid=264",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Cameroon, Languages & Publications, HDI (Cameroon), pdf download",
+      "size" : 0
+    }
+  } ]
+}

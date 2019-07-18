@@ -1,0 +1,148 @@
+{
+  "objectId" : "item_405558",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:26:14.821+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8BCA-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:26:14.821+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8BCA-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:15:29.733+0000",
+  "latestRelease" : {
+    "objectId" : "item_405558",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:26:14.821+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8BCA-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405558",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:26:14.821+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8BCA-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Uzbek : language competencies for Peace Corps volunteers in Uzbekistan",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Ismatulla, Khayrulla",
+        "givenName" : "Khayrulla",
+        "familyName" : "Ismatulla",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Larry",
+        "familyName" : "Clark"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "organization" : {
+        "name" : "United States / Peace Corps"
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "1992",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "35048",
+      "type" : "OTHER"
+    }, {
+      "id" : "uzbek_ismatulla1992_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Washington, D.C.",
+      "publisher" : "Peace Corps"
+    },
+    "freeKeywords" : "LoC Class: PL55.U8,\nLoC Subject Headings: Uzbek language",
+    "subjects" : [ {
+      "value" : "uzn - Northern Uzbek",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "197 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405556",
+    "name" : "http://eric.ed.gov/ERICDocs/data/ericdocs2/content_storage_01/0000000b/80/24/cb/eb.pdf",
+    "creationDate" : "2010-04-01T13:15:29.150+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8BC8-4",
+    "content" : "http://eric.ed.gov/ERICDocs/data/ericdocs2/content_storage_01/0000000b/80/24/cb/eb.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eric.ed.gov/ERICDocs/data/ericdocs2/content_storage_01/0000000b/80/24/cb/eb.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405557",
+    "name" : "uzbek_ismatulla1992_o.pdf",
+    "creationDate" : "2010-04-01T13:15:29.304+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8BC9-2",
+    "content" : "/rest/items/item_405558_2/component/file_405557/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a65a91654706f2dd3b25a0c8e1c95f8a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3526099,
+    "metadata" : {
+      "title" : "uzbek_ismatulla1992_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3526099
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

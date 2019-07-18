@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_406324",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T19:47:43.890+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F67-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:47:43.890+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9007-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:35:33.863+0000",
+  "latestRelease" : {
+    "objectId" : "item_406324",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T19:47:43.890+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F67-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406324",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T19:47:43.890+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F67-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Meke kemakanaka puraka'aloji : wapura'ako chu, eya kariwana chu",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Schauer, Stanley",
+        "givenName" : "Stanley",
+        "familyName" : "Schauer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "36713",
+      "type" : "OTHER"
+    }, {
+      "id" : "yukuna_schauer2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Bogotá",
+      "publisher" : "Edit. Fundación para el Desarrollo de los\n              Pueblos Marginados"
+    },
+    "freeKeywords" : "LoC Class: PM7314.5, LoC Subject Headings: Yucuna language --Dictionaries --Spanish, LoC Subject Headings: Spanish language --Dictionaries --Yucuna",
+    "subjects" : [ {
+      "value" : "ycn - Yucuna",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "320 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406322",
+    "name" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=45802",
+    "creationDate" : "2010-04-01T13:35:32.523+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=45802",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "be2f2eb8c0b7f8016cb244389502a76b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=45802",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406323",
+    "name" : "yukuna_schauer2005_s.pdf",
+    "creationDate" : "2010-04-01T13:35:32.779+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9006-4",
+    "content" : "/rest/items/item_406324_3/component/file_406323/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2ef919f379ad6fd9c628775751d97d18",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11078431,
+    "metadata" : {
+      "title" : "yukuna_schauer2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11078431
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

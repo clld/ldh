@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_407502",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:13:39.146+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-968A-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:13:39.146+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-968A-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:14:04.347+0000",
+  "latestRelease" : {
+    "objectId" : "item_407502",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:13:39.146+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-968A-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407502",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:13:39.146+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-968A-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dení person affixes",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Koop, Gordon",
+        "givenName" : "Gordon",
+        "familyName" : "Koop",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1976",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "39066",
+      "type" : "OTHER"
+    }, {
+      "id" : "deniaffixes_koop2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Anápolis",
+      "publisher" : "SIL Brazil"
+    },
+    "freeKeywords" : "LoC Class: PL6621.D35,\nLoC Subject Headings: Dani language",
+    "subjects" : [ {
+      "value" : "dni - Lower Grand Valley Dani",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407500",
+    "name" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "creationDate" : "2010-04-01T14:14:03.944+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9688-A",
+    "content" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c9461039d010116eaeca40f82b42a28c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407501",
+    "name" : "deniaffixes_koop2008_s.pdf",
+    "creationDate" : "2010-04-01T14:14:04.265+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9689-8",
+    "content" : "/rest/items/item_407502_2/component/file_407501/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7a20a741f8f32629bc97dc408bd282bc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 282935,
+    "metadata" : {
+      "title" : "deniaffixes_koop2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 282935
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

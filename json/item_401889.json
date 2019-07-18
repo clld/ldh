@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_401889",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-18T09:40:33.201+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7A1E-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-18T09:40:33.201+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-75EC-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:22:08.870+0000",
+  "latestRelease" : {
+    "objectId" : "item_401889",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-18T09:40:33.201+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A1E-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401889",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-18T09:40:33.201+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A1E-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Étude comparee des parlers du groupe Okani : B 30 (Gabon)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lolke van der",
+        "familyName" : "Veen",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1991",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "28147",
+      "type" : "OTHER"
+    }, {
+      "id" : "okani2_vanderveen1991_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "place" : "Lille",
+      "publisher" : "ANRT"
+    },
+    "freeKeywords" : "LoC Class: PL8025.95.G2, LoC Subject Headings: Bantu languages, LoC Subject Headings: Gabon--Languages",
+    "subjects" : [ {
+      "value" : "tsv - Tsogo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "2 MF",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8025.95.G2, LoC Subject Headings: Bantu languages--Gabon"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401887",
+    "name" : "http://www.ddl.ish-lyon.cnrs.fr/fulltext/Van%20der%20Veen/Van%20der%20Veen_1991_B30.pdf",
+    "creationDate" : "2010-04-01T11:21:23.110+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-75EA-B",
+    "content" : "http://www.ddl.ish-lyon.cnrs.fr/fulltext/Van%20der%20Veen/Van%20der%20Veen_1991_B30.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "385bdfb101c3932303ac81ef1be37131",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ddl.ish-lyon.cnrs.fr/fulltext/Van%20der%20Veen/Van%20der%20Veen_1991_B30.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401888",
+    "name" : "okani2_vanderveen1991_o.pdf",
+    "creationDate" : "2010-04-01T11:22:06.899+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-75EB-9",
+    "content" : "/rest/items/item_401889_4/component/file_401888/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "909c8d2ffed49129ccfa4d73aa5a7725",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 20670498,
+    "metadata" : {
+      "title" : "okani2_vanderveen1991_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 20670498
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

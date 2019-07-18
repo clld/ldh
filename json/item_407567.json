@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_407567",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T22:42:32.721+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70B6-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T22:42:32.721+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-96E4-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:15:19.711+0000",
+  "latestRelease" : {
+    "objectId" : "item_407567",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T22:42:32.721+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70B6-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407567",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T22:42:32.721+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70B6-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The mixing of syntactic properties and language change",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Tatiana V.",
+        "familyName" : "Nikitina",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2008",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "39449",
+      "type" : "OTHER"
+    }, {
+      "id" : "syntactic_nikitina2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Stanford",
+      "publisher" : "Leland Stanford Junior University"
+    },
+    "freeKeywords" : "LoC Subject Headings: Wan language, LoC Subject Headings: Italian language",
+    "subjects" : [ {
+      "value" : "wan - Wan",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "ita - Italian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "x, 274 S.",
+    "abstracts" : [ {
+      "value" : "P291, ISO 639-3 : wan / ita, Grammar, Comparative and general--Noun phrase, Grammar, Comparative and general--Verb phrase, Wan language -- Syntax, Grammar, Comparative and general --Syntax, Italian language --Syntax"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407566",
+    "name" : "syntactic_nikitina2008_s.pdf",
+    "creationDate" : "2010-04-01T14:15:19.426+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-96E3-B",
+    "content" : "/rest/items/item_407567_4/component/file_407566/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "34f9a5e95c49f6ec4853a10aef91a69f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1177959,
+    "metadata" : {
+      "title" : "syntactic_nikitina2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1177959,
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_529342",
+    "name" : "http://www.projectwan.org/nikitina/papers.html",
+    "creationDate" : "2010-10-08T08:43:54.359+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.projectwan.org/nikitina/papers.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e2616bcd8f92496b4c333a0485cf43a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.projectwan.org/nikitina/papers.html",
+      "contentCategory" : "publisher-version",
+      "description" : "Homepage Tatiana Nikitina - Recent Papers",
+      "size" : 0
+    }
+  } ]
+}

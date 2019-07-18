@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_407496",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:21:08.003+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9682-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:21:08.003+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9682-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:14:02.141+0000",
+  "latestRelease" : {
+    "objectId" : "item_407496",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:21:08.003+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9682-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407496",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:21:08.003+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9682-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Apontamentos preliminares sobre Ñandéva Guaraní contemporâneo",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Dooley, Robert A.",
+        "givenName" : "Robert A.",
+        "familyName" : "Dooley",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1991",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "39064",
+      "type" : "OTHER"
+    }, {
+      "id" : "nandevaguarani_dooley2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N.A.",
+      "publisher" : "N.A."
+    },
+    "sources" : [ {
+      "title" : "Arquivo Lingüístico",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM7171,\nLoC Subject Headings: Guarani language",
+    "subjects" : [ {
+      "value" : "gug - Guaraní, Paraguayan",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407494",
+    "name" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "creationDate" : "2010-04-01T14:14:01.568+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9680-9",
+    "content" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c9461039d010116eaeca40f82b42a28c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407495",
+    "name" : "nandevaguarani_dooley2008_s.pdf",
+    "creationDate" : "2010-04-01T14:14:02.024+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9681-7",
+    "content" : "/rest/items/item_407496_2/component/file_407495/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f3f41f808ab8ed97cc26134fa3751c9a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 538343,
+    "metadata" : {
+      "title" : "nandevaguarani_dooley2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 538343
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

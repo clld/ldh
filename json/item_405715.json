@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_405715",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:40:17.628+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8CAC-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:40:17.628+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8CAC-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:19:05.582+0000",
+  "latestRelease" : {
+    "objectId" : "item_405715",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:40:17.628+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8CAC-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405715",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:40:17.628+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8CAC-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Roots and Words in Chol (Mayan) : a distributed morphology approach",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Coon, Jessica L.",
+        "givenName" : "Jessica L.",
+        "familyName" : "Coon",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "BACHELOR",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35313",
+      "type" : "OTHER"
+    }, {
+      "id" : "chol_coon2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[Portland]",
+      "publisher" : " Reed College"
+    },
+    "freeKeywords" : "LoC Class: PM3649.Z5,\nLoC Subject Headings: Chol language",
+    "subjects" : [ {
+      "value" : "cti - Chol, Tila",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XIV, 201 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405713",
+    "name" : "http://www.anthro.ucsd.edu/~jhaviland/ArchiveHTML/Chol/Jessica/JessicaThesis.htm",
+    "creationDate" : "2010-04-01T13:19:04.228+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8CAA-4",
+    "content" : "http://www.anthro.ucsd.edu/~jhaviland/ArchiveHTML/Chol/Jessica/JessicaThesis.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "910d1e25e10f57e58221db085fe39e4d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.anthro.ucsd.edu/~jhaviland/ArchiveHTML/Chol/Jessica/JessicaThesis.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405714",
+    "name" : "chol_coon2004_s.pdf",
+    "creationDate" : "2010-04-01T13:19:05.257+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8CAB-2",
+    "content" : "/rest/items/item_405715_2/component/file_405714/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "dcf6fa98e18e8a7eb9419bc14d920839",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2717428,
+    "metadata" : {
+      "title" : "chol_coon2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2717428
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

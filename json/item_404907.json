@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_404907",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T08:12:48.908+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8836-4",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "lastModificationDate" : "2011-05-31T08:12:48.908+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8834-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:50:11.076+0000",
+  "latestRelease" : {
+    "objectId" : "item_404907",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T08:12:48.908+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8836-4",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404907",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T08:12:48.908+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8836-4",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Computer simulation of Shawnee historical phonology",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Muzaffar, Towhid Bin",
+        "givenName" : "Towhid Bin",
+        "familyName" : "Muzaffar",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1997",
+    "datePublishedInPrint" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "33843",
+      "type" : "OTHER"
+    }, {
+      "id" : "shawnee_muzaffar1997_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PM2311,\nLoC Subject Headings: Shawnee language",
+    "subjects" : [ {
+      "value" : "sjw - Shawnee",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VI, 138 S"
+  },
+  "files" : [ {
+    "objectId" : "file_404905",
+    "name" : "http://www.nlc-bnc.ca/obj/s4/f2/dsk3/ftp05/mq25868.pdf",
+    "creationDate" : "2010-04-01T12:49:52.658+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8832-C",
+    "content" : "http://www.nlc-bnc.ca/obj/s4/f2/dsk3/ftp05/mq25868.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.nlc-bnc.ca/obj/s4/f2/dsk3/ftp05/mq25868.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404906",
+    "name" : "shawnee_muzaffar1997_o.pdf",
+    "creationDate" : "2010-04-01T12:50:10.439+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8833-A",
+    "content" : "/rest/items/item_404907_2/component/file_404906/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "95aa5b7111f393522877e286d306b91e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5803926,
+    "metadata" : {
+      "title" : "shawnee_muzaffar1997_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5803926
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

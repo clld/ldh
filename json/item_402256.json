@@ -1,0 +1,147 @@
+{
+  "objectId" : "item_402256",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:52:28.408+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7826-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:52:28.408+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7826-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:29:14.153+0000",
+  "latestRelease" : {
+    "objectId" : "item_402256",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:52:28.408+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7826-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402256",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:52:28.408+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7826-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Bosquejo descriptivo del quechua de Huaylas",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Levengood de Estrella, Magret",
+        "givenName" : "Magret",
+        "familyName" : "de Levengood Estrella",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Helen",
+        "familyName" : "Larsen"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1982",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29483",
+      "type" : "OTHER"
+    }, {
+      "id" : "huaylas_levengood1982_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[Lima]",
+      "publisher" : "Inst. de Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Datos etnolinguisticos",
+      "volume" : "57",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6309,\nLoC Subject Headings: Quechua language --Peru",
+    "subjects" : [ {
+      "value" : "qwh - Huaylas Ancash Quechua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "46 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402254",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3442",
+    "creationDate" : "2010-04-01T11:29:13.235+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7824-9",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3442",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "52e906e3d73605ba921cdf791b7cef68",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3442",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402255",
+    "name" : "huaylas_levengood1982_o.pdf",
+    "creationDate" : "2010-04-01T11:29:13.989+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7825-7",
+    "content" : "/rest/items/item_402256_2/component/file_402255/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6b0be056a4e3b1c1bd1f33d0fdfdb1f9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 799705,
+    "metadata" : {
+      "title" : "huaylas_levengood1982_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 799705
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

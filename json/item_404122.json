@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_404122",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-18T10:42:30.349+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7A6D-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-18T10:42:30.349+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-83AF-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:35:18.748+0000",
+  "latestRelease" : {
+    "objectId" : "item_404122",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-18T10:42:30.349+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A6D-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404122",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-18T10:42:30.349+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A6D-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Peace Corps/Zambia PST 1995 Special Lessons : Bemba",
+    "creators" : [ {
+      "organization" : {
+        "identifier" : "ou_persistent22",
+        "name" : "Peace Corps (Zambia)",
+        "identifierPath" : [ "ou_persistent22" ]
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "1995",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "32283",
+      "type" : "OTHER"
+    }, {
+      "id" : "bemba_peacecorps1995_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[s.l.]",
+      "publisher" : "Peace Corps (Zambia)"
+    },
+    "freeKeywords" : "LoC Class: PL8069.2, LoC Subject Headings: Bemba language",
+    "subjects" : [ {
+      "value" : "bem - Bemba (Zambia)",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "94 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8069.2, LoC Subject Headings: Bemba language --Readers"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404121",
+    "name" : "bemba_peacecorps1995_o.pdf",
+    "creationDate" : "2010-04-01T12:35:18.489+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-83AE-4",
+    "content" : "/rest/items/item_404122_5/component/file_404121/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2263b00035cb8c1c788f1f3303d73f4d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2118919,
+    "metadata" : {
+      "title" : "bemba_peacecorps1995_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2118919
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116718",
+    "name" : "http://eric.ed.gov/?id=ED402738",
+    "creationDate" : "2015-03-18T10:41:57.846+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://eric.ed.gov/?id=ED402738",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1f63dc8436a48954c18d596e20129c5b",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eric.ed.gov/?id=ED402738",
+      "contentCategory" : "publisher-version",
+      "description" : "Education Resources Information Center (ERIC)",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_404469",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-13T01:27:57.405+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7206-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:27:57.405+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-85A8-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:42:09.148+0000",
+  "latestRelease" : {
+    "objectId" : "item_404469",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T01:27:57.405+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7206-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404469",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T01:27:57.405+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7206-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Positive orientation towards the vernacular among the Talysh of Sumgayit",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Tiessen, Calvin F.",
+        "givenName" : "Calvin F.",
+        "familyName" : "Tiessen",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2003",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "33278",
+      "type" : "OTHER"
+    }, {
+      "id" : "talysh_tiessen2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Grand Forks",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PK6966.T3, LoC Subject Headings: Talysh language -- Social aspects, LoC Subject Headings: Sociolinguistics -- Azerbaijan -- Sumgait, LoC Subject Headings: Sumgait (Azerbaijan) -- Languages",
+    "subjects" : [ {
+      "value" : "tly - Talysh",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "X, 145 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404467",
+    "name" : "http://www.und.nodak.edu/dept/linguistics/theses/2003Tiessen.PDF",
+    "creationDate" : "2010-04-01T12:41:57.013+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.und.nodak.edu/dept/linguistics/theses/2003Tiessen.PDF",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "99d48094c98dd6f7a0200cb1eadb10dd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.und.nodak.edu/dept/linguistics/theses/2003Tiessen.PDF",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404468",
+    "name" : "talysh_tiessen2003_s.pdf",
+    "creationDate" : "2010-04-01T12:42:08.955+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-85A7-D",
+    "content" : "/rest/items/item_404469_3/component/file_404468/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "504b66904c7c3298e36f46d35f28f026",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1281039,
+    "metadata" : {
+      "title" : "talysh_tiessen2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1281039
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

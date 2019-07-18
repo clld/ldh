@@ -1,0 +1,144 @@
+{
+  "objectId" : "item_405227",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-04T09:30:28.896+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-DABE-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-04T09:30:28.896+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-89F6-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:04:18.505+0000",
+  "latestRelease" : {
+    "objectId" : "item_405227",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-04T09:30:28.896+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DABE-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405227",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-04T09:30:28.896+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DABE-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A Kanarese grammar : with graduated exercises",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Harold",
+        "familyName" : "Spencer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "W.",
+        "familyName" : "Perston"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1950",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34405",
+      "type" : "OTHER"
+    }, {
+      "id" : "kanarese_spencer1950_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Mysore City",
+      "publisher" : "Welsley Pr."
+    },
+    "freeKeywords" : "LoC Class: PL4644, LoC Subject Headings: Kannada language",
+    "subjects" : [ {
+      "value" : "kan - Kannada",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XII, 452 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL4644,\nLoC Subject Headings: Kannada language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405226",
+    "name" : "kanarese_spencer1950_o.pdf",
+    "creationDate" : "2010-04-01T13:04:16.843+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-89F5-E",
+    "content" : "/rest/items/item_405227_3/component/file_405226/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "69ac4aac7015235abe327b2e2dc30b6e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 17096347,
+    "metadata" : {
+      "title" : "kanarese_spencer1950_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 17096347
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2036991",
+    "name" : "http://ccat.sas.upenn.edu/plc/kannada/",
+    "creationDate" : "2014-07-04T09:26:47.023+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-DABF-D",
+    "content" : "http://ccat.sas.upenn.edu/plc/kannada/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4e262df94abbd8c833cc8010aa0c3006",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://ccat.sas.upenn.edu/plc/kannada/",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Pennsylania, Penn language center, Kannada, 3. Spencer's Kanarese Grammar, 16 pdfs",
+      "size" : 0
+    }
+  } ]
+}

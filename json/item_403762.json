@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_403762",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-02-20T10:20:31.229+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-CE95-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-02-20T10:20:31.229+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-81A9-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:23:57.426+0000",
+  "latestRelease" : {
+    "objectId" : "item_403762",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-20T10:20:31.229+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-CE95-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403762",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-20T10:20:31.229+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-CE95-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gramática hispana-visaya-panayana",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Raymundo",
+        "familyName" : "Lozano",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1892",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "31698",
+      "type" : "OTHER"
+    }, {
+      "id" : "panayana_lozano1892_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "freeKeywords" : "LoC Class: PL5649,\nLoC Subject Headings: Cebuano language, LoC Subject Headings:  Hiligaynon language ",
+    "subjects" : [ {
+      "value" : "ceb - Cebuano",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "hil - Hiligaynon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "278 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL5649,\nLoC Subject Headings: Cebuano language--Grammar, Hiligaynon language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403761",
+    "name" : "panayana_lozano1892_o.pdf",
+    "creationDate" : "2010-04-01T12:23:55.489+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-81A8-D",
+    "content" : "/rest/items/item_403762_3/component/file_403761/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "bc828b8e171fa05481e3426f3c60b030",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 20453115,
+    "metadata" : {
+      "title" : "panayana_lozano1892_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 20453115,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2096443",
+    "name" : "https://archive.org/details/aqg9885.0001.001.umich.edu",
+    "creationDate" : "2015-02-20T10:20:03.585+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/aqg9885.0001.001.umich.edu",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "78949140fe6058d1a0b8b5d3f7bce66e",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/aqg9885.0001.001.umich.edu",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, read online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

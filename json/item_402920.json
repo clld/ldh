@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_402920",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:47:48.403+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7BFD-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:47:48.403+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7BFD-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:47:52.492+0000",
+  "latestRelease" : {
+    "objectId" : "item_402920",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:47:48.403+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7BFD-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402920",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:47:48.403+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7BFD-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Negation in Kamasau",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Sanders, Joy",
+        "givenName" : "Joy",
+        "familyName" : "Sanders",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Arden",
+        "familyName" : "Sanders"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1994",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30748",
+      "type" : "OTHER"
+    }, {
+      "id" : "kamasau_sanders1994c_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[s.l.]",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL6621.K12,\nLoC Subject Headings: Kamasau language",
+    "subjects" : [ {
+      "value" : "kms - Kamasau",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "14 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402918",
+    "name" : "http://www.sil.org/pacific/png/pubs/0000186/Negation%20in%20Kamasau.pdf",
+    "creationDate" : "2010-04-01T11:47:51.632+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7BFB-2",
+    "content" : "http://www.sil.org/pacific/png/pubs/0000186/Negation%20in%20Kamasau.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2eff240ca33eff1ce1c771aa44ddad4b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/pacific/png/pubs/0000186/Negation%20in%20Kamasau.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402919",
+    "name" : "kamasau_sanders1994c_s.pdf",
+    "creationDate" : "2010-04-01T11:47:52.393+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7BFC-F",
+    "content" : "/rest/items/item_402920_2/component/file_402919/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2eff240ca33eff1ce1c771aa44ddad4b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 84362,
+    "metadata" : {
+      "title" : "kamasau_sanders1994c_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 84362
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

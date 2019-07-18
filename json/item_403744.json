@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_403744",
+  "versionNumber" : 8,
+  "modificationDate" : "2015-03-13T02:04:26.640+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-724B-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:04:26.640+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-818A-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:23:30.293+0000",
+  "latestRelease" : {
+    "objectId" : "item_403744",
+    "versionNumber" : 8,
+    "modificationDate" : "2015-03-13T02:04:26.640+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-724B-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403744",
+    "versionNumber" : 8,
+    "modificationDate" : "2015-03-13T02:04:26.640+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-724B-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulario de la lengua Ilocana",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Andrés",
+        "familyName" : "Carro",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1849",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31564",
+      "type" : "OTHER"
+    }, {
+      "id" : "ilocana_carro1849.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1. Aufl.",
+      "place" : "Manila",
+      "publisher" : "Establecimiento tipografico del Colegio de Santo Tomas"
+    },
+    "freeKeywords" : "LoC Subject Headings: Malay language, LoC Subject Headings: Iloko language",
+    "subjects" : [ {
+      "value" : "ilo - Ilocano",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "361 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL5753,\nLoC Subject Headings: Malay language--Dialects--Iloco, Iloko language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403742",
+    "name" : "http://www.hti.umich.edu/cgi/t/text/text-idx?c=philamer;idno=AQG9882.0001.001",
+    "creationDate" : "2010-04-01T12:23:24.694+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.hti.umich.edu/cgi/t/text/text-idx?c=philamer;idno=AQG9882.0001.001",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3c4f5308087d70da4713fd7032409ba7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.hti.umich.edu/cgi/t/text/text-idx?c=philamer;idno=AQG9882.0001.001",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403743",
+    "name" : "ilocana_carro1849.pdf",
+    "creationDate" : "2010-04-01T12:23:27.899+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8189-4",
+    "content" : "/rest/items/item_403744_8/component/file_403743/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c0a9df690370b8a29de4078b03c7e47a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 25358184,
+    "metadata" : {
+      "title" : "ilocana_carro1849.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 25358184,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

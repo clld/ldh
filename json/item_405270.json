@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_405270",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:03:41.983+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8A31-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:03:41.983+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8A31-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:05:27.778+0000",
+  "latestRelease" : {
+    "objectId" : "item_405270",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:03:41.983+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A31-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405270",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:03:41.983+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A31-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Phonology of Lagwan (Logone-Birni Kotoko)",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Ruff, Joy Naomi",
+        "givenName" : "Joy Naomi",
+        "familyName" : "Ruff",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34478",
+      "type" : "OTHER"
+    }, {
+      "id" : "lagwan_ruff2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yaoundé",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PL8021.C35,\nLoC Subject Headings: Cameroon --Languages",
+    "subjects" : [ {
+      "value" : "kot - Lagwan",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "61 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405268",
+    "name" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/phonologies/Lagwan%20Phonology%202005%20Ruff.pdf",
+    "creationDate" : "2010-04-01T13:05:27.115+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A2F-6",
+    "content" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/phonologies/Lagwan%20Phonology%202005%20Ruff.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/phonologies/Lagwan%20Phonology%202005%20Ruff.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405269",
+    "name" : "lagwan_ruff2005_s.pdf",
+    "creationDate" : "2010-04-01T13:05:27.640+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A30-D",
+    "content" : "/rest/items/item_405270_2/component/file_405269/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3d87c990b5c569402d1ef675ca4990ea",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 484531,
+    "metadata" : {
+      "title" : "lagwan_ruff2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 484531
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_405186",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-18T10:50:42.165+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7A83-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-18T10:50:42.165+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-89BA-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:03:03.564+0000",
+  "latestRelease" : {
+    "objectId" : "item_405186",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-18T10:50:42.165+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A83-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405186",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-18T10:50:42.165+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A83-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The occurrence of code-mixing in Hong Kong",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Wai-ying",
+        "familyName" : "Li",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1989",
+    "datePublishedInPrint" : "1989",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34385",
+      "type" : "OTHER"
+    }, {
+      "id" : "hongkong_li1989_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Hong Kong",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: P115.3, LoC Subject Headings: Code switching (Linguistics), LoC Subject Headings: Bilingualism--China--Hong Kong, LoC Subject Headings: Chinese language",
+    "subjects" : [ {
+      "value" : "cmn - Mandarin Chinese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "75 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405184",
+    "name" : "http://sunzi1.lib.hku.hk/hkuto/record/B31949563",
+    "creationDate" : "2010-04-01T13:03:02.148+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://sunzi1.lib.hku.hk/hkuto/record/B31949563",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "caa6fa3a888541d2edf20456b98b9aec",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://sunzi1.lib.hku.hk/hkuto/record/B31949563",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Hong Kong, The HKU Scholars Hub, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405185",
+    "name" : "hongkong_li1989_s.pdf",
+    "creationDate" : "2010-04-01T13:03:03.354+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-89B9-3",
+    "content" : "/rest/items/item_405186_5/component/file_405185/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5a007c679d64b4efb5f30255690e473e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1495220,
+    "metadata" : {
+      "title" : "hongkong_li1989_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1495220
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

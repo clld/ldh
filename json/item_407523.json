@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_407523",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:57:33.956+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-96A6-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:57:33.956+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-96A6-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:14:15.315+0000",
+  "latestRelease" : {
+    "objectId" : "item_407523",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:57:33.956+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-96A6-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407523",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:57:33.956+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-96A6-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Ordem Frasal de Cláusulas na Língua Asurini",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Nicholson, Velda C.",
+        "givenName" : "Velda C.",
+        "familyName" : "Nicholson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1977",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "39073",
+      "type" : "OTHER"
+    }, {
+      "id" : "asurini_nicholson1977_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Anápolis",
+      "publisher" : "SIL Brasil"
+    },
+    "freeKeywords" : "LoC Class: PM7115,\nLoC Subject Headings: Tenetehara language",
+    "subjects" : [ {
+      "value" : "asu - Tocantins Asurini",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "26 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407521",
+    "name" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "creationDate" : "2010-04-01T14:14:14.854+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-96A4-A",
+    "content" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c9461039d010116eaeca40f82b42a28c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407522",
+    "name" : "asurini_nicholson1977_s.pdf",
+    "creationDate" : "2010-04-01T14:14:15.205+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-96A5-8",
+    "content" : "/rest/items/item_407523_2/component/file_407522/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f427c8da25714b2cdae48d1b4ecbb021",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 297906,
+    "metadata" : {
+      "title" : "asurini_nicholson1977_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 297906
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

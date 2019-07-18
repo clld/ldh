@@ -1,0 +1,144 @@
+{
+  "objectId" : "item_401240",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-19T08:08:49.464+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-D0AC-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-19T08:08:49.464+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-723A-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:08:06.381+0000",
+  "latestRelease" : {
+    "objectId" : "item_401240",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-19T08:08:49.464+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D0AC-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401240",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-19T08:08:49.464+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D0AC-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Un análisis preliminar del discurso en quechua : estudio léxico y gramatical del cuento Taklluscha y Benedicto en el quechua de Ayacucho",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Donald H.",
+        "familyName" : "Burns",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Pablo",
+        "familyName" : "Alcócer Hinostrosa"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1975",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "25478",
+      "type" : "OTHER"
+    }, {
+      "id" : "quechua_burns1975_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[Yarinacocha, Peru]",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Documento de trabajo",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6309, LoC Subject Headings: Quechua language",
+    "subjects" : [ {
+      "value" : "quy - Ayacucho Quechua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "61 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401239",
+    "name" : "quechua_burns1975_o.pdf",
+    "creationDate" : "2010-04-01T11:08:06.117+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7239-2",
+    "content" : "/rest/items/item_401240_4/component/file_401239/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "38774333b0ee13724cccd39a8c5e393c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2230245,
+    "metadata" : {
+      "title" : "quechua_burns1975_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2230245
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2156057",
+    "name" : "http://www.peru.sil.org/resources/archives/30201",
+    "creationDate" : "2015-05-19T08:08:27.815+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/30201",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "882e01dde3041698a42f0daf1d9640ce",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/30201",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Language & Culture Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

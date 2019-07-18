@@ -1,0 +1,108 @@
+{
+  "objectId" : "item_384388",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-06-21T08:54:00.883+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6843-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-21T08:54:00.883+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6843-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-03-08T14:09:02.475+0000",
+  "latestRelease" : {
+    "objectId" : "item_384388",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-21T08:54:00.883+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6843-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_384388",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-21T08:54:00.883+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6843-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "" ],
+  "metadata" : {
+    "title" : "Adverbial clauses in Mandarin Chinese : a corpus-based study",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "May Lai-Yin",
+        "familyName" : "Wong",
+        "organizations" : [ {
+          "address" : "Munich, DE",
+          "identifier" : "ou_persistent13",
+          "name" : "Max Planck Society",
+          "identifierPath" : [ "ou_persistent13" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "languages" : [ "eng" ],
+    "freeKeywords" : "LoC Subject Headings: Chinese language",
+    "subjects" : [ {
+      "value" : "cmn - Mandarin Chinese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xvii, 344 S.",
+    "abstracts" : [ {
+      "value" : "PL1233 , Chinese language --Adverbials"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_384387",
+    "name" : "mandarin_wong2005_o.pdf",
+    "creationDate" : "2010-03-08T14:09:01.808+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6842-6",
+    "content" : "/rest/items/item_384388_3/component/file_384387/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f88b9fac9d11047918ccf79e039fdef8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6198418,
+    "metadata" : {
+      "title" : "mandarin_wong2005_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6198418,
+      "copyrightDate" : "2010-03-05",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

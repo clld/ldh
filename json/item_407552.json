@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_407552",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:58:54.944+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-96D0-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:58:54.944+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-96D0-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:15:04.620+0000",
+  "latestRelease" : {
+    "objectId" : "item_407552",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:58:54.944+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-96D0-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407552",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:58:54.944+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-96D0-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Tons et intonation dans la langue agni indénié",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Adouakou, Sandrine",
+        "givenName" : "Sandrine",
+        "familyName" : "Adouakou",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "39348",
+      "type" : "OTHER"
+    }, {
+      "id" : "agni_adouakou2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Bielefeld",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PL8047.3.A6,\nLoC Subject Headings: Anyi language",
+    "subjects" : [ {
+      "value" : "any - Anyin",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "viii, 207 S., [24] Bl."
+  },
+  "files" : [ {
+    "objectId" : "file_407550",
+    "name" : "http://bieson.ub.uni-bielefeld.de/volltexte/2007/1067/pdf/These.pdf",
+    "creationDate" : "2010-04-01T14:15:03.247+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-96CE-E",
+    "content" : "http://bieson.ub.uni-bielefeld.de/volltexte/2007/1067/pdf/These.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "cf5bbc76f4a80b0433e4d729e5c8cdf1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://bieson.ub.uni-bielefeld.de/volltexte/2007/1067/pdf/These.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407551",
+    "name" : "agni_adouakou2005_s.pdf",
+    "creationDate" : "2010-04-01T14:15:04.028+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-96CF-C",
+    "content" : "/rest/items/item_407552_2/component/file_407551/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a6ec70c65a508089ce54365af3dd3caf",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5796141,
+    "metadata" : {
+      "title" : "agni_adouakou2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5796141
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

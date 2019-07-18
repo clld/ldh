@@ -1,0 +1,116 @@
+{
+  "objectId" : "item_403752",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-10-02T08:20:03.679+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-5D27-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain",
+  "lastModificationDate" : "2013-10-02T08:20:03.679+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8199-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:23:47.897+0000",
+  "latestRelease" : {
+    "objectId" : "item_403752",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-02T08:20:03.679+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5D27-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403752",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-02T08:20:03.679+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5D27-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulario de la lengua pampanga en romance",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Diego",
+        "familyName" : "Bergaño",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1860",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31567",
+      "type" : "OTHER"
+    }, {
+      "id" : "pampanga_bergano1860.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "Reimpreso",
+      "place" : "Manila",
+      "publisher" : "Imprenta de Ramirez y Giraudier"
+    },
+    "freeKeywords" : "LoC Subject Headings: Pampanga language",
+    "subjects" : [ {
+      "value" : "pam - Pampanga",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "[16], 343 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL5993,\nLoC Subject Headings: Pampanga language--Dictionaries--Spanish, Spanish language--Dictionaries--Pampanga"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403751",
+    "name" : "pampanga_bergano1860.pdf",
+    "creationDate" : "2010-04-01T12:23:44.081+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8198-2",
+    "content" : "/rest/items/item_403752_3/component/file_403751/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "eaf1c1d8a9d40cb89a2fdc4f286eb003",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 39757455,
+    "metadata" : {
+      "title" : "pampanga_bergano1860.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 39757455
+    }
+  } ]
+}

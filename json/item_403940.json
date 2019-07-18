@@ -1,0 +1,148 @@
+{
+  "objectId" : "item_403940",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-17T08:34:59.209+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B77D-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-17T08:34:59.209+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-82AA-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:30:41.209+0000",
+  "latestRelease" : {
+    "objectId" : "item_403940",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-17T08:34:59.209+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B77D-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403940",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-17T08:34:59.209+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B77D-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The linguistics of punctuation",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Geoffrey",
+        "familyName" : "Nunberg",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1990",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "32067",
+      "type" : "OTHER"
+    }, {
+      "id" : "punctuation_nunberg1990_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "0-937073-47-4",
+      "type" : "ISBN"
+    }, {
+      "id" : "0-937073-46-6 (pbk.)",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Stanford",
+      "publisher" : "Center for the Study of Language and\n              Information"
+    },
+    "sources" : [ {
+      "title" : "CSLI lecture notes",
+      "volume" : "18",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PE1450, LoC Subject Headings: English language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix, 141 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PE1450,\nLoC Subject Headings: English language--Punctuation"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403938",
+    "name" : "http://sul-derivatives.stanford.edu/derivative?CSNID=00000098&mediaType=application/pdf",
+    "creationDate" : "2010-04-01T12:29:51.573+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-82A8-5",
+    "content" : "http://sul-derivatives.stanford.edu/derivative?CSNID=00000098&mediaType=application/pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "50697971d35ef63fee49e1f652cc8463",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://sul-derivatives.stanford.edu/derivative?CSNID=00000098&mediaType=application/pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403939",
+    "name" : "punctuation_nunberg1990_s.pdf",
+    "creationDate" : "2010-04-01T12:30:36.691+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-82A9-3",
+    "content" : "/rest/items/item_403940_3/component/file_403939/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5751ec83f2b2f153f09b5c4408cddf1b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 47113155,
+    "metadata" : {
+      "title" : "punctuation_nunberg1990_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 47113155
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_405549",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:52:21.480+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8BBE-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:52:21.480+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8BBE-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:15:14.853+0000",
+  "latestRelease" : {
+    "objectId" : "item_405549",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:52:21.480+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8BBE-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405549",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:52:21.480+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8BBE-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Urdu morphology, orthography and lexicon extraction",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Humayoun, Muhammad",
+        "givenName" : "Muhammad",
+        "familyName" : "Humayoun",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35043",
+      "type" : "OTHER"
+    }, {
+      "id" : "urdu_humayoun2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Göteborg",
+      "publisher" : "Department of Computer Science and Engineering\n              , Chalmers University of Technology and\n              Göteborg University"
+    },
+    "freeKeywords" : "LoC Class: PK1974,\nLoC Subject Headings: Urdu language --Grammar",
+    "subjects" : [ {
+      "value" : "urd - Urdu",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "106 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405547",
+    "name" : "http://www.lama.univ-savoie.fr/~humayoun/UrduMorph/downloads/HumayounThesis_Web.pdf",
+    "creationDate" : "2010-04-01T13:15:13.135+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8BBC-F",
+    "content" : "http://www.lama.univ-savoie.fr/~humayoun/UrduMorph/downloads/HumayounThesis_Web.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f28bc838a50bf69d6ce9b4fee9a639dd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lama.univ-savoie.fr/~humayoun/UrduMorph/downloads/HumayounThesis_Web.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405548",
+    "name" : "urdu_humayoun2006_s.pdf",
+    "creationDate" : "2010-04-01T13:15:14.501+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8BBD-D",
+    "content" : "/rest/items/item_405549_2/component/file_405548/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3def39e13b79f8bf54ead8f902c8b309",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3043004,
+    "metadata" : {
+      "title" : "urdu_humayoun2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3043004
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

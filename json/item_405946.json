@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_405946",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-15T07:46:42.398+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-EBF9-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-15T07:46:42.398+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8DF1-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:24:01.939+0000",
+  "latestRelease" : {
+    "objectId" : "item_405946",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-15T07:46:42.398+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-EBF9-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405946",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-15T07:46:42.398+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-EBF9-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Caracterización de la transitividad en la narrativa náhuatl de la Huasteca Veracruzana desde una propuesta tipológica",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Manuel",
+        "familyName" : "Peregrina Llanes",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35560",
+      "type" : "OTHER"
+    }, {
+      "id" : "nahuatl_llanes2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "place" : "Hermosillo",
+      "publisher" : "Univ. de Sonora"
+    },
+    "freeKeywords" : "LoC Class: PM4061,\nLoC Subject Headings: Nahuatl language",
+    "totalNumberOfPages" : "218, 215 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405945",
+    "name" : "nahuatl_llanes2005_s.pdf",
+    "creationDate" : "2010-04-01T13:24:01.564+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8DF0-9",
+    "content" : "/rest/items/item_405946_3/component/file_405945/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fbacc517aa6d21302dae046417955810",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3196396,
+    "metadata" : {
+      "title" : "nahuatl_llanes2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3196396
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2042406",
+    "name" : "http://www.maestriaenlinguistica.uson.mx/wp-content/uploads/2011/02/8Tmpl.pdf",
+    "creationDate" : "2014-07-15T07:45:21.488+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-EBFB-7",
+    "content" : "http://www.maestriaenlinguistica.uson.mx/wp-content/uploads/2011/02/8Tmpl.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4257ee654836e53fa968bc3d93bd3956",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.maestriaenlinguistica.uson.mx/wp-content/uploads/2011/02/8Tmpl.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. de Sonora, Dep. do Letras y Lingüística, direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

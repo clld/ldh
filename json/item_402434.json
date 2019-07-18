@@ -1,0 +1,145 @@
+{
+  "objectId" : "item_402434",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T17:27:59.053+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6E54-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T17:27:59.053+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-791E-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:31:42.183+0000",
+  "latestRelease" : {
+    "objectId" : "item_402434",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:27:59.053+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E54-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402434",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:27:59.053+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E54-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulario orejón",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Daniel",
+        "familyName" : "Velie Gable",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Virginia Cook de",
+        "familyName" : "Velie"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1981",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29907",
+      "type" : "OTHER"
+    }, {
+      "id" : "orejon_velie1981_o.pdf",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1 ed.",
+      "place" : "Lima",
+      "publisher" : "Ministerio de Educación"
+    },
+    "sources" : [ {
+      "title" : "Serie lingüística peruana",
+      "volume" : "16",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6861, LoC Subject Headings: Orejón language--Dictionaries--Spanish, LoC Subject Headings: Spanish language--Dictionaries--Orejón",
+    "subjects" : [ {
+      "value" : "ore - Orejón",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "128 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402432",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=570",
+    "creationDate" : "2010-04-01T11:31:40.750+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=570",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "79953c272b0680c48ddc56aebc1edc86",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=570",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402433",
+    "name" : "orejon_velie1981_o.pdf",
+    "creationDate" : "2010-04-01T11:31:41.635+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-791D-6",
+    "content" : "/rest/items/item_402434_3/component/file_402433/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "afb9db3ba867f155331f7fdcdbfd8191",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5151653,
+    "metadata" : {
+      "title" : "orejon_velie1981_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5151653
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

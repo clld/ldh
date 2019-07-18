@@ -1,0 +1,115 @@
+{
+  "objectId" : "item_408269",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-04-28T06:54:37.702+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C291-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-28T06:54:37.702+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9AD9-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:33:22.011+0000",
+  "latestRelease" : {
+    "objectId" : "item_408269",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-28T06:54:37.702+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C291-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408269",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-28T06:54:37.702+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C291-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The paradigmatic structure of person marking",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Michael Alexander",
+        "familyName" : "Cysouw",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedInPrint" : "2001",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "42820",
+      "type" : "OTHER"
+    }, {
+      "id" : "person_cysouw2001_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Nijmegen",
+      "publisher" : "Katholieke Univ. Nijmegen"
+    },
+    "freeKeywords" : "LoC Class: P240.85, LoC Subject Headings: Grammar/Comparative and general--Person, LoC Subject Headings: Grammar/Comparative and general--Number, LoC Subject Headings: Typology (Linguistics), LoC Subject Headings: Historical linguistics",
+    "subjects" : [ {
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 380 S."
+  },
+  "files" : [ {
+    "objectId" : "file_408267",
+    "name" : "person_cysouw2001_s.pdf",
+    "creationDate" : "2010-04-01T14:33:19.168+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9AD8-B",
+    "content" : "/rest/items/item_408269_6/component/file_408267/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c764ca8af4558086febbe657149ec799",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1588507,
+    "metadata" : {
+      "title" : "person_cysouw2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1588507,
+      "copyrightDate" : "2010-11-16",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

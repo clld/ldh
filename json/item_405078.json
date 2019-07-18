@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_405078",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-10T10:50:01.462+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-ADF4-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-10T10:50:01.462+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8923-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:54:57.746+0000",
+  "latestRelease" : {
+    "objectId" : "item_405078",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T10:50:01.462+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-ADF4-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405078",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T10:50:01.462+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-ADF4-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dadibi - Tok Pisin - English dictionary: po dage dabe",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Clyde",
+        "familyName" : "Whitby",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1990",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34334",
+      "type" : "OTHER"
+    }, {
+      "id" : "dadibi_whitby1990_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng", "tpi", "mps" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ukarumpa, Papua New Guinea",
+      "publisher" : "SIL Printing Dept."
+    },
+    "freeKeywords" : "LoC Class: PL6621.D25, LoC Subject Headings: Daribi language",
+    "subjects" : [ {
+      "value" : "mps - Dadibi",
+      "type" : "ISO639_3"
+    }, {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "59 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6621.D25, LoC Subject Headings: Daribi language--Dictionaries--Tok Pisin, LoC Subject Headings: Daribi language--Dictionaries--English"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405077",
+    "name" : "dadibi_whitby1990_o.pdf",
+    "creationDate" : "2010-04-01T12:54:57.531+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8922-8",
+    "content" : "/rest/items/item_405078_4/component/file_405077/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6d6a8c69ebbe70ff8a6226bee9eb7705",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1338751,
+    "metadata" : {
+      "title" : "dadibi_whitby1990_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1338751
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2134707",
+    "name" : "http://www-01.sil.org/pacific/png/abstract.asp?id=47684",
+    "creationDate" : "2015-04-10T10:49:44.014+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www-01.sil.org/pacific/png/abstract.asp?id=47684",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9cbe9ecf3e0a0acb25ab6630055e84fb",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www-01.sil.org/pacific/png/abstract.asp?id=47684",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Papua New Guinea, PNG Language Resources, pdf download",
+      "size" : 0
+    }
+  } ]
+}

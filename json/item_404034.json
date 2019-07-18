@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_404034",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:13:57.839+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8334-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:13:57.839+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8334-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:33:10.608+0000",
+  "latestRelease" : {
+    "objectId" : "item_404034",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:13:57.839+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8334-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404034",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:13:57.839+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8334-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "La conjugación del verbo Zapoteco : Zapoteco de Yalálag",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Lopez L., Filemón",
+        "givenName" : "Filemón",
+        "familyName" : "Lopez L.",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Ronaldo",
+        "familyName" : "Newberg Y."
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "32170",
+      "type" : "OTHER"
+    }, {
+      "id" : "zapoteco_lopez2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "2. Aufl., elektronisch",
+      "place" : "México City",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "freeKeywords" : "LoC Class: PM4548,\nLoC Subject Headings: Zapotec language--Verb",
+    "subjects" : [ {
+      "value" : "zpu - Yalálag Zapotec",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vii, 76 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404032",
+    "name" : "http://www.sil.org/mexico/zapoteca/yalalag/G033-ConjugVerboZap-zpu.pdf",
+    "creationDate" : "2010-04-01T12:32:57.934+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8332-5",
+    "content" : "http://www.sil.org/mexico/zapoteca/yalalag/G033-ConjugVerboZap-zpu.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0023e9929ab1a285d13c28b49e950803",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/mexico/zapoteca/yalalag/G033-ConjugVerboZap-zpu.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404033",
+    "name" : "zapoteco_lopez2005_s.pdf",
+    "creationDate" : "2010-04-01T12:33:10.419+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8333-3",
+    "content" : "/rest/items/item_404034_2/component/file_404033/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0023e9929ab1a285d13c28b49e950803",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1362801,
+    "metadata" : {
+      "title" : "zapoteco_lopez2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1362801
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

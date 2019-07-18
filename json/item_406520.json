@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_406520",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-09-25T12:02:30.603+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-56D4-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain",
+  "lastModificationDate" : "2013-09-25T12:02:30.603+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9118-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:40:08.669+0000",
+  "latestRelease" : {
+    "objectId" : "item_406520",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-09-25T12:02:30.603+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-56D4-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406520",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-09-25T12:02:30.603+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-56D4-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar and vocabulary of the language of New-Zealand",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Samuel",
+        "familyName" : "Lee",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1820",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37205",
+      "type" : "OTHER"
+    }, {
+      "id" : "newzealand_watts1820_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "London",
+      "publisher" : "Seeley"
+    },
+    "freeKeywords" : "LoC Subject Headings: Maori language",
+    "subjects" : [ {
+      "value" : "mri - Maori",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VI, 230 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6465 .K3,\nLoC Subject Headings: Maori language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406518",
+    "name" : "http://books.google.com/books?id=mZ8SAAAAIAAJ",
+    "creationDate" : "2010-04-01T13:40:06.886+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-56D5-B",
+    "content" : "http://books.google.com/books?id=mZ8SAAAAIAAJ",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7583e1c4e75f86d41277d23492977895",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://books.google.com/books?id=mZ8SAAAAIAAJ",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406519",
+    "name" : "newzealand_watts1820_o.pdf",
+    "creationDate" : "2010-04-01T13:40:07.463+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9117-5",
+    "content" : "/rest/items/item_406520_3/component/file_406519/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "19855d53dc4931dba5dae13f852f0daa",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12356434,
+    "metadata" : {
+      "title" : "newzealand_watts1820_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12356434
+    }
+  } ]
+}

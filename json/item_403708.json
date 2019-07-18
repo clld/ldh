@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403708",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-02-25T11:01:36.845+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-E2F0-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-02-25T11:01:36.845+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8156-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:22:27.658+0000",
+  "latestRelease" : {
+    "objectId" : "item_403708",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-25T11:01:36.845+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E2F0-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403708",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-25T11:01:36.845+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E2F0-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Chinook as spoken by the Indians of Washington Territory, British Columbia and Alaska : for the use of traders, tourists and others who have business intercourse with the Indians ; Chinook-English. English-Chinook",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Charles Montgomery",
+        "familyName" : "Tate",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1889",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31547",
+      "type" : "OTHER"
+    }, {
+      "id" : "chinook_tate1889_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Victoria",
+      "publisher" : "Waitt"
+    },
+    "freeKeywords" : "LoC Class: PM848,\nLoC Subject Headings: Chinook jargon",
+    "subjects" : [ {
+      "value" : "chn - Chinook jargon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "47 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM848,\nLoC Subject Headings: Chinook jargon--Dictionaries--English, English language--Dictionaries--Chinook"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403706",
+    "name" : "http://www.canadiana.org/ECO/PageView/16237/0003?id=77199504882ab46a",
+    "creationDate" : "2010-04-01T12:22:27.063+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.canadiana.org/ECO/PageView/16237/0003?id=77199504882ab46a",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2c5f096920f110dea3070d80f3994a1f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.canadiana.org/ECO/PageView/16237/0003?id=77199504882ab46a",
+      "contentCategory" : "publisher-version",
+      "description" : "Canadiana.org: Early Canadiana online, view online",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403707",
+    "name" : "chinook_tate1889_o.pdf",
+    "creationDate" : "2010-04-01T12:22:27.411+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8155-9",
+    "content" : "/rest/items/item_403708_3/component/file_403707/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "825ffbf9179b0f496151f98787d3b518",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2069567,
+    "metadata" : {
+      "title" : "chinook_tate1889_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2069567,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

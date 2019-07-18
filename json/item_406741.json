@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_406741",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T20:20:36.062+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FAD-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:20:36.062+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-924B-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:46:54.265+0000",
+  "latestRelease" : {
+    "objectId" : "item_406741",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:20:36.062+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FAD-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406741",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:20:36.062+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FAD-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The structure of the Serbian noun phrase",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Zlatic, Larisa",
+        "givenName" : "Larisa",
+        "familyName" : "Zlatic",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1997",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37408",
+      "type" : "OTHER"
+    }, {
+      "id" : "serbian_zlatic1997_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Austin",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PG1229, LoC Subject Headings: Serbo-Croatian language --Noun phrase, LoC Subject Headings: Serbo-Croatian language --Syntax",
+    "subjects" : [ {
+      "value" : "srp - Serbian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 304 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406739",
+    "name" : "http://www.lztranslation.com/zlaticdissertation.html",
+    "creationDate" : "2010-04-01T13:46:53.151+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9249-7",
+    "content" : "http://www.lztranslation.com/zlaticdissertation.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d36673b224c4d4d7e4f8b5655c6193db",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lztranslation.com/zlaticdissertation.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406740",
+    "name" : "serbian_zlatic1997_s.pdf",
+    "creationDate" : "2010-04-01T13:46:54.044+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-924A-5",
+    "content" : "/rest/items/item_406741_3/component/file_406740/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fd37d3915a29ddd719f3633f1710b2df",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1412703,
+    "metadata" : {
+      "title" : "serbian_zlatic1997_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1412703
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

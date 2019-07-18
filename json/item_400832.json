@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_400832",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-05-13T10:34:56.496+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CD5A-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-13T10:34:56.496+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6FD5-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:59:41.833+0000",
+  "latestRelease" : {
+    "objectId" : "item_400832",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T10:34:56.496+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD5A-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400832",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T10:34:56.496+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD5A-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Lexique Koonzime - Français",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Keith",
+        "familyName" : "Beavon",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Mary",
+        "familyName" : "Beavon"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "24338",
+      "type" : "OTHER"
+    }, {
+      "id" : "koonzime_beavon1996_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yaoundé",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PL8406.54, LoC Subject Headings: Koonzime language",
+    "subjects" : [ {
+      "value" : "ozm - Koonzime",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "121 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400831",
+    "name" : "koonzime_beavon1996_s.pdf",
+    "creationDate" : "2010-04-01T10:59:41.716+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6FD4-8",
+    "content" : "/rest/items/item_400832_3/component/file_400831/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "839bca4106a4289a6131972fd188dccb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 648590,
+    "metadata" : {
+      "title" : "koonzime_beavon1996_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 648590
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2154505",
+    "name" : "http://www.silcam.org/languages/languagepage.php?languageid=224",
+    "creationDate" : "2015-05-13T10:34:35.506+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.silcam.org/languages/languagepage.php?languageid=224",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "dc9359558809e1989a4ee0e7b62b82cf",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.silcam.org/languages/languagepage.php?languageid=224",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Cameroon, Languages & Publications, Languages, Koonzime, pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_401996",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T11:14:28.408+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7684-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:14:28.408+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7684-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:24:08.076+0000",
+  "latestRelease" : {
+    "objectId" : "item_401996",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:14:28.408+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7684-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401996",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:14:28.408+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7684-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Éléments de la grammaire Bretonne",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jean",
+        "familyName" : "Hingant",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1868",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "28854",
+      "type" : "OTHER"
+    }, {
+      "id" : "bretonne_hingant1868_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Tréguier",
+      "publisher" : "Flem [u.a.]"
+    },
+    "freeKeywords" : "LoC Subject Headings: Breton language",
+    "subjects" : [ {
+      "value" : "bre - Breton",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "254 S.",
+    "abstracts" : [ {
+      "value" : "PB2811, ISO 639-3 : bre, Breton language -- Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401994",
+    "name" : "http://www.lexilogos.com/breton_langue_dictionnaires.htm",
+    "creationDate" : "2010-04-01T11:24:07.235+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7682-7",
+    "content" : "http://www.lexilogos.com/breton_langue_dictionnaires.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2ab6182b3956e30dbb9c720782f90515",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lexilogos.com/breton_langue_dictionnaires.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401995",
+    "name" : "bretonne_hingant1868_o.pdf",
+    "creationDate" : "2010-04-01T11:24:07.399+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7683-5",
+    "content" : "/rest/items/item_401996_3/component/file_401995/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b71c29e40dfb4697121cb1bfdd9dbb54",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6618333,
+    "metadata" : {
+      "title" : "bretonne_hingant1868_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6618333,
+      "rights" : "not in copyright, Jean Hingant"
+    }
+  } ]
+}

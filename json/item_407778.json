@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_407778",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T08:01:45.257+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9803-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T08:01:45.257+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9803-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:20:22.659+0000",
+  "latestRelease" : {
+    "objectId" : "item_407778",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T08:01:45.257+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9803-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407778",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T08:01:45.257+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9803-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The Schetic categories of the Tlingit Verb",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Leer, Jeffrey A.",
+        "givenName" : "Jeffrey A.",
+        "familyName" : "Leer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1991",
+    "datePublishedInPrint" : "1991",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "41836",
+      "type" : "OTHER"
+    }, {
+      "id" : "tlingit_leer1991_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Chicago, Ill.",
+      "publisher" : "Chicago University"
+    },
+    "freeKeywords" : "LoC Class: PM2455,\nLoC Subject Headings: Tlingit language -- Verb",
+    "subjects" : [ {
+      "value" : "tli - Tlingit",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XVI, 516 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407776",
+    "name" : "http://tinyurl.com/atoyp9",
+    "creationDate" : "2010-04-01T14:20:20.362+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9801-A",
+    "content" : "http://tinyurl.com/atoyp9",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "29d8d56d8c8488e8bda4483f6a4ba78d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://tinyurl.com/atoyp9",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407777",
+    "name" : "tlingit_leer1991_o.pdf",
+    "creationDate" : "2010-04-01T14:20:21.322+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9802-8",
+    "content" : "/rest/items/item_407778_2/component/file_407777/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "425841238bf432f2de945719e6d2d876",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 13914377,
+    "metadata" : {
+      "title" : "tlingit_leer1991_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 13914377
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

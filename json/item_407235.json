@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_407235",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T21:59:41.831+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7073-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:59:41.831+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-951A-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:02:18.709+0000",
+  "latestRelease" : {
+    "objectId" : "item_407235",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T21:59:41.831+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7073-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407235",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T21:59:41.831+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7073-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Mixteco texts",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Dyk, Anne",
+        "givenName" : "Anne",
+        "familyName" : "Dyk",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Katherine",
+        "familyName" : "Voigtlander"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1959",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37835",
+      "type" : "OTHER"
+    }, {
+      "id" : "mixteco_dyk1959_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Norman, Okla",
+      "publisher" : "SIL"
+    },
+    "sources" : [ {
+      "title" : "A publication of the Summer Institute of Linguistics of the University of Oklahoma / Linguistic series",
+      "volume" : "3",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4016, LoC Subject Headings: Mixtec language -- Texts, LoC Subject Headings: Mixtec language -- Legends",
+    "totalNumberOfPages" : "vi, 248 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407233",
+    "name" : "http://www.ethnologue.com/show_work.asp?id=10574",
+    "creationDate" : "2010-04-01T14:02:17.264+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.ethnologue.com/show_work.asp?id=10574",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "226fc3d1dfa4bb9f8d3ab308c967ba85",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ethnologue.com/show_work.asp?id=10574",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407234",
+    "name" : "mixteco_dyk1959_o.pdf",
+    "creationDate" : "2010-04-01T14:02:18.192+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9519-E",
+    "content" : "/rest/items/item_407235_3/component/file_407234/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8206f7fec19586b0ec48c98b869a5149",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4604397,
+    "metadata" : {
+      "title" : "mixteco_dyk1959_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4604397
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

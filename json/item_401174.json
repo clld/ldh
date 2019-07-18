@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_401174",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-08-20T10:37:01.925+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-C04B-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Stichwörter bereinigt",
+  "lastModificationDate" : "2014-08-20T10:37:01.925+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-71D9-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:07:01.389+0000",
+  "latestRelease" : {
+    "objectId" : "item_401174",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-20T10:37:01.925+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C04B-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401174",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-20T10:37:01.925+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C04B-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Elementos de gramatica del miskito",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Danilo",
+        "familyName" : "Salamanca",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1988",
+    "datePublishedInPrint" : "1988",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "25254",
+      "type" : "OTHER"
+    }, {
+      "id" : "miskito_salamanca1988.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "place" : "Cambridge, Mass.",
+      "publisher" : "MIT"
+    },
+    "freeKeywords" : "LoC Class: PM4037,\nLoC Subject Headings: Miskito language",
+    "subjects" : [ {
+      "value" : "miq - Mískito",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "380 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM4037,\nLoC Subject Headings: Miskito language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401173",
+    "name" : "miskito_salamanca1988.pdf",
+    "creationDate" : "2010-04-01T11:06:59.153+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-71D8-2",
+    "content" : "/rest/items/item_401174_4/component/file_401173/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ffa6dc7ad8c89ec394ee1789cd20035d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 23509552,
+    "metadata" : {
+      "title" : "miskito_salamanca1988.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 23509552
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2032886",
+    "name" : "http://hdl.handle.net/1721.1/14319",
+    "creationDate" : "2014-06-12T08:51:39.515+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-B9C9-C",
+    "content" : "http://hdl.handle.net/1721.1/14319",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5021e019d3bdbfe641e1022c54931d99",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/14319",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, electronic collection 'DSpace@MIT', pdf",
+      "size" : 0
+    }
+  } ]
+}

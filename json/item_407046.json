@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_407046",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-10-01T12:28:47.359+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-5C98-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain",
+  "lastModificationDate" : "2013-10-01T12:28:47.359+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9416-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:53:09.386+0000",
+  "latestRelease" : {
+    "objectId" : "item_407046",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-01T12:28:47.359+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5C98-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407046",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-01T12:28:47.359+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5C98-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulary of the Catawba language : with some remarks on its grammar, construction and pronunciation",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Oscar Montgomery",
+        "familyName" : "Lieber",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1858",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37615",
+      "type" : "OTHER"
+    }, {
+      "id" : "catawba_lieber1858_o.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Charleston",
+      "publisher" : "[s.n.]"
+    },
+    "freeKeywords" : "LoC Subject Headings: Catawba language",
+    "subjects" : [ {
+      "value" : "chc - Catawba",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "18 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM751,\nLoC Subject Headings: Catawba language -- Glossaries, vocabularies, etc."
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407044",
+    "name" : "http://www.archive.org/details/vocabularyofcata00liebrich",
+    "creationDate" : "2010-04-01T13:53:07.908+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-5C99-9",
+    "content" : "http://www.archive.org/details/vocabularyofcata00liebrich",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "bcd098464ecd4335cf1724b8d1b9612c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/vocabularyofcata00liebrich",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407045",
+    "name" : "catawba_lieber1858_o.pdf",
+    "creationDate" : "2010-04-01T13:53:09.187+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9415-B",
+    "content" : "/rest/items/item_407046_3/component/file_407045/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b9088a34fa1e92d6e7fb3e297479265c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1517971,
+    "metadata" : {
+      "title" : "catawba_lieber1858_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1517971
+    }
+  } ]
+}

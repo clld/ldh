@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_404104",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:25:31.993+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8397-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:25:31.993+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8397-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:34:59.115+0000",
+  "latestRelease" : {
+    "objectId" : "item_404104",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:25:31.993+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8397-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404104",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:25:31.993+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8397-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Pragmatic features of Baka narrative discourse",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Léonard, Yves",
+        "givenName" : "Yves",
+        "familyName" : "Léonard",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "32275",
+      "type" : "OTHER"
+    }, {
+      "id" : "baka_leonard2005_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yaoundé",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PL8047.65,\nLoC Subject Headings: Baka language (Cameroon and Gabon)",
+    "subjects" : [ {
+      "value" : "bkc - Baka (Cameroon)",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "148 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404102",
+    "name" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/baka_leonard2005_2677_p.pdf",
+    "creationDate" : "2010-04-01T12:34:58.047+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8395-7",
+    "content" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/baka_leonard2005_2677_p.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/baka_leonard2005_2677_p.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404103",
+    "name" : "baka_leonard2005_o.pdf",
+    "creationDate" : "2010-04-01T12:34:58.577+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8396-5",
+    "content" : "/rest/items/item_404104_2/component/file_404103/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c40de10fa6e381bf1003ea86d967469b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5046669,
+    "metadata" : {
+      "title" : "baka_leonard2005_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5046669
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

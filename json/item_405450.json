@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_405450",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:22:38.272+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8B2F-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:22:38.272+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B2F-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:13:12.101+0000",
+  "latestRelease" : {
+    "objectId" : "item_405450",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:22:38.272+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B2F-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405450",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:22:38.272+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B2F-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A Roviana phrase book",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "J. H. Lawry",
+        "familyName" : "Waterhouse",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1926",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34961",
+      "type" : "OTHER"
+    }, {
+      "id" : "roviana_waterhouse1926.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Sydney",
+      "publisher" : "Epworth"
+    },
+    "freeKeywords" : "LoC Class: PL6298.Z5,\nLoC Subject Headings: Roviana language",
+    "subjects" : [ {
+      "value" : "rug - Roviana",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "30 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405448",
+    "name" : "http://paradisec.org.au/fieldnotes/SIROV.htm",
+    "creationDate" : "2010-04-01T13:13:09.388+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B2D-F",
+    "content" : "http://paradisec.org.au/fieldnotes/SIROV.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9f5b632f6a6f318b3739e9d672278ae8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://paradisec.org.au/fieldnotes/SIROV.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405449",
+    "name" : "roviana_waterhouse1926.pdf",
+    "creationDate" : "2010-04-01T13:13:11.553+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B2E-D",
+    "content" : "/rest/items/item_405450_2/component/file_405449/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8f2d358a9108764c084f36c5772704d7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5280084,
+    "metadata" : {
+      "title" : "roviana_waterhouse1926.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5280084
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

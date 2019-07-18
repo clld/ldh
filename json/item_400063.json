@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_400063",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:41:15.324+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6B2D-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:41:15.324+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6B2D-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:39:40.754+0000",
+  "latestRelease" : {
+    "objectId" : "item_400063",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:41:15.324+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6B2D-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400063",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:41:15.324+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6B2D-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Preliminary grammar of Auca",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Peeke, M. Catherine",
+        "givenName" : "M. Catherine",
+        "familyName" : "Peeke",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1973",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "759",
+      "type" : "OTHER"
+    }, {
+      "id" : "auca2_peeke1973_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "Microfiche ed.",
+      "place" : "Dallas",
+      "publisher" : "Summer Institute of Linguistics"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics",
+      "volume" : "39",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM7141,\nLoC Subject Headings: Sabela language--Grammar",
+    "subjects" : [ {
+      "value" : "auc - Waorani",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "2 MF"
+  },
+  "files" : [ {
+    "objectId" : "file_400061",
+    "name" : "http://www.ethnologue.com/show_work.asp?id=23153",
+    "creationDate" : "2010-04-01T10:39:39.775+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6B2B-6",
+    "content" : "http://www.ethnologue.com/show_work.asp?id=23153",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "77f9f4da77eb133be519ac9e5fe94e33",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ethnologue.com/show_work.asp?id=23153",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400062",
+    "name" : "auca2_peeke1973_o.pdf",
+    "creationDate" : "2010-04-01T10:39:40.388+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6B2C-4",
+    "content" : "/rest/items/item_400063_2/component/file_400062/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f17e416be22b4157e5020a16ff3f8b87",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3244917,
+    "metadata" : {
+      "title" : "auca2_peeke1973_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3244917
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

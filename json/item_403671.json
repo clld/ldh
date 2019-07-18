@@ -1,0 +1,113 @@
+{
+  "objectId" : "item_403671",
+  "versionNumber" : 6,
+  "modificationDate" : "2013-04-08T12:55:42.090+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8112-0",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "message" : "EJ ergänzt",
+  "lastModificationDate" : "2013-04-08T12:55:42.090+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-810D-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:21:56.990+0000",
+  "latestRelease" : {
+    "objectId" : "item_403671",
+    "versionNumber" : 6,
+    "modificationDate" : "2013-04-08T12:55:42.090+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8112-0",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403671",
+    "versionNumber" : 6,
+    "modificationDate" : "2013-04-08T12:55:42.090+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8112-0",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Précis de grammaire nahanaise : phonétique Nahanaise",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Adrien Gabriel",
+        "familyName" : "Morice",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1899",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "31499",
+      "type" : "OTHER"
+    }, {
+      "id" : "nahanaise_morice_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "freeKeywords" : "LoC Subject Headings: Kaska language",
+    "subjects" : [ {
+      "value" : "kkz - Kaska",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "72 S.",
+    "abstracts" : [ {
+      "value" : "P379, ISO 639-3 : kkz, Canada --Languages, Kaska Indians, Kaska language--Glossaries, vocabularies, etc., Kaska (Indiens), Kaska (Langue)--Glossaires, vocabulaires, etc."
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403670",
+    "name" : "nahanaise_morice_o.pdf",
+    "creationDate" : "2010-04-01T12:21:56.656+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-810C-F",
+    "content" : "/rest/items/item_403671_6/component/file_403670/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "eabcd76aa8e69728a20fad1b56559eb9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2946635,
+    "metadata" : {
+      "title" : "nahanaise_morice_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2946635,
+      "copyrightDate" : "2010-11-16",
+      "rights" : "public domain, Adrien Gabriel Morice 1859-1938"
+    }
+  } ]
+}

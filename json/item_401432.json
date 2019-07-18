@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_401432",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:39:43.319+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7347-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:39:43.319+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7347-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:11:42.098+0000",
+  "latestRelease" : {
+    "objectId" : "item_401432",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:39:43.319+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7347-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401432",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:39:43.319+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7347-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A reference grammar of Wanano",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Stenzel, Kristine Sue",
+        "givenName" : "Kristine Sue",
+        "familyName" : "Stenzel",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "26541",
+      "type" : "OTHER"
+    }, {
+      "id" : "wanano_stenzel2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PM6058,\nLoC Subject Headings: Guanano language",
+    "subjects" : [ {
+      "value" : "gvc - Guanano",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxii, 429 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401430",
+    "name" : "http://proquest.umi.com/pqdweb?did=766273451&sid=1&Fmt=6&clientId=56146&RQT=309&VName=PQD",
+    "creationDate" : "2010-04-01T11:11:40.459+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7345-D",
+    "content" : "http://proquest.umi.com/pqdweb?did=766273451&sid=1&Fmt=6&clientId=56146&RQT=309&VName=PQD",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0564d3abb6a98a6db2246ccce4587abd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://proquest.umi.com/pqdweb?did=766273451&sid=1&Fmt=6&clientId=56146&RQT=309&VName=PQD",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401431",
+    "name" : "wanano_stenzel2002_s.pdf",
+    "creationDate" : "2010-04-01T11:11:41.494+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7346-B",
+    "content" : "/rest/items/item_401432_2/component/file_401431/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f7e6f456bb183846e2abdfd4462e9769",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5878131,
+    "metadata" : {
+      "title" : "wanano_stenzel2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5878131
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

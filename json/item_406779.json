@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_406779",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-11T11:11:42.320+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-68A6-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-11T11:11:42.320+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9283-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:47:21.777+0000",
+  "latestRelease" : {
+    "objectId" : "item_406779",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T11:11:42.320+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-68A6-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406779",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T11:11:42.320+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-68A6-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A preliminary sketch of the Yaqui language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "John Alden",
+        "familyName" : "Mason",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1923",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "37437",
+      "type" : "OTHER"
+    }, {
+      "id" : "yaqui_mason1923_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "University of California Publications in American Archaeology and Ethnology",
+      "volume" : "20",
+      "startPage" : "195",
+      "endPage" : "212",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4526, LoC Subject Headings: Yaqui language",
+    "subjects" : [ {
+      "value" : "yaq - Yaqui",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "20 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406777",
+    "name" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=171",
+    "creationDate" : "2010-04-01T13:47:19.367+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=171",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "92a7545c60e01d70398b874d093bb7b3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=171",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of California, The George and Mary Forster Anthropology Library, AnthroHub, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406778",
+    "name" : "yaqui_mason1923_o.pdf",
+    "creationDate" : "2010-04-01T13:47:21.542+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9282-7",
+    "content" : "/rest/items/item_406779_3/component/file_406778/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ecd7037b94c67e09db52b382bed73088",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1598616,
+    "metadata" : {
+      "title" : "yaqui_mason1923_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1598616
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

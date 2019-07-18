@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_400019",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:55:41.899+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6AEF-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:55:41.899+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6AEF-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:38:36.858+0000",
+  "latestRelease" : {
+    "objectId" : "item_400019",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:55:41.899+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6AEF-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400019",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:55:41.899+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6AEF-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Tzotzil grammar",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Cowan, Marion M.",
+        "givenName" : "Marion M.",
+        "familyName" : "Cowan",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1969",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "742",
+      "type" : "OTHER"
+    }, {
+      "id" : "tzotzil_cowan1969_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "Microfiche ed.",
+      "place" : "Dallas",
+      "publisher" : "Summer Institute of Linguistics"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics",
+      "volume" : "18",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4466,\nLoC Subject Headings: Tzotzil language--Grammar",
+    "subjects" : [ {
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "2 MF"
+  },
+  "files" : [ {
+    "objectId" : "file_400017",
+    "name" : "http://www.ethnologue.com/show_work.asp?id=10472",
+    "creationDate" : "2010-04-01T10:38:35.631+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6AED-7",
+    "content" : "http://www.ethnologue.com/show_work.asp?id=10472",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "134038950a38131a5209d48ec6f7634b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ethnologue.com/show_work.asp?id=10472",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400018",
+    "name" : "tzotzil_cowan1969_o.pdf",
+    "creationDate" : "2010-04-01T10:38:36.349+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6AEE-5",
+    "content" : "/rest/items/item_400019_2/component/file_400018/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9c1632db2c8c5c5581c2972a8929c931",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4596859,
+    "metadata" : {
+      "title" : "tzotzil_cowan1969_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4596859
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

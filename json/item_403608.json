@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_403608",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-09-24T15:38:57.570+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-5662-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain",
+  "lastModificationDate" : "2013-09-24T15:38:57.570+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8084-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:20:36.217+0000",
+  "latestRelease" : {
+    "objectId" : "item_403608",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-09-24T15:38:57.570+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5662-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403608",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-09-24T15:38:57.570+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5662-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Sketch of grammar of the Chippeway language : to which is added a vocabulary of some of the most common words",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "John",
+        "familyName" : "Summerfield",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1834",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31430",
+      "type" : "OTHER"
+    }, {
+      "id" : "chippeway_sommerfield1834_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cazenovia",
+      "publisher" : "Fairchild & Son"
+    },
+    "freeKeywords" : "LoC Subject Headings: Chippewa language",
+    "subjects" : [ {
+      "value" : "ciw - Chippewa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "34 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM851,\nLoC Subject Headings: Chippewa language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403606",
+    "name" : "http://www.canadiana.org/ECO/ItemRecord/53753",
+    "creationDate" : "2010-04-01T12:20:35.095+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-5663-D",
+    "content" : "http://www.canadiana.org/ECO/ItemRecord/53753",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d96469bdc989d50236fa0c8b1b3d2042",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.canadiana.org/ECO/ItemRecord/53753",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403607",
+    "name" : "chippeway_sommerfield1834_o.pdf",
+    "creationDate" : "2010-04-01T12:20:35.863+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8083-7",
+    "content" : "/rest/items/item_403608_3/component/file_403607/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8b3634b66df1fb465d510da822a908d2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1697945,
+    "metadata" : {
+      "title" : "chippeway_sommerfield1834_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1697945
+    }
+  } ]
+}

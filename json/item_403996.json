@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_403996",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-03-13T00:12:46.550+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-716B-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T00:12:46.550+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8301-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:32:35.148+0000",
+  "latestRelease" : {
+    "objectId" : "item_403996",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-13T00:12:46.550+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-716B-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403996",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-13T00:12:46.550+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-716B-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Land- en Volkenkunde : tweede deel",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Nicolaus",
+        "familyName" : "Adriani",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Albertus Christiaan",
+        "familyName" : "Krujt"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1912",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "32114",
+      "type" : "OTHER"
+    }, {
+      "id" : "toradjas2_adriani1912.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "nld" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N.A.",
+      "publisher" : "N.A."
+    },
+    "sources" : [ {
+      "title" : "¬De¬ Bare'e-sprekende Toradja's van Midden-Celebes",
+      "volume" : "2",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Pamona language, LoC Subject Headings: Dutch language",
+    "subjects" : [ {
+      "value" : "pmf - Pamona",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "nld - Dutch",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "339 S.",
+    "abstracts" : [ {
+      "value" : "PL5233, ISO 639-3 : pmf , ISO 639-3 : nld  , Pamona language, Dutch language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403995",
+    "name" : "toradjas2_adriani1912.pdf",
+    "creationDate" : "2010-04-01T12:32:32.670+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8300-8",
+    "content" : "/rest/items/item_403996_6/component/file_403995/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "02398cf080887897256e8a264f225ecc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 26379622,
+    "metadata" : {
+      "title" : "toradjas2_adriani1912.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 26379622,
+      "copyrightDate" : "2010-12-01",
+      "rights" : "not in copyright; Adriani, Nicolaus 1865-1926"
+    }
+  } ]
+}

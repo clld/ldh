@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_403956",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-02T08:14:14.919+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-D7D4-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz akutalisiert",
+  "lastModificationDate" : "2014-07-02T08:14:14.919+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-82C1-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:30:56.019+0000",
+  "latestRelease" : {
+    "objectId" : "item_403956",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-02T08:14:14.919+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D7D4-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403956",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-02T08:14:14.919+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D7D4-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A reconstruction of the Proto-Rutara tense/aspect system",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Henry R. T.",
+        "familyName" : "Muzale",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1998",
+    "datePublishedInPrint" : "1998",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32074",
+      "type" : "OTHER"
+    }, {
+      "id" : "rutara_muzale1998_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Ottawa",
+      "publisher" : "National Library of Canada = Bibliothèque nationale du Canada"
+    },
+    "freeKeywords" : "LoC Class: PM7802,\nLoC Subject Headings: Bantu languages",
+    "totalNumberOfPages" : "xix, 347 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM7802,\nLoC Subject Headings: Bantu languages--Dialects"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403955",
+    "name" : "rutara_muzale1998_s.pdf",
+    "creationDate" : "2010-04-01T12:30:53.962+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-82C0-F",
+    "content" : "/rest/items/item_403956_3/component/file_403955/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d9a25c73db787b688d969eb4c45f3a98",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 21483226,
+    "metadata" : {
+      "title" : "rutara_muzale1998_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 21483226
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2036575",
+    "name" : "http://www.nlc-bnc.ca/obj/s4/f2/dsk2/tape15/PQDD_0012/NQ36209.pdf",
+    "creationDate" : "2014-07-02T08:08:26.029+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-D7D7-B",
+    "content" : "http://www.nlc-bnc.ca/obj/s4/f2/dsk2/tape15/PQDD_0012/NQ36209.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "85f41091b67427a30a7118efe87a4e75",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.nlc-bnc.ca/obj/s4/f2/dsk2/tape15/PQDD_0012/NQ36209.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "Library and Archives Canada, Collections Canada, Theses, pdf",
+      "size" : 0
+    }
+  } ]
+}

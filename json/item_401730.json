@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_401730",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:32:56.644+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7503-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:32:56.644+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7503-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:17:39.761+0000",
+  "latestRelease" : {
+    "objectId" : "item_401730",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:32:56.644+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7503-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401730",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:32:56.644+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7503-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Fonologia e morfologia da língua kaingáng : o dialeto de São Paulo comparado com o do Paraná",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Cavalcante, Marita Pôrto",
+        "givenName" : "Marita Pôrto",
+        "familyName" : "Cavalcante",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1987",
+    "datePublishedInPrint" : "1987",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "27728",
+      "type" : "OTHER"
+    }, {
+      "id" : "parana_cavalcante1987_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM6276,\nLoC Subject Headings: Kaingang language",
+    "subjects" : [ {
+      "value" : "kgp - Kaingáng",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "144 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401728",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000048252",
+    "creationDate" : "2010-04-01T11:17:38.553+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7501-6",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000048252",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "282efcabf25b2fbbdd6a0122a6ea68b1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000048252",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401729",
+    "name" : "parana_cavalcante1987_o.pdf",
+    "creationDate" : "2010-04-01T11:17:39.254+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7502-4",
+    "content" : "/rest/items/item_401730_2/component/file_401729/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c325c1fbeef315db4e6d75b88beb11f8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4537813,
+    "metadata" : {
+      "title" : "parana_cavalcante1987_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4537813
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

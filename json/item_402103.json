@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_402103",
+  "versionNumber" : 4,
+  "modificationDate" : "2013-04-11T12:17:52.944+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7732-2",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "message" : "Band und Startseite erg.",
+  "lastModificationDate" : "2013-04-11T12:17:52.944+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-772F-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:25:52.904+0000",
+  "latestRelease" : {
+    "objectId" : "item_402103",
+    "versionNumber" : 4,
+    "modificationDate" : "2013-04-11T12:17:52.944+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7732-2",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402103",
+    "versionNumber" : 4,
+    "modificationDate" : "2013-04-11T12:17:52.944+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7732-2",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A conjução Nhu~m na Narrativa Apinajé",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Helen E.",
+        "familyName" : "Waller",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1976",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "29146",
+      "type" : "OTHER"
+    }, {
+      "id" : "apinaje_waller1976_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "sources" : [ {
+      "title" : "Série Lingüística",
+      "volume" : "5",
+      "startPage" : "7",
+      "endPage" : "30",
+      "publishingInfo" : {
+        "place" : "Brasília",
+        "publisher" : "N.A."
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5433,\nLoC Subject Headings: Apinage language",
+    "subjects" : [ {
+      "value" : "apn - Apinayé",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402101",
+    "name" : "http://www.sil.org/americas/brasil/PUBLCNS/LING/AYNhum.pdf",
+    "creationDate" : "2010-04-01T11:25:50.489+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-772D-0",
+    "content" : "http://www.sil.org/americas/brasil/PUBLCNS/LING/AYNhum.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b85890dcddf4f989f35beec54437ba21",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/brasil/PUBLCNS/LING/AYNhum.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402102",
+    "name" : "apinaje_waller1976_s.pdf",
+    "creationDate" : "2010-04-01T11:25:52.779+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-772E-E",
+    "content" : "/rest/items/item_402103_4/component/file_402102/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b85890dcddf4f989f35beec54437ba21",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 416893,
+    "metadata" : {
+      "title" : "apinaje_waller1976_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 416893
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

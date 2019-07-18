@@ -1,0 +1,119 @@
+{
+  "objectId" : "item_403559",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-12T23:19:56.143+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70FC-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T23:19:56.143+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-801B-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:41.228+0000",
+  "latestRelease" : {
+    "objectId" : "item_403559",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T23:19:56.143+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70FC-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403559",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T23:19:56.143+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70FC-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The noun class system of Oku",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Agnes Mbibeh",
+        "familyName" : "Yensi ",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1996",
+    "datePublishedInPrint" : "1996",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31393",
+      "type" : "OTHER"
+    }, {
+      "id" : "oku_yensi1996_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Yaoundé",
+      "publisher" : "Universite de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon--Languages, LoC Subject Headings: Oku language",
+    "subjects" : [ {
+      "value" : "oku - Oku",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xi, 134 S.",
+    "abstracts" : [ {
+      "value" : "PL8219, ISO 639-3 : oku, Cameroon--Languages, Oku language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403558",
+    "name" : "oku_yensi1996_o.pdf",
+    "creationDate" : "2010-04-01T12:19:40.513+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-801A-8",
+    "content" : "/rest/items/item_403559_5/component/file_403558/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "44b4f3400fab6649fa368ad4afb6f628",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6667227,
+    "metadata" : {
+      "title" : "oku_yensi1996_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6667227,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

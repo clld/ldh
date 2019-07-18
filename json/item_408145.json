@@ -1,0 +1,146 @@
+{
+  "objectId" : "item_408145",
+  "versionNumber" : 6,
+  "modificationDate" : "2011-05-31T09:54:18.735+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9A22-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:54:18.735+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9A22-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:30:51.888+0000",
+  "latestRelease" : {
+    "objectId" : "item_408145",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T09:54:18.735+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9A22-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408145",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T09:54:18.735+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9A22-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Sarsi texts",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Pliny Earle",
+        "familyName" : "Goddard",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1915",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "42414",
+      "type" : "OTHER"
+    }, {
+      "id" : "sarsi_goddard1915_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Berkeley",
+      "publisher" : "Univ. of California Press"
+    },
+    "sources" : [ {
+      "title" : "University of California publications in\nAmerican archaeology and ethnology",
+      "alternativeTitles" : [ {
+        "value" : "University of California publications in American archaeology and ethnology"
+      } ],
+      "volume" : "11.3",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Sarsi language",
+    "subjects" : [ {
+      "value" : "srs - Sarsi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "p.189-277",
+    "abstracts" : [ {
+      "value" : "PM 2275, ISO 639-3 : srs, Folklore, Indians of North America, Indians of North America -- Folklore, Indians of North America -- Legends, Legends, Sarsi Indians, Sarsi language, Sarsi language -- Texts, Texts"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_408143",
+    "name" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=182",
+    "creationDate" : "2010-04-01T14:30:50.184+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9A20-5",
+    "content" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=182",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "45092587fc0edded21a014ef83850f9c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=182",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408144",
+    "name" : "sarsi_goddard1915_o.pdf",
+    "creationDate" : "2010-04-01T14:30:51.185+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9A21-3",
+    "content" : "/rest/items/item_408145_6/component/file_408144/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "318ab0c06150473d5685832d9f09eb99",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6996830,
+    "metadata" : {
+      "title" : "sarsi_goddard1915_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6996830,
+      "copyrightDate" : "2010-11-18",
+      "rights" : "public domain, Pliny Earl Goddard 1869-1928"
+    }
+  } ]
+}

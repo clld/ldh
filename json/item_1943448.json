@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_1943448",
+  "versionNumber" : 2,
+  "modificationDate" : "2015-01-16T11:05:50.710+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-9224-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-01-16T11:05:50.710+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0015-87AD-9",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-03-11T09:36:31.228+0000",
+  "latestRelease" : {
+    "objectId" : "item_1943448",
+    "versionNumber" : 2,
+    "modificationDate" : "2015-01-16T11:05:50.710+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-9224-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_1943448",
+    "versionNumber" : 2,
+    "modificationDate" : "2015-01-16T11:05:50.710+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-9224-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Historical and statistical Information, respecting the History, Condition and Prospects of the Indian Tribes of the United States [Volume 3] : coll. and prepared under the direction of the Bureau of Indian Affairs per act of Congress of march 3rd 1847 ",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Henry Rowe",
+        "familyName" : "Schoolcraft",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1853",
+    "genre" : "MONOGRAPH",
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Philadelphia",
+      "publisher" : "Lippincott"
+    },
+    "freeKeywords" : "LoC Subject Headings: Indians of North America, LoC Subject Headings: Delaware language, LoC Class: E77",
+    "subjects" : [ {
+      "value" : "del - Delaware",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "635 S., 39 Bl. : Ill., Kt. ",
+    "abstracts" : [ {
+      "value" : "Chapter IX Language (p. 397-462): Includes several articles about classification, principles and vocabulary lists of Indian languages (Northwest California, West of Mississippi, Pimo Indians), e.g.: \nMadison, James: vocabulary of Delaware, p. 424-427\n\n"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_1943446",
+    "name" : "indiantribes_schoolcraft1853_vol3_s.pdf",
+    "creationDate" : "2014-03-11T09:36:25.978+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0015-87B2-C",
+    "content" : "/rest/items/item_1943448_2/component/file_1943446/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7b438f9f7930b0faa920cac8c76649f6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 312021748,
+    "metadata" : {
+      "title" : "indiantribes_schoolcraft1853_vol3_s.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Vol. 3",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 312021748,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_1943447",
+    "name" : "http://reader.digitale-sammlungen.de/resolve/display/bsb10220586.html",
+    "creationDate" : "2014-03-11T09:36:30.353+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://reader.digitale-sammlungen.de/resolve/display/bsb10220586.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "cedc529e48335926d8f0f8ca6b97aee9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://reader.digitale-sammlungen.de/resolve/display/bsb10220586.html",
+      "contentCategory" : "publisher-version",
+      "description" : "Vol. 3",
+      "size" : 0
+    }
+  } ]
+}

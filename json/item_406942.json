@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_406942",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:05:03.530+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-937B-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:05:03.530+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-937B-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:50:50.037+0000",
+  "latestRelease" : {
+    "objectId" : "item_406942",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:05:03.530+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-937B-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406942",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:05:03.530+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-937B-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A phonological study of pa-o (Taungthu) at ban huay salop, tambqn huay pha, muang district, mae hong son province",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Thanamteun, Orranat",
+        "givenName" : "Orranat",
+        "familyName" : "Thanamteun",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37527",
+      "type" : "OTHER"
+    }, {
+      "id" : "taungthu_orranat2000_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "974-664-316-9",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Bangkok",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PL4054.Z9S5,\nLoC Subject Headings: Karen languages",
+    "subjects" : [ {
+      "value" : "blk - Pa'o Karen",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XII, 154 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406940",
+    "name" : "http://archives.sealang.net/mahidol",
+    "creationDate" : "2010-04-01T13:50:49.312+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9379-6",
+    "content" : "http://archives.sealang.net/mahidol",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b90f0b74e428eb7d24c3f080c1c10bb4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://archives.sealang.net/mahidol",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406941",
+    "name" : "taungthu_orranat2000_o.pdf",
+    "creationDate" : "2010-04-01T13:50:49.576+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-937A-4",
+    "content" : "/rest/items/item_406942_2/component/file_406941/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "74cccf408e4446b799d8868286659cdb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4036801,
+    "metadata" : {
+      "title" : "taungthu_orranat2000_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4036801
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

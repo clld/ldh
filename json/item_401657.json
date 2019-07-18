@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_401657",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-28T10:27:42.992+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0027-76B2-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-28T10:27:42.992+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7496-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:16:06.728+0000",
+  "latestRelease" : {
+    "objectId" : "item_401657",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-28T10:27:42.992+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0027-76B2-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401657",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-28T10:27:42.992+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0027-76B2-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammatical relations in Ktunaxa (Kutenai)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Matthew S.",
+        "familyName" : "Dryer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "27487",
+      "type" : "OTHER"
+    }, {
+      "id" : "ktunaxa_dryer1996_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Winnipeg",
+      "publisher" : "Voices of Rupert's Land"
+    },
+    "freeKeywords" : "LoC Class: PM1631, LoC Subject Headings: Kootenai language\n",
+    "subjects" : [ {
+      "value" : "kut - Kutenai",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "43 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401656",
+    "name" : "ktunaxa_dryer1996_o.pdf",
+    "creationDate" : "2010-04-01T11:16:06.506+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7495-F",
+    "content" : "/rest/items/item_401657_4/component/file_401656/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e110c8afc15ddaf4a159351fd4ae7071",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1743985,
+    "metadata" : {
+      "title" : "ktunaxa_dryer1996_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1743985
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2155706",
+    "name" : "http://linguistics.buffalo.edu/people/faculty/dryer/dryer/gramRelations.htm",
+    "creationDate" : "2015-05-13T12:24:11.880+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://linguistics.buffalo.edu/people/faculty/dryer/dryer/gramRelations.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e7d5ce13b005d714722698bc44096061",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://linguistics.buffalo.edu/people/faculty/dryer/dryer/gramRelations.htm",
+      "contentCategory" : "publisher-version",
+      "description" : "The State Univ. of New York at Buffalo, Dep. of Linguistics, Matthew S. Dryer: Papers on Grammatical Relations, pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_403211",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-05-13T09:43:52.602+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CD4E-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Titel korrigiert",
+  "lastModificationDate" : "2015-05-13T09:43:52.602+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7DC0-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:04:21.959+0000",
+  "latestRelease" : {
+    "objectId" : "item_403211",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-05-13T09:43:52.602+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD4E-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403211",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-05-13T09:43:52.602+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD4E-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The phonetics and phonology of tone and intonation in Japanese",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "William John",
+        "familyName" : "Poser",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1985",
+    "datePublishedInPrint" : "1985",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31080",
+      "type" : "OTHER"
+    }, {
+      "id" : "japanese_poser1984_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: PL540, LoC Subject Headings: Japanese language",
+    "subjects" : [ {
+      "value" : "jpn - Japanese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "374 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403210",
+    "name" : "japanese_poser1984_o.pdf",
+    "creationDate" : "2010-04-01T12:04:19.742+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7DBF-9",
+    "content" : "/rest/items/item_403211_5/component/file_403210/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b3ab07dabdb6e334bd461d91b6304c2b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 23541768,
+    "metadata" : {
+      "title" : "japanese_poser1984_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 23541768
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2154496",
+    "name" : "http://hdl.handle.net/1721.1/15169",
+    "creationDate" : "2015-05-13T09:41:53.310+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/15169",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b19f44ab41461ba7999bcbd43054b31a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/15169",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

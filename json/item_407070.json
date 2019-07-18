@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_407070",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-07T09:59:45.678+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A874-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-07T09:59:45.678+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9438-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:53:42.273+0000",
+  "latestRelease" : {
+    "objectId" : "item_407070",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-07T09:59:45.678+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A874-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407070",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-07T09:59:45.678+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A874-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The syntax and semantics of clause-typing in Plains Cree",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Clare Elizabeth",
+        "familyName" : "Cook",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37625",
+      "type" : "OTHER"
+    }, {
+      "id" : "plainscree_cook2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Vancouver",
+      "publisher" : "Univ. of British Columbia"
+    },
+    "freeKeywords" : "LoC Class: PM987, LoC Subject Headings: Cree language",
+    "subjects" : [ {
+      "value" : "crk - Plains Cree",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xvii, 363 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM987, LoC Subject Headings: Cree language--Syntax"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407069",
+    "name" : "plainscree_cook2008_s.pdf",
+    "creationDate" : "2010-04-01T13:53:41.714+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9437-1",
+    "content" : "/rest/items/item_407070_4/component/file_407069/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "abf651a9dee993918284ed865d18a730",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5115483,
+    "metadata" : {
+      "title" : "plainscree_cook2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5115483
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2129386",
+    "name" : "http://hdl.handle.net/2429/951",
+    "creationDate" : "2015-04-07T09:59:16.911+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/2429/951",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "43664330897efdbe6902f54e2f1fb627",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/2429/951",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of British Columbia, CIRCLE, pdf download",
+      "size" : 0
+    }
+  } ]
+}

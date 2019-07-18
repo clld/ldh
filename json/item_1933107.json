@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_1933107",
+  "versionNumber" : 2,
+  "modificationDate" : "2015-01-13T16:11:21.916+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-763E-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-01-13T16:11:21.916+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0015-3EF4-9",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-02-20T09:54:58.280+0000",
+  "latestRelease" : {
+    "objectId" : "item_1933107",
+    "versionNumber" : 2,
+    "modificationDate" : "2015-01-13T16:11:21.916+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-763E-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_1933107",
+    "versionNumber" : 2,
+    "modificationDate" : "2015-01-13T16:11:21.916+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-763E-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "A Tutelo Vocabulary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Edward",
+        "familyName" : "Sapir",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1913",
+    "genre" : "ARTICLE",
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "American Anthropologist, New Series",
+      "volume" : "15",
+      "issue" : "2 (Apr. - Jun., 1913)",
+      "startPage" : "295",
+      "endPage" : "297",
+      "publishingInfo" : {
+        "place" : "Malden, Mass. [u.a.]",
+        "publisher" : "Wiley-Blackwell"
+      },
+      "identifiers" : [ {
+        "id" : "0002-7294",
+        "type" : "ISSN"
+      } ],
+      "genre" : "JOURNAL"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Tutelo language, LoC Class: PM2507",
+    "subjects" : [ {
+      "value" : "tta - Tutelo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "3 S.",
+    "abstracts" : [ {
+      "value" : "LoC Subject Headings: Tutelo language--Glossaries, vocabularies, etc.\nLoC Class: PM2507"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_1933105",
+    "name" : "Sapir_Tutelo1913.pdf",
+    "creationDate" : "2014-02-20T09:54:57.986+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0015-3EF6-5",
+    "content" : "/rest/items/item_1933107_2/component/file_1933105/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4810d6a21c684cad3888b0e2f64e2e2b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 224008,
+    "metadata" : {
+      "title" : "Sapir_Tutelo1913.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 224008,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_1933106",
+    "name" : "http://www.jstor.org/stable/659671",
+    "creationDate" : "2014-02-20T09:54:58.117+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.jstor.org/stable/659671",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e81b3421168f3a12eb5923bfd30d210c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.jstor.org/stable/659671",
+      "contentCategory" : "publisher-version",
+      "description" : "JStor, American Anthropologist, pdf & view online",
+      "size" : 0
+    }
+  } ]
+}

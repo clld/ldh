@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_405466",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-07-08T10:53:15.321+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-DD04-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "URN ergänzt",
+  "lastModificationDate" : "2014-07-08T10:53:15.321+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B48-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:13:26.828+0000",
+  "latestRelease" : {
+    "objectId" : "item_405466",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-08T10:53:15.321+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DD04-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405466",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-08T10:53:15.321+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DD04-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Nachbarschaften im semantischen Raum",
+    "alternativeTitles" : [ {
+      "value" : "Neighborhoods in semantic space",
+      "type" : "OTHER"
+    } ],
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Armin",
+        "familyName" : "Wegner",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34967",
+      "type" : "OTHER"
+    }, {
+      "id" : "semantischen_wegner2006_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "urn:nbn:de:hbz:385-3732",
+      "type" : "URN"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "place" : "Trier",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: P325,\nLoC Subject Headings: Semantics",
+    "totalNumberOfPages" : "XVI, 194 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405465",
+    "name" : "semantischen_wegner2006_s.pdf",
+    "creationDate" : "2010-04-01T13:13:26.601+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B47-4",
+    "content" : "/rest/items/item_405466_4/component/file_405465/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2485bcff534942f633551b2e8e4e153b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1486085,
+    "metadata" : {
+      "title" : "semantischen_wegner2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1486085
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2039465",
+    "name" : "http://ubt.opus.hbz-nrw.de/volltexte/2006/373/",
+    "creationDate" : "2014-07-08T10:37:37.746+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-DCEA-6",
+    "content" : "http://ubt.opus.hbz-nrw.de/volltexte/2006/373/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b74276799f1558f85041c98a37572166",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://ubt.opus.hbz-nrw.de/volltexte/2006/373/",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. Trier, online publication server OPUS, pdf",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,120 @@
+{
+  "objectId" : "item_403406",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-06-06T07:32:34.626+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7EE3-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:32:34.626+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7EE3-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:17:51.568+0000",
+  "latestRelease" : {
+    "objectId" : "item_403406",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:32:34.626+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7EE3-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403406",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:32:34.626+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7EE3-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Nominal phonological processes in Babanki",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Wuchu, Akumbu Pius",
+        "givenName" : "Akumbu Pius",
+        "familyName" : "Wuchu",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1999",
+    "datePublishedInPrint" : "1999",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31215",
+      "type" : "OTHER"
+    }, {
+      "id" : "babanki_akumbu1999_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Yaoundé",
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon --Languages",
+    "subjects" : [ {
+      "value" : "bbk - Babanki",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "x, 92 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : bbk, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403405",
+    "name" : "babanki_akumbu1999_o.pdf",
+    "creationDate" : "2010-04-01T12:17:51.299+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7EE2-4",
+    "content" : "/rest/items/item_403406_3/component/file_403405/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "051ef1e763d09e399b9ecaf668ed98b5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2394143,
+    "metadata" : {
+      "title" : "babanki_akumbu1999_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2394143,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

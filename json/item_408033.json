@@ -1,0 +1,145 @@
+{
+  "objectId" : "item_408033",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T23:13:30.003+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70E5-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T23:13:30.003+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-997B-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:28:14.032+0000",
+  "latestRelease" : {
+    "objectId" : "item_408033",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T23:13:30.003+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70E5-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408033",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T23:13:30.003+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70E5-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulario popoluca de Sayula (Veracruz, México)",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Clark, Lawrence E.",
+        "givenName" : "Lawrence E.",
+        "familyName" : "Clark",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1995",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "42273",
+      "type" : "OTHER"
+    }, {
+      "id" : "sayula_clark1995_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Tucson, Ariz.",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie de Vocabularios y Diccionarios Indígenas Mariano Silva y Aceves",
+      "alternativeTitles" : [ {
+        "value" : "Serie de vocabularios y diccionarios indígenas Mariano Silva y Aceves"
+      } ],
+      "volume" : "104",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4207.Z5, LoC Subject Headings: Sierra Popoluca language -- Dictionaries -- Spanish, LoC Subject Headings: Spanish language -- Dictionaries -- Sierra Popoluca language",
+    "subjects" : [ {
+      "value" : "pos - Sayula Popoluca",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 110 S.."
+  },
+  "files" : [ {
+    "objectId" : "file_408031",
+    "name" : "http://www.sil.org/mexico/mixe/popoluca%2Dsayula/s104%2Dvocabulario%2Dpos.htm",
+    "creationDate" : "2010-04-01T14:28:13.713+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/mexico/mixe/popoluca%2Dsayula/s104%2Dvocabulario%2Dpos.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "297a7ae3990b171a443cef19567bd07c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/mexico/mixe/popoluca%2Dsayula/s104%2Dvocabulario%2Dpos.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408032",
+    "name" : "sayula_clark1995_s.pdf",
+    "creationDate" : "2010-04-01T14:28:13.895+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-997A-1",
+    "content" : "/rest/items/item_408033_3/component/file_408032/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "54cdde12af29aeb67e79796760693344",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 793357,
+    "metadata" : {
+      "title" : "sayula_clark1995_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 793357
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,154 @@
+{
+  "objectId" : "item_401642",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T09:44:16.784+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7478-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:44:16.784+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7478-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:15:45.317+0000",
+  "latestRelease" : {
+    "objectId" : "item_401642",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T09:44:16.784+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7478-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401642",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T09:44:16.784+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7478-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Contraintes de structures et liberté dans l'organisation du discours : une description du mwotlap, langue océanienne du Vanuatu",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "François, Alexandre",
+        "givenName" : "Alexandre",
+        "familyName" : "François",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedInPrint" : "2001",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "27293",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "place" : "Paris",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Subject Headings: Vanuatu--Languages",
+    "subjects" : [ {
+      "value" : "mlv - Motlav",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "1075 (III vols in I)",
+    "abstracts" : [ {
+      "value" : "PL6211.V26, ISO 639-3 : mlv, Vanuatu--Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401641",
+    "name" : "mwotlap_francois2001_s.pdf",
+    "creationDate" : "2010-04-01T11:15:44.262+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7477-4",
+    "content" : "/rest/items/item_401642_4/component/file_401641/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3972989ae538adcbc4c6260f30e713f3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10808801,
+    "metadata" : {
+      "title" : "mwotlap_francois2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10808801,
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_446011",
+    "name" : "http://alex.francois.free.fr/AFpub_books_e.htm",
+    "creationDate" : "2010-06-03T07:08:14.131+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://alex.francois.free.fr/AFpub_books_e.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b8196853f28382bef16e0443fc44df14",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://alex.francois.free.fr/AFpub_books_e.htm",
+      "contentCategory" : "publisher-version",
+      "description" : "Homepage Alexandre François",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_446012",
+    "name" : "http://alex.francois.free.fr/data/AlexFrancoisResCourt.pdf",
+    "creationDate" : "2010-06-03T07:08:14.381+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://alex.francois.free.fr/data/AlexFrancoisResCourt.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "df6eb09329ec0990d04f0952feb271ca",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://alex.francois.free.fr/data/AlexFrancoisResCourt.pdf",
+      "contentCategory" : "abstract",
+      "description" : "Abstract",
+      "size" : 0
+    }
+  } ]
+}

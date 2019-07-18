@@ -1,0 +1,158 @@
+{
+  "objectId" : "item_378404",
+  "versionNumber" : 9,
+  "modificationDate" : "2015-04-07T08:40:37.930+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A80A-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-07T08:40:37.930+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-678F-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-03-05T19:10:32.345+0000",
+  "latestRelease" : {
+    "objectId" : "item_378404",
+    "versionNumber" : 9,
+    "modificationDate" : "2015-04-07T08:40:37.930+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A80A-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_378404",
+    "versionNumber" : 9,
+    "modificationDate" : "2015-04-07T08:40:37.930+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A80A-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "Linglit Import 3 2010-03-05 17:04" ],
+  "metadata" : {
+    "title" : "Eighteenth-century Cholón",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Astrid",
+        "familyName" : "Alexander-Bakkerus",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29779",
+      "type" : "OTHER"
+    }, {
+      "id" : "cholon_alexander2005_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "90-76864-86-1",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "sources" : [ {
+      "title" : "LOT Dissertation Series ",
+      "creators" : [ {
+        "organization" : {
+          "identifier" : "ou_persistent22",
+          "name" : "Landelijke Onderzoekschool Taalwetenschap <Utrecht>",
+          "identifierPath" : [ "ou_persistent22" ]
+        },
+        "role" : "EDITOR",
+        "type" : "ORGANIZATION"
+      } ],
+      "volume" : "120",
+      "publishingInfo" : {
+        "place" : "Utrecht",
+        "publisher" : "LOT"
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5816.C6, LoC Subject Headings: Cholon language",
+    "subjects" : [ {
+      "value" : "cht - Cholón",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "533 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5816.C6, LoC Subject Headings: Cholon language--History"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_378403",
+    "name" : "cholon_alexander2005_s.pdf",
+    "creationDate" : "2010-03-05T19:10:32.106+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-678E-A",
+    "content" : "/rest/items/item_378404_9/component/file_378403/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "64d176002b5ae3d54fab069b3db80f9e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2077040,
+    "metadata" : {
+      "title" : "cholon_alexander2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2077040,
+      "copyrightDate" : "2009-11-12",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_2129340",
+    "name" : "http://hdl.handle.net/1887/3772",
+    "creationDate" : "2015-04-07T08:39:34.701+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1887/3772",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d20ebd8f04a76207bf38023de2947a49",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1887/3772",
+      "contentCategory" : "publisher-version",
+      "description" : "Leiden Univ., Repository, pdf download",
+      "size" : 0
+    }
+  } ]
+}

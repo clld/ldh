@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_400921",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-04-11T13:02:56.207+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7055-1",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "message" : "EJ ergänzt",
+  "lastModificationDate" : "2013-04-11T13:02:56.207+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7053-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:00:37.667+0000",
+  "latestRelease" : {
+    "objectId" : "item_400921",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-04-11T13:02:56.207+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7055-1",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400921",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-04-11T13:02:56.207+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7055-1",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Los números del mixteco antiguo : mixteco de Magdalena Peñasco",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Fernando",
+        "familyName" : "Hollenbach F.",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Elena Erickson de",
+        "familyName" : "Hollenbach"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1999",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "24693",
+      "type" : "OTHER"
+    }, {
+      "id" : "mixteco_hollenbach1999_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "sources" : [ {
+      "title" : "SIL online",
+      "startPage" : "1",
+      "endPage" : "8",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4017,\nLoC Subject Headings: Mixtec languages --Texts",
+    "subjects" : [ {
+      "value" : "xtm - Mixtec, Magdalena Peñasco",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400919",
+    "name" : "mixteco_hollenbach1999_s.pdf",
+    "creationDate" : "2010-04-01T11:00:37.402+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7051-9",
+    "content" : "/rest/items/item_400921_3/component/file_400919/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "bdf55ef52f33e55e37b4e7d851c38b2c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 139281,
+    "metadata" : {
+      "title" : "mixteco_hollenbach1999_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 139281
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_400920",
+    "name" : "http://www.sil.org/mexico/mixteca/magdalena-penyasco/G016-Numeros-QMP.htm",
+    "creationDate" : "2010-04-01T11:00:37.466+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7052-7",
+    "content" : "http://www.sil.org/mexico/mixteca/magdalena-penyasco/G016-Numeros-QMP.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "954d5e8371c3495c6a417374741dea82",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/mexico/mixteca/magdalena-penyasco/G016-Numeros-QMP.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  } ]
+}

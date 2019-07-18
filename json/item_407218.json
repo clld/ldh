@@ -1,0 +1,152 @@
+{
+  "objectId" : "item_407218",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-17T09:07:03.941+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B790-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-17T09:07:03.941+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9507-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:01:58.970+0000",
+  "latestRelease" : {
+    "objectId" : "item_407218",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-17T09:07:03.941+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B790-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407218",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-17T09:07:03.941+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B790-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A synopsis of English syntax",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Eugene Albert",
+        "familyName" : "Nida",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Benjamin",
+        "familyName" : "Elson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1962",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37823",
+      "type" : "OTHER"
+    }, {
+      "id" : "english_nida1960_o.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "edition" : "[2d ed.]",
+      "place" : "Norman, Okla",
+      "publisher" : "SIL of the Univ. of Oklahoma"
+    },
+    "sources" : [ {
+      "title" : "A publication of the Summer Institute of Linguistics of the University of Oklahoma / Linguistic series",
+      "volume" : "4",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PE1365, LoC Subject Headings: English language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "lxviii, 233 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PE1365,\nLoC Subject Headings: English language--Syntax"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407217",
+    "name" : "english_nida1960_o.pdf",
+    "creationDate" : "2010-04-01T14:01:58.391+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9506-5",
+    "content" : "/rest/items/item_407218_3/component/file_407217/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fc86996cfa02263140160f53f83c073a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5506270,
+    "metadata" : {
+      "title" : "english_nida1960_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5506270
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147046",
+    "name" : "http://www.sil.org/resources/archives/8670",
+    "creationDate" : "2015-04-17T09:06:43.856+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/8670",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e1b9c69ec98567247c0c0df98fda9d10",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/8670",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Archive, pdf download",
+      "size" : 0
+    }
+  } ]
+}

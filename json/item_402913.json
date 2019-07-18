@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_402913",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:04:02.696+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7BF3-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:04:02.696+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7BF3-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:47:45.755+0000",
+  "latestRelease" : {
+    "objectId" : "item_402913",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:04:02.696+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7BF3-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402913",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:04:02.696+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7BF3-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Kamasau language pesky particles",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Joy",
+        "familyName" : "Sanders",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Arden",
+        "familyName" : "Sanders"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1994",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30744",
+      "type" : "OTHER"
+    }, {
+      "id" : "kamasau_sanders1994b_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[s.l.]",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL6621.K12,\nLoC Subject Headings: Kamasau language",
+    "subjects" : [ {
+      "value" : "kms - Kamasau",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "20 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402911",
+    "name" : "http://www.sil.org/pacific/png/pubs/0000187/Kamasu%20Language%20Pesky%20Particles.pdf",
+    "creationDate" : "2010-04-01T11:47:44.372+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7BF1-5",
+    "content" : "http://www.sil.org/pacific/png/pubs/0000187/Kamasu%20Language%20Pesky%20Particles.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/pacific/png/pubs/0000187/Kamasu%20Language%20Pesky%20Particles.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402912",
+    "name" : "kamasau_sanders1994b_s.pdf",
+    "creationDate" : "2010-04-01T11:47:45.683+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7BF2-3",
+    "content" : "/rest/items/item_402913_2/component/file_402912/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "cd74f80f683fcc07367c3dd4a4d22e29",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 245853,
+    "metadata" : {
+      "title" : "kamasau_sanders1994b_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 245853
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

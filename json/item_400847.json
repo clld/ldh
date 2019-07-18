@@ -1,0 +1,127 @@
+{
+  "objectId" : "item_400847",
+  "versionNumber" : 6,
+  "modificationDate" : "2014-03-19T10:40:15.582+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0017-E971-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2014-03-19T10:40:15.582+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6FE9-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:59:48.444+0000",
+  "latestRelease" : {
+    "objectId" : "item_400847",
+    "versionNumber" : 6,
+    "modificationDate" : "2014-03-19T10:40:15.582+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0017-E971-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400847",
+    "versionNumber" : 6,
+    "modificationDate" : "2014-03-19T10:40:15.582+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0017-E971-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Muyang phonology",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Tony",
+        "familyName" : "Smith",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1999",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "24343",
+      "type" : "OTHER"
+    }, {
+      "id" : "muyang_smith1999_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "freeKeywords" : "LoC Subject Headings: Muyang language--Phonology\nLoC Class: PL8535",
+    "subjects" : [ {
+      "value" : "muy - Muyang",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "53 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400846",
+    "name" : "muyang_smith1999_o.pdf",
+    "creationDate" : "2010-04-01T10:59:48.164+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6FE8-B",
+    "content" : "/rest/items/item_400847_6/component/file_400846/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1b2069802720ff81a02d28c4f306f303",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2297364,
+    "metadata" : {
+      "title" : "muyang_smith1999_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2297364
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_1950096",
+    "name" : "http://www.silcam.org/languages/languagepage.php?languageid=200",
+    "creationDate" : "2014-03-19T10:39:17.399+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0017-E97A-1",
+    "content" : "http://www.silcam.org/languages/languagepage.php?languageid=200",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6fbfb98e9c1b588776c7b607dbcd1bb6",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.silcam.org/languages/languagepage.php?languageid=200",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  } ]
+}

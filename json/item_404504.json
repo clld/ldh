@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_404504",
+  "versionNumber" : 6,
+  "modificationDate" : "2011-05-31T09:32:35.924+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-85DA-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:32:35.924+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-85DA-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:42:37.830+0000",
+  "latestRelease" : {
+    "objectId" : "item_404504",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T09:32:35.924+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-85DA-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404504",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T09:32:35.924+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-85DA-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammatical notices of the Burmese language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "A.",
+        "familyName" : "Judson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1842",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "33336",
+      "type" : "OTHER"
+    }, {
+      "id" : "burmese_judson1842_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Maulmain",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Subject Headings: Burmese language",
+    "subjects" : [ {
+      "type" : "ISO639_3"
+    }, {
+      "value" : "mya - Burmese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "76 S.",
+    "abstracts" : [ {
+      "value" : "PL3928, ISO 639-3 : mya, Burmese language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404502",
+    "name" : "http://tinyurl.com/64ybra",
+    "creationDate" : "2010-04-01T12:42:36.697+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-85D8-E",
+    "content" : "http://tinyurl.com/64ybra",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "060523a0bf441d47afeecd4249153934",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://tinyurl.com/64ybra",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404503",
+    "name" : "burmese_judson1842_o.pdf",
+    "creationDate" : "2010-04-01T12:42:37.563+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-85D9-C",
+    "content" : "/rest/items/item_404504_6/component/file_404503/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fdd86f0e0daa19334d422ae63a254823",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2252301,
+    "metadata" : {
+      "title" : "burmese_judson1842_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2252301,
+      "copyrightDate" : "2010-11-18",
+      "rights" : "public domain, A. Judson "
+    }
+  } ]
+}

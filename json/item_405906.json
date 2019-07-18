@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_405906",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-10-02T11:04:13.914+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-5DBD-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain",
+  "lastModificationDate" : "2013-10-02T11:04:13.914+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8DBA-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:23:18.187+0000",
+  "latestRelease" : {
+    "objectId" : "item_405906",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-02T11:04:13.914+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5DBD-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405906",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-02T11:04:13.914+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5DBD-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Arte grammatika da lingua Brazilica da Nação Kiriri",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Luiz Vincencio",
+        "familyName" : "Mamiani",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1877",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "35539",
+      "type" : "OTHER"
+    }, {
+      "id" : "kiriri_mamiani1877_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Rio de Janeiro",
+      "publisher" : "Typ. Central de Brown & Evaristo"
+    },
+    "freeKeywords" : "LoC Subject Headings: Kariri language",
+    "subjects" : [ {
+      "value" : "kzw - Karirí-Xocó",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "LXXII, XI, 71 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM6287,\nLoC Subject Headings: Kariri language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405904",
+    "name" : "http://biblio.etnolinguistica.org/mamiani_1877_arte",
+    "creationDate" : "2010-04-01T13:23:15.295+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-5DBE-D",
+    "content" : "http://biblio.etnolinguistica.org/mamiani_1877_arte",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a3fe962cf11fe5d26acbabcab6203ef2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://biblio.etnolinguistica.org/mamiani_1877_arte",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405905",
+    "name" : "kiriri_mamiani1877_o.pdf",
+    "creationDate" : "2010-04-01T13:23:17.204+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8DB9-9",
+    "content" : "/rest/items/item_405906_3/component/file_405905/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "75f2c191118dca3b10a5e7e7619d6afb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7763025,
+    "metadata" : {
+      "title" : "kiriri_mamiani1877_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7763025
+    }
+  } ]
+}

@@ -1,0 +1,158 @@
+{
+  "objectId" : "item_407241",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:28:00.695+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9522-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:28:00.695+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9522-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:02:22.824+0000",
+  "latestRelease" : {
+    "objectId" : "item_407241",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:28:00.695+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9522-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407241",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:28:00.695+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9522-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Pocomchí texts",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Marvin Keene",
+        "familyName" : "Mayers",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Katherine",
+        "familyName" : "Voigtlander"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "familyName" : "MacQuown"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Benjamin",
+        "familyName" : "Elson"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1958",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37837",
+      "type" : "OTHER"
+    }, {
+      "id" : "pocomchi_mayers1958_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Norman",
+      "publisher" : "SIL of the Univ. of Oklahoma"
+    },
+    "sources" : [ {
+      "title" : "¬A¬ publication of the Summer Institute of\n              Linguistics of the University of Oklahoma /\n              Linguistic series",
+      "alternativeTitles" : [ {
+        "value" : "¬A¬ publication of the Summer Institute of Linguistics of the University of Oklahoma / Linguistic series"
+      } ],
+      "volume" : "2",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4201,\nLoC Subject Headings: Pokonchi language -- Texts",
+    "totalNumberOfPages" : "x, 149 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407239",
+    "name" : "http://www.ethnologue.com/show_work.asp?id=11592",
+    "creationDate" : "2010-04-01T14:02:21.502+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9520-B",
+    "content" : "http://www.ethnologue.com/show_work.asp?id=11592",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "847f32ee6c78613f259aba906ff0cfb2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ethnologue.com/show_work.asp?id=11592",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407240",
+    "name" : "pocomchi_mayers1958_o.pdf",
+    "creationDate" : "2010-04-01T14:02:22.453+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9521-9",
+    "content" : "/rest/items/item_407241_2/component/file_407240/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "23f81e69775e7506ea24f43080ddd140",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3009482,
+    "metadata" : {
+      "title" : "pocomchi_mayers1958_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3009482
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

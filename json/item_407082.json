@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_407082",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-05-19T06:56:04.603+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-D08D-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-19T06:56:04.603+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9444-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:53:58.812+0000",
+  "latestRelease" : {
+    "objectId" : "item_407082",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-05-19T06:56:04.603+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D08D-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407082",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-05-19T06:56:04.603+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D08D-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "From species to languages : a phylogenetic approach to human prehistory",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Quentin Douglas",
+        "familyName" : "Atkinson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37629",
+      "type" : "OTHER"
+    }, {
+      "id" : "species_atkinson2006_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "http://hdl.handle.net/2292/86",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Auckland",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: P140, LoC Subject Headings: Historical linguistics, LoC Subject Headings: Language and languages--Origin, LoC Subject Headings: Linguistic change, LoC Subject Headings: Phylogeny, LoC Subject Headings: Human evolution",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "xiii, 107 Bl."
+  },
+  "files" : [ {
+    "objectId" : "file_407081",
+    "name" : "species_atkinson2006_s.pdf",
+    "creationDate" : "2010-04-01T13:53:57.209+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9443-5",
+    "content" : "/rest/items/item_407082_6/component/file_407081/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "170ebc9ab95d55da6b58ebf529585da1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 16422112,
+    "metadata" : {
+      "title" : "species_atkinson2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 16422112
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2149182",
+    "name" : "http://hdl.handle.net/2292/86",
+    "creationDate" : "2015-04-28T08:34:39.950+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/2292/86",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e80d8152759da361407c8c200b9c439c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/2292/86",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Auckland, Library, ResearchSpace Home, A2 - University of Auckland Digital Doctoral Theses, pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_406622",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:56:07.719+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-91A4-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:56:07.719+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-91A4-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:44:27.613+0000",
+  "latestRelease" : {
+    "objectId" : "item_406622",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:56:07.719+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-91A4-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406622",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:56:07.719+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-91A4-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Phases and cartography in linguistic computation toward a cognitively motivated computational model of linguistic competence",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Chesi, Cristiano",
+        "givenName" : "Cristiano",
+        "familyName" : "Chesi",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37354",
+      "type" : "OTHER"
+    }, {
+      "id" : "phases_chesi2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Siena",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: P98,\nLoC Subject Headings: Computational linguistics",
+    "totalNumberOfPages" : "206 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406620",
+    "name" : "http://www.ciscl.unisi.it/doc/doc_pub/chesi04-thesis.pdf",
+    "creationDate" : "2010-04-01T13:44:24.960+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-91A2-B",
+    "content" : "http://www.ciscl.unisi.it/doc/doc_pub/chesi04-thesis.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0c8eb065a8b45a00a5e88fa561cf9979",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ciscl.unisi.it/doc/doc_pub/chesi04-thesis.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406621",
+    "name" : "phases_chesi2004_s.pdf",
+    "creationDate" : "2010-04-01T13:44:27.412+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-91A3-9",
+    "content" : "/rest/items/item_406622_2/component/file_406621/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0c8eb065a8b45a00a5e88fa561cf9979",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1456432,
+    "metadata" : {
+      "title" : "phases_chesi2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1456432
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

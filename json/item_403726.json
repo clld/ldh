@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_403726",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-03T09:59:22.635+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-020B-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-03T09:59:22.635+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-816E-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:22:48.992+0000",
+  "latestRelease" : {
+    "objectId" : "item_403726",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T09:59:22.635+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-020B-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403726",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T09:59:22.635+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-020B-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gramática bisaya para facilitar el estudio del dialecto bisaya cebuano",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Félix",
+        "familyName" : "Guillén",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1898",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31557",
+      "type" : "OTHER"
+    }, {
+      "id" : "bisaya_guillen1898_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Malabón",
+      "publisher" : "Estab. tipo-lit. del Asilo de huérfanos"
+    },
+    "freeKeywords" : "LoC Class: PL5649, LoC Subject Headings: Bisaya language",
+    "subjects" : [ {
+      "value" : "ceb - Cebuano",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "157, [2] S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL5649,\nLoC Subject Headings: Bisaya language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403725",
+    "name" : "bisaya_guillen1898_o.pdf",
+    "creationDate" : "2010-04-01T12:22:47.981+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-816D-4",
+    "content" : "/rest/items/item_403726_3/component/file_403725/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ee4a2b6ee66d969c08594ea4e4b76c78",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10298168,
+    "metadata" : {
+      "title" : "bisaya_guillen1898_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10298168
+    }
+  }, {
+    "objectId" : "file_2104825",
+    "name" : "https://archive.org/details/apt6490.0001.001.umich.edu",
+    "creationDate" : "2015-03-03T09:59:01.489+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/apt6490.0001.001.umich.edu",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d740ab822ef93ef83db3cc93214b728f",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/apt6490.0001.001.umich.edu",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org: Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_400551",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-13T01:50:21.362+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7232-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:50:21.362+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6E1A-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:54:22.484+0000",
+  "latestRelease" : {
+    "objectId" : "item_400551",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T01:50:21.362+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7232-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400551",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T01:50:21.362+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7232-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of Betta Kurumba",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Gail Maria",
+        "familyName" : "Coelho",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "21969",
+      "type" : "OTHER"
+    }, {
+      "id" : "bettakurumba_coelho2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Austin, TX",
+      "publisher" : "Univ. of Texas"
+    },
+    "freeKeywords" : "LoC Class: PL4649, LoC Subject Headings: Kannada language, LoC Subject Headings: Tamil language",
+    "subjects" : [ {
+      "value" : "xub - Kurumba, Betta",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xv, 358 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400550",
+    "name" : "bettakurumba_coelho2003_s.pdf",
+    "creationDate" : "2010-04-01T10:54:22.039+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6E19-5",
+    "content" : "/rest/items/item_400551_5/component/file_400550/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b1b7d31346b1cc764c56de2deba322ed",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4003915,
+    "metadata" : {
+      "title" : "bettakurumba_coelho2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4003915
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2032870",
+    "name" : "http://hdl.handle.net/2152/516",
+    "creationDate" : "2014-06-12T08:16:13.669+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-B998-B",
+    "content" : "http://hdl.handle.net/2152/516",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "cfd84819306af6014462c398fbe4b3a7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/2152/516",
+      "contentCategory" : "publisher-version",
+      "description" : "University of Texas, Digital Repository, pdf",
+      "size" : 0
+    }
+  } ]
+}

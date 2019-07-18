@@ -1,0 +1,158 @@
+{
+  "objectId" : "item_401476",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-08-13T14:08:49.819+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0028-31F4-0",
+  "modifier" : {
+    "objectId" : "user_36017"
+  },
+  "lastModificationDate" : "2015-08-13T14:08:49.819+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7385-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:12:28.647+0000",
+  "latestRelease" : {
+    "objectId" : "item_401476",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-08-13T14:08:49.819+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0028-31F4-0",
+    "modifier" : {
+      "objectId" : "user_36017"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401476",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-08-13T14:08:49.819+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0028-31F4-0",
+    "modifier" : {
+      "objectId" : "user_36017"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Nuer noun morphology",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Wright Jay",
+        "familyName" : "Frank",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1999",
+    "datePublishedInPrint" : "1999",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "26779",
+      "type" : "OTHER"
+    }, {
+      "id" : "nuer_frank1999_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Buffalo",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL8576.N4,\nLoC Subject Headings: Nuer language",
+    "subjects" : [ {
+      "value" : "nus - Nuer",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xi, 128 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8576.N4,\nLoC Subject Headings: Nuer language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401475",
+    "name" : "nuer_frank1999_s.pdf",
+    "creationDate" : "2010-04-01T11:12:28.519+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7384-E",
+    "content" : "/rest/items/item_401476_5/component/file_401475/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c63a4126b7f69f7deab3470681aecd3c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 700350,
+    "metadata" : {
+      "title" : "nuer_frank1999_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 700350
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2032918",
+    "name" : "http://linguistics.buffalo.edu/graduate/ma/recent_theses/",
+    "creationDate" : "2014-06-12T09:34:42.462+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://linguistics.buffalo.edu/graduate/ma/recent_theses/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "771db1f8c9da9006e860185572393e7f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://linguistics.buffalo.edu/graduate/ma/recent_theses/",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Buffalo, Dep. of Linguisitics, recent master's theses, 1999-2000, Wright, Frank, 'Nuer Noun Morphology', pdf-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2032919",
+    "name" : "http://linguistics.buffalo.edu/graduate/ma/recent_theses/ma_theses/wright/fwrightmathesis.pdf",
+    "creationDate" : "2014-06-12T09:34:43.048+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-BA1B-C",
+    "content" : "http://linguistics.buffalo.edu/graduate/ma/recent_theses/ma_theses/wright/fwrightmathesis.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "529d3315d89a1f8e899d3526c4d52a7e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://linguistics.buffalo.edu/graduate/ma/recent_theses/ma_theses/wright/fwrightmathesis.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "direct linkt to pdf-version",
+      "size" : 0
+    }
+  } ]
+}

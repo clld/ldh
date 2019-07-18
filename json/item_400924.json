@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_400924",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-04-11T12:49:58.772+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-705A-8",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "message" : "EJ und Startseite erg.",
+  "lastModificationDate" : "2013-04-11T12:49:58.772+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7058-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:00:38.648+0000",
+  "latestRelease" : {
+    "objectId" : "item_400924",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-04-11T12:49:58.772+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-705A-8",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400924",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-04-11T12:49:58.772+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-705A-8",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Los números en seri",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mary B.",
+        "familyName" : "Moser",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Stephen A.",
+        "familyName" : "Marlett"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1997",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "24694",
+      "type" : "OTHER"
+    }, {
+      "id" : "seri_moser1997_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "sources" : [ {
+      "title" : "SIL online",
+      "startPage" : "1",
+      "endPage" : "11",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4251.Z5,\nLoC Subject Headings: Seri language",
+    "subjects" : [ {
+      "value" : "sei - Seri",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400922",
+    "name" : "http://www.sil.org/mexico/seri/G003-Numeros-SEI.html",
+    "creationDate" : "2010-04-01T11:00:38.388+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7056-0",
+    "content" : "http://www.sil.org/mexico/seri/G003-Numeros-SEI.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "954d5e8371c3495c6a417374741dea82",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/mexico/seri/G003-Numeros-SEI.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400923",
+    "name" : "seri_moser1997_s.pdf",
+    "creationDate" : "2010-04-01T11:00:38.581+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7057-E",
+    "content" : "/rest/items/item_400924_3/component/file_400923/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e707282d9502910706ab43260cce783d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 105407,
+    "metadata" : {
+      "title" : "seri_moser1997_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 105407
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

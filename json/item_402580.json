@@ -1,0 +1,146 @@
+{
+  "objectId" : "item_402580",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:25:05.888+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-79F1-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:25:05.888+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-79F1-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:34:31.563+0000",
+  "latestRelease" : {
+    "objectId" : "item_402580",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:25:05.888+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-79F1-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402580",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:25:05.888+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-79F1-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Lecciones para el aprendizaje del quechua de San Martín",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Marinell",
+        "familyName" : "Park",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Elisabeth",
+        "familyName" : "Wyss"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1995",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30023",
+      "type" : "OTHER"
+    }, {
+      "id" : "sanmartin_park1995c_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yarinacocha [u.a.]",
+      "publisher" : "Instituto Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Documento de trabajo",
+      "volume" : "29",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6303,\nLoC Subject Headings: Quechua language --Textbooks for foreign speakers --Spanish",
+    "subjects" : [ {
+      "value" : "quh - South Bolivian Quechua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "78 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402578",
+    "name" : "sanmartin_park1995c_o.pdf",
+    "creationDate" : "2010-04-01T11:34:30.525+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-79EF-C",
+    "content" : "/rest/items/item_402580_2/component/file_402578/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "47c3ae21a5e78abe8afeb304b5a9cab1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2443672,
+    "metadata" : {
+      "title" : "sanmartin_park1995c_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2443672
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_402579",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=543",
+    "creationDate" : "2010-04-01T11:34:30.811+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-79F0-6",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=543",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c388315e29bdc9fe1f22cb7fa6712d61",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=543",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  } ]
+}

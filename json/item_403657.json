@@ -1,0 +1,125 @@
+{
+  "objectId" : "item_403657",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-05-31T12:09:21.568+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-80EE-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T12:09:21.568+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-80EE-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:21:37.484+0000",
+  "latestRelease" : {
+    "objectId" : "item_403657",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T12:09:21.568+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-80EE-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403657",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T12:09:21.568+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-80EE-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Les civilisations : Bibliographie - Index",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Maurice",
+        "familyName" : "Delafosse",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1912",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31482",
+      "type" : "OTHER"
+    }, {
+      "id" : "haut3_delafosse1912_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Paris",
+      "publisher" : "Larose"
+    },
+    "sources" : [ {
+      "title" : "Le pays, les peuples, les langues, l'histoire, les civilisations",
+      "alternativeTitles" : [ {
+        "value" : "Le pays, les peuples, les langues, l'histoire,les civilisations"
+      } ],
+      "volume" : "3",
+      "genre" : "SERIES"
+    }, {
+      "title" : "Haut-Sénégal-Niger (Soudan français)",
+      "volume" : "1",
+      "genre" : "SERIES"
+    } ],
+    "totalNumberOfPages" : "[xxx - xli], 316 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.S8, ISO 639-3 : -, Sudan --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403656",
+    "name" : "haut3_delafosse1912_o.pdf",
+    "creationDate" : "2010-04-01T12:21:36.150+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-80ED-C",
+    "content" : "/rest/items/item_403657_5/component/file_403656/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3e228590a1ae7a627b1c3fcc5a25334a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 13737717,
+    "metadata" : {
+      "title" : "haut3_delafosse1912_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 13737717,
+      "copyrightDate" : "2010-11-24",
+      "rights" : "not in copyright, Maurice Delafosse, 1870-1926"
+    }
+  } ]
+}

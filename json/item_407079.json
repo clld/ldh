@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_407079",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:33:33.242+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9440-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:33:33.242+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9440-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:53:54.565+0000",
+  "latestRelease" : {
+    "objectId" : "item_407079",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:33:33.242+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9440-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407079",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:33:33.242+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9440-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Advanced tongue root harmony in Setswana",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Dichabe, Seipati Bernice",
+        "givenName" : "Seipati Bernice",
+        "familyName" : "Dichabe",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1997",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37628",
+      "type" : "OTHER"
+    }, {
+      "id" : "setswana_dichabe1997_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "0-612-20913-X",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ottawa",
+      "publisher" : "National Library of Canada"
+    },
+    "freeKeywords" : "LoC Class: PL8746,\nLoC Subject Headings: Tswana language",
+    "subjects" : [ {
+      "value" : "tsn - Tswana",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407077",
+    "name" : "http://www.collectionscanada.gc.ca/obj/s4/f2/dsk3/ftp04/mq20913.pdf",
+    "creationDate" : "2010-04-01T13:53:47.494+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-943E-4",
+    "content" : "http://www.collectionscanada.gc.ca/obj/s4/f2/dsk3/ftp04/mq20913.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.collectionscanada.gc.ca/obj/s4/f2/dsk3/ftp04/mq20913.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407078",
+    "name" : "setswana_dichabe1997_o.pdf",
+    "creationDate" : "2010-04-01T13:53:54.211+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-943F-2",
+    "content" : "/rest/items/item_407079_2/component/file_407078/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "cd4b157710e443b4cf836f1bb351a05a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3063541,
+    "metadata" : {
+      "title" : "setswana_dichabe1997_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3063541
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

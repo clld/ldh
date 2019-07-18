@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_400511",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-10T11:00:04.581+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-ADFD-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-10T11:00:04.581+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6DE4-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:51:59.244+0000",
+  "latestRelease" : {
+    "objectId" : "item_400511",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T11:00:04.581+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-ADFD-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400511",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T11:00:04.581+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-ADFD-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Classifying hand configurations in Nederlandse Gebarentaal : (sign language of the Netherlands)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ingeborg Elisabeth Petra",
+        "familyName" : "Zwitserlood",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "20695",
+      "type" : "OTHER"
+    }, {
+      "id" : "gebarentaal_zwitserlood2003_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "90-76864-37-3",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "nld" ],
+    "publishingInfo" : {
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "sources" : [ {
+      "title" : "LOT Dissertation Series",
+      "volume" : "78",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: HV2476.5.D88, LoC Subject Headings: Dutch Sign Language",
+    "subjects" : [ {
+      "value" : "dse - Dutch Sign Language",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400510",
+    "name" : "gebarentaal_zwitserlood2003_s.pdf",
+    "creationDate" : "2010-04-01T10:51:58.640+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6DE3-5",
+    "content" : "/rest/items/item_400511_4/component/file_400510/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "46a468ceb3662338a11743c11f369f24",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5786758,
+    "metadata" : {
+      "title" : "gebarentaal_zwitserlood2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5786758
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2134715",
+    "name" : "http://dspace.library.uu.nl/handle/1874/626",
+    "creationDate" : "2015-04-10T10:59:40.788+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dspace.library.uu.nl/handle/1874/626",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c9e5fa276c6b3b1e7b3a96448dbda9eb",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dspace.library.uu.nl/handle/1874/626",
+      "contentCategory" : "publisher-version",
+      "description" : "Utrecht Univ. Repository, pdf download",
+      "size" : 0
+    }
+  } ]
+}

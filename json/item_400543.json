@@ -1,0 +1,155 @@
+{
+  "objectId" : "item_400543",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T16:51:37.602+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6DFA-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T16:51:37.602+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6E0E-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:52:40.902+0000",
+  "latestRelease" : {
+    "objectId" : "item_400543",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T16:51:37.602+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6DFA-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400543",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T16:51:37.602+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6DFA-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The physical environment",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Malcolm",
+        "familyName" : "Ross",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Andrew",
+        "familyName" : "Pawley"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Meredith",
+        "familyName" : "Osmond"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2007",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "21545",
+      "type" : "OTHER"
+    }, {
+      "id" : "oceanic_ross2007_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "0-85883-539-8",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Canberra",
+      "publisher" : "ANU E-Press"
+    },
+    "sources" : [ {
+      "title" : "The lexicon of Proto Oceanic",
+      "volume" : "2",
+      "genre" : "SERIES"
+    }, {
+      "title" : "Pacific linguistics / C",
+      "volume" : "545",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6201, LoC Subject Headings: Proto-Oceanic language, LoC Subject Headings: Ethnology--Oceania, LoC Subject Headings: Oceania--Social life and customs",
+    "totalNumberOfPages" : "xviii, 387 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400541",
+    "name" : "http://epress.anu.edu.au/lexicon_citation.html",
+    "creationDate" : "2010-04-01T10:52:37.891+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://epress.anu.edu.au/lexicon_citation.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f2e01024ee6f962d98e54f251a7669b5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://epress.anu.edu.au/lexicon_citation.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400542",
+    "name" : "oceanic_ross2007_s.pdf",
+    "creationDate" : "2010-04-01T10:52:39.928+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6E0D-1",
+    "content" : "/rest/items/item_400543_3/component/file_400542/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a1facf234a80c79ea9bc5202c5f494a0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9917750,
+    "metadata" : {
+      "title" : "oceanic_ross2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9917750
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

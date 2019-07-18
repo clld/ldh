@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_402144",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-01-23T13:39:55.943+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-A24B-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-01-23T13:39:55.943+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7777-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:26:37.455+0000",
+  "latestRelease" : {
+    "objectId" : "item_402144",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-23T13:39:55.943+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A24B-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402144",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-23T13:39:55.943+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A24B-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of old Irish",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Frederick William",
+        "familyName" : "O'Connell",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1912",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29236",
+      "type" : "OTHER"
+    }, {
+      "id" : "irish_oconnell1912_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Belfast",
+      "publisher" : "Mayne, Boyd"
+    },
+    "freeKeywords" : "LoC Class: PB1218,\nLoC Subject Headings: Irish language",
+    "subjects" : [ {
+      "value" : "gle - Gaelic, Irish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 191 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PB1218,\nLoC Subject Headings: Irish language--To 1100--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402143",
+    "name" : "irish_oconnell1912_o.pdf",
+    "creationDate" : "2010-04-01T11:26:33.946+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7776-C",
+    "content" : "/rest/items/item_402144_3/component/file_402143/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0f76d473c9ce40c6556751ea363a65c2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 36730737,
+    "metadata" : {
+      "title" : "irish_oconnell1912_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 36730737,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2085265",
+    "name" : "https://archive.org/details/grammaroldirish00oconuoft",
+    "creationDate" : "2015-01-23T13:39:21.424+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/grammaroldirish00oconuoft",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6c5973cdb40a33aaa16e2ee5313bb222",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/grammaroldirish00oconuoft",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_403173",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T09:45:35.461+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7D8B-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:45:35.461+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D8B-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:00:36.820+0000",
+  "latestRelease" : {
+    "objectId" : "item_403173",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:45:35.461+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7D8B-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403173",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:45:35.461+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7D8B-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Greek prosodies and the nature of syllabification",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Donca",
+        "familyName" : "Steriade",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1982",
+    "datePublishedInPrint" : "1982",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31058",
+      "type" : "OTHER"
+    }, {
+      "id" : "greek_steriade1982_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Institute of\nTechnology"
+    },
+    "freeKeywords" : "LoC Subject Headings: Greek language",
+    "subjects" : [ {
+      "value" : "ell - Modern Greek (1453-)",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "385 S.",
+    "abstracts" : [ {
+      "value" : "PA268, ISO 639-3 : ell, Greek language -- Syllabication, Greek language -- Prosodic analysis, Syllabication"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403171",
+    "name" : "http://www.ai.mit.edu/projects/dm/theses/steriade82.pdf",
+    "creationDate" : "2010-04-01T12:00:17.625+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D89-0",
+    "content" : "http://www.ai.mit.edu/projects/dm/theses/steriade82.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ec638db289fcbf2dd8ce70c8abb3da09",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ai.mit.edu/projects/dm/theses/steriade82.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403172",
+    "name" : "greek_steriade1982_o.pdf",
+    "creationDate" : "2010-04-01T12:00:35.398+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D8A-E",
+    "content" : "/rest/items/item_403173_3/component/file_403172/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3fbebd7bce73ce3d41bb0625cac3a993",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 14902009,
+    "metadata" : {
+      "title" : "greek_steriade1982_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 14902009,
+      "copyrightDate" : "2010-12-07",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

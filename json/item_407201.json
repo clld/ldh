@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_407201",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-04T11:52:33.523+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0473-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter bereinigt",
+  "lastModificationDate" : "2015-03-04T11:52:33.523+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-94EA-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:01:20.536+0000",
+  "latestRelease" : {
+    "objectId" : "item_407201",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-04T11:52:33.523+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0473-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407201",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-04T11:52:33.523+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0473-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammar and dictionary of the Binandere language : Mamba River, North Division, Papua",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Copland",
+        "familyName" : "King",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1927",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37807",
+      "type" : "OTHER"
+    }, {
+      "id" : "binandere_king1927_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Sydney",
+      "publisher" : "Ford"
+    },
+    "freeKeywords" : "LoC Class: PL6621.B54, LoC Subject Headings: Binandere language",
+    "subjects" : [ {
+      "value" : "bhg - Binandere",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "76 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6621.B54, LoC Subject Headings: Binandere language--Dictionaries--English, \nBinandere language--Grammar, Papuan languages--Dialects"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407199",
+    "name" : "http://www.sil.org/pacific/png/abstract.asp?id=599",
+    "creationDate" : "2010-04-01T14:01:19.499+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/pacific/png/abstract.asp?id=599",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "cd08e65c5002573089407e0436558816",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/pacific/png/abstract.asp?id=599",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Papua New Guinea, PNG Publications Online, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407200",
+    "name" : "binandere_king1927_o.pdf",
+    "creationDate" : "2010-04-01T14:01:20.081+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-94E9-F",
+    "content" : "/rest/items/item_407201_3/component/file_407200/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "71dc4cedc9e31d8f4cf6441eec4a65b4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4232780,
+    "metadata" : {
+      "title" : "binandere_king1927_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4232780
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

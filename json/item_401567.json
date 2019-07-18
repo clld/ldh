@@ -1,0 +1,114 @@
+{
+  "objectId" : "item_401567",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-09-02T10:28:11.305+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-C942-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz entfernt",
+  "lastModificationDate" : "2014-09-02T10:28:11.305+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7409-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:14:39.164+0000",
+  "latestRelease" : {
+    "objectId" : "item_401567",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-09-02T10:28:11.305+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C942-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401567",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-09-02T10:28:11.305+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C942-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Topics in the grammar of Marwari",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "David S.",
+        "familyName" : "Magier",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1983",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "27159",
+      "type" : "OTHER"
+    }, {
+      "id" : "marwari_magier1983_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PK2463,\nLoC Subject Headings: Marwari language--Grammar",
+    "subjects" : [ {
+      "value" : "rwr - Marwari (India)",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401566",
+    "name" : "marwari_magier1983_o.pdf",
+    "creationDate" : "2010-04-01T11:14:38.068+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7408-F",
+    "content" : "/rest/items/item_401567_3/component/file_401566/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b4f3e92664ed2bd47fe85a4ad99462e7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11208653,
+    "metadata" : {
+      "title" : "marwari_magier1983_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11208653
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

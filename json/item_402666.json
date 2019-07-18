@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_402666",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T17:29:54.189+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6E59-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T17:29:54.189+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7A6C-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:35:53.795+0000",
+  "latestRelease" : {
+    "objectId" : "item_402666",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T17:29:54.189+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E59-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402666",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T17:29:54.189+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E59-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Warembori grammar sketch",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mark",
+        "familyName" : "Donohue",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1999",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30241",
+      "type" : "OTHER"
+    }, {
+      "id" : "warembori_donohue1999_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Sydney",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Subject Headings: Warembori language, LoC Subject Headings: Papua (Indonesia) --Languages",
+    "subjects" : [ {
+      "value" : "wsa - Warembori",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "iii, 70 S.",
+    "abstracts" : [ {
+      "value" : "PL6621.W28, ISO 639-3 : wsa , Warembori language, Papua (Indonesia) --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402665",
+    "name" : "warembori_donohue1999_s.pdf",
+    "creationDate" : "2010-04-01T11:35:53.698+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A6B-E",
+    "content" : "/rest/items/item_402666_4/component/file_402665/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9ec8258a1b9cd345f55e254a7f00bffd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 358167,
+    "metadata" : {
+      "title" : "warembori_donohue1999_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 358167,
+      "copyrightDate" : "2010-09-27",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

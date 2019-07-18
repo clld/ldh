@@ -1,0 +1,120 @@
+{
+  "objectId" : "item_403567",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T10:59:10.474+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-802E-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:59:10.474+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-802E-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:48.004+0000",
+  "latestRelease" : {
+    "objectId" : "item_403567",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T10:59:10.474+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-802E-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403567",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T10:59:10.474+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-802E-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A generative approach to the verb morphology of Samba Leeko",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Frida Kong",
+        "familyName" : "Limnyuy",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "DIPLOMA",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31409",
+      "type" : "OTHER"
+    }, {
+      "id" : "samba_kong2004_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Yaoundé",
+      "publisher" : "Unversité de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Samba Leko language",
+    "subjects" : [ {
+      "value" : "ndi - Samba Leko",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "viii, 144 S.",
+    "abstracts" : [ {
+      "value" : "PK3798.S335, ISO 639-3 : ndi, Samba Leko language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403566",
+    "name" : "samba_kong2004_o.pdf",
+    "creationDate" : "2010-04-01T12:19:47.565+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-802D-D",
+    "content" : "/rest/items/item_403567_4/component/file_403566/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7dae6ecda472f378c1f793828906a1da",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3583755,
+    "metadata" : {
+      "title" : "samba_kong2004_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "Diplôme d'etudes approfondies (D.E.A.) (postgraduate diploma)\n",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3583755,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_406453",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T20:55:45.542+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FFB-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:55:45.542+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-90B7-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:38:16.678+0000",
+  "latestRelease" : {
+    "objectId" : "item_406453",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:55:45.542+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FFB-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406453",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:55:45.542+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FFB-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Aspectos morfossintáticos da língua Akwe-Xerente (Jê)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Sousa",
+        "familyName" : "Filho",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36963",
+      "type" : "OTHER"
+    }, {
+      "id" : "akwexerente_martens2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "place" : "Goiânia",
+      "publisher" : "Univ. federal de Goias"
+    },
+    "freeKeywords" : "LoC Class: PM7108, LoC Subject Headings: Gê languages, LoC Subject Headings: Sherente Indians--Language",
+    "subjects" : [ {
+      "value" : "xer - Xerénte",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "328 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406452",
+    "name" : "akwexerente_martens2007_s.pdf",
+    "creationDate" : "2010-04-01T13:38:16.456+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-90B6-5",
+    "content" : "/rest/items/item_406453_4/component/file_406452/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a3bf135f0bc6fe5451eae82568b224f1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1676862,
+    "metadata" : {
+      "title" : "akwexerente_martens2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1676862
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2044450",
+    "name" : "http://www.etnolinguistica.org/tese:sousa-filho-2007",
+    "creationDate" : "2014-07-24T09:01:34.079+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.etnolinguistica.org/tese:sousa-filho-2007",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "55e2a82d309bc5d97ebbbadfbd968df6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.etnolinguistica.org/tese:sousa-filho-2007",
+      "contentCategory" : "any-fulltext",
+      "description" : "Etnolingüística.org, Recursos, Teses e dissertações online, pdf",
+      "size" : 0
+    }
+  } ]
+}

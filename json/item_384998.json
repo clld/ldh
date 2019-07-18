@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_384998",
+  "versionNumber" : 5,
+  "modificationDate" : "2014-08-20T09:19:46.115+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-C01E-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Stichwörter für LDH-Blogimport bereinigt",
+  "lastModificationDate" : "2014-08-20T09:19:46.115+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6956-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-03-15T12:03:43.779+0000",
+  "latestRelease" : {
+    "objectId" : "item_384998",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-08-20T09:19:46.115+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C01E-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_384998",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-08-20T09:19:46.115+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C01E-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Nomen/Verb-Distinktion im Guarani",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Sebastian",
+        "familyName" : "Nordhoff",
+        "organizations" : [ {
+          "address" : "Munich, DE",
+          "identifier" : "ou_persistent13",
+          "name" : "Max Planck Society",
+          "identifierPath" : [ "ou_persistent13" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "urn:nbn:de:hebis:30-112378",
+      "type" : "URN"
+    } ],
+    "languages" : [ "deu" ],
+    "sources" : [ {
+      "title" : "Arbeitspapier / Institut für Sprachwissenschaft, Universität Köln",
+      "volume" : "48",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6082, LoC Subject Headings: Guarani language",
+    "subjects" : [ {
+      "value" : "gug - Guaraní, Paraguayan",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "67, vii ",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM6082, LoC Subject Headings: Guarani language--Noun, Guarani language--Verb"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_384996",
+    "name" : "guarani_nordhoff2004_s.pdf",
+    "creationDate" : "2010-03-15T12:03:43.153+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6955-5",
+    "content" : "/rest/items/item_384998_5/component/file_384996/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "909f8e79bd142e676caac464c189dc12",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 655812,
+    "metadata" : {
+      "title" : "guarani_nordhoff2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 655812,
+      "copyrightDate" : "2010-03-10",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_2030841",
+    "name" : "http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/22366",
+    "creationDate" : "2014-06-04T07:42:23.699+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/22366",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9ddc67c7de3f4e1ba4a1e89169d25bb2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/22366",
+      "contentCategory" : "publisher-version",
+      "description" : "Goethe Univ. Frankfurt/Main, electronic documents, pdf",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_400342",
+  "versionNumber" : 12,
+  "modificationDate" : "2011-05-31T11:53:54.696+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6CC7-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:53:54.696+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6CC7-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:45:40.148+0000",
+  "latestRelease" : {
+    "objectId" : "item_400342",
+    "versionNumber" : 12,
+    "modificationDate" : "2011-05-31T11:53:54.696+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6CC7-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400342",
+    "versionNumber" : 12,
+    "modificationDate" : "2011-05-31T11:53:54.696+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6CC7-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Malagasy clause structure",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ileana M.",
+        "familyName" : "Paul",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "17653",
+      "type" : "OTHER"
+    }, {
+      "id" : "malagasy_paul2000_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Montreal, Canada ",
+      "publisher" : "McGill University"
+    },
+    "freeKeywords" : "LoC Subject Headings: Malagasy language",
+    "subjects" : [ {
+      "value" : "plt - Plateau Malagasy",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vi, 229 S.",
+    "abstracts" : [ {
+      "language" : "eng",
+      "value" : "PL5373 , ISO 639-3 : plt , Malagasy language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400340",
+    "name" : "http://publish.uwo.ca/~ileana/papers/dissertation.pdf",
+    "creationDate" : "2010-04-01T10:45:32.892+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6CC5-F",
+    "content" : "http://publish.uwo.ca/~ileana/papers/dissertation.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "aa8c460e81f8315aaa46dee09ab9bc4f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://publish.uwo.ca/~ileana/papers/dissertation.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Homepage Ileana Paul, The University of Western Ontario",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400341",
+    "name" : "malagasy_paul2000_s.pdf",
+    "creationDate" : "2010-04-01T10:45:39.956+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6CC6-D",
+    "content" : "/rest/items/item_400342_12/component/file_400341/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e6308b3a3d3ca051965ee8906b1ff1a3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1100466,
+    "metadata" : {
+      "title" : "malagasy_paul2000_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1100466,
+      "copyrightDate" : "21.10.2010",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

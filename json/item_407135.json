@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_407135",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-08-05T11:07:51.471+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-1FA7-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Quelle: bibliograf. Daten korrigiert",
+  "lastModificationDate" : "2014-08-05T11:07:51.471+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9489-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:55:31.483+0000",
+  "latestRelease" : {
+    "objectId" : "item_407135",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-05T11:07:51.471+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1FA7-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407135",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-05T11:07:51.471+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1FA7-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vowel systems of the Manchu-Tungus languages of China",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Xi",
+        "familyName" : "Zhang",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1996",
+    "datePublishedInPrint" : "1996",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37740",
+      "type" : "OTHER"
+    }, {
+      "id" : "manchutungus_zhang1996_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Toronto",
+      "publisher" : "Univ."
+    },
+    "sources" : [ {
+      "title" : "Toronto Working Papers in Linguistics : TWPL",
+      "publishingInfo" : {
+        "place" : "Toronto",
+        "publisher" : "Univ."
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL450,\nLoC Subject Headings: Tungus-Manchu languages",
+    "totalNumberOfPages" : "ix, 239 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407134",
+    "name" : "manchutungus_zhang1996_o.pdf",
+    "creationDate" : "2010-04-01T13:55:30.810+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9488-B",
+    "content" : "/rest/items/item_407135_4/component/file_407134/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "203e9095a7979e8250bcff4398f4f7f5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6699423,
+    "metadata" : {
+      "title" : "manchutungus_zhang1996_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6699423
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2048265",
+    "name" : "https://twpl.library.utoronto.ca/index.php/twpl/article/view/6517",
+    "creationDate" : "2014-08-05T10:34:18.695+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-1F83-F",
+    "content" : "https://twpl.library.utoronto.ca/index.php/twpl/article/view/6517",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "53b4de7d61f73115587975f2a6d471f0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://twpl.library.utoronto.ca/index.php/twpl/article/view/6517",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Toronto, Linguistics Graduate Course Union (LGCU), Toronto Working Papers in Linguistics TWPL, pdf",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_406353",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-08-11T08:20:57.960+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-2CF2-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Jahreszahl ergänzt",
+  "lastModificationDate" : "2014-08-11T08:20:57.960+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-902E-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:35:54.010+0000",
+  "latestRelease" : {
+    "objectId" : "item_406353",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-11T08:20:57.960+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-2CF2-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406353",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-11T08:20:57.960+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-2CF2-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Jarawara interlinear texts",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Alan",
+        "familyName" : "Vogel",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateCreated" : "2007",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "36727",
+      "type" : "OTHER"
+    }, {
+      "id" : "jarawara_vogel_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "N.A.",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PM6258,\nLoC Subject Headings: Jaruára language",
+    "subjects" : [ {
+      "value" : "jap - Jaruára",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "190 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406351",
+    "name" : "http://www.silinternational.org/americas/brasil/PUBLCNS/LING/EnglJAIT.pdf",
+    "creationDate" : "2010-04-01T13:35:49.803+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-902C-0",
+    "content" : "http://www.silinternational.org/americas/brasil/PUBLCNS/LING/EnglJAIT.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c7ce37572d253f562e7dfcad41ca78d7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.silinternational.org/americas/brasil/PUBLCNS/LING/EnglJAIT.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406352",
+    "name" : "jarawara_vogel_s.pdf",
+    "creationDate" : "2010-04-01T13:35:53.920+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-902D-E",
+    "content" : "/rest/items/item_406353_3/component/file_406352/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c7ce37572d253f562e7dfcad41ca78d7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 402552,
+    "metadata" : {
+      "title" : "jarawara_vogel_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 402552
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

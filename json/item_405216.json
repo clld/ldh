@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_405216",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:21:23.928+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-89E6-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:21:23.928+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-89E6-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:04:08.789+0000",
+  "latestRelease" : {
+    "objectId" : "item_405216",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:21:23.928+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-89E6-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405216",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:21:23.928+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-89E6-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The morphosyntactic structure and logical structures of compound verbs in Japanese",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Toratani, Kiyoko",
+        "givenName" : "Kiyoko",
+        "familyName" : "Toratani",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34400",
+      "type" : "OTHER"
+    }, {
+      "id" : "japanese_toratani2002_s.html      70",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Buffalo",
+      "publisher" : "State Univ. of New York"
+    },
+    "freeKeywords" : "LoC Subject Headings: Japanese language",
+    "subjects" : [ {
+      "value" : "jpn - Japanese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xv, 285 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405214",
+    "name" : "http://wings.buffalo.edu/soc-sci/linguistics/people/students/dissertations/toratani/Toratani1.pdf",
+    "creationDate" : "2010-04-01T13:04:07.894+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-89E4-3",
+    "content" : "http://wings.buffalo.edu/soc-sci/linguistics/people/students/dissertations/toratani/Toratani1.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5df2ef7f9167ae21f65f8c4bd017cd55",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://wings.buffalo.edu/soc-sci/linguistics/people/students/dissertations/toratani/Toratani1.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405215",
+    "name" : "japanese_toratani2002_s.pdf",
+    "creationDate" : "2010-04-01T13:04:08.643+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-89E5-1",
+    "content" : "/rest/items/item_405216_2/component/file_405215/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c7b76f5f76827e1c8e88cb3dc276df32",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 805459,
+    "metadata" : {
+      "title" : "japanese_toratani2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 805459
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

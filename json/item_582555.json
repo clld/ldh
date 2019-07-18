@@ -1,0 +1,108 @@
+{
+  "objectId" : "item_582555",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-21T08:38:05.038+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-D439-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-21T08:38:05.038+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-D439-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-12-14T07:48:35.827+0000",
+  "latestRelease" : {
+    "objectId" : "item_582555",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-21T08:38:05.038+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-D439-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_582555",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-21T08:38:05.038+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-D439-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "" ],
+  "metadata" : {
+    "title" : "Grammaticalization of the generalized Kampan applicative -ako (Arawak)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Elena",
+        "familyName" : "Mihas",
+        "organizations" : [ {
+          "address" : ", ",
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2009",
+    "event" : {
+      "endDate" : "2009-05-09",
+      "place" : "University of Santa Barbara, Calif.",
+      "startDate" : "2009-05-08",
+      "title" : "12th WAIL Annual Meeting "
+    },
+    "genre" : "CONFERENCE_PAPER",
+    "languages" : [ "eng" ],
+    "totalNumberOfPages" : "14 S.",
+    "abstracts" : [ {
+      "value" : "PM5476, ISO 639-3 : -, Grammar --Arawakan languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_582554",
+    "name" : "arawak_mihas2009_o.pdf",
+    "creationDate" : "2010-12-14T07:48:35.515+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-D438-C",
+    "content" : "/rest/items/item_582555_2/component/file_582554/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c3ebac1bcbfdba15523f462b40469b80",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9645449,
+    "metadata" : {
+      "title" : "arawak_mihas2009_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9645449,
+      "copyrightDate" : "2010-11-22",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

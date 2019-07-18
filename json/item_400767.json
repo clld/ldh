@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_400767",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:30:56.844+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6F69-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:30:56.844+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6F69-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:58:19.351+0000",
+  "latestRelease" : {
+    "objectId" : "item_400767",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:30:56.844+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6F69-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400767",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:30:56.844+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6F69-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulario de los verbos de movimiento y de carga Mixteco-Español Alacatlatzala, Guerrero",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lynn",
+        "familyName" : "Anderson C.",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1999",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "24163",
+      "type" : "OTHER"
+    }, {
+      "id" : "mixteco_anderson1999_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "México",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "freeKeywords" : "LoC Class: PM4016,\nLoC Subject Headings: Mixtec language",
+    "subjects" : [ {
+      "value" : "mim - Mixtec, Alacatlatzala",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "26 S.",
+    "abstracts" : [ {
+      "value" : "This booklet, originally published on paper\n              for native speakers, is the first step toward\n              a dictionary of the Mixtec language as spoken\n              in Alacatlatzala, in the municipio of\n              Malinaltepec, Guerrero. The verbs of motion\n              and transport were chosen for study because\n              this set of verbs exhibits varied and\n              interesting forms whose usage is distinct from\n              the corresponding verbs in Spanish. Included\n              are illustrative sentences, a Spanish-Mixtec\n              section, and brief notes about the orthography\n              and grammar."
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400765",
+    "name" : "http://www.sil.org/mexico/mixteca/alacatlatzala/P001-Vocab-MIM.pdf",
+    "creationDate" : "2010-04-01T10:58:16.878+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F67-B",
+    "content" : "http://www.sil.org/mexico/mixteca/alacatlatzala/P001-Vocab-MIM.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "91162662944402f084731898ee561e5b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/mexico/mixteca/alacatlatzala/P001-Vocab-MIM.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400766",
+    "name" : "mixteco_anderson1999_s.pdf",
+    "creationDate" : "2010-04-01T10:58:19.262+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F68-9",
+    "content" : "/rest/items/item_400767_2/component/file_400766/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "922a7819dbefdd060e3176695d624e35",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 317328,
+    "metadata" : {
+      "title" : "mixteco_anderson1999_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 317328
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

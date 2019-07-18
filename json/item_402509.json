@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_402509",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:27:10.570+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-798A-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:27:10.570+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-798A-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:32:41.451+0000",
+  "latestRelease" : {
+    "objectId" : "item_402509",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:27:10.570+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-798A-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402509",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:27:10.570+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-798A-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Kontrastive Verb- und Adjektivmorphologie ausgewählter Ryûkyûdialekte",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Walke, Anja",
+        "givenName" : "Anja",
+        "familyName" : "Walke",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29976",
+      "type" : "OTHER"
+    }, {
+      "id" : "ryukyu_walke2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "pdf-Version",
+      "place" : "Bochum",
+      "publisher" : "Ruhr-Univ."
+    },
+    "freeKeywords" : "LoC Class: PL693.R9,\nLoC Subject Headings: Ryukyuan language --Dialects",
+    "totalNumberOfPages" : "211 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402507",
+    "name" : "http://www-brs.ub.ruhr-uni-bochum.de/netahtml/HSS/Diss/WalkeAnja/diss.pdf",
+    "creationDate" : "2010-04-01T11:32:40.946+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7988-3",
+    "content" : "http://www-brs.ub.ruhr-uni-bochum.de/netahtml/HSS/Diss/WalkeAnja/diss.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "64ca82aa109a185b3131fca48575e8ad",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www-brs.ub.ruhr-uni-bochum.de/netahtml/HSS/Diss/WalkeAnja/diss.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402508",
+    "name" : "ryukyu_walke2004_s.pdf",
+    "creationDate" : "2010-04-01T11:32:41.253+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7989-1",
+    "content" : "/rest/items/item_402509_2/component/file_402508/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "32c281771d944195ab40e36538d2186a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1242676,
+    "metadata" : {
+      "title" : "ryukyu_walke2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1242676
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

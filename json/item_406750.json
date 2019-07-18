@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_406750",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:47:41.296+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9257-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:47:41.296+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9257-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:46:58.045+0000",
+  "latestRelease" : {
+    "objectId" : "item_406750",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:47:41.296+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9257-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406750",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:47:41.296+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9257-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Features of pragraph and section breaks in Yemba expository and hortatory discourse",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Harro, Gretchen",
+        "givenName" : "Gretchen",
+        "familyName" : "Harro",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Nancy",
+        "familyName" : "Haynes"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2002",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37411",
+      "type" : "OTHER"
+    }, {
+      "id" : "yemba_harro2002_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yaoundé",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PL8813,\nLoC Subject Headings: Yemba language",
+    "subjects" : [ {
+      "value" : "ybb - Yemba",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "91 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406748",
+    "name" : "http://www.sil.org/Africa/Cameroun/bydomain/linguistics/discourse/yemba_harro2002_2541_p.pdf",
+    "creationDate" : "2010-04-01T13:46:57.196+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9255-B",
+    "content" : "http://www.sil.org/Africa/Cameroun/bydomain/linguistics/discourse/yemba_harro2002_2541_p.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/Africa/Cameroun/bydomain/linguistics/discourse/yemba_harro2002_2541_p.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406749",
+    "name" : "yemba_harro2002_o.pdf",
+    "creationDate" : "2010-04-01T13:46:57.738+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9256-9",
+    "content" : "/rest/items/item_406750_2/component/file_406749/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3fde512e39988cd728b95d24daa90c14",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2787633,
+    "metadata" : {
+      "title" : "yemba_harro2002_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2787633
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

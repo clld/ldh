@@ -1,0 +1,145 @@
+{
+  "objectId" : "item_400031",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-03T10:21:28.883+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-021C-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter bereinigt",
+  "lastModificationDate" : "2015-03-03T10:21:28.883+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6AFF-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:38:49.296+0000",
+  "latestRelease" : {
+    "objectId" : "item_400031",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T10:21:28.883+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-021C-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400031",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T10:21:28.883+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-021C-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Tagmemic and matrix linguistics applied to selected African languages",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Kenneth L.",
+        "familyName" : "Pike",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1970",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "747",
+      "type" : "OTHER"
+    }, {
+      "id" : "tagmemic_pike1970_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics",
+      "volume" : "23",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL8008, LoC Subject Headings: Tagmemics, LoC Subject Headings: African languages",
+    "subjects" : [ {
+      "value" : "agb - Legbo",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "mfn - Mbembe, Cross River",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "etu - Ejagham",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "xsm - Kasem",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "2 MF",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8008,\nLoC Subject Headings: Tagmemics, African languages--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400029",
+    "name" : "http://www.ethnologue.com/show_work.asp?id=10041",
+    "creationDate" : "2010-04-01T10:38:47.922+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.ethnologue.com/show_work.asp?id=10041",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3c15b18bdd12dec497907a8568339d8f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ethnologue.com/show_work.asp?id=10041",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400030",
+    "name" : "tagmemic_pike1970_o.pdf",
+    "creationDate" : "2010-04-01T10:38:48.597+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6AFE-1",
+    "content" : "/rest/items/item_400031_3/component/file_400030/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3408c2305ad2e854c6bf0b008ebac9bc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6587624,
+    "metadata" : {
+      "title" : "tagmemic_pike1970_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6587624
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

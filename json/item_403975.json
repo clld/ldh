@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_403975",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-01-23T14:19:35.216+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-A264-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-01-23T14:19:35.216+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-82E1-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:32:12.992+0000",
+  "latestRelease" : {
+    "objectId" : "item_403975",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-01-23T14:19:35.216+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A264-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403975",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-01-23T14:19:35.216+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A264-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Método teórico-práctico y compendiado, para aprender, en brevisimo tiempo el lengunje Tagálog",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Antonio",
+        "familyName" : "Juliá y Guerrero",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1899",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "32104",
+      "type" : "OTHER"
+    }, {
+      "id" : "tagalog_guerrero1899.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Barcelona",
+      "publisher" : "Establecimiento Tipográfico de la Casa Provincial de Caridad"
+    },
+    "freeKeywords" : "LoC Class: PL6056,\nLoC Subject Headings: Tagalog language",
+    "subjects" : [ {
+      "value" : "tgl - Tagalog",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "135 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403974",
+    "name" : "tagalog_guerrero1899.pdf",
+    "creationDate" : "2010-04-01T12:32:12.219+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-82E0-7",
+    "content" : "/rest/items/item_403975_4/component/file_403974/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ef13451300c4f32590649d25398a9824",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7654000,
+    "metadata" : {
+      "title" : "tagalog_guerrero1899.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7654000,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2085271",
+    "name" : "https://archive.org/details/ajj6911.0001.001.umich.edu",
+    "creationDate" : "2015-01-23T14:19:06.930+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/ajj6911.0001.001.umich.edu",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e999149e31bbe9a6424767913ed4398f",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/ajj6911.0001.001.umich.edu",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, read online & pdf",
+      "size" : 0
+    }
+  } ]
+}

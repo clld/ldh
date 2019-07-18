@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403519",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T11:15:40.566+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7FC5-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:15:40.566+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7FC5-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:14.652+0000",
+  "latestRelease" : {
+    "objectId" : "item_403519",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:15:40.566+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7FC5-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403519",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:15:40.566+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7FC5-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The noun class system of Mmen",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Blasius Agha-ah",
+        "familyName" : "Chiatoh",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1993",
+    "datePublishedInPrint" : "1993",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31332",
+      "type" : "OTHER"
+    }, {
+      "id" : "mmen_chiatoh1993_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon --Languages",
+    "subjects" : [ {
+      "value" : "bfm - Mmen",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "viii, 86 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : bfm, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403518",
+    "name" : "mmen_chiatoh1993_o.pdf",
+    "creationDate" : "2010-04-01T12:19:14.334+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7FC4-F",
+    "content" : "/rest/items/item_403519_3/component/file_403518/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "709fb7563a459e97bed65ddc89b923b6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2667272,
+    "metadata" : {
+      "title" : "mmen_chiatoh1993_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2667272,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

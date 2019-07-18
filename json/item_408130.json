@@ -1,0 +1,146 @@
+{
+  "objectId" : "item_408130",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-05-31T09:33:44.032+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9A0B-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:33:44.032+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9A0B-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:30:35.967+0000",
+  "latestRelease" : {
+    "objectId" : "item_408130",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T09:33:44.032+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9A0B-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408130",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T09:33:44.032+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9A0B-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Chilula texts",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Pliny Earle",
+        "familyName" : "Goddard",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1914",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "42374",
+      "type" : "OTHER"
+    }, {
+      "id" : "chilula_goddard1914_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Berkeley",
+      "publisher" : "Univ. of California press"
+    },
+    "sources" : [ {
+      "title" : "University of California publications in\nAmerican archaeology and ethnology",
+      "alternativeTitles" : [ {
+        "value" : "University of California Publications in American Archaeology and Ethnology"
+      } ],
+      "volume" : "10.7",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Chilula language",
+    "subjects" : [ {
+      "value" : "hup - Hupa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "p.[289]-379",
+    "abstracts" : [ {
+      "value" : "E51 .C15 vol. 10, no. 7, Chilula Indians, Chilula language, Chilula language -- Texts, Folklore, Indians of North America, Indians of North America -- Folklore, Indians of North America -- Legends, Legends, Texts"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_408128",
+    "name" : "http://ia301204.us.archive.org/2/items/chilulatextsearle00goddrich/chilulatextsearle00goddrich.pdf",
+    "creationDate" : "2010-04-01T14:30:14.941+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9A09-C",
+    "content" : "http://ia301204.us.archive.org/2/items/chilulatextsearle00goddrich/chilulatextsearle00goddrich.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://ia301204.us.archive.org/2/items/chilulatextsearle00goddrich/chilulatextsearle00goddrich.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408129",
+    "name" : "chilula_goddard1914_o.pdf",
+    "creationDate" : "2010-04-01T14:30:34.976+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9A0A-A",
+    "content" : "/rest/items/item_408130_5/component/file_408129/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8bd778029e7173e99e9a66968468e423",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10357380,
+    "metadata" : {
+      "title" : "chilula_goddard1914_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10357380,
+      "copyrightDate" : "2010-11-18",
+      "rights" : "public domain, Pliny Earl Goddard 1869-1928"
+    }
+  } ]
+}

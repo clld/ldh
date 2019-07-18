@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_402017",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-07T09:13:03.355+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A837-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-07T09:13:03.355+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-76A2-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:24:27.408+0000",
+  "latestRelease" : {
+    "objectId" : "item_402017",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-07T09:13:03.355+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A837-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402017",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-07T09:13:03.355+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A837-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulario cashibo - cacataibo",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Olive",
+        "familyName" : "Shell",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1987",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "28946",
+      "type" : "OTHER"
+    }, {
+      "id" : "cashibo_shell1987_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa", "cbr" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Peru",
+      "publisher" : "Inst. Lingüstico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Lingüistica Peruana",
+      "volume" : "23",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5763, LoC Subject Headings: Cashibo language",
+    "subjects" : [ {
+      "value" : "cbr - Cashibo-Cacataibo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "107 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5763, LoC Subject Headings: Cashibo language--Dictionaries--Spanish, LoC Subject Headings: Spanish language--Dictionaries--Cashibo"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402016",
+    "name" : "cashibo_shell1987_o.pdf",
+    "creationDate" : "2010-04-01T11:24:27.015+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-76A1-1",
+    "content" : "/rest/items/item_402017_4/component/file_402016/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "422f9329b7a687b6fd3a03a06c74c10d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3311461,
+    "metadata" : {
+      "title" : "cashibo_shell1987_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3311461
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2129362",
+    "name" : "http://www.peru.sil.org/resources/archives/29813",
+    "creationDate" : "2015-04-07T09:11:29.268+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/29813",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b5cf3c2d4cfdacfdbfa90af9220e96f9",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/29813",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Peru Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

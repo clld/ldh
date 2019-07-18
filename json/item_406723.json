@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_406723",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:51:17.917+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9233-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:51:17.917+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9233-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:46:36.413+0000",
+  "latestRelease" : {
+    "objectId" : "item_406723",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:51:17.917+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9233-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406723",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:51:17.917+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9233-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Samre grammar",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Ploykaew, Pornsawan",
+        "givenName" : "Pornsawan",
+        "familyName" : "Ploykaew",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37400",
+      "type" : "OTHER"
+    }, {
+      "id" : "samre_ploykaew2001_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "974-665-628-7",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Bangkok",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PL4351.P4,\nLoC Subject Headings: Samre (Southeast Asian people) --Languages",
+    "subjects" : [ {
+      "value" : "sxm - Samre",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XX, 350 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406721",
+    "name" : "http://archives.sealang.net/mahidol",
+    "creationDate" : "2010-04-01T13:46:35.142+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9231-C",
+    "content" : "http://archives.sealang.net/mahidol",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b90f0b74e428eb7d24c3f080c1c10bb4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://archives.sealang.net/mahidol",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406722",
+    "name" : "samre_ploykaew2001_o.pdf",
+    "creationDate" : "2010-04-01T13:46:35.439+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9232-A",
+    "content" : "/rest/items/item_406723_2/component/file_406722/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d0bb561993c0bd5bc2c57473c651d9e7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9333659,
+    "metadata" : {
+      "title" : "samre_ploykaew2001_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9333659
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

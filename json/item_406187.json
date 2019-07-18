@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_406187",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-17T10:06:39.168+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-F19B-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-17T10:06:39.168+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8F4A-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:31:22.487+0000",
+  "latestRelease" : {
+    "objectId" : "item_406187",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-17T10:06:39.168+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-F19B-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406187",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-17T10:06:39.168+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-F19B-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Wh-exclamatives in Catalan",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Elena Castroviejo",
+        "familyName" : "Mir'",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36441",
+      "type" : "OTHER"
+    }, {
+      "id" : "catalan_miro2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Barcelona",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PC3821,\nLoC Subject Headings: Catalan language",
+    "subjects" : [ {
+      "value" : "cat - Catalan",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VI, 237 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406186",
+    "name" : "catalan_miro2006_s.pdf",
+    "creationDate" : "2010-04-01T13:31:22.336+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8F49-6",
+    "content" : "/rest/items/item_406187_3/component/file_406186/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8712f544de7b7e43948a1eee2ebdcb2b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 903344,
+    "metadata" : {
+      "title" : "catalan_miro2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 903344
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2042777",
+    "name" : "http://hdl.handle.net/2445/42053",
+    "creationDate" : "2014-07-17T10:05:57.201+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-F19D-1",
+    "content" : "http://hdl.handle.net/2445/42053",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "39585df9f6e073c6445f33b25e470a84",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/2445/42053",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. of Barcelona, Dipòsit Digital, Tesis Doctorals, pdf",
+      "size" : 0
+    }
+  } ]
+}

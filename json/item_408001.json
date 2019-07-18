@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_408001",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:16:13.547+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-994D-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:16:13.547+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-994D-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:27:41.731+0000",
+  "latestRelease" : {
+    "objectId" : "item_408001",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:16:13.547+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-994D-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408001",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:16:13.547+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-994D-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario Chinanteco de San Juan Lealao Oaxaca",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Rupp, Jaime",
+        "givenName" : "Jaime",
+        "familyName" : "Rupp",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "42196",
+      "type" : "OTHER"
+    }, {
+      "id" : "chinanteco_rupp1996_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1a ed.",
+      "place" : "Tucson, Ariz.",
+      "publisher" : "SIL"
+    },
+    "sources" : [ {
+      "title" : "Serie de Vocabularios y Diccionarios Indígenas Mariano Silva y Aceves",
+      "volume" : "35",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM3630.Z9",
+    "subjects" : [ {
+      "value" : "cle - Lealao Chinantec",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xvii, 534 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407999",
+    "name" : "http://www.sil.org/mexico/chinanteca/SanJuanLealao/S035a-DicSnJnLeaChin-cle.htm",
+    "creationDate" : "2010-04-01T14:27:39.155+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-994B-B",
+    "content" : "http://www.sil.org/mexico/chinanteca/SanJuanLealao/S035a-DicSnJnLeaChin-cle.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "041cdecd2bf40512ea77cb0703b20dda",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/mexico/chinanteca/SanJuanLealao/S035a-DicSnJnLeaChin-cle.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408000",
+    "name" : "chinanteco_rupp1996_o.pdf",
+    "creationDate" : "2010-04-01T14:27:39.476+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-994C-9",
+    "content" : "/rest/items/item_408001_2/component/file_408000/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5ba3f65532054b11ba163d9adad7a608",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 23982866,
+    "metadata" : {
+      "title" : "chinanteco_rupp1996_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 23982866
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

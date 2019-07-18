@@ -1,0 +1,117 @@
+{
+  "objectId" : "item_404443",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-12-23T12:13:56.619+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-6065-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-23T12:13:56.619+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8583-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:41:41.137+0000",
+  "latestRelease" : {
+    "objectId" : "item_404443",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-12-23T12:13:56.619+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-6065-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404443",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-12-23T12:13:56.619+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-6065-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The phonology and morphology of the Sundanese language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Wayland Bryce",
+        "familyName" : "van Syoc",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1959",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "33266",
+      "type" : "OTHER"
+    }, {
+      "id" : "sundanese_vansyoc1959_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Ann Arbor]",
+      "publisher" : "Univ. of Michigan"
+    },
+    "freeKeywords" : "LoC Class: PL5451,\nLoC Subject Headings: Sundanese language",
+    "subjects" : [ {
+      "value" : "sun - Sundanese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vi, 188 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL5451 SYO 2007,\nLoC Subject Headings: Sundanese language--phonology, Sundanese language--Word formation"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404442",
+    "name" : "sundanese_vansyoc1959_o.pdf",
+    "creationDate" : "2010-04-01T12:41:40.523+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8582-0",
+    "content" : "/rest/items/item_404443_4/component/file_404442/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7a0cf8f7fb259ff76c8295947f412ed5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5977096,
+    "metadata" : {
+      "title" : "sundanese_vansyoc1959_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5977096,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

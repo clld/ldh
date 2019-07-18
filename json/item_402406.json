@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_402406",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T17:21:35.764+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6E45-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T17:21:35.764+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-78FC-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:31:23.897+0000",
+  "latestRelease" : {
+    "objectId" : "item_402406",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:21:35.764+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E45-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402406",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:21:35.764+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E45-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The effects of distance on lexical bias : sibilant harmony in Navajo compounds",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Andrew Thomas",
+        "familyName" : "Martin",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29854",
+      "type" : "OTHER"
+    }, {
+      "id" : "navajo_martin2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Los Angeles",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PM2007, LoC Subject Headings: Navajo language -- Phonology, LoC Subject Headings: Navajo language -- Compound words",
+    "subjects" : [ {
+      "value" : "nav - Navajo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vii, 51 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402404",
+    "name" : "http://www.linguistics.ucla.edu/general/MATheses/Martin_UCLA_MA_2005.pdf",
+    "creationDate" : "2010-04-01T11:31:15.329+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-78FA-9",
+    "content" : "http://www.linguistics.ucla.edu/general/MATheses/Martin_UCLA_MA_2005.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0a7cf9e25fececb7d7ac04dfb4c09db1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.linguistics.ucla.edu/general/MATheses/Martin_UCLA_MA_2005.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402405",
+    "name" : "navajo_martin2005_s.pdf",
+    "creationDate" : "2010-04-01T11:31:23.775+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-78FB-7",
+    "content" : "/rest/items/item_402406_3/component/file_402405/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c1c3f01855038f4452b4c4d265b55ec7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 603155,
+    "metadata" : {
+      "title" : "navajo_martin2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 603155
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

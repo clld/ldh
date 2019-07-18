@@ -1,0 +1,148 @@
+{
+  "objectId" : "item_406438",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:06:01.829+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-90A1-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:06:01.829+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-90A1-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:38:00.978+0000",
+  "latestRelease" : {
+    "objectId" : "item_406438",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:06:01.829+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-90A1-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406438",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:06:01.829+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-90A1-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Lubukusu-English dictionary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Michael",
+        "familyName" : "Marlo",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Adrian",
+        "familyName" : "Sifuna"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Aggrey",
+        "familyName" : "Wasike"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2007",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "36914",
+      "type" : "OTHER"
+    }, {
+      "id" : "lubukusu_marlo2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng", "" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N.A.",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL8092.B87,\nLoC Subject Headings: Bukusu dialect",
+    "subjects" : [ {
+      "value" : "bxk - Bukusu",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "187 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406436",
+    "name" : "http://sitemaker.umich.edu/mmarlo/files/bukusudictionary20070912.pdf",
+    "creationDate" : "2010-04-01T13:37:59.563+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-909F-C",
+    "content" : "http://sitemaker.umich.edu/mmarlo/files/bukusudictionary20070912.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f7231326f4887174cbd92a72cce86b52",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://sitemaker.umich.edu/mmarlo/files/bukusudictionary20070912.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406437",
+    "name" : "lubukusu_marlo2007_s.pdf",
+    "creationDate" : "2010-04-01T13:38:00.865+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-90A0-6",
+    "content" : "/rest/items/item_406438_2/component/file_406437/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "15cea169de884bafd30a2e89e7fa5010",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 504680,
+    "metadata" : {
+      "title" : "lubukusu_marlo2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 504680
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

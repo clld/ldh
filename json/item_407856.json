@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_407856",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-13T07:56:13.205+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-727C-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "lastModificationDate" : "2015-03-13T07:56:13.205+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9877-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:23:08.019+0000",
+  "latestRelease" : {
+    "objectId" : "item_407856",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T07:56:13.205+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-727C-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407856",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T07:56:13.205+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-727C-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A study of the Lou verb phrase",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Stutzman, Verna",
+        "givenName" : "Verna",
+        "familyName" : "Stutzman",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1997",
+    "datePublishedInPrint" : "1997",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "41872",
+      "type" : "OTHER"
+    }, {
+      "id" : "lou_stutzman1997_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Winnipeg",
+      "publisher" : "Univ. of Manitoba"
+    },
+    "freeKeywords" : "LoC Class: PL6253.L68, LoC Subject Headings: Lou language, LoC Subject Headings: Austronesian languages -- Papua New Guinea, LoC Subject Headings: Papua New Guinea -- Languages",
+    "subjects" : [ {
+      "value" : "loj - Lou",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "164 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407854",
+    "name" : "http://www.collectionscanada.gc.ca/obj/s4/f2/dsk2/ftp04/mq24285.pdf",
+    "creationDate" : "2010-04-01T14:22:54.466+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.collectionscanada.gc.ca/obj/s4/f2/dsk2/ftp04/mq24285.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1c9f1d338346b4eb320f62635a34818b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.collectionscanada.gc.ca/obj/s4/f2/dsk2/ftp04/mq24285.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407855",
+    "name" : "lou_stutzman1997_o.pdf",
+    "creationDate" : "2010-04-01T14:23:07.597+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9876-2",
+    "content" : "/rest/items/item_407856_3/component/file_407855/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5a1e844fadb622b8f5c4725673da7c35",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3800844,
+    "metadata" : {
+      "title" : "lou_stutzman1997_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3800844
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

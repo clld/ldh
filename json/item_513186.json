@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_513186",
+  "versionNumber" : 5,
+  "modificationDate" : "2014-08-12T10:16:27.847+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-30AA-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-08-12T10:16:27.847+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-C681-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-09-02T07:15:35.855+0000",
+  "latestRelease" : {
+    "objectId" : "item_513186",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-08-12T10:16:27.847+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-30AA-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_513186",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-08-12T10:16:27.847+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-30AA-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Complementation in Chol (Mayan) : a theory of split ergativity",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jessica",
+        "familyName" : "Coon",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External organisation",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2010",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: PM3649.C66, LoC Subject Headings: Chol language",
+    "subjects" : [ {
+      "value" : "cti - Chol, Tila",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "264 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM3649.C66, LoC Subject Headings: Chol language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_513184",
+    "name" : "chol_coon2010_s.pdf",
+    "creationDate" : "2010-09-02T07:15:31.958+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-C67F-E",
+    "content" : "/rest/items/item_513186_5/component/file_513184/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "dedba9a9ee73ba30d78c2285dbfb9ca8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1355555,
+    "metadata" : {
+      "title" : "chol_coon2010_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1355555,
+      "copyrightDate" : "2010-08-30",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_2049784",
+    "name" : "http://hdl.handle.net/1721.1/62409",
+    "creationDate" : "2014-08-12T10:14:53.435+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-30AC-9",
+    "content" : "http://hdl.handle.net/1721.1/62409",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a57dde96b4b17a4eddd3e22c99449a1d",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/62409",
+      "contentCategory" : "any-fulltext",
+      "description" : "MIT, D-Space, pdf",
+      "size" : 0
+    }
+  } ]
+}

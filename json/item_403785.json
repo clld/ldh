@@ -1,0 +1,129 @@
+{
+  "objectId" : "item_403785",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-17T10:03:12.626+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7821-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-17T10:03:12.626+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-81CB-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:24:33.118+0000",
+  "latestRelease" : {
+    "objectId" : "item_403785",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-17T10:03:12.626+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7821-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403785",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-17T10:03:12.626+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7821-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Barbot's West African vocabularies of c. 1680",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Paul Edward Hedley",
+        "familyName" : "Hair",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1992",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31728",
+      "type" : "OTHER"
+    }, {
+      "id" : "african_hair1680_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[Liverpool]",
+      "publisher" : "Centre of African Studies, University of Liverpool"
+    },
+    "freeKeywords" : "LoC Class: PL8017, LoC Subject Headings: Africa/West--Languages",
+    "totalNumberOfPages" : "22, 43 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403784",
+    "name" : "african_hair1680_o.pdf",
+    "creationDate" : "2010-04-01T12:24:32.824+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-81CA-1",
+    "content" : "/rest/items/item_403785_4/component/file_403784/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c07a3816d41846b5b2eef2b842ef71bb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2471378,
+    "metadata" : {
+      "title" : "african_hair1680_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2471378
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116464",
+    "name" : "http://digital.library.wisc.edu/1711.dl/AfricanStudies.Hair01",
+    "creationDate" : "2015-03-17T10:02:42.347+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://digital.library.wisc.edu/1711.dl/AfricanStudies.Hair01",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7316d874eee74540fbdb6e00061ed5d3",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://digital.library.wisc.edu/1711.dl/AfricanStudies.Hair01",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Wisconsin Digital Collections UWDC, African Studies Collection, pdfs",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_407396",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-05T07:35:25.240+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C68D-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-05T07:35:25.240+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-95F2-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:12:53.694+0000",
+  "latestRelease" : {
+    "objectId" : "item_407396",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-05T07:35:25.240+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C68D-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407396",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-05T07:35:25.240+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C68D-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Die Mythen und Legenden der Südamerikanischen Urvölker und ihre Beziehungen zu denen Nordamerikas und der Alten Welt",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Paul",
+        "familyName" : "Ehrenreich",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1905",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "38668",
+      "type" : "OTHER"
+    }, {
+      "id" : "mythen_ehrenreich1905_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Berlin",
+      "publisher" : "Asher & Co"
+    },
+    "sources" : [ {
+      "title" : "Zeitschrift für Ethnologie",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: F2230.1.F6, LoC Subject Headings: Indians of South America--Languages",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "106 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: F2230.1.F6,\nLoC Subject Headings: Indians of South America--Folklore, Indians of South America--Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_2104123",
+    "name" : "SüdamerikanischeUrvölker_Ehrenreich1905.pdf",
+    "creationDate" : "2015-02-25T12:35:26.014+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-E334-3",
+    "content" : "/rest/items/item_407396_4/component/file_2104123/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1f7f8d89890f58cc68ca207a3b71e2a7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9701013,
+    "metadata" : {
+      "title" : "SüdamerikanischeUrvölker_Ehrenreich1905.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9701013,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2104124",
+    "name" : "https://archive.org/details/bub_gb_fKpZAAAAMAAJ",
+    "creationDate" : "2015-02-25T12:35:26.214+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/bub_gb_fKpZAAAAMAAJ",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6a52e66eeebb79b2c2f5fc84a63e2377",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/bub_gb_fKpZAAAAMAAJ",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org: Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

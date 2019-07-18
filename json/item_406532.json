@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_406532",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T21:14:01.376+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7028-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:14:01.376+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9128-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:40:21.392+0000",
+  "latestRelease" : {
+    "objectId" : "item_406532",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T21:14:01.376+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7028-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406532",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T21:14:01.376+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7028-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario nomatsiguenga-castellano, castellano-nomatsiguenga",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Harold",
+        "familyName" : "Shaver",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37223",
+      "type" : "OTHER"
+    }, {
+      "id" : "nomatsiguenga_shaver1996_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1. Aufl.",
+      "place" : "Yarinacocha, Pucallpa, Peru",
+      "publisher" : "Ministerio de Educacion, Instituto Lingúístico\n              de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie lingüistica peruana",
+      "volume" : "41",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6678.Z5, LoC Subject Headings: Nomatsiguenga language --Dictionaries --Spanish, LoC Subject Headings: Spanish language --Dictionaries --Nomatsiguenga",
+    "subjects" : [ {
+      "value" : "not - Nomatsiguenga",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "327 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406530",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=595",
+    "creationDate" : "2010-04-01T13:40:18.879+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=595",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e8f7f20192b4588d7c4a839a83f18031",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=595",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406531",
+    "name" : "nomatsiguenga_shaver1996_o.pdf",
+    "creationDate" : "2010-04-01T13:40:20.008+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9127-0",
+    "content" : "/rest/items/item_406532_3/component/file_406531/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c71023c64cb49edfbc4f90223145c2aa",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 14286219,
+    "metadata" : {
+      "title" : "nomatsiguenga_shaver1996_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 14286219
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

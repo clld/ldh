@@ -1,0 +1,158 @@
+{
+  "objectId" : "item_407737",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-03-17T09:55:40.388+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-781B-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-17T09:55:40.388+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-97CA-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:19:34.111+0000",
+  "latestRelease" : {
+    "objectId" : "item_407737",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-17T09:55:40.388+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-781B-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407737",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-17T09:55:40.388+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-781B-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A generative grammar of Afar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Loren F.",
+        "familyName" : "Bliese",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1981",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "41817",
+      "type" : "OTHER"
+    }, {
+      "id" : "afar_bliese1981_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Dallas, Tex.",
+      "publisher" : "Summer Institute of Linguistics [u.a.]"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics ",
+      "creators" : [ {
+        "organization" : {
+          "identifier" : "ou_persistent22",
+          "name" : "Summer Institute of Linguistics",
+          "identifierPath" : [ "ou_persistent22" ]
+        },
+        "role" : "EDITOR",
+        "type" : "ORGANIZATION"
+      }, {
+        "organization" : {
+          "identifier" : "ou_persistent22",
+          "name" : "University of Texas <Arlington, Tex.>",
+          "identifierPath" : [ "ou_persistent22" ]
+        },
+        "role" : "EDITOR",
+        "type" : "ORGANIZATION"
+      } ],
+      "volume" : "65",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PJ2465, LoC Subject Headings: Afar language",
+    "subjects" : [ {
+      "value" : "aar - Afar",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XV, 306 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PJ2465, LoC Subject Headings: Afar language--Grammar/Generative"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407736",
+    "name" : "afar_bliese1981_o.pdf",
+    "creationDate" : "2010-04-01T14:19:33.255+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-97C9-0",
+    "content" : "/rest/items/item_407737_6/component/file_407736/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9ec099794fbc6035ebd5c76966917adc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8613717,
+    "metadata" : {
+      "title" : "afar_bliese1981_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8613717
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116461",
+    "name" : "http://www.sil.org/resources/archives/8559",
+    "creationDate" : "2015-03-17T09:54:41.636+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/8559",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "164ed375486bab42816db332ef1c5302",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/8559",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Archive, pdf download",
+      "size" : 0
+    }
+  } ]
+}

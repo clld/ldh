@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_405445",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T20:22:44.916+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FB3-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:22:44.916+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B28-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:13:05.210+0000",
+  "latestRelease" : {
+    "objectId" : "item_405445",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:22:44.916+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FB3-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405445",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:22:44.916+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FB3-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Infinitive im Rgveda",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Keydana, Götz",
+        "givenName" : "Götz",
+        "familyName" : "Keydana",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "HABILITATION",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34959",
+      "type" : "OTHER"
+    }, {
+      "id" : "rgveda_keydana2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Göttingen",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PK296 .S52, LoC Subject Headings: Vedas. Rgveda --Criticism, LoC Subject Headings: Textual, LoC Subject Headings: Vedic language --Infinitive",
+    "totalNumberOfPages" : "341 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405443",
+    "name" : "http://www.keydana.de/download.php?id=Infinitive_im_Rigveda.pdf",
+    "creationDate" : "2010-04-01T13:12:53.686+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.keydana.de/download.php?id=Infinitive_im_Rigveda.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d41d8cd98f00b204e9800998ecf8427e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.keydana.de/download.php?id=Infinitive_im_Rigveda.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405444",
+    "name" : "rgveda_keydana2003_s.pdf",
+    "creationDate" : "2010-04-01T13:13:04.083+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B27-C",
+    "content" : "/rest/items/item_405445_3/component/file_405444/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "541a5c46d5e07b452c720aeccec5dbc3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11440691,
+    "metadata" : {
+      "title" : "rgveda_keydana2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11440691
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

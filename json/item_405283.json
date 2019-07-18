@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_405283",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-21T06:31:49.914+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA13-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T06:31:49.914+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8A43-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:05:57.439+0000",
+  "latestRelease" : {
+    "objectId" : "item_405283",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-21T06:31:49.914+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA13-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405283",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-21T06:31:49.914+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA13-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Luganda self-instructing learner's manual",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Kasalina",
+        "familyName" : "Matovu",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1994",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34488",
+      "type" : "OTHER"
+    }, {
+      "id" : "luganda_matovu1994_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N.A.",
+      "publisher" : "Inc. Oak Park IL CHP International"
+    },
+    "freeKeywords" : "LoC Class: PL8201.4, LoC Subject Headings: Ganda language",
+    "subjects" : [ {
+      "value" : "lug - Ganda",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "158 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8201.4,\nLoC Subject Headings: Ganda language --Dictionaries"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405282",
+    "name" : "luganda_matovu1994_o.pdf",
+    "creationDate" : "2010-04-01T13:05:56.913+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A42-5",
+    "content" : "/rest/items/item_405283_3/component/file_405282/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ebd569e42335e61402127f311cc6b769",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4639535,
+    "metadata" : {
+      "title" : "luganda_matovu1994_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4639535
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147231",
+    "name" : "http://eric.ed.gov/?q=Luganda+self-instructing+learner%E2%80%99s+manual&id=ED402762",
+    "creationDate" : "2015-04-21T06:31:25.059+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://eric.ed.gov/?q=Luganda+self-instructing+learner%E2%80%99s+manual&id=ED402762",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c823aa6318618dca2ce1c80a175434ea",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eric.ed.gov/?q=Luganda+self-instructing+learner%E2%80%99s+manual&id=ED402762",
+      "contentCategory" : "publisher-version",
+      "description" : "Education Resources Information Center (ERIC), pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_400706",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-17T11:04:59.215+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7870-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter aktualisiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-17T11:04:59.215+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6F15-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:57:19.260+0000",
+  "latestRelease" : {
+    "objectId" : "item_400706",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-17T11:04:59.215+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7870-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400706",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-17T11:04:59.215+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7870-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario aguaruna - castellano, castellano - aguaruna",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Gerardo",
+        "familyName" : "Wipio Deicat",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "23980",
+      "type" : "OTHER"
+    }, {
+      "id" : "aguaruna_wipiodeicat1996_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "agr", "spa" ],
+    "publishingInfo" : {
+      "edition" : "1a ed.",
+      "place" : "Lima",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística peruana",
+      "volume" : "39",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5337.A54, LoC Subject Headings: Aguaruna dialect",
+    "subjects" : [ {
+      "value" : "agr - Aguaruna",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "296 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5337.A54, LoC Subject Headings: Aguaruna dialect--Dictionaries--Spanish, LoC Subject Headings: Spanish language--Dictionaries--Aguaruna"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400705",
+    "name" : "aguaruna_wipiodeicat1996_o.pdf",
+    "creationDate" : "2010-04-01T10:57:18.099+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F14-5",
+    "content" : "/rest/items/item_400706_4/component/file_400705/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "54ad69b3801242661e4c8698030b295e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12104489,
+    "metadata" : {
+      "title" : "aguaruna_wipiodeicat1996_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12104489
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116521",
+    "name" : "http://www.peru.sil.org/resources/archives/30169",
+    "creationDate" : "2015-03-17T11:04:01.895+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/30169",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3d9687828e8b3bfc9c80a0e0e453ecce",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/30169",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

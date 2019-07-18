@@ -1,0 +1,148 @@
+{
+  "objectId" : "item_388901",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-04-24T11:20:42.899+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C028-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-24T11:20:42.899+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-69A3-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-03-19T11:15:14.758+0000",
+  "latestRelease" : {
+    "objectId" : "item_388901",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-24T11:20:42.899+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C028-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_388901",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-24T11:20:42.899+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C028-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Argument marking in ditransitive alignment types",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Martin",
+        "familyName" : "Haspelmath",
+        "organizations" : [ {
+          "address" : "Leipzig, DE",
+          "identifier" : "ou_38004",
+          "name" : "MPI for Evolutionary Anthropology, Max Planck Society",
+          "identifierPath" : [ "ou_38004", "ou_persistent13" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "datePublishedOnline" : "2005",
+    "genre" : "ARTICLE",
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Linguistic discovery",
+      "volume" : "3 ",
+      "issue" : "1",
+      "startPage" : "1",
+      "endPage" : "21",
+      "sequenceNumber" : "1",
+      "publishingInfo" : {
+        "place" : "Hanover, NH ",
+        "publisher" : "Dartmouth College "
+      },
+      "identifiers" : [ {
+        "id" : "http://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/2/xmlpage/1/issue",
+        "type" : "URI"
+      }, {
+        "id" : "1537-0852",
+        "type" : "ISSN"
+      }, {
+        "id" : "2105073-9",
+        "type" : "ZDB"
+      } ],
+      "genre" : "JOURNAL",
+      "totalNumberOfPages" : "73"
+    } ],
+    "freeKeywords" : "LoC Class: P291, LoC Subject Headings: Grammar/Comparative and general--Syntax, LoC Subject Headings: Grammar/Comparative and general--Verb phrase",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "21"
+  },
+  "files" : [ {
+    "objectId" : "file_388899",
+    "name" : "argument_haspelmath2005_s.pdf",
+    "creationDate" : "2010-03-19T11:15:13.844+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-69A1-A",
+    "content" : "/rest/items/item_388901_6/component/file_388899/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "deb34249d469a9fb459f71cb0bc8a47b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 458688,
+    "metadata" : {
+      "title" : "argument_haspelmath2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 458688,
+      "copyrightDate" : "2010-03-11",
+      "license" : "http://creativecommons.org/licenses/by/3.0/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_388900",
+    "name" : "http://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/2/xmlpage/1/issue/25",
+    "creationDate" : "2010-03-19T11:15:13.928+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/2/xmlpage/1/issue/25",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9fd5488f8d9bb3d40d0479bf001d3376",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/2/xmlpage/1/issue/25",
+      "contentCategory" : "publisher-version",
+      "description" : "Linguistic Discovery, Dartmouth College",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_401308",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-11T11:58:14.612+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-68CD-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-03-11T11:58:14.612+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-729E-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:09:37.402+0000",
+  "latestRelease" : {
+    "objectId" : "item_401308",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-11T11:58:14.612+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-68CD-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401308",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-11T11:58:14.612+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-68CD-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammar and vocabulary of the Lau language, Solomon Islands",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Walter George",
+        "familyName" : "Ivens",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1921",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "25823",
+      "type" : "OTHER"
+    }, {
+      "id" : "lau_ivens1921_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Washington",
+      "publisher" : "Carnegie Institution"
+    },
+    "sources" : [ {
+      "title" : "Carnegie Institution of Washington publication",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6252.L3, LoC Subject Headings: Lau language",
+    "subjects" : [ {
+      "value" : "llu - Lau",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "64 S.",
+    "abstracts" : [ {
+      "value" : "\"The grammar here given is an alteration of the grammar prepared by the present writer, and printed at Norfolk Island by the Mission Press in 1914.\""
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401307",
+    "name" : "lau_ivens1921_s.pdf",
+    "creationDate" : "2010-04-01T11:09:37.318+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-729D-F",
+    "content" : "/rest/items/item_401308_4/component/file_401307/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5d3ebc198617dd68f16b41d71f84ad12",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 198393,
+    "metadata" : {
+      "title" : "lau_ivens1921_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 198393,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2110947",
+    "name" : "https://archive.org/details/grammarandvocab02ivengoog",
+    "creationDate" : "2015-03-11T11:56:24.425+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/grammarandvocab02ivengoog",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2f373bdc3674d7068a18d8675c1c2fb8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/grammarandvocab02ivengoog",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, Internet Archive, view online",
+      "size" : 0
+    }
+  } ]
+}

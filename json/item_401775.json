@@ -1,0 +1,147 @@
+{
+  "objectId" : "item_401775",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-28T08:15:11.239+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C2B9-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-28T08:15:11.239+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7540-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:18:47.768+0000",
+  "latestRelease" : {
+    "objectId" : "item_401775",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-28T08:15:11.239+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2B9-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401775",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-28T08:15:11.239+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2B9-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Haida dictionary",
+    "creators" : [ {
+      "organization" : {
+        "identifier" : "ou_persistent22",
+        "name" : "Society for the Preservation of Haida Language              and Literature",
+        "identifierPath" : [ "ou_persistent22" ]
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    }, {
+      "person" : {
+        "givenName" : "Erma",
+        "familyName" : "Lawrence",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1977",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "27785",
+      "type" : "OTHER"
+    }, {
+      "id" : "haida_lawrence1977_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[s.l.]",
+      "publisher" : "Soc. for the Preservation of Haida Language and Literature"
+    },
+    "freeKeywords" : "LoC Class: PM1273, LoC Subject Headings: Haida language",
+    "subjects" : [ {
+      "value" : "hdn - Haida, Northern",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "hax - Haida, Southern",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "464 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM1273, LoC Subject Headings: Haida language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401774",
+    "name" : "haida_lawrence1977_o.pdf",
+    "creationDate" : "2010-04-01T11:18:46.870+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-753F-B",
+    "content" : "/rest/items/item_401775_4/component/file_401774/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "71a4ff9777647216cc23bfa4984a7bb8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8827892,
+    "metadata" : {
+      "title" : "haida_lawrence1977_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8827892
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2149171",
+    "name" : "http://eric.ed.gov/?q=Haida+dictionary&id=ED162532",
+    "creationDate" : "2015-04-28T08:14:39.418+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://eric.ed.gov/?q=Haida+dictionary&id=ED162532",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "bfed07c9b54e9c8297f5920195cf62ee",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eric.ed.gov/?q=Haida+dictionary&id=ED162532",
+      "contentCategory" : "publisher-version",
+      "description" : "Education Resources Information Center (ERIC), Collection, pdf download",
+      "size" : 0
+    }
+  } ]
+}

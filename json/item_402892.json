@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_402892",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-18T10:45:55.543+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7A78-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-18T10:45:55.543+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7BD5-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:47:19.989+0000",
+  "latestRelease" : {
+    "objectId" : "item_402892",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T10:45:55.543+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A78-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402892",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T10:45:55.543+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A78-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A tentative case grammar in Benabena [Manuscript]",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Robert",
+        "familyName" : "Young",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1969",
+    "datePublishedOnline" : "2006",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "30736",
+      "type" : "OTHER"
+    }, {
+      "id" : "benabena_young_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N.A.",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL6621.B4, LoC Subject Headings: Benabena language",
+    "subjects" : [ {
+      "value" : "bef - Benabena",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "20, [6] S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6621.B4,\nLoC Subject Headings: Benabena language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402891",
+    "name" : "benabena_young_o.pdf",
+    "creationDate" : "2010-04-01T11:47:19.859+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7BD4-7",
+    "content" : "/rest/items/item_402892_3/component/file_402891/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c05cfe3507ad392605f48269fe566522",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 662746,
+    "metadata" : {
+      "title" : "benabena_young_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 662746
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116719",
+    "name" : "http://www-01.sil.org/pacific/png/abstract.asp?id=48960",
+    "creationDate" : "2015-03-18T10:45:30.471+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www-01.sil.org/pacific/png/abstract.asp?id=48960",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e2b193337f0057c971fb692c2b0f38b7",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www-01.sil.org/pacific/png/abstract.asp?id=48960",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Papua New Guinea, PNG Language Resources, pdf download",
+      "size" : 0
+    }
+  } ]
+}

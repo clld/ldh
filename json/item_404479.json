@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_404479",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-07-03T08:02:18.535+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-D908-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-03T08:02:18.535+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-85B6-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:42:17.273+0000",
+  "latestRelease" : {
+    "objectId" : "item_404479",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-03T08:02:18.535+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D908-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404479",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-03T08:02:18.535+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D908-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammar of the Bakele language, with vocabularies",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ira M.",
+        "familyName" : "Preston",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1854",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "33284",
+      "type" : "OTHER"
+    }, {
+      "id" : "bakele_preston1854_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "New York",
+      "publisher" : "Prall"
+    },
+    "freeKeywords" : "LoC Class: PL8377, LoC Subject Headings: Kele language (Gabon)",
+    "subjects" : [ {
+      "value" : "kez - Kukele",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "IV, 124 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404478",
+    "name" : "bakele_preston1854_o.pdf",
+    "creationDate" : "2010-04-01T12:42:16.834+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-85B5-D",
+    "content" : "/rest/items/item_404479_4/component/file_404478/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a00aec9177a0762833b5599873bee3f7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4064816,
+    "metadata" : {
+      "title" : "bakele_preston1854_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4064816
+    }
+  }, {
+    "objectId" : "file_2036736",
+    "name" : "http://archive.org/details/grammarofbakelel00pres",
+    "creationDate" : "2014-07-03T08:00:11.908+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-D909-D",
+    "content" : "http://archive.org/details/grammarofbakelel00pres",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6628590d0c4791f413ac905c5dcca0a6",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://archive.org/details/grammarofbakelel00pres",
+      "contentCategory" : "publisher-version",
+      "description" : "archive.org, pdf",
+      "size" : 0
+    }
+  } ]
+}

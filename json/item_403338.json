@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403338",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:35:51.927+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7E81-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:35:51.927+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E81-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:17:10.900+0000",
+  "latestRelease" : {
+    "objectId" : "item_403338",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:35:51.927+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7E81-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403338",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:35:51.927+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7E81-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Warlpiri : theoretical implications",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Legate, Julie Anne",
+        "givenName" : "Julie Anne",
+        "familyName" : "Legate",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31156",
+      "type" : "OTHER"
+    }, {
+      "id" : "warlpiri_legate2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cambridge",
+      "publisher" : " Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: PL7101.W3,\nLoC Subject Headings: Warlpiri language -- Syntax",
+    "subjects" : [ {
+      "value" : "wbp - Warlpiri",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "283 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403336",
+    "name" : "http://www.ai.mit.edu/projects/dm/theses/legate02.pdf",
+    "creationDate" : "2010-04-01T12:17:05.784+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E7F-4",
+    "content" : "http://www.ai.mit.edu/projects/dm/theses/legate02.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d394ec26c6a7679de67d4cb73dbe9972",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ai.mit.edu/projects/dm/theses/legate02.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403337",
+    "name" : "warlpiri_legate2002_s.pdf",
+    "creationDate" : "2010-04-01T12:17:10.774+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E80-F",
+    "content" : "/rest/items/item_403338_2/component/file_403337/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d394ec26c6a7679de67d4cb73dbe9972",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 655579,
+    "metadata" : {
+      "title" : "warlpiri_legate2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 655579
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

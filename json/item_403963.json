@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_403963",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T09:56:33.660+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-82CA-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:56:33.660+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-82CA-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:30:59.236+0000",
+  "latestRelease" : {
+    "objectId" : "item_403963",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:56:33.660+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-82CA-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403963",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:56:33.660+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-82CA-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Subordinação adverbial - um estudo cognitivo sobre o infinitivo, o clítico SE e as formas verbais finitas em proposições adverbiais do Português Europeu",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Vesterinen, Rainer",
+        "givenName" : "Rainer",
+        "familyName" : "Vesterinen",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32078",
+      "type" : "OTHER"
+    }, {
+      "id" : "subordinacao_vesterinen2006_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "91-7155-195-6",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "place" : "Stockholm",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Subject Headings: Portuguese language",
+    "subjects" : [ {
+      "value" : "por - Portuguese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "197 S.",
+    "abstracts" : [ {
+      "value" : "PC5043, ISO 639-3 : por, Portuguese language\n\n"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403962",
+    "name" : "subordinacao_vesterinen2006_s.pdf",
+    "creationDate" : "2010-04-01T12:30:59.066+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-82C9-E",
+    "content" : "/rest/items/item_403963_3/component/file_403962/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ce4caeae73a31d8ac5682704b6119efc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1208592,
+    "metadata" : {
+      "title" : "subordinacao_vesterinen2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1208592,
+      "copyrightDate" : "2010-09-06",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_521909",
+    "name" : "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-817",
+    "creationDate" : "2010-09-06T13:57:05.260+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-817",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "09fed8cf9e68040afc27eab498ce9d22",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-817",
+      "contentCategory" : "publisher-version",
+      "description" : "DiVA Portal, Stockholm University Library",
+      "size" : 0
+    }
+  } ]
+}

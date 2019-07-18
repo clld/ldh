@@ -1,0 +1,153 @@
+{
+  "objectId" : "item_402901",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T10:05:20.896+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7BE0-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:05:20.896+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7BE0-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:47:27.298+0000",
+  "latestRelease" : {
+    "objectId" : "item_402901",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:05:20.896+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7BE0-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402901",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:05:20.896+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7BE0-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Folopa existential verbs",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Anderson, Neil",
+        "givenName" : "Neil",
+        "familyName" : "Anderson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1989",
+    "genre" : "BOOK_ITEM",
+    "identifiers" : [ {
+      "id" : "30739",
+      "type" : "OTHER"
+    }, {
+      "id" : "folopa_anderson_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Studies in componential analysis",
+      "creators" : [ {
+        "person" : {
+          "completeName" : "ed. by Karl Franklin",
+          "givenName" : "Karl",
+          "familyName" : "Franklin",
+          "organizations" : [ {
+            "identifier" : "ou_persistent22",
+            "name" : "External Organizations",
+            "identifierPath" : [ "ou_persistent22" ]
+          } ]
+        },
+        "role" : "AUTHOR",
+        "type" : "PERSON"
+      } ],
+      "startPage" : "83",
+      "endPage" : "105",
+      "publishingInfo" : {
+        "place" : "Ukarumpa",
+        "publisher" : "SIL"
+      },
+      "genre" : "BOOK",
+      "totalNumberOfPages" : "105"
+    } ],
+    "freeKeywords" : "LoC Class: PL6621.F54,\nLoC Subject Headings: Folopa language",
+    "subjects" : [ {
+      "value" : "ppo - Folopa",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402900",
+    "name" : "folopa_anderson_s.pdf",
+    "creationDate" : "2010-04-01T11:47:27.170+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7BDF-2",
+    "content" : "/rest/items/item_402901_3/component/file_402900/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a6c9e3224a5149722237b634275d2510",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 656588,
+    "metadata" : {
+      "title" : "folopa_anderson_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 656588
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_421677",
+    "name" : "http://www.sil.org/pacific/png/abstract.asp?id=23164",
+    "creationDate" : "2010-05-06T13:30:13.477+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/pacific/png/abstract.asp?id=23164",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d35e50cdf6ee790411c148d7759594b1",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/pacific/png/abstract.asp?id=23164",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Papua New Guinea (PNG) Language Resources",
+      "size" : 0
+    }
+  } ]
+}

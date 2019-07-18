@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_402582",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T11:38:11.654+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-79F4-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:38:11.654+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-79F4-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:34:32.608+0000",
+  "latestRelease" : {
+    "objectId" : "item_402582",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T11:38:11.654+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-79F4-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402582",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T11:38:11.654+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-79F4-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Essai sur le peuple et la langue Sara (Bassin du Tchad)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Maurice",
+        "familyName" : "Delafosse",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1897",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30024",
+      "type" : "OTHER"
+    }, {
+      "id" : "sara_delafosse1897_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Paris",
+      "publisher" : "AndréŽ"
+    },
+    "freeKeywords" : "LoC Subject Headings: Sara language",
+    "subjects" : [ {
+      "value" : "mwm - Sar",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "47 S.",
+    "abstracts" : [ {
+      "value" : "PL8644, ISO 639-3 : mwm, Sara language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402581",
+    "name" : "sara_delafosse1897_o.pdf",
+    "creationDate" : "2010-04-01T11:34:32.257+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-79F3-F",
+    "content" : "/rest/items/item_402582_4/component/file_402581/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6c8d369e15f22d31083fca189f9a69c5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3147107,
+    "metadata" : {
+      "title" : "sara_delafosse1897_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3147107,
+      "copyrightDate" : "2010-11-24",
+      "rights" : "not in copyright, Maurice Delafosse, 1870-1926"
+    }
+  } ]
+}

@@ -1,0 +1,162 @@
+{
+  "objectId" : "item_405989",
+  "versionNumber" : 7,
+  "modificationDate" : "2014-07-15T08:30:05.340+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-EC2D-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-15T08:30:05.340+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8E30-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:25:26.290+0000",
+  "latestRelease" : {
+    "objectId" : "item_405989",
+    "versionNumber" : 7,
+    "modificationDate" : "2014-07-15T08:30:05.340+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-EC2D-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405989",
+    "versionNumber" : 7,
+    "modificationDate" : "2014-07-15T08:30:05.340+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-EC2D-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Intonation, word order and focus projection in Serbo-Croatian",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Svetlana",
+        "familyName" : "Godjevac",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "datePublishedInPrint" : "2000",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35592",
+      "type" : "OTHER"
+    }, {
+      "id" : "serbocroatian_godjevac2000_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: PG1224.7, LoC Subject Headings: Serbo-Croatian language",
+    "subjects" : [ {
+      "value" : "srp - Serbian",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "hrv - Croatian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxiii, 372 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PG1224.7, LoC Subject Headings: Serbo-Croatian language--Intonation, Serbo-Croatian language--Word order"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405988",
+    "name" : "serbocroatian_godjevac2000_o.pdf",
+    "creationDate" : "2010-04-01T13:25:25.397+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E2F-8",
+    "content" : "/rest/items/item_405989_7/component/file_405988/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "95ebe12d3d9dff11a98759cb1eb6105c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8182525,
+    "metadata" : {
+      "title" : "serbocroatian_godjevac2000_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8182525,
+      "copyrightDate" : "2010-10-29",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_2042430",
+    "name" : "https://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+    "creationDate" : "2014-07-15T08:29:10.366+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-EC2F-D",
+    "content" : "https://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+      "contentCategory" : "any-fulltext",
+      "description" : "Ohio State Univ., Dep. of Linguistics, OSU Dissertations in Linguistics, 2000, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2042431",
+    "name" : "https://linguistics.osu.edu/sites/linguistics.osu.edu/files/Godjevac_dissertation_2000.pdf",
+    "creationDate" : "2014-07-15T08:29:11.086+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-EC31-5",
+    "content" : "https://linguistics.osu.edu/sites/linguistics.osu.edu/files/Godjevac_dissertation_2000.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://linguistics.osu.edu/sites/linguistics.osu.edu/files/Godjevac_dissertation_2000.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

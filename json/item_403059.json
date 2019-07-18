@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_403059",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-24T10:56:05.977+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C000-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert\n",
+  "lastModificationDate" : "2015-04-24T10:56:05.977+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7CD4-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:52:42.054+0000",
+  "latestRelease" : {
+    "objectId" : "item_403059",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-24T10:56:05.977+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C000-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403059",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-24T10:56:05.977+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C000-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The syntactic domain of anaphora",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Tanya",
+        "familyName" : "Reinhart",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1976",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30916",
+      "type" : "OTHER"
+    }, {
+      "id" : "anaphora_reinhart1976_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Institute of Technology"
+    },
+    "freeKeywords" : "LoC Class: P299.A5, LoC Subject Headings: Anaphora (Linguistics), LoC Subject Headings: Generative grammar, LoC Subject Headings: Grammar/Comparative and general--Syntax",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "217 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403058",
+    "name" : "anaphora_reinhart1976_o.pdf",
+    "creationDate" : "2010-04-01T11:52:40.688+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7CD1-5",
+    "content" : "/rest/items/item_403059_4/component/file_403058/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ea5a0eea7bd8d3595a7eca6343f6295f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 14172049,
+    "metadata" : {
+      "title" : "anaphora_reinhart1976_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 14172049
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2148927",
+    "name" : "http://hdl.handle.net/1721.1/16400",
+    "creationDate" : "2015-04-24T10:55:34.814+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/16400",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b09444316dc7e41c94c75e8669f91761",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/16400",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

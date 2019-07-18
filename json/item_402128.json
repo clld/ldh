@@ -1,0 +1,147 @@
+{
+  "objectId" : "item_402128",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:37:07.528+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7760-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:37:07.528+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7760-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:26:16.316+0000",
+  "latestRelease" : {
+    "objectId" : "item_402128",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:37:07.528+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7760-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402128",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:37:07.528+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7760-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Possession in Hocak (Winnebago) : problems for a prototype approach",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Helmbrecht, Johannes",
+        "givenName" : "Johannes",
+        "familyName" : "Helmbrecht",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2003",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29155",
+      "type" : "OTHER"
+    }, {
+      "id" : "hocak_helmbrecht2003_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "1612-0612",
+      "type" : "ISSN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Erfurt",
+      "publisher" : "Univ."
+    },
+    "sources" : [ {
+      "title" : "ASSidUE",
+      "volume" : "08",
+      "identifiers" : [ {
+        "id" : "1612-0612",
+        "type" : "ISSN"
+      } ],
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM2591,\nLoC Subject Headings: Winnebago language",
+    "subjects" : [ {
+      "value" : "win - Ho-Chunk",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "38 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402126",
+    "name" : "http://www.db-thueringen.de/servlets/DerivateServlet/Derivate-1887/ASSidUE08.pdf",
+    "creationDate" : "2010-04-01T11:26:15.949+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-775E-4",
+    "content" : "http://www.db-thueringen.de/servlets/DerivateServlet/Derivate-1887/ASSidUE08.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f14d244e481e3ea7fe8e0961ad91c840",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.db-thueringen.de/servlets/DerivateServlet/Derivate-1887/ASSidUE08.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402127",
+    "name" : "hocak_helmbrecht2003_s.pdf",
+    "creationDate" : "2010-04-01T11:26:16.224+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-775F-2",
+    "content" : "/rest/items/item_402128_2/component/file_402127/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "344613c433040368b5ef35b2b3aa1d7f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 300454,
+    "metadata" : {
+      "title" : "hocak_helmbrecht2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 300454
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

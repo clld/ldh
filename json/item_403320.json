@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_403320",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T11:15:01.323+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7E67-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:15:01.323+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E67-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:13:07.397+0000",
+  "latestRelease" : {
+    "objectId" : "item_403320",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T11:15:01.323+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7E67-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403320",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T11:15:01.323+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7E67-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Non-verbal predication and head-movement",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Andrew Hay",
+        "familyName" : "Carnie",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1995",
+    "datePublishedInPrint" : "1995",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31143",
+      "type" : "OTHER"
+    }, {
+      "id" : "predication_carnie1995_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Subject Headings: Irish language",
+    "subjects" : [ {
+      "value" : "gle - Gaelic, Irish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "286 S.",
+    "abstracts" : [ {
+      "value" : "PB1271, ISO 639-3 : gle, Irish language --Syntax, Irish language --Verb, Nonverbal communication"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403318",
+    "name" : "http://www.ai.mit.edu/projects/dm/theses/carnie95.pdf",
+    "creationDate" : "2010-04-01T12:13:05.101+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E65-B",
+    "content" : "http://www.ai.mit.edu/projects/dm/theses/carnie95.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8596e876c07c374351a81a38f485cf12",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ai.mit.edu/projects/dm/theses/carnie95.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403319",
+    "name" : "predication_carnie1995_s.pdf",
+    "creationDate" : "2010-04-01T12:13:07.247+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E66-9",
+    "content" : "/rest/items/item_403320_4/component/file_403319/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ab60215fdda5ba38f15258cfa25ca6ee",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 888062,
+    "metadata" : {
+      "title" : "predication_carnie1995_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 888062,
+      "copyrightDate" : "2011-11-29",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

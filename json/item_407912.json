@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_407912",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-02-24T12:03:03.575+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-DCE5-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Stichwörter für LDH-Blogimport bearbeitet",
+  "lastModificationDate" : "2015-02-24T12:03:03.575+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-98C3-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:24:41.797+0000",
+  "latestRelease" : {
+    "objectId" : "item_407912",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-24T12:03:03.575+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-DCE5-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407912",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-24T12:03:03.575+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-DCE5-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A short grammar of the Shilluk language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Diedrich",
+        "familyName" : "Westermann",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1912",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "41928",
+      "type" : "OTHER"
+    }, {
+      "id" : "shilluk_westermann1912_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Berlin",
+      "publisher" : "Reimer"
+    },
+    "freeKeywords" : "LoC Class: PL8671,\nLoC Subject Headings: Shilluk language",
+    "subjects" : [ {
+      "value" : "shk - Shilluk",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "V, 76 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8671,\nLoC Subject Headings: Shilluk (African people), Shilluk language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407910",
+    "name" : "http://www.archive.org/details/shortgrammarofsh00westrich",
+    "creationDate" : "2010-04-01T14:24:39.472+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.archive.org/details/shortgrammarofsh00westrich",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "220a8bdb7ee4f325c6b04e2112b17ec7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/shortgrammarofsh00westrich",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org: Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407911",
+    "name" : "shilluk_westermann1912_o.pdf",
+    "creationDate" : "2010-04-01T14:24:40.646+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-98C2-7",
+    "content" : "/rest/items/item_407912_3/component/file_407911/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "06da04620ec4ac8fa4c3063cc6a14b29",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11642986,
+    "metadata" : {
+      "title" : "shilluk_westermann1912_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11642986
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

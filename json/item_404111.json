@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_404111",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:31:42.022+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-83A1-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:31:42.022+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-83A1-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:35:10.732+0000",
+  "latestRelease" : {
+    "objectId" : "item_404111",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:31:42.022+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-83A1-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404111",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:31:42.022+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-83A1-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Lexiques proto-bantous : étude des cooccurrences segmentales et supra-segmentale",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Teil-Dautrey, Gisèle",
+        "givenName" : "Gisèle",
+        "familyName" : "Teil-Dautrey",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32278",
+      "type" : "OTHER"
+    }, {
+      "id" : "bantous_dautrey2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Lyon",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL8025,\nLoC Subject Headings: Proto-Bantu language",
+    "totalNumberOfPages" : "S.13-15, 19-377"
+  },
+  "files" : [ {
+    "objectId" : "file_404109",
+    "name" : "http://www.ddl.ish-lyon.cnrs.fr/fulltext/Teil-Dautrey/Teil-Dautrey_2004_th%E8se.pdf",
+    "creationDate" : "2010-04-01T12:35:07.356+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-839F-4",
+    "content" : "http://www.ddl.ish-lyon.cnrs.fr/fulltext/Teil-Dautrey/Teil-Dautrey_2004_th%E8se.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d31bfe4a65e38bbea1199e0967ab3df6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ddl.ish-lyon.cnrs.fr/fulltext/Teil-Dautrey/Teil-Dautrey_2004_th%E8se.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404110",
+    "name" : "bantous_dautrey2004_s.pdf",
+    "creationDate" : "2010-04-01T12:35:10.503+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-83A0-F",
+    "content" : "/rest/items/item_404111_2/component/file_404110/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "63e0fb7c13ae47f13fcbd1a4ceb3d6ba",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1667068,
+    "metadata" : {
+      "title" : "bantous_dautrey2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1667068
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

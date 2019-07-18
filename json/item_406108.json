@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_406108",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-09-08T10:55:35.108+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-CBF5-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz ergänzt",
+  "lastModificationDate" : "2014-09-08T10:55:35.108+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8ED7-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:29:25.751+0000",
+  "latestRelease" : {
+    "objectId" : "item_406108",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-09-08T10:55:35.108+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-CBF5-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406108",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-09-08T10:55:35.108+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-CBF5-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Equadorian Quichua : descriptive sketch and variation",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lawrence Kidd",
+        "familyName" : "Carpenter",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1982",
+    "datePublishedInPrint" : "1982",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35890",
+      "type" : "OTHER"
+    }, {
+      "id" : "quichua_carpenter1982_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Gainesville]",
+      "publisher" : "Univ. of Florida"
+    },
+    "freeKeywords" : "LoC Class: PM6301,\nLoC Subject Headings: Quechua language",
+    "subjects" : [ {
+      "value" : "que - Quechua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XXII, 527 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406107",
+    "name" : "quichua_carpenter1982_o.pdf",
+    "creationDate" : "2010-04-01T13:29:24.477+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8ED6-E",
+    "content" : "/rest/items/item_406108_3/component/file_406107/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9fcfbd260b4284f2c51c02511ca8b926",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 13034180,
+    "metadata" : {
+      "title" : "quichua_carpenter1982_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 13034180
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2056225",
+    "name" : "http://ufdc.ufl.edu/UF00077398/00001/1j",
+    "creationDate" : "2014-09-08T10:54:59.716+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://ufdc.ufl.edu/UF00077398/00001/1j",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a6a6648bccc16591f7727aa58062dc20",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://ufdc.ufl.edu/UF00077398/00001/1j",
+      "contentCategory" : "publisher-version",
+      "description" : "UFDC Univ. of Florida Digital Collections, pdf",
+      "size" : 0
+    }
+  } ]
+}

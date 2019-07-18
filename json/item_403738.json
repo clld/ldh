@@ -1,0 +1,167 @@
+{
+  "objectId" : "item_403738",
+  "versionNumber" : 10,
+  "modificationDate" : "2015-04-17T09:38:10.828+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B7B9-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter + Metadaten korrigiert",
+  "lastModificationDate" : "2015-04-17T09:38:10.828+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-817C-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:23:20.458+0000",
+  "latestRelease" : {
+    "objectId" : "item_403738",
+    "versionNumber" : 10,
+    "modificationDate" : "2015-04-17T09:38:10.828+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B7B9-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403738",
+    "versionNumber" : 10,
+    "modificationDate" : "2015-04-17T09:38:10.828+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B7B9-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gantëya Bain",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Alva Lee",
+        "familyName" : "Wheeler",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1987",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "42874",
+      "type" : "OTHER"
+    }, {
+      "id" : "958-21-0004-4",
+      "type" : "ISBN"
+    }, {
+      "id" : "958-21-0005-2",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "2 vols.",
+      "place" : "Bogotá",
+      "publisher" : "Instituto Lingüístico de Verano"
+    },
+    "freeKeywords" : "LoC Class: PM7072.Z5, LoC Subject Headings: Sioni language",
+    "subjects" : [ {
+      "value" : "snn - Siona",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : " xiv, 374; x, 159 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM7072.Z5, LoC Subject Headings: Sioni language--Dictionaries--Spanish, LoC Subject Headings: Sioni language--Glossaries/vocabularies/etc."
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_860550",
+    "name" : "ganteya_wheeler1987-Vol1_o.html",
+    "creationDate" : "2011-04-19T07:38:07.652+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0026-B7BA-2",
+    "content" : "/rest/items/item_403738_10/component/file_860550/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a8a3b77709928838602f8a59b1c85105",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "text/html",
+    "size" : 995,
+    "metadata" : {
+      "title" : "ganteya_wheeler1987-Vol1_o.html",
+      "contentCategory" : "any-fulltext",
+      "description" : "Vol I ",
+      "formats" : [ {
+        "value" : "text/html",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 995
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_860551",
+    "name" : "ganteya_wheeler1987-vol2_o.pdf",
+    "creationDate" : "2011-04-19T07:38:07.732+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0026-B7BB-F",
+    "content" : "/rest/items/item_403738_10/component/file_860551/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b27fe3b07c77b2dabad9cfc4a423c4b0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6387322,
+    "metadata" : {
+      "title" : "ganteya_wheeler1987-vol2_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "Vol II",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6387322
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_860552",
+    "name" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=22017",
+    "creationDate" : "2011-04-19T07:38:07.930+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=22017",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "bb856b09d8c7ea3ead5ffd76fbb7dfcd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=22017",
+      "contentCategory" : "any-fulltext",
+      "description" : "SIL Colombia, Languages and Cultures of Colombia, pdf download, 2 vols.",
+      "size" : 0
+    }
+  } ]
+}

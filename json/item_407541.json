@@ -1,0 +1,160 @@
+{
+  "objectId" : "item_407541",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T09:45:13.317+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-96BE-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:45:13.317+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-96BE-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:14:35.282+0000",
+  "latestRelease" : {
+    "objectId" : "item_407541",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:45:13.317+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-96BE-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407541",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:45:13.317+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-96BE-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Univariate, bivariate, and multivariate methods in corpus-based lexicography : a study of synonymy",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Arppe, Antii",
+        "givenName" : "Antii",
+        "familyName" : "Arppe",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "39252",
+      "type" : "OTHER"
+    }, {
+      "id" : "synonymy_arppe2008_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "978-952-10-5175-3",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Helsinki",
+      "publisher" : "Helsinki Univ. Print"
+    },
+    "sources" : [ {
+      "title" : "Publications / Department of General Linguistics, University of Helsinki ",
+      "alternativeTitles" : [ { } ],
+      "creators" : [ {
+        "organization" : {
+          "identifier" : "ou_persistent22",
+          "name" : "Yleisen Kielitieteen Laitos <Helsinki>",
+          "identifierPath" : [ "ou_persistent22" ]
+        },
+        "role" : "EDITOR",
+        "type" : "ORGANIZATION"
+      } ],
+      "volume" : "44",
+      "publishingInfo" : {
+        "place" : "Helsinki",
+        "publisher" : "Dep. of General Linguistics, Univ. of Helsinki "
+      },
+      "identifiers" : [ {
+        "id" : "0355-7170",
+        "type" : "ISSN"
+      }, {
+        "id" : "781188-3",
+        "type" : "ZDB"
+      } ],
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P327,\nLoC Subject Headings: Lexicography",
+    "totalNumberOfPages" : "xiv, 286 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407539",
+    "name" : "http://www.ling.helsinki.fi/~aarppe/Publications/Arppe_Dissertation_Final_Print.pdf",
+    "creationDate" : "2010-04-01T14:14:22.353+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-96BC-5",
+    "content" : "http://www.ling.helsinki.fi/~aarppe/Publications/Arppe_Dissertation_Final_Print.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7c4260ea0711d59d1108224a9ab2a5f4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ling.helsinki.fi/~aarppe/Publications/Arppe_Dissertation_Final_Print.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407540",
+    "name" : "synonymy_arppe2008_s.pdf",
+    "creationDate" : "2010-04-01T14:14:34.879+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-96BD-3",
+    "content" : "/rest/items/item_407541_3/component/file_407540/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8a14cebb318f40a4ef49d8589daa5dc4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3313406,
+    "metadata" : {
+      "title" : "synonymy_arppe2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3313406
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

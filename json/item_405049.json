@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_405049",
+  "versionNumber" : 5,
+  "modificationDate" : "2014-12-22T12:14:24.841+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-5EFE-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-22T12:14:24.841+0000",
+  "publicState" : "WITHDRAWN",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8902-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:54:39.915+0000",
+  "latestRelease" : {
+    "objectId" : "item_405049",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-12-22T12:14:24.841+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5EFE-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405049",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-12-22T12:14:24.841+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5EFE-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A dictionary of the Chinook jargon, or, Indian trade language of the North Pacific coast",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Francis Norbert",
+        "familyName" : "Blanchet",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1878",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31532",
+      "type" : "OTHER"
+    }, {
+      "id" : "chinook_blanchet1869_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng", "chn" ],
+    "publishingInfo" : {
+      "edition" : "5. Aufl.",
+      "place" : "Victoria, British Columbia",
+      "publisher" : "Hibben"
+    },
+    "freeKeywords" : "LoC Class: PM848, LoC Subject Headings: Chinook jargon",
+    "subjects" : [ {
+      "value" : "chn - Chinook jargon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "29 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM848,\nLoC Subject Headings: Chinook jargon"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_2079858",
+    "name" : "chinook_blanchet1878.pdf",
+    "creationDate" : "2014-12-22T12:10:11.526+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-5EFF-9",
+    "content" : "/rest/items/item_405049_5/component/file_2079858/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c4aafe784978fa680bd437d359aaba5f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1839793,
+    "metadata" : {
+      "title" : "chinook_blanchet1878.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1839793,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2079859",
+    "name" : "https://archive.org/details/cihm_14263",
+    "creationDate" : "2014-12-22T12:10:11.648+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/cihm_14263",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "21188c59aca61f2a302fab5f1399b76e",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/cihm_14263",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, Additional Collections, pdf & view online",
+      "size" : 0
+    }
+  } ]
+}

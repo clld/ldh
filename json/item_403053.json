@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_403053",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T08:52:54.612+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA8B-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T08:52:54.612+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7CCA-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:52:12.780+0000",
+  "latestRelease" : {
+    "objectId" : "item_403053",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:52:54.612+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA8B-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403053",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:52:54.612+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA8B-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Agr-based case theory and its interaction with the A-bar system",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Akira",
+        "familyName" : "Watanabe",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1993",
+    "datePublishedInPrint" : "1993",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30912",
+      "type" : "OTHER"
+    }, {
+      "id" : "case_watanabe1993_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massacusetts Institute of Technology"
+    },
+    "freeKeywords" : "LoC Class: P163, LoC Subject Headings: Grammar/Comparative and general--Case, LoC Subject Headings: Case grammar",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "500 Bl."
+  },
+  "files" : [ {
+    "objectId" : "file_403052",
+    "name" : "case_watanabe1993_o.pdf",
+    "creationDate" : "2010-04-01T11:52:07.821+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7CC9-A",
+    "content" : "/rest/items/item_403053_4/component/file_403052/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "02bcace55f035d55132783eeaab8187d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 28515013,
+    "metadata" : {
+      "title" : "case_watanabe1993_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 28515013
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147310",
+    "name" : "http://hdl.handle.net/1721.1/12497",
+    "creationDate" : "2015-04-21T08:52:20.296+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/12497",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7c70fda1e1a8bebb82055843f40baa59",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/12497",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

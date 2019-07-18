@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403109",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-10T11:32:08.813+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0BBB-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter aktualisiert",
+  "lastModificationDate" : "2015-03-10T11:32:08.813+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D2C-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:55:38.125+0000",
+  "latestRelease" : {
+    "objectId" : "item_403109",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T11:32:08.813+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0BBB-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403109",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T11:32:08.813+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0BBB-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Object scrambling in Chinese",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Hooi Ling",
+        "familyName" : "Soh",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1998",
+    "datePublishedInPrint" : "1998",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30954",
+      "type" : "OTHER"
+    }, {
+      "id" : "chinese_soh1998_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technologie"
+    },
+    "freeKeywords" : "LoC Class: PL1241, LoC Subject Headings: Chinese language",
+    "subjects" : [ {
+      "value" : "cmn - Mandarin Chinese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "285 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL1241,\nLoC Subject Headings: Chinese language--Word order, Chinese language--Semantics, Chinese language--Versification"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403108",
+    "name" : "chinese_soh1998_o.pdf",
+    "creationDate" : "2010-04-01T11:55:37.109+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D2B-4",
+    "content" : "/rest/items/item_403109_3/component/file_403108/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8b382bb8883d620e84afa436a68ecd12",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10276229,
+    "metadata" : {
+      "title" : "chinese_soh1998_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10276229
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110616",
+    "name" : "http://hdl.handle.net/1721.1/9672",
+    "creationDate" : "2015-03-10T11:31:10.529+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/9672",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "dd0df193fb6737d727ae500e3a0a817c",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/9672",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, Theses, pdf download",
+      "size" : 0
+    }
+  } ]
+}

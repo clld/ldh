@@ -1,0 +1,144 @@
+{
+  "objectId" : "item_407058",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-02-20T10:52:43.270+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-CED7-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-02-20T10:52:43.270+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9426-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:53:19.585+0000",
+  "latestRelease" : {
+    "objectId" : "item_407058",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-02-20T10:52:43.270+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-CED7-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407058",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-02-20T10:52:43.270+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-CED7-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The languages of the northern Himalayas, being studies in the grammar of twenty-six Himalayan dialects",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Thomas Grahame",
+        "familyName" : "Bailey",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1908",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37619",
+      "type" : "OTHER"
+    }, {
+      "id" : "himalayan_bailey1908_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "London",
+      "publisher" : "Royal Asiatic Soc."
+    },
+    "sources" : [ {
+      "title" : "Asiatic Society monographs ",
+      "alternativeTitles" : [ { } ],
+      "creators" : [ {
+        "organization" : {
+          "identifier" : "ou_persistent22",
+          "name" : "Royal Asiatic Society of Great Britain and Ireland",
+          "identifierPath" : [ "ou_persistent22" ]
+        },
+        "role" : "EDITOR",
+        "type" : "ORGANIZATION"
+      } ],
+      "volume" : "15",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PK1508,\nLoC Subject Headings: Indo-Aryan languages/Modern, LoC Subject Headings: Chamba Lahuḷi dialect",
+    "totalNumberOfPages" : "iii, 345 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407057",
+    "name" : "himalayan_bailey1908_o.pdf",
+    "creationDate" : "2010-04-01T13:53:17.852+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9425-7",
+    "content" : "/rest/items/item_407058_4/component/file_407057/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5be9e91cbdf459cd13cc079e595083bf",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 17797995,
+    "metadata" : {
+      "title" : "himalayan_bailey1908_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 17797995,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2096468",
+    "name" : "https://archive.org/details/languagesofnorth00bailrich",
+    "creationDate" : "2015-02-20T10:51:38.334+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/languagesofnorth00bailrich",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "906a04d5287edb851f183a665964842e",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/languagesofnorth00bailrich",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, read online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

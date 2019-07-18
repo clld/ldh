@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_407001",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-08-05T08:58:34.951+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-1EB0-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-08-05T08:58:34.951+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-93D5-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:52:02.486+0000",
+  "latestRelease" : {
+    "objectId" : "item_407001",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-05T08:58:34.951+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1EB0-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407001",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-05T08:58:34.951+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1EB0-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Classification revisitee des langues Bantoues du Gabon",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jean Paul",
+        "familyName" : "Rékanga",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateCreated" : "2007",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "37593",
+      "type" : "OTHER"
+    }, {
+      "id" : "gabon_rekanga2007_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "urn:nbn:de:hebis:30-1126010",
+      "type" : "URN"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "place" : "N.A.",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL8025,\nLoC Subject Headings: Bantu languages",
+    "totalNumberOfPages" : "36 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407000",
+    "name" : "gabon_rekanga2007_s.pdf",
+    "creationDate" : "2010-04-01T13:52:02.388+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-93D4-5",
+    "content" : "/rest/items/item_407001_3/component/file_407000/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0a99644260df3fa69a3b3a820e63ee70",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 350865,
+    "metadata" : {
+      "title" : "gabon_rekanga2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 350865
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2048236",
+    "name" : "http://publikationen.ub.uni-frankfurt.de/volltexte/2009/112601/",
+    "creationDate" : "2014-08-05T08:57:51.502+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-1EB2-D",
+    "content" : "http://publikationen.ub.uni-frankfurt.de/volltexte/2009/112601/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "965e8e7da0a4f1ef9ca94ce3ae56debb",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://publikationen.ub.uni-frankfurt.de/volltexte/2009/112601/",
+      "contentCategory" : "any-fulltext",
+      "description" : "Goethe Univ. Frankfurt/Main, institutional publications, pdf",
+      "size" : 0
+    }
+  } ]
+}

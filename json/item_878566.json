@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_878566",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-13T01:46:45.937+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-722C-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:46:45.937+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0011-559B-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2011-04-29T12:39:51.117+0000",
+  "latestRelease" : {
+    "objectId" : "item_878566",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T01:46:45.937+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-722C-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_878566",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T01:46:45.937+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-722C-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "" ],
+  "metadata" : {
+    "title" : "Introductory Urdu",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "C.M.",
+        "familyName" : "Naim",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1999",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "32116",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Chicago",
+      "publisher" : "South Asia Language & Area Center, University of Chicago"
+    },
+    "freeKeywords" : "LoC Class: PK1974, LoC Subject Headings: Urdu language -- Grammar, LoC Subject Headings: Urdu language -- Textbooks for foreign speakers -- English",
+    "subjects" : [ {
+      "type" : "ISO639_3"
+    }, {
+      "value" : "urd - Urdu",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "viii, 345"
+  },
+  "files" : [ {
+    "objectId" : "file_878564",
+    "name" : "urdu_naim1999.pdf",
+    "creationDate" : "2011-04-29T12:39:49.512+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0011-5599-E",
+    "content" : "/rest/items/item_878566_3/component/file_878564/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8b635c7c9dd4b0c47d7ba82d62aba250",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 15112228,
+    "metadata" : {
+      "title" : "urdu_naim1999.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 15112228
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_878565",
+    "name" : "http://dsal.uchicago.edu/digbooks/dig_toc.html?BOOKID=PK1983.N2_1999_V1",
+    "creationDate" : "2011-04-29T12:39:49.803+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dsal.uchicago.edu/digbooks/dig_toc.html?BOOKID=PK1983.N2_1999_V1",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d7236b7d924f8306f331bffdd14d09ef",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dsal.uchicago.edu/digbooks/dig_toc.html?BOOKID=PK1983.N2_1999_V1",
+      "contentCategory" : "publisher-version",
+      "description" : "Digital South Asia Library",
+      "size" : 0
+    }
+  } ]
+}

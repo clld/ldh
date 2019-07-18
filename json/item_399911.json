@@ -1,0 +1,125 @@
+{
+  "objectId" : "item_399911",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-06-21T08:36:27.633+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6A21-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-21T08:36:27.633+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6A21-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-03-25T12:20:59.750+0000",
+  "latestRelease" : {
+    "objectId" : "item_399911",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-21T08:36:27.633+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6A21-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_399911",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-21T08:36:27.633+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6A21-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "" ],
+  "metadata" : {
+    "title" : "Eléments nouveaux en vue de la description de la langue Samayé (B25) : éléments de phonologie et de morphologie",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Soraya",
+        "familyName" : "Mokrani",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "languages" : [ "fra" ],
+    "freeKeywords" : "LoC Subject Headings: Bantu languages",
+    "tableOfContents" : "REMERCIEMENTS\nINTRODUCTION\nPRESENTATION DES INFORMATEURS\nChapitre 1 Eléments de sociolinguistique et de méthodologie \nChapitre 2 Les structures syllabiques\nChapitre 3 Partie phonématique\nChapitre 4 Tonologie\nChapitre 5 Eléments de morphologie \nChapitre 6 Structure des énoncés simples\nCONCLUSION GENERALE\nPROJET DE RECHERCHE \nBIBLIOGRAPHIE \nANNEXES",
+    "totalNumberOfPages" : "150",
+    "abstracts" : [ {
+      "value" : "PL8025 , ISO-Code 639 : ? , Bantu languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_399909",
+    "name" : "samaye_mokrani2005_s.pdf",
+    "creationDate" : "2010-03-25T12:20:48.094+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6A1F-8",
+    "content" : "/rest/items/item_399911_3/component/file_399909/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "eb29415c6f27acbaffaafb2d040a3b28",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4371042,
+    "metadata" : {
+      "title" : "samaye_mokrani2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4371042,
+      "copyrightDate" : "2010-03-22",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_399910",
+    "name" : "http://www.ddl.ish-lyon.cnrs.fr/fulltext/Gabon/B20/Mokrani_2005_samay%E9B203.pdf",
+    "creationDate" : "2010-03-25T12:20:48.564+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6A20-2",
+    "content" : "http://www.ddl.ish-lyon.cnrs.fr/fulltext/Gabon/B20/Mokrani_2005_samay%E9B203.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ddl.ish-lyon.cnrs.fr/fulltext/Gabon/B20/Mokrani_2005_samay%E9B203.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Dynamique Du Langage (DDL) - Université de Lyon",
+      "size" : 0
+    }
+  } ]
+}

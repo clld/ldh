@@ -1,0 +1,166 @@
+{
+  "objectId" : "item_403876",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-07-02T07:13:14.776+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-D7AF-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Stichwörter für LDH-Blogimport bearbeitet",
+  "lastModificationDate" : "2014-07-02T07:13:14.776+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8250-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:27:57.611+0000",
+  "latestRelease" : {
+    "objectId" : "item_403876",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-02T07:13:14.776+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D7AF-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403876",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-02T07:13:14.776+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D7AF-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Kirikeni okueingbolu diri : Okrika dictionary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Levi",
+        "familyName" : "Sika",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Roger",
+        "familyName" : "Blench"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31904",
+      "type" : "OTHER"
+    }, {
+      "id" : "kirikeni_blench2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[Cambridge]",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL8276,\nLoC Subject Headings: Ijo language",
+    "subjects" : [ {
+      "value" : "okr - Kirike",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "122 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8276.95.O42,\nLoC Subject Headings: Ijo language--Dialects--Okrika"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403875",
+    "name" : "kirikeni_blench2005_s.pdf",
+    "creationDate" : "2010-04-01T12:27:57.493+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-824F-F",
+    "content" : "/rest/items/item_403876_4/component/file_403875/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "98137a9fe71befc33a10e96f2d8eb6a0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 655909,
+    "metadata" : {
+      "title" : "kirikeni_blench2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 655909
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2036549",
+    "name" : "http://www.rogerblench.info/Language/Niger-Congo/Ijoid/Ijoid%20page.htm",
+    "creationDate" : "2014-07-02T07:10:00.032+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-D7A8-6",
+    "content" : "http://www.rogerblench.info/Language/Niger-Congo/Ijoid/Ijoid%20page.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "579bee8d4dbecb8d6728f724060c8a53",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.rogerblench.info/Language/Niger-Congo/Ijoid/Ijoid%20page.htm",
+      "contentCategory" : "any-fulltext",
+      "description" : "Roger Blench's website, Ijoid materials, Kirike",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2036550",
+    "name" : "http://www.rogerblench.info/Language/Niger-Congo/Ijoid/Kirike/KIRIKE%20dictionary.pdf",
+    "creationDate" : "2014-07-02T07:10:00.272+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-D7A9-4",
+    "content" : "http://www.rogerblench.info/Language/Niger-Congo/Ijoid/Kirike/KIRIKE%20dictionary.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e71244334b5d40dccf870941598df5e4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.rogerblench.info/Language/Niger-Congo/Ijoid/Kirike/KIRIKE%20dictionary.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

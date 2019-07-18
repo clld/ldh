@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_403350",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-05-13T12:01:38.112+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CDB0-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-13T12:01:38.112+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E91-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:17:17.572+0000",
+  "latestRelease" : {
+    "objectId" : "item_403350",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T12:01:38.112+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CDB0-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403350",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T12:01:38.112+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CDB0-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Kasong syntax",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Sunee",
+        "familyName" : "Kamnuansin",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31184",
+      "type" : "OTHER"
+    }, {
+      "id" : "kasong_sunee2002_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "974-04-2059-1",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Salaya",
+      "publisher" : "Mahidol Univ."
+    },
+    "freeKeywords" : "LoC Class: PL4303, LoC Subject Headings: Mon-Khmer languages, LoC Subject Headings: Thailand--Languages",
+    "subjects" : [ {
+      "value" : "cog - Chong",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xvii, 216 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403348",
+    "name" : "http://archives.sealang.net/mahidol",
+    "creationDate" : "2010-04-01T12:17:16.491+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://archives.sealang.net/mahidol",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "86fa3379c3cfd9ea6e00bb37274e97b0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://archives.sealang.net/mahidol",
+      "contentCategory" : "publisher-version",
+      "description" : "SEAlang Library, Archives, Dissertations and articles from Mahidol University, Sunee Kamnunsin, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403349",
+    "name" : "kasong_sunee2002_o.pdf",
+    "creationDate" : "2010-04-01T12:17:16.782+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E90-B",
+    "content" : "/rest/items/item_403350_3/component/file_403349/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6b3d8610455c62392f278f66ea4353fe",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8005972,
+    "metadata" : {
+      "title" : "kasong_sunee2002_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8005972
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

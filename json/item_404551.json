@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_404551",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-10-01T11:47:46.131+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-5C66-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain",
+  "lastModificationDate" : "2013-10-01T11:47:46.131+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8624-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:43:31.410+0000",
+  "latestRelease" : {
+    "objectId" : "item_404551",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-01T11:47:46.131+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5C66-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404551",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-01T11:47:46.131+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5C66-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The Sidath Sangarawa : a grammar of the Singhalese language ; transl. into English, with introd., notes and appendices",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "James de",
+        "familyName" : "Alwis",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1852",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "33415",
+      "type" : "OTHER"
+    }, {
+      "id" : "singhalese_alwis1852_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Colombo",
+      "publisher" : "Skeen"
+    },
+    "freeKeywords" : "LoC Subject Headings: Sinhalese language",
+    "subjects" : [ {
+      "value" : "sin - Sinhala",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "[2], CCLXXXVI, [2], 247 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PK2813,\nLoC Subject Headings: Sinhalese language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404549",
+    "name" : "http://books.google.de/books?id=zSzn93fFgR0C&dq",
+    "creationDate" : "2010-04-01T12:43:27.356+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-5C67-A",
+    "content" : "http://tinyurl.com/6gpqjv",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d86233a572c1f6cfb1f0a98bab3fc623",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://books.google.de/books?id=zSzn93fFgR0C&dq",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404550",
+    "name" : "singhalese_alwis1852_o.pdf",
+    "creationDate" : "2010-04-01T12:43:28.821+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8623-B",
+    "content" : "/rest/items/item_404551_3/component/file_404550/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "75bfc83443a761f5d96d7f94b4ea283c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 27080990,
+    "metadata" : {
+      "title" : "singhalese_alwis1852_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 27080990
+    }
+  } ]
+}

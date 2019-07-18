@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_407905",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-10-02T12:24:10.743+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-5DED-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain",
+  "lastModificationDate" : "2013-10-02T12:24:10.743+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-98B9-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:24:28.856+0000",
+  "latestRelease" : {
+    "objectId" : "item_407905",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-02T12:24:10.743+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5DED-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407905",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-02T12:24:10.743+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5DED-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Tibetan grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Heinrich August",
+        "familyName" : "Jäschke",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1883",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "41925",
+      "type" : "OTHER"
+    }, {
+      "id" : "tibetan_jaeschke1883_o.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "edition" : "2. ed.",
+      "place" : "London",
+      "publisher" : "Trübner & Co."
+    },
+    "sources" : [ {
+      "title" : "Trübner's collection of simplified grammars of the principal Asiatic and European languages",
+      "volume" : "07",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Tibetan language",
+    "subjects" : [ {
+      "value" : "bod - Tibetan",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "x, 104 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL3613.J3,\nLoC Subject Headings: Tibetan language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407903",
+    "name" : "http://www.archive.org/details/TibetanGrammarByH.A.Jschke",
+    "creationDate" : "2010-04-01T14:24:24.790+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-5DEE-1",
+    "content" : "http://www.archive.org/details/TibetanGrammarByH.A.Jschke",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "004f3ccc1e057a585b48221718b27afe",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/TibetanGrammarByH.A.Jschke",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407904",
+    "name" : "tibetan_jaeschke1883_o.pdf",
+    "creationDate" : "2010-04-01T14:24:25.816+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-98B8-0",
+    "content" : "/rest/items/item_407905_3/component/file_407904/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "49e5af5cdc322f24e08e0371922a6c25",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 32625803,
+    "metadata" : {
+      "title" : "tibetan_jaeschke1883_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 32625803
+    }
+  } ]
+}

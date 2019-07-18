@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_407610",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:47:43.264+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9722-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:47:43.264+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9722-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:16:59.584+0000",
+  "latestRelease" : {
+    "objectId" : "item_407610",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:47:43.264+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9722-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407610",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:47:43.264+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9722-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Neologismen im Marischen : Schöpfung, Verbreitung, Akzeptanz neuer Lexik und die \"sprachliche Wiedergeburt\"",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Schötschel, Monika",
+        "givenName" : "Monika",
+        "familyName" : "Schötschel",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "39935",
+      "type" : "OTHER"
+    }, {
+      "id" : "marisch_schoetschel2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Hamburg",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PH801,\nLoC Subject Headings: Mari language",
+    "subjects" : [ {
+      "value" : "mrj - Mari, Western",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "mhr - Mari, Eastern",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "x, 195 S., 65 Anh."
+  },
+  "files" : [ {
+    "objectId" : "file_407608",
+    "name" : "http://www.sub.uni-hamburg.de/opus/frontdoor.php?source_opus=3956",
+    "creationDate" : "2010-04-01T14:16:59.175+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9720-C",
+    "content" : "http://www.sub.uni-hamburg.de/opus/frontdoor.php?source_opus=3956",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "364f15f060b5697ddf51014f08ce074c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sub.uni-hamburg.de/opus/frontdoor.php?source_opus=3956",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407609",
+    "name" : "marisch_schoetschel2008_s.pdf",
+    "creationDate" : "2010-04-01T14:16:59.296+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9721-A",
+    "content" : "/rest/items/item_407610_2/component/file_407609/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fab06ae45a457dae3345ebaaa363837f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2580500,
+    "metadata" : {
+      "title" : "marisch_schoetschel2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2580500
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

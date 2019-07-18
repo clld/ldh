@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_403660",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-03T09:33:46.986+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-01EF-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-03T09:33:46.986+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-80F5-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:21:39.549+0000",
+  "latestRelease" : {
+    "objectId" : "item_403660",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T09:33:46.986+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-01EF-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403660",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T09:33:46.986+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-01EF-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of the Kwagiutl language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Alfred James",
+        "familyName" : "Hall",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1889",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31487",
+      "type" : "OTHER"
+    }, {
+      "id" : "kwagiutl_hall1888_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Montreal",
+      "publisher" : "Dawson"
+    },
+    "freeKeywords" : "LoC Class: PM1641, LoC Subject Headings: Kwakiutl language\n",
+    "subjects" : [ {
+      "value" : "kwk - Kwakiutl",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "S. 59-105",
+    "abstracts" : [ {
+      "value" : " \"From the Transactions of the Royal Society of Canada, Volume VI, section II, 1888.\" "
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403659",
+    "name" : "kwagiutl_hall1888_o.pdf",
+    "creationDate" : "2010-04-01T12:21:39.035+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-80F4-9",
+    "content" : "/rest/items/item_403660_3/component/file_403659/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1f4227c92a14915980adf957be37f537",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4638293,
+    "metadata" : {
+      "title" : "kwagiutl_hall1888_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4638293
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2104816",
+    "name" : "http://eco.canadiana.ca/view/oocihm.05333",
+    "creationDate" : "2015-03-03T09:32:50.262+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://eco.canadiana.ca/view/oocihm.05333",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8094fa01a68466c436fbe0e676e01deb",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eco.canadiana.ca/view/oocihm.05333",
+      "contentCategory" : "publisher-version",
+      "description" : "Canadiana.org, Early Canadiana online, view online",
+      "size" : 0
+    }
+  } ]
+}

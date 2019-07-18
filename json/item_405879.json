@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_405879",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:48:52.052+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8D93-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:48:52.052+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8D93-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:22:28.675+0000",
+  "latestRelease" : {
+    "objectId" : "item_405879",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:48:52.052+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8D93-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405879",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:48:52.052+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8D93-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "What can you do ? : imparative mood in semantic theory",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Mastop, Rochus Jacobus",
+        "givenName" : "Rochus Jacobus",
+        "familyName" : "Mastop",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35478",
+      "type" : "OTHER"
+    }, {
+      "id" : "imperative_mastop2005_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "90-5776-1505",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Enschede",
+      "publisher" : "PrintPartner Ipskamp"
+    },
+    "sources" : [ {
+      "title" : "ILLC Dissertation Series",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P325,\nLoC Subject Headings: Semantics",
+    "totalNumberOfPages" : "X, 184 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405877",
+    "name" : "http://dare.uva.nl/document/15083",
+    "creationDate" : "2010-04-01T13:22:25.800+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D91-1",
+    "content" : "http://dare.uva.nl/document/15083",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6752ed511372dc4e02e95a5235586e4a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dare.uva.nl/document/15083",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405878",
+    "name" : "imperative_mastop2005_s.pdf",
+    "creationDate" : "2010-04-01T13:22:28.466+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D92-0",
+    "content" : "/rest/items/item_405879_2/component/file_405878/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e5e3368712667a3ccfa336807ceb279f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1165031,
+    "metadata" : {
+      "title" : "imperative_mastop2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1165031
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

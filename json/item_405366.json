@@ -1,0 +1,150 @@
+{
+  "objectId" : "item_405366",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-07-08T09:58:04.237+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-DC95-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-08T09:58:04.237+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8AAF-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:08:43.443+0000",
+  "latestRelease" : {
+    "objectId" : "item_405366",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-08T09:58:04.237+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DC95-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405366",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-08T09:58:04.237+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DC95-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "An atlas of Nigerian languages",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Roger",
+        "familyName" : "Blench",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedOnline" : "2012-12-03",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34688",
+      "type" : "OTHER"
+    }, {
+      "id" : "nigerian_blench1992_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "3rd. ed.",
+      "place" : "Cambridge",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL8021.N5,\nLoC Subject Headings: Nigeria--Languages",
+    "totalNumberOfPages" : "xii, 111 S."
+  },
+  "files" : [ {
+    "objectId" : "file_2039446",
+    "name" : "nigerian_blench2012_s",
+    "creationDate" : "2014-07-08T09:52:49.440+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0019-DC96-4",
+    "content" : "/rest/items/item_405366_4/component/file_2039446/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3c765a014595deed23de29a790180ab5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 856744,
+    "metadata" : {
+      "title" : "nigerian_blench2012_s",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 856744
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2039447",
+    "name" : "http://www.rogerblench.info/Language/Africa/Nigeria/NigOP.htm",
+    "creationDate" : "2014-07-08T09:52:49.897+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-DC97-2",
+    "content" : "http://www.rogerblench.info/Language/Africa/Nigeria/NigOP.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5c185f453d6ce8c2a6b0ac1cc38445b9",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.rogerblench.info/Language/Africa/Nigeria/NigOP.htm",
+      "contentCategory" : "any-fulltext",
+      "description" : "Roger Blench's website, Nigeria language materials, 2014, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2039448",
+    "name" : "http://www.rogerblench.info/Language/Africa/Nigeria/Atlas%20of%20Nigerian%20Languages-%20ed%20III.pdf",
+    "creationDate" : "2014-07-08T09:52:50.035+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-DC98-F",
+    "content" : "http://www.rogerblench.info/Language/Africa/Nigeria/Atlas%20of%20Nigerian%20Languages-%20ed%20III.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3c765a014595deed23de29a790180ab5",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.rogerblench.info/Language/Africa/Nigeria/Atlas%20of%20Nigerian%20Languages-%20ed%20III.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_406275",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T19:39:04.587+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F57-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:39:04.587+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8FC1-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:34:19.486+0000",
+  "latestRelease" : {
+    "objectId" : "item_406275",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T19:39:04.587+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F57-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406275",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T19:39:04.587+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F57-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Phonemic systems of Colombian languages",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Waterhouse, Viola G.",
+        "givenName" : "Viola G.",
+        "familyName" : "Waterhouse",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1967",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "36635",
+      "type" : "OTHER"
+    }, {
+      "id" : "colombian_waterhouse1967_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Norman",
+      "publisher" : "SIL Oklahoma"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics publications in linguistics and related fields",
+      "volume" : "14",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5191 .P5, LoC Subject Headings: Indians of South America -- Colombia -- Languages, LoC Subject Headings: Phonemics",
+    "totalNumberOfPages" : "98 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406273",
+    "name" : "http://www.sil.org/americas/colombia/pubs/show_engl_work.asp?id=10056",
+    "creationDate" : "2010-04-01T13:34:15.625+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/colombia/pubs/show_engl_work.asp?id=10056",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9be0b5447b7528660a88af5ff289b428",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/colombia/pubs/show_engl_work.asp?id=10056",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406274",
+    "name" : "colombian_waterhouse1967_o.pdf",
+    "creationDate" : "2010-04-01T13:34:19.213+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8FC0-5",
+    "content" : "/rest/items/item_406275_3/component/file_406274/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c50c82f250004be2b05c5923f4f5a884",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2256958,
+    "metadata" : {
+      "title" : "colombian_waterhouse1967_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2256958
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

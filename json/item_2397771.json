@@ -1,0 +1,115 @@
+{
+  "objectId" : "item_2397771",
+  "versionNumber" : 6,
+  "modificationDate" : "2017-02-20T08:05:28.663+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-002C-7B5F-C",
+  "modifier" : {
+    "objectId" : "user_2073577"
+  },
+  "lastModificationDate" : "2017-02-20T08:05:28.663+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-002C-650B-4",
+  "creator" : {
+    "objectId" : "user_2073577"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2017-02-15T08:22:01.585+0000",
+  "latestRelease" : {
+    "objectId" : "item_2397771",
+    "versionNumber" : 6,
+    "modificationDate" : "2017-02-20T08:05:28.663+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002C-7B5F-C",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2397771",
+    "versionNumber" : 6,
+    "modificationDate" : "2017-02-20T08:05:28.663+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002C-7B5F-C",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "A grammar of Najamba (Dogon, Mali)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jeffrey",
+        "familyName" : "Heath",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "University of Michigan",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ],
+        "identifier" : {
+          "id" : "/persons/resource/persons202070",
+          "type" : "CONE"
+        }
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedOnline" : "2017-02",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "10.17617/2.2397771",
+      "type" : "DOI"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Ann Arbor",
+      "publisher" : "Univ. of Michigan"
+    },
+    "freeKeywords" : "LoC Class: PL8139.1, LoC Subject Headings: Dogon language",
+    "subjects" : [ {
+      "value" : "dbg - Dogul Dom Dogon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "455"
+  },
+  "files" : [ {
+    "objectId" : "file_2397775",
+    "name" : "Heath Najamba grammar 2017.pdf",
+    "creationDate" : "2017-02-15T08:31:29.683+0000",
+    "creator" : {
+      "objectId" : "user_2073577"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-002C-6513-0",
+    "content" : "/rest/items/item_2397771_6/component/file_2397775/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f8d1858ac98cb6a5a42ca7dc3b0ea523",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 77636276,
+    "metadata" : {
+      "title" : "Heath Najamba grammar 2017.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "OA",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 77636276,
+      "rights" : "©by the author ",
+      "license" : "http://creativecommons.org/licenses/by/4.0/"
+    }
+  } ]
+}

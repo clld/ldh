@@ -1,0 +1,166 @@
+{
+  "objectId" : "item_404986",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-13T11:16:53.952+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CD7B-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-13T11:16:53.952+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-88AA-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:53:32.026+0000",
+  "latestRelease" : {
+    "objectId" : "item_404986",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-13T11:16:53.952+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD7B-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404986",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-13T11:16:53.952+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD7B-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Contemporary Cambodian : grammatical sketch",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Madeline Elizabeth",
+        "familyName" : "Ehrman",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Kem",
+        "familyName" : "Sos"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1972",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34106",
+      "type" : "OTHER"
+    }, {
+      "id" : "cambodian_ehrman1972_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Washington, DC",
+      "publisher" : "U.S. Govt. Print. Off."
+    },
+    "sources" : [ {
+      "title" : "Department of State publication",
+      "volume" : "8631",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL4323, LoC Subject Headings: Khmer language",
+    "subjects" : [ {
+      "value" : "khm - Khmer, Central",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XII, 115 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404985",
+    "name" : "cambodian_ehrman1972_o.pdf",
+    "creationDate" : "2010-04-01T12:53:31.593+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-88A9-F",
+    "content" : "/rest/items/item_404986_4/component/file_404985/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1ba53cfedc1437e36463350eb130821e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3856481,
+    "metadata" : {
+      "title" : "cambodian_ehrman1972_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3856481
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2154503",
+    "name" : "http://fsi-languages.yojik.eu/languages/cambodian-contemporary.html",
+    "creationDate" : "2015-05-13T10:13:51.520+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://fsi-languages.yojik.eu/languages/cambodian-contemporary.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "65368d83f7d80100bbee2e7b4cc89ca8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://fsi-languages.yojik.eu/languages/cambodian-contemporary.html",
+      "contentCategory" : "publisher-version",
+      "description" : "fsi-language-courses.org, Foreign Service Institute, Cambodian, Contemporary Cambodian, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2154504",
+    "name" : "http://fsi-languages.yojik.eu/languages/Cambodian/Contemporary%20Cambodian/Fsi-ContemporaryCambodian-GrammaticalSketch.pdf",
+    "creationDate" : "2015-05-13T10:13:51.798+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://fsi-languages.yojik.eu/languages/Cambodian/Contemporary%20Cambodian/Fsi-ContemporaryCambodian-GrammaticalSketch.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05f11abd9329291056eac9c885bbb873",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://fsi-languages.yojik.eu/languages/Cambodian/Contemporary%20Cambodian/Fsi-ContemporaryCambodian-GrammaticalSketch.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "fsi-language-courses.org, Foreign Service Institute, Cambodian, Contemporary Cambodian, direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

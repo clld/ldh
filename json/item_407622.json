@@ -1,0 +1,145 @@
+{
+  "objectId" : "item_407622",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-17T11:20:21.984+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7886-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-17T11:20:21.984+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9733-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:17:06.088+0000",
+  "latestRelease" : {
+    "objectId" : "item_407622",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-17T11:20:21.984+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7886-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407622",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-17T11:20:21.984+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7886-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Una gramatica transformacional del Amahuaca",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Robert",
+        "familyName" : "Russell",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1975",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "40049",
+      "type" : "OTHER"
+    }, {
+      "id" : "panos4_russel1975_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yarinacocha, Perû",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Estudios Panos",
+      "volume" : "4",
+      "genre" : "SERIES"
+    }, {
+      "title" : "Serie Lingüística Peruana",
+      "volume" : "13",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5388, LoC Subject Headings: Amahuaca language",
+    "subjects" : [ {
+      "value" : "amc - Amahuaca",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "108 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5388,\nLoC Subject Headings: Amahuaca language --Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407621",
+    "name" : "panos4_russel1975_o.pdf",
+    "creationDate" : "2010-04-01T14:17:05.733+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9732-4",
+    "content" : "/rest/items/item_407622_3/component/file_407621/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "afc36684ed1ea4d4e5731eea2e0497b7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3039706,
+    "metadata" : {
+      "title" : "panos4_russel1975_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3039706
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116543",
+    "name" : "http://www.peru.sil.org/resources/archives/29622",
+    "creationDate" : "2015-03-17T11:19:54.065+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/29622",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "115afadd593b45af46f05beaa212ea16",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/29622",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403571",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T23:20:16.137+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70FD-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T23:20:16.137+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8037-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:50.656+0000",
+  "latestRelease" : {
+    "objectId" : "item_403571",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T23:20:16.137+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70FD-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403571",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T23:20:16.137+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70FD-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Une analyse minimaliste et dérivationnelle de la morphosyntaxe du Shupamem",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Nchare, Abdoulaye Laziz",
+        "givenName" : "Abdoulaye Laziz",
+        "familyName" : "Nchare",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31411",
+      "type" : "OTHER"
+    }, {
+      "id" : "shupamen_nchare2005_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Bamun language, LoC Subject Headings: Cameroon languages",
+    "subjects" : [ {
+      "value" : "bax - Bamun",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "x, 195 S.",
+    "abstracts" : [ {
+      "value" : "PL8050, ISO 639-3 : bax, Bamun language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403570",
+    "name" : "shupamen_nchare2005_o.pdf",
+    "creationDate" : "2010-04-01T12:19:49.852+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8036-8",
+    "content" : "/rest/items/item_403571_4/component/file_403570/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b22b03e4ef25f43442484fea7e0650bc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8098984,
+    "metadata" : {
+      "title" : "shupamen_nchare2005_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8098984,
+      "rights" : "with permission from Université de Yaounde I "
+    }
+  } ]
+}

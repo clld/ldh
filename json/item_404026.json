@@ -1,0 +1,170 @@
+{
+  "objectId" : "item_404026",
+  "versionNumber" : 3,
+  "modificationDate" : "2016-02-02T08:42:59.646+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0029-76E0-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz korrigiert, LoC Subject Headings korrigiert",
+  "lastModificationDate" : "2016-02-02T08:42:59.646+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8328-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:32:55.145+0000",
+  "latestRelease" : {
+    "objectId" : "item_404026",
+    "versionNumber" : 3,
+    "modificationDate" : "2016-02-02T08:42:59.646+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0029-76E0-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404026",
+    "versionNumber" : 3,
+    "modificationDate" : "2016-02-02T08:42:59.646+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0029-76E0-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Bosquejo gramatical del Zaparo",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "M. Catherine",
+        "familyName" : "Peeke",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Mary Ruth",
+        "familyName" : "Wise"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Stephen H.",
+        "familyName" : "Levinsohn"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1991",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "32158",
+      "type" : "OTHER"
+    }, {
+      "id" : "zaparo_peeke1991_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "place" : "Quito",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Cuadernos etnolingüísticos",
+      "volume" : "14",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM7341,\nLoC Subject Headings: Zaparo language",
+    "subjects" : [ {
+      "value" : "zro - Záparo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "72 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404025",
+    "name" : "zaparo_peeke1991_o.pdf",
+    "creationDate" : "2010-04-01T12:32:54.906+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8327-0",
+    "content" : "/rest/items/item_404026_3/component/file_404025/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f800babd65504b28fc947a0c243580f9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1934383,
+    "metadata" : {
+      "title" : "zaparo_peeke1991_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1934383
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2246799",
+    "name" : "http://www.sil.org/resources/archives/17576",
+    "creationDate" : "2016-02-02T08:42:23.211+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/17576",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0931d30300d117ed26b59d5d45e82178",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/17576",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Languages & Cultures Archive, metadata information",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2246800",
+    "name" : "https://archive.org/details/rosettaproject_zro_vertxt-1",
+    "creationDate" : "2016-02-02T08:42:24.467+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/rosettaproject_zro_vertxt-1",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c5efafe13717fd5ee9a721f017c448f3",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/rosettaproject_zro_vertxt-1",
+      "contentCategory" : "supplementary-material",
+      "description" : "Archive.org, Rosetta project, chapter 3, view online & free pdf download",
+      "size" : 0
+    }
+  } ]
+}

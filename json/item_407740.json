@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_407740",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-10T08:48:50.179+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0AA8-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-10T08:48:50.179+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-97CF-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:19:36.291+0000",
+  "latestRelease" : {
+    "objectId" : "item_407740",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-10T08:48:50.179+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0AA8-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407740",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-10T08:48:50.179+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0AA8-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Phonology and morphology of Axininca Campa\n",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "David L.",
+        "familyName" : "Payne",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1981",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "41818",
+      "type" : "OTHER"
+    }, {
+      "id" : "axininca_payne1981_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Dallas, Tex.",
+      "publisher" : "Summer Institute of Linguistics and the University of Texas at Arlington"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics",
+      "volume" : "66",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5716, LoC Subject Headings: Campa languages",
+    "subjects" : [ {
+      "value" : "cpc - Ajyíninka Apurucayali",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix, 285 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5716, LoC Subject Headings: Campa language--Phonology, Campa language--Morphology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407739",
+    "name" : "axininca_payne1981_o.pdf",
+    "creationDate" : "2010-04-01T14:19:35.594+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-97CE-6",
+    "content" : "/rest/items/item_407740_4/component/file_407739/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b28f373da44e82de9b9a2c8a60fbcd13",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6827695,
+    "metadata" : {
+      "title" : "axininca_payne1981_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6827695
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110492",
+    "name" : "http://www.peru.sil.org/resources/archives/8521",
+    "creationDate" : "2015-03-10T08:42:08.857+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/8521",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "df9cd9d4edc43e8ce3f1d5e72653a8d4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/8521",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Peru Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

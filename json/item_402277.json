@@ -1,0 +1,154 @@
+{
+  "objectId" : "item_402277",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-06-20T07:31:11.136+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-C1EC-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Stichwörter für LDH-Blogimport bereinigt",
+  "lastModificationDate" : "2014-06-20T07:31:11.136+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7845-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:29:33.294+0000",
+  "latestRelease" : {
+    "objectId" : "item_402277",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-06-20T07:31:11.136+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-C1EC-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402277",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-06-20T07:31:11.136+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-C1EC-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Intensive chichewa",
+    "creators" : [ {
+      "organization" : {
+        "identifier" : "ou_persistent22",
+        "name" : "Language Centre",
+        "identifierPath" : [ "ou_persistent22" ]
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "1969",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29512",
+      "type" : "OTHER"
+    }, {
+      "id" : "intensive_chichewa_o.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Malawi",
+      "publisher" : "Likuni Press"
+    },
+    "freeKeywords" : "LoC Class: PL8110.C52, LoC Subject Headings: Chewa dialect",
+    "subjects" : [ {
+      "value" : "nya - Nyanja",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "49 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8110.C52, LoC Subject Headings: Chewa dialect --Textbooks for foreign speakers --English"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402276",
+    "name" : "intensive_chichewa_o.pdf",
+    "creationDate" : "2010-04-01T11:29:32.956+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7844-3",
+    "content" : "/rest/items/item_402277_4/component/file_402276/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "73b69858d054b9b7c27a3e5ad9a1bf05",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2937501,
+    "metadata" : {
+      "title" : "intensive_chichewa_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2937501
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2034105",
+    "name" : "http://www.andylyons.org/chichewa/",
+    "creationDate" : "2014-06-20T07:26:43.509+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-C1EA-E",
+    "content" : "http://www.andylyons.org/chichewa/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1a8fdf5de468de8f36233d08c39b1d52",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.andylyons.org/chichewa/",
+      "contentCategory" : "publisher-version",
+      "description" : "Andy Lyon's website, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2034106",
+    "name" : "http://www.andylyons.org/chichewa/intensive_chichewa.pdf",
+    "creationDate" : "2014-06-20T07:26:44.371+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-C1EB-C",
+    "content" : "http://www.andylyons.org/chichewa/intensive_chichewa.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c272016a7cb822e641038c9c45a81731",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.andylyons.org/chichewa/intensive_chichewa.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "direct link to pdf-version",
+      "size" : 0
+    }
+  } ]
+}

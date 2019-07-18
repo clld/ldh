@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_405999",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T12:05:39.876+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8E42-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T12:05:39.876+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8E42-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:25:47.851+0000",
+  "latestRelease" : {
+    "objectId" : "item_405999",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T12:05:39.876+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8E42-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405999",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T12:05:39.876+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8E42-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Phrase structure and the syntax of clitics in the history of Spanish",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Josep M.",
+        "familyName" : "Fontana",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1993",
+    "datePublishedInPrint" : "1993",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35597",
+      "type" : "OTHER"
+    }, {
+      "id" : "spanish_fontana1993_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Philadelphia",
+      "publisher" : "Univ. of Pennsylvania"
+    },
+    "freeKeywords" : "LoC Subject Headings: Spanish language",
+    "subjects" : [ {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VIII, 312 S.",
+    "abstracts" : [ {
+      "value" : "PC4139.3, ISO 639-3 : spa, Spanish language -- Clitics, Spanish language -- Phraseology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405997",
+    "name" : "http://repository.upenn.edu/cgi/viewcontent.cgi?article=1183&context=ircs_reports",
+    "creationDate" : "2010-04-01T13:25:39.792+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E40-F",
+    "content" : "http://repository.upenn.edu/cgi/viewcontent.cgi?article=1183&context=ircs_reports",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "870d7c2d903705a190e15fbc63a6d515",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://repository.upenn.edu/cgi/viewcontent.cgi?article=1183&context=ircs_reports",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405998",
+    "name" : "spanish_fontana1993_s.pdf",
+    "creationDate" : "2010-04-01T13:25:47.611+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E41-D",
+    "content" : "/rest/items/item_405999_3/component/file_405998/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6bd9850876f5989a269e9837a89a517e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1096074,
+    "metadata" : {
+      "title" : "spanish_fontana1993_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1096074,
+      "copyrightDate" : "2010-22-09",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

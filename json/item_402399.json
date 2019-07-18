@@ -1,0 +1,148 @@
+{
+  "objectId" : "item_402399",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T17:21:12.920+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6E44-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T17:21:12.920+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-78EF-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:31:11.430+0000",
+  "latestRelease" : {
+    "objectId" : "item_402399",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:21:12.920+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E44-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402399",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:21:12.920+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E44-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Estudios linguisticos de textos asheninca (campa-arawak preandino)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "David Lawrence",
+        "familyName" : "Payne",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Marlene",
+        "familyName" : "Ballena Davila"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1983",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29849",
+      "type" : "OTHER"
+    }, {
+      "id" : "http://www.sil\n              .org/americas/peru/html/pubs/show_work\n              .asp?id=576",
+      "type" : "URI"
+    }, {
+      "id" : "asheninca_payne1983_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[Lima]",
+      "publisher" : "Ministerio de Educación,Instituto Lingüístico\n              de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie lingüistica peruana",
+      "volume" : "21",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5716, LoC Subject Headings: Campa language, LoC Subject Headings: Campa language",
+    "subjects" : [ {
+      "value" : "cpu - Pichis Ashéninka",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "166 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402397",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=576",
+    "creationDate" : "2010-04-01T11:31:09.546+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=576",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0f7535ac6eb0a7b4348374434297e9c9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=576",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402398",
+    "name" : "asheninca_payne1983_o.pdf",
+    "creationDate" : "2010-04-01T11:31:10.758+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-78EE-5",
+    "content" : "/rest/items/item_402399_3/component/file_402398/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "580c6de95e960ce048b41ad62f048caf",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5627028,
+    "metadata" : {
+      "title" : "asheninca_payne1983_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5627028
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

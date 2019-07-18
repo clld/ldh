@@ -1,0 +1,160 @@
+{
+  "objectId" : "item_407156",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-04-24T12:06:28.087+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C045-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-24T12:06:28.087+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-94A1-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:56:20.565+0000",
+  "latestRelease" : {
+    "objectId" : "item_407156",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-24T12:06:28.087+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C045-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407156",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-24T12:06:28.087+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C045-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Putative passives in Mengzi",
+    "alternativeTitles" : [ {
+      "value" : "Mengzi li mian de wu biao zhi de bei dong ju = 孟子裡面的無標誌的被動句 / 柏恪義"
+    } ],
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Marco",
+        "familyName" : "Caboara",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37749",
+      "type" : "OTHER"
+    }, {
+      "id" : "mengzi_marco2004_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Hong Kong",
+      "publisher" : "City Univ."
+    },
+    "freeKeywords" : "LoC Class: PL1241, LoC Subject Headings: Chinese language",
+    "subjects" : [ {
+      "value" : "cmn - Mandarin Chinese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "130 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407154",
+    "name" : "http://lib.cityu.edu.hk/record=b1871475",
+    "creationDate" : "2010-04-01T13:56:19.266+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://lib.cityu.edu.hk/record=b1871475",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e91224d9234bf121bf63249be7e6d22b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://lib.cityu.edu.hk/record=b1871475",
+      "contentCategory" : "publisher-version",
+      "description" : "Run Run Shaw Library / City University of Hong Kong",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407155",
+    "name" : "mengzi_marco2004_o.pdf",
+    "creationDate" : "2010-04-01T13:56:20.127+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-94A0-4",
+    "content" : "/rest/items/item_407156_6/component/file_407155/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "daca75c0e48db54a1b3f7a8130d16b68",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4073124,
+    "metadata" : {
+      "title" : "mengzi_marco2004_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4073124,
+      "copyrightDate" : "2010-05-10",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_432199",
+    "name" : "http://lbms03.cityu.edu.hk/theses/abt/mphil-ctl-b18714754a.pdf",
+    "creationDate" : "2010-05-11T07:05:04.686+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9E1E-F",
+    "content" : "http://lbms03.cityu.edu.hk/theses/abt/mphil-ctl-b18714754a.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5157cd7aeb8de9c31b2ac194a76cfed9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://lbms03.cityu.edu.hk/theses/abt/mphil-ctl-b18714754a.pdf",
+      "contentCategory" : "table-of-contents",
+      "description" : "Abstract + Table of Contents Run Run Shaw Library / City University of Hong Kong",
+      "size" : 0
+    }
+  } ]
+}

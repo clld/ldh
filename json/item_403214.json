@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_403214",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T10:19:50.349+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7DC4-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:19:50.349+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7DC4-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:04:33.576+0000",
+  "latestRelease" : {
+    "objectId" : "item_403214",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T10:19:50.349+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7DC4-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403214",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T10:19:50.349+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7DC4-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Some asymmetries in Japanese and their theoretical implications",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mamoru",
+        "familyName" : "Saito",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1985",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31081",
+      "type" : "OTHER"
+    }, {
+      "id" : "japanese_saito1985_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cambridge",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Subject Headings: Japanese language",
+    "subjects" : [ {
+      "value" : "jpn - Japanese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "364 S.",
+    "abstracts" : [ {
+      "value" : "PL533, ISO 639-3 : jpn, Japanese language -- Syntax, Japanese language -- Word order"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403212",
+    "name" : "http://www.ai.mit.edu/projects/dm/theses/saito85.pdf",
+    "creationDate" : "2010-04-01T12:04:22.659+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7DC2-0",
+    "content" : "http://www.ai.mit.edu/projects/dm/theses/saito85.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "cab65ba75e086184ffadfe49485b08b1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ai.mit.edu/projects/dm/theses/saito85.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "DSpace@MIT ",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403213",
+    "name" : "japanese_saito1985_o.pdf",
+    "creationDate" : "2010-04-01T12:04:31.805+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7DC3-E",
+    "content" : "/rest/items/item_403214_4/component/file_403213/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "34c737a7381a6c60ef15e3a358c062f1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 18016788,
+    "metadata" : {
+      "title" : "japanese_saito1985_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 18016788,
+      "copyrightDate" : "07.01.2011",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

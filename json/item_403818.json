@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_403818",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T11:05:44.292+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-81F8-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:05:44.292+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-81F8-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:26:13.686+0000",
+  "latestRelease" : {
+    "objectId" : "item_403818",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:05:44.292+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-81F8-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403818",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:05:44.292+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-81F8-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Agentivity and participant marking in Denaina Athabascan : a text-based study",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Olga Charlotte",
+        "familyName" : "Lovick",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31742",
+      "type" : "OTHER"
+    }, {
+      "id" : "denaina_lovick2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Köln",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Subject Headings: Dena'ina language",
+    "subjects" : [ {
+      "value" : "tfn - Tanaina",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "252 [S.]",
+    "abstracts" : [ {
+      "value" : "PM2412.A6, ISO 639-3 : tfn, Dena'ina language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403816",
+    "name" : "http://kups.ub.uni-koeln.de/volltexte/2006/1727/pdf/lovick1.pdf",
+    "creationDate" : "2010-04-01T12:26:12.267+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-81F6-0",
+    "content" : "http://kups.ub.uni-koeln.de/volltexte/2006/1727/pdf/lovick1.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1c38fab3b95930b6758087d1e3b64a7a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://kups.ub.uni-koeln.de/volltexte/2006/1727/pdf/lovick1.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "KUPS Kölner Universitäts-Publikations-Server",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403817",
+    "name" : "denaina_lovick2005_s.pdf",
+    "creationDate" : "2010-04-01T12:26:13.272+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-81F7-E",
+    "content" : "/rest/items/item_403818_3/component/file_403817/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "52120b234debf528a3a487c537e3127a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3500552,
+    "metadata" : {
+      "title" : "denaina_lovick2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3500552,
+      "copyrightDate" : "2010-11-19",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

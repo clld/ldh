@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_406826",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T21:04:21.835+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-700E-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:04:21.835+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-92C5-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:47:57.426+0000",
+  "latestRelease" : {
+    "objectId" : "item_406826",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T21:04:21.835+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-700E-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406826",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T21:04:21.835+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-700E-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Survey of Sea peoples dialects along the West Coast of Thailane",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Makboon, Sorat",
+        "givenName" : "Sorat",
+        "familyName" : "Makboon",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1981",
+    "datePublishedInPrint" : "1981",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37458",
+      "type" : "OTHER"
+    }, {
+      "id" : "thailand_makboon1981_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Bangkok",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PL4111, LoC Subject Headings: Thai language --Dialects, LoC Subject Headings: Tai languages",
+    "totalNumberOfPages" : "xi, 122 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406824",
+    "name" : "http://archives.sealang.net/mahidol",
+    "creationDate" : "2010-04-01T13:47:56.760+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://archives.sealang.net/mahidol",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "86fa3379c3cfd9ea6e00bb37274e97b0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://archives.sealang.net/mahidol",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406825",
+    "name" : "thailand_makboon1981_o.pdf",
+    "creationDate" : "2010-04-01T13:47:57.046+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-92C4-4",
+    "content" : "/rest/items/item_406826_3/component/file_406825/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d2c9d5324004b1cfb5bce18a0c80faac",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3367863,
+    "metadata" : {
+      "title" : "thailand_makboon1981_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3367863
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_406303",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-19T06:21:03.803+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-D087-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-19T06:21:03.803+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8FEB-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:34:54.297+0000",
+  "latestRelease" : {
+    "objectId" : "item_406303",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-19T06:21:03.803+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D087-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406303",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-19T06:21:03.803+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D087-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Four-way stop contrasts in hindi : an acoustic study of voicing, fundamental frequency and spectral tilt",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Indranil",
+        "familyName" : "Dutta",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36670",
+      "type" : "OTHER"
+    }, {
+      "id" : "hindi_dutta2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Urbana, Ill.",
+      "publisher" : "Univ. of Illinois"
+    },
+    "freeKeywords" : "LoC Class: PK1933, LoC Subject Headings: Hindi language",
+    "subjects" : [ {
+      "value" : "hin - Hindi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XIII, 127 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406301",
+    "name" : "http://indranildutta.files.wordpress.com/2007/12/thesis_body.pdf",
+    "creationDate" : "2010-04-01T13:34:42.435+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8FE9-B",
+    "content" : "http://indranildutta.files.wordpress.com/2007/12/thesis_body.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "83b278a01146b8f54e8d00af9aaaedfa",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://indranildutta.files.wordpress.com/2007/12/thesis_body.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Indranil Dutta's blog, direct link to pdf version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406302",
+    "name" : "hindi_dutta2007_s.pdf",
+    "creationDate" : "2010-04-01T13:34:53.741+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8FEA-9",
+    "content" : "/rest/items/item_406303_4/component/file_406302/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2859f74d81a6a85f7c223c8fd96d1bb4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4840656,
+    "metadata" : {
+      "title" : "hindi_dutta2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4840656
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

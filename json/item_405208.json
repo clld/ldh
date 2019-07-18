@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_405208",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-12T08:51:09.659+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CC35-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-05-12T08:51:09.659+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-89DA-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:04:02.643+0000",
+  "latestRelease" : {
+    "objectId" : "item_405208",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-12T08:51:09.659+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CC35-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405208",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-12T08:51:09.659+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CC35-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The Italian \"mobile diphthongs\" : a test case for experimental phonetics and phonological theory",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Bart van der",
+        "familyName" : "Veer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34397",
+      "type" : "OTHER"
+    }, {
+      "id" : "italian_veer2006_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "90-76864-88-8",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "freeKeywords" : "LoC Class: PC1157, LoC Subject Headings: Italian language",
+    "subjects" : [ {
+      "value" : "ita - Italian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "179 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405207",
+    "name" : "italian_veer2006_s.pdf",
+    "creationDate" : "2010-04-01T13:04:01.797+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-89D9-E",
+    "content" : "/rest/items/item_405208_4/component/file_405207/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "984a287c53e453563ef1ccb0f7d63fc6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2763677,
+    "metadata" : {
+      "title" : "italian_veer2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2763677
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2152239",
+    "name" : "http://hdl.handle.net/1887/3773",
+    "creationDate" : "2015-05-12T08:50:38.714+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1887/3773",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6b4013452fdeba0e3e1e768bea7aacdc",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1887/3773",
+      "contentCategory" : "publisher-version",
+      "description" : "Leiden Univ., Repository, pdf download",
+      "size" : 0
+    }
+  } ]
+}

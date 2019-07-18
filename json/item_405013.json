@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_405013",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-18T12:46:58.947+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7AEC-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-18T12:46:58.947+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-88D4-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:53:51.692+0000",
+  "latestRelease" : {
+    "objectId" : "item_405013",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-18T12:46:58.947+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7AEC-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405013",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-18T12:46:58.947+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7AEC-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Marĩ yaye mena Carapana, yaia yaye mena Español macãrĩcã tuti = Carapana-Español, diccionario de 1000 palabras",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ronald G.",
+        "familyName" : "Metzger",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2000",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34170",
+      "type" : "OTHER"
+    }, {
+      "id" : "carapana_metzger2000_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "958-9281-41-9",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "spa", "cbc" ],
+    "publishingInfo" : {
+      "edition" : "1a ed.",
+      "place" : "Bogotá",
+      "publisher" : "Editorial Alberta Lleras Camargo"
+    },
+    "freeKeywords" : "LoC Class: PM5749.Z5, LoC Subject Headings: Carapana language (Tucanoan)",
+    "subjects" : [ {
+      "value" : "cbc - Carapana",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "v, 157 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5749.Z5, LoC Subject Headings: Carapana language (Tucanoan) -- Dictionaries -- Spanish, LoC Subject Headings: Spanish language -- Dictionaries -- Carapana (Tucanoan)"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405012",
+    "name" : "carapana_metzger2000_o.pdf",
+    "creationDate" : "2010-04-01T12:53:50.983+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-88D3-F",
+    "content" : "/rest/items/item_405013_4/component/file_405012/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "384d615e96af6a939cc68714e5edb547",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6943097,
+    "metadata" : {
+      "title" : "carapana_metzger2000_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6943097
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116777",
+    "name" : "http://www-01.sil.org/americas/colombia/pubs/abstract.asp?id=928474518918",
+    "creationDate" : "2015-03-18T12:46:20.663+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www-01.sil.org/americas/colombia/pubs/abstract.asp?id=928474518918",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "860195edbf5c77b8ca1cb844e03e0406",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www-01.sil.org/americas/colombia/pubs/abstract.asp?id=928474518918",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Colombia, Languages and Cultures of Colombia, pdf download",
+      "size" : 0
+    }
+  } ]
+}

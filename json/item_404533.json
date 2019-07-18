@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_404533",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-09-25T10:58:58.481+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-56B8-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain",
+  "lastModificationDate" : "2013-09-25T10:58:58.481+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8609-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:43:12.224+0000",
+  "latestRelease" : {
+    "objectId" : "item_404533",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-09-25T10:58:58.481+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-56B8-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404533",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-09-25T10:58:58.481+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-56B8-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Arte de la lingua mexicana",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Rafael",
+        "familyName" : "Sandoval",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1810",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "33393",
+      "type" : "OTHER"
+    }, {
+      "id" : "mexicana_sandoval1810_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Mexico",
+      "publisher" : "Valdés"
+    },
+    "freeKeywords" : "LoC Subject Headings: Spanish language",
+    "subjects" : [ {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "62 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PC4829.N4,\nLoC Subject Headings: Spanish language --Dialects --New Mexico"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404531",
+    "name" : "http://books.google.de/books?id=kacNUXQszuAC",
+    "creationDate" : "2010-04-01T12:43:10.606+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-56B9-B",
+    "content" : "http://tinyurl.com/5cdpx4",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5a9cf72390f69d689bb0aad67447769f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://books.google.de/books?id=kacNUXQszuAC",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404532",
+    "name" : "mexicana_sandoval1810_o.pdf",
+    "creationDate" : "2010-04-01T12:43:11.840+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8608-9",
+    "content" : "/rest/items/item_404533_3/component/file_404532/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ada4740298dca9f299353c640e048748",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3492878,
+    "metadata" : {
+      "title" : "mexicana_sandoval1810_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3492878
+    }
+  } ]
+}

@@ -1,0 +1,117 @@
+{
+  "objectId" : "item_404689",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-12-05T10:29:50.275+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-4B72-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2014-12-05T10:29:50.275+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-86ED-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:46:07.607+0000",
+  "latestRelease" : {
+    "objectId" : "item_404689",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-05T10:29:50.275+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-4B72-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404689",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-05T10:29:50.275+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-4B72-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The morphosyntax of the Central Ojibwa verb",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Richard Alan",
+        "familyName" : "Rhodes",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1976",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "33685",
+      "type" : "OTHER"
+    }, {
+      "id" : "ojibwa_rhodes1976_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Ann Arbor",
+      "publisher" : "Univ. of Michigan"
+    },
+    "freeKeywords" : "LoC Class: PM852,\nLoC Subject Headings: Ojibwa language",
+    "subjects" : [ {
+      "value" : "ojc - Central Ojibwa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vi, 301 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM852,\nLoC Subject Headings: Ojibwa language--Morphosyntax"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_2077170",
+    "name" : "ojibwa_rhodes1976_o.pdf",
+    "creationDate" : "2014-12-05T10:27:32.082+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-4B73-9",
+    "content" : "/rest/items/item_404689_3/component/file_2077170/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "feada275ec9a01ce4e0d81eb92920f13",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7607156,
+    "metadata" : {
+      "title" : "ojibwa_rhodes1976_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7607156,
+      "copyrightDate" : "2014-12-01",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

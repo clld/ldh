@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_405292",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-29T10:23:50.871+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0027-7832-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-29T10:23:50.871+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8A4F-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:06:07.222+0000",
+  "latestRelease" : {
+    "objectId" : "item_405292",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-29T10:23:50.871+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0027-7832-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405292",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-29T10:23:50.871+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0027-7832-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The clause structure of Malagasy : a minimalist approach",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Joel Matthew",
+        "familyName" : "Pearson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedInPrint" : "2001",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34492",
+      "type" : "OTHER"
+    }, {
+      "id" : "malagasy_pearson2001_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Los Angeles",
+      "publisher" : "Univ. of California"
+    },
+    "freeKeywords" : "LoC Class: PL5375, LoC Subject Headings: Malagasy language",
+    "subjects" : [ {
+      "value" : "plt - Plateau Malagasy",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VIII, 258 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405290",
+    "name" : "http://www.linguistics.ucla.edu/people/grads/pearson/pearson.htm",
+    "creationDate" : "2010-04-01T13:06:05.590+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A4D-F",
+    "content" : "http://www.linguistics.ucla.edu/people/grads/pearson/pearson.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "639b927f419b941037131065ab075515",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.linguistics.ucla.edu/people/grads/pearson/pearson.htm",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of California, Dep. of Linguistics, Matt Pearson's website, downloadable papers, pdfs",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405291",
+    "name" : "malagasy_pearson2001_s.pdf",
+    "creationDate" : "2010-04-01T13:06:07.065+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A4E-D",
+    "content" : "/rest/items/item_405292_4/component/file_405291/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ba206f25ab91baf7038af1112efde7ae",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 978385,
+    "metadata" : {
+      "title" : "malagasy_pearson2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 978385
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403741",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-03T10:16:46.319+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0217-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "aktualisiert",
+  "lastModificationDate" : "2015-03-03T10:16:46.319+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8186-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:23:23.989+0000",
+  "latestRelease" : {
+    "objectId" : "item_403741",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T10:16:46.319+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0217-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403741",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T10:16:46.319+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0217-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammatische Skizze der Ilocano-Sprache : mit Berücksichtigung ihrer Beziehungen zu den anderen Sprachen der Malayo-polynesischen Familie",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Harold Whitmore",
+        "familyName" : "Williams",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1903",
+    "datePublishedInPrint" : "1904",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31563",
+      "type" : "OTHER"
+    }, {
+      "id" : "ilocano_williams1904.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "place" : "München",
+      "publisher" : "Straub"
+    },
+    "freeKeywords" : "LoC Class: PL5752,\nLoC Subject Headings: Iloko language",
+    "subjects" : [ {
+      "value" : "ilo - Ilocano",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "82, [1] S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL5752,\nLoC Subject Headings: Iloko language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403740",
+    "name" : "ilocano_williams1904.pdf",
+    "creationDate" : "2010-04-01T12:23:23.374+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8185-C",
+    "content" : "/rest/items/item_403741_3/component/file_403740/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f69af134ee0126cfc75721e9b8360b4b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5727963,
+    "metadata" : {
+      "title" : "ilocano_williams1904.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5727963,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2104829",
+    "name" : "https://archive.org/details/rosettaproject_ilo_morsyn-3",
+    "creationDate" : "2015-03-03T10:16:14.260+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/rosettaproject_ilo_morsyn-3",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d60fc49203f3dc4b4aa4888434107073",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/rosettaproject_ilo_morsyn-3",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org: Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_402340",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:33:05.818+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-78A1-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:33:05.818+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-78A1-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:30:27.867+0000",
+  "latestRelease" : {
+    "objectId" : "item_402340",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:33:05.818+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-78A1-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402340",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:33:05.818+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-78A1-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The major transitions in the evolution of language",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Zuidema, Willem H.",
+        "givenName" : "Willem H.",
+        "familyName" : "Zuidema",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29662",
+      "type" : "OTHER"
+    }, {
+      "id" : "languageevolution_zuidema2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Edinburgh",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: P116,\nLoC Subject Headings: Language and languages -- Origin",
+    "totalNumberOfPages" : "x, 165 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402338",
+    "name" : "http://www.isrl.uiuc.edu/~amag/langev/paper/zuidema05phd.html",
+    "creationDate" : "2010-04-01T11:30:26.417+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-789F-A",
+    "content" : "http://www.isrl.uiuc.edu/~amag/langev/paper/zuidema05phd.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b701850cc20dad743a874da3ad824b6b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.isrl.uiuc.edu/~amag/langev/paper/zuidema05phd.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402339",
+    "name" : "languageevolution_zuidema2005_s.pdf",
+    "creationDate" : "2010-04-01T11:30:27.611+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-78A0-4",
+    "content" : "/rest/items/item_402340_2/component/file_402339/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9c8e3985c65723d30054d70519bbdde8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2016066,
+    "metadata" : {
+      "title" : "languageevolution_zuidema2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2016066
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

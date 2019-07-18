@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_406206",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-07T10:02:56.284+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A875-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-07T10:02:56.284+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8F68-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:32:48.083+0000",
+  "latestRelease" : {
+    "objectId" : "item_406206",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-07T10:02:56.284+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A875-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406206",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-07T10:02:56.284+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A875-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Adverbial and argument-doubling clauses in Cree",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Michelle Anne",
+        "familyName" : "Long",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1999",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36452",
+      "type" : "OTHER"
+    }, {
+      "id" : "cree_long1999_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Winnipeg",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM987, LoC Subject Headings: Cree language",
+    "subjects" : [ {
+      "value" : "crk - Plains Cree",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "IV, 129 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM987,\nLoC Subject Headings: Cree language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406205",
+    "name" : "cree_long1999_o.pdf",
+    "creationDate" : "2010-04-01T13:32:47.359+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8F67-2",
+    "content" : "/rest/items/item_406206_3/component/file_406205/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7b27b9e3a7912d59588c6e515f089a65",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7038881,
+    "metadata" : {
+      "title" : "cree_long1999_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7038881
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2129387",
+    "name" : "http://hdl.handle.net/1993/1848",
+    "creationDate" : "2015-04-07T10:02:13.716+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1993/1848",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "375046dec8b51a06199829c6d591055e",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1993/1848",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Manitoba, MSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

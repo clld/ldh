@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_401336",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:08:59.635+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-72C6-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:08:59.635+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-72C6-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:10:19.661+0000",
+  "latestRelease" : {
+    "objectId" : "item_401336",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:08:59.635+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-72C6-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401336",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:08:59.635+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-72C6-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Languages of Irian Jaya checklist : preliminary classification, language maps, wordlists",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Voorhoeve, C. L.",
+        "givenName" : "C. L.",
+        "familyName" : "Voorhoeve",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1975",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "26230",
+      "type" : "OTHER"
+    }, {
+      "id" : "irianjaya_voorhoeve1975_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "0-85883-128-7",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Canberra",
+      "publisher" : "Dept. of Linguistics, Research School of\n              Pacific Studies, Australian National\n              University"
+    },
+    "sources" : [ {
+      "title" : "Pacific linguistics : Series B, Monographs",
+      "volume" : "31",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL5001,\nLoC Subject Headings: Papua (Indonesia)--Languages",
+    "totalNumberOfPages" : "iv, 129, 13 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401334",
+    "name" : "http://www.papuaweb.org/dlib/bk/pl/B31/_toc.html",
+    "creationDate" : "2010-04-01T11:10:18.556+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-72C4-6",
+    "content" : "http://www.papuaweb.org/dlib/bk/pl/B31/_toc.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "690787db32cb7c958f99e305525d46d3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.papuaweb.org/dlib/bk/pl/B31/_toc.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401335",
+    "name" : "irianjaya_voorhoeve1975_o.pdf",
+    "creationDate" : "2010-04-01T11:10:19.258+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-72C5-4",
+    "content" : "/rest/items/item_401336_2/component/file_401335/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "15895b3e07ec9bf0882fef782bb3e656",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3779506,
+    "metadata" : {
+      "title" : "irianjaya_voorhoeve1975_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3779506
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

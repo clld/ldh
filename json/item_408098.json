@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_408098",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:25:56.317+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-99DC-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:25:56.317+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-99DC-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:29:49.383+0000",
+  "latestRelease" : {
+    "objectId" : "item_408098",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:25:56.317+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-99DC-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408098",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:25:56.317+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-99DC-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Some aspects of the lexical structure of a Mazatec historical text",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Cowan, George M.",
+        "givenName" : "George M.",
+        "familyName" : "Cowan",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1965",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "42363",
+      "type" : "OTHER"
+    }, {
+      "id" : "mazatec_cowan1965_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Norman",
+      "publisher" : "SIL"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics publications in linguistics and related fields",
+      "volume" : "11",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM3991",
+    "subjects" : [ {
+      "value" : "mau - Mazatec, Huautla",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "146 S."
+  },
+  "files" : [ {
+    "objectId" : "file_408096",
+    "name" : "http://www.ethnologue.com/show_work.asp?id=10465",
+    "creationDate" : "2010-04-01T14:29:48.268+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-99DA-B",
+    "content" : "http://www.ethnologue.com/show_work.asp?id=10465",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "71921e8f1f67d2d8300eb383afe7ac68",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ethnologue.com/show_work.asp?id=10465",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408097",
+    "name" : "mazatec_cowan1965_o.pdf",
+    "creationDate" : "2010-04-01T14:29:48.982+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-99DB-9",
+    "content" : "/rest/items/item_408098_2/component/file_408097/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "46ae1c6bcf3674ab2d7dad61ba6f9dcb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3644101,
+    "metadata" : {
+      "title" : "mazatec_cowan1965_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3644101
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

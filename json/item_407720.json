@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_407720",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-28T07:26:10.910+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C2AB-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-28T07:26:10.910+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-97B3-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:19:19.618+0000",
+  "latestRelease" : {
+    "objectId" : "item_407720",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-28T07:26:10.910+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2AB-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407720",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-28T07:26:10.910+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2AB-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Sememic and grammatical structures in Gurung (Nepal)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Warren W.",
+        "familyName" : "Glover",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1973",
+    "datePublishedInPrint" : "1974",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "41811",
+      "type" : "OTHER"
+    }, {
+      "id" : "gurung_glover1974_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Norman",
+      "publisher" : "SIL of the University of Oklahoma"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics and Related Fields",
+      "volume" : "49",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL3801.G81, LoC Subject Headings: Gurung language",
+    "subjects" : [ {
+      "value" : "gvr - Gurung, Western",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XXIII, 232 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL3801.G81,\nLoC Subject Headings: Gurung language--Syntax"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407719",
+    "name" : "gurung_glover1974_o.pdf",
+    "creationDate" : "2010-04-01T14:19:18.925+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-97B2-2",
+    "content" : "/rest/items/item_407720_3/component/file_407719/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "824247743dd15fee2f34d984c0455dbb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6814372,
+    "metadata" : {
+      "title" : "gurung_glover1974_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6814372
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2149156",
+    "name" : "http://www.sil.org/resources/archives/8795",
+    "creationDate" : "2015-04-28T07:25:44.458+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/8795",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "766596650bb8de258ba4f67c729a1934",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/8795",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Language & Cultures Archive, pdf download",
+      "size" : 0
+    }
+  } ]
+}

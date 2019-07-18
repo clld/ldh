@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_402097",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-04-11T12:27:03.495+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7727-B",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "message" : "EJ, Band und Anfangsseite erg.",
+  "lastModificationDate" : "2013-04-11T12:27:03.495+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7725-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:25:47.981+0000",
+  "latestRelease" : {
+    "objectId" : "item_402097",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-04-11T12:27:03.495+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7727-B",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402097",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-04-11T12:27:03.495+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7727-B",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A sobreposição e outras técnicas de repetição em Paumarí",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mary Ann",
+        "familyName" : "Odmark",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1987",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "29132",
+      "type" : "OTHER"
+    }, {
+      "id" : "paumari_odmark1987_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "sources" : [ {
+      "title" : "Série Lingüística",
+      "volume" : "9",
+      "startPage" : "105",
+      "endPage" : "127",
+      "publishingInfo" : {
+        "place" : "Brasília",
+        "publisher" : "N.A."
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6963,\nLoC Subject Headings: Purupuru language --Grammar",
+    "subjects" : [ {
+      "value" : "pad - Paumarí",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402095",
+    "name" : "http://www.sil.org/americas/brasil/PUBLCNS/LING/PMSobr.pdf",
+    "creationDate" : "2010-04-01T11:25:47.012+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7723-4",
+    "content" : "http://www.sil.org/americas/brasil/PUBLCNS/LING/PMSobr.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d443a0f349075c5f39513dc6addc1c5b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/brasil/PUBLCNS/LING/PMSobr.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402096",
+    "name" : "paumari_odmark1987_s.pdf",
+    "creationDate" : "2010-04-01T11:25:47.916+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7724-2",
+    "content" : "/rest/items/item_402097_3/component/file_402096/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d443a0f349075c5f39513dc6addc1c5b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 115493,
+    "metadata" : {
+      "title" : "paumari_odmark1987_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 115493
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_403082",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-11T11:01:26.254+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6882-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-11T11:01:26.254+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7CF8-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:53:47.724+0000",
+  "latestRelease" : {
+    "objectId" : "item_403082",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T11:01:26.254+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6882-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403082",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T11:01:26.254+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6882-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Autosegmental phonology",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "John A.",
+        "familyName" : "Goldsmith",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1976",
+    "datePublishedInPrint" : "1976",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30934",
+      "type" : "OTHER"
+    }, {
+      "id" : "autosegmental_goldsmith1976_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Institute of Technology"
+    },
+    "freeKeywords" : "LoC Class: P217, LoC Subject Headings: Grammar/Comparative and general--Phonology, LoC Subject Headings: Igbo language",
+    "totalNumberOfPages" : "280 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403081",
+    "name" : "autosegmental_goldsmith1976_o.pdf",
+    "creationDate" : "2010-04-01T11:53:46.561+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7CF7-2",
+    "content" : "/rest/items/item_403082_3/component/file_403081/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f0ccea5d333b5ad6e7fa2ed9a94d69f8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11514015,
+    "metadata" : {
+      "title" : "autosegmental_goldsmith1976_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11514015
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110908",
+    "name" : "http://hdl.handle.net/1721.1/16388",
+    "creationDate" : "2015-03-11T11:00:50.428+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/16388",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7eeee536bb1e5efdbebd94a3275e86b5",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/16388",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf",
+      "size" : 0
+    }
+  } ]
+}

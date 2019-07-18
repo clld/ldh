@@ -1,0 +1,145 @@
+{
+  "objectId" : "item_406490",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:01:08.608+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-90EE-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:01:08.608+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-90EE-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:39:09.291+0000",
+  "latestRelease" : {
+    "objectId" : "item_406490",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:01:08.608+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-90EE-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406490",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:01:08.608+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-90EE-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Mende grammar essentials",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Hoel, Hanna Marie",
+        "givenName" : "Hanna Marie",
+        "familyName" : "Hoel",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Tarja",
+        "familyName" : "Ik„heimonen"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1994",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37172",
+      "type" : "OTHER"
+    }, {
+      "id" : "mende_hoel1994_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Seim, Sandaun Province",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL8511,\nLoC Subject Headings: Mende language --Grammar",
+    "subjects" : [ {
+      "value" : "men - Mende",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "120 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406488",
+    "name" : "http://www.sil.org/pacific/png/pubs/0000529/Mende_Grammar_Essentials.pdf",
+    "creationDate" : "2010-04-01T13:39:06.794+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-90EC-F",
+    "content" : "http://www.sil.org/pacific/png/pubs/0000529/Mende_Grammar_Essentials.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "40ced884b70637d028794eed42b27b46",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/pacific/png/pubs/0000529/Mende_Grammar_Essentials.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406489",
+    "name" : "mende_hoel1994_s.pdf",
+    "creationDate" : "2010-04-01T13:39:09.191+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-90ED-D",
+    "content" : "/rest/items/item_406490_2/component/file_406489/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5c0dcbf9223f58f74f2956c06840d614",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 361525,
+    "metadata" : {
+      "title" : "mende_hoel1994_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 361525
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

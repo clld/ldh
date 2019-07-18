@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_406832",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T09:36:36.853+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-92CD-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:36:36.853+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-92CD-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:48:02.095+0000",
+  "latestRelease" : {
+    "objectId" : "item_406832",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:36:36.853+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-92CD-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406832",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:36:36.853+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-92CD-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "On IN and ON : an investigation into the linguistic encoding of spatial scenes",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Michele I.",
+        "familyName" : "Feist",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "datePublishedInPrint" : "2000",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37462",
+      "type" : "OTHER"
+    }, {
+      "id" : "spatial_feist2000_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Evanston",
+      "publisher" : "Northwestern Univ."
+    },
+    "freeKeywords" : "LoC Subject Headings: Space perception",
+    "totalNumberOfPages" : "xvi, 248 S.",
+    "abstracts" : [ {
+      "value" : "P165, Space perception"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406830",
+    "name" : "http://www.ucs.louisiana.edu/~mif8232/thesis.pdf",
+    "creationDate" : "2010-04-01T13:47:59.606+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-92CB-5",
+    "content" : "http://www.ucs.louisiana.edu/~mif8232/thesis.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "437a0a62d99b3996d23b89a8cd0ae38c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ucs.louisiana.edu/~mif8232/thesis.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "http://www.ucs.louisiana.edu/~mif8232/thesis.pdf ",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406831",
+    "name" : "spatial_feist2000_s.pdf",
+    "creationDate" : "2010-04-01T13:48:01.795+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-92CC-3",
+    "content" : "/rest/items/item_406832_3/component/file_406831/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "488ef3a868664d7938929d065f709ff5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1428820,
+    "metadata" : {
+      "title" : "spatial_feist2000_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1428820,
+      "copyrightDate" : "2010-09-29",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

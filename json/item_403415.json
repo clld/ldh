@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_403415",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-13T00:07:42.976+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7162-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T00:07:42.976+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7EF3-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:02.659+0000",
+  "latestRelease" : {
+    "objectId" : "item_403415",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T00:07:42.976+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7162-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403415",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T00:07:42.976+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7162-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Estudo fonológico da língua Sateré-Mawé",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Pereira da Silva, Raynice Geraldine",
+        "givenName" : "Pereira da",
+        "familyName" : "Silva",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2006",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31224",
+      "type" : "OTHER"
+    }, {
+      "id" : "satere_silva2005_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "3-89586-495-1",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "München",
+      "publisher" : "Lincom"
+    },
+    "sources" : [ {
+      "title" : "LINCOM Studies in Native American Linguistics",
+      "volume" : "52",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6472, LoC Subject Headings: Maue language --Phonology, LoC Subject Headings: Brazil --Languages",
+    "subjects" : [ {
+      "value" : "mav - Sateré-Mawé",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "146 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403413",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000349680",
+    "creationDate" : "2010-04-01T12:18:01.156+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000349680",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8c10cc6022d0e07f92a467728c41b403",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000349680",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403414",
+    "name" : "satere_silva2005_o.pdf",
+    "creationDate" : "2010-04-01T12:18:02.305+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7EF2-F",
+    "content" : "/rest/items/item_403415_3/component/file_403414/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9b33c84e2654563c1fcc8cc436360dc2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3117648,
+    "metadata" : {
+      "title" : "satere_silva2005_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3117648
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

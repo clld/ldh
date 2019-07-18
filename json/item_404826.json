@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_404826",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-13T00:35:53.837+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-719B-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T00:35:53.837+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-87BA-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:48:25.545+0000",
+  "latestRelease" : {
+    "objectId" : "item_404826",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T00:35:53.837+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-719B-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404826",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T00:35:53.837+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-719B-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The phonology and morphosyntax of Kol",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Henson, Bonnie Jean",
+        "givenName" : "Bonnie Jean",
+        "familyName" : "Henson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2009",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "33794",
+      "type" : "OTHER"
+    }, {
+      "id" : "kol_henson2007_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PL8076, LoC Subject Headings: Cameroon--Languages, LoC Subject Headings: Bikele language",
+    "subjects" : [ {
+      "value" : "biw - Kol (Cameroon)",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "592 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404824",
+    "name" : "http://proquest.umi.com/pqdweb?index=117&sid=3&srchmode=1&vinst=PROD&fmt=6&startpage=-1&clientid=56146&vname=PQD&RQT=309&did=1404336411&scaling=FULL&ts=1",
+    "creationDate" : "2010-04-01T12:48:23.284+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://proquest.umi.com/pqdweb?index=117&sid=3&srchmode=1&vinst=PROD&fmt=6&startpage=-1&clientid=56146&vname=PQD&RQT=309&did=1404336411&scaling=FULL&ts=1",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e334ceb66f67c3cc2e07aee9065f7f41",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://proquest.umi.com/pqdweb?index=117&sid=3&srchmode=1&vinst=PROD&fmt=6&startpage=-1&clientid=56146&vname=PQD&RQT=309&did=1404336411&scaling=FULL&ts=1",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404825",
+    "name" : "kol_henson2007_o.pdf",
+    "creationDate" : "2010-04-01T12:48:24.335+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-87B9-4",
+    "content" : "/rest/items/item_404826_3/component/file_404825/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1d20ce306c969f17b9bc0159d5a7c4af",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12178686,
+    "metadata" : {
+      "title" : "kol_henson2007_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12178686
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

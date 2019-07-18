@@ -1,0 +1,120 @@
+{
+  "objectId" : "item_403578",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T23:19:12.100+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70F9-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T23:19:12.100+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8044-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:55.173+0000",
+  "latestRelease" : {
+    "objectId" : "item_403578",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T23:19:12.100+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70F9-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403578",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T23:19:12.100+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70F9-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Esquisse phonologique et principes orthographiques du Wumboko",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Fokou Tamofo, Félix",
+        "givenName" : "Félix",
+        "familyName" : "Fokou Tamofo",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31414",
+      "type" : "OTHER"
+    }, {
+      "id" : "wumboko_fokou2002_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "place" : "Yaoundé",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Subject Headings: Wumboko language, LoC Subject Headings: Cameroon --Languages",
+    "subjects" : [ {
+      "value" : "bqm - Wumboko",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "iv, 97 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : bqm, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403577",
+    "name" : "wumboko_fokou2002_o.pdf",
+    "creationDate" : "2010-04-01T12:19:54.826+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8043-A",
+    "content" : "/rest/items/item_403578_4/component/file_403577/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8f3ed5d5a0312d7226d800d3abcfbaec",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2882568,
+    "metadata" : {
+      "title" : "wumboko_fokou2002_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "with permission from Université de Yaounde I ",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2882568,
+      "copyrightDate" : "2005-11-29"
+    }
+  } ]
+}

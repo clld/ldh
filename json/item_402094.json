@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_402094",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-04-11T12:30:38.959+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7722-6",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "message" : "EJ, Band und Startseite erg.",
+  "lastModificationDate" : "2013-04-11T12:30:38.959+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7720-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:25:46.308+0000",
+  "latestRelease" : {
+    "objectId" : "item_402094",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-04-11T12:30:38.959+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7722-6",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402094",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-04-11T12:30:38.959+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7722-6",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Cláusulas Semânticas na língua Apinajé",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Linda",
+        "familyName" : "Koopman",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1976",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "29121",
+      "type" : "OTHER"
+    }, {
+      "id" : "apinaje_koopman1976_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "sources" : [ {
+      "title" : "Série Lingüística",
+      "volume" : "5",
+      "startPage" : "301",
+      "endPage" : "330",
+      "publishingInfo" : {
+        "place" : "Brasília",
+        "publisher" : "N.A."
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5433 .C3,\nLoC Subject Headings: Apinayé language",
+    "subjects" : [ {
+      "value" : "apn - Apinayé",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402092",
+    "name" : "http://www.sil.org/americas/brasil/PUBLCNS/LING/AYClaus.pdf",
+    "creationDate" : "2010-04-01T11:25:45.342+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-771E-1",
+    "content" : "http://www.sil.org/americas/brasil/PUBLCNS/LING/AYClaus.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ef20c8184cf2c92fd8e45710c6310c7a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/brasil/PUBLCNS/LING/AYClaus.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402093",
+    "name" : "apinaje_koopman1976_s.pdf",
+    "creationDate" : "2010-04-01T11:25:46.233+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-771F-0",
+    "content" : "/rest/items/item_402094_3/component/file_402093/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ef20c8184cf2c92fd8e45710c6310c7a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 88106,
+    "metadata" : {
+      "title" : "apinaje_koopman1976_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 88106
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_402444",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-06-20T09:05:35.364+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-C206-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Stichwörter für LDH-Blogimport bereinigt",
+  "lastModificationDate" : "2014-06-20T09:05:35.364+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7930-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:31:46.638+0000",
+  "latestRelease" : {
+    "objectId" : "item_402444",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-20T09:05:35.364+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-C206-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402444",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-20T09:05:35.364+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-C206-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "La composition dans la relation verbe-objet : problématique générale et application au persan",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Fatemeh",
+        "familyName" : "Samsam Bakhtiari",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29911",
+      "type" : "OTHER"
+    }, {
+      "id" : "persian_bakhtiari2000_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "place" : "Lyon",
+      "publisher" : "Uni. Lumière "
+    },
+    "freeKeywords" : "LoC Class: PK6201, LoC Subject Headings: Persian language",
+    "subjects" : [ {
+      "value" : "pes - Farsi, Western",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "[6 Bl.], 207 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PK6201,\nLoC Subject Headings: Persian language--Verb, Persian language--Verb phrase"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402443",
+    "name" : "persian_bakhtiari2000_o.pdf",
+    "creationDate" : "2010-04-01T11:31:46.480+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-792F-D",
+    "content" : "/rest/items/item_402444_3/component/file_402443/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "de8a4ff74016987d9702bd3a32a249e2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 975819,
+    "metadata" : {
+      "title" : "persian_bakhtiari2000_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 975819
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2034119",
+    "name" : "http://theses.univ-lyon2.fr/documents/lyon2/2000/samsam_f/download",
+    "creationDate" : "2014-06-20T09:04:20.510+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-C207-6",
+    "content" : "http://theses.univ-lyon2.fr/documents/lyon2/2000/samsam_f/download",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "96390c9c90b868168eedba063a7220c6",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://theses.univ-lyon2.fr/documents/lyon2/2000/samsam_f/download",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. Lumière Lyon 2, Les Thèses Électronique, pdf",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,119 @@
+{
+  "objectId" : "item_407629",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-10-10T08:55:52.629+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-EDBC-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Iso-code korrigiert",
+  "lastModificationDate" : "2014-10-10T08:55:52.629+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-973D-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:17:11.996+0000",
+  "latestRelease" : {
+    "objectId" : "item_407629",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-10-10T08:55:52.629+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-EDBC-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407629",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-10-10T08:55:52.629+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-EDBC-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dhivehi (Maldivian) : a synchronic and diachronic study",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Bruce Dwayne",
+        "familyName" : "Cain",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "datePublishedInPrint" : "2000",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "40116",
+      "type" : "OTHER"
+    }, {
+      "id" : "dhivehi_cain2000_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Ithaca]",
+      "publisher" : "Cornell Univ."
+    },
+    "freeKeywords" : "LoC Class: PK1836,\nLoC Subject Headings: Divehi language",
+    "subjects" : [ {
+      "value" : "div - Dhivehi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxi, 354 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PK1836,\nLoC Subject Headings: Divehi language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407628",
+    "name" : "dhivehi_cain2000_o.pdf",
+    "creationDate" : "2010-04-01T14:17:10.518+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-973C-0",
+    "content" : "/rest/items/item_407629_4/component/file_407628/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "16a33ed03724157150bcd2fbc827a4d6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 13672180,
+    "metadata" : {
+      "title" : "dhivehi_cain2000_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 13672180,
+      "copyrightDate" : "2013-12-11",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

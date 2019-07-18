@@ -1,0 +1,148 @@
+{
+  "objectId" : "item_408086",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-07T08:46:55.900+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A813-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-07T08:46:55.900+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-99CB-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:29:38.952+0000",
+  "latestRelease" : {
+    "objectId" : "item_408086",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-07T08:46:55.900+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A813-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408086",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-07T08:46:55.900+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A813-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Chol texts on the supernatural",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Arabelle",
+        "familyName" : "Whittaker",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Viola",
+        "familyName" : "Warkentin"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1965",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "42358",
+      "type" : "OTHER"
+    }, {
+      "id" : "chol_whittaker1965_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Norman, Okla.",
+      "publisher" : "SIL of the University of Oklahoma"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics publications in linguistics and related fields",
+      "volume" : "13",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM3649, LoC Subject Headings: Chol language",
+    "subjects" : [ {
+      "value" : "ctu - Chol",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "171 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM3649, LoC Subject Headings: Chol language--Texts"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_408085",
+    "name" : "chol_whittaker1965_o.pdf",
+    "creationDate" : "2010-04-01T14:29:38.564+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-99CA-F",
+    "content" : "/rest/items/item_408086_3/component/file_408085/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fa33e836696237933572583af02796f2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3533312,
+    "metadata" : {
+      "title" : "chol_whittaker1965_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3533312
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2129344",
+    "name" : "http://www.sil.org/resources/archives/8508",
+    "creationDate" : "2015-04-07T08:46:09.738+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/8508",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "04a5bd2373e4bdf23768f31e9efc93f4",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/8508",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

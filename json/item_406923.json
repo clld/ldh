@@ -1,0 +1,129 @@
+{
+  "objectId" : "item_406923",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-02-24T12:22:47.485+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-DD02-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-02-24T12:22:47.485+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-935E-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:50:30.809+0000",
+  "latestRelease" : {
+    "objectId" : "item_406923",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-24T12:22:47.485+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-DD02-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406923",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-24T12:22:47.485+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-DD02-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammatika mingrel'skago <iverskago> jazyka s chrestomatieju i slovarem'",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Iosif",
+        "familyName" : "Kipšidze",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Ioseb ",
+        "familyName" : "Qipʿšije"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1914",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37518",
+      "type" : "OTHER"
+    }, {
+      "id" : "mingrel_kipshidze1914.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "rus" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "S.-Peterburg",
+      "publisher" : "Tip. Imp. Akad. nauk"
+    },
+    "sources" : [ {
+      "title" : "Materialy po jafetičeskomu jazykoznaniju",
+      "volume" : "7",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PK9201.M51,\nLoC Subject Headings: Mingrelian language",
+    "subjects" : [ {
+      "value" : "xmf - Mingrelian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XL, 150, 192-424 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PK9201.M51,\nLoC Subject Headings: Mingrelian language --Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406922",
+    "name" : "mingrel_kipshidze1914.pdf",
+    "creationDate" : "2010-04-01T13:50:04.855+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-935D-6",
+    "content" : "/rest/items/item_406923_3/component/file_406922/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "095042cd2a1348da880beae8446bd0f5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 281195214,
+    "metadata" : {
+      "title" : "mingrel_kipshidze1914.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 281195214,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

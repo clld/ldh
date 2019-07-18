@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_401982",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-04-24T12:28:40.407+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C04D-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-24T12:28:40.407+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7673-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:23:57.715+0000",
+  "latestRelease" : {
+    "objectId" : "item_401982",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-24T12:28:40.407+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C04D-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401982",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-24T12:28:40.407+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C04D-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Nhandewa aywu",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Consuel de Paiva Godinho",
+        "familyName" : "Costa",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "28849",
+      "type" : "OTHER"
+    }, {
+      "id" : "aywu_costa2003_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "place" : "Campinas",
+      "publisher" : "Univ. Estadual"
+    },
+    "freeKeywords" : "LoC Class: PM6082.Z9, LoC Subject Headings: Guarani language",
+    "subjects" : [ {
+      "value" : "gug - Guaraní, Paraguayan",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "139 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM6082.Z9, LoC Subject Headings: Guarani language -- Dialects"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401980",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000290968",
+    "creationDate" : "2010-04-01T11:23:56.585+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000290968",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "77397a41003302ad1cbe733dbc64af84",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000290968",
+      "contentCategory" : "publisher-version",
+      "description" : "Universidade Estadual de Campinas (UNICAMP), Biblioteca Digital, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401981",
+    "name" : "aywu_costa2003_o.pdf",
+    "creationDate" : "2010-04-01T11:23:57.473+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7672-B",
+    "content" : "/rest/items/item_401982_5/component/file_401981/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3e26c9ed58d6c54fa81f4e8652e154ec",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1804279,
+    "metadata" : {
+      "title" : "aywu_costa2003_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1804279
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

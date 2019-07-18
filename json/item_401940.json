@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_401940",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T17:54:28.556+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6E81-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T17:54:28.556+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7635-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:23:22.204+0000",
+  "latestRelease" : {
+    "objectId" : "item_401940",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:54:28.556+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E81-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401940",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:54:28.556+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E81-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Resolving hiatus",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Casali, Roderic F.",
+        "givenName" : "Roderic F.",
+        "familyName" : "Casali",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1996",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "28730",
+      "type" : "OTHER"
+    }, {
+      "id" : "hiatus_casali1996_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: P233, LoC Subject Headings: Vowels, LoC Subject Headings: Hiatus (Linguistics)",
+    "totalNumberOfPages" : "xiii, 262 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401938",
+    "name" : "http://roa.rutgers.edu/files/215-0997/215-0997-CASALI-0-0.PDF",
+    "creationDate" : "2010-04-01T11:23:19.208+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7633-8",
+    "content" : "http://roa.rutgers.edu/files/215-0997/215-0997-CASALI-0-0.PDF",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4f961c4b46bc619cc3574c7a3d1b8528",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://roa.rutgers.edu/files/215-0997/215-0997-CASALI-0-0.PDF",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401939",
+    "name" : "hiatus_casali1996_s.pdf",
+    "creationDate" : "2010-04-01T11:23:22.052+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7634-6",
+    "content" : "/rest/items/item_401940_3/component/file_401939/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c042743ff37f7ec1a0c4ff66e58ee3fb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 869433,
+    "metadata" : {
+      "title" : "hiatus_casali1996_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 869433
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

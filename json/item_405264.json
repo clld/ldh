@@ -1,0 +1,157 @@
+{
+  "objectId" : "item_405264",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-04T09:44:21.977+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-DAC5-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-04T09:44:21.977+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8A29-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:05:13.826+0000",
+  "latestRelease" : {
+    "objectId" : "item_405264",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-04T09:44:21.977+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DAC5-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405264",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-04T09:44:21.977+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DAC5-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The semantics and pragmatics of case marking in Korean : a role and reference grammar account",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ki-Seong",
+        "familyName" : "Park",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1995",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34476",
+      "type" : "OTHER"
+    }, {
+      "id" : "korean_park1995_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[s.l.]",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL908,\nLoC Subject Headings: Korean language",
+    "subjects" : [ {
+      "value" : "kor - Korean",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vi, 189 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL908,\nLoC Subject Headings: Korean language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405263",
+    "name" : "korean_park1995_s.pdf",
+    "creationDate" : "2010-04-01T13:05:13.680+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A28-3",
+    "content" : "/rest/items/item_405264_3/component/file_405263/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4f45174c87007a5cd8351dceb403288d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 448567,
+    "metadata" : {
+      "title" : "korean_park1995_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 448567
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2036996",
+    "name" : "http://linguistics.buffalo.edu/people/faculty/vanvalin/rrg.html",
+    "creationDate" : "2014-07-04T09:42:39.948+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-DAC6-C",
+    "content" : "http://linguistics.buffalo.edu/people/faculty/vanvalin/rrg.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "725e3c676584fc6af2406b17bb00654a",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://linguistics.buffalo.edu/people/faculty/vanvalin/rrg.html",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. Buffalo, Linguistics, Role and Reference Grammar, Park, Ki-Seong (1995), pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2036997",
+    "name" : "http://linguistics.buffalo.edu/people/faculty/vanvalin/rrg/park/KSPdiss.pdf",
+    "creationDate" : "2014-07-04T09:42:40.653+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-DAC7-A",
+    "content" : "http://linguistics.buffalo.edu/people/faculty/vanvalin/rrg/park/KSPdiss.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "cb490c88cd6f1fe2d42c241a36e9a8e9",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://linguistics.buffalo.edu/people/faculty/vanvalin/rrg/park/KSPdiss.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

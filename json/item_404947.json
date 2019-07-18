@@ -1,0 +1,144 @@
+{
+  "objectId" : "item_404947",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-19T07:30:04.402+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-D099-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-19T07:30:04.402+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8871-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:51:36.660+0000",
+  "latestRelease" : {
+    "objectId" : "item_404947",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-19T07:30:04.402+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D099-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404947",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-19T07:30:04.402+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D099-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Arctic languages : an awakening",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Dirmid R. F.",
+        "familyName" : "Collins",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "organization" : {
+        "identifier" : "ou_persistent22",
+        "name" : "Unesco",
+        "identifierPath" : [ "ou_persistent22" ]
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "1990",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34068",
+      "type" : "OTHER"
+    }, {
+      "id" : "arctic_collins1990_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "92-3-102661-5",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Paris",
+      "publisher" : "Unesco"
+    },
+    "freeKeywords" : "LoC Class: PM1, LoC Subject Headings: Hyperborean languages, LoC Subject Headings: Arctic regions--Languages",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "458 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404945",
+    "name" : "http://unesdoc.unesco.org/images/0008/000861/086162e.pdf",
+    "creationDate" : "2010-04-01T12:51:33.720+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://unesdoc.unesco.org/images/0008/000861/086162e.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "28bbfcca7ee936b40bc273051fc6ead1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://unesdoc.unesco.org/images/0008/000861/086162e.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "UNESCO.org, direct link to pdf version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404946",
+    "name" : "arctic_collins1990_s.pdf",
+    "creationDate" : "2010-04-01T12:51:36.337+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8870-D",
+    "content" : "/rest/items/item_404947_4/component/file_404946/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0b0d2d05fa6680a9596ac71ebbba7d41",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2827389,
+    "metadata" : {
+      "title" : "arctic_collins1990_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2827389
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

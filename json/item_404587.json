@@ -1,0 +1,144 @@
+{
+  "objectId" : "item_404587",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-13T00:25:45.914+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7186-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T00:25:45.914+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8655-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:43:58.479+0000",
+  "latestRelease" : {
+    "objectId" : "item_404587",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T00:25:45.914+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7186-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404587",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T00:25:45.914+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7186-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A descriptive analysis of Adamorobe Sign Language (Ghana)",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Nyst, Victoria Anna",
+        "givenName" : "Victoria Anna",
+        "familyName" : "Nyst",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "33543",
+      "type" : "OTHER"
+    }, {
+      "id" : "adamorobe_nyst2007_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "978-90-78328-22-3",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "sources" : [ {
+      "title" : "LOT Dissertation Series",
+      "volume" : "151",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: HV 2476 .5 A3, LoC Subject Headings: Sign language -- Ghana, LoC Subject Headings: Sign language -- Research, LoC Subject Headings: Ghana -- Languages",
+    "subjects" : [ {
+      "value" : "ads - Adamorobe Sign Language",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "244S."
+  },
+  "files" : [ {
+    "objectId" : "file_404585",
+    "name" : "http://www.lotpublications.nl/publish/articles/002193/bookpart.pdf",
+    "creationDate" : "2010-04-01T12:43:56.619+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.lotpublications.nl/publish/articles/002193/bookpart.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lotpublications.nl/publish/articles/002193/bookpart.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404586",
+    "name" : "adamorobe_nyst2007_s.pdf",
+    "creationDate" : "2010-04-01T12:43:57.852+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8654-0",
+    "content" : "/rest/items/item_404587_3/component/file_404586/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a8df9892e64a28f748cb44c0dbc091f2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6081650,
+    "metadata" : {
+      "title" : "adamorobe_nyst2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6081650
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

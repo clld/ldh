@@ -1,0 +1,114 @@
+{
+  "objectId" : "item_2417511",
+  "versionNumber" : 2,
+  "modificationDate" : "2017-03-30T07:57:53.551+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-002C-E2DF-C",
+  "modifier" : {
+    "objectId" : "user_2073577"
+  },
+  "message" : "Release during adding DOI",
+  "lastModificationDate" : "2017-03-30T07:57:53.551+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-002C-E2C8-D",
+  "creator" : {
+    "objectId" : "user_2073577"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2017-03-30T07:26:37.861+0000",
+  "latestRelease" : {
+    "objectId" : "item_2417511",
+    "versionNumber" : 2,
+    "modificationDate" : "2017-03-30T07:57:53.551+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002C-E2DF-C",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2417511",
+    "versionNumber" : 2,
+    "modificationDate" : "2017-03-30T07:57:53.551+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002C-E2DF-C",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "A grammar of Bunoge (Dogon, Mali)\n",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jeffrey",
+        "familyName" : "Heath",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "University of Michigan",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ],
+        "identifier" : {
+          "id" : "/persons/resource/persons202070",
+          "type" : "CONE"
+        }
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedOnline" : "2017-03",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "10.17617/2.2417511",
+      "type" : "DOI"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Ann Arbor]",
+      "publisher" : "Univ. of Michigan"
+    },
+    "freeKeywords" : "LoC Class: PL8139.1, LoC Subject Headings: Dogon language",
+    "subjects" : [ {
+      "value" : "dym - Yanda Dom Dogon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "373"
+  },
+  "files" : [ {
+    "objectId" : "file_2417510",
+    "name" : "Heath Bunoge grammar LDH 2017.pdf",
+    "creationDate" : "2017-03-30T07:26:37.002+0000",
+    "creator" : {
+      "objectId" : "user_2073577"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-002C-E2CA-9",
+    "content" : "/rest/items/item_2417511_2/component/file_2417510/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "69f899dc6972a172acf66f8cedadbe21",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 59639008,
+    "metadata" : {
+      "title" : "Heath Bunoge grammar LDH 2017.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 59639008,
+      "license" : "http://creativecommons.org/licenses/by/4.0/"
+    }
+  } ]
+}

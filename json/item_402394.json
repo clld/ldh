@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_402394",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-01-30T12:58:10.333+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-AC3A-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz ergänzt",
+  "lastModificationDate" : "2015-01-30T12:58:10.333+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-78E5-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:31:07.682+0000",
+  "latestRelease" : {
+    "objectId" : "item_402394",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-01-30T12:58:10.333+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-AC3A-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402394",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-01-30T12:58:10.333+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-AC3A-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Description du mofu-gudur : langue de la famille tchadique parlée au Cameroun ; tome I et II",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Daniel",
+        "familyName" : "Barreteau",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1983",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29843",
+      "type" : "OTHER"
+    }, {
+      "id" : "mofugudur_barreteau1983_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "place" : "Paris",
+      "publisher" : "ORSTOM"
+    },
+    "freeKeywords" : "LoC Class: PL8517,\nLoC Subject Headings: Southern Mofu language",
+    "subjects" : [ {
+      "value" : "mif - Mofu-Gudur",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "503, 383"
+  },
+  "files" : [ {
+    "objectId" : "file_402393",
+    "name" : "mofugudur_barreteau1983_s.pdf",
+    "creationDate" : "2010-04-01T11:31:04.401+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-78E4-A",
+    "content" : "/rest/items/item_402394_4/component/file_402393/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9fff28536c819b8c451e8a5316b632b6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 34675502,
+    "metadata" : {
+      "title" : "mofugudur_barreteau1983_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "2 vols in 1 (vol I : Phonologie, Esquisse grammaticale, conte ; vol II : Lexique)",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 34675502
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2086281",
+    "name" : "http://www.documentation.ird.fr/hor/fdi:02907",
+    "creationDate" : "2015-01-30T12:57:17.227+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.documentation.ird.fr/hor/fdi:02907",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6bc37c61c579c8aeccc164a24a02adf1",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.documentation.ird.fr/hor/fdi:02907",
+      "contentCategory" : "publisher-version",
+      "description" : "Institut de recherche pour le développement (IRD), Publications scientifiques de l'IRD, Horizon pleins textes, Vol 1 + Vol.2, pdf",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,178 @@
+{
+  "objectId" : "item_405004",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-05-06T10:36:45.371+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C7A0-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-06T10:36:45.371+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-88C6-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:53:41.978+0000",
+  "latestRelease" : {
+    "objectId" : "item_405004",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-05-06T10:36:45.371+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7A0-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405004",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-05-06T10:36:45.371+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7A0-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Proceedings from the ninth workshop on American indigenous languages",
+    "creators" : [ {
+      "organization" : {
+        "identifier" : "ou_persistent22",
+        "name" : "University of California <Berkeley, Calif.> / Santa Barbara Campus",
+        "identifierPath" : [ "ou_persistent22" ]
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    }, {
+      "person" : {
+        "givenName" : "Lea",
+        "familyName" : "Harper",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2006",
+    "event" : {
+      "endDate" : "2006-04-22",
+      "place" : "Santa Barbara",
+      "startDate" : "2006-04-21",
+      "title" : "Workshop on American Indigenous Languages <9, 2006, Santa Barbara>"
+    },
+    "genre" : "PROCEEDINGS",
+    "identifiers" : [ {
+      "id" : "34158",
+      "type" : "OTHER"
+    }, {
+      "id" : "vol18_harper2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Santa Barbara, CA.",
+      "publisher" : "Univ. of California"
+    },
+    "sources" : [ {
+      "title" : "Santa Barbara Papers in Linguistics ",
+      "alternativeTitles" : [ {
+        "value" : "Santa Barbara Papers in Linguistics"
+      } ],
+      "volume" : "18",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM202,\nLoC Subject Headings: Indians of North America--Languages",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "160 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM202,\nLoC Subject Headings: Indians of North America--Languages--Congresses"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405003",
+    "name" : "vol18_harper2006_s.pdf",
+    "creationDate" : "2010-04-01T12:53:40.689+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-88C5-F",
+    "content" : "/rest/items/item_405004_5/component/file_405003/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0a1261373b9ddc869b604487e94ba443",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12838578,
+    "metadata" : {
+      "title" : "vol18_harper2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12838578
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2036802",
+    "name" : "http://www.linguistics.ucsb.edu/research/santa-barbara-papers#Volume18",
+    "creationDate" : "2014-07-03T09:33:33.690+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.linguistics.ucsb.edu/research/santa-barbara-papers#Volume18",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "52cfc1b23a9dcd8e0ccf8bd16bcd9fdf",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.linguistics.ucsb.edu/research/santa-barbara-papers#Volume18",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of California, Santa Barbara Papers in Linguistics, Vol. 18, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2036803",
+    "name" : "http://www.linguistics.ucsb.edu/sites/secure.lsit.ucsb.edu.ling.cms/files/sitefiles/research/papers/Working%20Papers%20Vol%2018.pdf",
+    "creationDate" : "2014-07-03T09:33:35.401+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.linguistics.ucsb.edu/sites/secure.lsit.ucsb.edu.ling.cms/files/sitefiles/research/papers/Working%20Papers%20Vol%2018.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.linguistics.ucsb.edu/sites/secure.lsit.ucsb.edu.ling.cms/files/sitefiles/research/papers/Working%20Papers%20Vol%2018.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "direct linkt to pdf version",
+      "size" : 0
+    }
+  } ]
+}

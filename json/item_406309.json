@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_406309",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T19:49:25.058+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F6A-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:49:25.058+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8FF3-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:35:21.132+0000",
+  "latestRelease" : {
+    "objectId" : "item_406309",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T19:49:25.058+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F6A-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406309",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T19:49:25.058+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F6A-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Generalized ID/LP grammar : a formalism for parsing linearization-based HPSG grammars",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Michael W.",
+        "familyName" : "Daniels",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36683",
+      "type" : "OTHER"
+    }, {
+      "id" : "hpsg_daniels2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: P158.4, LoC Subject Headings: Head-driven phrase structure grammar, LoC Subject Headings: Grammar/Comparative and general--Parsing, LoC Subject Headings: Grammar/Comparative and general--Word order",
+    "totalNumberOfPages" : "XIII, 173 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406308",
+    "name" : "hpsg_daniels2005_s.pdf",
+    "creationDate" : "2010-04-01T13:35:20.886+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8FF2-6",
+    "content" : "/rest/items/item_406309_4/component/file_406308/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5dc2812e9a7358d196d2fbe58a462b5b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 572956,
+    "metadata" : {
+      "title" : "hpsg_daniels2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 572956
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2043592",
+    "name" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1118867950",
+    "creationDate" : "2014-07-22T09:12:08.924+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1118867950",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1cf98063eb9550b98b0b508094a56d71",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1118867950",
+      "contentCategory" : "any-fulltext",
+      "description" : "OhioLINK, Electronic Theses & Dissertations Center, pdf",
+      "size" : 0
+    }
+  } ]
+}

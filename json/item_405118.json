@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_405118",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T09:47:08.654+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-895E-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:47:08.654+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-895E-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:55:36.248+0000",
+  "latestRelease" : {
+    "objectId" : "item_405118",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:47:08.654+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-895E-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405118",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:47:08.654+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-895E-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The Russian loanwords in literary Estonian",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Blokland, Rogier",
+        "givenName" : "Rogier",
+        "familyName" : "Blokland",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34357",
+      "type" : "OTHER"
+    }, {
+      "id" : "estonian_blokland2005_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "90-36-72427-9",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Groningen",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PH606,\nLoC Subject Headings: Estonian language",
+    "subjects" : [ {
+      "value" : "rus - Russian",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "est - Estonian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VIII, 672 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405116",
+    "name" : "http://dissertations.ub.rug.nl/FILES/faculties/arts/2005/r.p.c.e.blokland/thesis.pdf",
+    "creationDate" : "2010-04-01T12:55:34.534+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-895C-6",
+    "content" : "http://dissertations.ub.rug.nl/FILES/faculties/arts/2005/r.p.c.e.blokland/thesis.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6dbe11eec85e1f31a9e8d40a7afbb033",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dissertations.ub.rug.nl/FILES/faculties/arts/2005/r.p.c.e.blokland/thesis.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Rijksuniversiteit Groningen",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405117",
+    "name" : "estonian_blokland2005_s.pdf",
+    "creationDate" : "2010-04-01T12:55:35.539+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-895D-4",
+    "content" : "/rest/items/item_405118_3/component/file_405117/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5a65798d66a61f939196e63087580fad",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5954902,
+    "metadata" : {
+      "title" : "estonian_blokland2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5954902
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

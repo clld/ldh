@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_403103",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-24T10:48:31.357+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BFF1-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-24T10:48:31.357+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D1F-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:55:07.406+0000",
+  "latestRelease" : {
+    "objectId" : "item_403103",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-24T10:48:31.357+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BFF1-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403103",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-24T10:48:31.357+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BFF1-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Syntactic chains and the definiteness effect",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Kenneth J.",
+        "familyName" : "Safir",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1982",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30952",
+      "type" : "OTHER"
+    }, {
+      "id" : "chains_safir1982_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Institute of Technology"
+    },
+    "freeKeywords" : "LoC Class: P291, LoC Subject Headings: Grammar/Comparative and general--Syntax, LoC Subject Headings: Grammar/Comparative and general--Case",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "508 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403102",
+    "name" : "chains_safir1982_o.pdf",
+    "creationDate" : "2010-04-01T11:55:05.257+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D1E-2",
+    "content" : "/rest/items/item_403103_4/component/file_403102/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3660bf2cc716636b56e18a072ff29265",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 21385042,
+    "metadata" : {
+      "title" : "chains_safir1982_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 21385042
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2148924",
+    "name" : "http://hdl.handle.net/1721.1/15616",
+    "creationDate" : "2015-04-24T10:48:05.701+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/15616",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1d587a693b6dc97d43b830b6509515ba",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/15616",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

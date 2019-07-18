@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_406165",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T20:43:54.235+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FE6-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:43:54.235+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8F2A-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:30:56.042+0000",
+  "latestRelease" : {
+    "objectId" : "item_406165",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:43:54.235+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FE6-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406165",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:43:54.235+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FE6-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Approaching language change in Anihshininiimowin",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Grenier Mintenko, Kimberley D.",
+        "givenName" : "Grenier",
+        "familyName" : "Mintenko",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedInPrint" : "2001",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36384",
+      "type" : "OTHER"
+    }, {
+      "id" : "anihshininiimowin_minteko2001_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Winnipeg",
+      "publisher" : " Univ. of Manitoba"
+    },
+    "freeKeywords" : "LoC Class: PM852, LoC Subject Headings: Ojibwa language, LoC Subject Headings: oji",
+    "totalNumberOfPages" : "vii, 94 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406163",
+    "name" : "http://mspace.lib.umanitoba.ca/bitstream/1993/2595/1/MQ62738.pdf",
+    "creationDate" : "2010-04-01T13:30:41.884+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8F28-0",
+    "content" : "http://mspace.lib.umanitoba.ca/bitstream/1993/2595/1/MQ62738.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "15242888cc676055da79a9c7bf0107ec",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://mspace.lib.umanitoba.ca/bitstream/1993/2595/1/MQ62738.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406164",
+    "name" : "anihshininiimowin_minteko2001_o.pdf",
+    "creationDate" : "2010-04-01T13:30:55.465+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8F29-E",
+    "content" : "/rest/items/item_406165_3/component/file_406164/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6d9163792d51127fc305caddf0693cbc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4451613,
+    "metadata" : {
+      "title" : "anihshininiimowin_minteko2001_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4451613
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

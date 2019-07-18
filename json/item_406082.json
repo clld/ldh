@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_406082",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-17T08:22:45.242+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-EFF1-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-17T08:22:45.242+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8EB2-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:28:59.880+0000",
+  "latestRelease" : {
+    "objectId" : "item_406082",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-17T08:22:45.242+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-EFF1-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406082",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-17T08:22:45.242+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-EFF1-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Polyvalent verbs",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ralf",
+        "familyName" : "Vogel",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1998",
+    "datePublishedInPrint" : "1998",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35767",
+      "type" : "OTHER"
+    }, {
+      "id" : "polyvalent_vogel1998_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "urn:nbn:de:kobv:11-10012654",
+      "type" : "URN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Berlin",
+      "publisher" : "Humboldt Univ."
+    },
+    "freeKeywords" : "LoC Class: P281,\nLoC Subject Headings: Grammar/Comparative and general--Verb",
+    "totalNumberOfPages" : "191, 11 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406081",
+    "name" : "polyvalent_vogel1998_s.pdf",
+    "creationDate" : "2010-04-01T13:28:59.734+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8EB1-2",
+    "content" : "/rest/items/item_406082_3/component/file_406081/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0cd13bc0ee4fae14cd342277eed956ea",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 808374,
+    "metadata" : {
+      "title" : "polyvalent_vogel1998_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 808374
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2042724",
+    "name" : "http://edoc.hu-berlin.de/docviews/abstract.php?lang=ger&id=10214",
+    "creationDate" : "2014-07-17T08:20:34.806+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-EFF3-A",
+    "content" : "http://edoc.hu-berlin.de/docviews/abstract.php?lang=ger&id=10214",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c52ced0d5054af34025536f722de6e1f",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://edoc.hu-berlin.de/docviews/abstract.php?lang=ger&id=10214",
+      "contentCategory" : "any-fulltext",
+      "description" : "Humboldt Univ. Berlin, electronic documents server edoc, pdf",
+      "size" : 0
+    }
+  } ]
+}

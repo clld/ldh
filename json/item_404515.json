@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_404515",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-12-22T11:16:56.246+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-5EF5-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-22T11:16:56.246+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-85F0-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:42:50.390+0000",
+  "latestRelease" : {
+    "objectId" : "item_404515",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-22T11:16:56.246+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5EF5-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404515",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-22T11:16:56.246+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5EF5-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vergleichende Grammatik der Germanischen Sprachen [Vol. 1]",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Johann",
+        "familyName" : "Kelle",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1863",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "33351",
+      "type" : "OTHER"
+    }, {
+      "id" : "germanischen_kelle1863_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Prag",
+      "publisher" : "Credner"
+    },
+    "freeKeywords" : "LoC Class: PD74 .K29,\nLoC Subject Headings: Germanic languages",
+    "subjects" : [ {
+      "value" : "deu - German",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XIV, 512 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PD74 .K29,\nLoC Subject Headings: Germanic languages--Grammar, Germanic languages--Noun"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_2079855",
+    "name" : "germanischesprachen_kelle1863.pdf",
+    "creationDate" : "2014-12-22T11:15:48.975+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-5EF6-C",
+    "content" : "/rest/items/item_404515_3/component/file_2079855/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d12f76c2a651230243f7948e345e083c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 183849700,
+    "metadata" : {
+      "title" : "germanischesprachen_kelle1863.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 183849700,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2079856",
+    "name" : "http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10588570-5",
+    "creationDate" : "2014-12-22T11:15:51.497+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10588570-5",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5b6ea55f7175142837e6f4879ab3d476",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10588570-5",
+      "contentCategory" : "publisher-version",
+      "description" : "Bayerische Staatsbibliothek digital, view online & pdf",
+      "size" : 0
+    }
+  } ]
+}

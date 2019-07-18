@@ -1,0 +1,197 @@
+{
+  "objectId" : "item_405668",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-05-31T10:17:55.643+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8C63-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:17:55.643+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8C63-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:18:11.011+0000",
+  "latestRelease" : {
+    "objectId" : "item_405668",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T10:17:55.643+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8C63-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405668",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T10:17:55.643+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8C63-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Contact in the prehistory of the Sakha (Yakuts) : linguistic and genetic perspectives",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Pakendorf, Brigitte",
+        "givenName" : "Brigitte",
+        "familyName" : "Pakendorf",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "Max-Planck-Institut für evolutionäre Anthropologie <Leipzig>",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35203",
+      "type" : "OTHER"
+    }, {
+      "id" : "978-90-78328-42-1",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "sources" : [ {
+      "title" : "LOT Dissertation Series",
+      "creators" : [ {
+        "organization" : {
+          "identifier" : "ou_persistent22",
+          "name" : "Landelijke Onderzoekschool Taalwetenschap <Utrecht>",
+          "identifierPath" : [ "ou_persistent22" ]
+        },
+        "role" : "EDITOR",
+        "type" : "ORGANIZATION"
+      } ],
+      "volume" : "170",
+      "publishingInfo" : {
+        "place" : "Utrecht",
+        "publisher" : "LOT"
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Yakut language",
+    "subjects" : [ {
+      "value" : "sah - Yakut",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vii, 375 S.",
+    "abstracts" : [ {
+      "value" : "P381.S59, ISO 639-3 : sah, Yakut language--Dialects, Sakha (Russia)--Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405666",
+    "name" : "http://www.lotpublications.nl/publish/articles/002587/bookpart.pdf",
+    "creationDate" : "2010-04-01T13:18:09.354+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C61-4",
+    "content" : "http://www.lotpublications.nl/publish/articles/002587/bookpart.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7ed52e40ac6a37a3b95bc0f1da0b8147",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lotpublications.nl/publish/articles/002587/bookpart.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "LOT Publications , Utrecht",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405667",
+    "name" : "sakha_pakendorf2007_s.pdf",
+    "creationDate" : "2010-04-01T13:18:10.419+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C62-2",
+    "content" : "/rest/items/item_405668_5/component/file_405667/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c229b8b7c7fa6f39c8d73f6d2830348c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5673382,
+    "metadata" : {
+      "title" : "sakha_pakendorf2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5673382,
+      "copyrightDate" : "2010-04-09",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_458094",
+    "name" : "http://www.lotpublications.nl/publish/articles/002572/bookpart.pdf",
+    "creationDate" : "2010-06-16T08:04:44.246+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.lotpublications.nl/publish/articles/002572/bookpart.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b8cf8c6dd3faa6c136b756f0f0e2843b",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lotpublications.nl/publish/articles/002572/bookpart.pdf",
+      "contentCategory" : "table-of-contents",
+      "description" : "Table of Contents",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_458095",
+    "name" : "http://www.lotpublications.nl/publish/articles/002584/bookpart.pdf",
+    "creationDate" : "2010-06-16T08:04:44.349+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.lotpublications.nl/publish/articles/002584/bookpart.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a2c9f70bafd060412fd932beeb871a4c",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lotpublications.nl/publish/articles/002584/bookpart.pdf",
+      "contentCategory" : "abstract",
+      "description" : "Abstract",
+      "size" : 0
+    }
+  } ]
+}

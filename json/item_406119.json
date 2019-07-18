@@ -1,0 +1,151 @@
+{
+  "objectId" : "item_406119",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-17T09:25:26.506+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-F091-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-17T09:25:26.506+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8EE6-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:29:48.445+0000",
+  "latestRelease" : {
+    "objectId" : "item_406119",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-17T09:25:26.506+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-F091-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406119",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-17T09:25:26.506+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-F091-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Formal investigations of underspecified representations",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Christian",
+        "familyName" : "Ebert",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35933",
+      "type" : "OTHER"
+    }, {
+      "id" : "representations_ebert2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "London",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: P128.F67,\nLoC Subject Headings: Formalization (Linguistics)",
+    "totalNumberOfPages" : "173 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406118",
+    "name" : "representations_ebert2005_s.pdf",
+    "creationDate" : "2010-04-01T13:29:48.205+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8EE5-C",
+    "content" : "/rest/items/item_406119_3/component/file_406118/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3b5fac75136a077df9ca8a6b7edd4754",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1091054,
+    "metadata" : {
+      "title" : "representations_ebert2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1091054
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2042750",
+    "name" : "http://www.sfs.uni-tuebingen.de/~cebert/publikationen.html",
+    "creationDate" : "2014-07-17T09:24:07.389+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-F093-E",
+    "content" : "http://www.sfs.uni-tuebingen.de/~cebert/publikationen.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "cc742e87f432b2caac764cda128322b6",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sfs.uni-tuebingen.de/~cebert/publikationen.html",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. Tübingen, Homepage Christian Ebert, Theses, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2042751",
+    "name" : "http://www.sfs.uni-tuebingen.de/~cebert/papers/phdthesis.pdf",
+    "creationDate" : "2014-07-17T09:24:07.525+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-F095-A",
+    "content" : "http://www.sfs.uni-tuebingen.de/~cebert/papers/phdthesis.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3b5fac75136a077df9ca8a6b7edd4754",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sfs.uni-tuebingen.de/~cebert/papers/phdthesis.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_401370",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:43:44.348+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-72F4-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:43:44.348+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-72F4-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:10:44.621+0000",
+  "latestRelease" : {
+    "objectId" : "item_401370",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:43:44.348+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-72F4-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401370",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:43:44.348+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-72F4-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Análise descritiva e teórica do Katukina-Pano",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Aguiar, Maria Suelí de",
+        "givenName" : "Maria Suelí de",
+        "familyName" : "Aguiar",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1994",
+    "datePublishedInPrint" : "1994",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "26513",
+      "type" : "OTHER"
+    }, {
+      "id" : "katukina_aguiar1994_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM6773,\nLoC Subject Headings: Panoan languages",
+    "subjects" : [ {
+      "value" : "knt - Katukína, Panoan",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "getr. Zählg."
+  },
+  "files" : [ {
+    "objectId" : "file_401368",
+    "name" : "http://www.etnolinguistica.org/tese:aguiar-1994",
+    "creationDate" : "2010-04-01T11:10:41.784+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-72F2-D",
+    "content" : "http://www.etnolinguistica.org/tese:aguiar-1994",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1d2e4ec2cc901ab1c95a13d892b3c703",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.etnolinguistica.org/tese:aguiar-1994",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401369",
+    "name" : "katukina_aguiar1994_o.pdf",
+    "creationDate" : "2010-04-01T11:10:43.560+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-72F3-B",
+    "content" : "/rest/items/item_401370_2/component/file_401369/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "af1602837b26139988a760dd8cf5f6b8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10945622,
+    "metadata" : {
+      "title" : "katukina_aguiar1994_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10945622
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

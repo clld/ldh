@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_406028",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T21:27:18.888+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7041-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:27:18.888+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8E6A-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:26:28.465+0000",
+  "latestRelease" : {
+    "objectId" : "item_406028",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T21:27:18.888+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7041-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406028",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T21:27:18.888+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7041-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "L'enseignement du français langue étrangère à Taiwan : analyse linguistique et praxéologique",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Yu-chun",
+        "familyName" : "Chen",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35613",
+      "type" : "OTHER"
+    }, {
+      "id" : "taiwan_chen2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "place" : "Louvain-la-Neuve",
+      "publisher" : "Université Catholique de Louvain : Faculté de Philosophie et Lettres; Département d'études romanes\n              romanes"
+    },
+    "freeKeywords" : "LoC Class: PC2073, LoC Subject Headings: Taiwan languages, LoC Subject Headings: French language",
+    "subjects" : [ {
+      "value" : "fra - French",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "IV, 284 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406027",
+    "name" : "taiwan_chen2003_s.pdf",
+    "creationDate" : "2010-04-01T13:26:27.964+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E69-6",
+    "content" : "/rest/items/item_406028_4/component/file_406027/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9b40441348990886dab90b5253f57873",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3400327,
+    "metadata" : {
+      "title" : "taiwan_chen2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3400327
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2042450",
+    "name" : "http://hdl.handle.net/2078.1/4884",
+    "creationDate" : "2014-07-15T09:40:09.540+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/2078.1/4884",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1a99f32aee5c77dabb0633bbeda98c3d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/2078.1/4884",
+      "contentCategory" : "any-fulltext",
+      "description" : "DIAL, le Dépôt Institutionnel de l'Académie universitaire 'Louvain', pdf",
+      "size" : 0
+    }
+  } ]
+}

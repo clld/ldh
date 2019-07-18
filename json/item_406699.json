@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_406699",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-01-30T11:59:58.037+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-ABF4-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Stichwörter bereinigt",
+  "lastModificationDate" : "2015-01-30T11:59:58.037+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9212-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:46:07.257+0000",
+  "latestRelease" : {
+    "objectId" : "item_406699",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-30T11:59:58.037+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-ABF4-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406699",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-30T11:59:58.037+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-ABF4-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Guia de lengua Quechua para docentes : lista breve de expresiones y palabras útiles ; quechua del Callejón de Huaylas",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Leonel",
+        "familyName" : "Menacho López",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1998",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37392",
+      "type" : "OTHER"
+    }, {
+      "id" : "quechua_lopez1998_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1. Aufl.",
+      "place" : "Peru",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PM6309.H83,\nLoC Subject Headings: Quechua language",
+    "subjects" : [ {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "qwh - Huaylas Ancash Quechua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "107 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM6309.H83,\nLoC Subject Headings: LoC Class: PM6309.H83,\nLoC Subject Headings: Quechua language--Study and teaching--Peru--Huaylas, Callejón de / Quechua language--Peru--Huaylas, Callejón de--Glossaries, vocabularies, etc."
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406698",
+    "name" : "quechua_lopez1998_o.pdf",
+    "creationDate" : "2010-04-01T13:46:06.963+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9211-3",
+    "content" : "/rest/items/item_406699_3/component/file_406698/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "130295f00c4627a46ad97c3ce6643b78",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2343008,
+    "metadata" : {
+      "title" : "quechua_lopez1998_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2343008
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2086270",
+    "name" : "http://www.peru.sil.org/es/resources/archives/27830",
+    "creationDate" : "2015-01-30T11:58:48.465+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/es/resources/archives/27830",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "32b6fa7e888898d97532b93ea575bf3e",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/es/resources/archives/27830",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Péru, Archives, pdfs",
+      "size" : 0
+    }
+  } ]
+}

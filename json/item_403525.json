@@ -1,0 +1,119 @@
+{
+  "objectId" : "item_403525",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-06-06T07:30:16.052+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7FD4-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:30:16.052+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7FD4-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:18.334+0000",
+  "latestRelease" : {
+    "objectId" : "item_403525",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:30:16.052+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7FD4-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403525",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:30:16.052+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7FD4-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Esquisse de la phonologie lexicale du Mpadi",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Mahamat, Adam",
+        "givenName" : "Adam",
+        "familyName" : "Mahamat",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31335",
+      "type" : "OTHER"
+    }, {
+      "id" : "mpadi_adam2005_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon --Languages",
+    "subjects" : [ {
+      "value" : "mpi - Mpade",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix, 277 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : mpi, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403524",
+    "name" : "mpadi_adam2005_o.pdf",
+    "creationDate" : "2010-04-01T12:19:17.525+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7FD3-D",
+    "content" : "/rest/items/item_403525_3/component/file_403524/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4d96071b6bd1a8d1bfaab12cdd5894a3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8038216,
+    "metadata" : {
+      "title" : "mpadi_adam2005_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8038216,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

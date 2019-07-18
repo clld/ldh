@@ -1,0 +1,125 @@
+{
+  "objectId" : "item_407984",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-10-24T06:11:33.836+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-0223-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "CCby-Lizenz liegt vor",
+  "lastModificationDate" : "2014-10-24T06:11:33.836+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9935-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:26:41.064+0000",
+  "latestRelease" : {
+    "objectId" : "item_407984",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-10-24T06:11:33.836+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-0223-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407984",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-10-24T06:11:33.836+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-0223-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Imonda, a Papuan language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Walter",
+        "familyName" : "Seiler",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1985",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "42186",
+      "type" : "OTHER"
+    }, {
+      "id" : "imonda_seiler1985_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "0-85883-326-3",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Canberra",
+      "publisher" : "Australian National Univ."
+    },
+    "sources" : [ {
+      "title" : "Pacific Linguistics : Series B, Monographs",
+      "volume" : "93",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6621.I46,\nLoC Subject Headings: Imonda language",
+    "subjects" : [ {
+      "value" : "imn - Imonda",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vi, 236 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6621.I46,\nLoC Subject Headings: Imonda language--Grammar, Papuan languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407983",
+    "name" : "imonda_seiler1985_o.pdf",
+    "creationDate" : "2010-04-01T14:26:40.297+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9934-E",
+    "content" : "/rest/items/item_407984_3/component/file_407983/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "774ec8e14bb5eba1d610c2aa222a0321",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7678505,
+    "metadata" : {
+      "title" : "imonda_seiler1985_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7678505,
+      "copyrightDate" : "2014-03-07",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

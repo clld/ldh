@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_400533",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-03T12:41:52.077+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-02A8-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-03T12:41:52.077+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6DFF-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:52:24.105+0000",
+  "latestRelease" : {
+    "objectId" : "item_400533",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T12:41:52.077+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-02A8-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400533",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T12:41:52.077+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-02A8-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Towards a historical grammar of Balochi : studies in Balochi historical phonology and vocabulary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Agnes",
+        "familyName" : "Korn",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "21123",
+      "type" : "OTHER"
+    }, {
+      "id" : "balochi_korn2003_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "3-89500-367-0",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Beiträge zur Iranistik",
+      "volume" : "26",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PK6853, LoC Subject Headings: Baluchi language",
+    "totalNumberOfPages" : "469 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PK6853,\nLoC Subject Headings: Baluchi language--Grammar, Baluchi language--Phonology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400531",
+    "name" : "http://titus.uni-frankfurt.de/personal/agnes/diss.htm",
+    "creationDate" : "2010-04-01T10:52:23.804+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://titus.uni-frankfurt.de/personal/agnes/diss.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d5ef12209b42f47d4b18ad71fe3e7392",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://titus.uni-frankfurt.de/personal/agnes/diss.htm",
+      "contentCategory" : "supplementary-material",
+      "description" : "Univ. Frankfurt, Thesaurus Indogermanischer Text- und Sprachmaterialien (TITUS),  Table of Contents, Preface, Conclusion, pdf ",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400532",
+    "name" : "balochi_korn2003_s.pdf",
+    "creationDate" : "2010-04-01T10:52:23.888+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6DFE-B",
+    "content" : "/rest/items/item_400533_3/component/file_400532/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d9ad1a0a29bd1deb29a6a3f4c1dd505a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1596571,
+    "metadata" : {
+      "title" : "balochi_korn2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1596571
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

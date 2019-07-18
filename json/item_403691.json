@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403691",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T11:29:38.983+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8139-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:29:38.983+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8139-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:22:17.450+0000",
+  "latestRelease" : {
+    "objectId" : "item_403691",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T11:29:38.983+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8139-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403691",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T11:29:38.983+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8139-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Manual tagalog para auxilio de los religiosos de esta santa provincia de San Gregorio Magno de Descalzos de N.S.P.S. Francisco de Filipinas",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Sebastián de",
+        "familyName" : "Totanes",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1865",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31529",
+      "type" : "OTHER"
+    }, {
+      "id" : "tagalog_magno1865.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Binondo",
+      "publisher" : "Impr. de M. Sanchez"
+    },
+    "freeKeywords" : "LoC Subject Headings: Tagalog language--Grammar",
+    "subjects" : [ {
+      "value" : "tgl - Tagalog",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "166 S.",
+    "abstracts" : [ {
+      "value" : "PL6054, ISO 639-3 : tgl, Tagalog language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403690",
+    "name" : "tagalog_magno1865.pdf",
+    "creationDate" : "2010-04-01T12:22:16.324+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8138-B",
+    "content" : "/rest/items/item_403691_4/component/file_403690/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "31b593441714815a531af3c774801b4f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11574303,
+    "metadata" : {
+      "title" : "tagalog_magno1865.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11574303,
+      "copyrightDate" : "2010-11-16",
+      "rights" : "public domain, Sebastián de Totanes 1687-1748"
+    }
+  } ]
+}

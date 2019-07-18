@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_405258",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:59:49.696+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8A21-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:59:49.696+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8A21-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:05:11.115+0000",
+  "latestRelease" : {
+    "objectId" : "item_405258",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:59:49.696+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A21-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405258",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:59:49.696+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A21-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammaire du Kiyombe",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Clercq, L. de",
+        "givenName" : "L. de",
+        "familyName" : "Clercq",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1921",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34474",
+      "type" : "OTHER"
+    }, {
+      "id" : "kiyombe_declercq_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Bruxelles",
+      "publisher" : "Goemaere"
+    },
+    "sources" : [ {
+      "title" : "Bibliothèque-Congo",
+      "volume" : "5",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL8815,\nLoC Subject Headings: Yombe language (Congo and Angola) -- Grammar",
+    "subjects" : [ {
+      "value" : "yom - Yombe",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "92 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405256",
+    "name" : "http://www.nekongo.org/akongo/docs/langue_culture/grammaire_kiyombe_declercq.pdf",
+    "creationDate" : "2010-04-01T13:05:08.095+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A1F-A",
+    "content" : "http://www.nekongo.org/akongo/docs/langue_culture/grammaire_kiyombe_declercq.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2b61badfea7d2bce05870ee3a3160c18",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.nekongo.org/akongo/docs/langue_culture/grammaire_kiyombe_declercq.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405257",
+    "name" : "kiyombe_declercq_o.pdf",
+    "creationDate" : "2010-04-01T13:05:10.611+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A20-4",
+    "content" : "/rest/items/item_405258_2/component/file_405257/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "88e9374540c78afba303f1ba609446f1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4834869,
+    "metadata" : {
+      "title" : "kiyombe_declercq_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4834869
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

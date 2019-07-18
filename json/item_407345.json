@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_407345",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-08-11T09:11:29.419+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-2D48-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-08-11T09:11:29.419+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-95B3-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:11:11.508+0000",
+  "latestRelease" : {
+    "objectId" : "item_407345",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-11T09:11:29.419+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-2D48-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407345",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-11T09:11:29.419+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-2D48-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Fonologia Taurepang e comparação preliminar da fonologia de línguas do grupo Pemóng (família Caribe)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Katia Nepomuceno",
+        "familyName" : "Pessoa",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38357",
+      "type" : "OTHER"
+    }, {
+      "id" : "taurepang_pessoa2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "place" : "Recife",
+      "publisher" : "Univ. Federal de Pernambuco"
+    },
+    "freeKeywords" : "LoC Class: PM6885,\nLoC Subject Headings: Pemón language",
+    "subjects" : [ {
+      "value" : "aoc - Pemon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "124 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407344",
+    "name" : "taurepang_pessoa2006_s.pdf",
+    "creationDate" : "2010-04-01T14:11:10.456+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-95B2-1",
+    "content" : "/rest/items/item_407345_3/component/file_407344/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "21082d9facb7738a260ddaefc1726ef5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8895129,
+    "metadata" : {
+      "title" : "taurepang_pessoa2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8895129
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2049575",
+    "name" : "http://www.etnolinguistica.org/tese:pessoa-2006",
+    "creationDate" : "2014-08-11T09:09:00.244+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-2D4A-2",
+    "content" : "http://www.etnolinguistica.org/tese:pessoa-2006",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0970a37f8c3b22b2c414ff5966879ce9",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.etnolinguistica.org/tese:pessoa-2006",
+      "contentCategory" : "publisher-version",
+      "description" : "Etnolingüística.org, pdf",
+      "size" : 0
+    }
+  } ]
+}

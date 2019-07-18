@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_401287",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-02-24T10:15:13.096+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-D43A-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-02-24T10:15:13.096+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-727A-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:08:54.391+0000",
+  "latestRelease" : {
+    "objectId" : "item_401287",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-24T10:15:13.096+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-D43A-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401287",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-24T10:15:13.096+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-D43A-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The language of the Salinan indians",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "John Alden",
+        "familyName" : "Mason",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1918",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "25568",
+      "type" : "OTHER"
+    }, {
+      "id" : "salinan_mason1918_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Berkeley",
+      "publisher" : "Univ. of California Press"
+    },
+    "sources" : [ {
+      "title" : "University of California publications in American archaeology and ethnology",
+      "volume" : "14,1",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: E99.S17,\nLoC Subject Headings: Salinan language",
+    "subjects" : [ {
+      "value" : "sln - Salinan",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "154 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: E99.S17,\nLoC Subject Headings: Salinan language--Grammar, Salinan Indians, Salinan Indians--Folklore"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401285",
+    "name" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=118",
+    "creationDate" : "2010-04-01T11:08:51.300+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=118",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "33fb5808cc9895b7137b90b28e8e7a2f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=118",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of California, The George and Mary Foster Anthropology Library, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401286",
+    "name" : "salinan_mason1918_o.pdf",
+    "creationDate" : "2010-04-01T11:08:53.256+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7279-1",
+    "content" : "/rest/items/item_401287_3/component/file_401286/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "01f7fa3251d284729386bf3e5b24cc44",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11386069,
+    "metadata" : {
+      "title" : "salinan_mason1918_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11386069,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

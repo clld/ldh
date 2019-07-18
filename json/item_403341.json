@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403341",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:51:36.725+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7E85-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:51:36.725+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E85-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:17:12.394+0000",
+  "latestRelease" : {
+    "objectId" : "item_403341",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:51:36.725+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7E85-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403341",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:51:36.725+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7E85-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A phonological study of Akha in Pa-Kha-Suk-Jai village, Tambol Mae-Sa-Long-Nok , King Amphur Mae-Fa-Luang, Chiang Rai Province",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Panadda, Bamrung",
+        "givenName" : "Bamrung",
+        "familyName" : "Panadda",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1994",
+    "datePublishedInPrint" : "1994",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31179",
+      "type" : "OTHER"
+    }, {
+      "id" : "akha_panadda1993_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Nakhon Pathom",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PL4001.K354,\nLoC Subject Headings: Kaw language",
+    "subjects" : [ {
+      "value" : "ahk - Akha",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xv, 124 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403339",
+    "name" : "http://archives.sealang.net/mahidol",
+    "creationDate" : "2010-04-01T12:17:11.638+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E83-9",
+    "content" : "http://archives.sealang.net/mahidol",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b90f0b74e428eb7d24c3f080c1c10bb4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://archives.sealang.net/mahidol",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403340",
+    "name" : "akha_panadda1993_o.pdf",
+    "creationDate" : "2010-04-01T12:17:11.960+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E84-7",
+    "content" : "/rest/items/item_403341_2/component/file_403340/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4fddadf7f0a7610e6a951077aa550b49",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3747681,
+    "metadata" : {
+      "title" : "akha_panadda1993_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3747681
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,152 @@
+{
+  "objectId" : "item_400285",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-06-04T07:57:30.801+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-B272-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-06-04T07:57:30.801+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6C74-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:44:37.513+0000",
+  "latestRelease" : {
+    "objectId" : "item_400285",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-04T07:57:30.801+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-B272-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400285",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-04T07:57:30.801+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-B272-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Kashmiri language, linguistics and culture : an annotated bibliography",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Omkar Nath",
+        "familyName" : "Koul",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2000",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "17396",
+      "type" : "OTHER"
+    }, {
+      "id" : "kashmiri_koul2000_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "81-7342-096-9",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "freeKeywords" : "LoC Class: PK7021,\nLoC Subject Headings: Kashmiri language",
+    "subjects" : [ {
+      "value" : "kas - Kashmiri",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "83 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400284",
+    "name" : "kashmiri_koul2000_s.pdf",
+    "creationDate" : "2010-04-01T10:44:37.375+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6C73-7",
+    "content" : "/rest/items/item_400285_3/component/file_400284/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "da2f9e7e916bb8c1f2730738711059c6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 781727,
+    "metadata" : {
+      "title" : "kashmiri_koul2000_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 781727
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2030847",
+    "name" : "http://koausa.org/iils/publications.html",
+    "creationDate" : "2014-06-04T07:54:09.835+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-B273-2",
+    "content" : "http://koausa.org/iils/publications.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6790a3039a3cb22a1841c2ef97e60242",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://koausa.org/iils/publications.html",
+      "contentCategory" : "publisher-version",
+      "description" : "publications of Prof. Omkar N. Koul (Indian Institute of Language Studies iils)",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2030848",
+    "name" : "http://koausa.org/iils/pdf/KashmiriBibliography.pdf",
+    "creationDate" : "2014-06-04T07:54:10.696+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-B274-F",
+    "content" : "http://koausa.org/iils/pdf/KashmiriBibliography.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "da2f9e7e916bb8c1f2730738711059c6",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://koausa.org/iils/pdf/KashmiriBibliography.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "direct link to pdf-version",
+      "size" : 0
+    }
+  } ]
+}

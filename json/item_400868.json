@@ -1,0 +1,125 @@
+{
+  "objectId" : "item_400868",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-07-18T13:01:21.763+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0013-FA25-4",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "message" : "Jahr ergänzt",
+  "lastModificationDate" : "2013-07-18T13:01:21.763+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7005-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:59:59.767+0000",
+  "latestRelease" : {
+    "objectId" : "item_400868",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-07-18T13:01:21.763+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0013-FA25-4",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400868",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-07-18T13:01:21.763+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0013-FA25-4",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Yambetta provisional lexicon",
+    "creators" : [ {
+      "organization" : {
+        "identifier" : "ou_persistent22",
+        "name" : "Yambetta Language Committee (YALICO) <Yaounde>",
+        "identifierPath" : [ "ou_persistent22" ]
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "2003",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "24352",
+      "type" : "OTHER"
+    }, {
+      "id" : "yambetta_yalico_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "freeKeywords" : "LoC Class: PL8800.Y35,\nLoC Subject Headings: Yambeta language",
+    "subjects" : [ {
+      "value" : "yat - Yambeta",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "19 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400866",
+    "name" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/dictionaries/Yambetta%20Provisional%20Lexicon.pdf",
+    "creationDate" : "2010-04-01T10:59:59.310+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0013-FA26-2",
+    "content" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/dictionaries/Yambetta%20Provisional%20Lexicon.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/dictionaries/Yambetta%20Provisional%20Lexicon.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400867",
+    "name" : "yambetta_yalico_s.pdf",
+    "creationDate" : "2010-04-01T10:59:59.686+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7004-6",
+    "content" : "/rest/items/item_400868_3/component/file_400867/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3aad439895a76f905d22e4b4ab8ccfac",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 187967,
+    "metadata" : {
+      "title" : "yambetta_yalico_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 187967
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

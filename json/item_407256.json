@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_407256",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T22:02:03.187+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7077-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T22:02:03.187+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9537-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:02:43.992+0000",
+  "latestRelease" : {
+    "objectId" : "item_407256",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T22:02:03.187+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7077-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407256",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T22:02:03.187+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7077-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Linguistic data models : presentation and representation",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Dave",
+        "familyName" : "Penton",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37893",
+      "type" : "OTHER"
+    }, {
+      "id" : "models_penton2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Melbourne",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: P128.F53, LoC Subject Headings: Computational linguistics, LoC Subject Headings: Word (Linguistics), LoC Subject Headings: Linguistic analysis (Linguistics)",
+    "totalNumberOfPages" : "xxii, 241 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407255",
+    "name" : "models_penton2006_s.pdf",
+    "creationDate" : "2010-04-01T14:02:42.736+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9536-C",
+    "content" : "/rest/items/item_407256_4/component/file_407255/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8b72fa6fd4a13fae86f61dade859e688",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12850920,
+    "metadata" : {
+      "title" : "models_penton2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12850920
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2048453",
+    "name" : "http://hdl.handle.net/11343/39186",
+    "creationDate" : "2014-08-06T10:43:06.552+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/11343/39186",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6af1e71540b4e242e3ca5b35e02dfd31",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/11343/39186",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Melbourne, Institutional Repository Minverva Access, pdf",
+      "size" : 0
+    }
+  } ]
+}

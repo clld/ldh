@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_407674",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:24:29.326+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9776-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:24:29.326+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9776-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:18:40.281+0000",
+  "latestRelease" : {
+    "objectId" : "item_407674",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:24:29.326+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9776-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407674",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:24:29.326+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9776-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Datos del idioma Huariapano",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Parker, Stephen G.",
+        "givenName" : "Stephen G.",
+        "familyName" : "Parker",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1992",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "41788",
+      "type" : "OTHER"
+    }, {
+      "id" : "huariapano_parker1992_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yarinacocha",
+      "publisher" : "Inst. Lingüistico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Documento de Trabajo / Instituto Lingüistico de Verano",
+      "volume" : "24",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6773,\nLoC Subject Headings: Panobo language--Idioms",
+    "subjects" : [ {
+      "value" : "pno - Panobo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "53 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407672",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=538",
+    "creationDate" : "2010-04-01T14:18:39.150+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9774-E",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=538",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "20bfc336994d5063dba9d239baa7b7c8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=538",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407673",
+    "name" : "huariapano_parker1992_o.pdf",
+    "creationDate" : "2010-04-01T14:18:39.862+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9775-C",
+    "content" : "/rest/items/item_407674_2/component/file_407673/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ad762e86372db71ed22902233349647b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1657471,
+    "metadata" : {
+      "title" : "huariapano_parker1992_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1657471
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

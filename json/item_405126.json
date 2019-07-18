@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_405126",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-04T07:17:11.961+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-DA51-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-04T07:17:11.961+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-896A-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:55:44.219+0000",
+  "latestRelease" : {
+    "objectId" : "item_405126",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-04T07:17:11.961+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DA51-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405126",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-04T07:17:11.961+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DA51-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Evolution as a constraint on theories of syntax : the Case against Minimalism",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Anna R.",
+        "familyName" : "Parker",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34360",
+      "type" : "OTHER"
+    }, {
+      "id" : "evolution_parker2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Edinburgh",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: P291,\nLoC Subject Headings: Grammar/Comparative and general--Syntax",
+    "totalNumberOfPages" : "xv, 354 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405125",
+    "name" : "evolution_parker2006_s.pdf",
+    "creationDate" : "2010-04-01T12:55:43.957+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8969-8",
+    "content" : "/rest/items/item_405126_3/component/file_405125/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "21f7caa62d965ef7bfe793b99eeaf20e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2087506,
+    "metadata" : {
+      "title" : "evolution_parker2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2087506
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2036956",
+    "name" : "http://www.lel.ed.ac.uk/~simon/dissertations/parker_thesis.pdf",
+    "creationDate" : "2014-07-04T07:15:28.957+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-DA52-E",
+    "content" : "http://www.lel.ed.ac.uk/~simon/dissertations/parker_thesis.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7da6b1a778dc773223602d11bd5de209",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lel.ed.ac.uk/~simon/dissertations/parker_thesis.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. of Edinburgh, Linguistics and English language, direct link to pdf",
+      "size" : 0
+    }
+  } ]
+}

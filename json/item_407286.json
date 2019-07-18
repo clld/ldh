@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_407286",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-08-07T09:36:59.382+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-2674-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-08-07T09:36:59.382+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9560-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:09:30.582+0000",
+  "latestRelease" : {
+    "objectId" : "item_407286",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-07T09:36:59.382+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-2674-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407286",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-07T09:36:59.382+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-2674-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Exploration of V yi-xia constructions in Chinese : a construction-based account",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Fang-yi",
+        "familyName" : "Hsieh",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38167",
+      "type" : "OTHER"
+    }, {
+      "id" : "chinese_hsieh1234_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng", "cmn" ],
+    "publishingInfo" : {
+      "place" : "Hsinchu",
+      "publisher" : "National Tsing Hua Univ."
+    },
+    "freeKeywords" : "LoC Class: PL1095,\nLoC Subject Headings: Chinese language",
+    "subjects" : [ {
+      "value" : "cmn - Mandarin Chinese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "v, 127 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407285",
+    "name" : "chinese_hsieh1234_s.pdf",
+    "creationDate" : "2010-04-01T14:09:30.454+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-955F-1",
+    "content" : "/rest/items/item_407286_3/component/file_407285/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "56f05cabf8932060e7821841de5578c0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 667791,
+    "metadata" : {
+      "title" : "chinese_hsieh1234_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 667791
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2049335",
+    "name" : "http://handle.ncl.edu.tw/11296/ndltd/16212504588923313244",
+    "creationDate" : "2014-08-07T09:34:38.349+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-2676-5",
+    "content" : "http://handle.ncl.edu.tw/11296/ndltd/16212504588923313244",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "04695310b33184bdd22a6c4be6d5a5f7",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://handle.ncl.edu.tw/11296/ndltd/16212504588923313244",
+      "contentCategory" : "publisher-version",
+      "description" : "NDLTD National Digital Library of Theses and Dissertations in Taiwan, zip file, pdf // fulltext access: free e-mail registration necessary",
+      "size" : 0
+    }
+  } ]
+}

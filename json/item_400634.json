@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_400634",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-03-13T01:56:16.116+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-723D-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:56:16.116+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6E94-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:56:10.520+0000",
+  "latestRelease" : {
+    "objectId" : "item_400634",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-13T01:56:16.116+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-723D-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400634",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-13T01:56:16.116+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-723D-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A phonology and grammar of Mbódòmò",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Virginia Lee",
+        "familyName" : "Boyd",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1997",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "23596",
+      "type" : "OTHER"
+    }, {
+      "id" : "mbodomo_boyd1997_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Arlington",
+      "publisher" : "Univ. of Texas"
+    },
+    "freeKeywords" : "LoC Class: PL8021.C35, LoC Subject Headings: Cameroon--Languages, LoC Subject Headings: Ubangi languages",
+    "subjects" : [ {
+      "value" : "gmm - Gbaya-Mbodomo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xv, 221 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400633",
+    "name" : "mbodomo_boyd1997_s.pdf",
+    "creationDate" : "2010-04-01T10:56:10.376+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6E93-F",
+    "content" : "/rest/items/item_400634_6/component/file_400633/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c850e68f62f57262d842a81160da0462",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 830956,
+    "metadata" : {
+      "title" : "mbodomo_boyd1997_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 830956
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2055393",
+    "name" : "http://www.silcam.org/documents/mbodomo_boyd1997_2254_p.pdf",
+    "creationDate" : "2014-09-01T09:46:42.110+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.silcam.org/documents/mbodomo_boyd1997_2254_p.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "baf086fa15e5d8bef8e3bcfa9f95d67a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.silcam.org/documents/mbodomo_boyd1997_2254_p.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "SIL Cameroon, SIL publications, pdf",
+      "size" : 0
+    }
+  } ]
+}

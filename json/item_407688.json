@@ -1,0 +1,149 @@
+{
+  "objectId" : "item_407688",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-17T09:26:09.744+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B7AF-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-17T09:26:09.744+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9789-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:18:52.718+0000",
+  "latestRelease" : {
+    "objectId" : "item_407688",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-17T09:26:09.744+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B7AF-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407688",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-17T09:26:09.744+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B7AF-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Epena Pedee syntax",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Phillip Lee",
+        "familyName" : "Harms",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1994",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "41794",
+      "type" : "OTHER"
+    }, {
+      "id" : "epenapedee_harms1994_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Dallas, Tex.",
+      "publisher" : "Summer Institute of Linguistics [u.a.]"
+    },
+    "sources" : [ {
+      "title" : "Studies in the Languages of Colombia",
+      "volume" : "4",
+      "genre" : "SERIES"
+    }, {
+      "title" : "SIL International Publications in Linguistics\n",
+      "volume" : "118",
+      "genre" : "SERIES"
+    }, {
+      "title" : "Summer Institute of Linguistics and the University of Texas at Arlington Publications in Linguistics",
+      "volume" : "118",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM7079, LoC Subject Headings: Epena Saija language",
+    "subjects" : [ {
+      "value" : "sja - Epena",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiv, 213 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM7079, LoC Subject Headings: Epena Saija language--Syntax, LoC Subject Headings: Indians of South America--Colombia--Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407687",
+    "name" : "epenapedee_harms1994_o.pdf",
+    "creationDate" : "2010-04-01T14:18:52.141+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9788-2",
+    "content" : "/rest/items/item_407688_4/component/file_407687/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ddde7cfc16e9dca9f5764c8d432c46ff",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5558190,
+    "metadata" : {
+      "title" : "epenapedee_harms1994_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5558190
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147062",
+    "name" : "http://www.sil.org/resources/archives/8884",
+    "creationDate" : "2015-04-17T09:25:45.450+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/8884",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "363050c1df3c40896c97ff3b8aa58e35",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/8884",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Archive, pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_404169",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:59:50.225+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-83F4-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:59:50.225+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-83F4-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:36:20.487+0000",
+  "latestRelease" : {
+    "objectId" : "item_404169",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:59:50.225+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-83F4-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404169",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:59:50.225+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-83F4-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Jammu and Kashmir Burushaski : language, language contact and change",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Munshi, Sadaf",
+        "givenName" : "Sadaf",
+        "familyName" : "Munshi",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32366",
+      "type" : "OTHER"
+    }, {
+      "id" : "burushaski_munshi2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PL7501.B8,\nLoC Subject Headings: Burushaski language",
+    "subjects" : [ {
+      "value" : "bsk - Burushaski",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XIX, 331 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404167",
+    "name" : "http://proquest.umi.com/pqdweb?did=1362501671&sid=3&Fmt=6&clientId=56146&RQT=309&VName=PQD",
+    "creationDate" : "2010-04-01T12:36:19.103+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-83F2-8",
+    "content" : "http://proquest.umi.com/pqdweb?did=1362501671&sid=3&Fmt=6&clientId=56146&RQT=309&VName=PQD",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5b7e3098979cb69c8ce87e1973ab8898",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://proquest.umi.com/pqdweb?did=1362501671&sid=3&Fmt=6&clientId=56146&RQT=309&VName=PQD",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404168",
+    "name" : "burushaski_munshi2006_s.pdf",
+    "creationDate" : "2010-04-01T12:36:20.164+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-83F3-6",
+    "content" : "/rest/items/item_404169_2/component/file_404168/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "271e7358e8e0dc79aa396969e64c7e4e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2738408,
+    "metadata" : {
+      "title" : "burushaski_munshi2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2738408
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

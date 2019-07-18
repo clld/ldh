@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_403593",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-05-31T10:28:01.957+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8063-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:28:01.957+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8063-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:20:11.559+0000",
+  "latestRelease" : {
+    "objectId" : "item_403593",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T10:28:01.957+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8063-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403593",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T10:28:01.957+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8063-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Burmese pocket dictionary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Adoniram",
+        "familyName" : "Judson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Frank D.",
+        "familyName" : "Phinney"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "F.H.",
+        "familyName" : "Evelth"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1887",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31421",
+      "type" : "OTHER"
+    }, {
+      "id" : "burmese_judson1887_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Rangoon",
+      "publisher" : "American Baptist Mission Press"
+    },
+    "freeKeywords" : "LoC Subject Headings: Burmese language",
+    "subjects" : [ {
+      "value" : "mya - Burmese",
+      "type" : "ISO639_3"
+    } ],
+    "abstracts" : [ {
+      "value" : "PL3957.E5, ISO 639-3 : mya, Burmese language --Dictionaries --English, English language --Dictionaries --Burmese"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403592",
+    "name" : "burmese_judson1887_o.pdf",
+    "creationDate" : "2010-04-01T12:20:07.200+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8062-4",
+    "content" : "/rest/items/item_403593_5/component/file_403592/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b048a9ccc5d801911ff1a13d65e3f0d9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 43414121,
+    "metadata" : {
+      "title" : "burmese_judson1887_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 43414121,
+      "copyrightDate" : "2010-11-18",
+      "rights" : "public domain, Adoniram Judson 1788-1850"
+    }
+  } ]
+}

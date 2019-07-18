@@ -1,0 +1,111 @@
+{
+  "objectId" : "item_401117",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-01-23T09:55:02.148+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-A1B4-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "CC-By-Lizenz liegt vor",
+  "lastModificationDate" : "2015-01-23T09:55:02.148+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7182-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:04:41.811+0000",
+  "latestRelease" : {
+    "objectId" : "item_401117",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-01-23T09:55:02.148+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A1B4-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401117",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-01-23T09:55:02.148+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A1B4-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The internal and external relationships of Trukic languages of Micronesia",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Frederick Henry",
+        "familyName" : "Jackson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1983",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "25071",
+      "type" : "OTHER"
+    }, {
+      "id" : "trukic_jackson1983_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Manoa",
+      "publisher" : "Univ. of Hawaii"
+    },
+    "freeKeywords" : "LoC Class: PL6193,\nLoC Subject Headings: Micronesian languages",
+    "totalNumberOfPages" : "xix, 460 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401116",
+    "name" : "trukic_jackson1983_o.pdf",
+    "creationDate" : "2010-04-01T11:04:40.565+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7181-6",
+    "content" : "/rest/items/item_401117_4/component/file_401116/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "552c9e2a6e26b1117a289e0e688c9416",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12830966,
+    "metadata" : {
+      "title" : "trukic_jackson1983_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12830966,
+      "copyrightDate" : "2015-01-08",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

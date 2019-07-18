@@ -1,0 +1,111 @@
+{
+  "objectId" : "item_2176508",
+  "versionNumber" : 4,
+  "modificationDate" : "2017-10-23T11:39:15.854+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-002E-0F62-F",
+  "modifier" : {
+    "objectId" : "user_2073577"
+  },
+  "message" : "Release during adding DOI",
+  "lastModificationDate" : "2017-10-23T11:39:15.854+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0028-1B3D-2",
+  "creator" : {
+    "objectId" : "user_36017"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2015-08-03T14:40:29.006+0000",
+  "latestRelease" : {
+    "objectId" : "item_2176508",
+    "versionNumber" : 4,
+    "modificationDate" : "2017-10-23T11:39:15.854+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002E-0F62-F",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2176508",
+    "versionNumber" : 4,
+    "modificationDate" : "2017-10-23T11:39:15.854+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002E-0F62-F",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Togo Kan (Dogon) Texts",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jeffrey",
+        "familyName" : "Heath",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedOnline" : "2015-08",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "10.17617/2.2176508",
+      "type" : "DOI"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Ann Arbor]",
+      "publisher" : "Univ. of Michigan"
+    },
+    "freeKeywords" : "LoC Class: PL8139.1, LoC Subject Headings: Dogon language",
+    "subjects" : [ {
+      "value" : "dtk - Tene Kan Dogon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "III, 136 S."
+  },
+  "files" : [ {
+    "objectId" : "file_2176507",
+    "name" : "Heath_Togo Kan texts 2015 from 2011 complete with trans.pdf",
+    "creationDate" : "2015-08-03T14:40:28.376+0000",
+    "creator" : {
+      "objectId" : "user_36017"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0028-1B3F-D",
+    "content" : "/rest/items/item_2176508_4/component/file_2176507/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f3762506eee90f72d394112db99e3c6c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 37951551,
+    "metadata" : {
+      "title" : "Heath_Togo Kan texts 2015 from 2011 complete with trans.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 37951551,
+      "rights" : "©by the author ",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_407607",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:39:39.516+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-971E-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:39:39.516+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-971E-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:16:58.454+0000",
+  "latestRelease" : {
+    "objectId" : "item_407607",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:39:39.516+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-971E-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407607",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:39:39.516+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-971E-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Aspectos fonológicos da língua Xetá",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Vasconcelos, Eduardo Alves",
+        "givenName" : "Eduardo Alves",
+        "familyName" : "Vasconcelos",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "39929",
+      "type" : "OTHER"
+    }, {
+      "id" : "xeta_vasconcelos2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Brasília",
+      "publisher" : " Univ. (UnB)"
+    },
+    "freeKeywords" : "LoC Class: PC5447.P35,\nLoC Subject Headings: Portuguese language -- Dialects -- Brazil -- Paraná (State)",
+    "subjects" : [ {
+      "value" : "xet - Xetá",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiii, 55 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407605",
+    "name" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=3997",
+    "creationDate" : "2010-04-01T14:16:57.340+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-971C-7",
+    "content" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=3997",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "95e6dfada1d0bb9d2f4909961addfc27",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=3997",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407606",
+    "name" : "xeta_vasconcelos2008_s.pdf",
+    "creationDate" : "2010-04-01T14:16:58.308+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-971D-5",
+    "content" : "/rest/items/item_407607_2/component/file_407606/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "82570b3b8f17ea8aa61dfe643e0bf3a4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 660495,
+    "metadata" : {
+      "title" : "xeta_vasconcelos2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 660495
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

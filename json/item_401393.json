@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_401393",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:51:30.914+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7315-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:51:30.914+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7315-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:11:11.451+0000",
+  "latestRelease" : {
+    "objectId" : "item_401393",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:51:30.914+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7315-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401393",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:51:30.914+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7315-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Aspectos morfossintáticos da língua Panará (Jê)",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Dourado, Luciana Gonçalves",
+        "givenName" : "Luciana Gonçalves",
+        "familyName" : "Dourado",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedInPrint" : "2001",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "26523",
+      "type" : "OTHER"
+    }, {
+      "id" : "panara_dourado2001_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM6762,\nLoC Subject Headings: Panare language",
+    "subjects" : [ {
+      "value" : "kre - Kreen-Akarore",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xv, 240 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401391",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000219905",
+    "creationDate" : "2010-04-01T11:11:10.237+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7313-E",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000219905",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c63fb343b85fa802e88b4bcd663fe6b4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000219905",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401392",
+    "name" : "panara_dourado2001_o.pdf",
+    "creationDate" : "2010-04-01T11:11:10.839+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7314-C",
+    "content" : "/rest/items/item_401393_2/component/file_401392/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3b298320ab0dc88e33cabb15339556d0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5929655,
+    "metadata" : {
+      "title" : "panara_dourado2001_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5929655
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

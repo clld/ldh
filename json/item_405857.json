@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_405857",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-13T11:44:00.613+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CD96-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-13T11:44:00.613+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8D74-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:21:54.452+0000",
+  "latestRelease" : {
+    "objectId" : "item_405857",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-13T11:44:00.613+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD96-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405857",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-13T11:44:00.613+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD96-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Topic and focus constructions in spoken Korean",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Chisung",
+        "familyName" : "Oh",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35460",
+      "type" : "OTHER"
+    }, {
+      "id" : "korean_oh2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Austin",
+      "publisher" : "Univ. of Texas"
+    },
+    "freeKeywords" : "LoC Class: PL923, LoC Subject Headings: Korean language",
+    "subjects" : [ {
+      "value" : "kor - Korean",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "viii, 161 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405856",
+    "name" : "korean_oh2007_s.pdf",
+    "creationDate" : "2010-04-01T13:21:54.255+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D73-5",
+    "content" : "/rest/items/item_405857_4/component/file_405856/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "753feeca56d7c5c2485cc95138fadbaa",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 783863,
+    "metadata" : {
+      "title" : "korean_oh2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 783863
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2155330",
+    "name" : "http://repositories.lib.utexas.edu/handle/2152/3133",
+    "creationDate" : "2015-05-13T11:43:32.107+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://repositories.lib.utexas.edu/handle/2152/3133",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://repositories.lib.utexas.edu/handle/2152/3133",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Texas, Digital Repository, pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_402472",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T18:20:50.002+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6EB6-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T18:20:50.002+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7955-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:32:11.899+0000",
+  "latestRelease" : {
+    "objectId" : "item_402472",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:20:50.002+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EB6-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402472",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:20:50.002+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EB6-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulario quechua del Pastaza",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Landerman, Peter",
+        "givenName" : "Peter",
+        "familyName" : "Landerman",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1973",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29961",
+      "type" : "OTHER"
+    }, {
+      "id" : "quechua_landerman1973_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa", "que" ],
+    "publishingInfo" : {
+      "edition" : "1. Aufl.",
+      "place" : "Yarinacocha",
+      "publisher" : "Inst. Lingüistico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüistica peruana",
+      "volume" : "8",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6306, LoC Subject Headings: Quechua language--Dialects--Peru--Loreto (Dept .), LoC Subject Headings: Quechua language--Dictionaries--Spanish, LoC Subject Headings: Quechua language -- Dialects -- Peru -- Pastaza Valley",
+    "subjects" : [ {
+      "value" : "quh - South Bolivian Quechua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "114 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402470",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=2291",
+    "creationDate" : "2010-04-01T11:32:10.826+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=2291",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "26726185f12cc7c44e135e2f986cb095",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=2291",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402471",
+    "name" : "quechua_landerman1973_o.pdf",
+    "creationDate" : "2010-04-01T11:32:11.517+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7954-8",
+    "content" : "/rest/items/item_402472_3/component/file_402471/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1e2978da396bc7beff2aea453c46e2f3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3497495,
+    "metadata" : {
+      "title" : "quechua_landerman1973_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3497495
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

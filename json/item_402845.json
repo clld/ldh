@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_402845",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T10:13:01.618+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7B8E-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:13:01.618+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7B8E-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:46:00.070+0000",
+  "latestRelease" : {
+    "objectId" : "item_402845",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:13:01.618+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7B8E-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402845",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:13:01.618+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7B8E-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Micmac morphophonemics",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Fidelholtz, James Lawrence",
+        "givenName" : "James Lawrence",
+        "familyName" : "Fidelholtz",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1968",
+    "datePublishedInPrint" : "1968",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30666",
+      "type" : "OTHER"
+    }, {
+      "id" : "micmac_fidelholtz1968_o.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "place" : "Cambridge, Mass.",
+      "publisher" : "MIT"
+    },
+    "freeKeywords" : "LoC Subject Headings: Micmac language",
+    "subjects" : [ {
+      "value" : "mic - Micmac",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "[805] S.",
+    "abstracts" : [ {
+      "value" : "PM1792, ISO 639-3 : mic, Micmac language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402843",
+    "name" : "http://hdl.handle.net/1721.1/13001",
+    "creationDate" : "2010-04-01T11:45:56.698+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7B8C-9",
+    "content" : "http://hdl.handle.net/1721.1/13001",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0207a910b9ade70498891a612a8a4ed3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/13001",
+      "contentCategory" : "publisher-version",
+      "description" : "DsSpace@MIT",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402844",
+    "name" : "micmac_fidelholtz1968_o.pdf",
+    "creationDate" : "2010-04-01T11:45:57.576+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7B8D-7",
+    "content" : "/rest/items/item_402845_3/component/file_402844/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "399bb83733d54e464407e4f4dbbb9f81",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 25961087,
+    "metadata" : {
+      "title" : "micmac_fidelholtz1968_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 25961087,
+      "rights" : "non-exclusive permission from Massachusetts Institute of Technology/Cambridge Massachusetts (2010-04-26)"
+    }
+  } ]
+}

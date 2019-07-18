@@ -1,0 +1,121 @@
+{
+  "objectId" : "item_405021",
+  "versionNumber" : 6,
+  "modificationDate" : "2014-01-06T12:07:04.490+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-CF30-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2014-01-06T12:07:04.490+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-88DF-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:54:04.349+0000",
+  "latestRelease" : {
+    "objectId" : "item_405021",
+    "versionNumber" : 6,
+    "modificationDate" : "2014-01-06T12:07:04.490+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-CF30-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405021",
+    "versionNumber" : 6,
+    "modificationDate" : "2014-01-06T12:07:04.490+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-CF30-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Childugu : sive Tractatus, Lingua Chilensis, vol. 1",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Bernhard",
+        "familyName" : "Havestadt",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "Monasterii Westphaliæ typis Aschendorfianis",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Julius",
+        "familyName" : "Platzmann"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1777",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34182",
+      "type" : "OTHER"
+    }, {
+      "id" : "chilidugu_havestadt1777_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "lat" ],
+    "publishingInfo" : {
+      "place" : "Leipzig",
+      "publisher" : "Teubner"
+    },
+    "freeKeywords" : "LoC Subject Headings: Mapuche language, LoC Class: PM5461",
+    "subjects" : [ {
+      "value" : "arn - Mapudungun",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "536 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5461"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405020",
+    "name" : "chilidugu_havestadt1777_o.pdf",
+    "creationDate" : "2010-04-01T12:53:58.816+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-88DE-A",
+    "content" : "/rest/items/item_405021_6/component/file_405020/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d879c5ab81d33b2f63e64a53f29f3b16",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 59517692,
+    "metadata" : {
+      "title" : "chilidugu_havestadt1777_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 59517692
+    }
+  } ]
+}

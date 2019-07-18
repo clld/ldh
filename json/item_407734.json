@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_407734",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-17T08:02:28.928+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B768-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwort korrigiert",
+  "lastModificationDate" : "2015-04-17T08:02:28.928+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-97C6-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:19:31.812+0000",
+  "latestRelease" : {
+    "objectId" : "item_407734",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-17T08:02:28.928+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B768-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407734",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-17T08:02:28.928+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B768-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammatical description of the Engenni language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Elaine",
+        "familyName" : "Thomas",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1978",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "41816",
+      "type" : "OTHER"
+    }, {
+      "id" : "engenni2_thomas1978_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Dallas, Tex.",
+      "publisher" : "Summer Institute of Linguistics [u.a.]"
+    },
+    "sources" : [ {
+      "title" : "SIL International Publications in Linguistics\n",
+      "volume" : "60",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL8154.1, LoC Subject Headings: Engenni language",
+    "subjects" : [ {
+      "value" : "enn - Engenni",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VIII, 191 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8154.1,\nLoC Subject Headings: Engenni language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407733",
+    "name" : "engenni2_thomas1978_o.pdf",
+    "creationDate" : "2010-04-01T14:19:31.242+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-97C5-7",
+    "content" : "/rest/items/item_407734_4/component/file_407733/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "45eb69a300c494406920bc93ea340649",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5367682,
+    "metadata" : {
+      "title" : "engenni2_thomas1978_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5367682
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2134743",
+    "name" : "http://www.sil.org/resources/archives/8480",
+    "creationDate" : "2015-04-10T12:18:14.617+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/8480",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "625c3ea6740e2e1129aade0a941f6198",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/8480",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Archive, pdf download",
+      "size" : 0
+    }
+  } ]
+}

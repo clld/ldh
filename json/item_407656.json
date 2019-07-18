@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_407656",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T08:23:16.269+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA6D-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T08:23:16.269+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-975D-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:17:38.360+0000",
+  "latestRelease" : {
+    "objectId" : "item_407656",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:23:16.269+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA6D-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407656",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:23:16.269+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA6D-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Thoughts on grammaticalization",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Christian",
+        "familyName" : "Lehmann",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2002",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "41666",
+      "type" : "OTHER"
+    }, {
+      "id" : "grammaticalization_lehmann2002_s              .html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "ASSidUE",
+      "volume" : "09",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P299.G73, LoC Subject Headings: Grammar/Comparative and general--Grammaticalization",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "xi, 171 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407654",
+    "name" : "http://www.db-thueringen.de/servlets/DerivateServlet/Derivate-2058/ASSidUE09.pdf",
+    "creationDate" : "2010-04-01T14:17:37.879+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-975B-8",
+    "content" : "http://www.db-thueringen.de/servlets/DerivateServlet/Derivate-2058/ASSidUE09.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b48fbb2e0e807509c83e72185ce8ba7a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.db-thueringen.de/servlets/DerivateServlet/Derivate-2058/ASSidUE09.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407655",
+    "name" : "grammaticalization_lehmann2002_s.pdf",
+    "creationDate" : "2010-04-01T14:17:38.216+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-975C-6",
+    "content" : "/rest/items/item_407656_4/component/file_407655/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0c283163681347e76c28dc0e82b2a6a6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 868790,
+    "metadata" : {
+      "title" : "grammaticalization_lehmann2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 868790
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

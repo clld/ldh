@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_405909",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-10T09:52:22.007+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0AEE-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-10T09:52:22.007+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8DBE-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:23:21.122+0000",
+  "latestRelease" : {
+    "objectId" : "item_405909",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T09:52:22.007+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0AEE-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405909",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T09:52:22.007+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0AEE-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Catecismo Kiriri",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "P. Luiz Vincencio",
+        "familyName" : "Mamiani",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1942",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "35541",
+      "type" : "OTHER"
+    }, {
+      "id" : "kiriri_mamiani1942_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Rio de Janeiro",
+      "publisher" : "Imprensa Nacional"
+    },
+    "freeKeywords" : "LoC Class: PM6288, LoC Subject Headings: Kariri language",
+    "subjects" : [ {
+      "value" : "kzw - Karirí-Xocó",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XXIX, 237 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM6288, LoC Subject Headings: Kariri language, Catholic Church--Catechisms--Kariri"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405907",
+    "name" : "http://biblio.etnolinguistica.org/mamiani_1942_catecismo",
+    "creationDate" : "2010-04-01T13:23:18.940+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://biblio.etnolinguistica.org/mamiani_1942_catecismo",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b69cb36d7b711adf9aa0c2980f9a21c8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://biblio.etnolinguistica.org/mamiani_1942_catecismo",
+      "contentCategory" : "publisher-version",
+      "description" : "Etnolinguistica.org, Biblioteca Digital Curt Nimuendajú : línguas e culturas indígenas sul-americanas, Acesso, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405908",
+    "name" : "kiriri_mamiani1942_o.pdf",
+    "creationDate" : "2010-04-01T13:23:20.114+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8DBD-1",
+    "content" : "/rest/items/item_405909_3/component/file_405908/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f1c32fa9550c4155606f7375e40387c2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10274601,
+    "metadata" : {
+      "title" : "kiriri_mamiani1942_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10274601
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

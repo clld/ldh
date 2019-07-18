@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_402489",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-13T01:59:43.396+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7243-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:59:43.396+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-796C-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:32:26.742+0000",
+  "latestRelease" : {
+    "objectId" : "item_402489",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T01:59:43.396+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7243-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402489",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T01:59:43.396+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7243-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Word-prosodic systems of Raja Ampat languages",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Albert Clementina Ludovicus",
+        "familyName" : "Remijsen",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2001",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29968",
+      "type" : "OTHER"
+    }, {
+      "id" : "rajaampat_remijsen2002_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "90-76864-09-8",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "sources" : [ {
+      "title" : "LOT Dissertation Series",
+      "volume" : "49",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6211, LoC Subject Headings: Raja Ampat languages, LoC Subject Headings: Prosodic analysis (Linguistics)",
+    "totalNumberOfPages" : "viii, 199 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6211,\nLoC Subject Headings: Raja Ampat languages--Prosodic analysis, Prosodic analysis (Linguistics)"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402487",
+    "name" : "http://www.papuaweb.org/dlib/s123/remijsen/_phd.html",
+    "creationDate" : "2010-04-01T11:32:25.759+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.papuaweb.org/dlib/s123/remijsen/_phd.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.papuaweb.org/dlib/s123/remijsen/_phd.html",
+      "contentCategory" : "publisher-version",
+      "description" : "Papuaweb.org, document archive, theses, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402488",
+    "name" : "rajaampat_remijsen2002_s.pdf",
+    "creationDate" : "2010-04-01T11:32:26.535+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-796B-5",
+    "content" : "/rest/items/item_402489_5/component/file_402488/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2f781688058089b44651136e180714f9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1517595,
+    "metadata" : {
+      "title" : "rajaampat_remijsen2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1517595,
+      "copyrightDate" : "2013-12-11",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

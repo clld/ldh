@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_406366",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-12T20:42:13.866+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FE2-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:42:13.866+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9040-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:36:24.948+0000",
+  "latestRelease" : {
+    "objectId" : "item_406366",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T20:42:13.866+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FE2-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406366",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T20:42:13.866+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FE2-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Konsekutive Konstruktionen und relative Modalität",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Cécile",
+        "familyName" : "Meier",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36760",
+      "type" : "OTHER"
+    }, {
+      "id" : "konsekutive_meier2000_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "urn:nbn:de:bsz:21-opus-1272 ",
+      "type" : "URN"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "place" : "Tübingen",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: P325, LoC Subject Headings: German language, LoC Subject Headings: Semantics, LoC Subject Headings: Grammar/Comparative and general",
+    "subjects" : [ {
+      "value" : "deu - German",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VIII, 425 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406365",
+    "name" : "konsekutive_meier2000_s.pdf",
+    "creationDate" : "2010-04-01T13:36:24.681+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-903F-6",
+    "content" : "/rest/items/item_406366_5/component/file_406365/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f784cbd9435b3b33251dd782ddce4a9b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1961804,
+    "metadata" : {
+      "title" : "konsekutive_meier2000_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1961804
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2044409",
+    "name" : "http://hdl.handle.net/10900/46150",
+    "creationDate" : "2014-07-24T08:00:11.649+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/10900/46150",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f1fd7861c4cffc31a92f824e93b9bfcd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/10900/46150",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. Tübingen, institutional repository TOBIAS-lib, pdf",
+      "size" : 0
+    }
+  } ]
+}

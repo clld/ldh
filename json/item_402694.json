@@ -1,0 +1,147 @@
+{
+  "objectId" : "item_402694",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:12:54.281+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7A95-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:12:54.281+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7A95-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:36:58.547+0000",
+  "latestRelease" : {
+    "objectId" : "item_402694",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:12:54.281+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7A95-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402694",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:12:54.281+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7A95-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gramática del idioma Yaminahua",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Faust, Norma",
+        "givenName" : "Norma",
+        "familyName" : "Faust",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Eugene E.",
+        "familyName" : "Loos"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2002",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30277",
+      "type" : "OTHER"
+    }, {
+      "id" : "yaminahua_faust2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1. Aufl.",
+      "place" : "Peru",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística peruana",
+      "volume" : "51",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6253,\nLoC Subject Headings: Jaminaua language",
+    "subjects" : [ {
+      "value" : "yaa - Yaminahua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "176 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402692",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=326",
+    "creationDate" : "2010-04-01T11:36:57.714+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A93-0",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=326",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5fb104a79f22655f06d7372a39ce06d9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=326",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402693",
+    "name" : "yaminahua_faust2002_s.pdf",
+    "creationDate" : "2010-04-01T11:36:58.436+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A94-E",
+    "content" : "/rest/items/item_402694_2/component/file_402693/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "cce18d45c489871490dab71ee3f63190",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 490000,
+    "metadata" : {
+      "title" : "yaminahua_faust2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 490000
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

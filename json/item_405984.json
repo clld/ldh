@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_405984",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-15T08:21:16.622+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-EC21-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-15T08:21:16.622+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8E29-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:25:22.457+0000",
+  "latestRelease" : {
+    "objectId" : "item_405984",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-15T08:21:16.622+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-EC21-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405984",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-15T08:21:16.622+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-EC21-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Generation, recognition, and learning in finite state optimality theory",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jason Alan",
+        "familyName" : "Riggle",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35588",
+      "type" : "OTHER"
+    }, {
+      "id" : "optimalitytheory_riggle2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Los Angeles",
+      "publisher" : "Univ. of California"
+    },
+    "freeKeywords" : "LoC Class: P158.42,\nLoC Subject Headings: Optimality theory (Linguistics)",
+    "totalNumberOfPages" : "VI, 214 S."
+  },
+  "files" : [ {
+    "objectId" : "file_2042420",
+    "name" : "optimalitytheory_riggle2004_s.pdf",
+    "creationDate" : "2014-07-15T08:19:08.069+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0019-EC23-5",
+    "content" : "/rest/items/item_405984_3/component/file_2042420/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d6a0984a7b3af548c33975384d4fd5cc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6864305,
+    "metadata" : {
+      "title" : "optimalitytheory_riggle2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6864305
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2042421",
+    "name" : "http://www.linguistics.ucla.edu/general/Dissertations/Riggle/riggle04_1up.pdf",
+    "creationDate" : "2014-07-15T08:19:08.357+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-EC25-1",
+    "content" : "http://www.linguistics.ucla.edu/general/Dissertations/Riggle/riggle04_1up.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "74ca98b806e232350f9062bbbf30772e",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.linguistics.ucla.edu/general/Dissertations/Riggle/riggle04_1up.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "UCLA, University of California Los Angeles, Dep. of Linguistics, direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

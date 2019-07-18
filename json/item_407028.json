@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_407028",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-18T09:43:33.568+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7A21-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-18T09:43:33.568+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-93FC-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:52:53.329+0000",
+  "latestRelease" : {
+    "objectId" : "item_407028",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-18T09:43:33.568+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A21-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407028",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-18T09:43:33.568+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A21-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A comparative grammar of the South-African Bantu languages : comprising those of Zanzibar, Mozambique, the Zambesi, Kafirland, Benguela, Angola, the Congo, the Ogowe, the Cameroons, the lake region, etc.",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "J.",
+        "familyName" : "Torrend",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1891",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37609",
+      "type" : "OTHER"
+    }, {
+      "id" : "bantu_torrend1891_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "London",
+      "publisher" : "Paul, Trench, Trübner"
+    },
+    "freeKeywords" : "LoC Class: PL8025, LoC Subject Headings: Bantu languages",
+    "totalNumberOfPages" : "340 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8025, LoC Subject Headings: Bantu languages--Africa/Southern--Grammar/Comparative, Bantu languages--Africa/East--Grammar/Comparative, Bantu languages -- Africa/Sub-saharan--Grammar/Comparative"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407026",
+    "name" : "http://www.archive.org/details/comparativegramm00torruoft",
+    "creationDate" : "2010-04-01T13:52:46.861+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.archive.org/details/comparativegramm00torruoft",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1f7dd08748b6c1794445f0fe3b349649",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/comparativegramm00torruoft",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org: Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407027",
+    "name" : "bantu_torrend1891_o.pdf",
+    "creationDate" : "2010-04-01T13:52:47.774+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-93FB-F",
+    "content" : "/rest/items/item_407028_4/component/file_407027/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1d74f2fc7baae43a96ae046a751e1a09",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 59785859,
+    "metadata" : {
+      "title" : "bantu_torrend1891_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 59785859,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

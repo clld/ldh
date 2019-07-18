@@ -1,0 +1,127 @@
+{
+  "objectId" : "item_403793",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-11T10:40:03.324+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6847-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-11T10:40:03.324+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-81D6-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:24:37.156+0000",
+  "latestRelease" : {
+    "objectId" : "item_403793",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T10:40:03.324+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6847-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403793",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T10:40:03.324+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6847-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Self-organization and categorical behavior in phonology",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Andrew Benjamin",
+        "familyName" : "Wedel",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31731",
+      "type" : "OTHER"
+    }, {
+      "id" : "behavior_wedel2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "place" : "Santa Crux",
+      "publisher" : "2004"
+    },
+    "freeKeywords" : "LoC Class: P215, LoC Subject Headings: Grammar/Comparative and general--Phonology",
+    "totalNumberOfPages" : "xii, 248 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403792",
+    "name" : "behavior_wedel2004_s.pdf",
+    "creationDate" : "2010-04-01T12:24:36.930+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-81D5-7",
+    "content" : "/rest/items/item_403793_3/component/file_403792/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b09ef9f127499763892b33a2f24e434c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1632960,
+    "metadata" : {
+      "title" : "behavior_wedel2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1632960
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110894",
+    "name" : "http://dingo.sbs.arizona.edu/~wedel/publications/PDF/WedelDissertation.pdf",
+    "creationDate" : "2015-03-11T10:38:52.703+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dingo.sbs.arizona.edu/~wedel/publications/PDF/WedelDissertation.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "23cb38a5856ff7f0870fb522c70a7c2b",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dingo.sbs.arizona.edu/~wedel/publications/PDF/WedelDissertation.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  } ]
+}

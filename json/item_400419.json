@@ -1,0 +1,161 @@
+{
+  "objectId" : "item_400419",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-08-20T09:36:38.828+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-C02E-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Stichwörter bereinigt",
+  "lastModificationDate" : "2014-08-20T09:36:38.828+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6D5B-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:50:46.911+0000",
+  "latestRelease" : {
+    "objectId" : "item_400419",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-20T09:36:38.828+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C02E-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400419",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-20T09:36:38.828+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C02E-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dicionário Tariana - Português e Português - Tariana",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Alexandra Y.",
+        "familyName" : "Aikhenvald",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2001",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "18761",
+      "type" : "OTHER"
+    }, {
+      "id" : "boletim_goeldi2001_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "sources" : [ {
+      "title" : "Boletim de Antropologia do Museu Paraense Emílio Goeldi",
+      "volume" : "17(1)",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5099.8,\nLoC Subject Headings: Tariana language",
+    "subjects" : [ {
+      "value" : "tae - Tariana",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "por - Portuguese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "433 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5099.8,\nLoC Subject Headings: Languages in contact--Amazon River Region, Tariana language, Amazon River Region--Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400418",
+    "name" : "boletim_goeldi2001_s.pdf",
+    "creationDate" : "2010-04-01T10:50:46.724+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6D5A-A",
+    "content" : "/rest/items/item_400419_4/component/file_400418/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d08598caf7850796a1e1a034a57075fa",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1374322,
+    "metadata" : {
+      "title" : "boletim_goeldi2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1374322
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2032856",
+    "name" : "http://www.aikhenvaldlinguistics.com/tariana-language",
+    "creationDate" : "2014-06-12T07:23:28.504+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.aikhenvaldlinguistics.com/tariana-language",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "51d0d1f810ef7cae609d8ab108a19f6b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.aikhenvaldlinguistics.com/tariana-language",
+      "contentCategory" : "publisher-version",
+      "description" : "Language, 'Dictionary 2002' (pdf)",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2032857",
+    "name" : "http://www.aikhenvaldlinguistics.com/images/pdfs/tariana/language/tariana-dictionary-2002.pdf",
+    "creationDate" : "2014-06-12T07:23:29.839+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-B976-8",
+    "content" : "http://www.aikhenvaldlinguistics.com/images/pdfs/tariana/language/tariana-dictionary-2002.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d08598caf7850796a1e1a034a57075fa",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.aikhenvaldlinguistics.com/images/pdfs/tariana/language/tariana-dictionary-2002.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

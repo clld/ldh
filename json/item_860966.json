@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_860966",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-08-12T10:54:37.361+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-30F1-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Stichwörter korrigiert",
+  "lastModificationDate" : "2014-08-12T10:54:37.361+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0011-53C7-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2011-04-19T12:17:08.905+0000",
+  "latestRelease" : {
+    "objectId" : "item_860966",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-12T10:54:37.361+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-30F1-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_860966",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-12T10:54:37.361+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-30F1-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "The intonational grammar of Persian",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Nima",
+        "familyName" : "Sadat-Tehrani",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2008",
+    "dateCreated" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37353",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Winnipeg",
+      "publisher" : "Univ. of Manitoba"
+    },
+    "freeKeywords" : "LoC Class: PK6240,\nLoC Subject Headings: Persian language",
+    "subjects" : [ {
+      "value" : "pes - Farsi, Western",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xvii, 298 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PK6240,\nLoC Subject Headings: Persian language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_860964",
+    "name" : "persian_tehrani2007_s.pdf",
+    "creationDate" : "2011-04-19T12:17:06.124+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0011-53C5-7",
+    "content" : "/rest/items/item_860966_4/component/file_860964/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d08a74d30fabe5ab53950070f0bf04e8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1616976,
+    "metadata" : {
+      "title" : "persian_tehrani2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1616976
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2049796",
+    "name" : "http://hdl.handle.net/1993/2839",
+    "creationDate" : "2014-08-12T10:38:21.064+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-30D8-5",
+    "content" : "http://hdl.handle.net/1993/2839",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1993/2839",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. of Manitoba, institutional repository MSpace, pdf",
+      "size" : 0
+    }
+  } ]
+}

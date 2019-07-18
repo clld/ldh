@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_406756",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-07T08:01:28.958+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A7F1-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-07T08:01:28.958+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-925F-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:47:02.384+0000",
+  "latestRelease" : {
+    "objectId" : "item_406756",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-07T08:01:28.958+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7F1-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406756",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-07T08:01:28.958+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7F1-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Morphological study of the language of Xixiangji",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Cheng",
+        "familyName" : "Ngai-lai",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1984",
+    "datePublishedInPrint" : "1984",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37414",
+      "type" : "OTHER"
+    }, {
+      "id" : "xixiangji_cheng1984_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Hong-Kong",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL1510, LoC Subject Headings: Chinese language",
+    "subjects" : [ {
+      "value" : "cmn - Mandarin Chinese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vii, 123 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL1510, LoC Subject Headings: Chinese language --Dialects"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406754",
+    "name" : "http://sunzi1.lib.hku.hk/hkuto/record/B31208113",
+    "creationDate" : "2010-04-01T13:47:00.454+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://sunzi1.lib.hku.hk/hkuto/record/B31208113",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4a3a5af5e67dab86edce2850feb317d1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://sunzi1.lib.hku.hk/hkuto/record/B31208113",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Hong Kong, The HKU Scholars Hub, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406755",
+    "name" : "xixiangji_cheng1984_o.pdf",
+    "creationDate" : "2010-04-01T13:47:01.664+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-925E-A",
+    "content" : "/rest/items/item_406756_3/component/file_406755/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d5d70110d058777b110d1d07e47a7cc6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7302005,
+    "metadata" : {
+      "title" : "xixiangji_cheng1984_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7302005
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

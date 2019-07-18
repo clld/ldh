@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_408006",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T23:15:23.688+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70EB-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T23:15:23.688+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9954-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:27:44.927+0000",
+  "latestRelease" : {
+    "objectId" : "item_408006",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T23:15:23.688+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70EB-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408006",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T23:15:23.688+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70EB-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulario Zapoteco del Istmo : Castellano - Zapoteco, Zapoteco - Castellano",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Velma",
+        "familyName" : "Pickett",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1979",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "42198",
+      "type" : "OTHER"
+    }, {
+      "id" : "zapoteco_pickett1988_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "2a ed., 8a impr.",
+      "place" : "México",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie de Vocabularios Indígenas Mariano Silva y Aceves",
+      "volume" : "3",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4548, LoC Subject Headings: Zapotec language--Dictionaries--Spanish, LoC Subject Headings: Spanish language--Dictionaries--Zapotec",
+    "subjects" : [ {
+      "value" : "zai - Isthmus Zapotec",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 163 S."
+  },
+  "files" : [ {
+    "objectId" : "file_408004",
+    "name" : "http://www.sil.org/mexico/zapoteca/istmo/S003a-VocZapIstmo-zai.htm",
+    "creationDate" : "2010-04-01T14:27:44.246+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/mexico/zapoteca/istmo/S003a-VocZapIstmo-zai.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "032e6a9e605fbc9b3fc803172b0dff25",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/mexico/zapoteca/istmo/S003a-VocZapIstmo-zai.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408005",
+    "name" : "zapoteco_pickett1988_o.pdf",
+    "creationDate" : "2010-04-01T14:27:44.424+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9953-8",
+    "content" : "/rest/items/item_408006_3/component/file_408005/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0abfa6717b733167fe3545bf8b64a10b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4805464,
+    "metadata" : {
+      "title" : "zapoteco_pickett1988_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4805464
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

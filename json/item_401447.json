@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_401447",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:29:05.977+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-735D-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:29:05.977+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-735D-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:12:00.209+0000",
+  "latestRelease" : {
+    "objectId" : "item_401447",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:29:05.977+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-735D-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401447",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:29:05.977+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-735D-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of the Kokota language, Santa Isabel, Solomon Islands",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Palmer, Bill",
+        "givenName" : "Bill",
+        "familyName" : "Palmer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1999",
+    "datePublishedInPrint" : "1999",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "26601",
+      "type" : "OTHER"
+    }, {
+      "id" : "kokota_palmer1999_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "zugl.: Sydney",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PL6252.K671,\nLoC Subject Headings: Solomon Islands -- Languages",
+    "subjects" : [ {
+      "value" : "kkk - Kokota",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "3 MF (xxii, 341 S.)"
+  },
+  "files" : [ {
+    "objectId" : "file_401445",
+    "name" : "http://www.surrey.ac.uk/lcts/bill.palmer/NWS_site/Kok/gram.htm",
+    "creationDate" : "2010-04-01T11:11:59.413+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-735B-E",
+    "content" : "http://www.surrey.ac.uk/lcts/bill.palmer/NWS_site/Kok/gram.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4682116a4a57587a29ac1a675374c8d9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.surrey.ac.uk/lcts/bill.palmer/NWS_site/Kok/gram.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401446",
+    "name" : "kokota_palmer1999_s.pdf",
+    "creationDate" : "2010-04-01T11:11:59.719+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-735C-C",
+    "content" : "/rest/items/item_401447_2/component/file_401446/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "deb8b68c7417566926d865224b6042ba",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4612527,
+    "metadata" : {
+      "title" : "kokota_palmer1999_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4612527
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

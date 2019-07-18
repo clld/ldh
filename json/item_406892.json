@@ -1,0 +1,116 @@
+{
+  "objectId" : "item_406892",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-06-06T07:57:15.617+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-932A-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:57:15.617+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-932A-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:49:15.833+0000",
+  "latestRelease" : {
+    "objectId" : "item_406892",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:57:15.617+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-932A-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406892",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:57:15.617+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-932A-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Rule ordering in syntax",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Edwin Samuel",
+        "familyName" : "Williams",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1974",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37496",
+      "type" : "OTHER"
+    }, {
+      "id" : "ruleordering_williams1974_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cambridge",
+      "publisher" : "Mass."
+    },
+    "freeKeywords" : "LoC Subject Headings: English language",
+    "totalNumberOfPages" : "250 S.",
+    "abstracts" : [ {
+      "value" : "PE1369, English language--Syntax, English language--Grammar, Generative, Generative grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406891",
+    "name" : "ruleordering_williams1974_o.pdf",
+    "creationDate" : "2010-04-01T13:49:14.298+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9329-7",
+    "content" : "/rest/items/item_406892_3/component/file_406891/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a064a8aa616dd6ccb960bdce420c0174",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 15991329,
+    "metadata" : {
+      "title" : "ruleordering_williams1974_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 15991329,
+      "copyrightDate" : "2010-12-05",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

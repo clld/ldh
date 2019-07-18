@@ -1,0 +1,148 @@
+{
+  "objectId" : "item_405345",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T20:28:34.002+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FC1-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:28:34.002+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8A97-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:08:05.333+0000",
+  "latestRelease" : {
+    "objectId" : "item_405345",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:28:34.002+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FC1-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405345",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:28:34.002+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FC1-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario bilingüe : muinane-español ; español-muinane",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Walton, James W.",
+        "givenName" : "James W.",
+        "familyName" : "Walton",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Janice P.",
+        "familyName" : "Walton"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Clementina",
+        "familyName" : "de Pakky Buenaventura"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1997",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34664",
+      "type" : "OTHER"
+    }, {
+      "id" : "muinane_walton1997_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1a ed.",
+      "place" : "Santafé de Bogotá",
+      "publisher" : "Lleras Camargo"
+    },
+    "freeKeywords" : "LoC Class: PM6589.Z5, LoC Subject Headings: Muinane language -- Dictionaries -- Spanish, LoC Subject Headings: Spanish language -- Dictionaries -- Muinan",
+    "subjects" : [ {
+      "value" : "bmr - Muinane",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "V, 219 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405343",
+    "name" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=38009",
+    "creationDate" : "2010-04-01T13:08:04.803+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=38009",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=38009",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405344",
+    "name" : "muinane_walton1997_s.pdf",
+    "creationDate" : "2010-04-01T13:08:05.045+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A96-9",
+    "content" : "/rest/items/item_405345_3/component/file_405344/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "37d75534836b49a67c36a5d61dfac45a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2474288,
+    "metadata" : {
+      "title" : "muinane_walton1997_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2474288
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

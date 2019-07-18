@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_405329",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:21:16.120+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8A81-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:21:16.120+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8A81-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:07:20.236+0000",
+  "latestRelease" : {
+    "objectId" : "item_405329",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:21:16.120+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A81-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405329",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:21:16.120+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A81-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Initial analysis of the pitch system of Moloko nouns",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Boyd, Virginia",
+        "givenName" : "Virginia",
+        "familyName" : "Boyd",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2002",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34656",
+      "type" : "OTHER"
+    }, {
+      "id" : "moloko_boyd2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N.A.",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL8021.C35,\nLoC Subject Headings: Cameroon --Languages",
+    "subjects" : [ {
+      "value" : "mlw - Moloko",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "15 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405327",
+    "name" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/melokwo_boyd2002_2548_p.pdf",
+    "creationDate" : "2010-04-01T13:07:19.102+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A7F-0",
+    "content" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/melokwo_boyd2002_2548_p.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/melokwo_boyd2002_2548_p.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405328",
+    "name" : "moloko_boyd2002_s.pdf",
+    "creationDate" : "2010-04-01T13:07:19.467+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A80-A",
+    "content" : "/rest/items/item_405329_2/component/file_405328/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2bbf55bc4d56b21755d21cdc759e38cc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7751171,
+    "metadata" : {
+      "title" : "moloko_boyd2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7751171
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_400736",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-19T07:39:30.091+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-D09B-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-05-19T07:39:30.091+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6F3D-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:57:47.260+0000",
+  "latestRelease" : {
+    "objectId" : "item_400736",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-19T07:39:30.091+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D09B-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400736",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-19T07:39:30.091+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D09B-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Estudios quechua : Planificación, historia y gramática",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "David J.",
+        "familyName" : "Weber",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1987",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "23992",
+      "type" : "OTHER"
+    }, {
+      "id" : "quechua_weber1987_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1a ed.",
+      "place" : "Yarinacocha, Perú",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística peruana",
+      "volume" : "27",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6303, LoC Subject Headings: Quechua language",
+    "subjects" : [ {
+      "value" : "qub - Huallaga Huánuco Quechua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "172 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400735",
+    "name" : "quechua_weber1987_o.pdf",
+    "creationDate" : "2010-04-01T10:57:46.528+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F3C-D",
+    "content" : "/rest/items/item_400736_4/component/file_400735/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "06afcf7d766ca23f76e4e84672c7fb82",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6113756,
+    "metadata" : {
+      "title" : "quechua_weber1987_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6113756
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2156052",
+    "name" : "http://www.peru.sil.org/resources/archives/29958",
+    "creationDate" : "2015-05-19T07:38:53.399+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/29958",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9ea02f1a88761e518bd65fecf7507897",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/29958",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Language & Culture Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

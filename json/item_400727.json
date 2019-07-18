@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_400727",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:45:15.690+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6F31-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:45:15.690+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6F31-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:57:41.022+0000",
+  "latestRelease" : {
+    "objectId" : "item_400727",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:45:15.690+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6F31-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400727",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:45:15.690+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6F31-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "El Munichi : un idioma que se extingue",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Gibson, Michael Luke",
+        "givenName" : "Michael Luke",
+        "familyName" : "Gibson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "23989",
+      "type" : "OTHER"
+    }, {
+      "id" : "munichi_gibson1996_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa", "" ],
+    "publishingInfo" : {
+      "edition" : "1a ed.",
+      "place" : "Yarinacocha, Perú",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística peruana",
+      "volume" : "42",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6601,\nLoC Subject Headings: Munichi language",
+    "subjects" : [ {
+      "value" : "myr - Muniche",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "103 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400725",
+    "name" : "http://www.sil.org/americas/peru/html/nav/pubIndex_sp.html",
+    "creationDate" : "2010-04-01T10:57:40.200+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F2F-B",
+    "content" : "http://www.sil.org/americas/peru/html/nav/pubIndex_sp.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "53947f9f17b1ff4b80711ee58d52a053",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/nav/pubIndex_sp.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400726",
+    "name" : "munichi_gibson1996_o.pdf",
+    "creationDate" : "2010-04-01T10:57:40.564+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F30-5",
+    "content" : "/rest/items/item_400727_2/component/file_400726/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e8efcaf1ff786070da45ec6acd8ea150",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4337400,
+    "metadata" : {
+      "title" : "munichi_gibson1996_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4337400
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

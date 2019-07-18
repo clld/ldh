@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_404067",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-02T09:22:35.022+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-D819-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-02T09:22:35.022+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8363-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:33:50.877+0000",
+  "latestRelease" : {
+    "objectId" : "item_404067",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-02T09:22:35.022+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D819-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404067",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-02T09:22:35.022+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D819-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Ausdrucksweisen der Possessivität im Deutschen und im Arabischen : eine konfrontative Studie",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Nourelhoda",
+        "familyName" : "Elkady",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedOnline" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32212",
+      "type" : "OTHER"
+    }, {
+      "id" : "arabischen_elkady2001_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "urn:nbn:de:hbz:467-1223",
+      "type" : "URN"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "place" : "Siegen",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PJ6303,\nLoC Subject Headings: Arabic language",
+    "subjects" : [ {
+      "value" : "arb - Standard Arabic",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "264 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404066",
+    "name" : "arabischen_elkady2001_s.pdf",
+    "creationDate" : "2010-04-01T12:33:50.646+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8362-A",
+    "content" : "/rest/items/item_404067_3/component/file_404066/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "60c678e090eb6acd616d7420bac4b263",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1316594,
+    "metadata" : {
+      "title" : "arabischen_elkady2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1316594
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2036608",
+    "name" : "http://dokumentix.ub.uni-siegen.de/opus/volltexte/2006/122/",
+    "creationDate" : "2014-07-02T09:20:53.214+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-D81A-F",
+    "content" : "http://dokumentix.ub.uni-siegen.de/opus/volltexte/2006/122/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6c0fb9b7b222b5c93642fa200848eb47",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dokumentix.ub.uni-siegen.de/opus/volltexte/2006/122/",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. Siegen, electronic ressources, pdf",
+      "size" : 0
+    }
+  } ]
+}

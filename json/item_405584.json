@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_405584",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:32:49.009+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8BEE-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:32:49.009+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8BEE-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:15:55.278+0000",
+  "latestRelease" : {
+    "objectId" : "item_405584",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:32:49.009+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8BEE-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405584",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:32:49.009+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8BEE-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Minimality and Turkish relative clauses",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Cagri, Ilhan Merih",
+        "givenName" : "Ilhan Merih",
+        "familyName" : "Cagri",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35058",
+      "type" : "OTHER"
+    }, {
+      "id" : "turkish_cagri2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "College Park",
+      "publisher" : " Md."
+    },
+    "freeKeywords" : "LoC Class: PL171,\nLoC Subject Headings: Turkish language --Relative clauses",
+    "subjects" : [ {
+      "value" : "tur - Turkish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "X, 265 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405582",
+    "name" : "http://www.freewebs.com/ilhan/Dissertation_Cagri.pdf",
+    "creationDate" : "2010-04-01T13:15:47.990+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8BEC-3",
+    "content" : "http://www.freewebs.com/ilhan/Dissertation_Cagri.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.freewebs.com/ilhan/Dissertation_Cagri.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405583",
+    "name" : "turkish_cagri2005_s.pdf",
+    "creationDate" : "2010-04-01T13:15:55.076+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8BED-1",
+    "content" : "/rest/items/item_405584_2/component/file_405583/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c86fc245a7710b584192c50510c46b91",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1400314,
+    "metadata" : {
+      "title" : "turkish_cagri2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1400314
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

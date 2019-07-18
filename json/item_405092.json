@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_405092",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:46:15.870+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-893E-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:46:15.870+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-893E-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:55:09.626+0000",
+  "latestRelease" : {
+    "objectId" : "item_405092",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:46:15.870+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-893E-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405092",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:46:15.870+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-893E-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Denya segmental language",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Mbuagbaw, Tanyi Eyong",
+        "givenName" : "Tanyi Eyong",
+        "familyName" : "Mbuagbaw",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1999",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34339",
+      "type" : "OTHER"
+    }, {
+      "id" : "denya_mbuagbaw1999_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yaoundé (Cameroon)",
+      "publisher" : "Cameroon Association for Bible Translation and\n              Literacy (CABTAL)"
+    },
+    "freeKeywords" : "LoC Class: PL8047.3.A5972,\nLoC Subject Headings: Anyang language",
+    "subjects" : [ {
+      "value" : "anv - Denya",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405090",
+    "name" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/denya_mbuagbaw1999_2488_o.pdf",
+    "creationDate" : "2010-04-01T12:55:09.020+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-893C-0",
+    "content" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/denya_mbuagbaw1999_2488_o.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/denya_mbuagbaw1999_2488_o.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405091",
+    "name" : "denya_mbuagbaw1999_s.pdf",
+    "creationDate" : "2010-04-01T12:55:09.552+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-893D-E",
+    "content" : "/rest/items/item_405092_2/component/file_405091/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c6ccd45be664179a3cd1055edc140300",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 177407,
+    "metadata" : {
+      "title" : "denya_mbuagbaw1999_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 177407
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

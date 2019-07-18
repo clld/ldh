@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_405660",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:22:28.040+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8C58-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:22:28.040+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8C58-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:18:02.040+0000",
+  "latestRelease" : {
+    "objectId" : "item_405660",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:22:28.040+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8C58-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405660",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:22:28.040+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8C58-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Cultural reception in the contact and conversion history of the Asabano of Papua New Guinea",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Lohmann, Roger Ivar",
+        "givenName" : "Roger Ivar",
+        "familyName" : "Lohmann",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "datePublishedInPrint" : "2000",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35196",
+      "type" : "OTHER"
+    }, {
+      "id" : "asabano_lohmann2000_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PL6601,\nLoC Subject Headings: Papuan languages",
+    "totalNumberOfPages" : "XII, 340 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405658",
+    "name" : "http://www.people.trentu.ca/rogerlohmann/lohmann2000a.pdf",
+    "creationDate" : "2010-04-01T13:17:19.265+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C56-D",
+    "content" : "http://www.people.trentu.ca/rogerlohmann/lohmann2000a.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "faf26af33742f88833fee81d78c99838",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.people.trentu.ca/rogerlohmann/lohmann2000a.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405659",
+    "name" : "asabano_lohmann2000_o.pdf",
+    "creationDate" : "2010-04-01T13:18:00.494+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C57-B",
+    "content" : "/rest/items/item_405660_2/component/file_405659/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f511f33caedfdae83c7f1647de93ef4e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 15837352,
+    "metadata" : {
+      "title" : "asabano_lohmann2000_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 15837352
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

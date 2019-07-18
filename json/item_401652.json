@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_401652",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-03-12T18:27:32.672+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6EC9-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T18:27:32.672+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-748A-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:15:57.628+0000",
+  "latestRelease" : {
+    "objectId" : "item_401652",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-12T18:27:32.672+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EC9-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401652",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-12T18:27:32.672+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EC9-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "An Australian grammar, comprehending the principles and natural rules of the language, as spoken by the aborigines, in the vicinity of Hunters River, Lake Macquarie, New South Wales",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lancelot Edward",
+        "familyName" : "Threlkeld",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1834",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "27427",
+      "type" : "OTHER"
+    }, {
+      "id" : "newsouthwales_threlkeld1834_o.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Sydney",
+      "publisher" : "Stephens and Stokes"
+    },
+    "freeKeywords" : "LoC Subject Headings: Australian languages, LoC Subject Headings: Ethnology--New South Wales",
+    "tableOfContents" : "Title pages and Introductory Remarks\nPart 1 Pronunciation and Orthography\nPart 2 Of the Verb\nPart 3 Vocabulary and Illustrations\n\n(http://libguides.newcastle.edu.au/chrp)",
+    "totalNumberOfPages" : "xii, 131 S.",
+    "abstracts" : [ {
+      "value" : "PL7101.A7, Australian languages, Ethnology--New South Wales"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401651",
+    "name" : "newsouthwales_threlkeld1834_o.pdf",
+    "creationDate" : "2010-04-01T11:15:57.226+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7489-B",
+    "content" : "/rest/items/item_401652_6/component/file_401651/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6610689f524e620eb3cc4a52031aac88",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3597951,
+    "metadata" : {
+      "title" : "newsouthwales_threlkeld1834_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3597951,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_431973",
+    "name" : "http://libguides.newcastle.edu.au/content.php?pid=94364&sid=746755&search_terms=threlkeld",
+    "creationDate" : "2010-05-10T13:09:13.349+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://libguides.newcastle.edu.au/content.php?pid=94364&sid=746755&search_terms=threlkeld",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "cc0c245c2946f53a7ed885be7be147f8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libguides.newcastle.edu.au/content.php?pid=94364&sid=746755&search_terms=threlkeld",
+      "contentCategory" : "publisher-version",
+      "description" : "LibGuides at University of Newcastle, Australia : The Virtual Coquun - Hunter River Project",
+      "size" : 0
+    }
+  } ]
+}

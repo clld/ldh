@@ -1,0 +1,119 @@
+{
+  "objectId" : "item_403445",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-13T00:04:33.680+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-715A-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T00:04:33.680+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7F32-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:21.607+0000",
+  "latestRelease" : {
+    "objectId" : "item_403445",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T00:04:33.680+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-715A-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403445",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T00:04:33.680+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-715A-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The phonology of Bifan",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Unjidi, Charles",
+        "givenName" : "Charles",
+        "familyName" : "Unjidi",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31252",
+      "type" : "OTHER"
+    }, {
+      "id" : "bifan_abre2003_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Befang language, LoC Subject Headings: Cameroon --Languages",
+    "subjects" : [ {
+      "value" : "bby - Befang",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VI, 100 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : bby, Befang language, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403444",
+    "name" : "bifan_abre2003_o.pdf",
+    "creationDate" : "2010-04-01T12:18:21.253+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7F31-8",
+    "content" : "/rest/items/item_403445_4/component/file_403444/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e88b1a1fd49f25e87a16e0fdab4400f0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3093785,
+    "metadata" : {
+      "title" : "bifan_abre2003_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3093785,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

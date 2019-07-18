@@ -1,0 +1,167 @@
+{
+  "objectId" : "item_401249",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T18:11:56.952+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6EA8-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T18:11:56.952+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7246-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:08:14.861+0000",
+  "latestRelease" : {
+    "objectId" : "item_401249",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T18:11:56.952+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EA8-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401249",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T18:11:56.952+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EA8-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulario ocaina",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ilo M.",
+        "familyName" : "Leach",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1969",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "25481",
+      "type" : "OTHER"
+    }, {
+      "id" : "ocaina_leach1969_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yarinacocha, Perú",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie lingüistica peruana",
+      "creators" : [ {
+        "organization" : {
+          "identifier" : "ou_persistent22",
+          "name" : "Ministerio de Educación, Instituto Lingüistico de Verano",
+          "identifierPath" : [ "ou_persistent22" ]
+        },
+        "role" : "EDITOR",
+        "type" : "ORGANIZATION"
+      } ],
+      "volume" : "4",
+      "publishingInfo" : {
+        "place" : "Lima ",
+        "publisher" : "SIL"
+      },
+      "identifiers" : [ {
+        "id" : "1131692-5",
+        "type" : "ZDB"
+      }, {
+        "id" : "1022-1506",
+        "type" : "ISSN"
+      } ],
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Ocaina language, LoC Subject Headings: Spanish language",
+    "subjects" : [ {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "oca - Ocaina",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix, 176 S.",
+    "abstracts" : [ {
+      "value" : "PM6682.Z5, ISO 639-3 : oca , ISO 639-3 : spa , Ocaina language--Dictionaries--Spanish, Spanish language--Dictionaries--Ocaina"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401247",
+    "name" : "http://www.sil.org/americas/peru/html/nav/pubIndex.html",
+    "creationDate" : "2010-04-01T11:08:13.912+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/peru/html/nav/pubIndex.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4fd8bcb3d451aa0d6b93d24b91ca83da",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/nav/pubIndex.html",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401248",
+    "name" : "ocaina_leach1969_o.pdf",
+    "creationDate" : "2010-04-01T11:08:14.245+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7245-6",
+    "content" : "/rest/items/item_401249_4/component/file_401248/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8f28e16027f1deac22012f4de58009b5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6076000,
+    "metadata" : {
+      "title" : "ocaina_leach1969_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6076000,
+      "copyrightDate" : "2008",
+      "rights" : "© Instituto Lingüístico de Verano, Lima, Perú.\nAll rights reserved.\nwww.sil.org/americas/peru",
+      "license" : "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    }
+  } ]
+}

@@ -1,0 +1,149 @@
+{
+  "objectId" : "item_403799",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-04T11:20:24.652+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0451-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "aktualisiert",
+  "lastModificationDate" : "2015-03-04T11:20:24.652+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-81DE-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:24:44.109+0000",
+  "latestRelease" : {
+    "objectId" : "item_403799",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-04T11:20:24.652+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0451-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403799",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-04T11:20:24.652+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0451-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A Bengali prose reader for second-year students",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Edward C.",
+        "familyName" : "Dimock",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Somdev",
+        "familyName" : "Bhattacharji",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1988",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31734",
+      "type" : "OTHER"
+    }, {
+      "id" : "bengali_dimock1988_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Chicago",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PK1716, LoC Subject Headings: Bengali language",
+    "subjects" : [ {
+      "value" : "ben - Bengali",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "235 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PK1716,\nLoC Subject Headings: Bengali language--Readers"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403797",
+    "name" : "http://dsal.uchicago.edu/digbooks/dig_toc.html?BOOKID=PK1664.D6_1988",
+    "creationDate" : "2010-04-01T12:24:42.091+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dsal.uchicago.edu/digbooks/dig_toc.html?BOOKID=PK1664.D6_1988",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a453f2e1b55dc52950180e9dbbfbfe54",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dsal.uchicago.edu/digbooks/dig_toc.html?BOOKID=PK1664.D6_1988",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Chicago, Digital South Asia Library, view online",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403798",
+    "name" : "bengali_dimock1988_o.pdf",
+    "creationDate" : "2010-04-01T12:24:42.401+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-81DD-8",
+    "content" : "/rest/items/item_403799_3/component/file_403798/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "77c62357f3491f9321b059f13c6f8e84",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 17535330,
+    "metadata" : {
+      "title" : "bengali_dimock1988_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 17535330
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

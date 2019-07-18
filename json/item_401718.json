@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_401718",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:48:41.711+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-74F2-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:48:41.711+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-74F2-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:17:31.748+0000",
+  "latestRelease" : {
+    "objectId" : "item_401718",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:48:41.711+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-74F2-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401718",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:48:41.711+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-74F2-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Fonética e fonologia do Suruwahá",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Suzuki, Edson Massamiti",
+        "givenName" : "Edson Massamiti",
+        "familyName" : "Suzuki",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1977",
+    "datePublishedInPrint" : "1977",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "27722",
+      "type" : "OTHER"
+    }, {
+      "id" : "suruwaha_suzuki1997_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : "Unicamp, Inst. de Estudos da Linguagem"
+    },
+    "freeKeywords" : "LoC Class: PM7083",
+    "subjects" : [ {
+      "value" : "swx - Suruahá",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "108 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401716",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000116608",
+    "creationDate" : "2010-04-01T11:17:30.269+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-74F0-3",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000116608",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f87d31ac503368bfa0ca03d04dabf331",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000116608",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401717",
+    "name" : "suruwaha_suzuki1997_o.pdf",
+    "creationDate" : "2010-04-01T11:17:31.425+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-74F1-1",
+    "content" : "/rest/items/item_401718_2/component/file_401717/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "27489b1a15878764b0d78299493413a6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2733547,
+    "metadata" : {
+      "title" : "suruwaha_suzuki1997_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2733547
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

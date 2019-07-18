@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_402990",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T18:25:04.353+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6EC0-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T18:25:04.353+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7C65-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:48:49.316+0000",
+  "latestRelease" : {
+    "objectId" : "item_402990",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:25:04.353+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EC0-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402990",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:25:04.353+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EC0-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Noun phrases in Madak",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Lee, Bob",
+        "givenName" : "Bob",
+        "familyName" : "Lee",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1994",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30791",
+      "type" : "OTHER"
+    }, {
+      "id" : "madak_lee_s\n              .html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N.A.",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL6601, LoC Subject Headings: Madak language, LoC Subject Headings: Papua New Guinea --Languages",
+    "subjects" : [ {
+      "value" : "mmx - Madak",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "[34 S.]"
+  },
+  "files" : [ {
+    "objectId" : "file_402988",
+    "name" : "http://www.sil.org/pacific/png/pubs/0000103/Noun%20Phrases%20in%20Madak.pdf",
+    "creationDate" : "2010-04-01T11:48:48.621+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7C63-C",
+    "content" : "http://www.sil.org/pacific/png/pubs/0000103/Noun%20Phrases%20in%20Madak.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "29f976df1b230908d777e1c479bf7353",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/pacific/png/pubs/0000103/Noun%20Phrases%20in%20Madak.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402989",
+    "name" : "madak_lee_s.pdf",
+    "creationDate" : "2010-04-01T11:48:49.254+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7C64-A",
+    "content" : "/rest/items/item_402990_3/component/file_402989/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "492aebd742e2f2cd68d920051d26732b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 80284,
+    "metadata" : {
+      "title" : "madak_lee_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 80284
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

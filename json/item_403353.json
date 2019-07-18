@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_403353",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-13T01:37:51.883+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-721E-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:37:51.883+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E95-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:17:19.387+0000",
+  "latestRelease" : {
+    "objectId" : "item_403353",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T01:37:51.883+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-721E-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403353",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T01:37:51.883+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-721E-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Phrases to sentences in Kuay (Surin)",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Sa-Ard, Oranuch",
+        "givenName" : "Oranuch",
+        "familyName" : "Sa-Ard",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1984",
+    "datePublishedInPrint" : "1984",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31185",
+      "type" : "OTHER"
+    }, {
+      "id" : "kuay_oranuch1984_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Nakhon Pathom",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PL4301, LoC Subject Headings: Mon-Khmer languages -- Grammar, LoC Subject Headings: Thai language -- Dialects",
+    "subjects" : [ {
+      "value" : "kdt - Kuy",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiii, 160 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403351",
+    "name" : "http://archives.sealang.net/mahidol",
+    "creationDate" : "2010-04-01T12:17:18.734+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://archives.sealang.net/mahidol",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "86fa3379c3cfd9ea6e00bb37274e97b0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://archives.sealang.net/mahidol",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403352",
+    "name" : "kuay_oranuch1984_o.pdf",
+    "creationDate" : "2010-04-01T12:17:19.002+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E94-3",
+    "content" : "/rest/items/item_403353_3/component/file_403352/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "da60b162f636bc5961e3d99d56cc1a5e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3489170,
+    "metadata" : {
+      "title" : "kuay_oranuch1984_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3489170
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

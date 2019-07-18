@@ -1,0 +1,149 @@
+{
+  "objectId" : "item_408133",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-12-23T12:34:25.132+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-6068-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-23T12:34:25.132+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9A12-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:30:38.494+0000",
+  "latestRelease" : {
+    "objectId" : "item_408133",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-23T12:34:25.132+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-6068-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408133",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-23T12:34:25.132+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-6068-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Phonetic elements of the Diegueño language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "A. L.",
+        "familyName" : "Kroeber",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "John Peabody",
+        "familyName" : "Harrington",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1914",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "42375",
+      "type" : "OTHER"
+    }, {
+      "id" : "diegueno_krober1914_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "University of California publications in American archaeology and ethnology",
+      "volume" : "11",
+      "issue" : "2",
+      "startPage" : "177",
+      "endPage" : "188",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM1071,\nLoC Subject Headings: Kumiai language",
+    "subjects" : [ {
+      "value" : "dih - Kumiai",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "11 S."
+  },
+  "files" : [ {
+    "objectId" : "file_408131",
+    "name" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=161",
+    "creationDate" : "2010-04-01T14:30:36.827+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=161",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ee2053d588c01230fb542a2293a36e4b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=161",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Califorinia, Anthropology Library, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408132",
+    "name" : "diegueno_krober1914_o.pdf",
+    "creationDate" : "2010-04-01T14:30:38.304+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9A11-7",
+    "content" : "/rest/items/item_408133_3/component/file_408132/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5d8259d09a4933df211e210645c62c80",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1343145,
+    "metadata" : {
+      "title" : "diegueno_krober1914_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1343145,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

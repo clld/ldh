@@ -1,0 +1,115 @@
+{
+  "objectId" : "item_403477",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T11:03:38.291+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7F70-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:03:38.291+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7F70-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:44.381+0000",
+  "latestRelease" : {
+    "objectId" : "item_403477",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:03:38.291+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F70-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403477",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:03:38.291+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F70-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Phonologie et morphologie du Kinyarwanda",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Philippe",
+        "familyName" : "Mpayimana",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31303",
+      "type" : "OTHER"
+    }, {
+      "id" : "kinyarwanda_mpayimana2003_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Class: PL8608,\nLoC Subject Headings: Kinyarwanda language",
+    "subjects" : [ {
+      "value" : "kin - Kinyarwanda",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vii, 133 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403476",
+    "name" : "kinyarwanda_mpayimana2003_o.pdf",
+    "creationDate" : "2010-04-01T12:18:43.829+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7F6F-2",
+    "content" : "/rest/items/item_403477_3/component/file_403476/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3f8bf3ea8de84e0f36cc731727cb5a57",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5277244,
+    "metadata" : {
+      "title" : "kinyarwanda_mpayimana2003_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5277244,
+      "copyrightDate" : "2010-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

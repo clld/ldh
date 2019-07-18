@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_403602",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-12-22T10:08:07.743+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-5EE4-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-22T10:08:07.743+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-807B-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:20:29.527+0000",
+  "latestRelease" : {
+    "objectId" : "item_403602",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-12-22T10:08:07.743+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5EE4-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403602",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-12-22T10:08:07.743+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5EE4-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A manual of the Chaldee language : containing a Chaldee grammar, chiefly from the German of Professor G.B. Winer ; a chrestomathy consisting of selections from the Targums, and including notes on the biblical Chaldee and a vocabulary, adapted to the chrestomathy ; with an appendix on the Rabbinic and Samaritan dialects",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Elias",
+        "familyName" : "Riggs",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Georg Benedikt",
+        "familyName" : "Winer"
+      },
+      "role" : "CONTRIBUTOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1858",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31426",
+      "type" : "OTHER"
+    }, {
+      "id" : "chaldee_riggs1858_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "4. korr. Aufl.",
+      "place" : "New York",
+      "publisher" : "Randolph"
+    },
+    "freeKeywords" : "LoC Class: PJ5213,\nLoC Subject Headings: Aramaic language",
+    "totalNumberOfPages" : "152 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PJ5213,\nLoC Subject Headings: Aramaic language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403601",
+    "name" : "chaldee_riggs1858_o.pdf",
+    "creationDate" : "2010-04-01T12:20:28.389+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-807A-0",
+    "content" : "/rest/items/item_403602_4/component/file_403601/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c8bcd7f7074e95121979a41fd78cf907",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10778962,
+    "metadata" : {
+      "title" : "chaldee_riggs1858_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10778962,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2079844",
+    "name" : "https://archive.org/details/cu31924088940063",
+    "creationDate" : "2014-12-22T10:05:55.217+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/cu31924088940063",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f4dacf65a7f24753370953717885aa87",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/cu31924088940063",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, view online & pdf",
+      "size" : 0
+    }
+  } ]
+}

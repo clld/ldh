@@ -1,0 +1,119 @@
+{
+  "objectId" : "item_403595",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-05-31T10:33:49.267+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8069-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:33:49.267+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8069-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:20:17.694+0000",
+  "latestRelease" : {
+    "objectId" : "item_403595",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T10:33:49.267+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8069-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403595",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T10:33:49.267+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8069-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dictionnaire Cambodgien-Français",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jean Baptiste",
+        "familyName" : "Bernard",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1902",
+    "datePublishedOnline" : "2007-04-06",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31422",
+      "type" : "OTHER"
+    }, {
+      "id" : "cambodgien_bernard1902_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Hongkong",
+      "publisher" : "Imprimerie de la société des missions etrangères"
+    },
+    "freeKeywords" : "LoC Subject Headings: Khmer language",
+    "subjects" : [ {
+      "value" : "khm - Khmer, Central",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "47, 386 S.",
+    "abstracts" : [ {
+      "value" : "PL4321, ISO 639-3 : khm, Khmer language --Dictionaries --French"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403594",
+    "name" : "cambodgien_bernard1902_o.pdf",
+    "creationDate" : "2010-04-01T12:20:12.579+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8068-7",
+    "content" : "/rest/items/item_403595_5/component/file_403594/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "edd88d6c1a10db081a6924338ddbef00",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 25826800,
+    "metadata" : {
+      "title" : "cambodgien_bernard1902_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 25826800,
+      "copyrightDate" : "2010-12-01",
+      "rights" : "not in copyright, Jean Baptise Bernard, 1866-1939"
+    }
+  } ]
+}

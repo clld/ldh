@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_406377",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-29T10:28:13.841+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0027-7836-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-29T10:28:13.841+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-904F-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:36:52.824+0000",
+  "latestRelease" : {
+    "objectId" : "item_406377",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-29T10:28:13.841+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0027-7836-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406377",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-29T10:28:13.841+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0027-7836-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Studies in computational optimality theory, with special reference to the phonological system of Malagasy",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Daniel Matthew",
+        "familyName" : "Albro",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36787",
+      "type" : "OTHER"
+    }, {
+      "id" : "malagasy_albro2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Los Angeles",
+      "publisher" : "Univ. of California"
+    },
+    "freeKeywords" : "LoC Class: PL5371, LoC Subject Headings: Malagasy language",
+    "subjects" : [ {
+      "value" : "xmw - Malagasy, Tsimihety",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XII, 318 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406375",
+    "name" : "http://www.linguistics.ucla.edu/people/grads/albro/diss.pdf",
+    "creationDate" : "2010-04-01T13:36:43.499+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-904D-4",
+    "content" : "http://www.linguistics.ucla.edu/people/grads/albro/diss.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8bdbf77fce5a966b09e7a531ccc53577",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.linguistics.ucla.edu/people/grads/albro/diss.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of California, Dep. of Linguistics, direct link to pdf version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406376",
+    "name" : "malagasy_albro2005_s.pdf",
+    "creationDate" : "2010-04-01T13:36:52.214+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-904E-2",
+    "content" : "/rest/items/item_406377_4/component/file_406376/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d50a3328094d16a3f575f4423d545e3b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1212894,
+    "metadata" : {
+      "title" : "malagasy_albro2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1212894
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

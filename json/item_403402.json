@@ -1,0 +1,119 @@
+{
+  "objectId" : "item_403402",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T10:00:46.476+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7EDC-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:00:46.476+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7EDC-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:17:49.611+0000",
+  "latestRelease" : {
+    "objectId" : "item_403402",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:00:46.476+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7EDC-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403402",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:00:46.476+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7EDC-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The morpho-syntax of Baba 1",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Pepandze, Nashipu Julius",
+        "givenName" : "Julius Pepandze ",
+        "familyName" : "Nashipu ",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31211",
+      "type" : "OTHER"
+    }, {
+      "id" : "baba_nashipu2005_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon --Languages",
+    "subjects" : [ {
+      "value" : "bbw - Baba",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xv, 237 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : bbw, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403401",
+    "name" : "baba_nashipu2005_o.pdf",
+    "creationDate" : "2010-04-01T12:17:48.619+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7EDB-5",
+    "content" : "/rest/items/item_403402_3/component/file_403401/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "806a21a728b0b9d293dec9c6abad480b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9724309,
+    "metadata" : {
+      "title" : "baba_nashipu2005_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9724309,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

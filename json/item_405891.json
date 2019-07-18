@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_405891",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-28T07:10:15.135+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C29C-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-28T07:10:15.135+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8DA4-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:22:50.563+0000",
+  "latestRelease" : {
+    "objectId" : "item_405891",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-28T07:10:15.135+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C29C-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405891",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-28T07:10:15.135+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C29C-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Aspectos da língua Kadiwéu",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Glyn",
+        "familyName" : "Griffiths",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Cynthia",
+        "familyName" : "Griffiths"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1976",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "35518",
+      "type" : "OTHER"
+    }, {
+      "id" : "kadiweu_bridgeman1976.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Brasília",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PM5659, LoC Subject Headings: Caduveo language",
+    "subjects" : [ {
+      "value" : "kbc - Kadiwéu",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "171 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405889",
+    "name" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/KDGram.pdf",
+    "creationDate" : "2010-04-01T13:22:40.046+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/KDGram.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6f82828345368b92f4055118f05bb68a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/KDGram.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Brazil, direct link to pdf version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405890",
+    "name" : "kadiweu_bridgeman1976.pdf",
+    "creationDate" : "2010-04-01T13:22:48.929+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8DA3-A",
+    "content" : "/rest/items/item_405891_4/component/file_405890/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c7f4f33a1a020dac188743eb021a2235",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 16552569,
+    "metadata" : {
+      "title" : "kadiweu_bridgeman1976.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 16552569
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

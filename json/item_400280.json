@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_400280",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T16:12:30.718+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6DA4-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T16:12:30.718+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6C6D-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:44:33.965+0000",
+  "latestRelease" : {
+    "objectId" : "item_400280",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T16:12:30.718+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6DA4-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400280",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T16:12:30.718+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6DA4-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammar of the Siona language, Colombia, South America",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Wheeler, Alva Lee",
+        "givenName" : "Alva Lee",
+        "familyName" : "Wheeler",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1970",
+    "datePublishedInPrint" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "17314",
+      "type" : "OTHER"
+    }, {
+      "id" : "siona_wheeler1970_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PM7346, LoC Subject Headings: Zeona language--Grammar, LoC Subject Headings: Indians of South America--Colombia--Languages",
+    "subjects" : [ {
+      "value" : "snn - Siona",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "197 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400278",
+    "name" : "http://proquest.umi.com/pqdweb?did=755463181&sid=1&Fmt=1&clientId=56146&RQT=309&VName=PQD",
+    "creationDate" : "2010-04-01T10:44:25.654+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://proquest.umi.com/pqdweb?did=755463181&sid=1&Fmt=1&clientId=56146&RQT=309&VName=PQD",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a54f35b2d2f83ea26343a4865b7d33a4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://proquest.umi.com/pqdweb?did=755463181&sid=1&Fmt=1&clientId=56146&RQT=309&VName=PQD",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400279",
+    "name" : "siona_wheeler1970_o.pdf",
+    "creationDate" : "2010-04-01T10:44:28.415+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6C6C-C",
+    "content" : "/rest/items/item_400280_3/component/file_400279/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "67dbf65fcc9e179496532b457a04f703",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 55332628,
+    "metadata" : {
+      "title" : "siona_wheeler1970_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 55332628
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

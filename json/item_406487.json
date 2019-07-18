@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_406487",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T20:29:17.566+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FC3-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:29:17.566+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-90EA-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:39:06.085+0000",
+  "latestRelease" : {
+    "objectId" : "item_406487",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:29:17.566+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FC3-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406487",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:29:17.566+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FC3-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of So - a Mon-Khmer language of Northeast Thailand",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Migliazza, Brian",
+        "givenName" : "Brian",
+        "familyName" : "Migliazza",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1998",
+    "datePublishedInPrint" : "1998",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37169",
+      "type" : "OTHER"
+    }, {
+      "id" : "so_migliazza_1998_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Bangkok",
+      "publisher" : " Mahidol Univ."
+    },
+    "freeKeywords" : "LoC Class: PL4151, LoC Subject Headings: So language -- Grammar, LoC Subject Headings: So -- Sakon Nakhon, LoC Subject Headings: Thailand --Languages",
+    "subjects" : [ {
+      "value" : "sss - Sô",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 210 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406485",
+    "name" : "http://archives.sealang.net/mahidol",
+    "creationDate" : "2010-04-01T13:39:05.137+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://archives.sealang.net/mahidol",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "86fa3379c3cfd9ea6e00bb37274e97b0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://archives.sealang.net/mahidol",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406486",
+    "name" : "so_migliazza_1998_o.pdf",
+    "creationDate" : "2010-04-01T13:39:05.396+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-90E9-6",
+    "content" : "/rest/items/item_406487_3/component/file_406486/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "85fbaa7e3630209d18696250c9483cdf",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6319747,
+    "metadata" : {
+      "title" : "so_migliazza_1998_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6319747
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

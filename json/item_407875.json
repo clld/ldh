@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_407875",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T22:11:43.070+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-708E-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T22:11:43.070+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9893-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:23:34.920+0000",
+  "latestRelease" : {
+    "objectId" : "item_407875",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T22:11:43.070+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-708E-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407875",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T22:11:43.070+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-708E-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Seri de Sonora",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Moser, Mary Beck",
+        "givenName" : "Mary Beck",
+        "familyName" : "Moser",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "41882",
+      "type" : "OTHER"
+    }, {
+      "id" : "seri_beckmoser1995_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1st",
+      "place" : "México",
+      "publisher" : "El Colegio de México"
+    },
+    "sources" : [ {
+      "title" : "Archivo de lenguas indígenas de México",
+      "volume" : "19",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4251, LoC Subject Headings: Seri language, LoC Subject Headings: Mexico--Languages",
+    "subjects" : [ {
+      "value" : "sei - Seri",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "202 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407873",
+    "name" : "http://www.colmex.mx/alim/coleccion.html",
+    "creationDate" : "2010-04-01T14:23:33.999+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9891-4",
+    "content" : "http://www.colmex.mx/alim/coleccion.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.colmex.mx/alim/coleccion.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407874",
+    "name" : "seri_beckmoser1995_o.pdf",
+    "creationDate" : "2010-04-01T14:23:34.492+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9892-2",
+    "content" : "/rest/items/item_407875_3/component/file_407874/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ead908b4f8b5b996f899018eb4c052b7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3872913,
+    "metadata" : {
+      "title" : "seri_beckmoser1995_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3872913
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

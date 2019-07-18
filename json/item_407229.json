@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_407229",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:38:48.159+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9512-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:38:48.159+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9512-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:02:11.625+0000",
+  "latestRelease" : {
+    "objectId" : "item_407229",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:38:48.159+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9512-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407229",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:38:48.159+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9512-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Kangri in context : an areal perspective",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Eaton, Robert D.",
+        "givenName" : "Robert D.",
+        "familyName" : "Eaton",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2008",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37832",
+      "type" : "OTHER"
+    }, {
+      "id" : "kangri_eaton2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PK2649.K44,\nLoC Subject Headings: Kangri dialect",
+    "subjects" : [ {
+      "value" : "xnr - Kangri",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxvii, 252 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407227",
+    "name" : "http://proquest.umi.com/pqdweb?did=1525097601&sid=3&Fmt=2&clientId=56146&RQT=309&VName=PQD",
+    "creationDate" : "2010-04-01T14:02:09.529+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9510-F",
+    "content" : "http://proquest.umi.com/pqdweb?did=1525097601&sid=3&Fmt=2&clientId=56146&RQT=309&VName=PQD",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ae9b9b796707add50d9582b4c0c13b88",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://proquest.umi.com/pqdweb?did=1525097601&sid=3&Fmt=2&clientId=56146&RQT=309&VName=PQD",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407228",
+    "name" : "kangri_eaton2008_s.pdf",
+    "creationDate" : "2010-04-01T14:02:11.253+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9511-D",
+    "content" : "/rest/items/item_407229_2/component/file_407228/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "706aa52d11a936ba467662151abfaa7e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3000457,
+    "metadata" : {
+      "title" : "kangri_eaton2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3000457
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

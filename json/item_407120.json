@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_407120",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-12-22T08:38:27.765+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-5ED9-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-22T08:38:27.765+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9475-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:55:01.444+0000",
+  "latestRelease" : {
+    "objectId" : "item_407120",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-22T08:38:27.765+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5ED9-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407120",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-22T08:38:27.765+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5ED9-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammar of the Bornu or Kanuri language : with dialogues, translations, and vocabulary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Sigismund Wilhelm",
+        "familyName" : "Koelle",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1854",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37734",
+      "type" : "OTHER"
+    }, {
+      "id" : "kanuri_koelle1854_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "London",
+      "publisher" : "Church Missionary House"
+    },
+    "freeKeywords" : "LoC Class: PL8361,\nLoC Subject Headings: Kanuri language\n",
+    "subjects" : [ {
+      "value" : "knc - Kanuri, Central",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xix, 326 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8361,\nLoC Subject Headings: Kanuri language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407118",
+    "name" : "http://www.archive.org/details/grammarofbrnuo00koelrich",
+    "creationDate" : "2010-04-01T13:54:58.538+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.archive.org/details/grammarofbrnuo00koelrich",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "579a016e447eb0ba57ed38fe057f880b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/grammarofbrnuo00koelrich",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, view online & pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407119",
+    "name" : "kanuri_koelle1854_o.pdf",
+    "creationDate" : "2010-04-01T13:54:59.671+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9474-8",
+    "content" : "/rest/items/item_407120_3/component/file_407119/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b666bc2b19daf55d2709c5bda80a501d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 18665942,
+    "metadata" : {
+      "title" : "kanuri_koelle1854_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 18665942,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

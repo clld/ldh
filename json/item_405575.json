@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_405575",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-18T08:20:26.752+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-79E3-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter angepasst",
+  "lastModificationDate" : "2015-03-18T08:20:26.752+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8BE2-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:15:42.069+0000",
+  "latestRelease" : {
+    "objectId" : "item_405575",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T08:20:26.752+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-79E3-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405575",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T08:20:26.752+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-79E3-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A beginner's course in Tunisian Arabic",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Taoufik Ben",
+        "familyName" : "Amor",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1990",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "35055",
+      "type" : "OTHER"
+    }, {
+      "id" : "tunisian_amor1990_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "ara", "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Tunis",
+      "publisher" : "Peace Corps (Tunisia)"
+    },
+    "freeKeywords" : "LoC Class: PJ6770.T8, LoC Subject Headings: Arabic language",
+    "subjects" : [ {
+      "value" : "aeb - Tunisian Arabic",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VI, 244 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PJ6770.T8,\nLoC Subject Headings: Arabic language--Dialects--Tunisia"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405574",
+    "name" : "tunisian_amor1990_o.pdf",
+    "creationDate" : "2010-04-01T13:15:41.537+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8BE1-A",
+    "content" : "/rest/items/item_405575_3/component/file_405574/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "10e19a146f5f1761018abe49278ac0bc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5071277,
+    "metadata" : {
+      "title" : "tunisian_amor1990_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5071277
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116674",
+    "name" : "http://eric.ed.gov/?id=ED402739",
+    "creationDate" : "2015-03-18T08:19:57.559+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://eric.ed.gov/?id=ED402739",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c18805f3a58500413eb502ef5469f03a",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eric.ed.gov/?id=ED402739",
+      "contentCategory" : "publisher-version",
+      "description" : "Education Resources Information Center (ERIC), pdf download",
+      "size" : 0
+    }
+  } ]
+}

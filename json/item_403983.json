@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_403983",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:56:39.763+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-82EC-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:56:39.763+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-82EC-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:32:19.478+0000",
+  "latestRelease" : {
+    "objectId" : "item_403983",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:56:39.763+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-82EC-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403983",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:56:39.763+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-82EC-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulario Taushiro",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Ortiz, Neftalí Alicea",
+        "givenName" : "Neftalí Alicea",
+        "familyName" : "Ortiz",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1975",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "32107",
+      "type" : "OTHER"
+    }, {
+      "id" : "taushiro_ortiz1975b_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Lima",
+      "publisher" : "Ministerio de Educacion"
+    },
+    "sources" : [ {
+      "title" : "Datos etno-lingüísticos",
+      "volume" : "22",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM7341,\nLoC Subject Headings: Zaparo language -- Dialects -- Peru",
+    "subjects" : [ {
+      "value" : "trr - Taushiro",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "151 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403981",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work_sp.asp?id=3412",
+    "creationDate" : "2010-04-01T12:32:18.801+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-82EA-4",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work_sp.asp?id=3412",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2039c0bf9454513a8d8770367d737477",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work_sp.asp?id=3412",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403982",
+    "name" : "taushiro_ortiz1975b_o.pdf",
+    "creationDate" : "2010-04-01T12:32:19.001+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-82EB-2",
+    "content" : "/rest/items/item_403983_2/component/file_403982/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "89e1b2d6eaa8eaa73b1f3ce040702126",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4443351,
+    "metadata" : {
+      "title" : "taushiro_ortiz1975b_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4443351
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

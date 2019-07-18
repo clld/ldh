@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_406363",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-28T10:22:36.489+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0027-76AD-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-28T10:22:36.489+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-903C-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:36:12.851+0000",
+  "latestRelease" : {
+    "objectId" : "item_406363",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-28T10:22:36.489+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0027-76AD-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406363",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-28T10:22:36.489+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0027-76AD-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "O parágrafo na fala dos Kaiwá-guarani",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Loraine Irene",
+        "familyName" : "Bridgeman",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2007",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "36759",
+      "type" : "OTHER"
+    }, {
+      "id" : "kaiwa_bridgeman2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "Ed. Online",
+      "place" : "Cuiabá",
+      "publisher" : "Assoc. Internac. de Lingüística - SIL Brasil"
+    },
+    "freeKeywords" : "LoC Class: PM5678, LoC Subject Headings: Caingua language",
+    "subjects" : [ {
+      "value" : "kgk - Kaiwá",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "110 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406362",
+    "name" : "kaiwa_bridgeman2007_s.pdf",
+    "creationDate" : "2010-04-01T13:36:12.388+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-903B-E",
+    "content" : "/rest/items/item_406363_4/component/file_406362/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5383c2383664183313e8164262c88f02",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 959642,
+    "metadata" : {
+      "title" : "kaiwa_bridgeman2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 959642
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2157138",
+    "name" : "http://www-01.sil.org/americas/brasil/SILapub.html",
+    "creationDate" : "2015-05-28T10:21:58.033+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www-01.sil.org/americas/brasil/SILapub.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2df39b665443cb7b98ca9d5defe61097",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www-01.sil.org/americas/brasil/SILapub.html",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Brasil, Publications, Language Name, CAIUÁ, pdf download",
+      "size" : 0
+    }
+  } ]
+}

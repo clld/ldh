@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_401536",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-12T18:38:18.199+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6EE8-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T18:38:18.199+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-73DA-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:14:01.052+0000",
+  "latestRelease" : {
+    "objectId" : "item_401536",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T18:38:18.199+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EE8-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401536",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T18:38:18.199+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EE8-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dicionário parintintín-português,português-parintintín",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Betts, LaVera",
+        "givenName" : "LaVera",
+        "familyName" : "Betts",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1981",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "27059",
+      "type" : "OTHER"
+    }, {
+      "id" : "parintintin_betts1981_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "place" : "Brasília, DF",
+      "publisher" : "SIL Brasil"
+    },
+    "freeKeywords" : "LoC Class: PM6818.Z5, LoC Subject Headings: Parintintin dialect--Dictionaries--Portuguese, LoC Subject Headings: Portuguese language--Dictionaries--Parintintin",
+    "subjects" : [ {
+      "value" : "pah - Tenharim",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "por - Portuguese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "326 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401535",
+    "name" : "parintintin_betts1981_s.pdf",
+    "creationDate" : "2010-04-01T11:14:00.902+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-73D9-0",
+    "content" : "/rest/items/item_401536_5/component/file_401535/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "503067f13be87f0268290dab9f2e3ab5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 946798,
+    "metadata" : {
+      "title" : "parintintin_betts1981_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 946798
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_513113",
+    "name" : "http://www.sil.org/americas/brasil/engltcpb.htm",
+    "creationDate" : "2010-08-25T09:13:25.837+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/brasil/engltcpb.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9530a75a4c45ff6625118b724949a812",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/brasil/engltcpb.htm",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Brazil: Technical Publications and Recent Papers",
+      "size" : 0
+    }
+  } ]
+}

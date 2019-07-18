@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_405635",
+  "versionNumber" : 6,
+  "modificationDate" : "2014-07-08T12:40:39.218+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-DE1C-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "LoC Class korrigiert",
+  "lastModificationDate" : "2014-07-08T12:40:39.218+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8C36-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:16:54.345+0000",
+  "latestRelease" : {
+    "objectId" : "item_405635",
+    "versionNumber" : 6,
+    "modificationDate" : "2014-07-08T12:40:39.218+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DE1C-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405635",
+    "versionNumber" : 6,
+    "modificationDate" : "2014-07-08T12:40:39.218+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DE1C-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Stability and change along a dialect boundary: the low vowels of Southeastern New England",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Daniel Ezra",
+        "familyName" : "Johnson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35138",
+      "type" : "OTHER"
+    }, {
+      "id" : "vowels_johnson2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Philadelphia]",
+      "publisher" : "Univ. of Pennsylvania"
+    },
+    "freeKeywords" : "LoC Class: PE2903,\nLoC Subject Headings: English language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XXIV, 489 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PE2903, Loc Subject Headings: English language--Dialects--New England, English language--Dialects--Massachusetts, English language--Dialects--Connecticut, English language--Dialects--Rhode Island, English language--Vowels"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405634",
+    "name" : "vowels_johnson2007_s.pdf",
+    "creationDate" : "2010-04-01T13:16:52.008+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C35-8",
+    "content" : "/rest/items/item_405635_6/component/file_405634/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a1c36a2565a1e00432f69ff31ed91960",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 24948418,
+    "metadata" : {
+      "title" : "vowels_johnson2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 24948418
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2039560",
+    "name" : "http://www.danielezrajohnson.com/johnson_2010.pdf",
+    "creationDate" : "2014-07-08T12:29:10.133+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-DE1A-C",
+    "content" : "http://www.danielezrajohnson.com/johnson_2010.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5d93e1de9fef3f7f49f7a6bfd7468a2d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.danielezrajohnson.com/johnson_2010.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "Daniel Ezra Johnson's website, Revised version of the author's thesis (Ph.D.) at the University of Pennsylvania, 2007: Publication of the American Dialect Society\nNo. 95 (2010), xii, 229 p.\n",
+      "size" : 0
+    }
+  } ]
+}

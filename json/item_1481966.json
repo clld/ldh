@@ -1,0 +1,117 @@
+{
+  "objectId" : "item_1481966",
+  "versionNumber" : 1,
+  "modificationDate" : "2012-07-06T10:57:50.316+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-000F-A9F8-3",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "lastModificationDate" : "2012-07-06T10:57:50.316+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-000F-A9F7-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2012-07-06T10:57:31.320+0000",
+  "latestRelease" : {
+    "objectId" : "item_1481966",
+    "versionNumber" : 1,
+    "modificationDate" : "2012-07-06T10:57:50.316+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-000F-A9F8-3",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_1481966",
+    "versionNumber" : 1,
+    "modificationDate" : "2012-07-06T10:57:50.316+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-000F-A9F8-3",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "" ],
+  "metadata" : {
+    "title" : "La flessione possessiva dell'ayoreo",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Luca",
+        "familyName" : "Ciucci",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2010",
+    "dateSubmitted" : "2012-07-06",
+    "genre" : "ARTICLE",
+    "languages" : [ "ita" ],
+    "sources" : [ {
+      "title" : "Quaderni del Laboratorio di Linguistica",
+      "volume" : "9",
+      "issue" : "2",
+      "publishingInfo" : {
+        "place" : "Pisa",
+        "publisher" : "Scuola Normale Superiore di Pisa"
+      },
+      "identifiers" : [ {
+        "id" : "1251852-9",
+        "type" : "ZDB"
+      } ],
+      "genre" : "JOURNAL"
+    } ],
+    "freeKeywords" : "LoC Class: PM6556,\nLoC Subject Headings: Moro language (South America)",
+    "subjects" : [ {
+      "value" : "ayo - Ayoreo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "29"
+  },
+  "files" : [ {
+    "objectId" : "file_1481965",
+    "name" : "Ciucci_Ayoreo_possessive_inflection.pdf",
+    "creationDate" : "2012-07-06T10:57:31.216+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-000F-A9F6-7",
+    "content" : "/rest/items/item_1481966_1/component/file_1481965/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0c60918f47dda3e288e8605cf620f6ef",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 264460,
+    "metadata" : {
+      "title" : "Ciucci_Ayoreo_possessive_inflection.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 264460,
+      "copyrightDate" : "2010",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/"
+    }
+  } ]
+}

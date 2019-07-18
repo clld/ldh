@@ -1,0 +1,129 @@
+{
+  "objectId" : "item_877632",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-03T08:20:50.827+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-01D1-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2015-03-03T08:20:50.827+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0011-552C-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2011-04-28T09:49:58.566+0000",
+  "latestRelease" : {
+    "objectId" : "item_877632",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T08:20:50.827+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-01D1-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_877632",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T08:20:50.827+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-01D1-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Aspectos da gramática Ikpeng (Karíb)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Frantomé Bezerra",
+        "familyName" : "Pacheco",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1997",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "45727",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "freeKeywords" : "LoC Class: PM6203,\nLoC Subject Headings: Txicaos Indians--Language",
+    "subjects" : [ {
+      "value" : "txi - Ikpeng",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "145",
+    "abstracts" : [ {
+      "value" : "This dissertation aims to present a preliminary description of some aspects of Ikpeng's grammar. The language is spoken in the central area of the Xingu Reservation (Parque Indígena do Xingu) by a community of two hundred fifteen members. The work presents the parts of speech found in Ikpeng, the organization of independent and causative clauses, as well as some strategies for relativization and marking of the noun head inside the relative clause "
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_877630",
+    "name" : "ikpeng _pacheco1997_o.pdf",
+    "creationDate" : "2011-04-28T09:49:57.235+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0011-552A-6",
+    "content" : "/rest/items/item_877632_3/component/file_877630/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c61d72623003740b7f05ea38113b436f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3090643,
+    "metadata" : {
+      "title" : "ikpeng _pacheco1997_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3090643
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_877631",
+    "name" : "http://cutter.unicamp.br/document/?code=vtls000114109",
+    "creationDate" : "2011-04-28T09:49:57.347+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://cutter.unicamp.br/document/?code=vtls000114109",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "719b157c651fbe2f25ae73b8bff1d981",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://cutter.unicamp.br/document/?code=vtls000114109",
+      "contentCategory" : "publisher-version",
+      "description" : "Biblioteca Digital da UNICAMP",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_406602",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T20:01:37.277+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F85-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:01:37.277+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9189-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:44:10.966+0000",
+  "latestRelease" : {
+    "objectId" : "item_406602",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:01:37.277+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F85-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406602",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:01:37.277+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F85-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A expressão da futuridade no português falado",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Silva, Ademar da",
+        "givenName" : "Ademar da",
+        "familyName" : "Silva",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1997",
+    "datePublishedInPrint" : "1997",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37333",
+      "type" : "OTHER"
+    }, {
+      "id" : "falada_dasilva1997_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : " Univ. Estadual de Campinas"
+    },
+    "sources" : [ {
+      "title" : "Coleção letras",
+      "volume" : "4",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PC5240, LoC Subject Headings: Portuguese language -- Spoken Portuguese, LoC Subject Headings: Portuguese language -- Spoken Portuguese -- Brazil, LoC Subject Headings: Portuguese language -- Temporal constructions, LoC Subject Headings: Portuguese language -- Tense",
+    "totalNumberOfPages" : "275 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406600",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000115674",
+    "creationDate" : "2010-04-01T13:44:09.019+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000115674",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9185e3806c000d9ca832a998b3bf7d83",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000115674",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406601",
+    "name" : "falada_dasilva1997_o.pdf",
+    "creationDate" : "2010-04-01T13:44:09.956+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9188-5",
+    "content" : "/rest/items/item_406602_3/component/file_406601/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "764cfbf200a6d04f7b658d205d97f4af",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10050391,
+    "metadata" : {
+      "title" : "falada_dasilva1997_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10050391
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

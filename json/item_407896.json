@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_407896",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-09-25T12:18:07.771+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-56D7-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain",
+  "lastModificationDate" : "2013-09-25T12:18:07.771+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-98AC-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:24:13.712+0000",
+  "latestRelease" : {
+    "objectId" : "item_407896",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-09-25T12:18:07.771+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-56D7-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407896",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-09-25T12:18:07.771+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-56D7-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammatik der mongolischen Sprache",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Isaac Jacob",
+        "familyName" : "Schmidt",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "organization" : {
+        "identifier" : "ou_persistent22",
+        "name" : "Imperatorskaja Akademija Nauk              <Sankt-Peterburg>",
+        "identifierPath" : [ "ou_persistent22" ]
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "1831",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "41892",
+      "type" : "OTHER"
+    }, {
+      "id" : "mongolischen_schmidt1831_o.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "St.-Petersburg",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Subject Headings: Mongolian language",
+    "subjects" : [ {
+      "value" : "khk - Mongolian, Halh",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XII, 179 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL403.S48,\nLoC Subject Headings: Mongolian language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407894",
+    "name" : "http://books.google.de/books?id=2s4GAAAAQAAJ&dq",
+    "creationDate" : "2010-04-01T14:24:11.943+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-56D8-5",
+    "content" : "http://tinyurl.com/6pzg9h",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b8f35290cb012a814b82d4bd1a530d6d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://books.google.de/books?id=2s4GAAAAQAAJ&dq",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407895",
+    "name" : "mongolischen_schmidt1831_o.pdf",
+    "creationDate" : "2010-04-01T14:24:12.779+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-98AB-C",
+    "content" : "/rest/items/item_407896_3/component/file_407895/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4ef0f07bf5a486762063e1366ed8e7b3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9498798,
+    "metadata" : {
+      "title" : "mongolischen_schmidt1831_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9498798
+    }
+  } ]
+}

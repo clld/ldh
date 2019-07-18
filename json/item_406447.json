@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_406447",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-07-24T08:41:42.208+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-00D6-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "LoC Class korrigiert",
+  "lastModificationDate" : "2014-07-24T08:41:42.208+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-90AF-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:38:10.459+0000",
+  "latestRelease" : {
+    "objectId" : "item_406447",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-24T08:41:42.208+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-00D6-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406447",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-24T08:41:42.208+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-00D6-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of Mian : a Papuan language of New Guinea",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Olcher Sebastian",
+        "familyName" : "Fedden",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36944",
+      "type" : "OTHER"
+    }, {
+      "id" : "mian_fedden2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "place" : "Melbourne",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL6621.M53,\nLoC Subject Headings: Mian language",
+    "subjects" : [ {
+      "value" : "mpt - Mian",
+      "type" : "ISO639_3"
+    } ],
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6621.M53,\nLoC Subject Headings: Mian language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406445",
+    "name" : "http://repository.unimelb.edu.au/10187/2044",
+    "creationDate" : "2010-04-01T13:38:06.643+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-00D8-4",
+    "content" : "http://repository.unimelb.edu.au/10187/2044",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f3f7ae792c5d3330edadd38dc4429f1e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://repository.unimelb.edu.au/10187/2044",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Melbourne, Institutional Repository Minerva, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406446",
+    "name" : "mian_fedden2007_s.pdf",
+    "creationDate" : "2010-04-01T13:38:10.088+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-90AE-A",
+    "content" : "/rest/items/item_406447_4/component/file_406446/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5cfdf8ecbd1c74b0a14374742e147c51",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2999540,
+    "metadata" : {
+      "title" : "mian_fedden2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2999540
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

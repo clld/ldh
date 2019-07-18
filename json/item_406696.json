@@ -1,0 +1,150 @@
+{
+  "objectId" : "item_406696",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T20:18:25.079+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FA7-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:18:25.079+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-920E-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:46:05.041+0000",
+  "latestRelease" : {
+    "objectId" : "item_406696",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:18:25.079+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FA7-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406696",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:18:25.079+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FA7-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Guía de lenguaje quechua para personal de salud : pequeño vocabulario de frases y palabras utiles ; Quechua del huallaga y de panao",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Janet",
+        "familyName" : "Hammer-Huarac",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Próspero",
+        "familyName" : "Colonia M."
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Jovita",
+        "familyName" : "Villanueva P."
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1997",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37390",
+      "type" : "OTHER"
+    }, {
+      "id" : "quechua_hammer1997_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1. Aufl.",
+      "place" : "Peru",
+      "publisher" : "Dirección Sub-Regional de Salud, Huanuco con\n              la colaboración del Instituto Lingüístico de\n              Verano"
+    },
+    "freeKeywords" : "LoC Class: PM6303, LoC Subject Headings: Quechua language --Grammar, LoC Subject Headings: Quechua language --Dialects --Peru --HuaŽnuco (Dept.)",
+    "subjects" : [ {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "qub - Huallaga Huánuco Quechua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "120 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406694",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=1328",
+    "creationDate" : "2010-04-01T13:46:03.507+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=1328",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "671d3207c15da59a876cfc426780b6b7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=1328",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406695",
+    "name" : "quechua_hammer1997_o.pdf",
+    "creationDate" : "2010-04-01T13:46:04.732+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-920D-F",
+    "content" : "/rest/items/item_406696_3/component/file_406695/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ecfb77031b321679a26f25aade5238b0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2585318,
+    "metadata" : {
+      "title" : "quechua_hammer1997_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2585318
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

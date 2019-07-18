@@ -1,0 +1,158 @@
+{
+  "objectId" : "item_407663",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-13T02:22:31.950+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-726D-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:22:31.950+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9767-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:18:22.285+0000",
+  "latestRelease" : {
+    "objectId" : "item_407663",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:22:31.950+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-726D-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407663",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:22:31.950+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-726D-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Complex predicates",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Alex",
+        "familyName" : "Alsina",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Joan",
+        "familyName" : "Bresnan",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Peter",
+        "familyName" : "Sells",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1997",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "41716",
+      "type" : "OTHER"
+    }, {
+      "id" : "predicates_alsina1997_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Stanford, Calif.",
+      "publisher" : "CSLI"
+    },
+    "sources" : [ {
+      "title" : "CSLI Lecture Notes",
+      "volume" : "64",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P281, LoC Subject Headings: Grammar/Comparative and general--Verb phrase, LoC Subject Headings: Grammar/Comparative and general--Syntax",
+    "totalNumberOfPages" : "VI, 514 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407661",
+    "name" : "http://sul-derivatives.stanford.edu/derivative?CSNID=00000074&mediaType=application/pdf",
+    "creationDate" : "2010-04-01T14:17:43.504+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://sul-derivatives.stanford.edu/derivative?CSNID=00000074&mediaType=application/pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5e6ad3073b686f3bb8c41ce46638ef39",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://sul-derivatives.stanford.edu/derivative?CSNID=00000074&mediaType=application/pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407662",
+    "name" : "predicates_alsina1997_s.pdf",
+    "creationDate" : "2010-04-01T14:18:20.025+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9766-E",
+    "content" : "/rest/items/item_407663_4/component/file_407662/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "905d22fb6892a14d486fb4ead2b1fc02",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 24104908,
+    "metadata" : {
+      "title" : "predicates_alsina1997_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 24104908
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

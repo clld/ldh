@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_406690",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T12:00:58.590+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9206-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T12:00:58.590+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9206-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:46:00.072+0000",
+  "latestRelease" : {
+    "objectId" : "item_406690",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T12:00:58.590+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9206-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406690",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T12:00:58.590+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9206-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Quechua hablado : unidades I-VIII ; correspondientes a QE 100-[200]",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Burns, Donald H.",
+        "givenName" : "Donald H.",
+        "familyName" : "Burns",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Pablo",
+        "familyName" : "Alcócer H."
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1964",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37385",
+      "type" : "OTHER"
+    }, {
+      "id" : "quechua_burns1964_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ayacucho",
+      "publisher" : "Univ. Nacional de San Cristóbal de Huamanga"
+    },
+    "freeKeywords" : "LoC Class:  PM6303,\nLoC Subject Headings: Quechua language",
+    "subjects" : [ {
+      "value" : "quz - Cusco Quechua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "111 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406688",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3388",
+    "creationDate" : "2010-04-01T13:45:58.656+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9204-1",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3388",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d2df780c22aeffadbba4ee73ca661922",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3388",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406689",
+    "name" : "quechua_burns1964_o.pdf",
+    "creationDate" : "2010-04-01T13:45:59.504+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9205-0",
+    "content" : "/rest/items/item_406690_2/component/file_406689/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "dd64cf9ac48409553bdee4401dcf387c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5098714,
+    "metadata" : {
+      "title" : "quechua_burns1964_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5098714
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_406473",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-08-25T09:15:41.156+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-C370-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Stichtwörter korrigiert",
+  "lastModificationDate" : "2014-08-25T09:15:41.156+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-90D3-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:38:57.389+0000",
+  "latestRelease" : {
+    "objectId" : "item_406473",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-25T09:15:41.156+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C370-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406473",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-25T09:15:41.156+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C370-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Contribuição da fonologia ao processo de educação indígena Apinayé",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Francisco Edviges",
+        "familyName" : "Albuquerque",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37155",
+      "type" : "OTHER"
+    }, {
+      "id" : "apinaye_albuquerque2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "place" : "Niterói",
+      "publisher" : "Univ. Federal Fluminense"
+    },
+    "freeKeywords" : "LoC Class: PM5433,\nLoC Subject Headings: Apinagé language",
+    "subjects" : [ {
+      "value" : "apn - Apinayé",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "255 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5433,\nLoC Subject Headings: Apinagé language--Phonology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406472",
+    "name" : "apinaye_albuquerque2007_s.pdf",
+    "creationDate" : "2010-04-01T13:38:57.022+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-90D2-7",
+    "content" : "/rest/items/item_406473_4/component/file_406472/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "34340979b2351c1fbdcc37f56110d4f8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3394390,
+    "metadata" : {
+      "title" : "apinaye_albuquerque2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3394390
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2052550",
+    "name" : "http://www.livrosgratis.com.br/arquivos_livros/cp099165.pdf",
+    "creationDate" : "2014-08-25T09:12:45.083+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.livrosgratis.com.br/arquivos_livros/cp099165.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4b51c42fe4d860a7a62a35cd5aeda9d2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.livrosgratis.com.br/arquivos_livros/cp099165.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_406961",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-12T09:11:10.985+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CC3A-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-05-12T09:11:10.985+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-939B-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:51:11.621+0000",
+  "latestRelease" : {
+    "objectId" : "item_406961",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-12T09:11:10.985+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CC3A-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406961",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-12T09:11:10.985+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CC3A-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Lecciones para el aprendizaje del idioma Yaminahua",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lucille",
+        "familyName" : "Eakin",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1991",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37538",
+      "type" : "OTHER"
+    }, {
+      "id" : "yaminahua_eakin1991_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Lima",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Documento de trabajo",
+      "volume" : "22",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6773.A61, LoC Subject Headings: Jaminaua language\n",
+    "subjects" : [ {
+      "value" : "yaa - Yaminahua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "193 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406960",
+    "name" : "yaminahua_eakin1991_o.pdf",
+    "creationDate" : "2010-04-01T13:51:11.151+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-939A-B",
+    "content" : "/rest/items/item_406961_4/component/file_406960/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "48998617c6f85ebd11220e2f40da4106",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4227351,
+    "metadata" : {
+      "title" : "yaminahua_eakin1991_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4227351
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2152242",
+    "name" : "http://www.sil.org/resources/archives/29910",
+    "creationDate" : "2015-05-12T09:10:46.517+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/29910",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0ee7468acb9bfb3d21a4aa7820a0767f",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/29910",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Language & Culture Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

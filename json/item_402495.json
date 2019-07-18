@@ -1,0 +1,161 @@
+{
+  "objectId" : "item_402495",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T10:28:52.370+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7974-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:28:52.370+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7974-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:32:32.613+0000",
+  "latestRelease" : {
+    "objectId" : "item_402495",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:28:52.370+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7974-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402495",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:28:52.370+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7974-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "An outline of the morphology and phonologyof Saanich, North Straits Salish",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Montler, Timothy",
+        "givenName" : "Timothy",
+        "familyName" : "Montler",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1986",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29971",
+      "type" : "OTHER"
+    }, {
+      "id" : "saanich_montler2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Missoula, Mont.",
+      "publisher" : "Dept. of Anthropology, Univ. of Montana"
+    },
+    "sources" : [ {
+      "title" : "University of Montana Occasional Papers in Linguistics",
+      "alternativeTitles" : [ {
+        "value" : "UM occasional papers in linguistics"
+      } ],
+      "creators" : [ {
+        "organization" : {
+          "identifier" : "ou_persistent22",
+          "name" : "University of Montana <Missoula, Mont.>",
+          "identifierPath" : [ "ou_persistent22" ]
+        },
+        "role" : "EDITOR",
+        "type" : "ORGANIZATION"
+      } ],
+      "volume" : "4",
+      "publishingInfo" : {
+        "place" : "Missoula, MT",
+        "publisher" : "Univ."
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Saanich dialect",
+    "subjects" : [ {
+      "value" : "str - Straits Salish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiv, 264 S.",
+    "abstracts" : [ {
+      "value" : "PM2235, ISO 639-3 : str, Saanich dialect--Morphology, Saanich dialect--Phonology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402493",
+    "name" : "http://www.cas.unt.edu/~montler/Saanich/Outline/index.htm",
+    "creationDate" : "2010-04-01T11:32:31.355+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7972-4",
+    "content" : "http://www.cas.unt.edu/~montler/Saanich/Outline/index.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d68535c319c8ff2147a81fd70f8ccffb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.cas.unt.edu/~montler/Saanich/Outline/index.htm",
+      "contentCategory" : "publisher-version",
+      "description" : "hypertext edition is identical to the original 1986 print edition\n\nUNT-College of Arts and Sciences, Univ. of North Texas, Montler",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402494",
+    "name" : "saanich_montler2005_s.pdf",
+    "creationDate" : "2010-04-01T11:32:32.275+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7973-2",
+    "content" : "/rest/items/item_402495_3/component/file_402494/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "03436f61300775ff6648456769c5c38e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1959489,
+    "metadata" : {
+      "title" : "saanich_montler2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1959489,
+      "copyrightDate" : "2010-06-02",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

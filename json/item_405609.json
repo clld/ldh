@@ -1,0 +1,126 @@
+{
+  "objectId" : "item_405609",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-10T09:57:43.929+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0AFF-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-10T09:57:43.929+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8C10-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:16:18.404+0000",
+  "latestRelease" : {
+    "objectId" : "item_405609",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-10T09:57:43.929+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0AFF-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405609",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-10T09:57:43.929+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0AFF-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Verb-object-negative order in Central Africa",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Matthew S.",
+        "familyName" : "Dryer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2009",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "35086",
+      "type" : "OTHER"
+    }, {
+      "id" : "verbobjectnegative_dryer2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "freeKeywords" : "LoC Class: PL8018, LoC Subject Headings: Africa/Central--Languages",
+    "totalNumberOfPages" : "88 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405607",
+    "name" : "http://linguistics.buffalo.edu/people/faculty/dryer/dryer/DryerVONeg.pdf",
+    "creationDate" : "2010-04-01T13:16:16.445+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C0E-2",
+    "content" : "http://linguistics.buffalo.edu/people/faculty/dryer/dryer/DryerVONeg.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c097fa9a05c8e1e440ee81f1d7c52287",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://linguistics.buffalo.edu/people/faculty/dryer/dryer/DryerVONeg.pdf",
+      "contentCategory" : "pre-print",
+      "description" : "Univ. at Buffalo, Dep. of Linguisitics, website of Matthew S. Dryer, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405608",
+    "name" : "verbobjectnegative_dryer2006_s.pdf",
+    "creationDate" : "2010-04-01T13:16:18.239+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C0F-F",
+    "content" : "/rest/items/item_405609_5/component/file_405608/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "906158b94cb4fd30a47ac5529643377a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 825502,
+    "metadata" : {
+      "title" : "verbobjectnegative_dryer2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 825502
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

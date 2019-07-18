@@ -1,0 +1,230 @@
+{
+  "objectId" : "item_402516",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-30T08:57:47.859+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C533-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-30T08:57:47.859+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7994-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:33:29.553+0000",
+  "latestRelease" : {
+    "objectId" : "item_402516",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-30T08:57:47.859+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C533-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402516",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-30T08:57:47.859+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C533-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Three studies in languages of eastern Papua",
+    "creators" : [ {
+      "organization" : {
+        "identifier" : "ou_persistent22",
+        "name" : "Summer Institute of Linguistics",
+        "identifierPath" : [ "ou_persistent22" ]
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    }, {
+      "person" : {
+        "givenName" : "Alan",
+        "familyName" : "Healey",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1974",
+    "genre" : "COLLECTED_EDITION",
+    "identifiers" : [ {
+      "id" : "29987",
+      "type" : "OTHER"
+    }, {
+      "id" : "easternpapua_healey1974_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "0726302201",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ukarumpa",
+      "publisher" : "Summer Inst. of Linguistics"
+    },
+    "sources" : [ {
+      "title" : "Workpapers in Papua New Guinea languages",
+      "volume" : "3",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6601, LoC Subject Headings: Papua New Guinea--Languages",
+    "subjects" : [ {
+      "value" : "kpr - Korafe",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "viv - Iduna",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "mpx - Misima-Paneati",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "nmw - Nimoa",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "swp - Suau",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "tbo - Tawala",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "tgo - Sudest",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "tte - Bwanabwana",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "yle - Yele",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "133 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402515",
+    "name" : "easternpapua_healey1974_o.pdf",
+    "creationDate" : "2010-04-01T11:33:29.117+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7993-7",
+    "content" : "/rest/items/item_402516_4/component/file_402515/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "123781c58d234e4210262e5a0bd9272e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4031169,
+    "metadata" : {
+      "title" : "easternpapua_healey1974_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4031169
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2149402",
+    "name" : "http://www.sil.org/resources/archives/23648",
+    "creationDate" : "2015-04-30T08:57:03.339+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/23648",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05484d4311f3e71a2d4a98149b202813",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/23648",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Language & Culture Archive, metadata",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2149403",
+    "name" : "http://www-01.sil.org/pacific/png/abstract.asp?id=11088",
+    "creationDate" : "2015-04-30T08:57:04.576+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www-01.sil.org/pacific/png/abstract.asp?id=11088",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6072bd156df9e5b931dde21108e8f5d4",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www-01.sil.org/pacific/png/abstract.asp?id=11088",
+      "contentCategory" : "publisher-version",
+      "description" : "'Languages of the Louisade Archipelago and environs' by HENDERSON, Anne & HENDERSON, James E., S. 39-61, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2149404",
+    "name" : "http://www-01.sil.org/pacific/png/abstract.asp?id=11168",
+    "creationDate" : "2015-04-30T08:57:05.150+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www-01.sil.org/pacific/png/abstract.asp?id=11168",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ebf0625187a837249ba4c9fe96775a82",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www-01.sil.org/pacific/png/abstract.asp?id=11168",
+      "contentCategory" : "publisher-version",
+      "description" : "'Notes on Iduna grammar' by HUCKETT, Joyce, S. 63-133, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2149405",
+    "name" : "http://www-01.sil.org/pacific/png/abstract.asp?id=10638",
+    "creationDate" : "2015-04-30T08:57:05.452+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www-01.sil.org/pacific/png/abstract.asp?id=10638",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "67b7932e55c468f3191b175eeb507234",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www-01.sil.org/pacific/png/abstract.asp?id=10638",
+      "contentCategory" : "publisher-version",
+      "description" : "'A preliminary Korafe phonology' by FARR, Cynthia J. & FARR, James B., S. 5-38, pdf download",
+      "size" : 0
+    }
+  } ]
+}

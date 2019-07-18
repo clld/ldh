@@ -1,0 +1,154 @@
+{
+  "objectId" : "item_403867",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-06-26T08:44:45.623+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-D18E-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-06-26T08:44:45.623+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8243-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:27:22.447+0000",
+  "latestRelease" : {
+    "objectId" : "item_403867",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-06-26T08:44:45.623+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D18E-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403867",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-06-26T08:44:45.623+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D18E-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A dictionary of the Jili (Migili) language of Central Nigeria",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Roger",
+        "familyName" : "Blench",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2006",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31894",
+      "type" : "OTHER"
+    }, {
+      "id" : "jili_blench2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "unpublished, draft circulated for comment",
+      "place" : "[Cambridge]",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL8515.M532,\nLoC Subject Headings: Migili language",
+    "subjects" : [ {
+      "value" : "mgi - Lijili",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "33 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403866",
+    "name" : "jili_blench2006_s.pdf",
+    "creationDate" : "2010-04-01T12:27:22.349+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8242-9",
+    "content" : "/rest/items/item_403867_4/component/file_403866/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "599f5f7797d0fb667cb1e317d32fa36a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 327394,
+    "metadata" : {
+      "title" : "jili_blench2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 327394
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2034929",
+    "name" : "http://www.rogerblench.info/Language/Niger-Congo/BC/Plateau/South/SouthOP.htm",
+    "creationDate" : "2014-06-26T08:41:36.450+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-D18F-C",
+    "content" : "http://www.rogerblench.info/Language/Niger-Congo/BC/Plateau/South/SouthOP.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a8e0fdfab44dbc04bfe8f1463b813d2c",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.rogerblench.info/Language/Niger-Congo/BC/Plateau/South/SouthOP.htm",
+      "contentCategory" : "any-fulltext",
+      "description" : "Roger Blench's website, South Plateau materials, Jili, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2034930",
+    "name" : "http://www.rogerblench.info/Language/Niger-Congo/BC/Plateau/South/Jili%20dictionary.pdf",
+    "creationDate" : "2014-06-26T08:41:36.589+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-D190-6",
+    "content" : "http://www.rogerblench.info/Language/Niger-Congo/BC/Plateau/South/Jili%20dictionary.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2b1c774f1ccf652616f498ca837c3fd0",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.rogerblench.info/Language/Niger-Congo/BC/Plateau/South/Jili%20dictionary.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

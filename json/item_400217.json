@@ -1,0 +1,146 @@
+{
+  "objectId" : "item_400217",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-10T11:10:53.438+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-AE04-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz entfernt",
+  "lastModificationDate" : "2015-04-10T11:10:53.438+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6C13-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:42:38.156+0000",
+  "latestRelease" : {
+    "objectId" : "item_400217",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T11:10:53.438+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-AE04-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400217",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T11:10:53.438+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-AE04-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Mazateco, Chiquihuitlán, Oaxaca",
+    "creators" : [ {
+      "organization" : {
+        "identifier" : "ou_persistent22",
+        "name" : "Centro de Investigación para la Integración              Social (Mexico City, Mexico)",
+        "identifierPath" : [ "ou_persistent22" ]
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    }, {
+      "person" : {
+        "givenName" : "Gloria",
+        "familyName" : "de Ruiz Bravo Ahuja",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1978",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "11820",
+      "type" : "OTHER"
+    }, {
+      "id" : "mazateco_archivo1978_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "México",
+      "publisher" : "El Colegio de México"
+    },
+    "sources" : [ {
+      "title" : "Archivo de lenguas indígenas de México",
+      "volume" : "05",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM3991, LoC Subject Headings: Chiquihuitlán (Oaxaca), LoC Subject Headings: Mazateco language",
+    "subjects" : [ {
+      "value" : "maq - Mazatec, Chiquihuitlán",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "151 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400216",
+    "name" : "mazateco_archivo1978_o.pdf",
+    "creationDate" : "2010-04-01T10:42:37.631+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6C12-3",
+    "content" : "/rest/items/item_400217_4/component/file_400216/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "efa9d3d0fb2fdf7f19630391127d53d2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4833120,
+    "metadata" : {
+      "title" : "mazateco_archivo1978_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4833120
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2134717",
+    "name" : "https://archive.org/details/ERIC_ED378791",
+    "creationDate" : "2015-04-10T11:10:00.815+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/ERIC_ED378791",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8f4afec0bcb35cbba7d1104f1a84de46",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/ERIC_ED378791",
+      "contentCategory" : "publisher-version",
+      "description" : "Archiv.org, Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

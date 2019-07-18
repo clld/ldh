@@ -1,0 +1,159 @@
+{
+  "objectId" : "item_406067",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-03-12T21:38:45.787+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7053-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:38:45.787+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8E9E-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:28:34.993+0000",
+  "latestRelease" : {
+    "objectId" : "item_406067",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-12T21:38:45.787+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7053-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406067",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-12T21:38:45.787+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7053-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The representation of vowel height in phonology",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Frederick Brooke",
+        "familyName" : "Parkinson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1996",
+    "datePublishedInPrint" : "1996",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35650",
+      "type" : "OTHER"
+    }, {
+      "id" : "phonology_parkinson1996_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Columbus]",
+      "publisher" : "Ohio State Univ."
+    },
+    "sources" : [ {
+      "title" : "OSDL Ohio State Dissertations in Linguistics",
+      "publishingInfo" : {
+        "place" : "Columbus",
+        "publisher" : "Ohio State Univ."
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P217.3, LoC Subject Headings: Grammar/Comparative and general--Phonology, LoC Subject Headings: Vowels",
+    "totalNumberOfPages" : "170 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406066",
+    "name" : "phonology_parkinson1996_o.pdf",
+    "creationDate" : "2010-04-01T13:28:34.439+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E9D-1",
+    "content" : "/rest/items/item_406067_6/component/file_406066/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0f9d98a181464798495cc166b70bbb04",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5293061,
+    "metadata" : {
+      "title" : "phonology_parkinson1996_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5293061
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2042663",
+    "name" : "https://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+    "creationDate" : "2014-07-17T06:50:44.436+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "cbca374817f4685be0573751d30ff6aa",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+      "contentCategory" : "any-fulltext",
+      "description" : "Ohio State Univ., Dep. of Linguistics, OSU Dissertations in Linguistics, 1990-1998, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2042664",
+    "name" : "https://linguistics.osu.edu/sites/linguistics.osu.edu/files/Parkinson_dissertation_1996.pdf",
+    "creationDate" : "2014-07-17T06:50:45.489+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://linguistics.osu.edu/sites/linguistics.osu.edu/files/Parkinson_dissertation_1996.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8caaeb78192e987d1cd1b915184092a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://linguistics.osu.edu/sites/linguistics.osu.edu/files/Parkinson_dissertation_1996.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

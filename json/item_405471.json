@@ -1,0 +1,128 @@
+{
+  "objectId" : "item_405471",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:04:41.321+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8B4F-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:04:41.321+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B4F-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:13:30.255+0000",
+  "latestRelease" : {
+    "objectId" : "item_405471",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:04:41.321+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B4F-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405471",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:04:41.321+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B4F-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Language manual II : Sesotho",
+    "creators" : [ {
+      "organization" : {
+        "name" : "USA / Peace Corps"
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34986",
+      "type" : "OTHER"
+    }, {
+      "id" : "sesotho_peacecorps1996_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N.A.",
+      "publisher" : "Peace Corps (Lesotho)"
+    },
+    "freeKeywords" : "LoC Class: PL8689,\nLoC Subject Headings: Sotho language",
+    "subjects" : [ {
+      "value" : "sot - Sotho, Southern",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "II, 119 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405469",
+    "name" : "http://tinyurl.com/58gl2b",
+    "creationDate" : "2010-04-01T13:13:28.855+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B4D-7",
+    "content" : "http://tinyurl.com/58gl2b",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f00131168e0b0c840260433c98afcadc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://tinyurl.com/58gl2b",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405470",
+    "name" : "sesotho_peacecorps1996_o.pdf",
+    "creationDate" : "2010-04-01T13:13:29.867+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B4E-5",
+    "content" : "/rest/items/item_405471_2/component/file_405470/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c8128dbbe977da30e236295695a9f6c7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3527299,
+    "metadata" : {
+      "title" : "sesotho_peacecorps1996_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3527299
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

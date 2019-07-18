@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_405213",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-11T11:44:40.007+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-68C4-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-03-11T11:44:40.007+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-89E2-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:04:07.068+0000",
+  "latestRelease" : {
+    "objectId" : "item_405213",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-11T11:44:40.007+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-68C4-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405213",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-11T11:44:40.007+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-68C4-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammaire de la langue Jagane",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lucien",
+        "familyName" : "Adam",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1885",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34399",
+      "type" : "OTHER"
+    }, {
+      "id" : "jagane_adam1885_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Paris",
+      "publisher" : "Maisonneuve"
+    },
+    "freeKeywords" : "LoC Class: PM7266.Z5, LoC Subject Headings: Yaghan language",
+    "subjects" : [ {
+      "value" : "yag - Yámana",
+      "type" : "ISO639_3"
+    } ],
+    "abstracts" : [ {
+      "value" : "LoC Class: PM7266.Z5,\nLoC Subject Headings: Yaghan language -- Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405212",
+    "name" : "jagane_adam1885_o.pdf",
+    "creationDate" : "2010-04-01T13:04:05.439+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-89E1-9",
+    "content" : "/rest/items/item_405213_4/component/file_405212/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "505c680bb287c278b9180c7d2db0f6fc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 16691785,
+    "metadata" : {
+      "title" : "jagane_adam1885_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 16691785,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2110939",
+    "name" : "https://archive.org/details/rosettaproject_yag_morsyn_1",
+    "creationDate" : "2015-03-11T11:42:25.501+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/rosettaproject_yag_morsyn_1",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "902861dbc9a028c1593d45e416175c20",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/rosettaproject_yag_morsyn_1",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

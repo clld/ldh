@@ -1,0 +1,154 @@
+{
+  "objectId" : "item_408110",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-06-06T07:51:35.702+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-99EC-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:51:35.702+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-99EC-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:29:57.378+0000",
+  "latestRelease" : {
+    "objectId" : "item_408110",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:51:35.702+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-99EC-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408110",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:51:35.702+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-99EC-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Pima bajo de Yepachi, Chihuahua",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Estrada Fernández, Zarina",
+        "givenName" : "Zarina",
+        "familyName" : "Estrada Fernández",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1998",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "42367",
+      "type" : "OTHER"
+    }, {
+      "id" : "pima_estrada1998_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1. ed.",
+      "place" : "México, D.F.",
+      "publisher" : "El Colegio de México"
+    },
+    "sources" : [ {
+      "title" : "Archivo de lenguas indígenas de México ",
+      "alternativeTitles" : [ { } ],
+      "volume" : "21",
+      "publishingInfo" : {
+        "place" : "México ",
+        "publisher" : "El Colegio de México"
+      },
+      "identifiers" : [ {
+        "id" : "2256449-4",
+        "type" : "ZDB"
+      } ],
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Pima Bajo language",
+    "subjects" : [ {
+      "value" : "pia - Pima Bajo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "147 S.",
+    "abstracts" : [ {
+      "value" : "PM4187, ISO 639-3 : pia, Idiom, Lexicology, Mexico, Phonology, Pima Bajo language, Pima Bajo language--Idiom, Pima Bajo language--Mexico--Yepachic--Lexicology, Pima Bajo language--Mexico--Yepachic--Phonology, Yepachic"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_408108",
+    "name" : "http://www.colmex.mx/alim/coleccion.html",
+    "creationDate" : "2010-04-01T14:29:56.587+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-99EA-7",
+    "content" : "http://www.colmex.mx/alim/coleccion.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.colmex.mx/alim/coleccion.html",
+      "contentCategory" : "publisher-version",
+      "description" : "Archivo de Lenguas Indígenas de México, El Colegio de México",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408109",
+    "name" : "pima_estrada1998_o.pdf",
+    "creationDate" : "2010-04-01T14:29:57.082+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-99EB-5",
+    "content" : "/rest/items/item_408110_3/component/file_408109/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e3ee94163f7bc245ce7b303fee959eb7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2500919,
+    "metadata" : {
+      "title" : "pima_estrada1998_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2500919,
+      "copyrightDate" : "2010-06-12",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

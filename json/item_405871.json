@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_405871",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T21:06:40.030+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7015-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:06:40.030+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8D88-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:22:18.064+0000",
+  "latestRelease" : {
+    "objectId" : "item_405871",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T21:06:40.030+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7015-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405871",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T21:06:40.030+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7015-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Working memory in sentence comprehension processing Hindi center embeddings",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Shravan",
+        "familyName" : "Vasishth",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35469",
+      "type" : "OTHER"
+    }, {
+      "id" : "hindi_vasishth2002_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Columbus]",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: PK1934, LoC Subject Headings: Hindi language, LoC Subject Headings: Reading/Psychology of",
+    "subjects" : [ {
+      "value" : "hin - Hindi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XXIII, 252 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PK1934,\nLoC Subject Headings: Hindi language--Sentences, Hindi language--Psychological aspects, Hindi language--Parsing, Reading/Psychology of"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405870",
+    "name" : "hindi_vasishth2002_o.pdf",
+    "creationDate" : "2010-04-01T13:22:17.437+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D87-A",
+    "content" : "/rest/items/item_405871_4/component/file_405870/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2349a83c6493c86c629e8333f266c1c9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5849433,
+    "metadata" : {
+      "title" : "hindi_vasishth2002_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5849433
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2039858",
+    "name" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1023402958",
+    "creationDate" : "2014-07-10T09:33:05.884+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1023402958",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "fabf8e29ae3822e7eec6dd3d1e3bc77b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1023402958",
+      "contentCategory" : "any-fulltext",
+      "description" : "OhioLINK, Electronic Theses & Dissertations Center, pdf",
+      "size" : 0
+    }
+  } ]
+}

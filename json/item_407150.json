@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_407150",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:48:45.759+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9499-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:48:45.759+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9499-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:56:16.321+0000",
+  "latestRelease" : {
+    "objectId" : "item_407150",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:48:45.759+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9499-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407150",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:48:45.759+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9499-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Une grammaire elementaire et un glossaire du Mandinka",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Jatta, Sidia",
+        "givenName" : "Sidia",
+        "familyName" : "Jatta",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1995",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37747",
+      "type" : "OTHER"
+    }, {
+      "id" : "mandinka_jatta1995_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Paris",
+      "publisher" : "UNESCO"
+    },
+    "freeKeywords" : "LoC Class: PL8491.1,\nLoC Subject Headings: Mandingo language --Grammar",
+    "subjects" : [ {
+      "value" : "mnk - Mandinka",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "162 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407148",
+    "name" : "http://unesdoc.unesco.org/ulis/cgi-bin/ulis.pl?catno=124740&gp=1&mode=e&lin=1",
+    "creationDate" : "2010-04-01T13:56:15.453+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9497-9",
+    "content" : "http://unesdoc.unesco.org/ulis/cgi-bin/ulis.pl?catno=124740&gp=1&mode=e&lin=1",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e5480c49cbc43480277722a87979c18a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://unesdoc.unesco.org/ulis/cgi-bin/ulis.pl?catno=124740&gp=1&mode=e&lin=1",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407149",
+    "name" : "mandinka_jatta1995_o.pdf",
+    "creationDate" : "2010-04-01T13:56:16.010+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9498-7",
+    "content" : "/rest/items/item_407150_2/component/file_407149/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "54db812a1c48bfbee190c5f9835ce6a3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2798590,
+    "metadata" : {
+      "title" : "mandinka_jatta1995_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2798590
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

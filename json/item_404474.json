@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_404474",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-12-19T10:25:59.921+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-5D92-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain\n",
+  "lastModificationDate" : "2014-12-19T10:25:59.921+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-85AF-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:42:14.357+0000",
+  "latestRelease" : {
+    "objectId" : "item_404474",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-12-19T10:25:59.921+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5D92-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404474",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-12-19T10:25:59.921+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5D92-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulary of the language spoken by the aborigines of the Southern and Eastern portions of the settled districts of South Australia : preceded by a grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Heinrich August Edward",
+        "familyName" : "Meyer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1843",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "33281",
+      "type" : "OTHER"
+    }, {
+      "id" : "aborigines_meyer1843_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Adelaide",
+      "publisher" : "Allen"
+    },
+    "freeKeywords" : "LoC Class: PL7091.S7,\nLoC Subject Headings: Australian languages",
+    "totalNumberOfPages" : "vii, 111 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404472",
+    "name" : "http://handle.slv.vic.gov.au/10381/187720 ",
+    "creationDate" : "2010-04-01T12:42:12.342+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://tinyurl.com/5nvgfy",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3e01b470f3fc8f9c20badba7ea0abff5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://handle.slv.vic.gov.au/10381/187720 ",
+      "contentCategory" : "publisher-version",
+      "description" : "State Library Victoria, digitised resources, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2079665",
+    "name" : "aborigines_meyer1843.pdf",
+    "creationDate" : "2014-12-19T10:25:29.818+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-5D93-0",
+    "content" : "/rest/items/item_404474_4/component/file_2079665/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3c2dac37b94ebf1345f3071b8f5097c7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 31915533,
+    "metadata" : {
+      "title" : "aborigines_meyer1843.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 31915533,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

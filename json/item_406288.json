@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_406288",
+  "versionNumber" : 4,
+  "modificationDate" : "2013-09-06T10:19:56.962+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-4D92-0",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "lastModificationDate" : "2013-09-06T10:19:56.962+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8FD3-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:34:33.011+0000",
+  "latestRelease" : {
+    "objectId" : "item_406288",
+    "versionNumber" : 4,
+    "modificationDate" : "2013-09-06T10:19:56.962+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-4D92-0",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406288",
+    "versionNumber" : 4,
+    "modificationDate" : "2013-09-06T10:19:56.962+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-4D92-0",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gwama, a little-known endangered language of Ethiopia : a sketch of its grammar and lexicon",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Zelealem",
+        "familyName" : "Leyew",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "36650",
+      "type" : "OTHER"
+    }, {
+      "id" : "gwama_leyew2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "freeKeywords" : "LoC Subject Headings: Ethiopia --Languages",
+    "subjects" : [ {
+      "value" : "kmq - Kwama",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "39 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.E8, ISO 639-3 : kmq, Ethiopia --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406286",
+    "name" : "http://www.uni-koeln.de/gbs/images/guama.pdf",
+    "creationDate" : "2010-04-01T13:34:32.457+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8FD1-0",
+    "content" : "http://www.uni-koeln.de/gbs/images/guama.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "fad9ca50741e49f846cb34654ddccdf0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.uni-koeln.de/gbs/images/guama.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "GBS Köln",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406287",
+    "name" : "gwama_leyew2005_s.pdf",
+    "creationDate" : "2010-04-01T13:34:32.883+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8FD2-E",
+    "content" : "/rest/items/item_406288_4/component/file_406287/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fad9ca50741e49f846cb34654ddccdf0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 715908,
+    "metadata" : {
+      "title" : "gwama_leyew2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 715908,
+      "copyrightDate" : "23.11.2010",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

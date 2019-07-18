@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_405276",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:34:17.506+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8A39-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:34:17.506+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8A39-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:05:38.849+0000",
+  "latestRelease" : {
+    "objectId" : "item_405276",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:34:17.506+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A39-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405276",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:34:17.506+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A39-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Latvian language competencies for peace corps : volunteers in the Republic of Latvia",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Viksnins, Helen M.",
+        "givenName" : "Helen M.",
+        "familyName" : "Viksnins",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1992",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34483",
+      "type" : "OTHER"
+    }, {
+      "id" : "latvian_viksnins1992_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng", "lat" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Washington, D.C.",
+      "publisher" : "Peace Corps"
+    },
+    "freeKeywords" : "LoC Class: PG8807,\nLoC Subject Headings: Latvian language",
+    "subjects" : [ {
+      "value" : "lav - Latvian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "147 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405274",
+    "name" : "http://tinyurl.com/68xt3h",
+    "creationDate" : "2010-04-01T13:05:32.967+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A37-0",
+    "content" : "http://tinyurl.com/68xt3h",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4b616e88355710b75e7c14dd94ccabf6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://tinyurl.com/68xt3h",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405275",
+    "name" : "latvian_viksnins1992_o.pdf",
+    "creationDate" : "2010-04-01T13:05:38.390+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A38-E",
+    "content" : "/rest/items/item_405276_2/component/file_405275/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c5011a67e7d5a86f2abb25aea6f082ae",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4360185,
+    "metadata" : {
+      "title" : "latvian_viksnins1992_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4360185
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

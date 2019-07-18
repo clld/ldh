@@ -1,0 +1,161 @@
+{
+  "objectId" : "item_407549",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T22:40:46.973+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70B4-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T22:40:46.973+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-96CC-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:15:02.511+0000",
+  "latestRelease" : {
+    "objectId" : "item_407549",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T22:40:46.973+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70B4-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407549",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T22:40:46.973+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70B4-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Intonation systems of Mandarin and English : a functional approach",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Fang",
+        "familyName" : "Liu",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2009",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "39347",
+      "type" : "OTHER"
+    }, {
+      "id" : "intonation_liu2009_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Chicago",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL1213, LoC Subject Headings: English language, LoC Subject Headings: Chinese language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "cmn - Mandarin Chinese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xvi, 163 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL1213,\nLoC Subject Headings: English language--Intonation, Chinese language--Intonation"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407548",
+    "name" : "intonation_liu2009_s.pdf",
+    "creationDate" : "2010-04-01T14:15:01.938+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-96CB-3",
+    "content" : "/rest/items/item_407549_4/component/file_407548/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "03176adf62395f80d41284e202c1e9dd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5340870,
+    "metadata" : {
+      "title" : "intonation_liu2009_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5340870
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2049598",
+    "name" : "http://www.homepages.ucl.ac.uk/~ucjtfli/",
+    "creationDate" : "2014-08-11T10:09:53.962+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.homepages.ucl.ac.uk/~ucjtfli/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7c616a277361f76022327ca90d0c6c27",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.homepages.ucl.ac.uk/~ucjtfli/",
+      "contentCategory" : "any-fulltext",
+      "description" : "University College London, Fang Liu's website, research project, Liu, F. (2009), pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2049599",
+    "name" : "http://www.homepages.ucl.ac.uk/~ucjtfli/FangLiu_Dissertation3.pdf",
+    "creationDate" : "2014-08-11T10:09:54.139+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-2DB4-3",
+    "content" : "http://www.homepages.ucl.ac.uk/~ucjtfli/FangLiu_Dissertation3.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7c918f503bed9db7dad533569a46935a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.homepages.ucl.ac.uk/~ucjtfli/FangLiu_Dissertation3.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

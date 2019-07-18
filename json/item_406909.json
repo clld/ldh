@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_406909",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-12T19:57:46.360+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F7B-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:57:46.360+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9347-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:49:48.828+0000",
+  "latestRelease" : {
+    "objectId" : "item_406909",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T19:57:46.360+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F7B-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406909",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T19:57:46.360+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F7B-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Yolngu - English dictionary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Beulah",
+        "familyName" : "Lowe",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "37510",
+      "type" : "OTHER"
+    }, {
+      "id" : "gupapyungu_lowe2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "freeKeywords" : "LoC Class: PL7101, LoC Subject Headings: Yolngu languages, LoC Subject Headings: Australian languages--Western Australia",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "190 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL7101,\nLoC Subject Headings: Yolngu languages--Dictionaries--English, Australian languages--Western Australia"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406908",
+    "name" : "gupapyungu_lowe2004_s.pdf",
+    "creationDate" : "2010-04-01T13:49:48.684+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9346-5",
+    "content" : "/rest/items/item_406909_5/component/file_406908/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "af45abc65d5efdae6c3ba475a1a1e21e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 915274,
+    "metadata" : {
+      "title" : "gupapyungu_lowe2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 915274
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2048109",
+    "name" : "http://www.ards.com.au/365_docs/attachments/protarea/B.Lo-ea33b8e3.pdf",
+    "creationDate" : "2014-08-04T11:05:33.866+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.ards.com.au/365_docs/attachments/protarea/B.Lo-ea33b8e3.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ards.com.au/365_docs/attachments/protarea/B.Lo-ea33b8e3.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Aboriginal Resource and Development Services Inc., pdf",
+      "size" : 0
+    }
+  } ]
+}

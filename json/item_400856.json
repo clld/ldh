@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_400856",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:02:20.609+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6FF5-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:02:20.609+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6FF5-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:59:52.217+0000",
+  "latestRelease" : {
+    "objectId" : "item_400856",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:02:20.609+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6FF5-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400856",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:02:20.609+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6FF5-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Nuasue lexicon",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Prittie, Rebecca",
+        "givenName" : "Rebecca",
+        "familyName" : "Prittie",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2002",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "24347",
+      "type" : "OTHER"
+    }, {
+      "id" : "nuasue_prittie2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yaounde, Republic of Cameroon",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PL8021.C35,\nLoC Subject Headings: Cameroon --Languages",
+    "totalNumberOfPages" : "75 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400854",
+    "name" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/lexicons/Nuasue%20Lexicon.pdf",
+    "creationDate" : "2010-04-01T10:59:51.717+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6FF3-2",
+    "content" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/lexicons/Nuasue%20Lexicon.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/lexicons/Nuasue%20Lexicon.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400855",
+    "name" : "nuasue_prittie2002_s.pdf",
+    "creationDate" : "2010-04-01T10:59:52.095+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6FF4-F",
+    "content" : "/rest/items/item_400856_2/component/file_400855/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0f19e691f968c6a922b9d9692d6cda1b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 592911,
+    "metadata" : {
+      "title" : "nuasue_prittie2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 592911
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

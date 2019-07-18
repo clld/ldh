@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_403097",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T09:14:03.140+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA9B-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T09:14:03.140+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D17-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:54:33.920+0000",
+  "latestRelease" : {
+    "objectId" : "item_403097",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T09:14:03.140+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA9B-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403097",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T09:14:03.140+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA9B-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A theory of category projection and its applications",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Naoki",
+        "familyName" : "Fukui",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1986",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30949",
+      "type" : "OTHER"
+    }, {
+      "id" : "category_fukui1986_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge, MA",
+      "publisher" : "Massachusetts Institute of Technology"
+    },
+    "freeKeywords" : "LoC Class: P158.2, LoC Subject Headings: Government-binding theory (Linguistics), LoC Subject Headings: Grammar/Comparative and general--Grammatical categories, LoC Subject Headings: Japanese language",
+    "subjects" : [ {
+      "value" : "jpn - Japanese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "281 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: P158.2, LoC Subject Headings: Government-binding theory (Linguistics), LoC Subject Headings: Grammar/Comparative and general--Grammatical categories, LoC Subject Headings: Japanese language--Phraseology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403096",
+    "name" : "category_fukui1986_o.pdf",
+    "creationDate" : "2010-04-01T11:54:32.671+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D16-1",
+    "content" : "/rest/items/item_403097_4/component/file_403096/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "106533a2bf747ab03063aa4aafcc37c8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 13068149,
+    "metadata" : {
+      "title" : "category_fukui1986_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 13068149
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147330",
+    "name" : "http://hdl.handle.net/1721.1/15105",
+    "creationDate" : "2015-04-21T09:13:31.663+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/15105",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3ebd433eb52365b8459c28d474c5e49b",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/15105",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

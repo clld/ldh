@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_404163",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-18T12:06:38.173+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7AAF-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-18T12:06:38.173+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-83EC-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:36:17.054+0000",
+  "latestRelease" : {
+    "objectId" : "item_404163",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T12:06:38.173+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7AAF-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404163",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T12:06:38.173+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7AAF-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Mapos Buang Dictionary [Manuscript]",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Bruce Arthur",
+        "familyName" : "Hooley",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2006",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "32357",
+      "type" : "OTHER"
+    }, {
+      "id" : "buang_hooley2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N.A.",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL6621.B8, LoC Subject Headings: Buang language",
+    "subjects" : [ {
+      "value" : "bzh - Mapos Buang",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "407 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6621.B8, LoC Subject Headings: Buang language--Dictionary"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404162",
+    "name" : "buang_hooley2006_s.pdf",
+    "creationDate" : "2010-04-01T12:36:16.830+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-83EB-9",
+    "content" : "/rest/items/item_404163_3/component/file_404162/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "17e0e379eb570b64b44e6c65d629bd72",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1756637,
+    "metadata" : {
+      "title" : "buang_hooley2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1756637
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116757",
+    "name" : "http://www-01.sil.org/pacific/png/abstract.asp?id=49641",
+    "creationDate" : "2015-03-18T12:04:06.724+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www-01.sil.org/pacific/png/abstract.asp?id=49641",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6d18da18d31bdb327d90eec6a9cb7b0e",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www-01.sil.org/pacific/png/abstract.asp?id=49641",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Papua New Guinea, PNG Language Resources, pdf download",
+      "size" : 0
+    }
+  } ]
+}

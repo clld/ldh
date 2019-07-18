@@ -1,0 +1,148 @@
+{
+  "objectId" : "item_407061",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-03T09:52:45.729+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0209-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz akutalisiert",
+  "lastModificationDate" : "2015-03-03T09:52:45.729+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-942B-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:53:23.643+0000",
+  "latestRelease" : {
+    "objectId" : "item_407061",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-03T09:52:45.729+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0209-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407061",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-03T09:52:45.729+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0209-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Linguistic studies from the Himalaya : being studies in the grammar of fifteen Himalayan dialects",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Thomas Grahame",
+        "familyName" : "Bailey",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1920",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37622",
+      "type" : "OTHER"
+    }, {
+      "id" : "himalayan_bailey1920_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "London",
+      "publisher" : "Royal Asiatic Soc."
+    },
+    "sources" : [ {
+      "title" : "Asiatic Society monographs ",
+      "alternativeTitles" : [ { } ],
+      "creators" : [ {
+        "organization" : {
+          "identifier" : "ou_persistent22",
+          "name" : "Royal Asiatic Society of Great Britain and Ireland",
+          "identifierPath" : [ "ou_persistent22" ]
+        },
+        "role" : "EDITOR",
+        "type" : "ORGANIZATION"
+      } ],
+      "volume" : "18",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PK1508, LoC Subject Headings: Indo-Aryan languages/Modern, LoC Subject Headings: Tibeto-Burman languages",
+    "totalNumberOfPages" : "xv, 277 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PK1508,\nLoC Subject Headings: Indo-Aryan languages/Modern, Tibeto-Burman languages, Himalaya Mountains -- Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407059",
+    "name" : "http://www.archive.org/details/linguisticstudie00bailrich",
+    "creationDate" : "2010-04-01T13:53:20.775+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.archive.org/details/linguisticstudie00bailrich",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0a6702488cb600e346d715e38835c8c7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/linguisticstudie00bailrich",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org: Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407060",
+    "name" : "himalayan_bailey1920_o.pdf",
+    "creationDate" : "2010-04-01T13:53:22.333+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-942A-E",
+    "content" : "/rest/items/item_407061_4/component/file_407060/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3010168c7debefd365c8bada39211f18",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 13590801,
+    "metadata" : {
+      "title" : "himalayan_bailey1920_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 13590801,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

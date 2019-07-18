@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_406990",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:41:05.177+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-93C6-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:41:05.177+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-93C6-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:51:37.355+0000",
+  "latestRelease" : {
+    "objectId" : "item_406990",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:41:05.177+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-93C6-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406990",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:41:05.177+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-93C6-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Aspectos da fonologia Dzubukuá",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Queiroz, José Márcio Correira de",
+        "givenName" : "José Márcio Correira de",
+        "familyName" : "Queiroz",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37589",
+      "type" : "OTHER"
+    }, {
+      "id" : "dzubukua_queiroz_2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Recife",
+      "publisher" : " Univ. Federal de Pernambuco"
+    },
+    "freeKeywords" : "LoC Class: PM6286,\nLoC Subject Headings: Kariri language",
+    "totalNumberOfPages" : "122 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406988",
+    "name" : "http://www.etnolinguistica.org/teses:queiroz_2008",
+    "creationDate" : "2010-04-01T13:51:35.368+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-93C4-B",
+    "content" : "http://www.etnolinguistica.org/teses:queiroz_2008",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9959a85858101556fabf715bca37025b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.etnolinguistica.org/teses:queiroz_2008",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406989",
+    "name" : "dzubukua_queiroz_2008_s.pdf",
+    "creationDate" : "2010-04-01T13:51:37.139+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-93C5-9",
+    "content" : "/rest/items/item_406990_2/component/file_406989/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "43307edceae7f3585d95266ced209105",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1177156,
+    "metadata" : {
+      "title" : "dzubukua_queiroz_2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1177156
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

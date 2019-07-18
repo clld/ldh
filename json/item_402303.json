@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_402303",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T09:33:05.151+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-786B-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:33:05.151+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-786B-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:29:59.236+0000",
+  "latestRelease" : {
+    "objectId" : "item_402303",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:33:05.151+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-786B-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402303",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:33:05.151+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-786B-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Focus structure and morphosyntax in Japanese : wa and ga, and word order flexibility",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mitsuaki",
+        "familyName" : "Shimojo",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1995",
+    "datePublishedInPrint" : "1995",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29605",
+      "type" : "OTHER"
+    }, {
+      "id" : "japanese_shimojo1995_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Buffalo",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Subject Headings: Japanese language",
+    "subjects" : [ {
+      "value" : "jpn - Japanese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VIII, [278] Bl.",
+    "abstracts" : [ {
+      "value" : "PL508.V37, ISO 639-3 : jpn, Japanese language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402301",
+    "name" : "http://wings.buffalo.edu/linguistics/people/students/dissertations/shimojo/MitsuDis.pdf",
+    "creationDate" : "2010-04-01T11:29:57.760+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7869-2",
+    "content" : "http://wings.buffalo.edu/linguistics/people/students/dissertations/shimojo/MitsuDis.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2b87662124071a3d18cbdd0536e640be",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://wings.buffalo.edu/linguistics/people/students/dissertations/shimojo/MitsuDis.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "University of Buffalo, Department of Linguistics",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402302",
+    "name" : "japanese_shimojo1995_s.pdf",
+    "creationDate" : "2010-04-01T11:29:59.092+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-786A-F",
+    "content" : "/rest/items/item_402303_3/component/file_402302/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "97c4aaf01e5ff3ab646affd7374d0060",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 831832,
+    "metadata" : {
+      "title" : "japanese_shimojo1995_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 831832,
+      "copyrightDate" : "2010-07-10",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

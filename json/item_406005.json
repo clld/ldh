@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_406005",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-15T09:00:23.431+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-EC5F-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-15T09:00:23.431+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8E4B-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:25:53.736+0000",
+  "latestRelease" : {
+    "objectId" : "item_406005",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-15T09:00:23.431+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-EC5F-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406005",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-15T09:00:23.431+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-EC5F-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The role of perception in defining tonal targets and their alignment",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mariapaola",
+        "familyName" : "D'Imperio",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "datePublishedInPrint" : "2000",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35601",
+      "type" : "OTHER"
+    }, {
+      "id" : "perception_dimperio2000_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: P217.3,\nLoC Subject Headings: Grammar/Comparative and general--Phonology",
+    "totalNumberOfPages" : "XXV, 236 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406004",
+    "name" : "perception_dimperio2000_s.pdf",
+    "creationDate" : "2010-04-01T13:25:53.566+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E4A-C",
+    "content" : "/rest/items/item_406005_3/component/file_406004/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "98a5a5ddd0e1aacfd76116dba098ce76",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1022166,
+    "metadata" : {
+      "title" : "perception_dimperio2000_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1022166
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2042439",
+    "name" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1243021045",
+    "creationDate" : "2014-07-15T08:59:15.665+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-EC61-A",
+    "content" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1243021045",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7231137a5c38f537b331aed92e2afc79",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1243021045",
+      "contentCategory" : "any-fulltext",
+      "description" : "OhioLINK, Electronic Theses & Dissertations Center, pdf",
+      "size" : 0
+    }
+  } ]
+}

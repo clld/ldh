@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_406256",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-03T10:23:58.164+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-021E-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter bereinigt",
+  "lastModificationDate" : "2015-03-03T10:23:58.164+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8FA8-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:34:01.709+0000",
+  "latestRelease" : {
+    "objectId" : "item_406256",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T10:23:58.164+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-021E-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406256",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T10:23:58.164+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-021E-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Funciones del discurso directo en narraciones aguaruna",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mildred L.",
+        "familyName" : "Larson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1985",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "36587",
+      "type" : "OTHER"
+    }, {
+      "id" : "aguaruna_larson1985_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "sources" : [ {
+      "title" : "Datos etno-lingüísticos",
+      "volume" : "1",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P302,\nLoC Subject Headings: Grammar/Comparative and general--Indirect discourse, LoC Subject Headings: Aguaruna dialect",
+    "subjects" : [ {
+      "value" : "agr - Aguaruna",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XII, 289 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: P302,\nLoC Subject Headings: Grammar, Comparative and general--Indirect discourse, Aguaruna dialect--Discourse analysis"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406254",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3452",
+    "creationDate" : "2010-04-01T13:34:00.222+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3452",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2a5bfd52a01fe710818121201250376b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3452",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406255",
+    "name" : "aguaruna_larson1985_o.pdf",
+    "creationDate" : "2010-04-01T13:34:00.593+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8FA7-0",
+    "content" : "/rest/items/item_406256_3/component/file_406255/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1c7e4ef60283af8d0a6afab304c3b991",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11184218,
+    "metadata" : {
+      "title" : "aguaruna_larson1985_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11184218
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

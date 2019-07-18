@@ -1,0 +1,146 @@
+{
+  "objectId" : "item_403833",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T11:05:06.849+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-820F-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:05:06.849+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-820F-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:26:31.270+0000",
+  "latestRelease" : {
+    "objectId" : "item_403833",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T11:05:06.849+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-820F-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403833",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T11:05:06.849+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-820F-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A dictionary of the French and English Tongues (1611)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Randle",
+        "familyName" : "Cotgrave",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1970",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31747",
+      "type" : "OTHER"
+    }, {
+      "id" : "frenchenglish_cotgrave1611.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Hildesheim [u.a]",
+      "publisher" : "Olms"
+    },
+    "sources" : [ {
+      "title" : "Anglistica & Americana ",
+      "alternativeTitles" : [ { } ],
+      "volume" : "77",
+      "genre" : "SERIES"
+    } ],
+    "subjects" : [ {
+      "value" : "fra - French",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "984 S.",
+    "abstracts" : [ {
+      "value" : "PC2640.A2, Encyclopedias and dictionaries -- Early works to 1800, Encyclopedias and dictionaries, French -- England -- Early works to 1800"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403831",
+    "name" : "http://www.pbm.com/~lindahl/cotgrave/",
+    "creationDate" : "2010-04-01T12:26:19.722+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-820D-5",
+    "content" : "http://www.pbm.com/~lindahl/cotgrave/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c09393195d53ba9796286c918abd43d0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.pbm.com/~lindahl/cotgrave/",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403832",
+    "name" : "frenchenglish_cotgrave1611.pdf",
+    "creationDate" : "2010-04-01T12:26:20.955+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-820E-3",
+    "content" : "/rest/items/item_403833_4/component/file_403832/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6960858062ba1a68b74f33b5d106cc13",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 110728993,
+    "metadata" : {
+      "title" : "frenchenglish_cotgrave1611.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 110728993,
+      "copyrightDate" : "2010-12-09",
+      "rights" : "not in copyright, Randle Cotgrave \n????-1634"
+    }
+  } ]
+}

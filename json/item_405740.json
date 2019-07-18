@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_405740",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T19:42:09.667+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F5B-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:42:09.667+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8CCF-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:19:50.348+0000",
+  "latestRelease" : {
+    "objectId" : "item_405740",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T19:42:09.667+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F5B-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405740",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T19:42:09.667+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F5B-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "La traduction en situation de diglossie : le cas du discours religieux chrétien au Burkina Faso",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Sanon-Ouattara, Féridjou Emilie Georgette",
+        "givenName" : "Féridjou Emilie Georgette",
+        "familyName" : "Sanon-Ouattara",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35332",
+      "type" : "OTHER"
+    }, {
+      "id" : "diglossie_sanon2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Groningen",
+      "publisher" : "Rijksuniversiteit Groningen"
+    },
+    "freeKeywords" : "LoC Class: PL8021.B8, LoC Subject Headings: Sociolinguistics --Burkina Faso, LoC Subject Headings: Burkina Faso --Languages",
+    "totalNumberOfPages" : "420 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405738",
+    "name" : "http://dissertations.ub.rug.nl/FILES/faculties/arts/2005/f.e.g.sanon.ouattara/thesis.pdf",
+    "creationDate" : "2010-04-01T13:19:49.156+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8CCD-5",
+    "content" : "http://dissertations.ub.rug.nl/FILES/faculties/arts/2005/f.e.g.sanon.ouattara/thesis.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "551be43b2a8126f5fcff9f7adf98d333",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dissertations.ub.rug.nl/FILES/faculties/arts/2005/f.e.g.sanon.ouattara/thesis.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405739",
+    "name" : "diglossie_sanon2005_s.pdf",
+    "creationDate" : "2010-04-01T13:19:49.947+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8CCE-3",
+    "content" : "/rest/items/item_405740_3/component/file_405739/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "40596756fe75453afe62fed509016f9f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3407136,
+    "metadata" : {
+      "title" : "diglossie_sanon2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3407136
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

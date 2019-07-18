@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_405614",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:52:30.836+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8C17-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:52:30.836+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8C17-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:16:21.479+0000",
+  "latestRelease" : {
+    "objectId" : "item_405614",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:52:30.836+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8C17-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405614",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:52:30.836+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8C17-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vietnamese : basic course",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Jorden, Eleanor Harz",
+        "givenName" : "Eleanor Harz",
+        "familyName" : "Jorden",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1967",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "35088",
+      "type" : "OTHER"
+    }, {
+      "id" : "vietnamese_jorden1967_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Washington",
+      "publisher" : "Dep. of State, Foreign Service Inst."
+    },
+    "sources" : [ {
+      "title" : "Foreign Service Institute. Basic Course Series",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL4371,\nLoC Subject Headings: Vietnamese language -- Programmed instruction",
+    "subjects" : [ {
+      "value" : "vie - Vietnamese",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405612",
+    "name" : "http://fsi-language-courses.com/",
+    "creationDate" : "2010-04-01T13:16:20.399+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C15-0",
+    "content" : "http://fsi-language-courses.com/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://fsi-language-courses.com/",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405613",
+    "name" : "vietnamese_jorden1967_o.pdf",
+    "creationDate" : "2010-04-01T13:16:20.447+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C16-E",
+    "content" : "/rest/items/item_405614_2/component/file_405613/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e54d78aeda1b3f98e79a563d05bca01e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10507662,
+    "metadata" : {
+      "title" : "vietnamese_jorden1967_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10507662
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

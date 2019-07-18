@@ -1,0 +1,152 @@
+{
+  "objectId" : "item_401527",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-13T09:59:10.062+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CD53-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz ergänzt",
+  "lastModificationDate" : "2015-05-13T09:59:10.062+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-73CF-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:13:38.203+0000",
+  "latestRelease" : {
+    "objectId" : "item_401527",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-13T09:59:10.062+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD53-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401527",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-13T09:59:10.062+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD53-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dicionário e Léxico Karitiana/Português ",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "David",
+        "familyName" : "Landin",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "27056",
+      "type" : "OTHER"
+    }, {
+      "id" : "karitiana_landin2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "2. ed.",
+      "place" : "Cuiabá",
+      "publisher" : "Sociedade Internacional de Lingüística"
+    },
+    "freeKeywords" : "LoC Class: PM6290.K2, LoC Subject Headings: Karitiana language",
+    "subjects" : [ {
+      "value" : "ktn - Karitiâna",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "84 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401526",
+    "name" : "karitiana_landin2005_s.pdf",
+    "creationDate" : "2010-04-01T11:13:38.098+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-73CE-A",
+    "content" : "/rest/items/item_401527_4/component/file_401526/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5201bcea7938dadfb7e2093b6967f1d2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 482639,
+    "metadata" : {
+      "title" : "karitiana_landin2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 482639
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2154500",
+    "name" : "http://www-01.sil.org/americas/brasil/SILbpub.html",
+    "creationDate" : "2015-05-13T09:58:43.288+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www-01.sil.org/americas/brasil/SILbpub.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9530a75a4c45ff6625118b724949a812",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www-01.sil.org/americas/brasil/SILbpub.html",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Brazil, Publications, Language Name, Karitiana, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2154501",
+    "name" : "http://www-01.sil.org/americas/brasil/publcns/dictgram/KTDic.pdf",
+    "creationDate" : "2015-05-13T09:58:44.339+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www-01.sil.org/americas/brasil/publcns/dictgram/KTDic.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5201bcea7938dadfb7e2093b6967f1d2",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www-01.sil.org/americas/brasil/publcns/dictgram/KTDic.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Brazil, Publications, Language Name, Karitiana, direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

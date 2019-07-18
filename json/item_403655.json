@@ -1,0 +1,125 @@
+{
+  "objectId" : "item_403655",
+  "versionNumber" : 6,
+  "modificationDate" : "2011-05-31T09:55:48.654+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-80E7-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:55:48.654+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-80E7-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:21:35.448+0000",
+  "latestRelease" : {
+    "objectId" : "item_403655",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T09:55:48.654+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-80E7-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403655",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T09:55:48.654+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-80E7-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "L'histoire",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Maurice",
+        "familyName" : "Delafosse",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1912",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31481",
+      "type" : "OTHER"
+    }, {
+      "id" : "haut2_delafosse1912_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Paris",
+      "publisher" : "Larose"
+    },
+    "sources" : [ {
+      "title" : "Le pays, les peuples, les langues, l'histoire, les civilisations",
+      "alternativeTitles" : [ {
+        "value" : "Le pays, les peuples, les langues, l'histoire,les civilisations"
+      } ],
+      "volume" : "2",
+      "genre" : "SERIES"
+    }, {
+      "title" : "Haut-Sénégal-Niger (Soudan français)",
+      "volume" : "1",
+      "genre" : "SERIES"
+    } ],
+    "totalNumberOfPages" : "[xv - xxix], 428 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.S8, ISO 639-3 : -, Sudan --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403654",
+    "name" : "haut2_delafosse1912_o.pdf",
+    "creationDate" : "2010-04-01T12:21:33.649+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-80E6-9",
+    "content" : "/rest/items/item_403655_6/component/file_403654/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ae9c732eaaed6e12ea875a22b44246b8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 18709726,
+    "metadata" : {
+      "title" : "haut2_delafosse1912_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 18709726,
+      "copyrightDate" : "2010-11-24",
+      "rights" : "not in copyright, Maurice Delafosse, 1870-1926"
+    }
+  } ]
+}

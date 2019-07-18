@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_405525",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T20:39:18.715+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FDB-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:39:18.715+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B97-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:14:46.603+0000",
+  "latestRelease" : {
+    "objectId" : "item_405525",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:39:18.715+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FDB-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405525",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:39:18.715+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FDB-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Tainae grammar essentials",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Carlson, Terry",
+        "givenName" : "Terry",
+        "familyName" : "Carlson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1991",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "35025",
+      "type" : "OTHER"
+    }, {
+      "id" : "tainae_carlson1991_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ukrarumpa, New Guinea",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL6621.K78, LoC Subject Headings: Papuan languages, LoC Subject Headings: Angan languages",
+    "subjects" : [ {
+      "value" : "ago - Tainae",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "IV, 137 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405523",
+    "name" : "http://www.sil.org/pacific/png/pubs/0000452/Tainae%20AGO%20Grammar%20Essentials%201991.pdf",
+    "creationDate" : "2010-04-01T13:14:18.825+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B95-5",
+    "content" : "http://www.sil.org/pacific/png/pubs/0000452/Tainae%20AGO%20Grammar%20Essentials%201991.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ada6402a3b4cf2acd36a8799730e4081",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/pacific/png/pubs/0000452/Tainae%20AGO%20Grammar%20Essentials%201991.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405524",
+    "name" : "tainae_carlson1991_o.pdf",
+    "creationDate" : "2010-04-01T13:14:46.025+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B96-3",
+    "content" : "/rest/items/item_405525_3/component/file_405524/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4cddb209cd3551cb7022beae6ce496e7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5630864,
+    "metadata" : {
+      "title" : "tainae_carlson1991_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5630864
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

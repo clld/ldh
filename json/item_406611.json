@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_406611",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:06:11.309+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9195-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:06:11.309+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9195-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:44:19.325+0000",
+  "latestRelease" : {
+    "objectId" : "item_406611",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:06:11.309+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9195-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406611",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:06:11.309+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9195-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Fonologia segmental preliminar da língua fula da Guiné-Bissau",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Sousa Moura, Ricardo Washington de",
+        "givenName" : "Sousa",
+        "familyName" : "Moura",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37336",
+      "type" : "OTHER"
+    }, {
+      "id" : "fula_washington2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Brasilia",
+      "publisher" : " Univ."
+    },
+    "totalNumberOfPages" : "xiii, 66 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406609",
+    "name" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=2446",
+    "creationDate" : "2010-04-01T13:44:18.222+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9193-B",
+    "content" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=2446",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c5add690f5758342c321dd6cf2b187d6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=2446",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406610",
+    "name" : "fula_washington2007_s.pdf",
+    "creationDate" : "2010-04-01T13:44:19.215+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9194-9",
+    "content" : "/rest/items/item_406611_2/component/file_406610/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1007df79af22f631b5dc346adb2eb806",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 462157,
+    "metadata" : {
+      "title" : "fula_washington2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 462157
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

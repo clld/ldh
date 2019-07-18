@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_405546",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T20:31:41.937+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FC8-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:31:41.937+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8BBA-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:15:11.960+0000",
+  "latestRelease" : {
+    "objectId" : "item_405546",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:31:41.937+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FC8-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405546",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:31:41.937+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FC8-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Analisis preliminar de la gramática del idioma taushiro",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Alicea Ortiz, Neftalí",
+        "givenName" : "Neftalí",
+        "familyName" : "Alicea Ortiz",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1975",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "35040",
+      "type" : "OTHER"
+    }, {
+      "id" : "taushiro_ortiz1975c_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "online ed. of 2008",
+      "place" : "Lima, Peru",
+      "publisher" : "Inst. Lingüistico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Datos etno-lingüísticos",
+      "volume" : "24",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6916, LoC Subject Headings: Indians of South America--Peru--Languages, LoC Subject Headings: Pinche",
+    "subjects" : [ {
+      "value" : "trr - Taushiro",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "118 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405544",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3413",
+    "creationDate" : "2010-04-01T13:15:10.567+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3413",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3b393b21716806b13b455126c13d05fd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3413",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405545",
+    "name" : "taushiro_ortiz1975c_o.pdf",
+    "creationDate" : "2010-04-01T13:15:11.365+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8BB9-6",
+    "content" : "/rest/items/item_405546_3/component/file_405545/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f5d53ef9cc33535877a47465c067e8b0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4617105,
+    "metadata" : {
+      "title" : "taushiro_ortiz1975c_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4617105
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

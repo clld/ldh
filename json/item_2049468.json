@@ -1,0 +1,113 @@
+{
+  "objectId" : "item_2049468",
+  "versionNumber" : 2,
+  "modificationDate" : "2014-08-08T11:35:29.334+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-2B30-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2014-08-08T11:35:29.334+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-001A-2974-4",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-08-08T09:19:29.305+0000",
+  "latestRelease" : {
+    "objectId" : "item_2049468",
+    "versionNumber" : 2,
+    "modificationDate" : "2014-08-08T11:35:29.334+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-2B30-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2049468",
+    "versionNumber" : 2,
+    "modificationDate" : "2014-08-08T11:35:29.334+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-2B30-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Ngandi grammar, texts, and dictionary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jeffrey",
+        "familyName" : "Heath",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1978",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "0-85575-081-2",
+      "type" : "ISBN"
+    }, {
+      "id" : "0-391-00977-X",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Canberra",
+      "publisher" : "Australian Institute of Aboriginal Studies"
+    },
+    "freeKeywords" : "LoC Class: PL7101.N45, LoC Subject Headings: Ngandi language",
+    "subjects" : [ {
+      "value" : "nid - Ngandi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 297 S."
+  },
+  "files" : [ {
+    "objectId" : "file_2049467",
+    "name" : "ngandi_heath1978_o.pdf",
+    "creationDate" : "2014-08-08T09:19:29.011+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-297A-7",
+    "content" : "/rest/items/item_2049468_2/component/file_2049467/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c757e0e84a588228877d5f29e0919d77",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 13206591,
+    "metadata" : {
+      "title" : "ngandi_heath1978_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 13206591,
+      "copyrightDate" : "24-April-2014",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

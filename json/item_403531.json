@@ -1,0 +1,113 @@
+{
+  "objectId" : "item_403531",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T10:29:32.571+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7FE1-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:29:32.571+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7FE1-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:22.320+0000",
+  "latestRelease" : {
+    "objectId" : "item_403531",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:29:32.571+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7FE1-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403531",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:29:32.571+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7FE1-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Verb morphology and the structure of IP in Mpumpun",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Francine Ngantcho",
+        "familyName" : "Lebika",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31344",
+      "type" : "OTHER"
+    }, {
+      "id" : "mpumpun_ngantcho2003_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon --Languages",
+    "totalNumberOfPages" : "xi, 100 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : mgg ?, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403530",
+    "name" : "mpumpun_ngantcho2003_o.pdf",
+    "creationDate" : "2010-04-01T12:19:21.994+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7FE0-D",
+    "content" : "/rest/items/item_403531_3/component/file_403530/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ca8d5db79cb798c48fb213ac46c33110",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2597992,
+    "metadata" : {
+      "title" : "mpumpun_ngantcho2003_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2597992,
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_406681",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-06T11:21:48.613+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C7B8-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-06T11:21:48.613+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-91F7-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:45:54.123+0000",
+  "latestRelease" : {
+    "objectId" : "item_406681",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-06T11:21:48.613+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7B8-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406681",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-06T11:21:48.613+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7B8-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Palabras y frases útiles en algunos idiomas de la selva peruana",
+    "creators" : [ {
+      "organization" : {
+        "identifier" : "ou_persistent22",
+        "name" : "Summer Institute of Linguistics",
+        "identifierPath" : [ "ou_persistent22" ]
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "1979",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37381",
+      "type" : "OTHER"
+    }, {
+      "id" : "peruana_wise1979_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "Tercera ed. rev. en 1979",
+      "place" : "[Lima]",
+      "publisher" : "Ministerio de Educación, Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Documento de trabajo ",
+      "alternativeTitles" : [ {
+        "value" : "Documento de trabajo"
+      } ],
+      "volume" : "4",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5271, LoC Subject Headings: Indians of South America--Peru--Languages",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "126 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406680",
+    "name" : "peruana_wise1979_o.pdf",
+    "creationDate" : "2010-04-01T13:45:53.709+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-91F6-F",
+    "content" : "/rest/items/item_406681_4/component/file_406680/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "99869f498a6511de40e8dbd4f8b9954b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3756273,
+    "metadata" : {
+      "title" : "peruana_wise1979_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3756273
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2151694",
+    "name" : "http://www.peru.sil.org/resources/archives/30259",
+    "creationDate" : "2015-05-06T11:21:19.053+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/30259",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "208194f0ea9bb1188bdac359ac64052e",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/30259",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Peru Language & Culture Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_403931",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-13T01:20:06.562+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-71FF-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:20:06.562+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-829D-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:29:46.187+0000",
+  "latestRelease" : {
+    "objectId" : "item_403931",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T01:20:06.562+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-71FF-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403931",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T01:20:06.562+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-71FF-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Iraiti xawaiyekehalakatyakala (Dicionário Paresí - Português)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Orland",
+        "familyName" : "Rowan",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2001",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "32064",
+      "type" : "OTHER"
+    }, {
+      "id" : "paresi_rowan2001_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cuiabá",
+      "publisher" : "Sociedade Internacional de Lingüística"
+    },
+    "freeKeywords" : "LoC Class: PM6831.Z5, LoC Subject Headings: Paressi language --Dictionaries --Portuguese, LoC Subject Headings: Portuguese language --Dictionaries --Paressi",
+    "subjects" : [ {
+      "value" : "pab - Parecís",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xvii, 120 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403929",
+    "name" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/PCDict.pdf",
+    "creationDate" : "2010-04-01T12:29:38.842+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/PCDict.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4d86e4b2446338a3c1491c2d9606b014",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/PCDict.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403930",
+    "name" : "paresi_rowan2001_s.pdf",
+    "creationDate" : "2010-04-01T12:29:46.016+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-829C-1",
+    "content" : "/rest/items/item_403931_3/component/file_403930/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4f4a20266eb6a96dce43e79dfa0aa0b9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1127539,
+    "metadata" : {
+      "title" : "paresi_rowan2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1127539
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

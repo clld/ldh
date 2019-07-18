@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_405398",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:49:52.341+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8ADC-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:49:52.341+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8ADC-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:11:02.187+0000",
+  "latestRelease" : {
+    "objectId" : "item_405398",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:49:52.341+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8ADC-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405398",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:49:52.341+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8ADC-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The topic marker 'di' in Ouldeme",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Kinnaird, William J.",
+        "givenName" : "William J.",
+        "familyName" : "Kinnaird",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1999",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34782",
+      "type" : "OTHER"
+    }, {
+      "id" : "ouldeme_kinnaird1999_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yaoundé",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PL8753.5,\nLoC Subject Headings: Uldeme language --Phonology",
+    "subjects" : [ {
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "29 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405396",
+    "name" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/ouldeme_kinnaird1999_2357_p.pdf",
+    "creationDate" : "2010-04-01T13:11:01.659+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8ADA-4",
+    "content" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/ouldeme_kinnaird1999_2357_p.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/ouldeme_kinnaird1999_2357_p.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405397",
+    "name" : "ouldeme_kinnaird1999_o.pdf",
+    "creationDate" : "2010-04-01T13:11:02.019+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8ADB-2",
+    "content" : "/rest/items/item_405398_2/component/file_405397/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c367ed6efa44eb258f932662910e5703",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 909304,
+    "metadata" : {
+      "title" : "ouldeme_kinnaird1999_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 909304
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

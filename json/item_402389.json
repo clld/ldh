@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_402389",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-10T11:56:57.580+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0BF0-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-10T11:56:57.580+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-78DE-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:31:00.201+0000",
+  "latestRelease" : {
+    "objectId" : "item_402389",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T11:56:57.580+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0BF0-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402389",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T11:56:57.580+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0BF0-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Middles and argument structure across languages",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Marijana",
+        "familyName" : "Marelj",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29797",
+      "type" : "OTHER"
+    }, {
+      "id" : "middles_marelj2004_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "90-76864-50-0",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "sources" : [ {
+      "title" : "LOT Dissertation Series",
+      "volume" : "088",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P291,\nLoC Subject Headings: Grammar/Comparative and general, LoC Subject Headings: Semantics/Comparative",
+    "totalNumberOfPages" : "314 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402388",
+    "name" : "middles_marelj2004_s.pdf",
+    "creationDate" : "2010-04-01T11:30:59.835+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-78DD-B",
+    "content" : "/rest/items/item_402389_3/component/file_402388/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a27d27f83b69c437f359b803d8ff76ba",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3291308,
+    "metadata" : {
+      "title" : "middles_marelj2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3291308
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110645",
+    "name" : "http://dspace.library.uu.nl/handle/1874/634",
+    "creationDate" : "2015-03-10T11:56:14.791+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dspace.library.uu.nl/handle/1874/634",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "62c3eedf0968ab249eefcebc42d50eab",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dspace.library.uu.nl/handle/1874/634",
+      "contentCategory" : "publisher-version",
+      "description" : "Utrecht Univ. Repository DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

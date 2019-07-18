@@ -1,0 +1,144 @@
+{
+  "objectId" : "item_405191",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T20:25:19.356+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FBA-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:25:19.356+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-89C1-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:03:06.994+0000",
+  "latestRelease" : {
+    "objectId" : "item_405191",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:25:19.356+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FBA-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405191",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:25:19.356+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FBA-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario Ignaciano y Castellano : con apuntes gramaticales",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Ott, Willis",
+        "givenName" : "Willis",
+        "familyName" : "Ott",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Rebecca",
+        "familyName" : "de Burke Ott"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1983",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34387",
+      "type" : "OTHER"
+    }, {
+      "id" : "ignaciano_ott1983_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cochabamba",
+      "publisher" : "Inst. Lingüístico de Verano [u.a.]"
+    },
+    "freeKeywords" : "LoC Class: PM6195 .Z51, LoC Subject Headings: Spanish language -- Dictionaries -- Ignaciano, LoC Subject Headings: Mojo language -- Dictionaries -- Spanish",
+    "subjects" : [ {
+      "value" : "ign - Ignaciano",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "644 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405189",
+    "name" : "http://www.sil.org/acpub/repository/18865_front.pdf",
+    "creationDate" : "2010-04-01T13:03:05.453+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/acpub/repository/18865_front.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "480b8caa98d8182be51e22476cd9f031",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/acpub/repository/18865_front.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405190",
+    "name" : "ignaciano_ott1983_o.pdf",
+    "creationDate" : "2010-04-01T13:03:05.932+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-89C0-2",
+    "content" : "/rest/items/item_405191_3/component/file_405190/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "712fd7637580bc3ba01a1f1ca34a2bf8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10839691,
+    "metadata" : {
+      "title" : "ignaciano_ott1983_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10839691
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

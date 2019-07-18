@@ -1,0 +1,120 @@
+{
+  "objectId" : "item_406179",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-05-06T11:50:59.092+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C7C7-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-06T11:50:59.092+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8F3D-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:31:17.226+0000",
+  "latestRelease" : {
+    "objectId" : "item_406179",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-05-06T11:50:59.092+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7C7-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406179",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-05-06T11:50:59.092+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7C7-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Wörtersammlung brasilianischer Sprachen : glossaria linguarum brasiliensium. glossarios de diversas lingoas e dialectos, que fallao os Indios no imperio do Brazil",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Karl Friedrich Philipp von",
+        "familyName" : "Martius",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1867",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "36438",
+      "type" : "OTHER"
+    }, {
+      "id" : "brasilianischer_martius1867_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Leipzig",
+      "publisher" : "Fleischer"
+    },
+    "sources" : [ {
+      "title" : "Beiträge zur Ethnographie und Sprachenkunde Amerikas zumal Brasiliens",
+      "volume" : "2",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Indians of South America--Brazil--Languages",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "7 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: F2519, \nLoC Subject Headings: Indians of South America--Brazil--Languages--Dictionaries, Tupi language--Dictionaries--Portuguese, Tupi language--Dictionaries--German"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406178",
+    "name" : "brasilianischer_martius1867_o.pdf",
+    "creationDate" : "2010-04-01T13:31:17.080+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8F3C-4",
+    "content" : "/rest/items/item_406179_5/component/file_406178/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "bdb12551f812f40fc3b4fd096991bf41",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 457389,
+    "metadata" : {
+      "title" : "brasilianischer_martius1867_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 457389
+    }
+  } ]
+}

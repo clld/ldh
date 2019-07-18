@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_403758",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-11T11:37:01.413+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-68BE-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-11T11:37:01.413+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-81A3-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:23:52.289+0000",
+  "latestRelease" : {
+    "objectId" : "item_403758",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T11:37:01.413+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-68BE-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403758",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T11:37:01.413+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-68BE-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulario Pampango-Tagalog-Inglés",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Gavino",
+        "familyName" : "Dimalanta",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1914",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31696",
+      "type" : "OTHER"
+    }, {
+      "id" : "pampanga_dimalanta.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Manila",
+      "publisher" : "Martinez"
+    },
+    "freeKeywords" : "LoC Class: PL5992, LoC Subject Headings: Pampanga language, LoC Subject Headings: Tagalog language, LoC Subject Headings: English language",
+    "subjects" : [ {
+      "value" : "tgl - Tagalog",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "pam - Pampanga",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "iv, 239 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL5992,\nLoC Subject Headings: Pampanga language --Dictionaries --English, Tagalog language --Dictionaries --English, English language --Dictionaries --Pampanga, English language --Dictionaries --Tagalog"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403757",
+    "name" : "pampanga_dimalanta.pdf",
+    "creationDate" : "2010-04-01T12:23:51.744+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-81A2-A",
+    "content" : "/rest/items/item_403758_3/component/file_403757/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9bb3fcac7805755e78cad1d1414914be",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5319732,
+    "metadata" : {
+      "title" : "pampanga_dimalanta.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5319732
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110932",
+    "name" : "https://archive.org/details/aaw9129.0001.001.umich.edu",
+    "creationDate" : "2015-03-11T11:35:58.473+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/aaw9129.0001.001.umich.edu",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d7006b7dbb312682b3490a934749cd38",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/aaw9129.0001.001.umich.edu",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,112 @@
+{
+  "objectId" : "item_2157088",
+  "versionNumber" : 4,
+  "modificationDate" : "2017-10-23T11:46:51.117+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-002E-0F70-D",
+  "modifier" : {
+    "objectId" : "user_2073577"
+  },
+  "message" : "Release during adding DOI",
+  "lastModificationDate" : "2017-10-23T11:46:51.117+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0027-7643-7",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2015-05-28T07:48:13.411+0000",
+  "latestRelease" : {
+    "objectId" : "item_2157088",
+    "versionNumber" : 4,
+    "modificationDate" : "2017-10-23T11:46:51.117+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002E-0F70-D",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2157088",
+    "versionNumber" : 4,
+    "modificationDate" : "2017-10-23T11:46:51.117+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002E-0F70-D",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "A Grammar of Toro Tegu (Dogon) Tabi mountain dialect : Dogon language family Mali",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jeffrey",
+        "familyName" : "Heath",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedOnline" : "2015-05",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "10.17617/2.2157088",
+      "type" : "DOI"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Ann Arbor]",
+      "publisher" : "Univ. of Michigan"
+    },
+    "freeKeywords" : "LoC Class: PL8139.1, LoC Subject Headings: Dogon language",
+    "subjects" : [ {
+      "value" : "dtt - Toro Tegu Dogon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiv, 450 S."
+  },
+  "files" : [ {
+    "objectId" : "file_2157087",
+    "name" : "torotegu_heath2015_o.pdf",
+    "creationDate" : "2015-05-28T07:48:12.704+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0027-7645-3",
+    "content" : "/rest/items/item_2157088_4/component/file_2157087/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ca4dd86051cb66341b46864ffc65cd6f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 45486493,
+    "metadata" : {
+      "title" : "torotegu_heath2015_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 45486493,
+      "copyrightDate" : "2015-05-24",
+      "rights" : "©by the author",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

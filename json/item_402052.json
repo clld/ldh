@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_402052",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-10T12:01:59.866+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-AE41-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-10T12:01:59.866+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-76D0-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:24:50.633+0000",
+  "latestRelease" : {
+    "objectId" : "item_402052",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T12:01:59.866+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-AE41-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402052",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T12:01:59.866+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-AE41-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Causality marking across levels of language structure : a cognitive semantic analysis of causal verbs and causal connectives in Dutch",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ninne Maria",
+        "familyName" : "Stukker",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29015",
+      "type" : "OTHER"
+    }, {
+      "id" : "dutch_stukker2005_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "90-76864-84-5",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Utrecht",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PF369, LoC Subject Headings: Dutch language",
+    "subjects" : [ {
+      "value" : "nld - Dutch",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "X, 298 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PF369, LoC Subject Headings: Dutch language--Causative, LoC Subject Headings: Dutch language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402051",
+    "name" : "dutch_stukker2005_s.pdf",
+    "creationDate" : "2010-04-01T11:24:49.848+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-76CF-E",
+    "content" : "/rest/items/item_402052_4/component/file_402051/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ef4bd5ff17964bd0e0cf03e5f743dcf9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7772955,
+    "metadata" : {
+      "title" : "dutch_stukker2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7772955
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2134733",
+    "name" : "http://dspace.library.uu.nl/handle/1874/8705",
+    "creationDate" : "2015-04-10T12:01:34.708+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dspace.library.uu.nl/handle/1874/8705",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "afca13eef5fc768485d5bed486e43930",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dspace.library.uu.nl/handle/1874/8705",
+      "contentCategory" : "publisher-version",
+      "description" : "Utrecht Univ., Repository, pdf download",
+      "size" : 0
+    }
+  } ]
+}

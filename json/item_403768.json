@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_403768",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-11T08:28:44.223+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-1EE5-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz ergänzt",
+  "lastModificationDate" : "2015-03-11T08:28:44.223+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-81B2-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:24:06.457+0000",
+  "latestRelease" : {
+    "objectId" : "item_403768",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T08:28:44.223+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-1EE5-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403768",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T08:28:44.223+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-1EE5-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Nueva gramatica Hispano-Tagala",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Rosendo",
+        "familyName" : "Iganacio",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1921",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31717",
+      "type" : "OTHER"
+    }, {
+      "id" : "tagala_ignacio1921.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1. Aufl.",
+      "place" : "Maynila",
+      "publisher" : "Imp. P. Sayo balo ni Soriano"
+    },
+    "freeKeywords" : "LoC Class: PL6053, LoC Subject Headings: Tagalog language",
+    "subjects" : [ {
+      "value" : "tgl - Tagalog",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "323 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6053, LoC Subject Headings: Tagalog language--Grammar, Comparative--Spanish, Spanish language --Grammar, Comparative--Tagalog"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403767",
+    "name" : "tagala_ignacio1921.pdf",
+    "creationDate" : "2010-04-01T12:24:04.844+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-81B1-8",
+    "content" : "/rest/items/item_403768_3/component/file_403767/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1a3abd062423d8ed7cda7c4a87ec0cc3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 16029066,
+    "metadata" : {
+      "title" : "tagala_ignacio1921.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 16029066
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110818",
+    "name" : "https://archive.org/details/aqm0427.0001.001.umich.edu",
+    "creationDate" : "2015-03-11T08:28:14.694+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/aqm0427.0001.001.umich.edu",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "08a135764ea055289671b2ad68d831aa",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/aqm0427.0001.001.umich.edu",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

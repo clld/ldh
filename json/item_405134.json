@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_405134",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:35:40.687+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8975-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:35:40.687+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8975-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:55:53.354+0000",
+  "latestRelease" : {
+    "objectId" : "item_405134",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:35:40.687+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8975-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405134",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:35:40.687+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8975-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "La traduction médicale du français vers le mooré et le bisa : un cas de communication interculturelle au Burkina Faso",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Yoda, Lalbila Aristide",
+        "givenName" : "Lalbila Aristide",
+        "familyName" : "Yoda",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34364",
+      "type" : "OTHER"
+    }, {
+      "id" : "francais_yoda2005_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "90-367-2281-0",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Groningen",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PL8025.1,\nLoC Subject Headings: Bisa language",
+    "subjects" : [ {
+      "value" : "bib - Bissa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "II, 369 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405132",
+    "name" : "http://dissertations.ub.rug.nl/FILES/faculties/arts/2005/l.a.yoda/thesis.pdf",
+    "creationDate" : "2010-04-01T12:55:51.590+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8973-0",
+    "content" : "http://dissertations.ub.rug.nl/FILES/faculties/arts/2005/l.a.yoda/thesis.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "87f2720ca58ad0e23a4177a3b96e55d5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dissertations.ub.rug.nl/FILES/faculties/arts/2005/l.a.yoda/thesis.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405133",
+    "name" : "francais_yoda2005_s.pdf",
+    "creationDate" : "2010-04-01T12:55:52.645+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8974-E",
+    "content" : "/rest/items/item_405134_2/component/file_405133/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "152d6094c24792e790a9bc60363c2a14",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6328755,
+    "metadata" : {
+      "title" : "francais_yoda2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6328755
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

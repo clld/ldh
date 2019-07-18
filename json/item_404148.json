@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_404148",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-19T09:01:22.856+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-D0BB-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-05-19T09:01:22.856+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-83D8-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:35:47.126+0000",
+  "latestRelease" : {
+    "objectId" : "item_404148",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-19T09:01:22.856+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D0BB-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404148",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-19T09:01:22.856+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D0BB-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "An ethnographic account of language documentation among the Kurripako of Venezuela",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Tania",
+        "familyName" : "Granadillo",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32327",
+      "type" : "OTHER"
+    }, {
+      "id" : "kurripako_granadillo2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Tucson, Ariz.]",
+      "publisher" : "Univ. of Arizona"
+    },
+    "freeKeywords" : "LoC Class: P128.D63, LoC Subject Headings: Linguistics--Documentation, LoC Subject Headings: Language and Languages--Documentation, LoC Subject Headings: Kurripako language",
+    "subjects" : [ {
+      "value" : "kpc - Curripaco",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "235 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404147",
+    "name" : "kurripako_granadillo2006_s.pdf",
+    "creationDate" : "2010-04-01T12:35:46.828+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-83D7-6",
+    "content" : "/rest/items/item_404148_4/component/file_404147/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6c0ee2fa4b0de65cb16468b688654d5f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2455455,
+    "metadata" : {
+      "title" : "kurripako_granadillo2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2455455
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2156093",
+    "name" : "http://hdl.handle.net/10150/195916",
+    "creationDate" : "2015-05-19T08:59:37.030+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/10150/195916",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "bcd505816e190e8724ad212963da2463",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/10150/195916",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Arizona, UA Campus Repository, UA Theses and Dissertations, pdf download",
+      "size" : 0
+    }
+  } ]
+}

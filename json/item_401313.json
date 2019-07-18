@@ -1,0 +1,158 @@
+{
+  "objectId" : "item_401313",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-08-20T10:38:15.586+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-C04C-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2014-08-20T10:38:15.586+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-72A5-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:09:40.131+0000",
+  "latestRelease" : {
+    "objectId" : "item_401313",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-20T10:38:15.586+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C04C-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401313",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-20T10:38:15.586+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C04C-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The expression of modality in Korean",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Adrian Thomas",
+        "familyName" : "Wymann",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1996",
+    "datePublishedInPrint" : "1996",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "25893",
+      "type" : "OTHER"
+    }, {
+      "id" : "korean_wymann1996_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Bern",
+      "publisher" : "Eigenverl."
+    },
+    "freeKeywords" : "LoC Class: PL921,\nLoC Subject Headings: Korean language",
+    "subjects" : [ {
+      "value" : "kor - Korean",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "v, 236 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL921,\nLoC Subject Headings: Korean language--Modality"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401312",
+    "name" : "korean_wymann1996_s.pdf",
+    "creationDate" : "2010-04-01T11:09:39.971+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-72A4-E",
+    "content" : "/rest/items/item_401313_4/component/file_401312/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "978d0389abfded112f627ddd307bf0e0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1033148,
+    "metadata" : {
+      "title" : "korean_wymann1996_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1033148
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2032890",
+    "name" : "http://www.isw.unibe.ch/content/forschung/arbeiten_von_studierenden/dissertationen/index_ger.html",
+    "creationDate" : "2014-06-12T08:57:59.454+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.isw.unibe.ch/content/forschung/arbeiten_von_studierenden/dissertationen/index_ger.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "945cc09dfa30d64c112c332148c288cb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.isw.unibe.ch/content/forschung/arbeiten_von_studierenden/dissertationen/index_ger.html",
+      "contentCategory" : "publisher-version",
+      "description" : "University of Bern, Institute of linguistics, Dissertations, Wymann, Adrian, 1996, 'The expression of modality in Korean', pdf-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2032891",
+    "name" : "http://www.isw.unibe.ch/content/forschung/arbeiten_von_studierenden/dissertationen/e4229/e4357/e4536/e5028/e5031/aw_diss_ger.pdf",
+    "creationDate" : "2014-06-12T08:57:59.610+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-B9D8-A",
+    "content" : "http://www.isw.unibe.ch/content/forschung/arbeiten_von_studierenden/dissertationen/e4229/e4357/e4536/e5028/e5031/aw_diss_ger.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "dc2ecd6d6e9d19b27858b862127aff17",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.isw.unibe.ch/content/forschung/arbeiten_von_studierenden/dissertationen/e4229/e4357/e4536/e5028/e5031/aw_diss_ger.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "direct link to pdf-version",
+      "size" : 0
+    }
+  } ]
+}

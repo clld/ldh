@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_407094",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:34:38.910+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9455-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:34:38.910+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9455-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:54:17.705+0000",
+  "latestRelease" : {
+    "objectId" : "item_407094",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:34:38.910+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9455-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407094",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:34:38.910+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9455-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Lingua, naça~o e nacionalismo : um estudo sobre o Guarani no Paraguai",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Rodríguez Zuccolillo, Carolina Maria",
+        "givenName" : "Rodríguez",
+        "familyName" : "Zuccolillo",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37636",
+      "type" : "OTHER"
+    }, {
+      "id" : "guarani_rodriguez2000_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : " Univ. Estadual"
+    },
+    "freeKeywords" : "LoC Class: PM7171,\nLoC Subject Headings: Guarani language",
+    "subjects" : [ {
+      "value" : "gug - Guaraní, Paraguayan",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "254 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407092",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000219995",
+    "creationDate" : "2010-04-01T13:54:15.765+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9453-1",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000219995",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "835f9886c04b1f8ca120a38464e8df70",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000219995",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407093",
+    "name" : "guarani_rodriguez2000_o.pdf",
+    "creationDate" : "2010-04-01T13:54:16.702+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9454-0",
+    "content" : "/rest/items/item_407094_2/component/file_407093/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "daadb924fdfdf190f624862d4fcc438d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10319422,
+    "metadata" : {
+      "title" : "guarani_rodriguez2000_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10319422
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

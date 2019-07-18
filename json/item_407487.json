@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_407487",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-05-29T10:40:05.360+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0027-7852-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-29T10:40:05.360+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9676-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:13:58.255+0000",
+  "latestRelease" : {
+    "objectId" : "item_407487",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-29T10:40:05.360+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0027-7852-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407487",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-29T10:40:05.360+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0027-7852-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Ortografia Kaxarari - uma proposta",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Alexandre",
+        "familyName" : "Couto",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateCreated" : "2005-04-11",
+    "datePublishedInPrint" : "2005",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "39021",
+      "type" : "OTHER"
+    }, {
+      "id" : "kaxarari_cuoto2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Porto Velho"
+    },
+    "freeKeywords" : "LoC Class: PM6773,\nLoC Subject Headings: Panoan languages",
+    "subjects" : [ {
+      "value" : "ktx - Kaxararí",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "27 p."
+  },
+  "files" : [ {
+    "objectId" : "file_407485",
+    "name" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "creationDate" : "2010-04-01T14:13:57.564+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9530a75a4c45ff6625118b724949a812",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Brazil, Publications, Language Name, KAXARARI, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407486",
+    "name" : "kaxarari_cuoto2005_s.pdf",
+    "creationDate" : "2010-04-01T14:13:58.165+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9675-3",
+    "content" : "/rest/items/item_407487_3/component/file_407486/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e361fde8f2266c3acbee623ca9b3fad0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 268875,
+    "metadata" : {
+      "title" : "kaxarari_cuoto2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 268875
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

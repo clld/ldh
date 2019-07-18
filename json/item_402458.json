@@ -1,0 +1,117 @@
+{
+  "objectId" : "item_402458",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T09:32:57.721+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7944-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:32:57.721+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7944-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:32:02.671+0000",
+  "latestRelease" : {
+    "objectId" : "item_402458",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:32:57.721+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7944-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402458",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:32:57.721+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7944-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammaire et vocabulaire de la langue poul : á l'usage des voyageurs dans le Soudan, avec une carte indiquant les contrées où se parle cette langue",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Louis León César",
+        "familyName" : "Faidherbe",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1882",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29916",
+      "type" : "OTHER"
+    }, {
+      "id" : "poul_faidherbe1882_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "2. ed.",
+      "place" : "Paris",
+      "publisher" : "Maisonneuve,"
+    },
+    "freeKeywords" : "LoC Subject Headings: Fula language",
+    "subjects" : [ {
+      "value" : "fub - Fulfulde, Adamawa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "165 S.",
+    "abstracts" : [ {
+      "value" : "PL8181, Fula language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402457",
+    "name" : "poul_faidherbe1882_o.pdf",
+    "creationDate" : "2010-04-01T11:32:02.091+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7943-E",
+    "content" : "/rest/items/item_402458_3/component/file_402457/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "abc142be8706c91b2fe61c7d5dac25d9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5586920,
+    "metadata" : {
+      "title" : "poul_faidherbe1882_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5586920,
+      "rights" : "not in copyright; Louis Leon César 1865-1925"
+    }
+  } ]
+}

@@ -1,0 +1,154 @@
+{
+  "objectId" : "item_401524",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-13T09:53:29.004+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CD52-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-13T09:53:29.004+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-73CB-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:13:33.620+0000",
+  "latestRelease" : {
+    "objectId" : "item_401524",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-13T09:53:29.004+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD52-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401524",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-13T09:53:29.004+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD52-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dicionário crioulo karipúna-português, português-crioulo karipúna",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Alfred W.",
+        "familyName" : "Tobler",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1987",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "27055",
+      "type" : "OTHER"
+    }, {
+      "id" : "karipuna_tobler1987_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Brasília",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PM7854.K57, LoC Subject Headings: Karipuna Creole dialect",
+    "subjects" : [ {
+      "value" : "kmv - Karipúna Creole French",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix, 173 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401522",
+    "name" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/KADic.pdf",
+    "creationDate" : "2010-04-01T11:13:31.403+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-73C9-3",
+    "content" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/KADic.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "21b006dae19aa78db5d265b16f6e5c7b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/KADic.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Brazil, Publications, Dictionaries and Grammars, direct link to pdf version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401523",
+    "name" : "karipuna_tobler1987_s.pdf",
+    "creationDate" : "2010-04-01T11:13:33.531+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-73CA-1",
+    "content" : "/rest/items/item_401524_4/component/file_401523/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "32193716f1283ce4a32405a6048daad8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 326347,
+    "metadata" : {
+      "title" : "karipuna_tobler1987_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 326347
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2154499",
+    "name" : "http://www-01.sil.org/americas/brasil/SILbpub.html",
+    "creationDate" : "2015-05-13T09:53:11.038+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www-01.sil.org/americas/brasil/SILbpub.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9530a75a4c45ff6625118b724949a812",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www-01.sil.org/americas/brasil/SILbpub.html",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Brazil, Publications, Dictionaries and Grammars, pdf download",
+      "size" : 0
+    }
+  } ]
+}

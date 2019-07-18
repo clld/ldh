@@ -1,0 +1,155 @@
+{
+  "objectId" : "item_2071099",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-17T09:47:21.994+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7810-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-17T09:47:21.994+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0024-361F-3",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-11-14T14:19:37.387+0000",
+  "latestRelease" : {
+    "objectId" : "item_2071099",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-17T09:47:21.994+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7810-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2071099",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-17T09:47:21.994+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7810-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Multiple semiotic systems, hyperpolysemy, and the reconstruction of semantic change in Australian languages",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Nicholas",
+        "familyName" : "Evans",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1992",
+    "genre" : "BOOK_ITEM",
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Diachrony within Synchrony: Language History and Cognition ; papers from the International Symposium at the University of Duisburg 26-28 March 1990",
+      "creators" : [ {
+        "person" : {
+          "givenName" : "Günter",
+          "familyName" : "Kellermann",
+          "organizations" : [ {
+            "identifier" : "ou_persistent22",
+            "name" : "External Organizations",
+            "identifierPath" : [ "ou_persistent22" ]
+          } ]
+        },
+        "role" : "EDITOR",
+        "type" : "PERSON"
+      }, {
+        "person" : {
+          "givenName" : "Michael D.",
+          "familyName" : "Morrissey",
+          "organizations" : [ {
+            "identifier" : "ou_persistent22",
+            "name" : "External Organizations",
+            "identifierPath" : [ "ou_persistent22" ]
+          } ]
+        },
+        "role" : "AUTHOR",
+        "type" : "PERSON"
+      } ],
+      "startPage" : "475",
+      "endPage" : "508",
+      "publishingInfo" : {
+        "place" : "Frankfurt am Main [u.a.]",
+        "publisher" : "Lang"
+      },
+      "identifiers" : [ {
+        "id" : "3-631-45112-1 ",
+        "type" : "ISBN"
+      } ],
+      "genre" : "BOOK",
+      "totalNumberOfPages" : "XI, 563 S."
+    }, {
+      "title" : "Duisburger Arbeiten zur Sprach- und Kulturwissenschaft",
+      "alternativeTitles" : [ {
+        "value" : "Duisburg papers on research in language and culture",
+        "type" : "OTHER"
+      } ],
+      "volume" : "14",
+      "publishingInfo" : {
+        "place" : "Frankfurt am Main [u.a.]",
+        "publisher" : "Lang"
+      },
+      "identifiers" : [ {
+        "id" : "0934-3709",
+        "type" : "ISSN"
+      } ],
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL7009, LoC Subject Headings: Australian languages",
+    "totalNumberOfPages" : "34 S."
+  },
+  "files" : [ {
+    "objectId" : "file_2071098",
+    "name" : "australianlanguages_evans1992_ocr.pdf",
+    "creationDate" : "2014-11-14T14:19:37.218+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-3621-C",
+    "content" : "/rest/items/item_2071099_5/component/file_2071098/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b7ff3136f5db2110196185d691a63b18",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1319531,
+    "metadata" : {
+      "title" : "australianlanguages_evans1992_ocr.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1319531,
+      "copyrightDate" : "2014-07-11",
+      "rights" : "c by the author"
+    }
+  } ]
+}

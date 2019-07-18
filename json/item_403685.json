@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403685",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T10:05:57.048+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-812E-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:05:57.048+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-812E-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:22:13.394+0000",
+  "latestRelease" : {
+    "objectId" : "item_403685",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T10:05:57.048+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-812E-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403685",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T10:05:57.048+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-812E-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Arte de la lengua tagala, y Manual tagalog",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Sebastián de",
+        "familyName" : "Totanes",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1865",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31509",
+      "type" : "OTHER"
+    }, {
+      "id" : "tagala_totanes1865.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Binondo",
+      "publisher" : "Impr. de M. Sanchez"
+    },
+    "freeKeywords" : "LoC Subject Headings: Tagalog language",
+    "subjects" : [ {
+      "value" : "tgl - Tagalog",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xi, 131 S.",
+    "abstracts" : [ {
+      "value" : "PL6054, ISO 639-3 : tgl, Tagalog language --Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403684",
+    "name" : "tagala_totanes1865.pdf",
+    "creationDate" : "2010-04-01T12:22:12.335+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-812D-5",
+    "content" : "/rest/items/item_403685_4/component/file_403684/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "50f61653aba3745868214699239314f1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10700875,
+    "metadata" : {
+      "title" : "tagala_totanes1865.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10700875,
+      "copyrightDate" : "2010-11-16",
+      "rights" : "public domain, Sebastián de Totanes 1687-1748"
+    }
+  } ]
+}

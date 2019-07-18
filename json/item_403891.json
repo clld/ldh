@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403891",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-10T09:56:31.367+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-E4B8-A",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-10T09:56:31.367+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8264-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:28:36.246+0000",
+  "latestRelease" : {
+    "objectId" : "item_403891",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-10T09:56:31.367+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-E4B8-A",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403891",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-10T09:56:31.367+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-E4B8-A",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of Makonde (Chinnima, Tanzania)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Pieter Jacob",
+        "familyName" : "Kraal",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31974",
+      "type" : "OTHER"
+    }, {
+      "id" : "makonde_kraal2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Leiden",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL8482.M81,\nLoC Subject Headings: Makonde language",
+    "subjects" : [ {
+      "value" : "kde - Makonde",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiii, 442 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8482.M81,\nLoC Subject Headings: Makonde language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403890",
+    "name" : "makonde_kraal2005_s.pdf",
+    "creationDate" : "2010-04-01T12:28:35.374+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8263-0",
+    "content" : "/rest/items/item_403891_3/component/file_403890/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a5758d25b1622ff809b898af8343c83a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8798743,
+    "metadata" : {
+      "title" : "makonde_kraal2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8798743
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2036553",
+    "name" : "http://hdl.handle.net/1887/4271",
+    "creationDate" : "2014-07-02T07:18:48.243+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-E4BA-6",
+    "content" : "http://hdl.handle.net/1887/4271",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5cfd3423955bc41ae721a007b2338a5f",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1887/4271",
+      "contentCategory" : "any-fulltext",
+      "description" : "Leiden Univ. Repository, pdf",
+      "size" : 0
+    }
+  } ]
+}

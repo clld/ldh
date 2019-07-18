@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_407088",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T20:05:27.247+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F8E-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:05:27.247+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-944D-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:54:13.017+0000",
+  "latestRelease" : {
+    "objectId" : "item_407088",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:05:27.247+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F8E-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407088",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:05:27.247+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F8E-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Da aldeia ao asfalto : o percurso sociolinguistico dos indios residentes no Distrito de Riozinho, Municipio de Cacoal, Estado de Rondonia",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Pessoa, Maria do Socorro",
+        "givenName" : "Maria do Socorro",
+        "familyName" : "Pessoa",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37631",
+      "type" : "OTHER"
+    }, {
+      "id" : "asfalto_pessoa2003_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : " Univ. Estadual de Campinas"
+    },
+    "freeKeywords" : "LoC Class: F2520.1.S86, LoC Subject Headings: Surui Indians, LoC Subject Headings: Surui language, LoC Subject Headings: Portuguese language",
+    "subjects" : [ {
+      "value" : "sru - Suruí",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "por - Portuguese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "172 Bl."
+  },
+  "files" : [ {
+    "objectId" : "file_407086",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000316155",
+    "creationDate" : "2010-04-01T13:54:10.959+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000316155",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6edea522aacef002392e48ab46ff478d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000316155",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407087",
+    "name" : "asfalto_pessoa2003_o.pdf",
+    "creationDate" : "2010-04-01T13:54:12.240+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-944C-4",
+    "content" : "/rest/items/item_407088_3/component/file_407087/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b3f16b8224d09b448defbb032e6e8011",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7575030,
+    "metadata" : {
+      "title" : "asfalto_pessoa2003_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7575030
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

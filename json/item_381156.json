@@ -1,0 +1,129 @@
+{
+  "objectId" : "item_381156",
+  "versionNumber" : 8,
+  "modificationDate" : "2011-06-21T08:53:54.140+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-67E9-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-21T08:53:54.140+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-67E9-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-03-05T20:24:24.972+0000",
+  "latestRelease" : {
+    "objectId" : "item_381156",
+    "versionNumber" : 8,
+    "modificationDate" : "2011-06-21T08:53:54.140+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-67E9-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_381156",
+    "versionNumber" : 8,
+    "modificationDate" : "2011-06-21T08:53:54.140+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-67E9-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "Linglit Import 3 2010-03-05 17:04" ],
+  "metadata" : {
+    "title" : "On the content of empty categories",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Bouchard, Denis",
+        "givenName" : "Denis",
+        "familyName" : "Bouchard",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1982",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34355",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "freeKeywords" : "LoC Subject Headings: Generative grammar",
+    "totalNumberOfPages" : "514 S.",
+    "abstracts" : [ {
+      "value" : "P158 , Generative grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_381154",
+    "name" : "http://hdl.handle.net/1721.1/15800",
+    "creationDate" : "2010-03-05T20:24:21.781+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-67E7-2",
+    "content" : "http://hdl.handle.net/1721.1/15800",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "55a640f6ea81c8415c4f1ef262d3ab87",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/15800",
+      "contentCategory" : "publisher-version",
+      "description" : "DSpace@MIT",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_381155",
+    "name" : "emptycategories_bouchard1982_o.pdf",
+    "creationDate" : "2010-03-05T20:24:22.572+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-67E8-F",
+    "content" : "/rest/items/item_381156_8/component/file_381155/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8304bde7f96d9cd6b894abae13b57faf",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 25459867,
+    "metadata" : {
+      "title" : "emptycategories_bouchard1982_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 25459867,
+      "copyrightDate" : "2010-01-18",
+      "rights" : "non-exclusive permission from Massachusetts Institute of Technology/Cambridge Massachusetts (2010-04-26)"
+    }
+  } ]
+}

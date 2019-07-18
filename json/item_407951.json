@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_407951",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:48:04.073+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9900-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:48:04.073+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9900-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:25:30.273+0000",
+  "latestRelease" : {
+    "objectId" : "item_407951",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:48:04.073+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9900-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407951",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:48:04.073+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9900-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The Flamingo Bay dialect of the Asmat language",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Voorhoeve, C.L.",
+        "givenName" : "C.L.",
+        "familyName" : "Voorhoeve",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1965",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "41948",
+      "type" : "OTHER"
+    }, {
+      "id" : "asmat_voorhoeve1965_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "'S-Gravenhage",
+      "publisher" : "Nijhoff"
+    },
+    "sources" : [ {
+      "title" : "Verhandelingen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde",
+      "volume" : "46",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6621.A8,\nLoC Subject Headings: Asmat language",
+    "subjects" : [ {
+      "value" : "asy - Yaosakor Asmat",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xi, 368 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407949",
+    "name" : "http://www.papuaweb.org/dlib/bk1/kitlv/index.html#voorhoeve-1965",
+    "creationDate" : "2010-04-01T14:25:27.364+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-98FE-3",
+    "content" : "http://www.papuaweb.org/dlib/bk1/kitlv/index.html#voorhoeve-1965",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0039535bcef3556cdde8d2e03f4e890d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.papuaweb.org/dlib/bk1/kitlv/index.html#voorhoeve-1965",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407950",
+    "name" : "asmat_voorhoeve1965_o.pdf",
+    "creationDate" : "2010-04-01T14:25:28.752+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-98FF-1",
+    "content" : "/rest/items/item_407951_2/component/file_407950/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "33faa0e736a8a54e307bddfb64cc8e95",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 16004127,
+    "metadata" : {
+      "title" : "asmat_voorhoeve1965_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 16004127
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

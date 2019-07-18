@@ -1,0 +1,119 @@
+{
+  "objectId" : "item_403396",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T10:40:38.880+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7ECF-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:40:38.880+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7ECF-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:17:45.943+0000",
+  "latestRelease" : {
+    "objectId" : "item_403396",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:40:38.880+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7ECF-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403396",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:40:38.880+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7ECF-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Borrowing and standardization in Aghem",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Attia, Lilian Mbi",
+        "givenName" : "Lilian Mbi",
+        "familyName" : "Attia",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31205",
+      "type" : "OTHER"
+    }, {
+      "id" : "aghem_mbi2004_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Aghem language",
+    "subjects" : [ {
+      "value" : "agq - Aghem",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "x, 124 S.",
+    "abstracts" : [ {
+      "value" : "PL8025, ISO 639-3 : agq, Aghem language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403395",
+    "name" : "aghem_mbi2004_o.pdf",
+    "creationDate" : "2010-04-01T12:17:45.527+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7ECE-3",
+    "content" : "/rest/items/item_403396_3/component/file_403395/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fdf020bb2c9c97861867d04af86936a5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3834442,
+    "metadata" : {
+      "title" : "aghem_mbi2004_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3834442,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "PL8021.C35, ISO 639-3 : ael, Cameroon --Languages"
+    }
+  } ]
+}

@@ -1,0 +1,128 @@
+{
+  "objectId" : "item_405383",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-24T12:25:29.708+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C04C-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-24T12:25:29.708+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8AC8-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:09:05.362+0000",
+  "latestRelease" : {
+    "objectId" : "item_405383",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-24T12:25:29.708+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C04C-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405383",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-24T12:25:29.708+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C04C-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Tone in the Oku noun and verb",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Leslie",
+        "familyName" : "Davis",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1997",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "34766",
+      "type" : "OTHER"
+    }, {
+      "id" : "oku_davis1997_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "freeKeywords" : "LoC Class: PL8219, LoC Subject Headings: Oku language ",
+    "subjects" : [ {
+      "value" : "oku - Oku",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "19 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405382",
+    "name" : "oku_davis1997_o.pdf",
+    "creationDate" : "2010-04-01T13:09:05.241+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8AC7-E",
+    "content" : "/rest/items/item_405383_3/component/file_405382/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0750f53497455d1fc32d8aec33b03f98",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 576905,
+    "metadata" : {
+      "title" : "oku_davis1997_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 576905
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2148966",
+    "name" : "http://www.silcam.org/folder030401/page.php",
+    "creationDate" : "2015-04-24T12:25:02.678+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.silcam.org/folder030401/page.php",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8b584eaeed85b5cbd0cd79404641a64a",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.silcam.org/folder030401/page.php",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Cameroon, Publications, pdf download",
+      "size" : 0
+    }
+  } ]
+}

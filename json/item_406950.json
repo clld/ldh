@@ -1,0 +1,152 @@
+{
+  "objectId" : "item_406950",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-02-25T10:28:02.349+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-E2AA-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-02-25T10:28:02.349+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9387-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:50:57.177+0000",
+  "latestRelease" : {
+    "objectId" : "item_406950",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-25T10:28:02.349+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E2AA-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406950",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-25T10:28:02.349+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E2AA-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammaire, dialogues et dictionnaire touaregs",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Adolphe de",
+        "familyName" : "Calassanti-Motylinski",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "René",
+        "familyName" : "Basset",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Charles de",
+        "familyName" : "Foucauld"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1908",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37532",
+      "type" : "OTHER"
+    }, {
+      "id" : "touareg_basset1908_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Alger",
+      "publisher" : "Fontana"
+    },
+    "freeKeywords" : "LoC Class: PJ2381,\nLoC Subject Headings: Tamashek language",
+    "subjects" : [ {
+      "value" : "thv - Tahaggart Tamahaq",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "328 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406949",
+    "name" : "touareg_basset1908_o.pdf",
+    "creationDate" : "2010-04-01T13:50:55.712+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9386-8",
+    "content" : "/rest/items/item_406950_3/component/file_406949/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c2a0147b20bc25aa17c7cbf6acc5c3b9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 14788872,
+    "metadata" : {
+      "title" : "touareg_basset1908_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 14788872,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2104077",
+    "name" : "http://catalogue.bnf.fr/ark:/12148/cb309868336",
+    "creationDate" : "2015-02-25T10:27:19.012+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://catalogue.bnf.fr/ark:/12148/cb309868336",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "cb486b1f63aa42a2915db7723647cdb7",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://catalogue.bnf.fr/ark:/12148/cb309868336",
+      "contentCategory" : "publisher-version",
+      "description" : "Bibliothèque nationale de France, Digital library Gallica, view online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

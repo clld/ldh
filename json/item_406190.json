@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_406190",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-07-18T13:28:29.541+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0013-FA32-6",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "lastModificationDate" : "2013-07-18T13:28:29.541+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8F4E-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:31:24.847+0000",
+  "latestRelease" : {
+    "objectId" : "item_406190",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-07-18T13:28:29.541+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0013-FA32-6",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406190",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-07-18T13:28:29.541+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0013-FA32-6",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The perception of causality in infancy",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Rebecca",
+        "familyName" : "Saxe",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Susan",
+        "familyName" : "Carey"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2006",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "36443",
+      "type" : "OTHER"
+    }, {
+      "id" : "causality_saxe_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Acta psychologica",
+      "volume" : "123",
+      "issue" : "1-2",
+      "startPage" : "144",
+      "endPage" : "165",
+      "identifiers" : [ {
+        "id" : "0001-6918",
+        "type" : "ISSN"
+      } ],
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P292,\nLoC Subject Headings: Causative (Linguistics)",
+    "totalNumberOfPages" : "46 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406188",
+    "name" : "http://www.wjh.harvard.edu/~lds/pdfs/Saxe_inpress.doc",
+    "creationDate" : "2010-04-01T13:31:23.386+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8F4C-F",
+    "content" : "http://www.wjh.harvard.edu/~lds/pdfs/Saxe_inpress.doc",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3860699a30fdba1ee966acec87e5ef2c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.wjh.harvard.edu/~lds/pdfs/Saxe_inpress.doc",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406189",
+    "name" : "causality_saxe_s.pdf",
+    "creationDate" : "2010-04-01T13:31:24.739+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8F4D-D",
+    "content" : "/rest/items/item_406190_3/component/file_406189/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0a4110fcf0ed68ef52cf161d0ac109d7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 162415,
+    "metadata" : {
+      "title" : "causality_saxe_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 162415
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

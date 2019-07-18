@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_403143",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-11T09:58:10.474+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-20B7-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-11T09:58:10.474+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D5E-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:57:48.458+0000",
+  "latestRelease" : {
+    "objectId" : "item_403143",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T09:58:10.474+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-20B7-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403143",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T09:58:10.474+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-20B7-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Coordination",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Todd",
+        "familyName" : "Sjoblom",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1980",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31044",
+      "type" : "OTHER"
+    }, {
+      "id" : "coordination_sjoblom1980_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "1980"
+    },
+    "freeKeywords" : "LoC Class: P299, LoC Subject Headings: Grammar/Comparative and general--Coordinate constructions, LoC Subject Headings: English language",
+    "totalNumberOfPages" : "255 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: P299, LoC Subject Headings: Grammar/Comparative and general -- Coordinate constructions, English language -- Coordinate constructions, English language -- Conjunctions, English language -- Grammar, Generative"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403142",
+    "name" : "coordination_sjoblom1980_o.pdf",
+    "creationDate" : "2010-04-01T11:57:47.455+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D5D-3",
+    "content" : "/rest/items/item_403143_3/component/file_403142/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "36998f646ebb0f5bf5495a1c40dd7bd5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10232298,
+    "metadata" : {
+      "title" : "coordination_sjoblom1980_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10232298
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110866",
+    "name" : "http://hdl.handle.net/1721.1/15982",
+    "creationDate" : "2015-03-11T09:57:33.808+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/15982",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "fdfec1d14e404ce429482b630060ed83",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/15982",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_407302",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-08-07T09:50:12.109+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-268A-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-08-07T09:50:12.109+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9576-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:09:53.911+0000",
+  "latestRelease" : {
+    "objectId" : "item_407302",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-07T09:50:12.109+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-268A-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407302",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-07T09:50:12.109+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-268A-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Spatial conceptualizations in Kavalan",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jiang",
+        "familyName" : "Haowen",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38301",
+      "type" : "OTHER"
+    }, {
+      "id" : "kavalan_jiang2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Taipeh",
+      "publisher" : "National Taiwan Univ."
+    },
+    "freeKeywords" : "LoC Class: PL6156,\nLoC Subject Headings: Kavalan language",
+    "subjects" : [ {
+      "value" : "ckv - Kavalan",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "x, 219 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407301",
+    "name" : "kavalan_jiang2006_s.pdf",
+    "creationDate" : "2010-04-01T14:09:53.245+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9575-D",
+    "content" : "/rest/items/item_407302_3/component/file_407301/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e1f46d9fa1beb1020e9591b4aab0bd31",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6298547,
+    "metadata" : {
+      "title" : "kavalan_jiang2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6298547
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2049340",
+    "name" : "http://handle.ncl.edu.tw/11296/ndltd/83646875408688123915",
+    "creationDate" : "2014-08-07T09:47:37.273+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-268C-8",
+    "content" : "http://handle.ncl.edu.tw/11296/ndltd/83646875408688123915",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "18a52c6f482021f53b6720212b92b3c7",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://handle.ncl.edu.tw/11296/ndltd/83646875408688123915",
+      "contentCategory" : "publisher-version",
+      "description" : "NDLTD National Digital Library of Theses and Dissertations in Taiwan, zip file, pdf // fulltext access: free e-mail registration necessary",
+      "size" : 0
+    }
+  } ]
+}

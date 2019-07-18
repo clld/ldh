@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_402198",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-13T12:08:18.448+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CDBC-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-13T12:08:18.448+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-77CD-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:27:36.469+0000",
+  "latestRelease" : {
+    "objectId" : "item_402198",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-13T12:08:18.448+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CDBC-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402198",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-13T12:08:18.448+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CDBC-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Empty nuclei in Korean",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Sang Jik",
+        "familyName" : "Rhee",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29269",
+      "type" : "OTHER"
+    }, {
+      "id" : "korean_rhee2002_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "90-76864-21-7",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "freeKeywords" : "LoC Class: PL915, LoC Subject Headings: Korean language",
+    "subjects" : [ {
+      "value" : "kor - Korean",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "210 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402197",
+    "name" : "korean_rhee2002_s.pdf",
+    "creationDate" : "2010-04-01T11:27:36.317+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-77CC-C",
+    "content" : "/rest/items/item_402198_4/component/file_402197/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "dc7ee5212f9335fce617387204b5899e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 953298,
+    "metadata" : {
+      "title" : "korean_rhee2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 953298
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2155700",
+    "name" : "http://www.lotpublications.nl/empty-nuclei-in-korean-empty-nuclei-in-korean",
+    "creationDate" : "2015-05-13T12:07:51.520+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.lotpublications.nl/empty-nuclei-in-korean-empty-nuclei-in-korean",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6a606e26bde78ae88681d4aef3dea5fe",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lotpublications.nl/empty-nuclei-in-korean-empty-nuclei-in-korean",
+      "contentCategory" : "publisher-version",
+      "description" : "LOT Publications, free Open Access fulltext PDF",
+      "size" : 0
+    }
+  } ]
+}

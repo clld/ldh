@@ -1,0 +1,157 @@
+{
+  "objectId" : "item_403844",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-06-26T08:23:17.531+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-D17B-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-06-26T08:23:17.531+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8222-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:26:40.121+0000",
+  "latestRelease" : {
+    "objectId" : "item_403844",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-06-26T08:23:17.531+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D17B-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403844",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-06-26T08:23:17.531+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D17B-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A dictionary of the Gbari language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Roger",
+        "familyName" : "Blench",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1993",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31808",
+      "type" : "OTHER"
+    }, {
+      "id" : "gbari_blench1993_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "unpublished",
+      "place" : "[Cambridge]",
+      "publisher" : "[Gbari Gbadogun]"
+    },
+    "freeKeywords" : "LoC Class: PL8227.1, LoC Subject Headings: Gbari language",
+    "subjects" : [ {
+      "value" : "gby - Gbari",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "61, 11 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8227.1,\nLoC Subject Headings: Gbari language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403843",
+    "name" : "gbari_blench1993_s.pdf",
+    "creationDate" : "2010-04-01T12:26:40.041+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8221-6",
+    "content" : "/rest/items/item_403844_4/component/file_403843/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f261d54e74b3239f73a68eb81742f3f2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 265597,
+    "metadata" : {
+      "title" : "gbari_blench1993_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 265597
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2034922",
+    "name" : "http://www.rogerblench.info/Language/Niger-Congo/VN/Nupoid/NupOP.htm",
+    "creationDate" : "2014-06-26T08:22:48.469+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-D17C-5",
+    "content" : "http://www.rogerblench.info/Language/Niger-Congo/VN/Nupoid/NupOP.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "db56eca953c8f707753a5d384005a4b9",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.rogerblench.info/Language/Niger-Congo/VN/Nupoid/NupOP.htm",
+      "contentCategory" : "any-fulltext",
+      "description" : "Roger Blench's website, Nupoid materials, Gbari dictionary, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2034923",
+    "name" : "http://www.rogerblench.info/Language/Niger-Congo/VN/Nupoid/Gbari%20%20dictionary.pdf",
+    "creationDate" : "2014-06-26T08:22:48.641+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-D17D-3",
+    "content" : "http://www.rogerblench.info/Language/Niger-Congo/VN/Nupoid/Gbari%20%20dictionary.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "42d8f681834bebefedbac0bde622d318",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.rogerblench.info/Language/Niger-Congo/VN/Nupoid/Gbari%20%20dictionary.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

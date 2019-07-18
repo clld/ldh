@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_408139",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-12-23T12:28:55.376+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-6067-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-23T12:28:55.376+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9A1A-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:30:46.422+0000",
+  "latestRelease" : {
+    "objectId" : "item_408139",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-23T12:28:55.376+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-6067-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408139",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-23T12:28:55.376+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-6067-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Phonetic elements of the Mohave language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Alfred L.",
+        "familyName" : "Kroeber",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1911",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "42377",
+      "type" : "OTHER"
+    }, {
+      "id" : "mohave_kroeber1911_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "University of California publications in American archaeology and ethnology",
+      "volume" : "10",
+      "issue" : "3",
+      "startPage" : "45",
+      "endPage" : "96",
+      "genre" : "JOURNAL"
+    } ],
+    "freeKeywords" : "LoC Class: PM1871,\nLoC Subject Headings: Mohave language",
+    "subjects" : [ {
+      "value" : "mov - Mohave",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "36 S."
+  },
+  "files" : [ {
+    "objectId" : "file_408137",
+    "name" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=162",
+    "creationDate" : "2010-04-01T14:30:44.236+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=162",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "84ac88340a026a1d869bc46ddb7fed0a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=162",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of California, Anthropology Library, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408138",
+    "name" : "mohave_kroeber1911_o.pdf",
+    "creationDate" : "2010-04-01T14:30:45.036+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9A19-8",
+    "content" : "/rest/items/item_408139_3/component/file_408138/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3017bfc0026274927c340d9b237e7dd8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 14478395,
+    "metadata" : {
+      "title" : "mohave_kroeber1911_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 14478395,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

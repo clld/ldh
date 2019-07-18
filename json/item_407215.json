@@ -1,0 +1,157 @@
+{
+  "objectId" : "item_407215",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-05-05T07:32:39.439+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C68C-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-05T07:32:39.439+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9503-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:01:56.598+0000",
+  "latestRelease" : {
+    "objectId" : "item_407215",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-05-05T07:32:39.439+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C68C-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407215",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-05-05T07:32:39.439+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C68C-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Studies in Ecuadorian Indian languages I",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Benjamin Franklin",
+        "familyName" : "Elson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1962",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37822",
+      "type" : "OTHER"
+    }, {
+      "id" : "ecuadorian_elson1962_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "[1st. ed.]",
+      "place" : "Norman",
+      "publisher" : "SIL of the Univ. of Okalahoma"
+    },
+    "sources" : [ {
+      "title" : "SIL International Publications in Linguistics\n",
+      "volume" : "7",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5211, LoC Subject Headings: Indians of South America--Ecuador--Languages",
+    "subjects" : [ {
+      "value" : "auc - Waorani",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "cbi - Chachi",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "con - Cofán",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "qvo - Napo Lowland Quechua",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "sey - Secoya",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "snn - Siona",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "zro - Záparo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 292 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407214",
+    "name" : "ecuadorian_elson1962_o.pdf",
+    "creationDate" : "2010-04-01T14:01:55.941+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9502-D",
+    "content" : "/rest/items/item_407215_5/component/file_407214/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "55370daf0b33a562b25389f44d91deb4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6346599,
+    "metadata" : {
+      "title" : "ecuadorian_elson1962_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6346599
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2134739",
+    "name" : "http://www.sil.org/resources/archives/8604",
+    "creationDate" : "2015-04-10T12:07:42.070+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/8604",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "fa3d7ce806290b227d6dab2f4e227f81",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/8604",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Archive, pdf download",
+      "size" : 0
+    }
+  } ]
+}

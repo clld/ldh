@@ -1,0 +1,145 @@
+{
+  "objectId" : "item_407632",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-19T07:34:06.665+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-D09A-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-05-19T07:34:06.665+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9741-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:17:17.050+0000",
+  "latestRelease" : {
+    "objectId" : "item_407632",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-19T07:34:06.665+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D09A-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407632",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-19T07:34:06.665+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D09A-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Estudios quechuas II",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Heidi",
+        "familyName" : "Coombs",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Agot",
+        "familyName" : "Bergli"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2008",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "40245",
+      "type" : "OTHER"
+    }, {
+      "id" : "quechuas_coombs2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa", "que" ],
+    "publishingInfo" : {
+      "edition" : "1st ed.",
+      "place" : "Lima",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística peruana",
+      "volume" : "55",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6303, LoC Subject Headings: Quechua language",
+    "subjects" : [ {
+      "value" : "que - Quechua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "176 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407631",
+    "name" : "quechuas_coombs2008_s.pdf",
+    "creationDate" : "2010-04-01T14:17:16.895+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9740-4",
+    "content" : "/rest/items/item_407632_4/component/file_407631/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "795d8275d69384057167285175867155",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1022807,
+    "metadata" : {
+      "title" : "quechuas_coombs2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1022807
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2156051",
+    "name" : "http://www.peru.sil.org/es/resources/archives/30327",
+    "creationDate" : "2015-05-19T07:33:22.080+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/es/resources/archives/30327",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "363afd138368c5c37eb12f69f46f5f3a",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/es/resources/archives/30327",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Language & Culture Archive, pdf downlaod",
+      "size" : 0
+    }
+  } ]
+}

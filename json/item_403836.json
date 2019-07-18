@@ -1,0 +1,119 @@
+{
+  "objectId" : "item_403836",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-03-13T01:54:38.664+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7239-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:54:38.664+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8215-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:26:33.430+0000",
+  "latestRelease" : {
+    "objectId" : "item_403836",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-13T01:54:38.664+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7239-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403836",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-13T01:54:38.664+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7239-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Subjectsmarkering in de Nederlandse en Friese dialecten",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Gunther de",
+        "familyName" : "Vogelaer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31748",
+      "type" : "OTHER"
+    }, {
+      "id" : "friese_vogelaer2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "nld" ],
+    "publishingInfo" : {
+      "place" : "Gent",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PF1414, LoC Subject Headings: Dutch language, LoC Subject Headings: Frisian language",
+    "subjects" : [ {
+      "value" : "frr - Frisian, Northern",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix, 320 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PF1414, LoC Subject Headings: Dutch language, Frisian language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403835",
+    "name" : "friese_vogelaer2006_s.pdf",
+    "creationDate" : "2010-04-01T12:26:32.500+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8214-4",
+    "content" : "/rest/items/item_403836_6/component/file_403835/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a3459dc677e36861d68c5dcdb3e161b5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9548121,
+    "metadata" : {
+      "title" : "friese_vogelaer2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9548121,
+      "copyrightDate" : "2010-07-10",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

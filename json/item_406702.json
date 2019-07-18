@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_406702",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:01:53.588+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9216-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:01:53.588+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9216-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:46:08.915+0000",
+  "latestRelease" : {
+    "objectId" : "item_406702",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:01:53.588+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9216-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406702",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:01:53.588+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9216-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Guia de lengua Quechua para castellano hablantes : lista breve de expresiones y palabras útiles ; Quechua de lambayeque",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Andrés Shaver",
+        "familyName" : "Ashby",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2006",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37393",
+      "type" : "OTHER"
+    }, {
+      "id" : "quechua_peru2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa", "que" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Peru",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "freeKeywords" : "LoC Class: PM6301,\nLoC Subject Headings: Quechua language",
+    "subjects" : [ {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "quf - Lambayeque Quechua",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "quz - Cusco Quechua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "136 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406700",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=1589",
+    "creationDate" : "2010-04-01T13:46:07.985+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9214-E",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=1589",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "88105427bf40d5b5474c0e8743bc1e43",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=1589",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406701",
+    "name" : "quechua_peru2006_s.pdf",
+    "creationDate" : "2010-04-01T13:46:08.357+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9215-C",
+    "content" : "/rest/items/item_406702_2/component/file_406701/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7f47eeea5637445a538fb4ef4809518a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5068428,
+    "metadata" : {
+      "title" : "quechua_peru2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5068428
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

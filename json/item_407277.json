@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_407277",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:31:21.989+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9553-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:31:21.989+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9553-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:09:21.357+0000",
+  "latestRelease" : {
+    "objectId" : "item_407277",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:31:21.989+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9553-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407277",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:31:21.989+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9553-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Topics in Nivkh phonology",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Shiraishi, Hidetoshi",
+        "givenName" : "Hidetoshi",
+        "familyName" : "Shiraishi",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38079",
+      "type" : "OTHER"
+    }, {
+      "id" : "Nivkh_Shiraishi2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[S.L.]",
+      "publisher" : "[s.n.]"
+    },
+    "sources" : [ {
+      "title" : "Groningen dissertations in linguistics",
+      "volume" : "61",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM15,\nLoC Subject Headings: Gilyak language",
+    "subjects" : [ {
+      "value" : "niv - Gilyak",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407275",
+    "name" : "http://irs.ub.rug.nl/ppn/297192221",
+    "creationDate" : "2010-04-01T14:09:20.836+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9551-E",
+    "content" : "http://irs.ub.rug.nl/ppn/297192221",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e3dd8e8328ef4c4f20aac4bf08f907cb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://irs.ub.rug.nl/ppn/297192221",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407276",
+    "name" : "Nivkh_Shiraishi2006_s.pdf",
+    "creationDate" : "2010-04-01T14:09:21.198+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9552-C",
+    "content" : "/rest/items/item_407277_2/component/file_407276/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "059668d7e7e25bda8c7bfa596dc3442d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 748855,
+    "metadata" : {
+      "title" : "Nivkh_Shiraishi2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 748855
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

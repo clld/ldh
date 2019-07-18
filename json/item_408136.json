@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_408136",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-01-23T13:24:59.410+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-A23D-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2015-01-23T13:24:59.410+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9A16-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:30:41.625+0000",
+  "latestRelease" : {
+    "objectId" : "item_408136",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-01-23T13:24:59.410+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A23D-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408136",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-01-23T13:24:59.410+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A23D-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The phonetic elements of the Northern Paiute language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "T. T.",
+        "familyName" : "Waterman",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1911",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "42376",
+      "type" : "OTHER"
+    }, {
+      "id" : "paiute_waterman1911_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Univ. of California Publications in American Archaeology and Ethnology",
+      "volume" : "10",
+      "issue" : "2",
+      "startPage" : "13",
+      "endPage" : "44",
+      "publishingInfo" : {
+        "place" : "Berkeley",
+        "publisher" : "Univ. Press"
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM2094,\nLoC Subject Headings: Northern Paiute language",
+    "subjects" : [ {
+      "value" : "pao - Northern Paiute",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "28 S."
+  },
+  "files" : [ {
+    "objectId" : "file_408134",
+    "name" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=163",
+    "creationDate" : "2010-04-01T14:30:39.645+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=163",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d504776d02fbb910f97d2a657becbae3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=163",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of California, The George and Mary Foster Anthropology Library, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408135",
+    "name" : "paiute_waterman1911_o.pdf",
+    "creationDate" : "2010-04-01T14:30:40.857+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9A15-0",
+    "content" : "/rest/items/item_408136_4/component/file_408135/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "978accc99f6281866613e7acd726aac7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7229439,
+    "metadata" : {
+      "title" : "paiute_waterman1911_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7229439,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

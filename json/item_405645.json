@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_405645",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-06-06T07:36:04.524+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8C44-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:36:04.524+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8C44-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:17:09.478+0000",
+  "latestRelease" : {
+    "objectId" : "item_405645",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:36:04.524+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8C44-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405645",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:36:04.524+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8C44-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Elements of knowledge-free and unsupervised lexical acquisition",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Bordag, Stefan",
+        "givenName" : "Stefan",
+        "familyName" : "Bordag",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35155",
+      "type" : "OTHER"
+    }, {
+      "id" : "acquisition_bordag2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Leipzig",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Subject Headings: Lexicology",
+    "totalNumberOfPages" : "10, 253 S.",
+    "abstracts" : [ {
+      "value" : "P326, Lexicology --Data processing"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405643",
+    "name" : "http://www.wortschatz.uni-leipzig.de/~sbordag/BordagDiss.pdf",
+    "creationDate" : "2010-04-01T13:17:08.483+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C42-A",
+    "content" : "http://www.wortschatz.uni-leipzig.de/~sbordag/BordagDiss.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "983fc6cb5727e96e0d5a337363d131cf",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.wortschatz.uni-leipzig.de/~sbordag/BordagDiss.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Wortschatz, Universität Leipzig",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405644",
+    "name" : "acquisition_bordag2007_s.pdf",
+    "creationDate" : "2010-04-01T13:17:09.284+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C43-8",
+    "content" : "/rest/items/item_405645_3/component/file_405644/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5760e31c9309d0b24e6606f57f9f0d7d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1407758,
+    "metadata" : {
+      "title" : "acquisition_bordag2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1407758,
+      "copyrightDate" : "2010-08-24",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

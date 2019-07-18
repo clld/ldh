@@ -1,0 +1,152 @@
+{
+  "objectId" : "item_407443",
+  "versionNumber" : 4,
+  "modificationDate" : "2013-04-08T13:23:37.313+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9636-4",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "message" : "EJ und Sprache der Publikation ergänzt",
+  "lastModificationDate" : "2013-04-08T13:23:37.313+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9633-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:13:36.372+0000",
+  "latestRelease" : {
+    "objectId" : "item_407443",
+    "versionNumber" : 4,
+    "modificationDate" : "2013-04-08T13:23:37.313+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9636-4",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407443",
+    "versionNumber" : 4,
+    "modificationDate" : "2013-04-08T13:23:37.313+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9636-4",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Referential devices in Apurinã discourse",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Cathie",
+        "familyName" : "Aberdour",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1985",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "38924",
+      "type" : "OTHER"
+    }, {
+      "id" : "apurina_aberdour1985_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Porto Velho workpapers",
+      "alternativeTitles" : [ { } ],
+      "creators" : [ {
+        "person" : {
+          "givenName" : "David Lee",
+          "familyName" : "Fortune",
+          "organizations" : [ {
+            "identifier" : "ou_persistent22",
+            "name" : "External Organizations",
+            "identifierPath" : [ "ou_persistent22" ]
+          } ]
+        },
+        "role" : "EDITOR",
+        "type" : "PERSON"
+      } ],
+      "startPage" : "43",
+      "endPage" : "91",
+      "publishingInfo" : {
+        "place" : "Brasília",
+        "publisher" : "SIL"
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6229,\nLoC Subject Headings: Ipurina language",
+    "subjects" : [ {
+      "value" : "apu - Apurinã",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407441",
+    "name" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "creationDate" : "2010-04-01T14:13:35.792+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9631-E",
+    "content" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7df0e5ec7312b4860cf2e1ea5f6c90b6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407442",
+    "name" : "apurina_aberdour1985_s.pdf",
+    "creationDate" : "2010-04-01T14:13:36.249+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9632-C",
+    "content" : "/rest/items/item_407443_4/component/file_407442/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1d98f1d71f8a87d3127ec6ab0fb60e45",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 627577,
+    "metadata" : {
+      "title" : "apurina_aberdour1985_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 627577
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

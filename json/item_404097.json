@@ -1,0 +1,127 @@
+{
+  "objectId" : "item_404097",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-13T01:58:57.626+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7242-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:58:57.626+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-838B-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:34:55.198+0000",
+  "latestRelease" : {
+    "objectId" : "item_404097",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T01:58:57.626+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7242-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404097",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T01:58:57.626+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7242-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Proto South Bahnaric : a reconstruction of a Mon-Khmer language of Indo-China",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Paul",
+        "familyName" : "Sidwell",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2000",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "32272",
+      "type" : "OTHER"
+    }, {
+      "id" : "bahnaric_sidwell2000_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "0-85883-444-8",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Pacific linguistics",
+      "volume" : "501",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL4309, LoC Subject Headings: Mon-Khmer languages, LoC Subject Headings: Chrau language, LoC Subject Headings: Stieng language, LoC Subject Headings: Koho language",
+    "subjects" : [ {
+      "value" : "kpm - Koho",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "sti - Bulo Stieng",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "crw - Chrau",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix, 225 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL4309,\nLoC Subject Headings: Mon-Khmer languages--Phonology, Chrau language--Phonology, Stieng language--Phonology, Koho language--Phonology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404096",
+    "name" : "bahnaric_sidwell2000_o.pdf",
+    "creationDate" : "2010-04-01T12:34:54.189+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-838A-1",
+    "content" : "/rest/items/item_404097_5/component/file_404096/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ac5746b0c37e58f2f892cc4a25608a75",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10306818,
+    "metadata" : {
+      "title" : "bahnaric_sidwell2000_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10306818,
+      "copyrightDate" : "2013-12-13",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

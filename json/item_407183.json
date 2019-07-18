@@ -1,0 +1,149 @@
+{
+  "objectId" : "item_407183",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-14T08:42:06.064+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B258-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-14T08:42:06.064+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-94D2-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:58:49.190+0000",
+  "latestRelease" : {
+    "objectId" : "item_407183",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-14T08:42:06.064+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B258-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407183",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-14T08:42:06.064+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B258-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "English-Tibetan dictionary of modern Tibetan",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Melvyn C.",
+        "familyName" : "Goldstein",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Ngawangthondup",
+        "familyName" : "Narkyid"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1984",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37764",
+      "type" : "OTHER"
+    }, {
+      "id" : "tibetan_goldstein1984_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "0-520-05157-2",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng", "bod" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Berkeley [u.a.]",
+      "publisher" : "Univ. of California Press"
+    },
+    "freeKeywords" : "LoC Class: PL 3637 .T52, LoC Subject Headings: Tibetan language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "bod - Tibetan",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxvi, 485 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL 3637 .T52,\nLoC Subject Headings: English language--Dictionaries--Tibetan"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407182",
+    "name" : "tibetan_goldstein1984_o.pdf",
+    "creationDate" : "2010-04-01T13:58:46.343+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-94D1-3",
+    "content" : "/rest/items/item_407183_3/component/file_407182/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "745aa58cf525217c2d430e662b4fc4fb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 30225113,
+    "metadata" : {
+      "title" : "tibetan_goldstein1984_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 30225113
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2144430",
+    "name" : "http://eric.ed.gov/?q=English-Tibetan+dictionary+of+modern+Tibetan&id=ED250959",
+    "creationDate" : "2015-04-14T08:41:21.515+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://eric.ed.gov/?q=English-Tibetan+dictionary+of+modern+Tibetan&id=ED250959",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3a1c9aab857176018aaa2e81a69e7465",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eric.ed.gov/?q=English-Tibetan+dictionary+of+modern+Tibetan&id=ED250959",
+      "contentCategory" : "publisher-version",
+      "description" : "Education Resources Information Center (ERIC), Collection, pdf download",
+      "size" : 0
+    }
+  } ]
+}

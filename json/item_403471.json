@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403471",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T07:13:00.336+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA1D-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T07:13:00.336+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7F65-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:40.342+0000",
+  "latestRelease" : {
+    "objectId" : "item_403471",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T07:13:00.336+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA1D-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403471",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T07:13:00.336+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA1D-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Esquisse phonologique du Kada (Guidar)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Serge",
+        "familyName" : "Noukeu",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31300",
+      "type" : "OTHER"
+    }, {
+      "id" : "kada_noukeu2002_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Class: PL8207.G521, LoC Subject Headings: Gidar language",
+    "subjects" : [ {
+      "value" : "gid - Gidar",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "iii, 95 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8207.G521, LoC Subject Headings: Gidar language--Grammar, African languages--Cameroon, African languages--Chad"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403470",
+    "name" : "kada_noukeu2002_o.pdf",
+    "creationDate" : "2010-04-01T12:18:39.995+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7F64-7",
+    "content" : "/rest/items/item_403471_4/component/file_403470/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8bbec37685e45d4f1568f1751d16f8d6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2741180,
+    "metadata" : {
+      "title" : "kada_noukeu2002_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2741180,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

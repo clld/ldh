@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_405246",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:57:47.451+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8A11-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:57:47.451+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8A11-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:04:46.118+0000",
+  "latestRelease" : {
+    "objectId" : "item_405246",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:57:47.451+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A11-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405246",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:57:47.451+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A11-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Kikongo notions grammaticales : vocabulaire Français - Kikongo - Néerlandais - Latin",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Coene, A.",
+        "givenName" : "A.",
+        "familyName" : "Coene",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1960",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34413",
+      "type" : "OTHER"
+    }, {
+      "id" : "kikongo_coene1960_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Tumba",
+      "publisher" : "Mission Catholique"
+    },
+    "freeKeywords" : "LoC Class: PL8403,\nLoC Subject Headings: Kongo language",
+    "subjects" : [ {
+      "value" : "kng - Koongo",
+      "type" : "ISO639_3"
+    }, {
+      "type" : "ISO639_3"
+    }, {
+      "value" : "nld - Dutch",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "lat - Latin",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "197 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405244",
+    "name" : "http://www.nekongo.org/akongo/docs/langue_culture/kikongo_grammaire_vocabulaire_coene.pdf",
+    "creationDate" : "2010-04-01T13:04:37.488+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A0F-E",
+    "content" : "http://www.nekongo.org/akongo/docs/langue_culture/kikongo_grammaire_vocabulaire_coene.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7b123859563621da480b08c01563449a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.nekongo.org/akongo/docs/langue_culture/kikongo_grammaire_vocabulaire_coene.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405245",
+    "name" : "kikongo_coene1960_o.pdf",
+    "creationDate" : "2010-04-01T13:04:44.949+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A10-8",
+    "content" : "/rest/items/item_405246_2/component/file_405245/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8e611ea407a44fff478417f32e119a8a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11858556,
+    "metadata" : {
+      "title" : "kikongo_coene1960_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11858556
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

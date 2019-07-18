@@ -1,0 +1,145 @@
+{
+  "objectId" : "item_402223",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-06-06T07:41:34.324+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-77F4-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:41:34.324+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-77F4-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:28:09.951+0000",
+  "latestRelease" : {
+    "objectId" : "item_402223",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-06-06T07:41:34.324+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-77F4-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402223",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-06-06T07:41:34.324+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-77F4-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Allen and Greenough's New Latin grammar for schools and colleges, founded on comparative grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Joseph Henry",
+        "familyName" : "Allen",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "James Bradstreet",
+        "familyName" : "Greenough"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1979",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29452",
+      "type" : "OTHER"
+    }, {
+      "id" : "latin_allen1903_o.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Boston [u.a.]",
+      "publisher" : "Ginn"
+    },
+    "freeKeywords" : "LoC Subject Headings: Latin language",
+    "subjects" : [ {
+      "value" : "lat - Latin",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "x, 490 S.",
+    "abstracts" : [ {
+      "value" : "PA2821, ISO 639-3 : lat, Latin language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402221",
+    "name" : "http://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A1",
+    "creationDate" : "2010-04-01T11:28:07.895+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-77F2-1",
+    "content" : "http://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A1",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5fb2acf70cbcb16cc485197a41cb9b0b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A1",
+      "contentCategory" : "publisher-version",
+      "description" : "Perseus Digital Library / Tufts University",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402222",
+    "name" : "latin_allen1903_o.pdf",
+    "creationDate" : "2010-04-01T11:28:08.821+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-77F3-0",
+    "content" : "/rest/items/item_402223_5/component/file_402222/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "656ed1cc3a025d612235b00e5df1db54",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11639237,
+    "metadata" : {
+      "title" : "latin_allen1903_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11639237,
+      "copyrightDate" : "2010-12-13",
+      "rights" : "not in copyright, Joseph Henry Allen 1820-1898; James Bradstreet Greenough, 1833-1901\n"
+    }
+  } ]
+}

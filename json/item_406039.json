@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_406039",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T21:23:54.585+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-703A-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:23:54.585+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8E79-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:26:44.945+0000",
+  "latestRelease" : {
+    "objectId" : "item_406039",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T21:23:54.585+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-703A-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406039",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T21:23:54.585+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-703A-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The syntax and semantics of serial verb constructions in Thai",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Sudmuk, Cholthicha",
+        "givenName" : "Cholthicha",
+        "familyName" : "Sudmuk",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35617",
+      "type" : "OTHER"
+    }, {
+      "id" : "thai_sudmuk2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Austin",
+      "publisher" : "Univ. of Texas"
+    },
+    "freeKeywords" : "LoC Class: PL4181, LoC Subject Headings: Thai language -- Semantics, LoC Subject Headings: Thai language -- Syntax",
+    "subjects" : [ {
+      "value" : "tha - Thai",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XIV, 215 S:"
+  },
+  "files" : [ {
+    "objectId" : "file_406037",
+    "name" : "http://www.lib.utexas.edu/etd/d/2005/sudmukd95920/sudmukd95920.pdf",
+    "creationDate" : "2010-04-01T13:26:42.537+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E77-6",
+    "content" : "http://www.lib.utexas.edu/etd/d/2005/sudmukd95920/sudmukd95920.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c8b8ca33271822466fc0c759ed1542cd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lib.utexas.edu/etd/d/2005/sudmukd95920/sudmukd95920.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406038",
+    "name" : "thai_sudmuk2005_s.pdf",
+    "creationDate" : "2010-04-01T13:26:44.785+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E78-4",
+    "content" : "/rest/items/item_406039_3/component/file_406038/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f0178452e8b1b57f84388b3d47b83d4e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 547547,
+    "metadata" : {
+      "title" : "thai_sudmuk2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 547547
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

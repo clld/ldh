@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_405814",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-05-13T10:09:11.924+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CD55-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-05-13T10:09:11.924+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8D39-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:21:01.158+0000",
+  "latestRelease" : {
+    "objectId" : "item_405814",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T10:09:11.924+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD55-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405814",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T10:09:11.924+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD55-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of Eastern Khanty",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Andrey Yury",
+        "familyName" : "Filchenko",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35432",
+      "type" : "OTHER"
+    }, {
+      "id" : "khanty_filchenko2007_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Houston, Tex.",
+      "publisher" : "Rice Univ."
+    },
+    "freeKeywords" : "LoC Class: PH1403, LoC Subject Headings: Khanty language",
+    "subjects" : [ {
+      "value" : "kca - Khanty",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxvi, 588 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405813",
+    "name" : "khanty_filchenko2007_o.pdf",
+    "creationDate" : "2010-04-01T13:20:59.165+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D38-9",
+    "content" : "/rest/items/item_405814_3/component/file_405813/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b89b6590d6c698559969c01b36374b6f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 20896106,
+    "metadata" : {
+      "title" : "khanty_filchenko2007_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 20896106
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2154502",
+    "name" : "http://hdl.handle.net/1911/20605",
+    "creationDate" : "2015-05-13T10:08:39.801+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1911/20605",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2f89349318e0c280cda1e6f95d5a1842",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1911/20605",
+      "contentCategory" : "publisher-version",
+      "description" : "Rice Univ., Digital Scholarship Archive, Rice Univ. Electronic Theses and Dissertations, pdf download",
+      "size" : 0
+    }
+  } ]
+}

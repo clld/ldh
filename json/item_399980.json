@@ -1,0 +1,145 @@
+{
+  "objectId" : "item_399980",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T16:37:23.750+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6DE4-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T16:37:23.750+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6AB7-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:37:36.461+0000",
+  "latestRelease" : {
+    "objectId" : "item_399980",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T16:37:23.750+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6DE4-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_399980",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T16:37:23.750+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6DE4-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario Tarahumara de Samachique, Chihuahua, Mexico",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Hilton, K. Simón",
+        "givenName" : "K. Simón",
+        "familyName" : "Hilton",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1993",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "677",
+      "type" : "OTHER"
+    }, {
+      "id" : "tarahumara_hilton1993_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "968-31-0271-9",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "ed. esp. corr. y act.",
+      "place" : "Tucson, AZ",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie de vocabularios y diccionarios indígenas Mariano Silva y Aceves",
+      "volume" : "101",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4291.Z5, LoC Subject Headings: Tarahumara language--Mexico--Samachic--Dictionaries--Spani sh, LoC Subject Headings: Spanish language--Mexico--Samachic--Dictionaries--Tarah uma",
+    "subjects" : [ {
+      "value" : "tar - Central Tarahumara",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "viii, 146 S."
+  },
+  "files" : [ {
+    "objectId" : "file_399978",
+    "name" : "http://www.sil.org/mexico/taracahita/tarahumara-samachique/S101-Vocabulario-TAR.htm",
+    "creationDate" : "2010-04-01T10:37:35.476+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/mexico/taracahita/tarahumara-samachique/S101-Vocabulario-TAR.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "480b8caa98d8182be51e22476cd9f031",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/mexico/taracahita/tarahumara-samachique/S101-Vocabulario-TAR.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_399979",
+    "name" : "tarahumara_hilton1993_s.pdf",
+    "creationDate" : "2010-04-01T10:37:36.278+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6AB6-1",
+    "content" : "/rest/items/item_399980_3/component/file_399979/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "be6798d680cb6eb215f8da07f72bdd40",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1101368,
+    "metadata" : {
+      "title" : "tarahumara_hilton1993_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1101368
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

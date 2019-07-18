@@ -1,0 +1,162 @@
+{
+  "objectId" : "item_405386",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T20:15:32.313+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FA1-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:15:32.313+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8ACC-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:09:07.744+0000",
+  "latestRelease" : {
+    "objectId" : "item_405386",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:15:32.313+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FA1-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405386",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:15:32.313+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FA1-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Olmec art at Dumbarton Oaks",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Karl A.",
+        "familyName" : "Taube",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34770",
+      "type" : "OTHER"
+    }, {
+      "id" : "olmec_taube2004_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "978-0-88402-275-6",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Washington, D.C",
+      "publisher" : "Dumbarton Oaks Research Library and Collection"
+    },
+    "sources" : [ {
+      "title" : "Pre-Columbian art at Dumbarton Oaks",
+      "volume" : "2",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: F1219.8.O56, LoC Subject Headings: Mixe language, LoC Subject Headings: Zoque language",
+    "totalNumberOfPages" : "XVIII, 228 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: F1219.8.O56,\nLoC Subject Headings: Olmec art--Catalogs, Olmecs--Antiquities, Robert Woods Bliss Collection of Pre-Columbian Art, Dumbarton Oaks--Catalogs, Mixe language--Cognate words, Zoque language--Phonology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405385",
+    "name" : "olmec_taube2004_s.pdf",
+    "creationDate" : "2010-04-01T13:09:06.885+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8ACB-6",
+    "content" : "/rest/items/item_405386_4/component/file_405385/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8986b96c6741585ca0e7e4af81a91bf4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8706917,
+    "metadata" : {
+      "title" : "olmec_taube2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8706917
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2039457",
+    "name" : "http://www.doaks.org/resources/publications/books-in-print/olmec-art-at-dumbarton-oaks",
+    "creationDate" : "2014-07-08T10:05:48.714+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.doaks.org/resources/publications/books-in-print/olmec-art-at-dumbarton-oaks",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5f345f88d988c816b60ad7055b102abf",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.doaks.org/resources/publications/books-in-print/olmec-art-at-dumbarton-oaks",
+      "contentCategory" : "publisher-version",
+      "description" : "Dumbarton Oaks, publications, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2039458",
+    "name" : "http://www.doaks.org/resources/publications/doaks-online-publications/olmec-art-at-dumbarton-oaks/olmecart.pdf",
+    "creationDate" : "2014-07-08T10:05:49.681+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-DCB6-B",
+    "content" : "http://www.doaks.org/resources/publications/doaks-online-publications/olmec-art-at-dumbarton-oaks/olmecart.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "360b56fcce1bf899cb1db80816c55db4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.doaks.org/resources/publications/doaks-online-publications/olmec-art-at-dumbarton-oaks/olmecart.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_403903",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-02-26T09:59:43.787+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-E426-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-02-26T09:59:43.787+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8274-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:28:45.369+0000",
+  "latestRelease" : {
+    "objectId" : "item_403903",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-26T09:59:43.787+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E426-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403903",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-26T09:59:43.787+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E426-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Primer and vocabulary of Moro dialect (Magindanau)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ralph Stribling",
+        "familyName" : "Porter",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "United States. Bureau of Insular Affairs",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1903",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31987",
+      "type" : "OTHER"
+    }, {
+      "id" : "magindanau_porter1903_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Washington",
+      "publisher" : "Gov. Print. Off."
+    },
+    "sources" : [ {
+      "title" : "War Department Document",
+      "volume" : "209",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL5912,\nLoC Subject Headings: Magindanao language",
+    "subjects" : [ {
+      "value" : "mdh - Maguindanao",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "77 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL5912,\nLoC Subject Headings: Magindanao language--Glossaries, vocabularies, etc."
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403901",
+    "name" : "http://www.archive.org/details/primervocabulary00port",
+    "creationDate" : "2010-04-01T12:28:43.266+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.archive.org/details/primervocabulary00port",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "da156d9aefbf06efc3d52a515727eaab",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/primervocabulary00port",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org: Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403902",
+    "name" : "magindanau_porter1903_o.pdf",
+    "creationDate" : "2010-04-01T12:28:44.833+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8273-C",
+    "content" : "/rest/items/item_403903_3/component/file_403902/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7690da287e8b61f48ef27f5ba4b0770a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5141148,
+    "metadata" : {
+      "title" : "magindanau_porter1903_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5141148,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

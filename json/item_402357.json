@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_402357",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-01-30T11:19:38.689+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-ABC7-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-01-30T11:19:38.689+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-78B9-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:30:41.617+0000",
+  "latestRelease" : {
+    "objectId" : "item_402357",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-30T11:19:38.689+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-ABC7-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402357",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-30T11:19:38.689+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-ABC7-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Chinook jargon : the hidden language of the Pacific Northwest",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jim",
+        "familyName" : "Holton",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29778",
+      "type" : "OTHER"
+    }, {
+      "id" : "chinook_holton2004_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "0-9674897-0-9",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "San Leandro, Calif.",
+      "publisher" : "Wawa Press"
+    },
+    "freeKeywords" : "LoC Class: PM847,\nLoC Subject Headings: Chinook jargon",
+    "subjects" : [ {
+      "value" : "chn - Chinook jargon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "137 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM847,\nLoC Subject Headings: Chinook jargon--Grammar, Chinook jargon--Glossaries, vocabularies, etc."
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402356",
+    "name" : "chinook_holton2004_s.pdf",
+    "creationDate" : "2010-04-01T11:30:41.219+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-78B8-E",
+    "content" : "/rest/items/item_402357_3/component/file_402356/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "52be8a8790496bc331399a5d0d580471",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3414054,
+    "metadata" : {
+      "title" : "chinook_holton2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3414054
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2086261",
+    "name" : "http://rjholton.com/",
+    "creationDate" : "2015-01-30T11:19:04.853+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://rjholton.com/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6b5eb29a2697d0ece77492c353f24388",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rjholton.com/",
+      "contentCategory" : "publisher-version",
+      "description" : "Website by James Holton, pdfs",
+      "size" : 0
+    }
+  } ]
+}

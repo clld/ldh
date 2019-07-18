@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_401736",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T19:28:32.098+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F45-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:28:32.098+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-750B-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:17:43.178+0000",
+  "latestRelease" : {
+    "objectId" : "item_401736",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T19:28:32.098+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F45-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401736",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T19:28:32.098+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F45-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "¬A¬ língua Geral Amazônica : aspectos de sua fonêmica",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Luiz Carlos",
+        "familyName" : "Borges",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1991",
+    "datePublishedInPrint" : "1991",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "27730",
+      "type" : "OTHER"
+    }, {
+      "id" : "amazonica_borges1991.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM7173, LoC Subject Headings: PM7173, LoC Subject Headings: Tupi language",
+    "totalNumberOfPages" : "101 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401734",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000030404",
+    "creationDate" : "2010-04-01T11:17:42.066+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000030404",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "35ef1f3be17f271fa46f9a1a0552efcb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000030404",
+      "contentCategory" : "publisher-version",
+      "description" : "SBU Biblioteca Digital Da Unicamp",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401735",
+    "name" : "amazonica_borges1991.pdf",
+    "creationDate" : "2010-04-01T11:17:42.718+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-750A-3",
+    "content" : "/rest/items/item_401736_4/component/file_401735/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a79159fdbc79f5cc5e331823cf37aa7e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4050348,
+    "metadata" : {
+      "title" : "amazonica_borges1991.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4050348
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

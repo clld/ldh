@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_406098",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-07-17T08:49:57.250+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-F023-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Quelle ergänzt",
+  "lastModificationDate" : "2014-07-17T08:49:57.250+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8EC9-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:29:15.334+0000",
+  "latestRelease" : {
+    "objectId" : "item_406098",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-17T08:49:57.250+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-F023-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406098",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-17T08:49:57.250+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-F023-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Morphological effects in visual word processing : their timecourse and consequences for lexical architecture",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jennifer Jean",
+        "familyName" : "Vannest",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedInPrint" : "2001",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35785",
+      "type" : "OTHER"
+    }, {
+      "id" : "processing_vannest2001_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "sources" : [ {
+      "title" : "OSDL Ohio State Dissertations in Linguistics",
+      "publishingInfo" : {
+        "place" : "Columbus",
+        "publisher" : "Ohio State Univ."
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P243,\nLoC Subject Headings: Grammar/Comparative and general--Morphology",
+    "totalNumberOfPages" : "XI, 133 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406097",
+    "name" : "processing_vannest2001_o.pdf",
+    "creationDate" : "2010-04-01T13:29:15.038+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8EC8-E",
+    "content" : "/rest/items/item_406098_4/component/file_406097/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fe3e8e9801fe7e610c0de7088c4dd548",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2435968,
+    "metadata" : {
+      "title" : "processing_vannest2001_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2435968
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2042736",
+    "name" : "http://linguistics.osu.edu/sites/linguistics.osu.edu/files/dissertations/Vannest2001.pdf",
+    "creationDate" : "2014-07-17T08:46:30.776+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-F01D-7",
+    "content" : "http://linguistics.osu.edu/sites/linguistics.osu.edu/files/dissertations/Vannest2001.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "67d122b57b24932f4ab6fd26918d5b52",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://linguistics.osu.edu/sites/linguistics.osu.edu/files/dissertations/Vannest2001.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. of Calif. Los Angeles, Dep. of Linguistics, direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

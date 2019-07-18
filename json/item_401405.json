@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_401405",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-06-12T09:19:21.058+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-BA02-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-06-12T09:19:21.058+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7325-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:11:20.676+0000",
+  "latestRelease" : {
+    "objectId" : "item_401405",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-12T09:19:21.058+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-BA02-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401405",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-12T09:19:21.058+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-BA02-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Descrição e análise de aspectos da gramática do Guarani Mbyá",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Marci Fileti",
+        "familyName" : "Martins",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "26527",
+      "type" : "OTHER"
+    }, {
+      "id" : "guarani_martins2003_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "place" : "Campinas",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM6487,\nLoC Subject Headings: Mbya language",
+    "subjects" : [ {
+      "value" : "gun - Guaraní, Mbyá",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "220 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401404",
+    "name" : "guarani_martins2003_o.pdf",
+    "creationDate" : "2010-04-01T11:11:20.127+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7324-8",
+    "content" : "/rest/items/item_401405_3/component/file_401404/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7a8c9a8e36b92f1a29d0fb8e7ddffc1c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5067445,
+    "metadata" : {
+      "title" : "guarani_martins2003_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5067445
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2032913",
+    "name" : "http://www.bibliotecadigital.unicamp.br/document/?code=vtls000314774",
+    "creationDate" : "2014-06-12T09:18:23.747+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-BA03-F",
+    "content" : "http://www.bibliotecadigital.unicamp.br/document/?code=vtls000314774",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7d7d6717adb48339a2e8dd44f2d76c9e",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.bibliotecadigital.unicamp.br/document/?code=vtls000314774",
+      "contentCategory" : "publisher-version",
+      "description" : "Digital Library of UNICAMP, free registration necessary for downloading",
+      "size" : 0
+    }
+  } ]
+}

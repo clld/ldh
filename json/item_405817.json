@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_405817",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:05:23.544+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8D3D-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:05:23.544+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8D3D-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:21:03.241+0000",
+  "latestRelease" : {
+    "objectId" : "item_405817",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:05:23.544+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8D3D-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405817",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:05:23.544+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8D3D-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A descriptive grammar of Huehuetla Tepehua",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Kung, Susan Smythe",
+        "givenName" : "Susan Smythe",
+        "familyName" : "Kung",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35433",
+      "type" : "OTHER"
+    }, {
+      "id" : "tepehua_kung2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PM4426.Z9,\nLoC Subject Headings: Totonac language -- Grammar",
+    "subjects" : [ {
+      "value" : "tee - Huehuetla Tepehua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxv, 726 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405815",
+    "name" : "http://proquest.umi.com/pqdweb?index=5&sid=3&srchmode=1&vinst=PROD&fmt=6&startpage=-1&clientid=56146&vname=PQD&RQT=309&did=1402170231&scaling=FULL&ts=120",
+    "creationDate" : "2010-04-01T13:21:01.891+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D3B-3",
+    "content" : "http://proquest.umi.com/pqdweb?index=5&sid=3&srchmode=1&vinst=PROD&fmt=6&startpage=-1&clientid=56146&vname=PQD&RQT=309&did=1402170231&scaling=FULL&ts=120",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "eea9af9aa22b54f83845c515bfdcf72f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://proquest.umi.com/pqdweb?index=5&sid=3&srchmode=1&vinst=PROD&fmt=6&startpage=-1&clientid=56146&vname=PQD&RQT=309&did=1402170231&scaling=FULL&ts=120",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405816",
+    "name" : "tepehua_kung2007_s.pdf",
+    "creationDate" : "2010-04-01T13:21:02.955+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D3C-1",
+    "content" : "/rest/items/item_405817_2/component/file_405816/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5931851b14c8d9a4e639d5c14e09e6ba",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2346421,
+    "metadata" : {
+      "title" : "tepehua_kung2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2346421
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

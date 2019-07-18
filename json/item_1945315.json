@@ -1,0 +1,126 @@
+{
+  "objectId" : "item_1945315",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-01-16T10:53:32.748+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-921A-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-01-16T10:53:32.748+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0015-8C6C-2",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-03-13T08:31:37.554+0000",
+  "latestRelease" : {
+    "objectId" : "item_1945315",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-16T10:53:32.748+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-921A-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_1945315",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-16T10:53:32.748+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-921A-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Historical and statistical Information, respecting the History, Condition and Prospects of the Indian Tribes of the United States [Volume 6] : History of the Indian tribes of the United States, their present condition and prospects and a sketch of their ancient status ; general history of the North American Indians ",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Henry Rowe",
+        "familyName" : "Schoolcraft",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1857",
+    "genre" : "MONOGRAPH",
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Philadelphia",
+      "publisher" : "Lippincott"
+    },
+    "freeKeywords" : "LoC Subject Headings: Indians of North America\nLoC Class: E77",
+    "totalNumberOfPages" : "756 S., [58] Bl. : Ill., Kt. ",
+    "abstracts" : [ {
+      "value" : "Section twenty-seventh,\nChapter 1: includes an article about  principles of the structure of the Indian languages (p.671-684)\n"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_1945313",
+    "name" : "indiantribes_schoolcraft1857_vol6_s.pdf",
+    "creationDate" : "2014-03-13T08:31:34.469+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0015-8C6F-B",
+    "content" : "/rest/items/item_1945315_3/component/file_1945313/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3bac16f9052617dc17a19004f8a42448",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 188366524,
+    "metadata" : {
+      "title" : "indiantribes_schoolcraft1857_vol6_s.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Vol. 6",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 188366524,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_1945314",
+    "name" : "http://reader.digitale-sammlungen.de/resolve/display/bsb10220589.html",
+    "creationDate" : "2014-03-13T08:31:37.211+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://reader.digitale-sammlungen.de/resolve/display/bsb10220589.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ba3b4af5fb2a3b4e3b218920ded88798",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://reader.digitale-sammlungen.de/resolve/display/bsb10220589.html",
+      "contentCategory" : "publisher-version",
+      "description" : "Vol. 6",
+      "size" : 0
+    }
+  } ]
+}

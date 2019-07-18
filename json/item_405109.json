@@ -1,0 +1,154 @@
+{
+  "objectId" : "item_405109",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-07-04T07:08:59.349+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-DA48-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-04T07:08:59.349+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8955-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:55:20.467+0000",
+  "latestRelease" : {
+    "objectId" : "item_405109",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-04T07:08:59.349+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DA48-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405109",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-04T07:08:59.349+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DA48-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A dictionary of Eggon",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Roger",
+        "familyName" : "Blench",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2006",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34345",
+      "type" : "OTHER"
+    }, {
+      "id" : "eggon_blench2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "Draft",
+      "place" : "N.A.",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL8148.2,\nLoC Subject Headings: Eggon language",
+    "subjects" : [ {
+      "value" : "ego - Eggon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "14, 82 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405108",
+    "name" : "eggon_blench2006_s.pdf",
+    "creationDate" : "2010-04-01T12:55:20.357+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8954-5",
+    "content" : "/rest/items/item_405109_4/component/file_405108/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "67d8beace09bcec8f93a6480865af1e6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 455617,
+    "metadata" : {
+      "title" : "eggon_blench2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 455617
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2036952",
+    "name" : "http://www.rogerblench.info/Language/Niger-Congo/BC/Plateau/South/SouthOP.htm",
+    "creationDate" : "2014-07-04T07:07:34.268+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-DA49-4",
+    "content" : "http://www.rogerblench.info/Language/Niger-Congo/BC/Plateau/South/SouthOP.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a8e0fdfab44dbc04bfe8f1463b813d2c",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.rogerblench.info/Language/Niger-Congo/BC/Plateau/South/SouthOP.htm",
+      "contentCategory" : "any-fulltext",
+      "description" : "Roger Blench's website, Niger-Congo languages, South Plateau materials, Eggon dictionary",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2036953",
+    "name" : "http://www.rogerblench.info/Language/Niger-Congo/BC/Plateau/South/Eggon%20Dictionary%20full.pdf",
+    "creationDate" : "2014-07-04T07:07:34.517+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-DA4A-2",
+    "content" : "http://www.rogerblench.info/Language/Niger-Congo/BC/Plateau/South/Eggon%20Dictionary%20full.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d9fa5a710b9fbc49f74c331981146ed9",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.rogerblench.info/Language/Niger-Congo/BC/Plateau/South/Eggon%20Dictionary%20full.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

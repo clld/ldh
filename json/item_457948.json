@@ -1,0 +1,181 @@
+{
+  "objectId" : "item_457948",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-06-21T08:08:22.050+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-BC57-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-21T08:08:22.050+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-BC57-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-06-14T08:15:23.899+0000",
+  "latestRelease" : {
+    "objectId" : "item_457948",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-06-21T08:08:22.050+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-BC57-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_457948",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-06-21T08:08:22.050+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-BC57-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "" ],
+  "metadata" : {
+    "title" : "Kayardild morphology, phonology and morphosyntax",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Erich R.",
+        "familyName" : "Round",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2009",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "New Haven, Connecticut",
+      "publisher" : "Yale Univ."
+    },
+    "freeKeywords" : "LoC Subject Headings: Gayardilt language",
+    "subjects" : [ {
+      "value" : "gyd - Kayardild",
+      "type" : "ISO639_3"
+    } ],
+    "tableOfContents" : "Abstract\nAcknowledgements \nList of Abbreviations \n1 Introduction\n2 Phonetics and surface phonology \n3 Word structure\n4 Segmental phonology \n5 Prosodic structure and intonation\n6 Syntax, morphosyntax and inflection\n7 Realisational morphology \nAppendix A Segmental phonology \nAppendix B Distribution of A-TAM\nReferences",
+    "abstracts" : [ {
+      "value" : "PL7101.G39 , gyd , Gayardilt language --Morphology , Gayardilt language --Phonology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_457947",
+    "name" : "http://www.ling.yale.edu/~erich/Dissertation_thesis.html",
+    "creationDate" : "2010-06-14T08:15:22.914+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-BC56-6",
+    "content" : "http://www.ling.yale.edu/~erich/Dissertation_thesis.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "84cf6ac48ad8c6098e809ae5f5b58ea2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ling.yale.edu/~erich/Dissertation_thesis.html",
+      "contentCategory" : "publisher-version",
+      "description" : "Homepage Erich R. Round, Yale University",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_457957",
+    "name" : "ToC.pdf",
+    "creationDate" : "2010-06-14T08:36:33.844+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-BC59-F",
+    "content" : "/rest/items/item_457948_5/component/file_457957/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fcfc8ec3c93fdb6d97127af0383bc238",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 108226,
+    "metadata" : {
+      "title" : "ToC.pdf",
+      "contentCategory" : "table-of-contents",
+      "description" : "Table of Contents",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 108226
+    }
+  }, {
+    "objectId" : "file_457958",
+    "name" : "Abstract.pdf",
+    "creationDate" : "2010-06-14T08:36:33.898+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-BC5A-D",
+    "content" : "/rest/items/item_457948_5/component/file_457958/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "93b972df69dea382eff56f3cfa9d1c96",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 37705,
+    "metadata" : {
+      "title" : "Abstract.pdf",
+      "contentCategory" : "abstract",
+      "description" : "Abstract",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 37705
+    }
+  }, {
+    "objectId" : "file_457959",
+    "name" : "kayardild_round2009_s.pdf",
+    "creationDate" : "2010-06-14T08:36:33.950+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-BC5B-B",
+    "content" : "/rest/items/item_457948_5/component/file_457959/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "950e757a7f2235e8efb8ce3e9ad4a52c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 28288269,
+    "metadata" : {
+      "title" : "kayardild_round2009_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 28288269,
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/"
+    }
+  } ]
+}

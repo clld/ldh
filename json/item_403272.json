@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_403272",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T10:59:22.993+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7E1C-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:59:22.993+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E1C-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:07:07.634+0000",
+  "latestRelease" : {
+    "objectId" : "item_403272",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T10:59:22.993+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7E1C-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403272",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T10:59:22.993+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7E1C-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Negation in syntax--on the nature of functional categories and projections",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Itziar",
+        "familyName" : "Laka",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1990",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31120",
+      "type" : "OTHER"
+    }, {
+      "id" : "negation_laka1990_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cambridge",
+      "publisher" : "Massachussets Inst. of Technology"
+    },
+    "totalNumberOfPages" : "270 S.",
+    "abstracts" : [ {
+      "value" : "P291, Grammar, Comparative and general--Negatives, Grammar, Comparative and general--Syntax"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403270",
+    "name" : "http://www.ai.mit.edu/projects/dm/theses/laka90.pdf",
+    "creationDate" : "2010-04-01T12:06:59.600+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E1A-6",
+    "content" : "http://www.ai.mit.edu/projects/dm/theses/laka90.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5fba539200c8126d4c406f0e56f559b7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ai.mit.edu/projects/dm/theses/laka90.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403271",
+    "name" : "negation_laka1990_o.pdf",
+    "creationDate" : "2010-04-01T12:07:06.682+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E1B-4",
+    "content" : "/rest/items/item_403272_4/component/file_403271/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3f36929e7a6180d99c696def1d018e36",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9659320,
+    "metadata" : {
+      "title" : "negation_laka1990_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9659320,
+      "copyrightDate" : "2010-12-01",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

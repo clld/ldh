@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_407575",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:46:12.628+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-96F0-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:46:12.628+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-96F0-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:15:37.074+0000",
+  "latestRelease" : {
+    "objectId" : "item_407575",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:46:12.628+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-96F0-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407575",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:46:12.628+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-96F0-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Fonética e fonologia da língua Araweté : uma nova contribuiçao",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Alves, Juliana Ferreira",
+        "givenName" : "Juliana Ferreira",
+        "familyName" : "Alves",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "39457",
+      "type" : "OTHER"
+    }, {
+      "id" : "arawete_alves2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Brasília",
+      "publisher" : " Univ. de Brasília"
+    },
+    "freeKeywords" : "LoC Class: PM7175,\nLoC Subject Headings: Tupi-Guarani languages--Phonology",
+    "subjects" : [ {
+      "value" : "awt - Araweté",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiv, 81 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407573",
+    "name" : "http://www.etnolinguistica.org/tese:alves-2008",
+    "creationDate" : "2010-04-01T14:15:34.400+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-96EE-6",
+    "content" : "http://www.etnolinguistica.org/tese:alves-2008",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "853fd894293516a31a793d2164ab14c9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.etnolinguistica.org/tese:alves-2008",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407574",
+    "name" : "arawete_alves2008_s.pdf",
+    "creationDate" : "2010-04-01T14:15:36.148+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-96EF-4",
+    "content" : "/rest/items/item_407575_2/component/file_407574/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "314aacc2222532b84ae8a76952edfa12",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2477277,
+    "metadata" : {
+      "title" : "arawete_alves2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2477277
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

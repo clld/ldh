@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403619",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-04-07T10:08:52.972+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A87E-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz ergänzt",
+  "lastModificationDate" : "2015-04-07T10:08:52.972+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-809A-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:20:47.964+0000",
+  "latestRelease" : {
+    "objectId" : "item_403619",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-07T10:08:52.972+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A87E-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403619",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-07T10:08:52.972+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A87E-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dictionnaire et grammaire de la langue crise",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Albert",
+        "familyName" : "Lacombe",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1872",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31434",
+      "type" : "OTHER"
+    }, {
+      "id" : "crise_lacombe1872_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Montréal",
+      "publisher" : "Beauchemin & Valois"
+    },
+    "freeKeywords" : "LoC Class: PM987, LoC Subject Headings: Cree language",
+    "subjects" : [ {
+      "value" : "csw - Swampy Cree",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "17 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM987, Cree language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403618",
+    "name" : "crise_lacombe1872_o.pdf",
+    "creationDate" : "2010-04-01T12:20:47.691+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8099-8",
+    "content" : "/rest/items/item_403619_6/component/file_403618/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "021c2d1738ac06a66675436bc49e09a4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1506513,
+    "metadata" : {
+      "title" : "crise_lacombe1872_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1506513,
+      "copyrightDate" : "2010-11-18",
+      "rights" : "public domain, Albert Lacombe 1827-1916"
+    }
+  }, {
+    "objectId" : "file_2129389",
+    "name" : "https://archive.org/details/cihm_30679",
+    "creationDate" : "2015-04-07T10:05:25.565+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/cihm_30679",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b2e1df88ebbb8f19f6284ce59a62080a",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/cihm_30679",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org Internet Archive, pdf download",
+      "size" : 0
+    }
+  } ]
+}

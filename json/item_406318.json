@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_406318",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T19:45:04.214+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F62-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:45:04.214+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8FFF-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:35:30.093+0000",
+  "latestRelease" : {
+    "objectId" : "item_406318",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T19:45:04.214+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F62-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406318",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T19:45:04.214+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F62-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Inference of string mappings for language technology",
+    "alternativeTitles" : [ {
+      "value" : "Inference of string mappings for speech technology",
+      "type" : "OTHER"
+    } ],
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Martin",
+        "familyName" : "Jansche",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36691",
+      "type" : "OTHER"
+    }, {
+      "id" : "inference_jansche2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: P98, LoC Subject Headings: Computational linguistics, LoC Subject Headings: Natural language processing (Computer science)",
+    "totalNumberOfPages" : "XV, 268 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406317",
+    "name" : "inference_jansche2003_s.pdf",
+    "creationDate" : "2010-04-01T13:35:29.843+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8FFE-E",
+    "content" : "/rest/items/item_406318_4/component/file_406317/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6611340ca98438ec867d83175796119f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1522561,
+    "metadata" : {
+      "title" : "inference_jansche2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1522561
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2043603",
+    "name" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1061209163",
+    "creationDate" : "2014-07-22T09:43:06.824+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1061209163",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "37beaa169649f6c9a67c96392400c70c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1061209163",
+      "contentCategory" : "any-fulltext",
+      "description" : "OhioLINK, Electronic Theses & Dissertations Center, pdf",
+      "size" : 0
+    }
+  } ]
+}

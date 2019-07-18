@@ -1,0 +1,127 @@
+{
+  "objectId" : "item_400853",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T17:12:12.271+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6E2E-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T17:12:12.271+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6FF1-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:59:50.975+0000",
+  "latestRelease" : {
+    "objectId" : "item_400853",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T17:12:12.271+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E2E-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400853",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T17:12:12.271+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E2E-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Lexique Nomaándé - Français",
+    "creators" : [ {
+      "organization" : {
+        "identifier" : "ou_persistent22",
+        "name" : "Comité de langue Nomaándé",
+        "identifierPath" : [ "ou_persistent22" ]
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "2003",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "24345",
+      "type" : "OTHER"
+    }, {
+      "id" : "nomaande_pronom2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "freeKeywords" : "LoC Class: PL8021.C35, LoC Subject Headings: Nomaante language, LoC Subject Headings: Cameroon--Languages",
+    "subjects" : [ {
+      "value" : "lem - Nomaande",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "fra - French",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "24 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400851",
+    "name" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/lexicons/Nomaande%20Provisional%20Lexicon.pdf",
+    "creationDate" : "2010-04-01T10:59:50.343+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/lexicons/Nomaande%20Provisional%20Lexicon.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/lexicons/Nomaande%20Provisional%20Lexicon.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400852",
+    "name" : "nomaande_pronom2003_s.pdf",
+    "creationDate" : "2010-04-01T10:59:50.885+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6FF0-8",
+    "content" : "/rest/items/item_400853_4/component/file_400852/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4bf62cbb10c54d793be002d93266b434",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 217586,
+    "metadata" : {
+      "title" : "nomaande_pronom2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 217586
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_405543",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-08T11:22:26.789+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-DD34-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-08T11:22:26.789+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8BB6-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:15:09.639+0000",
+  "latestRelease" : {
+    "objectId" : "item_405543",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-08T11:22:26.789+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DD34-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405543",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-08T11:22:26.789+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DD34-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "El léxico taurino : estudio semántico, lexicográfico antroponímico",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Alejandro",
+        "familyName" : "Huamán Cayo",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35037",
+      "type" : "OTHER"
+    }, {
+      "id" : "taurino_huaman2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "place" : "Lima",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PC5043,\nLoC Subject Headings: Portuguese language"
+  },
+  "files" : [ {
+    "objectId" : "file_405542",
+    "name" : "taurino_huaman2003_s.pdf",
+    "creationDate" : "2010-04-01T13:15:08.095+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8BB5-E",
+    "content" : "/rest/items/item_405543_3/component/file_405542/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "574103db40f97661befa1957f6de77ad",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2211465,
+    "metadata" : {
+      "title" : "taurino_huaman2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2211465
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2039488",
+    "name" : "http://cybertesis.unmsm.edu.pe/handle/cybertesis/2944",
+    "creationDate" : "2014-07-08T11:20:48.916+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-DD36-3",
+    "content" : "http://cybertesis.unmsm.edu.pe/handle/cybertesis/2944",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "959d5a963313d7f4ee3ce42206685889",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://cybertesis.unmsm.edu.pe/handle/cybertesis/2944",
+      "contentCategory" : "any-fulltext",
+      "description" : "Universidad Nacional Mayor de San Marcos, repositorio institucional de tesis digitales Cybertesis, pdf",
+      "size" : 0
+    }
+  } ]
+}

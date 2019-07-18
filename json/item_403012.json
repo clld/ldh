@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_403012",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-01-09T11:02:12.033+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-D19E-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "falsche Datei hochgeladen, berichtigt",
+  "lastModificationDate" : "2014-01-09T11:02:12.033+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7C82-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:50:51.647+0000",
+  "latestRelease" : {
+    "objectId" : "item_403012",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-01-09T11:02:12.033+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-D19E-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403012",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-01-09T11:02:12.033+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-D19E-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The function of glottal stop in Gahuku",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ellis W.",
+        "familyName" : "Deibler",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1987",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "30800",
+      "type" : "OTHER"
+    }, {
+      "id" : "gahuku_deibler1976_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Data Papers on Papua New Guinea Languages",
+      "endPage" : "30",
+      "publishingInfo" : {
+        "place" : "Ukarumpa",
+        "publisher" : "N.A."
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6621.G33,\nLoC Subject Headings: Gahuku language",
+    "subjects" : [ {
+      "value" : "gah - Alekano",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "7 Bl."
+  },
+  "files" : [ {
+    "objectId" : "file_403010",
+    "name" : "http://www.sil.org/pacific/png/pubs/0000166/Functional%20of%20Glottal%20Stop%20in%20Gahuku.pdf",
+    "creationDate" : "2010-04-01T11:50:49.611+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-D19F-9",
+    "content" : "http://www.sil.org/pacific/png/pubs/0000166/Functional%20of%20Glottal%20Stop%20in%20Gahuku.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "151f2c32cd4229053a3e03ea8ce32c47",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/pacific/png/pubs/0000166/Functional%20of%20Glottal%20Stop%20in%20Gahuku.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_1896597",
+    "name" : "gahuku_deibler1976_o.pdf",
+    "creationDate" : "2014-01-09T11:01:37.679+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0014-D1A0-3",
+    "content" : "/rest/items/item_403012_4/component/file_1896597/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "16db65ddcddca6079e8e6cd40c849ba9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 136046,
+    "metadata" : {
+      "title" : "gahuku_deibler1976_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 136046
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

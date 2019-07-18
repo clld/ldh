@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_402662",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-13T01:57:15.139+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-723F-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:57:15.139+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7A66-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:35:52.238+0000",
+  "latestRelease" : {
+    "objectId" : "item_402662",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T01:57:15.139+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-723F-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402662",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T01:57:15.139+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-723F-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Topics, presuppositions, and theticity: An empirical study of verb-subject clauses in Albanian, Greek, and Serbo-Croat",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Dejan",
+        "familyName" : "Matic",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30239",
+      "type" : "OTHER"
+    }, {
+      "id" : "verbsubject_matic2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Köln",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PG9522, LoC Subject Headings: Albanian language, LoC Subject Headings: Greek language/Modern, LoC Subject Headings: Serbo-Croatian language",
+    "subjects" : [ {
+      "value" : "als - Tosk Albanian",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "ell - Modern Greek (1453-)",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "502 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PG9522,\nLoC Subject Headings: Albanian language--Clauses, Greek language/Modern--Clauses, Serbo-Croatian language--Clauses"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402660",
+    "name" : "http://kups.ub.uni-koeln.de/volltexte/2004/1132/pdf/DISS.pdf",
+    "creationDate" : "2010-04-01T11:35:50.260+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://kups.ub.uni-koeln.de/volltexte/2004/1132/pdf/DISS.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "159a8d57f8d79f2f4816000539cbf82f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://kups.ub.uni-koeln.de/volltexte/2004/1132/pdf/DISS.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402661",
+    "name" : "verbsubject_matic2003_s.pdf",
+    "creationDate" : "2010-04-01T11:35:51.704+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A65-9",
+    "content" : "/rest/items/item_402662_4/component/file_402661/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "575c0659eb1d3e38d7359956a1bd7924",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4836532,
+    "metadata" : {
+      "title" : "verbsubject_matic2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4836532,
+      "copyrightDate" : "2013-11-29",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

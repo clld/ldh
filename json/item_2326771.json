@@ -1,0 +1,114 @@
+{
+  "objectId" : "item_2326771",
+  "versionNumber" : 5,
+  "modificationDate" : "2017-02-20T08:22:07.461+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-002C-7B6F-8",
+  "modifier" : {
+    "objectId" : "user_2073577"
+  },
+  "lastModificationDate" : "2017-02-20T08:22:07.461+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-002B-1748-4",
+  "creator" : {
+    "objectId" : "user_2073577"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2016-08-03T08:28:53.453+0000",
+  "latestRelease" : {
+    "objectId" : "item_2326771",
+    "versionNumber" : 5,
+    "modificationDate" : "2017-02-20T08:22:07.461+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002C-7B6F-8",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2326771",
+    "versionNumber" : 5,
+    "modificationDate" : "2017-02-20T08:22:07.461+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002C-7B6F-8",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "A grammar of Nanga (Dogon language family, Mali)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jeffrey",
+        "familyName" : "Heath",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "University of Michigan",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ],
+        "identifier" : {
+          "id" : "/persons/resource/persons202070",
+          "type" : "CONE"
+        }
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedOnline" : "2016-07",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "10.17617/2.2326771",
+      "type" : "DOI"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Ann Arbor",
+      "publisher" : "Univ. of Michigan"
+    },
+    "freeKeywords" : "LoC Class: PL8139.1, LoC Subject Headings: Dogon language",
+    "subjects" : [ {
+      "value" : "dbg - Dogul Dom Dogon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "444"
+  },
+  "files" : [ {
+    "objectId" : "file_2326770",
+    "name" : "Heath Nanga grammar 2016(1).pdf",
+    "creationDate" : "2016-08-03T08:28:52.096+0000",
+    "creator" : {
+      "objectId" : "user_2073577"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-002B-174A-F",
+    "content" : "/rest/items/item_2326771_5/component/file_2326770/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1dd4c68c717b1f2bd7470ffc5e695250",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 81692044,
+    "metadata" : {
+      "title" : "Heath Nanga grammar 2016(1).pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 81692044,
+      "rights" : "©by the author ",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

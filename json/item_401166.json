@@ -1,0 +1,120 @@
+{
+  "objectId" : "item_401166",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T17:30:18.311+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6E5A-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T17:30:18.311+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-71CC-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:06:45.019+0000",
+  "latestRelease" : {
+    "objectId" : "item_401166",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T17:30:18.311+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E5A-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401166",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T17:30:18.311+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E5A-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Formal problems in semitic phonology and morphology",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "John Joseph",
+        "familyName" : "McCarthy",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1979",
+    "datePublishedInPrint" : "1979",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "25250",
+      "type" : "OTHER"
+    }, {
+      "id" : "semitic_mccarthy1979_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cambridge, Mass.",
+      "publisher" : "MIT"
+    },
+    "freeKeywords" : "LoC Class:  ISO 639-3 arb, LoC Subject Headings: Hebrew language, LoC Subject Headings: Arabic language",
+    "subjects" : [ {
+      "value" : "heb - Hebrew",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "427 S.",
+    "abstracts" : [ {
+      "value" : "PJ3023, ISO 639-3 : -, Arabic language -- Phonology, Hebrew language -- Phonology, Arabic language -- Inflection, Hebrew language -- Inflection"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401165",
+    "name" : "semitic_mccarthy1979_o.pdf",
+    "creationDate" : "2010-04-01T11:06:43.092+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-71CB-F",
+    "content" : "/rest/items/item_401166_4/component/file_401165/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a0e37838191affdcbd99fff770967374",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 19944936,
+    "metadata" : {
+      "title" : "semitic_mccarthy1979_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 19944936,
+      "copyrightDate" : "2010-08-10",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

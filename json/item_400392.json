@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_400392",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-09-04T09:05:34.028+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-CA8B-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz ergänzt",
+  "lastModificationDate" : "2014-09-04T09:05:34.028+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6D33-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:50:15.183+0000",
+  "latestRelease" : {
+    "objectId" : "item_400392",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-09-04T09:05:34.028+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-CA8B-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400392",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-09-04T09:05:34.028+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-CA8B-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "An overview of linguistic structures in Torwali, a language of northern Pakistan",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Wayne A.",
+        "familyName" : "Lunsford",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "18078",
+      "type" : "OTHER"
+    }, {
+      "id" : "torwali_lunsford2001.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "0-493-48648-8",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Arlington",
+      "publisher" : "Univ. of Texas"
+    },
+    "freeKeywords" : "LoC Class: PK7045.T6,\nLoC Subject Headings: Torwali language",
+    "subjects" : [ {
+      "value" : "trw - Torwali",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 135 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400391",
+    "name" : "torwali_lunsford2001.pdf",
+    "creationDate" : "2010-04-01T10:50:14.663+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6D32-4",
+    "content" : "/rest/items/item_400392_3/component/file_400391/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b0f2c8f959e47acaa99ed4aa9519699d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4968907,
+    "metadata" : {
+      "title" : "torwali_lunsford2001.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4968907
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2055774",
+    "name" : "http://www.fli-online.org/documents/languages/torwali/wayne_lunsford_thesis.pdf",
+    "creationDate" : "2014-09-04T09:05:11.694+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.fli-online.org/documents/languages/torwali/wayne_lunsford_thesis.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5be1b67479b058ff00dab5432a4e15d1",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.fli-online.org/documents/languages/torwali/wayne_lunsford_thesis.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "fli online, Forum for Language Initiatives, Resource and training centre working to enable the language communities of northern Pakistan to preserve and promote their mother tongues, pdf",
+      "size" : 0
+    }
+  } ]
+}

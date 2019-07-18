@@ -1,0 +1,155 @@
+{
+  "objectId" : "item_405590",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-08T12:05:31.529+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-DDB0-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-08T12:05:31.529+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8BF6-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:16:00.520+0000",
+  "latestRelease" : {
+    "objectId" : "item_405590",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-08T12:05:31.529+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DDB0-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405590",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-08T12:05:31.529+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DDB0-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Variable Wh-words in Turkish",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Emrah",
+        "familyName" : "Görgülü",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35060",
+      "type" : "OTHER"
+    }, {
+      "id" : "turkish_gorgulu2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Istanbul",
+      "publisher" : "Bogazici Univ."
+    },
+    "freeKeywords" : "LoC Class: PL123,\nLoC Subject Headings: Turkish language",
+    "subjects" : [ {
+      "value" : "tur - Turkish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "[82 Bl.]"
+  },
+  "files" : [ {
+    "objectId" : "file_405589",
+    "name" : "turkish_gorgulu2006_s.pdf",
+    "creationDate" : "2010-04-01T13:16:00.392+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8BF5-D",
+    "content" : "/rest/items/item_405590_3/component/file_405589/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "16e04d1caa1cdafd5d944076c97ea5d6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 423210,
+    "metadata" : {
+      "title" : "turkish_gorgulu2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 423210
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2039542",
+    "name" : "http://www.sfu.ca/~ega5/",
+    "creationDate" : "2014-07-08T12:04:47.591+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-DDB2-9",
+    "content" : "http://www.sfu.ca/~ega5/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "12e57459798ebcd5c6d208fde64fbce4",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sfu.ca/~ega5/",
+      "contentCategory" : "any-fulltext",
+      "description" : "Simon Fraser Univ., Dr. Emrah Görgülü's website, Education,  M.A. Thesis, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2039543",
+    "name" : "http://www.sfu.ca/~ega5/gorgulu_ma_thesis.pdf",
+    "creationDate" : "2014-07-08T12:04:48.581+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-DDB4-5",
+    "content" : "http://www.sfu.ca/~ega5/gorgulu_ma_thesis.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d064f2f8f457fe86306d2c04899e8a76",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sfu.ca/~ega5/gorgulu_ma_thesis.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

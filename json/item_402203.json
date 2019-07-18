@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_402203",
+  "versionNumber" : 5,
+  "modificationDate" : "2014-06-20T07:07:47.072+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-C1DB-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Stichwörter für LDH-Blogimport bereinigt",
+  "lastModificationDate" : "2014-06-20T07:07:47.072+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-77D4-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:27:40.494+0000",
+  "latestRelease" : {
+    "objectId" : "item_402203",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-06-20T07:07:47.072+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-C1DB-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402203",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-06-20T07:07:47.072+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-C1DB-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammar of the Kurmanji or Kurdish language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ely Banister",
+        "familyName" : "Soane",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1913",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29281",
+      "type" : "OTHER"
+    }, {
+      "id" : "kurmanji_soane1913_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "London",
+      "publisher" : "Luzac"
+    },
+    "sources" : [ {
+      "title" : "Luzac's oriental grammars series",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PK6904, LoC Subject Headings: Kurdish language",
+    "subjects" : [ {
+      "value" : "kmr - Kurdish, Northern",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xvi, 289 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PK6904, LoC Subject Headings: Kurdish language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402202",
+    "name" : "kurmanji_soane1913_o.pdf",
+    "creationDate" : "2010-04-01T11:27:39.784+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-77D3-7",
+    "content" : "/rest/items/item_402203_5/component/file_402202/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7b9ad0f52cee31bea82818219e32b88e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6982429,
+    "metadata" : {
+      "title" : "kurmanji_soane1913_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6982429,
+      "copyrightDate" : "2010-12-09",
+      "rights" : "not in copyright, Ely Banister Soane 1881-1923"
+    }
+  }, {
+    "objectId" : "file_2034099",
+    "name" : "https://archive.org/details/rosettaproject_kmr_multiple-1",
+    "creationDate" : "2014-06-20T07:06:29.564+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-C1DC-E",
+    "content" : "https://archive.org/details/rosettaproject_kmr_multiple-1",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3d1792a57878df437cfd3c168b4e5659",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/rosettaproject_kmr_multiple-1",
+      "contentCategory" : "publisher-version",
+      "description" : "archive.org, The Rossetta Project--Texts, pdf",
+      "size" : 0
+    }
+  } ]
+}

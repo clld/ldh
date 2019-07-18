@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_402676",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T06:29:37.238+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA12-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T06:29:37.238+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7A7B-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:36:28.592+0000",
+  "latestRelease" : {
+    "objectId" : "item_402676",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T06:29:37.238+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA12-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402676",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T06:29:37.238+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA12-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Wollof grammar manual",
+    "creators" : [ {
+      "organization" : {
+        "identifier" : "ou_persistent22",
+        "name" : "United States / Peace Corps",
+        "identifierPath" : [ "ou_persistent22" ]
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "1995",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "30260",
+      "type" : "OTHER"
+    }, {
+      "id" : "wollof_peace1995a_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Banjul",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL8785.1, LoC Subject Headings: Wolof language",
+    "subjects" : [ {
+      "value" : "wof - Gambian Wolof",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "73 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8785.1, LoC Subject Headings: Wolof language--Grammar, LoC Subject Headings: Gambia--Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402674",
+    "name" : "http://www.africanculture.dk/gambia/ftp/wolfgram.pdf",
+    "creationDate" : "2010-04-01T11:36:08.412+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A79-C",
+    "content" : "http://www.africanculture.dk/gambia/ftp/wolfgram.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e092c669e9d55d1642572d5a7fe92282",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.africanculture.dk/gambia/ftp/wolfgram.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402675",
+    "name" : "wollof_peace1995a_s.pdf",
+    "creationDate" : "2010-04-01T11:36:28.467+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A7A-A",
+    "content" : "/rest/items/item_402676_4/component/file_402675/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0d6eeeca2d4ed3cecf6926db250d00a0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 259486,
+    "metadata" : {
+      "title" : "wollof_peace1995a_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 259486
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

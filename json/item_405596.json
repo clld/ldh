@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_405596",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:58:46.468+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8BFE-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:58:46.468+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8BFE-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:16:03.918+0000",
+  "latestRelease" : {
+    "objectId" : "item_405596",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:58:46.468+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8BFE-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405596",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:58:46.468+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8BFE-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Turkmen : language competencies for Peace Corps volunteers in Turkmenistan",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Tyson, David",
+        "givenName" : "David",
+        "familyName" : "Tyson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Larry",
+        "familyName" : "Clark"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1993",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "35062",
+      "type" : "OTHER"
+    }, {
+      "id" : "turkmen_tyson1993_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Washington, D.C.",
+      "publisher" : "Peace Corps"
+    },
+    "freeKeywords" : "LoC Class: PL331,\nLoC Subject Headings: Turkmen language",
+    "subjects" : [ {
+      "value" : "tuk - Turkmen",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "178 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405594",
+    "name" : "http://tinyurl.com/4ujjnw",
+    "creationDate" : "2010-04-01T13:16:02.521+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8BFC-0",
+    "content" : "http://tinyurl.com/4ujjnw",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "789887e0fa8d31c0443e6deadfaa1fd3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://tinyurl.com/4ujjnw",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405595",
+    "name" : "turkmen_tyson1993_o.pdf",
+    "creationDate" : "2010-04-01T13:16:03.556+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8BFD-E",
+    "content" : "/rest/items/item_405596_2/component/file_405595/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "dc8ba9ca4971eebab2888a7fc130cc1a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3274170,
+    "metadata" : {
+      "title" : "turkmen_tyson1993_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3274170
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

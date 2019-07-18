@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_405323",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-07T07:42:39.876+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A7DF-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-07T07:42:39.876+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8A78-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:07:16.875+0000",
+  "latestRelease" : {
+    "objectId" : "item_405323",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-07T07:42:39.876+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7DF-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405323",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-07T07:42:39.876+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7DF-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A description of Moloko phonology",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Catherine",
+        "familyName" : "Bow",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1997",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34538",
+      "type" : "OTHER"
+    }, {
+      "id" : "moloko_bow1997_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yaoundé, Cameroon",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PL8026.C53, LoC Subject Headings: Chadic languages",
+    "subjects" : [ {
+      "value" : "mlw - Moloko",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "42 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8026.C53, LoC Subject Headings: Chadic languages--Phonology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405322",
+    "name" : "moloko_bow1997_o.pdf",
+    "creationDate" : "2010-04-01T13:07:16.683+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A77-F",
+    "content" : "/rest/items/item_405323_4/component/file_405322/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a50d40037a328e97838de6a49e51f00a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1404841,
+    "metadata" : {
+      "title" : "moloko_bow1997_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1404841
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2129323",
+    "name" : "http://www.sil.org/resources/archives/47672",
+    "creationDate" : "2015-04-07T07:40:52.402+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/47672",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f6de6e3c0eb9eee0a1064709abf5068d",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/47672",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL, link to fulltext version",
+      "size" : 0
+    }
+  } ]
+}

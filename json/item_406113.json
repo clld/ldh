@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_406113",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T08:22:14.755+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA6C-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-21T08:22:14.755+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8EDE-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:29:45.601+0000",
+  "latestRelease" : {
+    "objectId" : "item_406113",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:22:14.755+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA6C-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406113",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:22:14.755+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA6C-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Probably approximately correct learning of constraint ranking in optimality theory",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ying",
+        "familyName" : "Lin",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35905",
+      "type" : "OTHER"
+    }, {
+      "id" : "ranking_lin2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Los Angeles",
+      "publisher" : "Univ. of California"
+    },
+    "freeKeywords" : "LoC Class: P291, LoC Subject Headings: Grammar/Comparative and general--Syntax, LoC Subject Headings: Optimality theory (Linguistics)",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "V, 62 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406111",
+    "name" : "http://dingo.sbs.arizona.edu/%7Eyinglin/thesis.pdf",
+    "creationDate" : "2010-04-01T13:29:27.714+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dingo.sbs.arizona.edu/%7Eyinglin/thesis.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "dcc65a6408649a8ec88f2b8c473086c0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dingo.sbs.arizona.edu/%7Eyinglin/thesis.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406112",
+    "name" : "ranking_lin2003_s.pdf",
+    "creationDate" : "2010-04-01T13:29:45.311+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8EDD-F",
+    "content" : "/rest/items/item_406113_4/component/file_406112/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0e3f4e47369860461c98d150a279310c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2477513,
+    "metadata" : {
+      "title" : "ranking_lin2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2477513
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

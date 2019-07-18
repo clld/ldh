@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_407126",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-01-23T13:42:43.332+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-A24E-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-01-23T13:42:43.332+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-947D-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:55:08.999+0000",
+  "latestRelease" : {
+    "objectId" : "item_407126",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-23T13:42:43.332+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A24E-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407126",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-23T13:42:43.332+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A24E-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Kurukh grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ferdinand",
+        "familyName" : "Hahn",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1911",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37736",
+      "type" : "OTHER"
+    }, {
+      "id" : "kurukh_hahn1911_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Calcutta",
+      "publisher" : "Bengal Secretariat Press"
+    },
+    "freeKeywords" : "LoC Class: PL4702,\nLoC Subject Headings: Kurukh language",
+    "subjects" : [ {
+      "value" : "kru - Kurux",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiv, 162 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL4702,\nLoC Subject Headings: Kurukh language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407124",
+    "name" : "http://www.archive.org/details/kurukhgrammar00hahnuoft",
+    "creationDate" : "2010-04-01T13:55:05.349+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.archive.org/details/kurukhgrammar00hahnuoft",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "cfcd0e7841020dbe24173cef07330429",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/kurukhgrammar00hahnuoft",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, view online & pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407125",
+    "name" : "kurukh_hahn1911_o.pdf",
+    "creationDate" : "2010-04-01T13:55:06.608+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-947C-7",
+    "content" : "/rest/items/item_407126_3/component/file_407125/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2773445161b5abd79a3ee143da2f2ceb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 24631122,
+    "metadata" : {
+      "title" : "kurukh_hahn1911_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 24631122,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_407743",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-14T08:47:49.989+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B25D-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-14T08:47:49.989+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-97D3-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:19:38.713+0000",
+  "latestRelease" : {
+    "objectId" : "item_407743",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-14T08:47:49.989+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B25D-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407743",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-14T08:47:49.989+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B25D-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Pragmatic aspects of English text structure",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Larry Bert",
+        "familyName" : "Jones",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1983",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "41819",
+      "type" : "OTHER"
+    }, {
+      "id" : "english_jones1983_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Dallas, Tex.",
+      "publisher" : "Summer Institute of Linguistics [u.a.]"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics",
+      "volume" : "67",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PE1422, LoC Subject Headings: English language, LoC Subject Headings: Pragmatics",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "X, 150 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PE1422, LoC Subject Headings: English language--Discourse analysis, LoC Subject Headings: Pragmatics"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407742",
+    "name" : "english_jones1983_o.pdf",
+    "creationDate" : "2010-04-01T14:19:38.077+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-97D2-B",
+    "content" : "/rest/items/item_407743_4/component/file_407742/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c7d5f5052b70603be1ad3c0adbcf1134",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6138160,
+    "metadata" : {
+      "title" : "english_jones1983_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6138160
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2144431",
+    "name" : "http://www.sil.org/resources/archives/8486",
+    "creationDate" : "2015-04-14T08:47:24.129+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/8486",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "40923f80b6a0bf620c13ba0c78f41387",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/8486",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Archive, pdf download",
+      "size" : 0
+    }
+  } ]
+}

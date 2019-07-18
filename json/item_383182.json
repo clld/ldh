@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_383182",
+  "versionNumber" : 10,
+  "modificationDate" : "2014-08-20T09:05:06.769+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-C01A-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Stichwörter bereinigt",
+  "lastModificationDate" : "2014-08-20T09:05:06.769+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-680A-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-03-05T21:26:18.670+0000",
+  "latestRelease" : {
+    "objectId" : "item_383182",
+    "versionNumber" : 10,
+    "modificationDate" : "2014-08-20T09:05:06.769+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C01A-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_383182",
+    "versionNumber" : 10,
+    "modificationDate" : "2014-08-20T09:05:06.769+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C01A-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "Linglit Import 3 2010-03-05 17:04" ],
+  "metadata" : {
+    "title" : "Syntactic dependencies in Mandarin Chinese",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ning",
+        "familyName" : "Zhang",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1997",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37741",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "freeKeywords" : "LoC Class: PL1241, LoC Subject Headings: Chinese language",
+    "subjects" : [ {
+      "value" : "cmn - Mandarin Chinese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "viii, 288 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL1241, LoC Subject Headings: Chinese language--Syntax"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_383181",
+    "name" : "mandarin_zhang1997_o.pdf",
+    "creationDate" : "2010-03-05T21:26:18.191+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6809-8",
+    "content" : "/rest/items/item_383182_10/component/file_383181/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "41623de400a680ec3b2605be9f9b63e6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4404780,
+    "metadata" : {
+      "title" : "mandarin_zhang1997_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4404780,
+      "copyrightDate" : "2010-01-29",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_2030313",
+    "name" : "http://hdl.handle.net/1807/10695",
+    "creationDate" : "2014-05-28T12:02:38.359+0000",
+    "creator" : {
+      "objectId" : "user_36017"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1807/10695",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f3c29457fe4531c65d8761408111b798",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1807/10695",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Toronto, research repository T-Space, pdf",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_406333",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-05-05T07:39:41.816+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C68E-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-05-05T07:39:41.816+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9013-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:35:40.141+0000",
+  "latestRelease" : {
+    "objectId" : "item_406333",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-05T07:39:41.816+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C68E-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406333",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-05T07:39:41.816+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C68E-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocablos y expresiones médicos más usuales en veinte idiomas vernáculos peruanos",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mary Ruth",
+        "familyName" : "Wise",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1978",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "36716",
+      "type" : "OTHER"
+    }, {
+      "id" : "vernaculos_wise1978_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yarinacocha",
+      "publisher" : "Ministerio de educacion, Inst. linguistico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Documento de Trabajo",
+      "volume" : "2",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5271, LoC Subject Headings: Indians of South America--Peru--Languages",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "126 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5271, LoC Subject Headings: Indians of South America -- Peru -- Languages -- Conversation and phrase books (for medical personnel)"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406332",
+    "name" : "vernaculos_wise1978_o.pdf",
+    "creationDate" : "2010-04-01T13:35:39.704+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9012-8",
+    "content" : "/rest/items/item_406333_3/component/file_406332/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "861bc956019e3ddfc794e0a4167479a2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4069276,
+    "metadata" : {
+      "title" : "vernaculos_wise1978_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4069276
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2149589",
+    "name" : "http://www.peru.sil.org/resources/archives/29787",
+    "creationDate" : "2015-05-05T07:39:16.682+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/29787",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0eb6f4a466047785b3531899b188a829",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/29787",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Language & Culture Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

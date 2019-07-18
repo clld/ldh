@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_402195",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T19:29:44.945+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F48-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:29:44.945+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-77C9-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:27:35.296+0000",
+  "latestRelease" : {
+    "objectId" : "item_402195",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T19:29:44.945+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F48-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402195",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T19:29:44.945+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F48-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "K'iche' - English dictionary and guide to pronunciation of the KŽicheŽ-Maya alphabet",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Christenson, Allen J.",
+        "givenName" : "Allen J.",
+        "familyName" : "Christenson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1990",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29266",
+      "type" : "OTHER"
+    }, {
+      "id" : "kiche_christenson1985_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[Provo]",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM4231.Z5, LoC Subject Headings: Quiche language --Dictionaries, LoC Subject Headings: Quiche language --Idioms",
+    "subjects" : [ {
+      "value" : "quj - Kiche, Joyabaj",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "153 Bl."
+  },
+  "files" : [ {
+    "objectId" : "file_402193",
+    "name" : "http://www.famsi.org/mayawriting/dictionary/christenson/",
+    "creationDate" : "2010-04-01T11:27:34.548+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.famsi.org/mayawriting/dictionary/christenson/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "23f2777292e0df26e4207d436a91e482",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.famsi.org/mayawriting/dictionary/christenson/",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402194",
+    "name" : "kiche_christenson1985_s.pdf",
+    "creationDate" : "2010-04-01T11:27:35.181+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-77C8-3",
+    "content" : "/rest/items/item_402195_3/component/file_402194/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7fa5873e5e0b57b6aa052479e2c7b7d9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 594225,
+    "metadata" : {
+      "title" : "kiche_christenson1985_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 594225
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

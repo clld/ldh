@@ -1,0 +1,155 @@
+{
+  "objectId" : "item_400332",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-06-04T08:23:59.781+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-B281-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-06-04T08:23:59.781+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6CB9-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:45:23.999+0000",
+  "latestRelease" : {
+    "objectId" : "item_400332",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-04T08:23:59.781+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-B281-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400332",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-04T08:23:59.781+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-B281-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Bole verb morphology",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Alhaji Maina",
+        "familyName" : "Gimba",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "datePublishedInPrint" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "17648",
+      "type" : "OTHER"
+    }, {
+      "id" : "bole_gimba2000_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PL8080.B63,\nLoC Subject Headings: Bolewa languages",
+    "subjects" : [ {
+      "value" : "bol - Bole",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxiv, 204 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400331",
+    "name" : "bole_gimba2000_o.pdf",
+    "creationDate" : "2010-04-01T10:45:23.280+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6CB8-D",
+    "content" : "/rest/items/item_400332_3/component/file_400331/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "02a648d62dae79bbe372a8252123a6c1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7129714,
+    "metadata" : {
+      "title" : "bole_gimba2000_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7129714
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2030862",
+    "name" : "http://aflang.humnet.ucla.edu/Bole/bole.html",
+    "creationDate" : "2014-06-04T08:23:09.378+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-B282-F",
+    "content" : "http://aflang.humnet.ucla.edu/Bole/bole.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8879f8a3b2b4b4ebb526b18a6ddd92dc",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://aflang.humnet.ucla.edu/Bole/bole.html",
+      "contentCategory" : "any-fulltext",
+      "description" : "Papers on Bole : Works by Alhaji Maina Gimba",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2030863",
+    "name" : "http://aflang.humnet.ucla.edu/Bole/Papers/gimba_dissertation.pdf",
+    "creationDate" : "2014-06-04T08:23:09.922+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-B283-D",
+    "content" : "http://aflang.humnet.ucla.edu/Bole/Papers/gimba_dissertation.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a43911feb38888cd8a8cdf2b25d6e3bb",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://aflang.humnet.ucla.edu/Bole/Papers/gimba_dissertation.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to word-version",
+      "size" : 0
+    }
+  } ]
+}

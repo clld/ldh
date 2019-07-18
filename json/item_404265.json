@@ -1,0 +1,124 @@
+{
+  "objectId" : "item_404265",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-02-25T11:15:57.736+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-E2FA-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-02-25T11:15:57.736+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8479-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:38:26.688+0000",
+  "latestRelease" : {
+    "objectId" : "item_404265",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-25T11:15:57.736+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E2FA-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404265",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-25T11:15:57.736+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E2FA-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammatical notes and vocabulary of the Peguan language : to which are added a few pages of phrases etc.",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "James Madison",
+        "familyName" : "Haswell",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Edward O.",
+        "familyName" : "Stevens"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1901",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "33005",
+      "type" : "OTHER"
+    }, {
+      "id" : "peguan_stevens1901.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "2. ed.",
+      "place" : "Rangoon",
+      "publisher" : "American Baptist Mission Press"
+    },
+    "freeKeywords" : "LoC Class: PL4333,\nLoC Subject Headings: Mon language",
+    "subjects" : [ {
+      "value" : "mnw - Mon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XIX, 357 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL4333,\nLoC Subject Headings: Mon language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404264",
+    "name" : "peguan_stevens1901.pdf",
+    "creationDate" : "2010-04-01T12:38:26.252+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8478-0",
+    "content" : "/rest/items/item_404265_3/component/file_404264/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "60f815b7619233a9046f2900365a0c96",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4035121,
+    "metadata" : {
+      "title" : "peguan_stevens1901.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4035121,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

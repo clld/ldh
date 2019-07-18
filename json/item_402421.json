@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_402421",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-14T08:38:41.020+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B252-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Refernz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-14T08:38:41.020+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-790C-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:31:35.499+0000",
+  "latestRelease" : {
+    "objectId" : "item_402421",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-14T08:38:41.020+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B252-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402421",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-14T08:38:41.020+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B252-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Ngamo-English-Hausa dictionary (Gudi and Yaya dialects)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Russell G.",
+        "familyName" : "Schuh",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29895",
+      "type" : "OTHER"
+    }, {
+      "id" : "ngamo_schuh2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Potiskum",
+      "publisher" : "Ajami Press"
+    },
+    "freeKeywords" : "LoC Class: PL8548.454, LoC Subject Headings: Ngamo language, LoC Subject Headings: Hausa language",
+    "subjects" : [ {
+      "value" : "nbh - Ngamo",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "hau - Hausa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XII, 136 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8548.454, LoC Subject Headings: Ngamo language --Dictionaries --English, LoC Subject Headings: Ngamo language --Dictionaries --Hausa, LoC Subject Headings: English language --Dictionaries --Ngamo, LoC Subject Headings: Hausa language --Dictionaries --Ngamo"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402420",
+    "name" : "ngamo_schuh2004_s.pdf",
+    "creationDate" : "2010-04-01T11:31:35.123+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-790B-C",
+    "content" : "/rest/items/item_402421_4/component/file_402420/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f9a099e5a794038475980a89e98b280c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3218750,
+    "metadata" : {
+      "title" : "ngamo_schuh2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3218750
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2144428",
+    "name" : "http://aflang.humnet.ucla.edu/Yobe/Pages/yobe_dictionaries.html",
+    "creationDate" : "2015-04-14T08:38:16.554+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://aflang.humnet.ucla.edu/Yobe/Pages/yobe_dictionaries.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "91ebf22698511a790c6377edcb0f10f9",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://aflang.humnet.ucla.edu/Yobe/Pages/yobe_dictionaries.html",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of California, AFLANG Directory, pdf downloads",
+      "size" : 0
+    }
+  } ]
+}

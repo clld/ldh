@@ -1,0 +1,161 @@
+{
+  "objectId" : "item_406008",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T21:13:03.951+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7026-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:13:03.951+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8E4F-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:25:55.807+0000",
+  "latestRelease" : {
+    "objectId" : "item_406008",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T21:13:03.951+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7026-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406008",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T21:13:03.951+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7026-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A cross-linguistic study on syntactic and discourse boundary cues in spontaneous speech\n",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Yee-Jean Janice",
+        "familyName" : "Fon",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35602",
+      "type" : "OTHER"
+    }, {
+      "id" : "spontaneous_fon2002_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: P241, LoC Subject Headings: Grammar/Comparative and general--Phonology, LoC Subject Headings: Speech perception",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "cmn - Mandarin Chinese",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "jpn - Japanese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XX, 175 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406007",
+    "name" : "spontaneous_fon2002_o.pdf",
+    "creationDate" : "2010-04-01T13:25:55.016+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E4E-4",
+    "content" : "/rest/items/item_406008_4/component/file_406007/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "24ea13554fb6008ac935d3c337627367",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3453028,
+    "metadata" : {
+      "title" : "spontaneous_fon2002_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3453028
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2042442",
+    "name" : "https://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+    "creationDate" : "2014-07-15T09:04:57.754+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "74bde535f6456b9904389e7b5010783e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+      "contentCategory" : "any-fulltext",
+      "description" : "Ohio State Univ., Dep. of Linguistics, OSU Dissertations in Linguistics, 2002, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2042443",
+    "name" : "https://linguistics.osu.edu/sites/linguistics.osu.edu/files/Fon_dissertation_2002.pdf",
+    "creationDate" : "2014-07-15T09:04:58.404+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://linguistics.osu.edu/sites/linguistics.osu.edu/files/Fon_dissertation_2002.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8279a589d4114e35eb3696d41cc8a29a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://linguistics.osu.edu/sites/linguistics.osu.edu/files/Fon_dissertation_2002.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

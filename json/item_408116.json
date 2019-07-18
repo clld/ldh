@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_408116",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-10T11:15:13.622+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-AE08-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-10T11:15:13.622+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-99F5-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:30:02.229+0000",
+  "latestRelease" : {
+    "objectId" : "item_408116",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T11:15:13.622+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-AE08-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408116",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T11:15:13.622+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-AE08-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Totonaco de Papantla, Veracruz",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Paulette",
+        "familyName" : "Levy",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1990",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "42369",
+      "type" : "OTHER"
+    }, {
+      "id" : "totonaco_levy1990_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1. ed.",
+      "place" : "México, D.F.",
+      "publisher" : "El Colegio de México"
+    },
+    "sources" : [ {
+      "title" : "Archivo de lenguas indígenas de México",
+      "volume" : "15",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4426, LoC Subject Headings: Totonac language",
+    "subjects" : [ {
+      "value" : "top - Papantla Totonac",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "166 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM4426, LoC Subject Headings: Totonac language--Dialects--Mexico--Papantla de Olarte"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_408115",
+    "name" : "totonaco_levy1990_o.pdf",
+    "creationDate" : "2010-04-01T14:30:01.913+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-99F4-F",
+    "content" : "/rest/items/item_408116_4/component/file_408115/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "489b6edd1ccf5698e4d6d4dcbfb97e3f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2725147,
+    "metadata" : {
+      "title" : "totonaco_levy1990_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2725147
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2134718",
+    "name" : "http://eric.ed.gov/?id=ED378801",
+    "creationDate" : "2015-04-10T11:14:53.119+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://eric.ed.gov/?id=ED378801",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0c99f422d8d3fee86662bed1fdd24333",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eric.ed.gov/?id=ED378801",
+      "contentCategory" : "publisher-version",
+      "description" : "The Education Resources Information Center (ERIC), Collection, pdf download",
+      "size" : 0
+    }
+  } ]
+}

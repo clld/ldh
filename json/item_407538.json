@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_407538",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-21T06:41:09.168+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA15-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T06:41:09.168+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-96BA-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:14:21.568+0000",
+  "latestRelease" : {
+    "objectId" : "item_407538",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-21T06:41:09.168+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA15-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407538",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-21T06:41:09.168+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA15-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Contribuição ao desenvolvimento de uma ortografia da língua Hunsrik falada na América do Sul",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ursula",
+        "familyName" : "Wiesemann",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2008",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "39145",
+      "type" : "OTHER"
+    }, {
+      "id" : "hunsrik_wiesemann2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cuiabá",
+      "publisher" : "SIL Brazil"
+    },
+    "freeKeywords" : "LoC Class: PF5414.H8, LoC Subject Headings: German language",
+    "subjects" : [ {
+      "value" : "deu - German",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "hrx - Hunsrik",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "37 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PF5414.H8,\nLoC Subject Headings: German language --Dialects --Germany --Hunsrueck"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407536",
+    "name" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "creationDate" : "2010-04-01T14:14:20.980+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9530a75a4c45ff6625118b724949a812",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Brazil, Publications, Linguistics, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407537",
+    "name" : "hunsrik_wiesemann2008_s.pdf",
+    "creationDate" : "2010-04-01T14:14:21.448+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-96B9-B",
+    "content" : "/rest/items/item_407538_3/component/file_407537/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "73674d012cb379999133c7504d2fbfd2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 288942,
+    "metadata" : {
+      "title" : "hunsrik_wiesemann2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 288942
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

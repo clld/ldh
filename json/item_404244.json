@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_404244",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-05-05T07:26:34.710+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C68A-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-05T07:26:34.710+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-845A-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:38:00.000+0000",
+  "latestRelease" : {
+    "objectId" : "item_404244",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-05-05T07:26:34.710+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C68A-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404244",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-05-05T07:26:34.710+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C68A-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Indios do Nordeste : levantamento sobre os remanescentes tribais do Nordeste brasileiro",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Robert E.",
+        "familyName" : "Meader",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1976",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "32966",
+      "type" : "OTHER"
+    }, {
+      "id" : "nordeste_meader1976_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cuiabá",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: F2519.1.N67, LoC Subject Headings:Indians of South America--Brazil--Languages",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "60 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: F2519.1.N67, LoC Subject Headings: Indians of South America--Brazil--Brazil/Northeast--Languages--Glossaries/vocabularies/etc."
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404242",
+    "name" : "http://www.silinternational.org/americas/brasil/PUBLCNS/LING/IndNord.pdf",
+    "creationDate" : "2010-04-01T12:37:53.815+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8458-5",
+    "content" : "http://www.silinternational.org/americas/brasil/PUBLCNS/LING/IndNord.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1f997ec1974dfecf92778cc7119fa953",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.silinternational.org/americas/brasil/PUBLCNS/LING/IndNord.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Brazil, direct link to pdf version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404243",
+    "name" : "nordeste_meader1976_s.pdf",
+    "creationDate" : "2010-04-01T12:37:59.846+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8459-3",
+    "content" : "/rest/items/item_404244_5/component/file_404243/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1f997ec1974dfecf92778cc7119fa953",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 620030,
+    "metadata" : {
+      "title" : "nordeste_meader1976_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 620030
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

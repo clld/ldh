@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_403047",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T17:55:31.421+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6E83-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T17:55:31.421+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7CC2-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:51:37.665+0000",
+  "latestRelease" : {
+    "objectId" : "item_403047",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:55:31.421+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E83-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403047",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:55:31.421+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E83-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Zapoteco del Istmo : Juchitán, Oaxaca",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Ruiz de Bravo Ahuja, Gloria",
+        "givenName" : "Gloria",
+        "familyName" : "de Ruiz Bravo Ahuja",
+        "alternativeNames" : [ "Bravo Ahuja, Gloria Ruiz de" ],
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1974",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30904",
+      "type" : "OTHER"
+    }, {
+      "id" : "zapotec_archivo1974_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "México",
+      "publisher" : "El Instituto"
+    },
+    "sources" : [ {
+      "title" : "Archivo de lenguas indígenas del Estado de Oaxaca",
+      "volume" : "01",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4548, LoC Subject Headings: Zapotec language, LoC Subject Headings: Zapotec language--Dialects--Mexico--Juchitan",
+    "subjects" : [ {
+      "value" : "zai - Isthmus Zapotec",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "139 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403045",
+    "name" : "http://www.colmex.mx/alim/coleccion.html",
+    "creationDate" : "2010-04-01T11:51:36.856+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7CC0-B",
+    "content" : "http://www.colmex.mx/alim/coleccion.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.colmex.mx/alim/coleccion.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403046",
+    "name" : "zapotec_archivo1974_o.pdf",
+    "creationDate" : "2010-04-01T11:51:37.348+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7CC1-9",
+    "content" : "/rest/items/item_403047_3/component/file_403046/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5e001d2064dceb51c7203094c1cfefa0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2655345,
+    "metadata" : {
+      "title" : "zapotec_archivo1974_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2655345
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

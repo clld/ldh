@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_403284",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-04-24T11:05:07.843+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C00F-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-24T11:05:07.843+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E30-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:07:57.493+0000",
+  "latestRelease" : {
+    "objectId" : "item_403284",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-24T11:05:07.843+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C00F-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403284",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-24T11:05:07.843+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C00F-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Null subjects",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Maria do Pilar Pereira",
+        "familyName" : "Barbosa",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1995",
+    "datePublishedInPrint" : "1995",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31125",
+      "type" : "OTHER"
+    }, {
+      "id" : "nullsubjects_barbosa1995_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P299.N85, LoC Subject Headings: Grammar/Comparative and general--Null subject",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "200 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403283",
+    "name" : "nullsubjects_barbosa1995_o.pdf",
+    "creationDate" : "2010-04-01T12:07:56.514+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E2F-7",
+    "content" : "/rest/items/item_403284_6/component/file_403283/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e062a62bf2e7d429964b8122eba25b02",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9592037,
+    "metadata" : {
+      "title" : "nullsubjects_barbosa1995_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9592037,
+      "copyrightDate" : "2011-01-04",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_2148940",
+    "name" : "http://hdl.handle.net/1721.1/11071",
+    "creationDate" : "2015-04-24T11:04:43.496+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/11071",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b64959ef455dd1f8f0388038a7e0c9cd",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/11071",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

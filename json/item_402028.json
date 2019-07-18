@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_402028",
+  "versionNumber" : 6,
+  "modificationDate" : "2014-06-18T10:23:21.154+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-BF90-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Rechtschreibfehler Titel korrigiert",
+  "lastModificationDate" : "2014-06-18T10:23:21.154+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-76B1-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:24:35.292+0000",
+  "latestRelease" : {
+    "objectId" : "item_402028",
+    "versionNumber" : 6,
+    "modificationDate" : "2014-06-18T10:23:21.154+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-BF90-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402028",
+    "versionNumber" : 6,
+    "modificationDate" : "2014-06-18T10:23:21.154+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-BF90-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Approches quantitatives de l'extraction de ressources traductionnelles à partir de corpus paralléles",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Maria",
+        "familyName" : "Zimina-Poirot",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "28951",
+      "type" : "OTHER"
+    }, {
+      "id" : "corpus_zimina2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "place" : "Paris",
+      "publisher" : "Univ. Sorbonne"
+    },
+    "freeKeywords" : "LoC Class: P308,\nLoC Subject Headings: Machine translating",
+    "totalNumberOfPages" : "329 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402027",
+    "name" : "corpus_zimina2004_s.pdf",
+    "creationDate" : "2010-04-01T11:24:34.852+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-76B0-0",
+    "content" : "/rest/items/item_402028_6/component/file_402027/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e00cda46a3800a7dde4b4bc3618be058",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4198490,
+    "metadata" : {
+      "title" : "corpus_zimina2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4198490
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2033133",
+    "name" : "http://tel.archives-ouvertes.fr/tel-00008311",
+    "creationDate" : "2014-06-13T09:46:23.638+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-BF92-3",
+    "content" : "http://tel.archives-ouvertes.fr/tel-00008311",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "fe483e86cd9237810a155357b2b874d7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://tel.archives-ouvertes.fr/tel-00008311",
+      "contentCategory" : "publisher-version",
+      "description" : "CCSd, Tel multidisciplinary theses server, pdf",
+      "size" : 0
+    }
+  } ]
+}

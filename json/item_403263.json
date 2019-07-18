@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_403263",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T09:00:47.801+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA8F-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T09:00:47.801+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E10-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:06:36.192+0000",
+  "latestRelease" : {
+    "objectId" : "item_403263",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T09:00:47.801+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA8F-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403263",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T09:00:47.801+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA8F-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The A/A-bar distinction and movement theory",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Anoop",
+        "familyName" : "Mahajan",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1990",
+    "datePublishedInPrint" : "1990",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31117",
+      "type" : "OTHER"
+    }, {
+      "id" : "movement_mahajan1990_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P291, LoC Subject Headings: Grammar/Comparative and general--Syntax, LoC Subject Headings: Hindi language",
+    "subjects" : [ {
+      "value" : "mij - Abar",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "hin - Hindi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "200 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: P291, LoC Subject Headings: Grammar/Comparative and general--Syntax, LoC Subject Headings: Hindi language -- Syntax"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403262",
+    "name" : "movement_mahajan1990_o.pdf",
+    "creationDate" : "2010-04-01T12:06:35.261+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E0F-F",
+    "content" : "/rest/items/item_403263_4/component/file_403262/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5829e740cd7d748f36d0fb4fd21d831c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9472730,
+    "metadata" : {
+      "title" : "movement_mahajan1990_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9472730
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147314",
+    "name" : "http://hdl.handle.net/1721.1/13650",
+    "creationDate" : "2015-04-21T09:00:23.113+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/13650",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "91cc4c9111449b7dd091e4fac06eb2c4",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/13650",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

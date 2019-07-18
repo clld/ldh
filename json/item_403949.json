@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403949",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:06:49.400+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-82B7-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:06:49.400+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-82B7-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:30:48.679+0000",
+  "latestRelease" : {
+    "objectId" : "item_403949",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:06:49.400+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-82B7-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403949",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:06:49.400+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-82B7-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Major Clause constituents of Conchucos (Ancash) Quechua",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Wroughton, James F.",
+        "givenName" : "James F.",
+        "familyName" : "Wroughton",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1988",
+    "datePublishedInPrint" : "1988",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32071",
+      "type" : "OTHER"
+    }, {
+      "id" : "quechua_wroughton1988_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Arlington",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PM6301,\nLoC Subject Headings: Quechua language",
+    "subjects" : [ {
+      "value" : "qxn - Northern Conchucos Ancash Quechua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "110 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403947",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3377",
+    "creationDate" : "2010-04-01T12:30:47.480+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-82B5-7",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3377",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "916453601d89bb490ebcd6ee95e3207e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3377",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403948",
+    "name" : "quechua_wroughton1988_o.pdf",
+    "creationDate" : "2010-04-01T12:30:48.140+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-82B6-5",
+    "content" : "/rest/items/item_403949_2/component/file_403948/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "34a2fb2fbbbd5f97e55f0c7cc7a74f15",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5110924,
+    "metadata" : {
+      "title" : "quechua_wroughton1988_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5110924
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

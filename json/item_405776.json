@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_405776",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-10T08:19:48.196+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-E43F-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-10T08:19:48.196+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8D03-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:20:24.887+0000",
+  "latestRelease" : {
+    "objectId" : "item_405776",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-10T08:19:48.196+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-E43F-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405776",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-10T08:19:48.196+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-E43F-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Intonation and discourse structure in English : phonological and phonetic markers of local and global discourse structure",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Rebecca",
+        "familyName" : "Herman",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1998",
+    "datePublishedInPrint" : "1998",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35376",
+      "type" : "OTHER"
+    }, {
+      "id" : "english_herman1998_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: PE1422,\nLoC Subject Headings: English language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XIV, 172 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PE1422,\nLoC Subject Headings: English language--Discourse analysis"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405775",
+    "name" : "english_herman1998_s.pdf",
+    "creationDate" : "2010-04-01T13:20:24.767+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D02-1",
+    "content" : "/rest/items/item_405776_3/component/file_405775/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "cf9ae2260429f8dd0930246848e4ad3c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 523913,
+    "metadata" : {
+      "title" : "english_herman1998_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 523913
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2039818",
+    "name" : "http://linguistics.osu.edu/sites/linguistics.osu.edu/files/dissertations/Herman1998.pdf",
+    "creationDate" : "2014-07-10T08:18:06.539+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-E441-5",
+    "content" : "http://linguistics.osu.edu/sites/linguistics.osu.edu/files/dissertations/Herman1998.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0a8785d3dbf48fd86ada68a519671f9d",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://linguistics.osu.edu/sites/linguistics.osu.edu/files/dissertations/Herman1998.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "Ohio State Univ., Dep. of Linguistics, Dissertations, direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

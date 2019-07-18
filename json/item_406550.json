@@ -1,0 +1,151 @@
+{
+  "objectId" : "item_406550",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-12T21:15:01.268+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7029-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:15:01.268+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9140-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:40:39.266+0000",
+  "latestRelease" : {
+    "objectId" : "item_406550",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T21:15:01.268+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7029-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406550",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T21:15:01.268+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7029-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Non-Spurious correlations between genetic and linguistic diversities in the context of human evolution",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Dan",
+        "familyName" : "Dediu",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37229",
+      "type" : "OTHER"
+    }, {
+      "id" : "nonspurious_dediu2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Edinburgh",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: P35, LoC Subject Headings: Anthropological linguistics, LoC Subject Headings: Linguistic paleontology, LoC Subject Headings: Language and languages--Origin",
+    "totalNumberOfPages" : "xvii, 448 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406549",
+    "name" : "nonspurious_dediu2007_s.pdf",
+    "creationDate" : "2010-04-01T13:40:38.643+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-913F-B",
+    "content" : "/rest/items/item_406550_5/component/file_406549/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2521765f247ed2d41dc77ebfa4945198",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5818211,
+    "metadata" : {
+      "title" : "nonspurious_dediu2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5818211
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2048031",
+    "name" : "http://www.lel.ed.ac.uk/lec/our-research/",
+    "creationDate" : "2014-08-04T08:16:04.082+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.lel.ed.ac.uk/lec/our-research/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "fc44977a1fab2f4e4a3c2933628f7d47",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lel.ed.ac.uk/lec/our-research/",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. of Edinburgh, Linguistics and English Language, Language Evolution and Computation, our research, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2048032",
+    "name" : "http://www.lel.ed.ac.uk/~simon/dissertations/DediuPhDThesis2007.pdf",
+    "creationDate" : "2014-08-04T08:16:04.808+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-1987-A",
+    "content" : "http://www.lel.ed.ac.uk/~simon/dissertations/DediuPhDThesis2007.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0b092ee6ace6f02598b71f461eb3a35f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lel.ed.ac.uk/~simon/dissertations/DediuPhDThesis2007.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

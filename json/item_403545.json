@@ -1,0 +1,119 @@
+{
+  "objectId" : "item_403545",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-06-06T07:27:21.501+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7FFF-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:27:21.501+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7FFF-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:33.044+0000",
+  "latestRelease" : {
+    "objectId" : "item_403545",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:27:21.501+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7FFF-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403545",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:27:21.501+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7FFF-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Reduplication in Ngie",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Umenjoh Andoumbene, Florence",
+        "givenName" : "Florence Umenjoh ",
+        "familyName" : "Andoumbene",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1997",
+    "datePublishedInPrint" : "1997",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31383",
+      "type" : "OTHER"
+    }, {
+      "id" : "ngie_umenjoh1997_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Ngizim language",
+    "subjects" : [ {
+      "value" : "ngi - Ngizim",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "viii, 99 S.",
+    "abstracts" : [ {
+      "value" : "PL8548.67, ISO 639-3 : ngi, Ngizim language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403544",
+    "name" : "ngie_umenjoh1997_o.pdf",
+    "creationDate" : "2010-04-01T12:19:32.667+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7FFE-D",
+    "content" : "/rest/items/item_403545_3/component/file_403544/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "62a508b32cb368aad3e724e540319b18",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3318224,
+    "metadata" : {
+      "title" : "ngie_umenjoh1997_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3318224,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

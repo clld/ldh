@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_407268",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-08-07T08:39:37.748+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-2634-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-08-07T08:39:37.748+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9547-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:09:13.749+0000",
+  "latestRelease" : {
+    "objectId" : "item_407268",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-07T08:39:37.748+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-2634-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407268",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-07T08:39:37.748+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-2634-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Topics in Sinhala syntax",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Deepthi Kumara",
+        "familyName" : "Henadeerage",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38034",
+      "type" : "OTHER"
+    }, {
+      "id" : "sinhala_henadeerage2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Canberra",
+      "publisher" : "Australian National Univ."
+    },
+    "freeKeywords" : "LoC Class: PK2823,\nLoC Subject Headings: Sinhalese language",
+    "subjects" : [ {
+      "value" : "sin - Sinhala",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xvii, 298 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PK2823,\nLoC Subject Headings: Sinhalese language--Syntax"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407267",
+    "name" : "sinhala_henadeerage2002_s.pdf",
+    "creationDate" : "2010-04-01T14:09:13.382+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9546-8",
+    "content" : "/rest/items/item_407268_3/component/file_407267/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "62472f61ba3f0cc031f86bf3de8eb6ef",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3223585,
+    "metadata" : {
+      "title" : "sinhala_henadeerage2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3223585
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2049291",
+    "name" : "http://hdl.handle.net/1885/47148",
+    "creationDate" : "2014-08-07T08:37:01.884+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-2636-6",
+    "content" : "http://hdl.handle.net/1885/47148",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "dea956e88bd5f65fa2851b9a9855dcaa",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1885/47148",
+      "contentCategory" : "publisher-version",
+      "description" : "Australian National Univ., ANU Digital Theses, Open Access Digital Theses, pdfs",
+      "size" : 0
+    }
+  } ]
+}

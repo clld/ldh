@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_404729",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-10-28T12:17:54.028+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-0863-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "CCby-Lizenz liegt vor",
+  "lastModificationDate" : "2014-10-28T12:17:54.028+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8729-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:46:43.888+0000",
+  "latestRelease" : {
+    "objectId" : "item_404729",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-10-28T12:17:54.028+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-0863-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404729",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-10-28T12:17:54.028+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-0863-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Word order variation in Makua : a phrase structure grammar analysis",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Susan U.",
+        "familyName" : "Stucky",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1981",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "33710",
+      "type" : "OTHER"
+    }, {
+      "id" : "makua_stucky1981_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Urbana",
+      "publisher" : "Univ. of Illinois at Urbana-Champaign"
+    },
+    "freeKeywords" : "LoC Class: PL8483.1,\nLoC Subject Headings: Makhuwa language",
+    "subjects" : [ {
+      "value" : "vmw - Makhuwa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xi, 228 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8483.1,\nLoC Subject Headings: Makhuwa language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404728",
+    "name" : "makua_stucky1981_o.pdf",
+    "creationDate" : "2010-04-01T12:46:43.048+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8728-C",
+    "content" : "/rest/items/item_404729_3/component/file_404728/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "92d90873b44408974dd09f958c931b94",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8513242,
+    "metadata" : {
+      "title" : "makua_stucky1981_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8513242,
+      "copyrightDate" : "2014-10-15",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

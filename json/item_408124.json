@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_408124",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:50:15.876+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9A03-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:50:15.876+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9A03-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:30:11.347+0000",
+  "latestRelease" : {
+    "objectId" : "item_408124",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:50:15.876+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9A03-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408124",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:50:15.876+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9A03-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The Crow language : grammatical sketch and analyzed text",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Lowie, Robert Harry",
+        "givenName" : "Robert Harry",
+        "familyName" : "Lowie",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1941",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "42372",
+      "type" : "OTHER"
+    }, {
+      "id" : "crow_lowie1941_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Berkeley and Los Angeles",
+      "publisher" : "Univ. of California press"
+    },
+    "sources" : [ {
+      "title" : "University of California Publications in American Anthropology and Ethnology",
+      "volume" : "39.1",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM1001,\nLoC Subject Headings: Crow language",
+    "subjects" : [ {
+      "value" : "cro - Crow",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "v, 141 S."
+  },
+  "files" : [ {
+    "objectId" : "file_408122",
+    "name" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=33",
+    "creationDate" : "2010-04-01T14:30:09.031+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9A01-B",
+    "content" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=33",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "fdfc8023823077f06903ff055873bc22",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=33",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408123",
+    "name" : "crow_lowie1941_o.pdf",
+    "creationDate" : "2010-04-01T14:30:10.027+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9A02-9",
+    "content" : "/rest/items/item_408124_2/component/file_408123/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "701cd4cb73c239a01442351bd46fdd42",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 13704793,
+    "metadata" : {
+      "title" : "crow_lowie1941_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 13704793
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

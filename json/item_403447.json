@@ -1,0 +1,115 @@
+{
+  "objectId" : "item_403447",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-18T11:07:41.233+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7A8E-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-18T11:07:41.233+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7F36-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:22.599+0000",
+  "latestRelease" : {
+    "objectId" : "item_403447",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-18T11:07:41.233+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A8E-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403447",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-18T11:07:41.233+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A8E-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Phonology of Bubia",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Agnes Fiensong S.",
+        "familyName" : "Chia",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1993",
+    "datePublishedInPrint" : "1993",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31256",
+      "type" : "OTHER"
+    }, {
+      "id" : "bubia_fiensong1993_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Class: PL8095, LoC Subject Headings: Bubia language",
+    "subjects" : [ {
+      "value" : "bbx - Bubia",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix, 111 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403446",
+    "name" : "bubia_fiensong1993_o.pdf",
+    "creationDate" : "2010-04-01T12:18:22.263+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7F35-F",
+    "content" : "/rest/items/item_403447_4/component/file_403446/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "48cb40b7906b8014156069083f2098b1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2949293,
+    "metadata" : {
+      "title" : "bubia_fiensong1993_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "with permission from Université de Yaoundé I",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2949293,
+      "copyrightDate" : "2005-11-29"
+    }
+  } ]
+}

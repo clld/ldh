@@ -1,0 +1,124 @@
+{
+  "objectId" : "item_406956",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-05-31T10:45:18.003+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9390-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:45:18.003+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9390-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:51:07.901+0000",
+  "latestRelease" : {
+    "objectId" : "item_406956",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T10:45:18.003+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9390-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406956",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T10:45:18.003+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9390-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vedic grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Arthur Anthony",
+        "familyName" : "Macdonell",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1910",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37536",
+      "type" : "OTHER"
+    }, {
+      "id" : "vedic_macdonell1910_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Strassburg",
+      "publisher" : "Trübner"
+    },
+    "sources" : [ {
+      "title" : "Grundriss der indo-arischen Philologie und Altertumskunde",
+      "alternativeTitles" : [ { } ],
+      "volume" : "1,4",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Vedic language",
+    "subjects" : [ {
+      "value" : "san - Sanskrit",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "456 S.",
+    "abstracts" : [ {
+      "value" : "PK231, ISO 639-3 : san , Vedic language --Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406955",
+    "name" : "vedic_macdonell1910_o.pdf",
+    "creationDate" : "2010-04-01T13:51:03.004+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-938F-5",
+    "content" : "/rest/items/item_406956_5/component/file_406955/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "07d67717e8be03c47765bb9e8c627387",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 35164752,
+    "metadata" : {
+      "title" : "vedic_macdonell1910_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 35164752,
+      "copyrightDate" : "2011-12-02",
+      "rights" : "not in copyright, Arthur Anthony Macdonell, 1854-1930"
+    }
+  } ]
+}

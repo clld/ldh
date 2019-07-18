@@ -1,0 +1,169 @@
+{
+  "objectId" : "item_406269",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-10T09:47:56.065+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0AE7-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-10T09:47:56.065+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8FB9-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:34:11.693+0000",
+  "latestRelease" : {
+    "objectId" : "item_406269",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T09:47:56.065+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0AE7-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406269",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T09:47:56.065+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0AE7-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario cashinahua",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Susan",
+        "familyName" : "Montag",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1981",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "36632",
+      "type" : "OTHER"
+    }, {
+      "id" : "cashinahua_montag1981_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "cashinahua2_montag1981_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa", "cbs" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[Lima]",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística peruana",
+      "volume" : "9",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6290.K34, LoC Subject Headings: Cashinawa language",
+    "subjects" : [ {
+      "value" : "cbs - Cashinahua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "2 vols., 621 S. [1-329, 335-621]",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM6290.K34,\nLoC Subject Headings: Spanish language--Dictionaries--Cashinawa, Cashinawa language--Dictionaries--Spanish"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406267",
+    "name" : "cashinahua_montag1981_o.pdf",
+    "creationDate" : "2010-04-01T13:34:09.249+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8FB7-C",
+    "content" : "/rest/items/item_406269_3/component/file_406267/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "acb47d788dfd9b17bb8142592ce0b768",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 15301453,
+    "metadata" : {
+      "title" : "cashinahua_montag1981_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 15301453
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_406268",
+    "name" : "cashinahua2_montag1981_o.pdf",
+    "creationDate" : "2010-04-01T13:34:10.689+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8FB8-A",
+    "content" : "/rest/items/item_406269_3/component/file_406268/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3879c975f7cbf3deb738d36d39115734",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10346931,
+    "metadata" : {
+      "title" : "cashinahua2_montag1981_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10346931
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110515",
+    "name" : "http://www.peru.sil.org/resources/archives/29941",
+    "creationDate" : "2015-03-10T09:46:14.043+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/29941",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ef0e5115b5f138b1722d71c0d1677dda",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/29941",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Peru Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

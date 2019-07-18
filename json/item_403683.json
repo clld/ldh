@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403683",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-06-06T07:26:28.775+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8129-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:26:28.775+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8129-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:22:11.681+0000",
+  "latestRelease" : {
+    "objectId" : "item_403683",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-06-06T07:26:28.775+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8129-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403683",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-06-06T07:26:28.775+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8129-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Compendio del arte de la lengua tagala",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Gaspar",
+        "familyName" : "Agustin",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1879",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31508",
+      "type" : "OTHER"
+    }, {
+      "id" : "tagala_agustin1879.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "3. Aufl.",
+      "place" : "Manila",
+      "publisher" : "Impr. de \"Amigos del pais,\""
+    },
+    "freeKeywords" : "LoC Subject Headings: Tagalog language",
+    "subjects" : [ {
+      "value" : "tgl - Tagalog",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "168 S.",
+    "abstracts" : [ {
+      "value" : "PL6054, ISO 639-3 : tgl, Tagalog language -- Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403682",
+    "name" : "tagala_agustin1879.pdf",
+    "creationDate" : "2010-04-01T12:22:10.140+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8128-F",
+    "content" : "/rest/items/item_403683_4/component/file_403682/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8e826acf1ff33f0c3b73b1a935fd46d7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 15973362,
+    "metadata" : {
+      "title" : "tagala_agustin1879.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 15973362,
+      "copyrightDate" : "2010-11-22",
+      "rights" : "not in copyright; Gaspar de San Agustin 1650-1724"
+    }
+  } ]
+}

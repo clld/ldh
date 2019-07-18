@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_405692",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T11:16:39.499+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8C8A-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:16:39.499+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8C8A-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:18:44.295+0000",
+  "latestRelease" : {
+    "objectId" : "item_405692",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:16:39.499+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8C8A-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405692",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:16:39.499+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8C8A-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Modele d'enseignement des langues maternelles orales dans l'education de base au Cameroun : recherche et developement  en zone Bulu",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Assoumou, Jules",
+        "givenName" : "Jules",
+        "familyName" : "Assoumou",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35256",
+      "type" : "OTHER"
+    }, {
+      "id" : "bulu_assoumou2005_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Bulu language",
+    "subjects" : [ {
+      "value" : "bum - Bulu (Cameroon)",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XV, 399 S.",
+    "abstracts" : [ {
+      "value" : "PL8095, ISO 639-3 : bum, Bulu language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405691",
+    "name" : "bulu_assoumou2005_o.pdf",
+    "creationDate" : "2010-04-01T13:18:42.947+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C89-E",
+    "content" : "/rest/items/item_405692_3/component/file_405691/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2611293d640cf564cc5cc26c6fe3f84f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 14044625,
+    "metadata" : {
+      "title" : "bulu_assoumou2005_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 14044625,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaounde I "
+    }
+  } ]
+}

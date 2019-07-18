@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403750",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-02-26T12:06:22.142+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-E48A-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-02-26T12:06:22.142+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8195-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:23:43.375+0000",
+  "latestRelease" : {
+    "objectId" : "item_403750",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-02-26T12:06:22.142+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E48A-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403750",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-02-26T12:06:22.142+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E48A-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Arte de la lengua Pampanga",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Diego",
+        "familyName" : "Bergaño",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1916",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31566",
+      "type" : "OTHER"
+    }, {
+      "id" : "pampanga_bergano1916.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "3. Ed.",
+      "place" : "Manila",
+      "publisher" : "Tip. del Colegio de Santo Tomas"
+    },
+    "freeKeywords" : "LoC Class: PL5992,\nLoC Subject Headings: Pampanga language",
+    "subjects" : [ {
+      "value" : "pam - Pampanga",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxi, 231 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL5992,\nLoC Subject Headings: Pampanga language--Grammar, Philippine languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403749",
+    "name" : "pampanga_bergano1916.pdf",
+    "creationDate" : "2010-04-01T12:23:41.239+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8194-A",
+    "content" : "/rest/items/item_403750_4/component/file_403749/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "90705851e94cb0e04cd5b21b68b7219f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 22199552,
+    "metadata" : {
+      "title" : "pampanga_bergano1916.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 22199552,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_513072",
+    "name" : "http://name.umdl.umich.edu/AQN8190.0001.001",
+    "creationDate" : "2010-08-23T14:25:33.025+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://name.umdl.umich.edu/AQN8190.0001.001",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "322e36dc6d08d25f0e420f1ce26a62d1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://name.umdl.umich.edu/AQN8190.0001.001",
+      "contentCategory" : "publisher-version",
+      "description" : "University of Michigan Digital Library Text Collections (UMDL), view online",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_406744",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-08-04T10:20:47.776+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-1BD3-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-08-04T10:20:47.776+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-924F-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:46:55.316+0000",
+  "latestRelease" : {
+    "objectId" : "item_406744",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-04T10:20:47.776+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1BD3-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406744",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-04T10:20:47.776+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1BD3-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Pronoms et reprises dans le discours ecrit en français et en Yoruba",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Abayomi Kizito",
+        "familyName" : "Folorunso",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedOnline" : "2001",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37409",
+      "type" : "OTHER"
+    }, {
+      "id" : "yoruba_folorunso2001_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "place" : "Lyon",
+      "publisher" : "Univ. Lumière"
+    },
+    "freeKeywords" : "LoC Class: PL8821,\nLoC Subject Headings: Yoruba language",
+    "subjects" : [ {
+      "value" : "yor - Yoruba",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406743",
+    "name" : "yoruba_folorunso2001_s.pdf",
+    "creationDate" : "2010-04-01T13:46:55.131+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-924E-E",
+    "content" : "/rest/items/item_406744_4/component/file_406743/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "65fb7def87d6affbbe6ee8433e738099",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1192007,
+    "metadata" : {
+      "title" : "yoruba_folorunso2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1192007
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2048096",
+    "name" : "http://theses.univ-lyon2.fr/documents/lyon2/2001/folorunso_ak",
+    "creationDate" : "2014-08-04T10:17:13.492+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-1BCE-9",
+    "content" : "http://theses.univ-lyon2.fr/documents/lyon2/2001/folorunso_ak",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0e618d2d341815f08fd73b7ca6a2e6cf",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://theses.univ-lyon2.fr/documents/lyon2/2001/folorunso_ak",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. Lumière Lyon 2, Cyberthèses, Consulter le document, pdfs",
+      "size" : 0
+    }
+  } ]
+}

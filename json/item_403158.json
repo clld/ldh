@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_403158",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-17T08:33:18.189+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B779-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-17T08:33:18.189+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D72-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:59:31.073+0000",
+  "latestRelease" : {
+    "objectId" : "item_403158",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-17T08:33:18.189+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B779-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403158",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-17T08:33:18.189+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B779-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Aspects of the grammar of focus in English",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Adrian",
+        "familyName" : "Akmajian",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1970",
+    "datePublishedInPrint" : "1979",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31050",
+      "type" : "OTHER"
+    }, {
+      "id" : "focus_akmajian1970_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: PE1106, LoC Subject Headings: English language",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "336 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PE1106, LoC Subject Headings: English language--Grammar/Generative"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403157",
+    "name" : "focus_akmajian1970_o.pdf",
+    "creationDate" : "2010-04-01T11:59:29.328+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D71-4",
+    "content" : "/rest/items/item_403158_4/component/file_403157/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f99725bae251e7e48bc7bd1a7ac1a9da",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 17790558,
+    "metadata" : {
+      "title" : "focus_akmajian1970_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 17790558
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147035",
+    "name" : "http://hdl.handle.net/1721.1/15655",
+    "creationDate" : "2015-04-17T08:28:24.292+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/15655",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/15655",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_403591",
+  "versionNumber" : 6,
+  "modificationDate" : "2011-06-06T07:50:26.477+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-805C-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:50:26.477+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-805C-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:20:06.510+0000",
+  "latestRelease" : {
+    "objectId" : "item_403591",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-06-06T07:50:26.477+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-805C-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403591",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-06-06T07:50:26.477+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-805C-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Comparative Vocabularies of the Indian tribes\nof British Columbia : with a map illustrating distribution",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "William Fraser",
+        "familyName" : "Tolmie",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "George Mercer",
+        "familyName" : "Dawson"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1884",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31420",
+      "type" : "OTHER"
+    }, {
+      "id" : "britishcolumbia_tolmie_1884_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Montreal",
+      "publisher" : "Dawson"
+    },
+    "freeKeywords" : "LoC Subject Headings: Indians of North America--Languages",
+    "totalNumberOfPages" : "131 S.",
+    "abstracts" : [ {
+      "value" : "PM283, ISO 639-3 : -, Indians of North America--Languages--Glossaries, vocabularies, etc., Indians of North America--British Columbia"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403589",
+    "name" : "http://www.cs.chalmers.se/~harald2/grammars/british_columbia_comp.pdf",
+    "creationDate" : "2010-04-01T12:20:05.079+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-805A-7",
+    "content" : "http://www.cs.chalmers.se/~harald2/grammars/british_columbia_comp.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "697bec75e838ae6b08431f761afc12fc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.cs.chalmers.se/~harald2/grammars/british_columbia_comp.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403590",
+    "name" : "britishcolumbia_tolmie_1884_o.pdf",
+    "creationDate" : "2010-04-01T12:20:05.450+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-805B-5",
+    "content" : "/rest/items/item_403591_6/component/file_403590/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "15664d0a7980e9b701ecd0684d1fee68",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10351743,
+    "metadata" : {
+      "title" : "britishcolumbia_tolmie_1884_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10351743,
+      "copyrightDate" : "2010-11-16",
+      "rights" : "public domain, William Fraser Tolmie ????-1886 ; George Mercer Dawson 1849-1901"
+    }
+  } ]
+}

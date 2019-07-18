@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_407455",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T11:18:57.965+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9647-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:18:57.965+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9647-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:13:41.441+0000",
+  "latestRelease" : {
+    "objectId" : "item_407455",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:18:57.965+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9647-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407455",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:18:57.965+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9647-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Parintintin discourse",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Betts, LaVera D.",
+        "givenName" : "LaVera D.",
+        "familyName" : "Betts",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1969",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "38928",
+      "type" : "OTHER"
+    }, {
+      "id" : "parintintin_betts2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Anápolis",
+      "publisher" : "SIL Brasil"
+    },
+    "freeKeywords" : "LoC Class: PM5154.Z9,\nLoC Subject Headings: Tenharim language",
+    "subjects" : [ {
+      "value" : "pah - Tenharim",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407453",
+    "name" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "creationDate" : "2010-04-01T14:13:40.952+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9645-2",
+    "content" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c9461039d010116eaeca40f82b42a28c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Brazil: Technical Publications and Recent Papers ",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407454",
+    "name" : "parintintin_betts2008_s.pdf",
+    "creationDate" : "2010-04-01T14:13:41.271+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9646-F",
+    "content" : "/rest/items/item_407455_3/component/file_407454/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "bf1bf26fa00cc2f89cd7d5f86d8572a3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 854758,
+    "metadata" : {
+      "title" : "parintintin_betts2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 854758
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

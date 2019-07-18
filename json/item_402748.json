@@ -1,0 +1,153 @@
+{
+  "objectId" : "item_402748",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T10:00:43.870+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7AE5-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:00:43.870+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7AE5-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:44:13.805+0000",
+  "latestRelease" : {
+    "objectId" : "item_402748",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T10:00:43.870+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7AE5-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402748",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T10:00:43.870+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7AE5-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Kato texts",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Pliny Earle",
+        "familyName" : "Goddard",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Bill",
+        "familyName" : "Ray"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1909",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30549",
+      "type" : "OTHER"
+    }, {
+      "id" : "kato_goddard1909_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Berkeley",
+      "publisher" : "Univ. Press"
+    },
+    "sources" : [ {
+      "title" : "University of California publications in\nAmerican archaeology and ethnology",
+      "alternativeTitles" : [ {
+        "value" : "University of California publications in American archaeology and ethnology"
+      } ],
+      "volume" : "5.3",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Kato language",
+    "subjects" : [ {
+      "value" : "ktw - Kato",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "S. 65 - 238,",
+    "abstracts" : [ {
+      "value" : "PM1481, ISO 639-3 : ktw, Kato Indians--Folklore, Indians of North America--Folklore, Kato language--Texts"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402746",
+    "name" : "http://ia311514.us.archive.org/0/items/katotextsplinyea00goddrich/katotextsplinyea00goddrich.pdf",
+    "creationDate" : "2010-04-01T11:44:00.659+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7AE3-B",
+    "content" : "http://ia311514.us.archive.org/0/items/katotextsplinyea00goddrich/katotextsplinyea00goddrich.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://ia311514.us.archive.org/0/items/katotextsplinyea00goddrich/katotextsplinyea00goddrich.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402747",
+    "name" : "kato_goddard1909_o.pdf",
+    "creationDate" : "2010-04-01T11:44:12.072+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7AE4-9",
+    "content" : "/rest/items/item_402748_4/component/file_402747/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "931ba1dae8f57c98c2304f443df0bc70",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 18061552,
+    "metadata" : {
+      "title" : "kato_goddard1909_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 18061552,
+      "copyrightDate" : "2010-11-18",
+      "rights" : "public domain, Pliny Earl Goddard 1869-1928"
+    }
+  } ]
+}

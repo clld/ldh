@@ -1,0 +1,117 @@
+{
+  "objectId" : "item_403410",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-06-06T07:21:20.196+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7EEA-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:21:20.196+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7EEA-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:17:56.177+0000",
+  "latestRelease" : {
+    "objectId" : "item_403410",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:21:20.196+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7EEA-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403410",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:21:20.196+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7EEA-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A semantic-syntactic study of the Bafut verb",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Bila Emmanuel",
+        "familyName" : "Neba",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1986",
+    "datePublishedInPrint" : "1986",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31219",
+      "type" : "OTHER"
+    }, {
+      "id" : "bafut_bila1986_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Bafut language",
+    "subjects" : [ {
+      "value" : "bfd - Bafut",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "i, 119 S.",
+    "abstracts" : [ {
+      "value" : "PL8047.5.B452, ISO 639-3 : bfd, Bafut language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403409",
+    "name" : "bafut_bila1986_o.pdf",
+    "creationDate" : "2010-04-01T12:17:55.502+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7EE9-5",
+    "content" : "/rest/items/item_403410_3/component/file_403409/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7355bb8b434b15cc4aa38564f5a0e598",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5916592,
+    "metadata" : {
+      "title" : "bafut_bila1986_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5916592,
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

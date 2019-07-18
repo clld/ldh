@@ -1,0 +1,115 @@
+{
+  "objectId" : "item_401574",
+  "versionNumber" : 6,
+  "modificationDate" : "2014-12-16T14:23:50.086+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-59BE-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "CC-by-Lizenz liegt vor",
+  "lastModificationDate" : "2014-12-16T14:23:50.086+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7413-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:14:45.920+0000",
+  "latestRelease" : {
+    "objectId" : "item_401574",
+    "versionNumber" : 6,
+    "modificationDate" : "2014-12-16T14:23:50.086+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-59BE-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401574",
+    "versionNumber" : 6,
+    "modificationDate" : "2014-12-16T14:23:50.086+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-59BE-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Sentence final particles in Bisu narrative",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Kirk Roger",
+        "familyName" : "Person",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "27164",
+      "type" : "OTHER"
+    }, {
+      "id" : "bisu_person2000_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Arlington",
+      "publisher" : "Univ. of Texas"
+    },
+    "freeKeywords" : "LoC Subject Headings: Lawa language (Thailand), LoC Class: PL4455",
+    "subjects" : [ {
+      "value" : "bzi - Bisu",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxvii, 327 S."
+  },
+  "files" : [ {
+    "objectId" : "file_2079189",
+    "name" : "bisu_person2000_ocr.pdf",
+    "creationDate" : "2014-12-16T14:22:27.223+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-59BF-1",
+    "content" : "/rest/items/item_401574_6/component/file_2079189/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1fc50a9becfb449732dec6e913b96ca3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 20315284,
+    "metadata" : {
+      "title" : "bisu_person2000_ocr.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 20315284,
+      "copyrightDate" : "2014-12-11",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

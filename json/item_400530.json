@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_400530",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-11T08:54:42.384+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-1F50-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-11T08:54:42.384+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6DFB-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:52:22.523+0000",
+  "latestRelease" : {
+    "objectId" : "item_400530",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T08:54:42.384+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-1F50-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400530",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T08:54:42.384+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-1F50-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Handbook of Proto-Tibeto-Burman : system and philosophy of Sino-Tibetan reconstruction",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "James A.",
+        "familyName" : "Matisoff",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2003",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "21102",
+      "type" : "OTHER"
+    }, {
+      "id" : "sinotibetan_matisoff2003_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "0-520-09843-9",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Berkeley [u.a.]",
+      "publisher" : "Univ. of California Press"
+    },
+    "sources" : [ {
+      "title" : "University of California Publications in Linguistics",
+      "volume" : "135",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL3553, LoC Subject Headings: Tibeto-Burman languages",
+    "totalNumberOfPages" : "xlii, 750 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL3553,\nLoC Subject Headings: Tibeto-Burman languages, Tibeto-Burman languages--Grammar, Reconstruction (Linguistics)"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400529",
+    "name" : "sinotibetan_matisoff2003_s.pdf",
+    "creationDate" : "2010-04-01T10:52:22.147+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6DFA-4",
+    "content" : "/rest/items/item_400530_3/component/file_400529/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "18b72866ca8de1f310175e690c5441a3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3364676,
+    "metadata" : {
+      "title" : "sinotibetan_matisoff2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3364676
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110832",
+    "name" : "http://escholarship.org/uc/item/19d79619",
+    "creationDate" : "2015-03-11T08:52:47.795+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://escholarship.org/uc/item/19d79619",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5c4956a2c541e8df795b8bbfafeeb8f5",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://escholarship.org/uc/item/19d79619",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of California, eScholarship, Univ. of Calif. Press, view online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

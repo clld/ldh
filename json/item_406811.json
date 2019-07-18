@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_406811",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:29:34.901+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-92B1-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:29:34.901+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-92B1-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:47:37.674+0000",
+  "latestRelease" : {
+    "objectId" : "item_406811",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:29:34.901+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-92B1-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406811",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:29:34.901+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-92B1-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Phonology of the Urak Lawoi language : Adang island",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Saengmani, Amon",
+        "givenName" : "Amon",
+        "familyName" : "Saengmani",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1979",
+    "datePublishedInPrint" : "1979",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37450",
+      "type" : "OTHER"
+    }, {
+      "id" : "uraklawoi_amon1979_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Bangkok",
+      "publisher" : " Mahidol Univ."
+    },
+    "freeKeywords" : "LoC Class: PL5128.U7,\nLoC Subject Headings: Urak Lawoi language",
+    "subjects" : [ {
+      "value" : "urk - Urak Lawoi'",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "7 Bl., 155 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406809",
+    "name" : "http://archives.sealang.net/mahidol",
+    "creationDate" : "2010-04-01T13:47:37.016+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-92AF-5",
+    "content" : "http://archives.sealang.net/mahidol",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b90f0b74e428eb7d24c3f080c1c10bb4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://archives.sealang.net/mahidol",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406810",
+    "name" : "uraklawoi_amon1979_o.pdf",
+    "creationDate" : "2010-04-01T13:47:37.313+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-92B0-0",
+    "content" : "/rest/items/item_406811_2/component/file_406810/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ab0edf232d783d3446862d1bb31d9479",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3256214,
+    "metadata" : {
+      "title" : "uraklawoi_amon1979_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3256214
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

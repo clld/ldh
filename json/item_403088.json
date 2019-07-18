@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_403088",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-11T09:45:02.429+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-2062-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-11T09:45:02.429+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D09-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:54:07.463+0000",
+  "latestRelease" : {
+    "objectId" : "item_403088",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T09:45:02.429+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-2062-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403088",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T09:45:02.429+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-2062-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "After binding : on the interpretation of pronouns",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mario M.",
+        "familyName" : "Montalbetti",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1984",
+    "datePublishedInPrint" : "1984",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30937",
+      "type" : "OTHER"
+    }, {
+      "id" : "binding_montalbetti1984_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: PC201, LoC Subject Headings: Grammar/Comparative and general, LoC Subject Headings: Generative grammar",
+    "totalNumberOfPages" : "197 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403087",
+    "name" : "binding_montalbetti1984_o.pdf",
+    "creationDate" : "2010-04-01T11:54:06.569+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D00-4",
+    "content" : "/rest/items/item_403088_3/component/file_403087/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ea43aa677f4b05e3c8c61ae28b891cbe",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8495687,
+    "metadata" : {
+      "title" : "binding_montalbetti1984_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8495687
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110857",
+    "name" : "http://hdl.handle.net/1721.1/15222",
+    "creationDate" : "2015-03-11T09:44:28.763+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/15222",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b6115e65a13e1ae40e0db76d4890529c",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/15222",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf",
+      "size" : 0
+    }
+  } ]
+}

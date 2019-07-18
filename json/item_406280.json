@@ -1,0 +1,156 @@
+{
+  "objectId" : "item_406280",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T19:38:39.059+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F56-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:38:39.059+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8FC8-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:34:22.129+0000",
+  "latestRelease" : {
+    "objectId" : "item_406280",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T19:38:39.059+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F56-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406280",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T19:38:39.059+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F56-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Discontinuous grammar : a dependency-based model of human parsing and language learning",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Matthias",
+        "familyName" : "Buch-Kromann",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36640",
+      "type" : "OTHER"
+    }, {
+      "id" : "grammar_buchkromann2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Copenhagen]",
+      "publisher" : "Copenhagen Business School"
+    },
+    "freeKeywords" : "LoC Class: P291 .D56, LoC Subject Headings: Grammar/Comparative and general--Syntax, LoC Subject Headings: Computational linguistics",
+    "totalNumberOfPages" : "XVI, 429 S.",
+    "abstracts" : [ {
+      "value" : "revised version from July 2006"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406279",
+    "name" : "grammar_buchkromann2006_s.pdf",
+    "creationDate" : "2010-04-01T13:34:21.816+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8FC7-8",
+    "content" : "/rest/items/item_406280_4/component/file_406279/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9ac9982620df0323132ccd1b8fe9b349",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2430339,
+    "metadata" : {
+      "title" : "grammar_buchkromann2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2430339
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2043569",
+    "name" : "http://www.buch-kromann.dk/matthias/files/dissertation.pdf",
+    "creationDate" : "2014-07-22T08:46:51.730+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-FAE5-F",
+    "content" : "http://www.buch-kromann.dk/matthias/files/dissertation.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d5b797552adb23d166e5d75690f490cf",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.buch-kromann.dk/matthias/files/dissertation.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Matthias Buch-Kromann's homepage, research, dissertation, revised version from July 2006, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2043570",
+    "name" : "http://www.buch-kromann.dk/matthias/files/dissertation.pdf",
+    "creationDate" : "2014-07-22T08:46:52.381+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-FAE7-B",
+    "content" : "http://www.buch-kromann.dk/matthias/files/dissertation.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d5b797552adb23d166e5d75690f490cf",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.buch-kromann.dk/matthias/files/dissertation.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "direct link to pdf version, revised version from July 2006",
+      "size" : 0
+    }
+  } ]
+}

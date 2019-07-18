@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_405199",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T09:42:44.126+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-89CC-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:42:44.126+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-89CC-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:03:49.123+0000",
+  "latestRelease" : {
+    "objectId" : "item_405199",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T09:42:44.126+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-89CC-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405199",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T09:42:44.126+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-89CC-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Indian tribes of eastern Peru",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "William Curtis",
+        "familyName" : "Farabee",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1922",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34390",
+      "type" : "OTHER"
+    }, {
+      "id" : "indiantribes_farabee1922_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cambridge, Mass.",
+      "publisher" : "Peabody  Museum"
+    },
+    "sources" : [ {
+      "title" : "Papers of the Peabody Museum of American Archaeology and Ethnology, Havard University",
+      "volume" : "0",
+      "genre" : "SERIES"
+    } ],
+    "totalNumberOfPages" : "xiv, 194 S., 28 Bl.",
+    "abstracts" : [ {
+      "value" : "PM5271, ISO 639-3 : -, Indians of South America -- Peru, Indians of South America -- Peru -- Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405198",
+    "name" : "indiantribes_farabee1922_o.pdf",
+    "creationDate" : "2010-04-01T13:03:44.714+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-89CB-C",
+    "content" : "/rest/items/item_405199_4/component/file_405198/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0c299225fe95108964c9e90abf5546fe",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 47005891,
+    "metadata" : {
+      "title" : "indiantribes_farabee1922_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 47005891,
+      "copyrightDate" : "2010-11-22",
+      "rights" : "not in copyright; William Curtis Farabee 1865-1925"
+    }
+  } ]
+}

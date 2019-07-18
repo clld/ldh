@@ -1,0 +1,147 @@
+{
+  "objectId" : "item_402540",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T17:12:58.540+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6E30-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T17:12:58.540+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-79B8-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:34:03.202+0000",
+  "latestRelease" : {
+    "objectId" : "item_402540",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:12:58.540+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E30-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402540",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:12:58.540+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E30-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Phonology and grammar of Nankina",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Spaulding, Craig",
+        "givenName" : "Craig",
+        "familyName" : "Spaulding",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Pat",
+        "familyName" : "Spaulding"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1994",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29999",
+      "type" : "OTHER"
+    }, {
+      "id" : "nankina_spaulding1994_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ukarumpa via Lae, Papua New Guinea",
+      "publisher" : "Summer Institute of Linguistics"
+    },
+    "sources" : [ {
+      "title" : "Data papers on Papua New Guinea languages",
+      "volume" : "41",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6621.N345, LoC Subject Headings: Nankina language--Phonology, LoC Subject Headings: Nankina language--Grammar, LoC Subject Headings: Nankina language--Texts",
+    "subjects" : [ {
+      "value" : "nnk - Nankina",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vii, 259 S. (pdf)"
+  },
+  "files" : [ {
+    "objectId" : "file_402538",
+    "name" : "http://www.sil.org/pacific/png/pubs/0000467/Phonology%20and%20Grammar%20of%20Nankina.pdf",
+    "creationDate" : "2010-04-01T11:33:45.687+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-79B6-A",
+    "content" : "http://www.sil.org/pacific/png/pubs/0000467/Phonology%20and%20Grammar%20of%20Nankina.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b3d7684dbc8ecfbce1584f3f53b4dd01",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/pacific/png/pubs/0000467/Phonology%20and%20Grammar%20of%20Nankina.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402539",
+    "name" : "nankina_spaulding1994_o.pdf",
+    "creationDate" : "2010-04-01T11:34:02.514+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-79B7-8",
+    "content" : "/rest/items/item_402540_3/component/file_402539/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c10da779631c9158577db25735258dcc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6132749,
+    "metadata" : {
+      "title" : "nankina_spaulding1994_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6132749
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

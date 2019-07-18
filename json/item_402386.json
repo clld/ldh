@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_402386",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T18:48:29.272+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6EF3-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T18:48:29.272+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-78DA-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:30:58.976+0000",
+  "latestRelease" : {
+    "objectId" : "item_402386",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:48:29.272+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EF3-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402386",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:48:29.272+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EF3-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Exploring the adaptive structure of the mental lexicon",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Tamariz-Martel Mirêlis, Mónica",
+        "givenName" : "Mónica",
+        "familyName" : "Tamariz-Martel Mirêlis",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29796",
+      "type" : "OTHER"
+    }, {
+      "id" : "mental_tamariz2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Edinburgh",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: P326.5.P75, LoC Subject Headings: Lexicology --Psychological aspects, LoC Subject Headings: Psycholinguistics",
+    "subjects" : [ {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix,[268 S.]"
+  },
+  "files" : [ {
+    "objectId" : "file_402384",
+    "name" : "http://www.ling.ed.ac.uk/~monica/tamariz_thesis.pdf",
+    "creationDate" : "2010-04-01T11:30:57.012+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-78D8-6",
+    "content" : "http://www.ling.ed.ac.uk/~monica/tamariz_thesis.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6ba01db32a30ef09d80129bc58cd09be",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ling.ed.ac.uk/~monica/tamariz_thesis.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402385",
+    "name" : "mental_tamariz2004_s.pdf",
+    "creationDate" : "2010-04-01T11:30:58.637+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-78D9-4",
+    "content" : "/rest/items/item_402386_3/component/file_402385/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "79dbdf49422c1f72c1a6e4d10731d3bb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2629816,
+    "metadata" : {
+      "title" : "mental_tamariz2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2629816
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

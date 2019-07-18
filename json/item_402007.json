@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_402007",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-07T07:37:07.951+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A7DB-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-07T07:37:07.951+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7694-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:24:19.951+0000",
+  "latestRelease" : {
+    "objectId" : "item_402007",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-07T07:37:07.951+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7DB-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402007",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-07T07:37:07.951+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7DB-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Aanua Bana Hunánti : Vocabulario Cashibo-Castellano, Castellano-Cashibo",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Olive A.",
+        "familyName" : "Shell",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1959",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "28860",
+      "type" : "OTHER"
+    }, {
+      "id" : "cashibo_shell1959_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa", "cbr" ],
+    "freeKeywords" : "LoC Class: PM5763, LoC Subject Headings: Cashibo language",
+    "subjects" : [ {
+      "value" : "cbr - Cashibo-Cacataibo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "154 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5763, LoC Subject Headings: Cashibo language--Dictionaries--Spanish, LoC Subject Headings: Spanish language--Dictionaries--Cashibo"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402006",
+    "name" : "cashibo_shell1959_o.pdf",
+    "creationDate" : "2010-04-01T11:24:19.409+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7693-1",
+    "content" : "/rest/items/item_402007_4/component/file_402006/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d6a31f8b641f935c9fce98b3025fa5ce",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4537470,
+    "metadata" : {
+      "title" : "cashibo_shell1959_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4537470
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2129322",
+    "name" : "http://www.peru.sil.org/resources/archives/27836",
+    "creationDate" : "2015-04-07T07:36:33.808+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/27836",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ee6613df731d201061142d576d4e465b",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/27836",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Peru Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

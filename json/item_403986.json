@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403986",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-02T08:30:17.125+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-D7E1-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-02T08:30:17.125+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-82F0-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:32:23.409+0000",
+  "latestRelease" : {
+    "objectId" : "item_403986",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-02T08:30:17.125+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D7E1-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403986",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-02T08:30:17.125+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D7E1-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Word sense disambiguation in Thai using decision list collocation",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Wipharuk",
+        "familyName" : "Kanokrattananukul",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32108",
+      "type" : "OTHER"
+    }, {
+      "id" : "thai_wipharuk2001_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "974-03-0553-9",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Pathumwan",
+      "publisher" : "Chulalongkorn Univ."
+    },
+    "freeKeywords" : "LoC Class: PL4158,\nLoC Subject Headings: Thai language",
+    "subjects" : [ {
+      "value" : "tha - Thai",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiii, 168 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403985",
+    "name" : "thai_wipharuk2001_o.pdf",
+    "creationDate" : "2010-04-01T12:32:23.207+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-82EF-9",
+    "content" : "/rest/items/item_403986_3/component/file_403985/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1fbd0ab1cc55c69ac70f99baae61d53c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1534294,
+    "metadata" : {
+      "title" : "thai_wipharuk2001_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1534294
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2036584",
+    "name" : "http://ling.arts.chula.ac.th/elib/",
+    "creationDate" : "2014-07-02T08:28:14.517+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-D7E2-2",
+    "content" : "http://ling.arts.chula.ac.th/elib/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "fd6b8753d0a4ed12a496a0c9f6190a5e",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://ling.arts.chula.ac.th/elib/",
+      "contentCategory" : "any-fulltext",
+      "description" : "Chulalongkorn University, Thai linguistics library, search for book title -> category theses/disst., pdf",
+      "size" : 0
+    }
+  } ]
+}

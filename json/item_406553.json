@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_406553",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-13T02:20:42.403+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-726A-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:20:42.403+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9144-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:40:44.469+0000",
+  "latestRelease" : {
+    "objectId" : "item_406553",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:20:42.403+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-726A-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406553",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:20:42.403+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-726A-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Thematic relations between nouns",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Juan Carlos",
+        "familyName" : "Castillo",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37231",
+      "type" : "OTHER"
+    }, {
+      "id" : "nouns_castillo2001_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Maryland",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: P271, LoC Subject Headings: Grammar/Comparative and general, LoC Subject Headings: Case grammar, LoC Subject Headings: Typology (Linguistics)",
+    "totalNumberOfPages" : "201 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406551",
+    "name" : "http://www.uni.edu/~castillo/diss/castillo.pdf",
+    "creationDate" : "2010-04-01T13:40:39.973+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9142-1",
+    "content" : "http://www.uni.edu/~castillo/diss/castillo.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0e89a575a66cf4e2d1fb43eff2ecfa06",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.uni.edu/~castillo/diss/castillo.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406552",
+    "name" : "nouns_castillo2001_s.pdf",
+    "creationDate" : "2010-04-01T13:40:44.369+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9143-0",
+    "content" : "/rest/items/item_406553_4/component/file_406552/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "84146fa3d98fab4645220ce7b9a09414",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 338903,
+    "metadata" : {
+      "title" : "nouns_castillo2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 338903
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

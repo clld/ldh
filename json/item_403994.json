@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_403994",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-03-13T00:13:03.284+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-716C-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T00:13:03.284+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-82FB-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:32:31.985+0000",
+  "latestRelease" : {
+    "objectId" : "item_403994",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-13T00:13:03.284+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-716C-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403994",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-13T00:13:03.284+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-716C-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Land- en volkenkunde : eerste deel",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Nicolaus",
+        "familyName" : "Adriani",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Albertus Christiaan",
+        "familyName" : "Kruijt"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1912",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "32113",
+      "type" : "OTHER"
+    }, {
+      "id" : "toradjas1_adriani1912.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "nld" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Batavia",
+      "publisher" : "Landsdrukkerij"
+    },
+    "sources" : [ {
+      "title" : "¬De¬ Bare'e-sprekende Toradja's van Midden-Celebes",
+      "volume" : "1",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Pamona language, LoC Subject Headings: Dutch language",
+    "subjects" : [ {
+      "value" : "pmf - Pamona",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "nld - Dutch",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xi, 426 S.",
+    "abstracts" : [ {
+      "value" : "PL5233, ISO 639-3 : pmf, Toraja (Indonesian people), Baree dialect, Dutch language--Baree"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403993",
+    "name" : "toradjas1_adriani1912.pdf",
+    "creationDate" : "2010-04-01T12:32:28.807+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-82FA-F",
+    "content" : "/rest/items/item_403994_6/component/file_403993/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0821f8baa81b70fa36981f71db521bab",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 33745038,
+    "metadata" : {
+      "title" : "toradjas1_adriani1912.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 33745038,
+      "copyrightDate" : "2010-12-01",
+      "rights" : "not in copyright, Adriani, Nicolaus 1865-1926"
+    }
+  } ]
+}

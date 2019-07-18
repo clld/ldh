@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_403121",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-17T08:17:57.554+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B772-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-17T08:17:57.554+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D3D-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:56:27.280+0000",
+  "latestRelease" : {
+    "objectId" : "item_403121",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-17T08:17:57.554+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B772-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403121",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-17T08:17:57.554+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B772-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Theory of complementation in English syntax",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Joan",
+        "familyName" : "Bresnan",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1972",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30959",
+      "type" : "OTHER"
+    }, {
+      "id" : "complementation_bresnan1972_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: PE1385, LoC Subject Headings: English language",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "321 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PE1385, LoC Subject Headings: English language--Syntax, LoC Subject Headings: English language--Complement"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403120",
+    "name" : "complementation_bresnan1972_o.pdf",
+    "creationDate" : "2010-04-01T11:56:25.664+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D3C-D",
+    "content" : "/rest/items/item_403121_4/component/file_403120/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "aab9236d0ad2a390ac9b22fff1c1c48a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 16749015,
+    "metadata" : {
+      "title" : "complementation_bresnan1972_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 16749015
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147031",
+    "name" : "http://hdl.handle.net/1721.1/12979",
+    "creationDate" : "2015-04-17T08:17:16.669+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/12979",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ffefd1948bbb4752962a387336e55ad8",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/12979",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

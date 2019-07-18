@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_405767",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-10T07:37:42.265+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-E42B-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-10T07:37:42.265+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8CF7-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:20:18.500+0000",
+  "latestRelease" : {
+    "objectId" : "item_405767",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-10T07:37:42.265+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-E42B-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405767",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-10T07:37:42.265+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-E42B-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A computational study of lexicalized noun phrases in English",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Carol Jean",
+        "familyName" : "Godby",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35373",
+      "type" : "OTHER"
+    }, {
+      "id" : "english_godby2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: PE1205,\nLoC Subject Headings: English language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XII, 144 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PE1205,\nLoC Subject Headings: English language--Noun phrase, English language--Compound words, English language--Semantics"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405766",
+    "name" : "english_godby2002_s.pdf",
+    "creationDate" : "2010-04-01T13:20:18.371+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8CF6-7",
+    "content" : "/rest/items/item_405767_3/component/file_405766/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9c3b8db10f23bcf92f80b3e2031fa4ee",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 728001,
+    "metadata" : {
+      "title" : "english_godby2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 728001
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2039807",
+    "name" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1017343683",
+    "creationDate" : "2014-07-10T07:36:24.367+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-E42D-6",
+    "content" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1017343683",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b18d38c3932bbf3dc0977df5b1d617a3",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1017343683",
+      "contentCategory" : "any-fulltext",
+      "description" : "OhioLINK, Electronic Theses & Dissertations Center, pdf",
+      "size" : 0
+    }
+  } ]
+}

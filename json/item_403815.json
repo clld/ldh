@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_403815",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-06-24T10:09:00.013+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-CDC7-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-06-24T10:09:00.013+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-81F4-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:26:11.508+0000",
+  "latestRelease" : {
+    "objectId" : "item_403815",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-24T10:09:00.013+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-CDC7-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403815",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-24T10:09:00.013+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-CDC7-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The demotic verbal system",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Janet H.",
+        "familyName" : "Johnson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1976",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31741",
+      "type" : "OTHER"
+    }, {
+      "id" : "demotic_johnson2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "2. korr. Aufl.",
+      "place" : "Chicago",
+      "publisher" : "The Univ. of Chicago Press"
+    },
+    "sources" : [ {
+      "title" : "Studies in Ancient Oriental Civilization (SAOC)",
+      "volume" : "38",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PJ1181, LoC Subject Headings: Egyptian language",
+    "totalNumberOfPages" : "xv, 344 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PJ1181, LoC Subject Headings: Egyptian language--Demotic, ca. 650 B.C.-450 A .D.--Verb"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403814",
+    "name" : "demotic_johnson2004_s.pdf",
+    "creationDate" : "2010-04-01T12:26:11.340+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-81F3-5",
+    "content" : "/rest/items/item_403815_3/component/file_403814/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "83581dc825778629aa647ba5b6779a7e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1105782,
+    "metadata" : {
+      "title" : "demotic_johnson2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1105782
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2034406",
+    "name" : "http://oi.uchicago.edu/research/publications/saoc/saoc-38-demotic-verbal-system",
+    "creationDate" : "2014-06-24T10:07:53.295+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-CDC8-B",
+    "content" : "http://oi.uchicago.edu/research/publications/saoc/saoc-38-demotic-verbal-system",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d4e1c982cef413f8be4b4b58e16baac0",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://oi.uchicago.edu/research/publications/saoc/saoc-38-demotic-verbal-system",
+      "contentCategory" : "publisher-version",
+      "description" : "The Oriental Institute, \nStudies in Ancient Oriental Civilization (SAOC), SAOC 38, pdf",
+      "size" : 0
+    }
+  } ]
+}

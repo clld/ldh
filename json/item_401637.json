@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_401637",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:24:31.416+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7472-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:24:31.416+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7472-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:15:41.778+0000",
+  "latestRelease" : {
+    "objectId" : "item_401637",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:24:31.416+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7472-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401637",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:24:31.416+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7472-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Ossetian : revisiting inflectional morphology",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Hettich, Bela G.",
+        "givenName" : "Bela G.",
+        "familyName" : "Hettich",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "27259",
+      "type" : "OTHER"
+    }, {
+      "id" : "ossetian_hettich2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Grand Forks",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PK6951,\nLoC Subject Headings: Ossetic language",
+    "subjects" : [ {
+      "value" : "oss - Ossetian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "x, 99 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401635",
+    "name" : "http://www.und.nodak.edu/dept/linguistics/theses/2002Hettich.PDF",
+    "creationDate" : "2010-04-01T11:15:41.034+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7470-1",
+    "content" : "http://www.und.nodak.edu/dept/linguistics/theses/2002Hettich.PDF",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6a5da8ce6d4348ad69cff0f0372988ad",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.und.nodak.edu/dept/linguistics/theses/2002Hettich.PDF",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401636",
+    "name" : "ossetian_hettich2002_s.pdf",
+    "creationDate" : "2010-04-01T11:15:41.667+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7471-0",
+    "content" : "/rest/items/item_401637_2/component/file_401636/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f7352c7b0ab986f094cc1d42414476ab",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 448418,
+    "metadata" : {
+      "title" : "ossetian_hettich2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 448418
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

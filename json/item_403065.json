@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_403065",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-06-06T07:49:49.484+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7CDF-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:49:49.484+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7CDF-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:53:05.699+0000",
+  "latestRelease" : {
+    "objectId" : "item_403065",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-06-06T07:49:49.484+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7CDF-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403065",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-06-06T07:49:49.484+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7CDF-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Anaphoric relations in English",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Thomas",
+        "familyName" : "Wasow",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1972",
+    "datePublishedInPrint" : "1972",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30926",
+      "type" : "OTHER"
+    }, {
+      "id" : "anaphoric_wasow1972_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Institute of      Technology"
+    },
+    "sources" : [ {
+      "title" : "MIT working papers in linguistics",
+      "genre" : "SERIES"
+    } ],
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "199 S.",
+    "abstracts" : [ {
+      "value" : "P299.A5, ISO 639-3 : eng, English language -- Grammar, Generative, Anaphora (Linguistics)"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403063",
+    "name" : "http://www.ai.mit.edu/projects/dm/theses/wasow72.pdf",
+    "creationDate" : "2010-04-01T11:52:57.833+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7CDD-D",
+    "content" : "http://www.ai.mit.edu/projects/dm/theses/wasow72.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a991ffd1ceb232c5b2f7617cec5357c6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ai.mit.edu/projects/dm/theses/wasow72.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403064",
+    "name" : "anaphoric_wasow1972_o.pdf",
+    "creationDate" : "2010-04-01T11:53:04.485+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7CDE-B",
+    "content" : "/rest/items/item_403065_4/component/file_403064/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f53550f6e56c978f393e405f22b18609",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12065468,
+    "metadata" : {
+      "title" : "anaphoric_wasow1972_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12065468,
+      "copyrightDate" : "2010-11-29",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

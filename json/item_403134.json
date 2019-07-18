@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403134",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-05-31T11:26:17.848+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7D4F-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:26:17.848+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D4F-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:57:00.559+0000",
+  "latestRelease" : {
+    "objectId" : "item_403134",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T11:26:17.848+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7D4F-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403134",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T11:26:17.848+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7D4F-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The Abenaki Indians : their treaties of 1713 & 1717, and a vocabulary ; with a historical introduction",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Frederic",
+        "familyName" : "Kidder",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1859",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31041",
+      "type" : "OTHER"
+    }, {
+      "id" : "abenaki_kidder1859_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Portland",
+      "publisher" : "Thurston"
+    },
+    "freeKeywords" : "LoC Subject Headings: Abenaki language",
+    "subjects" : [ {
+      "value" : "abe - Western Abnaki",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "25 S.",
+    "abstracts" : [ {
+      "value" : "PM551, ISO 639-3 : abe, Abenaki Indians, Indians of North America --Maine, Abenaki language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403133",
+    "name" : "abenaki_kidder1859_o.pdf",
+    "creationDate" : "2010-04-01T11:57:00.332+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D4E-5",
+    "content" : "/rest/items/item_403134_5/component/file_403133/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "bae17310ae9d0be480da912a9a9a2d04",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1780922,
+    "metadata" : {
+      "title" : "abenaki_kidder1859_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1780922,
+      "copyrightDate" : "2010-11-18",
+      "rights" : "public domain, Frederic Kidder ????-????"
+    }
+  } ]
+}

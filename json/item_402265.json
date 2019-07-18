@@ -1,0 +1,152 @@
+{
+  "objectId" : "item_402265",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-06-06T07:38:15.009+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7832-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:38:15.009+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7832-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:29:21.511+0000",
+  "latestRelease" : {
+    "objectId" : "item_402265",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-06-06T07:38:15.009+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7832-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402265",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-06-06T07:38:15.009+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7832-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Introduction a l'histoire de Cayenne suivie d'un recueil de contes, fables & chansons en créole avec traduction en regard, notes & commentaires",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Saint-Quentin, Alfred de",
+        "givenName" : "Alfred de",
+        "familyName" : "Saint-Quentin",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Auguste de",
+        "familyName" : "Saint-Quentin",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1872",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29503",
+      "type" : "OTHER"
+    }, {
+      "id" : "cayenne_quentin1872_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Antibes",
+      "publisher" : "Marchand"
+    },
+    "freeKeywords" : "LoC Subject Headings: Creole dialects--French Guiana",
+    "subjects" : [ {
+      "value" : "gcr - Guianese Creole French",
+      "type" : "ISO639_3"
+    } ],
+    "tableOfContents" : "Enth.: Etude sur la grammaire créole / Auguste Saint-Quentin",
+    "totalNumberOfPages" : "I-LX, 208 S.",
+    "abstracts" : [ {
+      "value" : "PM7851, ISO 639-3 : gcr, Creole dialects--French Guiana, Fables, French Guiana--History"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402263",
+    "name" : "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-82939",
+    "creationDate" : "2010-04-01T11:29:20.317+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7830-F",
+    "content" : "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-82939",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b04387ec3b1162bd8a93cdc4562993c5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-82939",
+      "contentCategory" : "publisher-version",
+      "description" : "gallica, bnf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402264",
+    "name" : "cayenne_quentin1872_o.pdf",
+    "creationDate" : "2010-04-01T11:29:20.899+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7831-D",
+    "content" : "/rest/items/item_402265_4/component/file_402264/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "691ec3aca05a4fb47c9b1c76ecca7085",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5687815,
+    "metadata" : {
+      "title" : "cayenne_quentin1872_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "public domain ",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5687815
+    }
+  } ]
+}

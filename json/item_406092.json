@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_406092",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T21:21:02.677+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7034-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:21:02.677+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8EC0-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:29:11.327+0000",
+  "latestRelease" : {
+    "objectId" : "item_406092",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T21:21:02.677+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7034-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406092",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T21:21:02.677+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7034-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Evaluation, implementation, and extension of primitive optimality theory",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Albro, Daniel Matthew",
+        "givenName" : "Daniel Matthew",
+        "familyName" : "Albro",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1998",
+    "datePublishedInPrint" : "1998",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35781",
+      "type" : "OTHER"
+    }, {
+      "id" : "primitiveot_albro1997_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Los Angeles",
+      "publisher" : "Univ.of Calif."
+    },
+    "freeKeywords" : "LoC Class: PL122, LoC Subject Headings: Optimality theory (Linguistics), LoC Subject Headings: Turkish language -- Phonology",
+    "subjects" : [ {
+      "value" : "tur - Turkish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "IX, 97 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406090",
+    "name" : "http://www.linguistics.ucla.edu/people/grads/albro/ma.pdf",
+    "creationDate" : "2010-04-01T13:29:08.302+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8EBE-8",
+    "content" : "http://www.linguistics.ucla.edu/people/grads/albro/ma.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2584153204b24ceadd042e332b549533",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.linguistics.ucla.edu/people/grads/albro/ma.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406091",
+    "name" : "primitiveot_albro1997_s.pdf",
+    "creationDate" : "2010-04-01T13:29:11.230+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8EBF-6",
+    "content" : "/rest/items/item_406092_4/component/file_406091/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "291b97e580bcbaa758fde76d0e782331",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 362020,
+    "metadata" : {
+      "title" : "primitiveot_albro1997_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 362020
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

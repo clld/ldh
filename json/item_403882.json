@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_403882",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-11T08:44:28.535+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-1F22-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-11T08:44:28.535+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8258-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:28:04.642+0000",
+  "latestRelease" : {
+    "objectId" : "item_403882",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-11T08:44:28.535+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-1F22-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403882",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-11T08:44:28.535+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-1F22-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "English-Lahu lexicon",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "James A.",
+        "familyName" : "Matisoff",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2006",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31908",
+      "type" : "OTHER"
+    }, {
+      "id" : "lahu_matisoff2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Berkeley [u.a.]",
+      "publisher" : "Univ. of California Press"
+    },
+    "sources" : [ {
+      "title" : "University of California publications in linguistics",
+      "volume" : "139",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL4001.L184, LoC Subject Headings: Lahu language",
+    "subjects" : [ {
+      "value" : "lhu - Lahu",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxxvi, 472 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL4001.L184,\nLoC Subject Headings: English language--Dictionaries--Lahu, Animals--Nomenclature (Popular)--Lahu, Plant names, Popular--Lahu"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403880",
+    "name" : "http://repositories.cdlib.org/cgi/viewcontent.cgi?article=1005&context=ucpress/ucpl",
+    "creationDate" : "2010-04-01T12:28:00.903+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://repositories.cdlib.org/cgi/viewcontent.cgi?article=1005&context=ucpress/ucpl",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ef8dfb8018401d8af3967844981b3870",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://repositories.cdlib.org/cgi/viewcontent.cgi?article=1005&context=ucpress/ucpl",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of California, eScholarship, Univ. of California Press, view online & pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403881",
+    "name" : "lahu_matisoff2006_s.pdf",
+    "creationDate" : "2010-04-01T12:28:03.703+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8257-C",
+    "content" : "/rest/items/item_403882_4/component/file_403881/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0c8829a3579f9a844ce8db580992b94c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8962663,
+    "metadata" : {
+      "title" : "lahu_matisoff2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8962663
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

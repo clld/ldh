@@ -1,0 +1,155 @@
+{
+  "objectId" : "item_445895",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-04-17T10:36:00.071+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B7EE-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-17T10:36:00.071+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-B814-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-05-28T08:28:16.733+0000",
+  "latestRelease" : {
+    "objectId" : "item_445895",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-17T10:36:00.071+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B7EE-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_445895",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-17T10:36:00.071+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B7EE-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Eyak dictionary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Michael E.",
+        "familyName" : "Krauss",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1970",
+    "genre" : "MONOGRAPH",
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Alaska",
+      "publisher" : "Univ. of Alaska"
+    },
+    "freeKeywords" : "LoC Class: PM1980.Z5, LoC Subject Headings: Eyak language",
+    "subjects" : [ {
+      "value" : "eya - Eyak",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vii, 2945 Bl.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM1980.Z5, LoC Subject Headings: Eyak language--Dictionaries"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_445893",
+    "name" : "eyakindex_krauss1970.pdf",
+    "creationDate" : "2010-05-28T08:28:11.453+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-B812-D",
+    "content" : "/rest/items/item_445895_6/component/file_445893/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d484c567af2bcddfb6f4d60ef84c1de7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5119350,
+    "metadata" : {
+      "title" : "eyakindex_krauss1970.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "English-Eyak (and German- and Russian-Eyak) index",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5119350
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_445894",
+    "name" : "http://www.uaf.edu/anla/collections/search/resultDetail.xml?id=EY961K1970b",
+    "creationDate" : "2010-05-28T08:28:11.980+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.uaf.edu/anla/collections/search/resultDetail.xml?id=EY961K1970b",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "456a54b519c65e32992265868dbf85a4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.uaf.edu/anla/collections/search/resultDetail.xml?id=EY961K1970b",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Alaska Fairbanks, Alaska Native Language Archive, pdfs download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_445899",
+    "name" : "eyak_krauss1970_s.pdf",
+    "creationDate" : "2010-05-28T08:57:29.224+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-B817-3",
+    "content" : "/rest/items/item_445895_6/component/file_445899/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f3e2619a56701fb97cfe184217255c25",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 237851723,
+    "metadata" : {
+      "title" : "eyak_krauss1970_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 237851723
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,150 @@
+{
+  "objectId" : "item_403588",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-03-13T02:07:56.148+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7251-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:07:56.148+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8056-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:20:04.412+0000",
+  "latestRelease" : {
+    "objectId" : "item_403588",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-13T02:07:56.148+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7251-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403588",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-13T02:07:56.148+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7251-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The Batán dialect as a member of the Philippine group of languages [Part. I] ; \"F\" and \"V\" in Philippine languages [Part. II]",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Otto",
+        "familyName" : "Scheerer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Carlos Everett",
+        "familyName" : "Conant",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1908",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31419",
+      "type" : "OTHER"
+    }, {
+      "id" : "batan_scheerer1908_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Manila",
+      "publisher" : "Bureau of Printing"
+    },
+    "sources" : [ {
+      "title" : "Philippine Islands. Ethnological Survey. Publications",
+      "alternativeTitles" : [ {
+        "value" : "Philippine Islands.Ethnological Survey. Publications"
+      } ],
+      "volume" : "5.1-2",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL5571, LoC Subject Headings: Batan language, LoC Subject Headings: Philippine languages, LoC Subject Headings: Ivatan language",
+    "totalNumberOfPages" : "141 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403587",
+    "name" : "batan_scheerer1908_o.pdf",
+    "creationDate" : "2010-04-01T12:20:03.828+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8055-2",
+    "content" : "/rest/items/item_403588_6/component/file_403587/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "08405c91224908331ffe88f5cf09bc94",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5578430,
+    "metadata" : {
+      "title" : "batan_scheerer1908_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5578430,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2085273",
+    "name" : "https://archive.org/details/rosettaproject_ivb_multiple-1",
+    "creationDate" : "2015-01-23T14:24:49.068+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/rosettaproject_ivb_multiple-1",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5c4843726529032b2583189b7e39dfc2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/rosettaproject_ivb_multiple-1",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, read online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

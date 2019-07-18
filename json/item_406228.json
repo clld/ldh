@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_406228",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T20:46:55.782+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FED-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:46:55.782+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8F82-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:33:23.262+0000",
+  "latestRelease" : {
+    "objectId" : "item_406228",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:46:55.782+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FED-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406228",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:46:55.782+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FED-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of Dime",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Seyoum, Mulugeta",
+        "givenName" : "Mulugeta",
+        "familyName" : "Seyoum",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2008",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36499",
+      "type" : "OTHER"
+    }, {
+      "id" : "dime_seyoum2008_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "978-90-78328-52-0",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "sources" : [ {
+      "title" : "LOT Dissertation Series",
+      "volume" : "178",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PJ2561, LoC Subject Headings: Ethiopia--Languages, LoC Subject Headings: Omotic languages--Grammar",
+    "subjects" : [ {
+      "value" : "dim - Dime",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406226",
+    "name" : "http://www.lotpublications.nl/publish/articles/002715/bookpart.pdf",
+    "creationDate" : "2010-04-01T13:33:19.484+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.lotpublications.nl/publish/articles/002715/bookpart.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lotpublications.nl/publish/articles/002715/bookpart.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406227",
+    "name" : "dime_seyoum2008_s.pdf",
+    "creationDate" : "2010-04-01T13:33:22.996+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8F81-6",
+    "content" : "/rest/items/item_406228_3/component/file_406227/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "59259914c9ba4d89eaffd40382b2c89f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1969477,
+    "metadata" : {
+      "title" : "dime_seyoum2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1969477
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

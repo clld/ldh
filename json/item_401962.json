@@ -1,0 +1,161 @@
+{
+  "objectId" : "item_401962",
+  "versionNumber" : 7,
+  "modificationDate" : "2015-04-24T11:18:12.805+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C024-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-24T11:18:12.805+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7655-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:23:41.403+0000",
+  "latestRelease" : {
+    "objectId" : "item_401962",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-04-24T11:18:12.805+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C024-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401962",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-04-24T11:18:12.805+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C024-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Bildung von Adpositionen im Deutschen",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Christian",
+        "familyName" : "Lehmann",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Christel",
+        "familyName" : "Scholz"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1992",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "28833",
+      "type" : "OTHER"
+    }, {
+      "id" : "adpositionen_lehmann1992_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Erfurt",
+      "publisher" : "Univ."
+    },
+    "sources" : [ {
+      "title" : "Arbeitspapiere des Seminars für Sprachwissenschaft der Universität Erfurt ",
+      "alternativeTitles" : [ {
+        "value" : "ASSidUE",
+        "type" : "ABBREVIATION"
+      } ],
+      "creators" : [ {
+        "organization" : {
+          "identifier" : "ou_persistent22",
+          "name" : " Universität <Erfurt, 1994 -> / Seminar für Sprachwissenschaft",
+          "identifierPath" : [ "ou_persistent22" ]
+        },
+        "role" : "EDITOR",
+        "type" : "ORGANIZATION"
+      } ],
+      "volume" : "06",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PF3001, LoC Subject Headings: German language, LoC Subject Headings: Grammar/Comparative and general--Prepositions, LoC Subject Headings: Grammar/Comparative and general--Postpositions",
+    "subjects" : [ {
+      "value" : "deu - German",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "44 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401960",
+    "name" : "http://www.db-thueringen.de/servlets/DerivateServlet/Derivate-1770/ASSidUE06.pdf",
+    "creationDate" : "2010-04-01T11:23:41.047+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7653-F",
+    "content" : "http://www.db-thueringen.de/servlets/DerivateServlet/Derivate-1770/ASSidUE06.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c710a2e7f6b86e973559c04690c20372",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.db-thueringen.de/servlets/DerivateServlet/Derivate-1770/ASSidUE06.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "dbt - digitale Bibliothek Thüringen",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401961",
+    "name" : "adpositionen_lehmann1992_s.pdf",
+    "creationDate" : "2010-04-01T11:23:41.289+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7654-D",
+    "content" : "/rest/items/item_401962_7/component/file_401961/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c710a2e7f6b86e973559c04690c20372",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 238851,
+    "metadata" : {
+      "title" : "adpositionen_lehmann1992_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 238851,
+      "copyrightDate" : "2010-09-09",
+      "rights" : "© Autoren, non-exclusive right of use "
+    }
+  } ]
+}

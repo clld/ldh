@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_404929",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-09-05T07:07:15.317+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-CB33-5",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "message" : "externe Referenz ergänzt, Stichwörter für LDH-Blogimport korrigiert",
+  "lastModificationDate" : "2014-09-05T07:07:15.317+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8855-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:51:15.832+0000",
+  "latestRelease" : {
+    "objectId" : "item_404929",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-09-05T07:07:15.317+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-CB33-5",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404929",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-09-05T07:07:15.317+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-CB33-5",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Linguistic Identity of the dialect of Fiume",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Durda Bosiljka",
+        "familyName" : "Rosic",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "33853",
+      "type" : "OTHER"
+    }, {
+      "id" : "fiume_rosic2002_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Toronto",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Subject Headings: Gallo-Italian dialects, LoC Class: PC 1851",
+    "subjects" : [ {
+      "value" : "vec - Venetian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix, 384, [17] S."
+  },
+  "files" : [ {
+    "objectId" : "file_404928",
+    "name" : "fiume_rosic2002_o.pdf",
+    "creationDate" : "2010-04-01T12:51:14.485+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8854-F",
+    "content" : "/rest/items/item_404929_3/component/file_404928/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6284d867ec048d9685616454bb1c5447",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 13397686,
+    "metadata" : {
+      "title" : "fiume_rosic2002_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 13397686
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2055786",
+    "name" : "http://www.collectionscanada.gc.ca/obj/s4/f2/dsk4/etd/NQ74678.PDF",
+    "creationDate" : "2014-09-04T10:43:44.302+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.collectionscanada.gc.ca/obj/s4/f2/dsk4/etd/NQ74678.PDF",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "024a77a35d2cdf1ae6cee04916a017ae",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.collectionscanada.gc.ca/obj/s4/f2/dsk4/etd/NQ74678.PDF",
+      "contentCategory" : "publisher-version",
+      "description" : "Library and Archives Canada, Theses Canada, pdf",
+      "size" : 0
+    }
+  } ]
+}

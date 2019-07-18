@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_1933112",
+  "versionNumber" : 2,
+  "modificationDate" : "2015-01-13T16:27:12.479+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-7642-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-01-13T16:27:12.479+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0015-3EFC-A",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-02-20T10:04:19.501+0000",
+  "latestRelease" : {
+    "objectId" : "item_1933112",
+    "versionNumber" : 2,
+    "modificationDate" : "2015-01-13T16:27:12.479+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-7642-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_1933112",
+    "versionNumber" : 2,
+    "modificationDate" : "2015-01-13T16:27:12.479+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-7642-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Contributions to a Tutelo Vocabulary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Leo J.",
+        "familyName" : "Frachtenberg",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1913",
+    "genre" : "ARTICLE",
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "American Anthropologist, New Series",
+      "volume" : "15",
+      "issue" : "3 (Jul. - Sep., 1913)",
+      "startPage" : "477",
+      "endPage" : "479",
+      "publishingInfo" : {
+        "place" : "\t Malden, Mass. [u.a.]",
+        "publisher" : "Wiley-Blackwell"
+      },
+      "identifiers" : [ {
+        "id" : "0002-7294",
+        "type" : "ISSN"
+      } ],
+      "genre" : "JOURNAL"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Tutelo language, LoC Class: PM2507\n",
+    "subjects" : [ {
+      "value" : "tta - Tutelo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "3 S.",
+    "abstracts" : [ {
+      "value" : "LoC Subject Headings: Tutelo language--Glossaries, vocabularies, etc.\nLoC Class: PM2507\n"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_1933110",
+    "name" : "Frachtenberg_Tutelo1913.pdf",
+    "creationDate" : "2014-02-20T10:04:19.283+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0015-3EFE-6",
+    "content" : "/rest/items/item_1933112_2/component/file_1933110/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3e9b74260935ade48779fe8f374a472b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 256902,
+    "metadata" : {
+      "title" : "Frachtenberg_Tutelo1913.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 256902,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_1933111",
+    "name" : "http://www.jstor.org/stable/659763",
+    "creationDate" : "2014-02-20T10:04:19.363+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.jstor.org/stable/659763",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e81b3421168f3a12eb5923bfd30d210c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.jstor.org/stable/659763",
+      "contentCategory" : "publisher-version",
+      "description" : "JStor, American Anthropologist, view online & pdf",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_406262",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-18T09:58:26.735+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7A33-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter aktualisiert",
+  "lastModificationDate" : "2015-03-18T09:58:26.735+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8FAF-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:34:05.598+0000",
+  "latestRelease" : {
+    "objectId" : "item_406262",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-18T09:58:26.735+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A33-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406262",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-18T09:58:26.735+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A33-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Masa ye, gawa ye rãca ãmara tuti : Macuna - español diccionario de 850 palabras",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Faustino",
+        "familyName" : "Benjamín L.",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1993",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "36630",
+      "type" : "OTHER"
+    }, {
+      "id" : "barasana_faustino1990_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "958-21-0043-5",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "spa", "bsn" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Bogotá",
+      "publisher" : "Editorial Alberto Lleras Camargo"
+    },
+    "freeKeywords" : "LoC Class: PM5582.Z5.M37, LoC Subject Headings: Barasana del Sur language",
+    "subjects" : [ {
+      "value" : "bsn - Barasana-Eduria",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "206 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5582.Z5.M37, LoC Subject Headings: Barasana del Sur language --Dictionaries --Spanish, LoC Subject Headings: Spanish language --Dictionaries --Barasana del Sur"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406261",
+    "name" : "barasana_faustino1990_o.pdf",
+    "creationDate" : "2010-04-01T13:34:05.221+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8FAE-2",
+    "content" : "/rest/items/item_406262_5/component/file_406261/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "220967053728c0025b096b04fff74efb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3410170,
+    "metadata" : {
+      "title" : "barasana_faustino1990_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3410170
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_513057",
+    "name" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=34253",
+    "creationDate" : "2010-08-20T13:32:42.536+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=34253",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8f1799e11e939e38e36425a4f0c1a1f3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=34253",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL.org, Languages and Cultures of Colombia, pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,126 @@
+{
+  "objectId" : "item_2079862",
+  "versionNumber" : 1,
+  "modificationDate" : "2014-12-22T12:25:21.945+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-5F01-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-22T12:25:21.945+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0024-5F00-C",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-12-22T12:24:54.007+0000",
+  "latestRelease" : {
+    "objectId" : "item_2079862",
+    "versionNumber" : 1,
+    "modificationDate" : "2014-12-22T12:25:21.945+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5F01-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2079862",
+    "versionNumber" : 1,
+    "modificationDate" : "2014-12-22T12:25:21.945+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5F01-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "A dictionary of the Chinook jargon, or trade language of Oregon",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "George",
+        "familyName" : "Gibbs",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1863",
+    "genre" : "MONOGRAPH",
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Washinton, D.C.",
+      "publisher" : "Smithsonian Institution"
+    },
+    "freeKeywords" : "LoC Class: PM848, LoC Subject Headings: Chinook jargon",
+    "subjects" : [ {
+      "value" : "chn - Chinook jargon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiv, 43 S."
+  },
+  "files" : [ {
+    "objectId" : "file_2079860",
+    "name" : "chinook_gibbs1863.pdf",
+    "creationDate" : "2014-12-22T12:24:51.917+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-5F02-8",
+    "content" : "/rest/items/item_2079862_1/component/file_2079860/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "34219051908654129e841373ddcfe676",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 14588732,
+    "metadata" : {
+      "title" : "chinook_gibbs1863.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 14588732,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2079861",
+    "name" : "https://archive.org/details/dictionarychinoo00gibbrich",
+    "creationDate" : "2014-12-22T12:24:52.206+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/dictionarychinoo00gibbrich",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e50c0059438b064a98ffa3c89ac597f6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/dictionarychinoo00gibbrich",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, California Digital Library, pdf & view online",
+      "size" : 0
+    }
+  } ]
+}

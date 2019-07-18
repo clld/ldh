@@ -1,0 +1,114 @@
+{
+  "objectId" : "item_2176494",
+  "versionNumber" : 8,
+  "modificationDate" : "2017-02-20T08:02:52.458+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-002C-7B5A-5",
+  "modifier" : {
+    "objectId" : "user_2073577"
+  },
+  "lastModificationDate" : "2017-02-20T08:02:52.458+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0028-1B41-5",
+  "creator" : {
+    "objectId" : "user_36017"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2015-08-03T14:24:41.993+0000",
+  "latestRelease" : {
+    "objectId" : "item_2176494",
+    "versionNumber" : 8,
+    "modificationDate" : "2017-02-20T08:02:52.458+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002C-7B5A-5",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2176494",
+    "versionNumber" : 8,
+    "modificationDate" : "2017-02-20T08:02:52.458+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002C-7B5A-5",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "A grammar of Togo Kan (Dogon language family, Mali)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jeffrey",
+        "familyName" : "Heath",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "University of Michigan",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ],
+        "identifier" : {
+          "id" : "/persons/resource/persons202070",
+          "type" : "CONE"
+        }
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedOnline" : "2015-08",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "10.17617/2.2176494",
+      "type" : "DOI"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Ann Arbor]",
+      "publisher" : "Univ. of Michigan"
+    },
+    "freeKeywords" : "LoC Class: PL8139.1, LoC Subject Headings: Dogon language",
+    "subjects" : [ {
+      "value" : "dtk - Tene Kan Dogon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XVI, 445 S."
+  },
+  "files" : [ {
+    "objectId" : "file_2176493",
+    "name" : "Heath_Togo_Kan_grammar_2015.pdf",
+    "creationDate" : "2015-08-03T14:24:40.806+0000",
+    "creator" : {
+      "objectId" : "user_36017"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0028-1B43-1",
+    "content" : "/rest/items/item_2176494_8/component/file_2176493/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9b43087cf71a2f220163d6293683f91f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 81733275,
+    "metadata" : {
+      "title" : "Heath_Togo_Kan_grammar_2015.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 81733275,
+      "rights" : "©by the author ",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

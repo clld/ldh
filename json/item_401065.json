@@ -1,0 +1,144 @@
+{
+  "objectId" : "item_401065",
+  "versionNumber" : 5,
+  "modificationDate" : "2014-08-20T10:32:29.046+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-C049-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Stichwörter bereinigt",
+  "lastModificationDate" : "2014-08-20T10:32:29.046+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7134-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:03:57.474+0000",
+  "latestRelease" : {
+    "objectId" : "item_401065",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-08-20T10:32:29.046+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C049-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401065",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-08-20T10:32:29.046+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C049-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Referent management in Olo : A cognitive perspective",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "William E.",
+        "familyName" : "Staley",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedOnline" : "2007",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "25035",
+      "type" : "OTHER"
+    }, {
+      "id" : "olo_staley2007_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "978-1-55671-185-5",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "publisher" : "SIL International"
+    },
+    "sources" : [ {
+      "title" : "SIL e-Books",
+      "volume" : "5",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6621.O44,\nLoC Subject Headings: Olo language",
+    "subjects" : [ {
+      "value" : "ong - Olo",
+      "type" : "ISO639_3"
+    } ],
+    "tableOfContents" : "The original version of this book was presented to the University of Oregon as a Ph.D. dissertation in\n1995.",
+    "totalNumberOfPages" : "xiii, 154 pages",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6621.O44,\nLoC Subject Headings: Olo language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401064",
+    "name" : "olo_staley2007_s.pdf",
+    "creationDate" : "2010-04-01T11:03:57.321+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7133-5",
+    "content" : "/rest/items/item_401065_5/component/file_401064/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5c182067fa7d6e9fbec53cec32a61b09",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 848330,
+    "metadata" : {
+      "title" : "olo_staley2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 848330
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2032871",
+    "name" : "http://www.sil.org/resources/publications/entry/9278",
+    "creationDate" : "2014-06-12T08:21:53.605+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/publications/entry/9278",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "876a7744f7dbac7b801b9a3ac7fa9c33",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/publications/entry/9278",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL.org, publications, pdf",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_403934",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-06-06T07:26:10.791+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-82A1-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:26:10.791+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-82A1-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:29:49.533+0000",
+  "latestRelease" : {
+    "objectId" : "item_403934",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:26:10.791+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-82A1-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403934",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:26:10.791+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-82A1-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Les patois lorrains",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lucien",
+        "familyName" : "Adam",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1881",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "32065",
+      "type" : "OTHER"
+    }, {
+      "id" : "patois_adam1881_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Nancy",
+      "publisher" : "Grosjean-Maupin"
+    },
+    "freeKeywords" : "LoC Subject Headings: French language",
+    "subjects" : [ {
+      "value" : "fra - French",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "LI, 459 S.",
+    "abstracts" : [ {
+      "value" : "PC3022, ISO 639-3 : fra, French language -- Dialects -- France -- Lorraine"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403932",
+    "name" : "http://gallica.bnf.fr/ark:/12148/bpt6k295974/f5.table",
+    "creationDate" : "2010-04-01T12:29:46.908+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-829F-C",
+    "content" : "http://gallica.bnf.fr/ark:/12148/bpt6k295974/f5.table",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9fd5c310fd756b2848d5c94a19817581",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://gallica.bnf.fr/ark:/12148/bpt6k295974/f5.table",
+      "contentCategory" : "publisher-version",
+      "description" : "gallica-Bibliothèque Numérique , bnf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403933",
+    "name" : "patois_adam1881_o.pdf",
+    "creationDate" : "2010-04-01T12:29:48.178+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-82A0-6",
+    "content" : "/rest/items/item_403934_3/component/file_403933/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "55f08b34e7848f60fb327e8de62927f7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 14117267,
+    "metadata" : {
+      "title" : "patois_adam1881_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 14117267,
+      "rights" : "Public Domain, Adam Lucien 1833-1918"
+    }
+  } ]
+}

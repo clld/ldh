@@ -1,0 +1,144 @@
+{
+  "objectId" : "item_404593",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T08:03:27.900+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA50-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-21T08:03:27.900+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8659-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:44:00.623+0000",
+  "latestRelease" : {
+    "objectId" : "item_404593",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:03:27.900+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA50-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404593",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:03:27.900+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA50-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The marked status of ergativity",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mario Alexander van de",
+        "familyName" : "Visser",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "33545",
+      "type" : "OTHER"
+    }, {
+      "id" : "ergativity_visser2006_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "90-78328-12-6",
+      "type" : "ISBN"
+    }, {
+      "id" : "978-90-78328-12-4",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "sources" : [ {
+      "title" : "LOT Dissertation Series",
+      "volume" : "141",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P291.5, LoC Subject Headings: Grammar/Comparative and general--Ergative constructions",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "xviii, 346 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404592",
+    "name" : "ergativity_visser2006_s.pdf",
+    "creationDate" : "2010-04-01T12:44:00.275+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8658-8",
+    "content" : "/rest/items/item_404593_4/component/file_404592/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7e7e1e2f20e30d2a17be58377cba40b7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3099775,
+    "metadata" : {
+      "title" : "ergativity_visser2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3099775
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147270",
+    "name" : "http://dspace.library.uu.nl/handle/1874/12744",
+    "creationDate" : "2015-04-21T08:03:05.644+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dspace.library.uu.nl/handle/1874/12744",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e775faae4a2f171af3fdbb39657bf32e",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dspace.library.uu.nl/handle/1874/12744",
+      "contentCategory" : "publisher-version",
+      "description" : "Utrecht Univ., Repository, pdf download",
+      "size" : 0
+    }
+  } ]
+}

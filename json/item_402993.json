@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_402993",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-05-29T10:45:07.328+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0027-7859-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-29T10:45:07.328+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7C69-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:49:05.178+0000",
+  "latestRelease" : {
+    "objectId" : "item_402993",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-29T10:45:07.328+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0027-7859-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402993",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-29T10:45:07.328+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0027-7859-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A teaching grammar of the Manam language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Blaine",
+        "familyName" : "Turner",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1986",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "30792",
+      "type" : "OTHER"
+    }, {
+      "id" : "manam_turner1986_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ukarumpa",
+      "publisher" : "SIL"
+    },
+    "sources" : [ {
+      "title" : "Data Papers on Papua New Guinea Languages",
+      "volume" : "34",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6254.M29, LoC Subject Headings: Manam language",
+    "subjects" : [ {
+      "value" : "mva - Manam",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "147 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402992",
+    "name" : "manam_turner1986_o.pdf",
+    "creationDate" : "2010-04-01T11:49:04.836+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7C68-2",
+    "content" : "/rest/items/item_402993_3/component/file_402992/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "08fefb6bf674d4832f59bf156f7c2aff",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3125460,
+    "metadata" : {
+      "title" : "manam_turner1986_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3125460
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2157355",
+    "name" : "http://www-01.sil.org/pacific/png/abstract.asp?id=34140",
+    "creationDate" : "2015-05-29T10:44:20.987+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www-01.sil.org/pacific/png/abstract.asp?id=34140",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "65b46ebe965a9b12307a20a46d86c6a7",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www-01.sil.org/pacific/png/abstract.asp?id=34140",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Papua New Guinea, PNG Language Resources, pdf download",
+      "size" : 0
+    }
+  } ]
+}

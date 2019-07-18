@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_405019",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-07T07:32:43.584+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A7D8-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-07T07:32:43.584+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-88DC-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:53:58.111+0000",
+  "latestRelease" : {
+    "objectId" : "item_405019",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-07T07:32:43.584+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7D8-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405019",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-07T07:32:43.584+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7D8-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Cebuano language packet",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Paz B.",
+        "familyName" : "Meman",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1993",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34181",
+      "type" : "OTHER"
+    }, {
+      "id" : "cebuano_meman1993_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Manila",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL5649, LoC Subject Headings: Cebuano language",
+    "subjects" : [ {
+      "value" : "ceb - Cebuano",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "368 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL5649, LoC Subject Headings: Cebuano language --Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405018",
+    "name" : "cebuano_meman1993_o.pdf",
+    "creationDate" : "2010-04-01T12:53:57.542+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-88DB-0",
+    "content" : "/rest/items/item_405019_3/component/file_405018/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fcca4bf3bbd3232c7bc89e2f718d7e25",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5359065,
+    "metadata" : {
+      "title" : "cebuano_meman1993_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5359065
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2129321",
+    "name" : "http://eric.ed.gov/?id=ED401767",
+    "creationDate" : "2015-04-07T07:32:00.611+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://eric.ed.gov/?id=ED401767",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8d494cc68cbbe127099cd06c5ff77b9e",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eric.ed.gov/?id=ED401767",
+      "contentCategory" : "publisher-version",
+      "description" : "Education Resources Information Center (ERIC), pdf download",
+      "size" : 0
+    }
+  } ]
+}

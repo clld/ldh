@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_403388",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:22:44.752+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7EC4-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:22:44.752+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7EC4-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:17:39.342+0000",
+  "latestRelease" : {
+    "objectId" : "item_403388",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:22:44.752+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7EC4-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403388",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:22:44.752+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7EC4-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Plang grammar as spoken in Huay Namkhun village, Chiang Rai province",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Suchada",
+        "familyName" : "Giaphong",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31201",
+      "type" : "OTHER"
+    }, {
+      "id" : "plang_suchada2004_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "974-04-4646-9",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Nakhon Pathom",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL4307,\nLoC Subject Headings: Blang language",
+    "subjects" : [ {
+      "value" : "blr - Blang",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiii, 203 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403386",
+    "name" : "http://archives.sealang.net/mahidol",
+    "creationDate" : "2010-04-01T12:17:38.526+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7EC2-C",
+    "content" : "http://archives.sealang.net/mahidol",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b90f0b74e428eb7d24c3f080c1c10bb4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://archives.sealang.net/mahidol",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403387",
+    "name" : "plang_suchada2004_o.pdf",
+    "creationDate" : "2010-04-01T12:17:38.788+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7EC3-A",
+    "content" : "/rest/items/item_403388_2/component/file_403387/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8026091b2c6822cb29b7624430df7303",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5397650,
+    "metadata" : {
+      "title" : "plang_suchada2004_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5397650
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

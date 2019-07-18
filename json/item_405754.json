@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_405754",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:53:12.637+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8CE3-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:53:12.637+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8CE3-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:20:04.409+0000",
+  "latestRelease" : {
+    "objectId" : "item_405754",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:53:12.637+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8CE3-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405754",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:53:12.637+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8CE3-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of Sidaama (Sidamo) : a Cushitic language of Ethiopia",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Kawachi, Kazuhiro",
+        "givenName" : "Kazuhiro",
+        "familyName" : "Kawachi",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35367",
+      "type" : "OTHER"
+    }, {
+      "id" : "sidaama_kawachi2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PJ2517,\nLoC Subject Headings: Sidamo language--Grammar &vname=PQD&RQT=309&did=1331398451&scaling=FULL& ts=120",
+    "subjects" : [ {
+      "value" : "sid - Sidamo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xx, 841 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405752",
+    "name" : "http://proquest.umi.com/pqdweb?index=9&sid=3&srchmode=1&vinst=PROD&fmt=6&startpage=-1&clientid=56146&vname=PQD&RQT=309&did=1331398451&scaling=FULL&ts=120",
+    "creationDate" : "2010-04-01T13:20:02.844+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8CE1-6",
+    "content" : "http://proquest.umi.com/pqdweb?index=9&sid=3&srchmode=1&vinst=PROD&fmt=6&startpage=-1&clientid=56146&vname=PQD&RQT=309&did=1331398451&scaling=FULL&ts=120",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "265130ec23423b748911d7151f876e08",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://proquest.umi.com/pqdweb?index=9&sid=3&srchmode=1&vinst=PROD&fmt=6&startpage=-1&clientid=56146&vname=PQD&RQT=309&did=1331398451&scaling=FULL&ts=120",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405753",
+    "name" : "sidaama_kawachi2007_s.pdf",
+    "creationDate" : "2010-04-01T13:20:03.899+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8CE2-4",
+    "content" : "/rest/items/item_405754_2/component/file_405753/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8ea206c525256d84968d098776760de1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4879185,
+    "metadata" : {
+      "title" : "sidaama_kawachi2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4879185
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

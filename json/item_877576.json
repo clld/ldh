@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_877576",
+  "versionNumber" : 7,
+  "modificationDate" : "2013-09-24T12:36:52.729+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-55FF-8",
+  "modifier" : {
+    "objectId" : "user_36017"
+  },
+  "lastModificationDate" : "2013-09-24T12:36:52.729+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0011-54DE-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2011-04-28T07:34:59.481+0000",
+  "latestRelease" : {
+    "objectId" : "item_877576",
+    "versionNumber" : 7,
+    "modificationDate" : "2013-09-24T12:36:52.729+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-55FF-8",
+    "modifier" : {
+      "objectId" : "user_36017"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_877576",
+    "versionNumber" : 7,
+    "modificationDate" : "2013-09-24T12:36:52.729+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-55FF-8",
+    "modifier" : {
+      "objectId" : "user_36017"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Arte, y gramatica general de la lengua que corre en todo el Reyno de Chile, con un vocabulario, y confessionario ",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Luis de",
+        "familyName" : "Valdivia",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1684",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29506",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "place" : "Sevilla",
+      "publisher" : "Thomás López de Haro"
+    },
+    "freeKeywords" : "LoC Class: PC4070,\nLoC Subject Headings: Spanish language",
+    "subjects" : [ {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "[6], 75, [30], 31 "
+  },
+  "files" : [ {
+    "objectId" : "file_877574",
+    "name" : "arte_valdivia1684.pdf",
+    "creationDate" : "2011-04-28T07:34:56.582+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0011-54DB-2",
+    "content" : "/rest/items/item_877576_7/component/file_877574/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ab19259ad07057ba8d3c9b1f95447f49",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 44838070,
+    "metadata" : {
+      "title" : "arte_valdivia1684.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 44838070,
+      "rights" : "public domain"
+    }
+  }, {
+    "objectId" : "file_877575",
+    "name" : "http://www.memoriachilena.cl/temas/documento_detalle.asp?id=MC0013038",
+    "creationDate" : "2011-04-28T07:34:57.318+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-5493-2",
+    "content" : "http://www.memoriachilena.cl/temas/documento_detalle.asp?id=MC0013038",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "870bdcb876d3e327db687c4458b864e1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.memoriachilena.cl/temas/documento_detalle.asp?id=MC0013038",
+      "contentCategory" : "publisher-version",
+      "description" : "Memoria Chilena",
+      "size" : 0
+    }
+  } ]
+}

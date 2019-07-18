@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_406019",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T21:25:11.731+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-703D-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:25:11.731+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8E5E-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:26:20.911+0000",
+  "latestRelease" : {
+    "objectId" : "item_406019",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T21:25:11.731+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-703D-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406019",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T21:25:11.731+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-703D-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Santa Ana del Valle Zapotec phonation",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Esposito, Christina Marie",
+        "givenName" : "Christina Marie",
+        "familyName" : "Esposito",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2003",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35607",
+      "type" : "OTHER"
+    }, {
+      "id" : "phonation_esposito2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Los Angeles",
+      "publisher" : " Univ. of California"
+    },
+    "freeKeywords" : "LoC Class: PM4546, LoC Subject Headings: Zapotec language -- Mexico -- Santa Ana del Valle -- Phonetics, LoC Subject Headings: Zapotec language -- Mexico -- Santa Ana del Valle -- Intonation",
+    "totalNumberOfPages" : "XI, 91 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406017",
+    "name" : "http://www.linguistics.ucla.edu/people/grads/esposito/Esposito%20Zapotec%202003.pdf",
+    "creationDate" : "2010-04-01T13:26:09.109+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.linguistics.ucla.edu/people/grads/esposito/Esposito%20Zapotec%202003.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8895834faada50a8d60cc500f00c208b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.linguistics.ucla.edu/people/grads/esposito/Esposito%20Zapotec%202003.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406018",
+    "name" : "phonation_esposito2003_s.pdf",
+    "creationDate" : "2010-04-01T13:26:20.727+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E5D-2",
+    "content" : "/rest/items/item_406019_3/component/file_406018/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "646ac5c5a054b3e29e45ae9a5538b252",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1199750,
+    "metadata" : {
+      "title" : "phonation_esposito2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1199750
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,144 @@
+{
+  "objectId" : "item_402001",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-07T06:59:08.483+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A7BA-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-07T06:59:08.483+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-768C-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:24:12.254+0000",
+  "latestRelease" : {
+    "objectId" : "item_402001",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-07T06:59:08.483+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7BA-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402001",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-07T06:59:08.483+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7BA-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulario candoshi de loreto",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Juan",
+        "familyName" : "Tuggy",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1966",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "28858",
+      "type" : "OTHER"
+    }, {
+      "id" : "bretonne_hingant1868_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "cbu", "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Peru",
+      "publisher" : "Inst. linguistico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Linguistica Peruan",
+      "alternativeTitles" : [ {
+        "value" : "Linguistica Peruana"
+      } ],
+      "volume" : "2",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6621.Z5, LoC Subject Headings: Candoshi language",
+    "subjects" : [ {
+      "value" : "cbu - Candoshi-Shapra",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "263 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM6621.Z5, LoC Subject Headings: Candoshi language--Dictionaries--Spanish, LoC Subject Headings: Spanish language--Dictionaries--Murato"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402000",
+    "name" : "bretonne_hingant1868_o.pdf",
+    "creationDate" : "2010-04-01T11:24:11.594+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-768B-6",
+    "content" : "/rest/items/item_402001_4/component/file_402000/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b71c29e40dfb4697121cb1bfdd9dbb54",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6618333,
+    "metadata" : {
+      "title" : "bretonne_hingant1868_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6618333
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2129288",
+    "name" : "http://www.peru.sil.org/resources/archives/30116",
+    "creationDate" : "2015-04-07T06:58:24.265+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/30116",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "cc8056ad29f6c1257c72a1d2c09e1453",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/30116",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Peru Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

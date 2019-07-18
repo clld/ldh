@@ -1,0 +1,116 @@
+{
+  "objectId" : "item_408174",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-10-10T10:03:41.801+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-EDD8-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "CC-by-Lizenz erhalten",
+  "lastModificationDate" : "2014-10-10T10:03:41.801+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9A54-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:31:27.607+0000",
+  "latestRelease" : {
+    "objectId" : "item_408174",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-10-10T10:03:41.801+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-EDD8-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408174",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-10-10T10:03:41.801+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-EDD8-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Basic verb types and argument structures in Shipibo-Conibo",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Pilar M.",
+        "familyName" : "Valenzuela",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1997",
+    "datePublishedInPrint" : "1997",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "42428",
+      "type" : "OTHER"
+    }, {
+      "id" : "shipibo_valenzuela1997_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Eugene]",
+      "publisher" : "Univ. of Oregon"
+    },
+    "freeKeywords" : "LoC Class: PM7073,\nLoC Subject Headings: Shipibo-Conibo language",
+    "subjects" : [ {
+      "value" : "shp - Shipibo-Conibo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "165 S."
+  },
+  "files" : [ {
+    "objectId" : "file_408173",
+    "name" : "shipibo_valenzuela1997_s.pdf",
+    "creationDate" : "2010-04-01T14:31:27.489+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9A53-4",
+    "content" : "/rest/items/item_408174_3/component/file_408173/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9275237db8de737a72c0562a4f9644f1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 245975,
+    "metadata" : {
+      "title" : "shipibo_valenzuela1997_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 245975,
+      "copyrightDate" : "2013-12-05",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

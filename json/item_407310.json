@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_407310",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-08-07T10:04:15.824+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-269E-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-08-07T10:04:15.824+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9581-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:09:58.862+0000",
+  "latestRelease" : {
+    "objectId" : "item_407310",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-07T10:04:15.824+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-269E-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407310",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-07T10:04:15.824+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-269E-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Degree modification of adjectives in Mandarin Chinese",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Louis Liu",
+        "familyName" : "Chi-Ming",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38319",
+      "type" : "OTHER"
+    }, {
+      "id" : "mandarin_liu1234_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Hsinchu",
+      "publisher" : "National Tsing Hua Univ."
+    },
+    "freeKeywords" : "LoC Class: PL1095,\nLoC Subject Headings: Chinese language",
+    "subjects" : [ {
+      "value" : "cmn - Mandarin Chinese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "86 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407309",
+    "name" : "mandarin_liu1234_s.pdf",
+    "creationDate" : "2010-04-01T14:09:58.635+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9580-4",
+    "content" : "/rest/items/item_407310_3/component/file_407309/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "de4df1d501c1b821f6b6f756ea938841",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1388046,
+    "metadata" : {
+      "title" : "mandarin_liu1234_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1388046
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2049344",
+    "name" : "http://handle.ncl.edu.tw/11296/ndltd/74784347048243584133",
+    "creationDate" : "2014-08-07T10:02:44.096+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-26A0-7",
+    "content" : "http://handle.ncl.edu.tw/11296/ndltd/74784347048243584133",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "562b45df45901b37635b8c4384288146",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://handle.ncl.edu.tw/11296/ndltd/74784347048243584133",
+      "contentCategory" : "publisher-version",
+      "description" : "NDLTD National Digital Library of Theses and Dissertations in Taiwan, zip file, pdf // fulltext access: free e-mail registration necessary",
+      "size" : 0
+    }
+  } ]
+}

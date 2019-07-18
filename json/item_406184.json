@@ -1,0 +1,158 @@
+{
+  "objectId" : "item_406184",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-17T09:57:40.261+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-F17F-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-17T09:57:40.261+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8F46-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:31:20.349+0000",
+  "latestRelease" : {
+    "objectId" : "item_406184",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-17T09:57:40.261+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-F17F-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406184",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-17T09:57:40.261+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-F17F-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Comparative, diachronic and experimental perspectives on the interaction between tone and vowel in standard Cantonese",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Gina Maureen",
+        "familyName" : "Lee",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1993",
+    "datePublishedInPrint" : "1993",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36440",
+      "type" : "OTHER"
+    }, {
+      "id" : "cantonese_lee1993_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "sources" : [ {
+      "title" : "OSDL, Ohio State Dissertations in linguistics",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL1739,\nLoC Subject Headings: Cantonese dialects",
+    "totalNumberOfPages" : "IX, 171 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL1739,\nLoC Subject Headings: Cantonese dialects--Tone/Cantonese dialects--Vowels"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406183",
+    "name" : "cantonese_lee1993_o.pdf",
+    "creationDate" : "2010-04-01T13:31:19.966+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8F45-E",
+    "content" : "/rest/items/item_406184_3/component/file_406183/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f8afbac5ae1af7ab74c0247b63d20ae0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3375844,
+    "metadata" : {
+      "title" : "cantonese_lee1993_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3375844
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2042772",
+    "name" : "https://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+    "creationDate" : "2014-07-17T09:56:08.083+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-F181-E",
+    "content" : "https://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+      "contentCategory" : "any-fulltext",
+      "description" : "Ohio State Univ., Dep. of Linguistics, OSU Dissertations in Linguistics, 1990-1998, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2042773",
+    "name" : "https://linguistics.osu.edu/sites/linguistics.osu.edu/files/Lee_dissertation_1993.pdf",
+    "creationDate" : "2014-07-17T09:56:08.577+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-F183-A",
+    "content" : "https://linguistics.osu.edu/sites/linguistics.osu.edu/files/Lee_dissertation_1993.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://linguistics.osu.edu/sites/linguistics.osu.edu/files/Lee_dissertation_1993.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

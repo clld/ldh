@@ -1,0 +1,127 @@
+{
+  "objectId" : "item_576589",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-06-21T08:33:05.423+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-D3E8-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-21T08:33:05.423+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-D3E8-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-12-13T09:31:17.026+0000",
+  "latestRelease" : {
+    "objectId" : "item_576589",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-06-21T08:33:05.423+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-D3E8-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_576589",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-06-21T08:33:05.423+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-D3E8-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "" ],
+  "metadata" : {
+    "title" : "The people of the center of the world : a study in culture, history, and orality in the Colombian Amazon",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Juan Alvaro",
+        "familyName" : "Echeverri",
+        "organizations" : [ {
+          "address" : ", ",
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1997",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "place" : "New York",
+      "publisher" : "New School for Social Research"
+    },
+    "totalNumberOfPages" : "xiii, 389 S.",
+    "abstracts" : [ {
+      "value" : "F2270.2.W5, Indians of South America -- Colombia -- Cultural assimilation, Indians of South America -- Colombia -- Ethnic identity, Putumayo River Region, Witoto Indians -- Colombia -- Cultural assimilation, Witoto Indians -- Colombia -- Ethnic identity, Witoto language -- Colombia -- Discourse analysis"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_576587",
+    "name" : "colombianamazon_echeverri1997_s.pdf",
+    "creationDate" : "2010-12-13T09:31:15.901+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-D3E6-A",
+    "content" : "/rest/items/item_576589_5/component/file_576587/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "44bf7ce7d2ff0dc2496dcdae79ab14aa",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1979233,
+    "metadata" : {
+      "title" : "colombianamazon_echeverri1997_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1979233,
+      "copyrightDate" : "-",
+      "license" : "http://creativecommons.org/licenses/by/2.5/"
+    }
+  }, {
+    "objectId" : "file_576588",
+    "name" : "http://www.bdigital.unal.edu.co/1600/",
+    "creationDate" : "2010-12-13T09:31:16.002+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-D3E7-8",
+    "content" : "http://www.bdigital.unal.edu.co/1600/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "61b47ac5bcb732925432d118e5aa269b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.bdigital.unal.edu.co/1600/",
+      "contentCategory" : "any-fulltext",
+      "size" : 0
+    }
+  } ]
+}

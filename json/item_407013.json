@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_407013",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T08:11:18.465+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-93E9-8",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "lastModificationDate" : "2011-05-31T08:11:18.465+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-93E5-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:52:36.039+0000",
+  "latestRelease" : {
+    "objectId" : "item_407013",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T08:11:18.465+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-93E9-8",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407013",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T08:11:18.465+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-93E9-8",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The phonological structure of the Kashubian word",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Hopkins, Paul Stanley",
+        "givenName" : "Paul Stanley",
+        "familyName" : "Hopkins",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedInPrint" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37599",
+      "type" : "OTHER"
+    }, {
+      "id" : "kashubian_hopkins2001_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "0-612-58570-0",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Ottawa",
+      "publisher" : "National Library of Canada"
+    },
+    "freeKeywords" : "LoC Subject Headings: Kashubian language",
+    "subjects" : [ {
+      "value" : "csb - Kashubian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiv, 202 S.",
+    "abstracts" : [ {
+      "value" : "PG7901, ISO 639-3 : csb, Kashubian language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407011",
+    "name" : "http://www.collectionscanada.gc.ca/obj/s4/f2/dsk3/ftp04/NQ58570.pdf",
+    "creationDate" : "2010-04-01T13:52:10.834+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-93E3-3",
+    "content" : "http://www.collectionscanada.gc.ca/obj/s4/f2/dsk3/ftp04/NQ58570.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.collectionscanada.gc.ca/obj/s4/f2/dsk3/ftp04/NQ58570.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407012",
+    "name" : "kashubian_hopkins2001_o.pdf",
+    "creationDate" : "2010-04-01T13:52:34.674+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-93E4-1",
+    "content" : "/rest/items/item_407013_4/component/file_407012/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4b49c4e191e5738187346c85b43a32d4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11938931,
+    "metadata" : {
+      "title" : "kashubian_hopkins2001_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11938931,
+      "copyrightDate" : "2010-05-01",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

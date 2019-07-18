@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_404139",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T23:23:06.831+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7105-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T23:23:06.831+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-83CC-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:35:33.419+0000",
+  "latestRelease" : {
+    "objectId" : "item_404139",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T23:23:06.831+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7105-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404139",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T23:23:06.831+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7105-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Terms of binding",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Sevenco, Anca",
+        "givenName" : "Anca",
+        "familyName" : "Sevenco",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32302",
+      "type" : "OTHER"
+    }, {
+      "id" : "binding_sevenco2006_s.htmls",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "freeKeywords" : "LoC Class: PC633, LoC Subject Headings: Government-binding theory (Linguistics), LoC Subject Headings: Romanian language --Grammar",
+    "subjects" : [ {
+      "value" : "ron - Romanian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "197 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404137",
+    "name" : "http://www.lotpublications.nl/publish/articles/002046/bookpart.pdf",
+    "creationDate" : "2010-04-01T12:35:29.668+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.lotpublications.nl/publish/articles/002046/bookpart.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lotpublications.nl/publish/articles/002046/bookpart.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404138",
+    "name" : "binding_sevenco2006_s.pdf",
+    "creationDate" : "2010-04-01T12:35:33.211+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-83CB-2",
+    "content" : "/rest/items/item_404139_3/component/file_404138/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ff69cf421292943acb09ff9e5fe7d0b0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1123965,
+    "metadata" : {
+      "title" : "binding_sevenco2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1123965
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

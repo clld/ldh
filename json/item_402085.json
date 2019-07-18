@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_402085",
+  "versionNumber" : 5,
+  "modificationDate" : "2014-08-21T07:50:22.752+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-C122-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Stichwörter bereinigt",
+  "lastModificationDate" : "2014-08-21T07:50:22.752+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7711-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:25:38.716+0000",
+  "latestRelease" : {
+    "objectId" : "item_402085",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-08-21T07:50:22.752+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C122-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402085",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-08-21T07:50:22.752+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C122-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Mutation as morphology : bases, stems, and shapes in Scottish Gaelic",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Thomas William",
+        "familyName" : "Stewart",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29079",
+      "type" : "OTHER"
+    }, {
+      "id" : "gaelic_stewart2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: PB1540, LoC Subject Headings: Scottish gaelic languague",
+    "subjects" : [ {
+      "value" : "gla - Gaelic, Scottish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix, 183 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PB1540, LoC Subject Headings: Scottish gaelic languague--Morphology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402084",
+    "name" : "gaelic_stewart2004_s.pdf",
+    "creationDate" : "2010-04-01T11:25:38.591+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7710-E",
+    "content" : "/rest/items/item_402085_5/component/file_402084/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5072ebb3123d97a20368a39df291f949",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 657138,
+    "metadata" : {
+      "title" : "gaelic_stewart2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 657138,
+      "copyrightDate" : "2010-25-10",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_2033898",
+    "name" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1086046888",
+    "creationDate" : "2014-06-18T10:54:26.825+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1086046888",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "27f77b7133c88fadeb16af8236c63b8d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1086046888",
+      "contentCategory" : "publisher-version",
+      "description" : "OhioLINK Electronic Theses & Dissertations Center, pdf",
+      "size" : 0
+    }
+  } ]
+}

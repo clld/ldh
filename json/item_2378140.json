@@ -1,0 +1,126 @@
+{
+  "objectId" : "item_2378140",
+  "versionNumber" : 5,
+  "modificationDate" : "2017-02-20T08:17:05.917+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-002C-7B6B-0",
+  "modifier" : {
+    "objectId" : "user_2073577"
+  },
+  "lastModificationDate" : "2017-02-20T08:17:05.917+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-002C-2F37-1",
+  "creator" : {
+    "objectId" : "user_2073577"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2017-01-03T10:10:17.139+0000",
+  "latestRelease" : {
+    "objectId" : "item_2378140",
+    "versionNumber" : 5,
+    "modificationDate" : "2017-02-20T08:17:05.917+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002C-7B6B-0",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2378140",
+    "versionNumber" : 5,
+    "modificationDate" : "2017-02-20T08:17:05.917+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002C-7B6B-0",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Short grammar of Tiefo-N of Nyafogo (Gur, Burkina Faso) ",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jeffrey",
+        "familyName" : "Heath",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "University of Michigan",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ],
+        "identifier" : {
+          "id" : "/persons/resource/persons202070",
+          "type" : "CONE"
+        }
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Aminata",
+        "familyName" : "Ouattara"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Abbi",
+        "familyName" : "Hantgan"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedOnline" : "2017-01",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "10.17617/2.2378140",
+      "type" : "DOI"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Ann Arbor",
+      "publisher" : "Univ. of Michigan"
+    },
+    "subjects" : [ {
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "160"
+  },
+  "files" : [ {
+    "objectId" : "file_2378249",
+    "name" : "Heath _ Hantgan Short Grammar Tiefo N.pdf",
+    "creationDate" : "2017-01-04T07:40:34.681+0000",
+    "creator" : {
+      "objectId" : "user_2073577"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-002C-2F39-E",
+    "content" : "/rest/items/item_2378140_5/component/file_2378249/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "11f32adaa02dac9ad6f142c9cb62dbc3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 20345812,
+    "metadata" : {
+      "title" : "Heath _ Hantgan Short Grammar Tiefo N.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 20345812,
+      "rights" : "©by the author ",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_403311",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-13T02:17:54.512+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7263-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:17:54.512+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E5A-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:12:19.893+0000",
+  "latestRelease" : {
+    "objectId" : "item_403311",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:17:54.512+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7263-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403311",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:17:54.512+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7263-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Phonological phrases : their relation to syntax, focus, and prominence",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Hubert",
+        "familyName" : "Truckenbrodt",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1995",
+    "datePublishedInPrint" : "1995",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31139",
+      "type" : "OTHER"
+    }, {
+      "id" : "phrases_truckenbrodt1995_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P291.5, LoC Subject Headings: Grammar/Comparative and general--Phonology, LoC Subject Headings: Grammar/Comparative and general--Syntax, LoC Subject Headings: Bantu languages",
+    "totalNumberOfPages" : "259 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: P291.5, LoC Subject Headings: Bantu languages -- Phonology, Grammar, Comparative and general -- Phonology, Grammar, Comparative and general -- Syntax"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403310",
+    "name" : "phrases_truckenbrodt1995_o.pdf",
+    "creationDate" : "2010-04-01T12:12:18.662+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E59-7",
+    "content" : "/rest/items/item_403311_4/component/file_403310/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b3190a2186137655ff3f527bd95958e3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12369374,
+    "metadata" : {
+      "title" : "phrases_truckenbrodt1995_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12369374
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110898",
+    "name" : "http://hdl.handle.net/1721.1/11075",
+    "creationDate" : "2015-03-11T10:48:57.757+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/11075",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "10f3ebf343e2d44c3afe3659d5e03549",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/11075",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

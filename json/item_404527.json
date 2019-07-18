@@ -1,0 +1,116 @@
+{
+  "objectId" : "item_404527",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-09-25T12:30:08.515+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-56E0-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain",
+  "lastModificationDate" : "2013-09-25T12:30:08.515+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8601-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:43:06.415+0000",
+  "latestRelease" : {
+    "objectId" : "item_404527",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-09-25T12:30:08.515+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-56E0-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404527",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-09-25T12:30:08.515+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-56E0-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Élémens de la grammaire mandchoue",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Hans Conon von der",
+        "familyName" : "Gabelentz",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1832",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "33391",
+      "type" : "OTHER"
+    }, {
+      "id" : "mandchoue_vondergabelentz1832_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Altenbourg",
+      "publisher" : "Comptoir de la Littérature"
+    },
+    "freeKeywords" : "LoC Subject Headings: Manchurian language",
+    "subjects" : [ {
+      "value" : "mnc - Manchu",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "X, 156 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL473,\nLoC Subject Headings: Manchurian language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404526",
+    "name" : "mandchoue_vondergabelentz1832_o.pdf",
+    "creationDate" : "2010-04-01T12:43:05.713+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8600-A",
+    "content" : "/rest/items/item_404527_3/component/file_404526/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b5c274624bac2543aacd3bc432b0da64",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6726430,
+    "metadata" : {
+      "title" : "mandchoue_vondergabelentz1832_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6726430
+    }
+  } ]
+}

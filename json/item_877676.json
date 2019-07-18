@@ -1,0 +1,174 @@
+{
+  "objectId" : "item_877676",
+  "versionNumber" : 7,
+  "modificationDate" : "2015-03-13T02:05:24.761+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-724D-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:05:24.761+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0011-556A-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2011-04-28T11:54:56.266+0000",
+  "latestRelease" : {
+    "objectId" : "item_877676",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-03-13T02:05:24.761+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-724D-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_877676",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-03-13T02:05:24.761+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-724D-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Über das Negerportugiesische von S. Thomé (Westafrika)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Hugo",
+        "familyName" : "Schuchardt",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1882",
+    "genre" : "CONTRIBUTION_TO_COLLECTED_EDITION",
+    "identifiers" : [ {
+      "id" : "34669",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "sources" : [ {
+      "title" : "Sitzungsberichte der Akademie der Wissenschaften in Wien : Philosophisch-Historische Klasse",
+      "creators" : [ {
+        "organization" : {
+          "identifier" : "ou_persistent22",
+          "name" : " Akademie der Wissenschaften <Wien> / Philosophisch-Historische Klasse",
+          "identifierPath" : [ "ou_persistent22" ]
+        },
+        "role" : "EDITOR",
+        "type" : "ORGANIZATION"
+      } ],
+      "volume" : "101,19",
+      "publishingInfo" : {
+        "place" : "Wien",
+        "publisher" : "Rohrer"
+      },
+      "identifiers" : [ {
+        "id" : "1012-487X",
+        "type" : "ISSN"
+      }, {
+        "id" : "211453-7 ",
+        "type" : "ZDB"
+      } ],
+      "genre" : "SERIES"
+    }, {
+      "title" : "Kreolische Studien",
+      "creators" : [ {
+        "person" : {
+          "givenName" : "Hugo",
+          "familyName" : "Schuchardt",
+          "organizations" : [ {
+            "identifier" : "ou_persistent22",
+            "name" : "External Organizations",
+            "identifierPath" : [ "ou_persistent22" ]
+          } ]
+        },
+        "role" : "AUTHOR",
+        "type" : "PERSON"
+      } ],
+      "volume" : "1",
+      "publishingInfo" : {
+        "place" : "Wien",
+        "publisher" : "Tempsky"
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM7849, LoC Subject Headings: Creole dialects/Portuguese--Africa, LoC Subject Headings: West",
+    "subjects" : [ {
+      "value" : "por - Portuguese",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "pov - Crioulo, Upper Guinea",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_877675",
+    "name" : "negerportugiesische_schuchardt1882.pdf",
+    "creationDate" : "2011-04-28T11:54:56.115+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0011-5569-7",
+    "content" : "/rest/items/item_877676_7/component/file_877675/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5701701d4d245fa41440e35da8ee868a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2795671,
+    "metadata" : {
+      "title" : "negerportugiesische_schuchardt1882.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2795671,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2080899",
+    "name" : "http://schuchardt.uni-graz.at/",
+    "creationDate" : "2014-12-23T12:05:55.203+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://schuchardt.uni-graz.at/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3a7f3731fb84d681aaab474f045af9ce",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://schuchardt.uni-graz.at/",
+      "contentCategory" : "supplementary-material",
+      "description" : "Hugo Schuchardt Archiv, profound information about Schuchardt's life and work, most publications are available online",
+      "size" : 0
+    }
+  } ]
+}

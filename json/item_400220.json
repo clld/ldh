@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_400220",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-10T10:57:09.038+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0B96-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-10T10:57:09.038+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6C17-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:42:40.636+0000",
+  "latestRelease" : {
+    "objectId" : "item_400220",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T10:57:09.038+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0B96-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400220",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T10:57:09.038+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0B96-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Chinanteco, San Juan Lealao, Oaxaca",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Gloria",
+        "familyName" : "de Ruiz Bravo Ahuja",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1980",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "11822",
+      "type" : "OTHER"
+    }, {
+      "id" : "chinanteco_archivo1980_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Mexico",
+      "publisher" : "Colegio de México"
+    },
+    "sources" : [ {
+      "title" : "Archivo de lenguas indígenas de México",
+      "volume" : "09",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM3630, LoC Subject Headings: Chinantecan languages",
+    "subjects" : [ {
+      "value" : "cle - Lealao Chinantec",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "148 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM3630, LoC Subject Headings: Chinantecan languages--Mexico--San Juan Lealao"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400219",
+    "name" : "chinanteco_archivo1980_o.pdf",
+    "creationDate" : "2010-04-01T10:42:39.931+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6C16-C",
+    "content" : "/rest/items/item_400220_3/component/file_400219/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ed6e961f0448365aa66d514c4fef6c8d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5536329,
+    "metadata" : {
+      "title" : "chinanteco_archivo1980_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5536329
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110585",
+    "name" : "https://archive.org/details/ERIC_ED378795",
+    "creationDate" : "2015-03-10T10:56:41.668+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/ERIC_ED378795",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f652a8f5474fdcdbca97d631f3d79000",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/ERIC_ED378795",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, Internet Archive, ERIC Archive, view online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

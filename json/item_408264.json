@@ -1,0 +1,145 @@
+{
+  "objectId" : "item_408264",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T22:53:23.784+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70C7-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T22:53:23.784+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9AD3-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:33:15.223+0000",
+  "latestRelease" : {
+    "objectId" : "item_408264",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T22:53:23.784+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70C7-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408264",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T22:53:23.784+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70C7-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario Zapoteco de Yatzachi : Yatzachi el Bajo, Yatzachi ed Alto, Oaxaca",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Butler H., Inez M.",
+        "givenName" : "H.",
+        "familyName" : "Butler",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2000",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "42818",
+      "type" : "OTHER"
+    }, {
+      "id" : "zapotec_butler2000_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "2da ed., electrónica",
+      "place" : "Coyoacán",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie de Vocabularios y Diccionarios Indígenas Mariano Silva y Aceves",
+      "alternativeTitles" : [ {
+        "value" : "Serie de vocabularios y diccionarios indígenas Mariano Silva y Aceves"
+      } ],
+      "volume" : "37",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4548, LoC Subject Headings: Zapotec language--Dictionaries--Spanish, LoC Subject Headings: Zapotec language--Mexico--San Baltasar Yatzachi el Bajo, LoC Subject Headings: Zapotec language--Mexico--San Baltasar Yatzachi el Alto",
+    "subjects" : [ {
+      "value" : "zav - Yatzachi Zapotec",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiv, 462 S."
+  },
+  "files" : [ {
+    "objectId" : "file_408262",
+    "name" : "http://www.sil.org/mexico/zapoteca/yatzachi/S037a-Diccionario-zav.htm",
+    "creationDate" : "2010-04-01T14:33:14.715+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/mexico/zapoteca/yatzachi/S037a-Diccionario-zav.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f9240a61b11fc45d224177efa29a874a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/mexico/zapoteca/yatzachi/S037a-Diccionario-zav.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408263",
+    "name" : "zapotec_butler2000_s.pdf",
+    "creationDate" : "2010-04-01T14:33:14.898+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9AD2-8",
+    "content" : "/rest/items/item_408264_3/component/file_408263/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "34e9cc9c2aeaa3f6fdb2b8b0bd6a30c4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2902495,
+    "metadata" : {
+      "title" : "zapotec_butler2000_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2902495
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

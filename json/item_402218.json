@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_402218",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T19:21:19.221+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F38-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:21:19.221+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-77ED-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:28:01.733+0000",
+  "latestRelease" : {
+    "objectId" : "item_402218",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T19:21:19.221+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F38-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402218",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T19:21:19.221+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F38-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Measuring linguistic diversity on the internet : a collection of papers ...",
+    "creators" : [ {
+      "organization" : {
+        "name" : "UNESCO Institute for Statistics <Montreal,\n              Canada>"
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    }, {
+      "person" : {
+        "givenName" : "John",
+        "familyName" : "Paolillo",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29384",
+      "type" : "OTHER"
+    }, {
+      "id" : "linguistic_paolillo2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Montreal",
+      "publisher" : "UNESCO"
+    },
+    "freeKeywords" : "LoC Class: P107, LoC Subject Headings: Language and languages, LoC Subject Headings: Internet, LoC Subject Headings: Information society",
+    "totalNumberOfPages" : "110 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402216",
+    "name" : "http://unesdoc.unesco.org/images/0014/001421/142186e.pdf",
+    "creationDate" : "2010-04-01T11:28:00.794+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-77EB-4",
+    "content" : "http://unesdoc.unesco.org/images/0014/001421/142186e.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7e25cad21a68145f2ac0563cb4e6d9ce",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://unesdoc.unesco.org/images/0014/001421/142186e.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402217",
+    "name" : "linguistic_paolillo2005_s.pdf",
+    "creationDate" : "2010-04-01T11:28:01.564+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-77EC-2",
+    "content" : "/rest/items/item_402218_3/component/file_402217/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "77d2ef13ad37b56f5c812bc187b3fd22",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1192478,
+    "metadata" : {
+      "title" : "linguistic_paolillo2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1192478
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

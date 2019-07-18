@@ -1,0 +1,144 @@
+{
+  "objectId" : "item_402034",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-10T10:11:54.124+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-ADD7-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-10T10:11:54.124+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-76BB-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:24:41.302+0000",
+  "latestRelease" : {
+    "objectId" : "item_402034",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T10:11:54.124+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-ADD7-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402034",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T10:11:54.124+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-ADD7-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of Cupeño",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jane H.",
+        "familyName" : "Hill",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "28953",
+      "type" : "OTHER"
+    }, {
+      "id" : "cupeno_hill2005_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "0-520-24637-3",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Berkeley [u.a.]",
+      "publisher" : "Univ. of California Press"
+    },
+    "sources" : [ {
+      "title" : "University of California Publications in Linguistics",
+      "volume" : "136",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM1004, LoC Subject Headings: Cupeño language",
+    "subjects" : [ {
+      "value" : "cup - Cupeño",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XVIII, 531 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM1004, LoC Subject Headings: Cupeño language--California--Syntax, LoC Subject Headings: Cupeño language--California--Morphology, LoC Subject Headings: Cupeño language--California--Discourse analysis, LoC Subject Headings: Cupeño Indians--California--Social life and customs"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402033",
+    "name" : "cupeno_hill2005_s.pdf",
+    "creationDate" : "2010-04-01T11:24:40.959+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-76BA-B",
+    "content" : "/rest/items/item_402034_4/component/file_402033/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c3bd3a8ae3cca26647a924902425bed1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2967516,
+    "metadata" : {
+      "title" : "cupeno_hill2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2967516
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2134699",
+    "name" : "http://escholarship.org/uc/item/2mz6t67j",
+    "creationDate" : "2015-04-10T10:11:24.190+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://escholarship.org/uc/item/2mz6t67j",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8c2c3c306ae39447f291af026e1ba3fe",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://escholarship.org/uc/item/2mz6t67j",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of California, eScholarship, pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_405538",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:34:40.793+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8BAF-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:34:40.793+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8BAF-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:14:57.516+0000",
+  "latestRelease" : {
+    "objectId" : "item_405538",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:34:40.793+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8BAF-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405538",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:34:40.793+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8BAF-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Ukrainian : language competencies for Peace Corps",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Pylypiuk, Natalia",
+        "givenName" : "Natalia",
+        "familyName" : "Pylypiuk",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1992",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "35033",
+      "type" : "OTHER"
+    }, {
+      "id" : "ukrainian_pylypiuk1992_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Washington, D.C.",
+      "publisher" : "Peace Corps"
+    },
+    "freeKeywords" : "LoC Class: PG3823,\nLoC Subject Headings: Ukrainian language -- Textbooks for foreign speakers -- English",
+    "subjects" : [ {
+      "value" : "ukr - Ukrainian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "264 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405536",
+    "name" : "http://eric.ed.gov/ERICDocs/data/ericdocs2/content_storage_01/0000000b/80/24/c9/5a.pdf",
+    "creationDate" : "2010-04-01T13:14:56.359+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8BAD-2",
+    "content" : "http://eric.ed.gov/ERICDocs/data/ericdocs2/content_storage_01/0000000b/80/24/c9/5a.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eric.ed.gov/ERICDocs/data/ericdocs2/content_storage_01/0000000b/80/24/c9/5a.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405537",
+    "name" : "ukrainian_pylypiuk1992_o.pdf",
+    "creationDate" : "2010-04-01T13:14:56.736+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8BAE-F",
+    "content" : "/rest/items/item_405538_2/component/file_405537/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "cd4d04ccd531114ee03a911c4e11cb99",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7464249,
+    "metadata" : {
+      "title" : "ukrainian_pylypiuk1992_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7464249
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

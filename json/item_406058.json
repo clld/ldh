@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_406058",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:30:43.028+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8E92-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:30:43.028+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8E92-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:27:39.477+0000",
+  "latestRelease" : {
+    "objectId" : "item_406058",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:30:43.028+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8E92-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406058",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:30:43.028+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8E92-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Learning to speak an unwritten language",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Thormoset, Henny Jane",
+        "givenName" : "Henny Jane",
+        "familyName" : "Thormoset",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35628",
+      "type" : "OTHER"
+    }, {
+      "id" : "unwritten_thormoset2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Toronto",
+      "publisher" : "Univ. of Toronto"
+    },
+    "freeKeywords" : "LoC Class: P51,\nLoC Subject Headings: Language and languages --Study and teaching",
+    "totalNumberOfPages" : "47 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406056",
+    "name" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/manuscripts/ll_thormoset2006_o.pdf",
+    "creationDate" : "2010-04-01T13:27:38.662+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E90-C",
+    "content" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/manuscripts/ll_thormoset2006_o.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/manuscripts/ll_thormoset2006_o.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406057",
+    "name" : "unwritten_thormoset2006_s.pdf",
+    "creationDate" : "2010-04-01T13:27:39.363+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E91-A",
+    "content" : "/rest/items/item_406058_2/component/file_406057/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "596ed77ab8c5571cb4f70888c3158e15",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 172438,
+    "metadata" : {
+      "title" : "unwritten_thormoset2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 172438
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

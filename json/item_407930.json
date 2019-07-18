@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_407930",
+  "versionNumber" : 7,
+  "modificationDate" : "2015-03-12T22:57:26.520+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70CD-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T22:57:26.520+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-98DF-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:25:07.793+0000",
+  "latestRelease" : {
+    "objectId" : "item_407930",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-03-12T22:57:26.520+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70CD-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407930",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-03-12T22:57:26.520+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70CD-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A comparative grammar of the Sanscrit, Zend, Greek, Latin, Lithuanian, Gothic, German, and Sclavonic languages ; Vol. I =  \tVergleichende Grammatik des Sanskrit, Send, Armenischen, Griechischen, Lateinischen, Litauischen, Altslavischen, Gothischen und Deutschen",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Franz",
+        "familyName" : "Bopp",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1854",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "41938",
+      "type" : "OTHER"
+    }, {
+      "id" : "comparative_bopp1854_o.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "London",
+      "publisher" : "Murray"
+    },
+    "freeKeywords" : "LoC Subject Headings: Indo-European languages, LoC Subject Headings: Sanskrit language, LoC Subject Headings: Avestan language, LoC Subject Headings: Greek language, LoC Subject Headings: Latin language, LoC Subject Headings: Lithuanian language, LoC Subject Headings: Gothic language, LoC Subject Headings: German language, LoC Subject Headings: Slavic languages",
+    "subjects" : [ {
+      "value" : "san - Sanskrit",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "ave - Avestan",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "ell - Modern Greek (1453-)",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "lat - Latin",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "lit - Lithuanian",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "got - Gothic",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "deu - German",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xviii, 732p.",
+    "abstracts" : [ {
+      "value" : "LoC Class: P575 .B72, \nLoC Subject Headings: Indo-European languages, Indo-European languages --Grammar, Comparative"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407929",
+    "name" : "comparative_bopp1854_o.pdf",
+    "creationDate" : "2010-04-01T14:25:05.093+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-98DE-B",
+    "content" : "/rest/items/item_407930_7/component/file_407929/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "90af9e0c4aadb4847244ea75f77946c1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 28573498,
+    "metadata" : {
+      "title" : "comparative_bopp1854_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 28573498
+    }
+  } ]
+}

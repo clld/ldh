@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_402167",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T19:17:06.871+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F32-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:17:06.871+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7797-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:26:55.444+0000",
+  "latestRelease" : {
+    "objectId" : "item_402167",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T19:17:06.871+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F32-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402167",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T19:17:06.871+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F32-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dicionário Jarawara - Português",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Vogel, Alan",
+        "givenName" : "Alan",
+        "familyName" : "Vogel",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29244",
+      "type" : "OTHER"
+    }, {
+      "id" : "jarawara_vogel2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cuiabá",
+      "publisher" : "Soc. Internac. de Lingüística"
+    },
+    "freeKeywords" : "LoC Class: PM6258, LoC Subject Headings: Jaruára language, LoC Subject Headings: Portuguese language",
+    "subjects" : [ {
+      "value" : "jap - Jaruára",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "por - Portuguese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "257 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402165",
+    "name" : "http://www.sil.org/americas/brasil/LANGPAGE/EnglJAPg.htm",
+    "creationDate" : "2010-04-01T11:26:54.927+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/brasil/LANGPAGE/EnglJAPg.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "480b8caa98d8182be51e22476cd9f031",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/brasil/LANGPAGE/EnglJAPg.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402166",
+    "name" : "jarawara_vogel2005_s.pdf",
+    "creationDate" : "2010-04-01T11:26:55.110+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7796-4",
+    "content" : "/rest/items/item_402167_3/component/file_402166/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5a03681270026463e9c7da953ea94778",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2653119,
+    "metadata" : {
+      "title" : "jarawara_vogel2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2653119
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

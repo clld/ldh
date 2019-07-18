@@ -1,0 +1,155 @@
+{
+  "objectId" : "item_403943",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T11:49:41.995+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-82AE-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:49:41.995+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-82AE-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:30:44.303+0000",
+  "latestRelease" : {
+    "objectId" : "item_403943",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:49:41.995+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-82AE-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403943",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:49:41.995+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-82AE-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Lecciones para el aprendizaje del quechua del sureste de Pasco y el norte de Junín",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Black, Nancy",
+        "givenName" : "Nancy",
+        "familyName" : "Black",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Verena",
+        "familyName" : "Bolli"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Eusebio",
+        "familyName" : "Ticsi Zárate",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1990",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "32068",
+      "type" : "OTHER"
+    }, {
+      "id" : "quechua_black1990_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Perú",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PM6303,\nLoC Subject Headings: Quechua language--Textbooks for foreign speakers--Spanish",
+    "subjects" : [ {
+      "value" : "quh - South Bolivian Quechua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "406 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403941",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3373",
+    "creationDate" : "2010-04-01T12:30:41.916+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-82AC-E",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3373",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "dba0916d22c0a6846cf67eccc8b37113",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3373",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403942",
+    "name" : "quechua_black1990_o.pdf",
+    "creationDate" : "2010-04-01T12:30:43.173+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-82AD-C",
+    "content" : "/rest/items/item_403943_3/component/file_403942/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1972db789c0383167269ce1eac177c59",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11618470,
+    "metadata" : {
+      "title" : "quechua_black1990_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11618470
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

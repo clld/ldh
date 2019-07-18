@@ -1,0 +1,111 @@
+{
+  "objectId" : "item_403453",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-05-31T11:55:47.065+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7F41-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:55:47.065+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7F41-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:26.004+0000",
+  "latestRelease" : {
+    "objectId" : "item_403453",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T11:55:47.065+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F41-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403453",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T11:55:47.065+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F41-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The structural phonology of Círàmbo",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ayafor Vera Mapi",
+        "familyName" : "Fozoh",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31262",
+      "type" : "OTHER"
+    }, {
+      "id" : "cirambo_ayafor2002_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon -- Languages",
+    "totalNumberOfPages" : "viii, 95 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403452",
+    "name" : "cirambo_ayafor2002_o.pdf",
+    "creationDate" : "2010-04-01T12:18:25.636+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7F40-6",
+    "content" : "/rest/items/item_403453_5/component/file_403452/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "212e29b823897a8c7fa587b27d3e2bc1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2889415,
+    "metadata" : {
+      "title" : "cirambo_ayafor2002_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2889415,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

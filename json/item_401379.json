@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_401379",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:43:39.537+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7302-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:43:39.537+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7302-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:10:58.006+0000",
+  "latestRelease" : {
+    "objectId" : "item_401379",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:43:39.537+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7302-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401379",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:43:39.537+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7302-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Aspectos morfossintáticos da língua Aweti (Tupi)",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Cássia Borella, Cristina de",
+        "givenName" : "Cássia",
+        "familyName" : "Borella",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "datePublishedInPrint" : "2000",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "26516",
+      "type" : "OTHER"
+    }, {
+      "id" : "aweti_borella2000_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM7173,\nLoC Subject Headings: Tupis languages",
+    "subjects" : [ {
+      "value" : "awe - Awetí",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "223 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401377",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000223699",
+    "creationDate" : "2010-04-01T11:10:50.374+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7300-7",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000223699",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e034f2041dac898db0abbcc0d4e9a6b3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000223699",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401378",
+    "name" : "aweti_borella2000_o.pdf",
+    "creationDate" : "2010-04-01T11:10:51.107+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7301-5",
+    "content" : "/rest/items/item_401379_2/component/file_401378/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "eb4b0034772ae423b69b0a2450d39f04",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 49569092,
+    "metadata" : {
+      "title" : "aweti_borella2000_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 49569092
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

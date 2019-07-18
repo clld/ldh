@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_407431",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-18T11:16:46.384+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7A95-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-18T11:16:46.384+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9623-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:13:29.483+0000",
+  "latestRelease" : {
+    "objectId" : "item_407431",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-18T11:16:46.384+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A95-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407431",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-18T11:16:46.384+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A95-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dicionário da língua Kadiwéu : Kadiwéu - Português, Português - Kadiwéu",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Glyn",
+        "familyName" : "Griffiths",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2002",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "38896",
+      "type" : "OTHER"
+    }, {
+      "id" : "kadiweu_griffiths2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "freeKeywords" : "LoC Class: PM6569.Z5, LoC Subject Headings: Caduveo language",
+    "subjects" : [ {
+      "value" : "kbc - Kadiwéu",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ii, 343 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM6569.Z5, LoC Subject Headings: Caduveo language--Dictionaries--Spanish, LoC Subject Headings: Spanish language--Dictionaries--Caduveo"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407429",
+    "name" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "creationDate" : "2010-04-01T14:13:28.945+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9530a75a4c45ff6625118b724949a812",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Brazil, Publications, Kadiwéu, Griffiths, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407430",
+    "name" : "kadiweu_griffiths2002_s.pdf",
+    "creationDate" : "2010-04-01T14:13:29.297+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9622-0",
+    "content" : "/rest/items/item_407431_4/component/file_407430/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d976173335769a98294eeed4acb05854",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1269270,
+    "metadata" : {
+      "title" : "kadiweu_griffiths2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1269270
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

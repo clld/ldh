@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_403290",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-11T09:38:10.198+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-203C-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-11T09:38:10.198+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E3B-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:08:51.577+0000",
+  "latestRelease" : {
+    "objectId" : "item_403290",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T09:38:10.198+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-203C-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403290",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T09:38:10.198+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-203C-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Order and structure",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Colin",
+        "familyName" : "Phillips",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1966",
+    "datePublishedInPrint" : "1996",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31127",
+      "type" : "OTHER"
+    }, {
+      "id" : "order_phillips1996_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : " Massachussets Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P151, LoC Subject Headings: Grammar/Comparative and general",
+    "totalNumberOfPages" : "306 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403289",
+    "name" : "order_phillips1996_o.pdf",
+    "creationDate" : "2010-04-01T12:08:49.883+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E3A-D",
+    "content" : "/rest/items/item_403290_3/component/file_403289/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b8508ded12a13a77d1ad4f26867d441b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 17592377,
+    "metadata" : {
+      "title" : "order_phillips1996_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 17592377
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110853",
+    "name" : "http://hdl.handle.net/1721.1/10666",
+    "creationDate" : "2015-03-11T09:37:23.383+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/10666",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c3d24abcb930d5bc30e8af9f307af050",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/10666",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf",
+      "size" : 0
+    }
+  } ]
+}

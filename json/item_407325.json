@@ -1,0 +1,119 @@
+{
+  "objectId" : "item_407325",
+  "versionNumber" : 6,
+  "modificationDate" : "2014-08-07T10:20:40.079+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-26B4-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-08-07T10:20:40.079+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9595-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:10:48.522+0000",
+  "latestRelease" : {
+    "objectId" : "item_407325",
+    "versionNumber" : 6,
+    "modificationDate" : "2014-08-07T10:20:40.079+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-26B4-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407325",
+    "versionNumber" : 6,
+    "modificationDate" : "2014-08-07T10:20:40.079+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-26B4-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Fragments of Piscataway : a preliminary description",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lisa",
+        "familyName" : "Mackie",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38327",
+      "type" : "OTHER"
+    }, {
+      "id" : "piscataway_mackie2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Oxford",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Subject Headings: Algonquian languages",
+    "subjects" : [ {
+      "value" : "psy - Piscataway",
+      "type" : "ISO639_3"
+    } ],
+    "tableOfContents" : "Chapter 1 Introduction\nChapter 2 Background\nChapter 3 Outline of Algonquian Morphology \nChapter 4 Catechism Analysis\nChapter 5 Piscataway Phonetics and Phonology\nChapter 6 Piscataway Morphology \nChapter 7 Syntax \nChapter 8 Conclusion \nAppendix A: Fr. Andrew White Manuscript in Piscataway \nAppendix B: Transcription \nBibliography \n",
+    "totalNumberOfPages" : "iv, 130 S.",
+    "abstracts" : [ {
+      "value" : "Project Goals The goal of the present project is to provide a preliminary descriptive analysis of the language found in a short manuscript in the Special Collections of the Georgetown University Library. The manuscript is a five-page Catholic catechism written in an Eastern Algonquian language. It is the only extant record of the language which is presumed to be Piscataway (also called Conoy). The identification of the language is based on the attribution of authorship to Father Andrew White, a seventeenth-century English Jesuit missionary. By providing as much of a description as possible through morphological and phonological analysis of the data, I hope to recover some knowledge about this extinct language and add to the sparse data on Eastern Algonquian languages. Because the goal of the project is to uncover the data in the manuscript, no theoretical viewpoint has been adopted regarding morphological entities or processes.\n\nPM2001.Z5, ISO 639-3 : psy, Algonquian languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407324",
+    "name" : "piscataway_mackie2006_s.pdf",
+    "creationDate" : "2010-04-01T14:10:48.216+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9594-5",
+    "content" : "/rest/items/item_407325_6/component/file_407324/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3298fc94f9bbfb994b5c0431bd73658a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1737746,
+    "metadata" : {
+      "title" : "piscataway_mackie2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1737746,
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

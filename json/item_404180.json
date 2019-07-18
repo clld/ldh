@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_404180",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:36:39.304+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8403-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:36:39.304+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8403-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:36:33.416+0000",
+  "latestRelease" : {
+    "objectId" : "item_404180",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:36:39.304+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8403-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404180",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:36:39.304+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8403-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Munduruku : Phonetics, phonology, synchrony, diachrony (Brazil)",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Picanco, Gessiane Lobato",
+        "givenName" : "Gessiane Lobato",
+        "familyName" : "Picanco",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32436",
+      "type" : "OTHER"
+    }, {
+      "id" : "munduruku_picanco2005_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PM6596,\nLoC Subject Headings: Munduruku language",
+    "subjects" : [ {
+      "value" : "myu - Mundurukú",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "410 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404178",
+    "name" : "http://www.etnolinguistica.org/tese:picanco-2005",
+    "creationDate" : "2010-04-01T12:36:31.027+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8401-7",
+    "content" : "http://www.etnolinguistica.org/tese:picanco-2005",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "62f3daea683efa9523739ff0efc1a8a2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.etnolinguistica.org/tese:picanco-2005",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404179",
+    "name" : "munduruku_picanco2005_o.pdf",
+    "creationDate" : "2010-04-01T12:36:32.164+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8402-5",
+    "content" : "/rest/items/item_404180_2/component/file_404179/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "56f39d9837a742330eb203f77825108f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 13023062,
+    "metadata" : {
+      "title" : "munduruku_picanco2005_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 13023062
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

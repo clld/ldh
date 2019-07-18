@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_405882",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:02:24.930+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8D97-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:02:24.930+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8D97-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:22:33.721+0000",
+  "latestRelease" : {
+    "objectId" : "item_405882",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:02:24.930+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8D97-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405882",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:02:24.930+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8D97-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The inclusory construction in Australian languages",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Singer, Ruth",
+        "givenName" : "Ruth",
+        "familyName" : "Singer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedInPrint" : "2001",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35479",
+      "type" : "OTHER"
+    }, {
+      "id" : "inclusory_singer2001_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Melbourne",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PL7001,\nLoC Subject Headings: Australian languages",
+    "totalNumberOfPages" : "89 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405880",
+    "name" : "http://eprints.infodiv.unimelb.edu.au/archive/00003035/01/Inclusory_Const_thesis.pdf",
+    "creationDate" : "2010-04-01T13:22:29.503+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D95-A",
+    "content" : "http://eprints.infodiv.unimelb.edu.au/archive/00003035/01/Inclusory_Const_thesis.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ab89755ccfd1ddd15ec0ff63adbb77a6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eprints.infodiv.unimelb.edu.au/archive/00003035/01/Inclusory_Const_thesis.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405881",
+    "name" : "inclusory_singer2001_s.pdf",
+    "creationDate" : "2010-04-01T13:22:32.529+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D96-8",
+    "content" : "/rest/items/item_405882_2/component/file_405881/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4377b9640a0bc8cbc85b5e61949b9e8a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 378124,
+    "metadata" : {
+      "title" : "inclusory_singer2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 378124
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

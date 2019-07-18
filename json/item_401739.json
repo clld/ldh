@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_401739",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:35:08.443+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7510-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:35:08.443+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7510-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:17:45.319+0000",
+  "latestRelease" : {
+    "objectId" : "item_401739",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:35:08.443+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7510-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401739",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:35:08.443+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7510-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Suyá : a língua da gente ; \"um estudo fonológico e gramatical\"",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Guedes, Marymarcia",
+        "givenName" : "Marymarcia",
+        "familyName" : "Guedes",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1993",
+    "datePublishedInPrint" : "1993",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "27731",
+      "type" : "OTHER"
+    }, {
+      "id" : "suya_guedes1993_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM7083",
+    "subjects" : [ {
+      "value" : "suy - Suyá",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "276 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401737",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000062737",
+    "creationDate" : "2010-04-01T11:17:43.895+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-750E-C",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000062737",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6b8f56ff9cda33ac254f98ba0bb34e85",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000062737",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401738",
+    "name" : "suya_guedes1993_o.pdf",
+    "creationDate" : "2010-04-01T11:17:44.527+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-750F-A",
+    "content" : "/rest/items/item_401739_2/component/file_401738/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f5848a311b92fd25a23a566b005501aa",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7840863,
+    "metadata" : {
+      "title" : "suya_guedes1993_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7840863
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

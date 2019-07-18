@@ -1,0 +1,115 @@
+{
+  "objectId" : "item_407360",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-03-12T23:11:36.594+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70DF-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T23:11:36.594+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-95C8-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:11:50.335+0000",
+  "latestRelease" : {
+    "objectId" : "item_407360",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-12T23:11:36.594+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70DF-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407360",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-12T23:11:36.594+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70DF-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Ari ixanti : speech reporting practices among the Nanti of the Peruvian Amazon",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lev David",
+        "familyName" : "Michael",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedInPrint" : "2001",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38442",
+      "type" : "OTHER"
+    }, {
+      "id" : "ari_lev2001_s               .html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "place" : "Austin",
+      "publisher" : "Univ. of Texas"
+    },
+    "freeKeywords" : "LoC Class: PM5271, LoC Subject Headings: Nanti language, LoC Subject Headings: Peru--Languages",
+    "subjects" : [ {
+      "value" : "cox - Nanti",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vi, 185 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407359",
+    "name" : "ari_lev2001_s.pdf",
+    "creationDate" : "2010-04-01T14:11:50.231+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-95C7-4",
+    "content" : "/rest/items/item_407360_6/component/file_407359/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "00524bf21c51cf1a2c4a98ea729ac363",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 467404,
+    "metadata" : {
+      "title" : "ari_lev2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 467404,
+      "copyrightDate" : "2010-11-13",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

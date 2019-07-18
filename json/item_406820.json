@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_406820",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:00:35.930+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-92BD-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:00:35.930+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-92BD-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:47:54.959+0000",
+  "latestRelease" : {
+    "objectId" : "item_406820",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:00:35.930+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-92BD-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406820",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:00:35.930+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-92BD-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Toyeri y sapiteri : un informe preliminar de la fonologia y el vocabulario",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Peck, Charles",
+        "givenName" : "Charles",
+        "familyName" : "Peck",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1979",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37455",
+      "type" : "OTHER"
+    }, {
+      "id" : "toyeri_peck1979_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Lima",
+      "publisher" : "Inst. Lingüistico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Datos Etno-Lingüisticos",
+      "volume" : "67",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6464.M3,\nLoC Subject Headings: Mashco language",
+    "subjects" : [ {
+      "value" : "amr - Amarakaeri",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "hug - Huachipaeri",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "102 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406818",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3448",
+    "creationDate" : "2010-04-01T13:47:53.490+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-92BB-9",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3448",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "280137798551c6255308d02f31a6478e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3448",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406819",
+    "name" : "toyeri_peck1979_o.pdf",
+    "creationDate" : "2010-04-01T13:47:53.909+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-92BC-7",
+    "content" : "/rest/items/item_406820_2/component/file_406819/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c8e32ca0baee123cd453acdce48b688d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3294557,
+    "metadata" : {
+      "title" : "toyeri_peck1979_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3294557
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

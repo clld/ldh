@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_406369",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-05-13T11:36:27.548+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CD85-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-13T11:36:27.548+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9044-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:36:32.450+0000",
+  "latestRelease" : {
+    "objectId" : "item_406369",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T11:36:27.548+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD85-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406369",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T11:36:27.548+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD85-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Statistical Korean dependency parsing model based on the surface contextual information\n",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Hoojung",
+        "familyName" : "Chung",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36761",
+      "type" : "OTHER"
+    }, {
+      "id" : "korean_chung2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Seoul",
+      "publisher" : "Korea Univ."
+    },
+    "freeKeywords" : "LoC Class: PL913, LoC Subject Headings: Korean language",
+    "subjects" : [ {
+      "value" : "kor - Korean",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "IX, 100 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406368",
+    "name" : "korean_chung2004_s.pdf",
+    "creationDate" : "2010-04-01T13:36:32.232+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9043-7",
+    "content" : "/rest/items/item_406369_3/component/file_406368/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fc12e4c4db0fba214f47776347d0c0e8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 690760,
+    "metadata" : {
+      "title" : "korean_chung2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 690760
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2155002",
+    "name" : "http://nlp.korea.ac.kr/~hjchung/",
+    "creationDate" : "2015-05-13T11:35:52.823+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://nlp.korea.ac.kr/~hjchung/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ae241107d79f55c6590a2f9a08c0e861",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://nlp.korea.ac.kr/~hjchung/",
+      "contentCategory" : "publisher-version",
+      "description" : "Korea Univ., Natural Language Processing Lab., Hoojung Chung's website, publications, dissertations, pdf download",
+      "size" : 0
+    }
+  } ]
+}

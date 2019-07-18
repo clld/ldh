@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_400844",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:22:27.542+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6FE5-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:22:27.542+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6FE5-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:59:47.015+0000",
+  "latestRelease" : {
+    "objectId" : "item_400844",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:22:27.542+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6FE5-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400844",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:22:27.542+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6FE5-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Makary Kotoko",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Sean",
+        "familyName" : "Allison",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Hissene",
+        "familyName" : "Abdolaye"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1999",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "24342",
+      "type" : "OTHER"
+    }, {
+      "id" : "makary_allison1999_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[Yaounde, Republic of Cameroon]",
+      "publisher" : "[SIL]"
+    },
+    "freeKeywords" : "LoC Class: PL8026.C53,\nLoC Subject Headings: Chadic languages",
+    "subjects" : [ {
+      "value" : "mpi - Mpade",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "58 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400842",
+    "name" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/dictionaries/Makary%20Kotoko%20Lexicon.pdf",
+    "creationDate" : "2010-04-01T10:59:46.540+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6FE3-6",
+    "content" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/dictionaries/Makary%20Kotoko%20Lexicon.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/dictionaries/Makary%20Kotoko%20Lexicon.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400843",
+    "name" : "makary_allison1999_s.pdf",
+    "creationDate" : "2010-04-01T10:59:46.912+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6FE4-4",
+    "content" : "/rest/items/item_400844_2/component/file_400843/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e1720edd17926f8a396993fbbabd720f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 448247,
+    "metadata" : {
+      "title" : "makary_allison1999_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 448247
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,115 @@
+{
+  "objectId" : "item_2491630",
+  "versionNumber" : 3,
+  "modificationDate" : "2017-10-23T11:38:02.124+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-002E-0F5E-C",
+  "modifier" : {
+    "objectId" : "user_2073577"
+  },
+  "message" : "Release during adding DOI",
+  "lastModificationDate" : "2017-10-23T11:38:02.124+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-002E-0F5B-1",
+  "creator" : {
+    "objectId" : "user_2073577"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2017-10-23T11:35:10.939+0000",
+  "latestRelease" : {
+    "objectId" : "item_2491630",
+    "versionNumber" : 3,
+    "modificationDate" : "2017-10-23T11:38:02.124+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002E-0F5E-C",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2491630",
+    "versionNumber" : 3,
+    "modificationDate" : "2017-10-23T11:38:02.124+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-002E-0F5E-C",
+    "modifier" : {
+      "objectId" : "user_2073577"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "A grammar of Donno So or Kamma So",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jeffrey",
+        "familyName" : "Heath",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "University of Michigan",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ],
+        "identifier" : {
+          "id" : "/persons/resource/persons202070",
+          "type" : "CONE"
+        }
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedOnline" : "2016-07",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "10.17617/2.2491630",
+      "type" : "DOI"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Ann Arbor",
+      "publisher" : "Univ. of Michigan"
+    },
+    "freeKeywords" : "LoC Class: PL8139.1, LoC Subject Headings: Dogon language",
+    "subjects" : [ {
+      "value" : "dym - Yanda Dom Dogon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "384"
+  },
+  "files" : [ {
+    "objectId" : "file_2491629",
+    "name" : "Heath Donno So grammar 2016.pdf",
+    "creationDate" : "2017-10-23T11:35:09.909+0000",
+    "creator" : {
+      "objectId" : "user_2073577"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-002E-0F5D-E",
+    "content" : "/rest/items/item_2491630_3/component/file_2491629/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "539d492d0d364374f571f6e32720cc25",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 75625645,
+    "metadata" : {
+      "title" : "Heath Donno So grammar 2016.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "OA",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 75625645,
+      "license" : "http://creativecommons.org/licenses/by/4.0/"
+    }
+  } ]
+}

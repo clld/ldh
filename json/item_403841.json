@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_403841",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T09:58:21.746+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-821D-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:58:21.746+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-821D-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:26:38.794+0000",
+  "latestRelease" : {
+    "objectId" : "item_403841",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:58:21.746+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-821D-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403841",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:58:21.746+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-821D-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "La langue gauloise : grammaire, textes et glossaire",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Dottin, Georges",
+        "givenName" : "Georges",
+        "familyName" : "Dottin",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1918",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31806",
+      "type" : "OTHER"
+    }, {
+      "id" : "gauloise_dottin1918_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Paris",
+      "publisher" : "Klincksieck"
+    },
+    "sources" : [ {
+      "title" : "Collection pour l'étude des antiquitiés nationales ",
+      "alternativeTitles" : [ { } ],
+      "volume" : "2",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Gaulish language",
+    "totalNumberOfPages" : "xvii, 364 S.",
+    "abstracts" : [ {
+      "value" : "PB3006.C48, ISO 639-3 : ?, Gaulish language, Gaulish language--Grammar, Gaulish language--Glossaries, vocabularies, etc."
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403839",
+    "name" : "http://gallica.bnf.fr/ark:/12148/bpt6k2100481",
+    "creationDate" : "2010-04-01T12:26:37.474+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-821B-5",
+    "content" : "http://gallica.bnf.fr/ark:/12148/bpt6k2100481",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://gallica.bnf.fr/ark:/12148/bpt6k2100481",
+      "contentCategory" : "publisher-version",
+      "description" : "gallica, bnf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403840",
+    "name" : "gauloise_dottin1918_o.pdf",
+    "creationDate" : "2010-04-01T12:26:37.726+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-821C-3",
+    "content" : "/rest/items/item_403841_3/component/file_403840/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "699266ce47a3595ebf3d97db413ab1d9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10882752,
+    "metadata" : {
+      "title" : "gauloise_dottin1918_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10882752
+    }
+  } ]
+}

@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_407342",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:24:41.097+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-95AF-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:24:41.097+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-95AF-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:11:07.803+0000",
+  "latestRelease" : {
+    "objectId" : "item_407342",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:24:41.097+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-95AF-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407342",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:24:41.097+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-95AF-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Morfossintaxe da língua Tapirapé : (Família Tupí-Guaraní)",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Praça, Walkíria Neiva",
+        "givenName" : "Walkíria Neiva",
+        "familyName" : "Praça",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38352",
+      "type" : "OTHER"
+    }, {
+      "id" : "tapirape_praca2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Brasília",
+      "publisher" : " Univ. de Brasília"
+    },
+    "freeKeywords" : "LoC Class: PM7105,\nLoC Subject Headings: Tapirapé language",
+    "subjects" : [ {
+      "value" : "taf - Tapirapé",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xix, 284 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407340",
+    "name" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=2980",
+    "creationDate" : "2010-04-01T14:11:06.608+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-95AD-F",
+    "content" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=2980",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "db0d7d68899b4f22dd2733d470a260a2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=2980",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407341",
+    "name" : "tapirape_praca2007_s.pdf",
+    "creationDate" : "2010-04-01T14:11:06.965+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-95AE-D",
+    "content" : "/rest/items/item_407342_2/component/file_407341/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4f5071f0678f4648d355297af2eedc88",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5808385,
+    "metadata" : {
+      "title" : "tapirape_praca2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5808385
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

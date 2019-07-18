@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_404596",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T23:35:03.658+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-711B-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T23:35:03.658+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-865D-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:44:05.473+0000",
+  "latestRelease" : {
+    "objectId" : "item_404596",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T23:35:03.658+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-711B-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404596",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T23:35:03.658+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-711B-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of Kuuk Thaayorre",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Gaby, Alice Rose",
+        "givenName" : "Alice Rose",
+        "familyName" : "Gaby",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "33559",
+      "type" : "OTHER"
+    }, {
+      "id" : "kuukthaayorre_gaby2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Melbourne",
+      "publisher" : "UMER"
+    },
+    "freeKeywords" : "LoC Class: PL7091.Q4, LoC Subject Headings: Australian languages, LoC Subject Headings: Thayore language--Grammar, LoC Subject Headings: Aboriginal Australians--Languages",
+    "subjects" : [ {
+      "value" : "thd - Thayore",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xx, 649 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404594",
+    "name" : "http://eprints.infodiv.unimelb.edu.au/archive/00002486/01/KTh_Grammar_241006.pdf",
+    "creationDate" : "2010-04-01T12:44:01.329+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://eprints.infodiv.unimelb.edu.au/archive/00002486/01/KTh_Grammar_241006.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eprints.infodiv.unimelb.edu.au/archive/00002486/01/KTh_Grammar_241006.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404595",
+    "name" : "kuukthaayorre_gaby2006_s.pdf",
+    "creationDate" : "2010-04-01T12:44:04.870+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-865C-F",
+    "content" : "/rest/items/item_404596_3/component/file_404595/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d0671a5e2e0b2d0fd3451f18a8e66fb9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5875199,
+    "metadata" : {
+      "title" : "kuukthaayorre_gaby2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5875199
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_403946",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:41:11.654+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-82B3-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:41:11.654+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-82B3-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:30:46.343+0000",
+  "latestRelease" : {
+    "objectId" : "item_403946",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:41:11.654+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-82B3-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403946",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:41:11.654+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-82B3-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Determinación de la frontera dialectal del Quechua Ayacuchano y cuzqueno en el departamento de Apurimac",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Carvajal",
+        "familyName" : "Solis",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32069",
+      "type" : "OTHER"
+    }, {
+      "id" : "quechua_solis2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Lima",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM6301,\nLoC Subject Headings: Quechua language",
+    "subjects" : [ {
+      "value" : "quh - South Bolivian Quechua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "162 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403944",
+    "name" : "http://sisbib.unmsm.edu.pe/bibvirtual/Tesis/Human/carbajal_sv/contenido.htm",
+    "creationDate" : "2010-04-01T12:30:45.343+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-82B1-F",
+    "content" : "http://sisbib.unmsm.edu.pe/bibvirtual/Tesis/Human/carbajal_sv/contenido.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a10d558126bec7778fe87aed7535b322",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://sisbib.unmsm.edu.pe/bibvirtual/Tesis/Human/carbajal_sv/contenido.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403945",
+    "name" : "quechua_solis2004_s.pdf",
+    "creationDate" : "2010-04-01T12:30:46.134+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-82B2-D",
+    "content" : "/rest/items/item_403946_2/component/file_403945/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "60551d9bbe82b165f9a346c904e9a5cb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1624553,
+    "metadata" : {
+      "title" : "quechua_solis2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1624553
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

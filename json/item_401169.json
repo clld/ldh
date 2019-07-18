@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_401169",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-17T09:19:48.885+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7801-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-17T09:19:48.885+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-71D1-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:06:55.916+0000",
+  "latestRelease" : {
+    "objectId" : "item_401169",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-17T09:19:48.885+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7801-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401169",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-17T09:19:48.885+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7801-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Catalan phonology and the phonological cycle",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Joan",
+        "familyName" : "Mascaró",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1978",
+    "datePublishedInPrint" : "1978",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "25251",
+      "type" : "OTHER"
+    }, {
+      "id" : "catalan_mascaro1976_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge, Mass.",
+      "publisher" : "MIT"
+    },
+    "freeKeywords" : "LoC Class: PC3828, LoC Subject Headings: Catalan language",
+    "subjects" : [ {
+      "value" : "cat - Catalan",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "163 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PC3828, LoC Subject Headings: Catalan language--Phonology, Catalan language--Grammar/Generative"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401168",
+    "name" : "catalan_mascaro1976_o.pdf",
+    "creationDate" : "2010-04-01T11:06:55.156+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-71D0-1",
+    "content" : "/rest/items/item_401169_4/component/file_401168/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e87c4b4b074abc9a405dc4f0be0d7078",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7236692,
+    "metadata" : {
+      "title" : "catalan_mascaro1976_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7236692,
+      "copyrightDate" : "2010-12-03",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_2116453",
+    "name" : "http://hdl.handle.net/1721.1/16399",
+    "creationDate" : "2015-03-17T09:19:11.729+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/16399",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "cea7dd3828d86506e5ba26683898bfb7",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/16399",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, MIT Theses, pdf download",
+      "size" : 0
+    }
+  } ]
+}

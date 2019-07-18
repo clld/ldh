@@ -1,0 +1,162 @@
+{
+  "objectId" : "item_403922",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-06-26T09:32:35.287+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-D1C7-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Datei aktualisiert",
+  "lastModificationDate" : "2014-06-26T09:32:35.287+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8290-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:29:17.271+0000",
+  "latestRelease" : {
+    "objectId" : "item_403922",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-06-26T09:32:35.287+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D1C7-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403922",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-06-26T09:32:35.287+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D1C7-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dictionary of Ogbà, an Igboid language of Southern Nigeria",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Roger",
+        "familyName" : "Blench",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "organization" : {
+        "identifier" : "ou_persistent22",
+        "name" : "Ogba Language Committee",
+        "identifierPath" : [ "ou_persistent22" ]
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedOnline" : "2013",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "32061",
+      "type" : "OTHER"
+    }, {
+      "id" : "ogba_blench2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "unpublished",
+      "place" : "Cambridge",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL8598.O32,\nLoC Subject Headings: Ogba language",
+    "subjects" : [ {
+      "value" : "ogc - Ogbah",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ii, 72 S."
+  },
+  "files" : [ {
+    "objectId" : "file_2034971",
+    "name" : "ogba_blench2013_s.pdf",
+    "creationDate" : "2014-06-26T09:31:57.284+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0019-D1C8-C",
+    "content" : "/rest/items/item_403922_4/component/file_2034971/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "813e6a8567cafad848439e9a7c7b962e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 324737,
+    "metadata" : {
+      "title" : "ogba_blench2013_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 324737
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2034972",
+    "name" : "http://www.rogerblench.info/Language/Niger-Congo/VN/Igboid/IgbOP.htm",
+    "creationDate" : "2014-06-26T09:31:57.351+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-D1C9-A",
+    "content" : "http://www.rogerblench.info/Language/Niger-Congo/VN/Igboid/IgbOP.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9fe65101b6bf1fe1e1300d39dda53848",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.rogerblench.info/Language/Niger-Congo/VN/Igboid/IgbOP.htm",
+      "contentCategory" : "any-fulltext",
+      "description" : "Roger Blench's website, Igboid materials, Ogba dictionary, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2034973",
+    "name" : "http://www.rogerblench.info/Language/Niger-Congo/VN/Igboid/Ogba%20Dictionary.pdf",
+    "creationDate" : "2014-06-26T09:31:57.480+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-D1CA-8",
+    "content" : "http://www.rogerblench.info/Language/Niger-Congo/VN/Igboid/Ogba%20Dictionary.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "fe3773f9336181a44a3311de52ab9f39",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.rogerblench.info/Language/Niger-Congo/VN/Igboid/Ogba%20Dictionary.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

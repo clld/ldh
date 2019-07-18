@@ -1,0 +1,129 @@
+{
+  "objectId" : "item_1859169",
+  "versionNumber" : 5,
+  "modificationDate" : "2014-10-10T10:36:45.142+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-EDDC-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Datum cc-Lizenz ergänzt",
+  "lastModificationDate" : "2014-10-10T10:36:45.142+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0014-BD49-B",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2013-12-04T08:51:19.349+0000",
+  "latestRelease" : {
+    "objectId" : "item_1859169",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-10-10T10:36:45.142+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-EDDC-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_1859169",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-10-10T10:36:45.142+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-EDDC-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Patterns in Karitiana : articulation, perception, and grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Caleb",
+        "familyName" : "Everett",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedOnline" : "2006",
+    "dateSubmitted" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Houston",
+      "publisher" : "Rice Univ."
+    },
+    "freeKeywords" : "LoC Class: PM7173,\nLoC Subject Headings: Karitiana language ",
+    "subjects" : [ {
+      "value" : "ktn - Karitiâna",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiii, 473 S."
+  },
+  "files" : [ {
+    "objectId" : "file_1859168",
+    "name" : "Everett_Karitiana2006.pdf",
+    "creationDate" : "2013-12-04T08:51:18.902+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-BD4B-7",
+    "content" : "/rest/items/item_1859169_5/component/file_1859168/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3434852a0f9e7d759fb403502841cd7a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 24216227,
+    "metadata" : {
+      "title" : "Everett_Karitiana2006.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 24216227,
+      "copyrightDate" : "2013-12-03",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  }, {
+    "objectId" : "file_2060757",
+    "name" : "http://hdl.handle.net/1911/20600",
+    "creationDate" : "2014-10-10T10:32:37.930+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1911/20600",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2dc98d38f54de188f16d75cd294c8a63",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1911/20600",
+      "contentCategory" : "publisher-version",
+      "description" : "Rice Univ., digital scholarship archive, pdf",
+      "size" : 0
+    }
+  } ]
+}

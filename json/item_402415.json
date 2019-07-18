@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_402415",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:40:27.673+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7904-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:40:27.673+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7904-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:31:31.013+0000",
+  "latestRelease" : {
+    "objectId" : "item_402415",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:40:27.673+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7904-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402415",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:40:27.673+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7904-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Nepali : a beginner's primer, conversation and grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Banu",
+        "familyName" : "Oja",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Shambhu",
+        "familyName" : "Oja"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29857",
+      "type" : "OTHER"
+    }, {
+      "id" : "nepali_oja2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "3. Aufl.",
+      "place" : "Cornell Univ.",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PK2595,\nLoC Subject Headings: Nepali language",
+    "subjects" : [ {
+      "value" : "nep - Nepali",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "225 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402413",
+    "name" : "http://www.digitalhimalaya.com/projectteam/turin/publications.html",
+    "creationDate" : "2010-04-01T11:31:30.370+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7902-D",
+    "content" : "http://www.digitalhimalaya.com/projectteam/turin/publications.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8ff59bc0821e841d1d5153ea6f0867ba",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.digitalhimalaya.com/projectteam/turin/publications.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402414",
+    "name" : "nepali_oja2004_s.pdf",
+    "creationDate" : "2010-04-01T11:31:30.729+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7903-B",
+    "content" : "/rest/items/item_402415_2/component/file_402414/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1f1c307abe3f90f6a187c3d99fc6c0ec",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2232373,
+    "metadata" : {
+      "title" : "nepali_oja2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2232373
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

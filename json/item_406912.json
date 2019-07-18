@@ -1,0 +1,156 @@
+{
+  "objectId" : "item_406912",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-08-05T08:15:53.648+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-1E78-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-08-05T08:15:53.648+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-934C-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:49:50.321+0000",
+  "latestRelease" : {
+    "objectId" : "item_406912",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-05T08:15:53.648+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1E78-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406912",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-05T08:15:53.648+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1E78-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "English-Georgian dictionary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Besiki",
+        "familyName" : "Sisauri",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37511",
+      "type" : "OTHER"
+    }, {
+      "id" : "georgian_sisauri2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng", "kat" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N.A.",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PK9125\nLoC Subject Headings: Georgian language",
+    "subjects" : [ {
+      "value" : "kat - Georgian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "208 S. ",
+    "abstracts" : [ {
+      "value" : "LoC Class: PK9125,\nLoC Subject Headings: English language--Dictionaries--Georgian, Georgian language--Dictionaries--English"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406911",
+    "name" : "georgian_sisauri2005_s.pdf",
+    "creationDate" : "2010-04-01T13:49:50.168+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-934B-C",
+    "content" : "/rest/items/item_406912_3/component/file_406911/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6daef0e83ae4b7fa980b49cc25033c4b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 567279,
+    "metadata" : {
+      "title" : "georgian_sisauri2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 567279
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2048224",
+    "name" : "http://www.georgianweb.com/language/dictionary/qveda.htm",
+    "creationDate" : "2014-08-05T08:14:13.171+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-1E7A-D",
+    "content" : "http://www.georgianweb.com/language/dictionary/qveda.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "66f2ee3a681b0edf8f502087a34474b6",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.georgianweb.com/language/dictionary/qveda.htm",
+      "contentCategory" : "publisher-version",
+      "description" : "www.georgianweb.com, Language, English-Georgian dictionary, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2048225",
+    "name" : "http://www.georgianweb.com/pdf/lexicon.pdf",
+    "creationDate" : "2014-08-05T08:14:16.934+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-1E7C-9",
+    "content" : "http://www.georgianweb.com/pdf/lexicon.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6daef0e83ae4b7fa980b49cc25033c4b",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.georgianweb.com/pdf/lexicon.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

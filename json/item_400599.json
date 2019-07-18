@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_400599",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:21:27.991+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6E61-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:21:27.991+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6E61-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:55:37.851+0000",
+  "latestRelease" : {
+    "objectId" : "item_400599",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:21:27.991+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6E61-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400599",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:21:27.991+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6E61-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Studies in southern Wakashan (Nootkan) grammar",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Davidson, Matthew",
+        "givenName" : "Matthew",
+        "familyName" : "Davidson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "22812",
+      "type" : "OTHER"
+    }, {
+      "id" : "nootkan_davidson2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Buffalo, NY",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM2531,\nLoC Subject Headings: Wakashan languages--grammar",
+    "subjects" : [ {
+      "value" : "noo - Nootka",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xvii, 471 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400597",
+    "name" : "http://depts.washington.edu/wll2/files/davidson_02_diss.pdf",
+    "creationDate" : "2010-04-01T10:55:34.619+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6E5F-7",
+    "content" : "http://depts.washington.edu/wll2/files/davidson_02_diss.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "226fd066d1d99399b562f74c18cc47a4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://depts.washington.edu/wll2/files/davidson_02_diss.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400598",
+    "name" : "nootkan_davidson2002_s.pdf",
+    "creationDate" : "2010-04-01T10:55:37.614+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6E60-1",
+    "content" : "/rest/items/item_400599_2/component/file_400598/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "05162aa81d354c76b52cf89bd270ccf5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1822776,
+    "metadata" : {
+      "title" : "nootkan_davidson2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1822776
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

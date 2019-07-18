@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_407049",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-11T11:48:26.263+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-68C7-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-03-11T11:48:26.263+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-941A-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:53:11.697+0000",
+  "latestRelease" : {
+    "objectId" : "item_407049",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T11:48:26.263+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-68C7-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407049",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T11:48:26.263+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-68C7-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Chinook dictionary : briefed by A.H. Hodgson from Shaw's The Chinook jargon and how to use it, Seattle, 1909",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Allen H.",
+        "familyName" : "Hodgson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "George Coombs",
+        "familyName" : "Shaw",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1922",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "37616",
+      "type" : "OTHER"
+    }, {
+      "id" : "chinook_shaw1909_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "freeKeywords" : "LoC Class: PM848, LoC Subject Headings: Chinook jargon",
+    "subjects" : [ {
+      "value" : "chh - Chinook",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "7 Bl."
+  },
+  "files" : [ {
+    "objectId" : "file_407047",
+    "name" : "http://www.archive.org/details/chinookdictionar00shawrich",
+    "creationDate" : "2010-04-01T13:53:10.098+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.archive.org/details/chinookdictionar00shawrich",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b0cdfeeeb1957a18937fa0d96a10e5fa",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/chinookdictionar00shawrich",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407048",
+    "name" : "chinook_shaw1909_o.pdf",
+    "creationDate" : "2010-04-01T13:53:11.550+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9419-3",
+    "content" : "/rest/items/item_407049_3/component/file_407048/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2ce44ed18b66771281cf78678e29bc2a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 848065,
+    "metadata" : {
+      "title" : "chinook_shaw1909_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 848065,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

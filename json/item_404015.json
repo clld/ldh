@@ -1,0 +1,148 @@
+{
+  "objectId" : "item_404015",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-02-26T09:52:12.672+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-E420-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz ergänzt",
+  "lastModificationDate" : "2015-02-26T09:52:12.672+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8319-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:32:46.567+0000",
+  "latestRelease" : {
+    "objectId" : "item_404015",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-26T09:52:12.672+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E420-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404015",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-26T09:52:12.672+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E420-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Visayan-English dictionary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Alton L.",
+        "familyName" : "Hall",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Andres",
+        "familyName" : "Custodio",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1911",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "32127",
+      "type" : "OTHER"
+    }, {
+      "id" : "visayan_hall1911.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "San José, Antique",
+      "publisher" : "Hall"
+    },
+    "freeKeywords" : "LoC Class: PL5626,\nLoC Subject Headings: Cebuano language",
+    "subjects" : [ {
+      "value" : "ceb - Cebuano",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "iii, 357 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL5626,\nLoC Subject Headings: Cebuano language--Dictionaries--English, English language--Dictionaries--Cebuano"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404014",
+    "name" : "visayan_hall1911.pdf",
+    "creationDate" : "2010-04-01T12:32:44.809+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8318-3",
+    "content" : "/rest/items/item_404015_3/component/file_404014/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "53598c4505fd663b23f07883003a077c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 18382447,
+    "metadata" : {
+      "title" : "visayan_hall1911.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 18382447
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2104257",
+    "name" : "https://archive.org/details/adb1552.0001.001.umich.edu",
+    "creationDate" : "2015-02-26T09:49:44.647+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/adb1552.0001.001.umich.edu",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "19074d767f5b97c6da7d3454da202805",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/adb1552.0001.001.umich.edu",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org: Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

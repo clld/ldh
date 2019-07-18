@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_403651",
+  "versionNumber" : 6,
+  "modificationDate" : "2011-06-06T07:58:38.508+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-80DC-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:58:38.508+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-80DC-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:21:30.613+0000",
+  "latestRelease" : {
+    "objectId" : "item_403651",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-06-06T07:58:38.508+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-80DC-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403651",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-06-06T07:58:38.508+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-80DC-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Über die Sprache der Jakuten : Theil 2: Jakutisch-Deutsches Wörterbuch",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Otto",
+        "familyName" : "Böhtlingk",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1851",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31470",
+      "type" : "OTHER"
+    }, {
+      "id" : "jakutenwoerter_boehtlingk1851_o.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "St. Petersburg",
+      "publisher" : "Buchdr. der K. Akademie der Wissenschaften"
+    },
+    "sources" : [ {
+      "title" : "Reise in den äussersten Norden und Osten  Sibiriens während der Jahre 1843 und 1844 ",
+      "alternativeTitles" : [ { } ],
+      "creators" : [ {
+        "person" : {
+          "givenName" : "Alexander Theodor von ",
+          "familyName" : "Middendorff"
+        },
+        "role" : "EDITOR",
+        "type" : "PERSON"
+      } ],
+      "volume" : "3",
+      "publishingInfo" : {
+        "place" : " St. Petersburg [u. a.] ",
+        "publisher" : "Kais. Akad. d. Wiss. (Drucker) [u. a.]"
+      },
+      "genre" : "BOOK"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Yakut language",
+    "subjects" : [ {
+      "value" : "sah - Yakut",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "184 S.",
+    "abstracts" : [ {
+      "value" : "PL362, ISO 639-3 : sah, Yakut language -- Texts, Yakut language -- Grammar, Yakut language -- Dictionaries -- German"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403650",
+    "name" : "jakutenwoerter_boehtlingk1851_o.pdf",
+    "creationDate" : "2010-04-01T12:21:29.021+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-80DB-3",
+    "content" : "/rest/items/item_403651_6/component/file_403650/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a270f30a4106fd3d52ae94bf2cd2f73a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 16739408,
+    "metadata" : {
+      "title" : "jakutenwoerter_boehtlingk1851_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 16739408,
+      "copyrightDate" : "2010-11-24",
+      "rights" : "not in copyright, Otto Böthlingk  1815-1904 "
+    }
+  } ]
+}

@@ -1,0 +1,156 @@
+{
+  "objectId" : "item_405335",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:44:44.445+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8A89-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:44:44.445+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8A89-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:07:30.886+0000",
+  "latestRelease" : {
+    "objectId" : "item_405335",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:44:44.445+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A89-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405335",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:44:44.445+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A89-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Mongol Language Competencies for Peace Corps Volunteers in Mongolia",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Amraa, J.",
+        "givenName" : "J.",
+        "familyName" : "Amraa",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "S.",
+        "familyName" : "Nadja"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "B.",
+        "familyName" : "Khurelbat"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Corrie A.",
+        "familyName" : "Martin"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1993",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34659",
+      "type" : "OTHER"
+    }, {
+      "id" : "mongol_amraa1993_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng", "mon" ],
+    "publishingInfo" : {
+      "edition" : "2nd rev. ed.",
+      "place" : "N.A.",
+      "publisher" : "Peace Corps (Mongolia)"
+    },
+    "freeKeywords" : "LoC Class: PL401,\nLoC Subject Headings: Mongolian languages",
+    "subjects" : [ {
+      "value" : "khk - Mongolian, Halh",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "X, 192 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405333",
+    "name" : "http://tinyurl.com/5fbh3c",
+    "creationDate" : "2010-04-01T13:07:22.315+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A87-B",
+    "content" : "http://tinyurl.com/5fbh3c",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9f4a53c92a8a3eae11059b373223a13f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://tinyurl.com/5fbh3c",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405334",
+    "name" : "mongol_amraa1993_o.pdf",
+    "creationDate" : "2010-04-01T13:07:30.387+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A88-9",
+    "content" : "/rest/items/item_405335_2/component/file_405334/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "77100936c9196e520391f56a0a5a9488",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4506429,
+    "metadata" : {
+      "title" : "mongol_amraa1993_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4506429
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

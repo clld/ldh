@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_400785",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-05-13T11:14:27.805+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CD7A-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-05-13T11:14:27.805+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6F81-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:59:14.353+0000",
+  "latestRelease" : {
+    "objectId" : "item_400785",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T11:14:27.805+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD7A-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400785",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T11:14:27.805+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD7A-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gramática prática com exercícios da língua Kayabi",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Rose M.",
+        "familyName" : "Dobson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1997",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "24196",
+      "type" : "OTHER"
+    }, {
+      "id" : "kayabi_dobson1997_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cuiabá",
+      "publisher" : "Soc. Internacional de Lingüística\n"
+    },
+    "freeKeywords" : "LoC Class: PM6294, LoC Subject Headings: Kayabi language",
+    "subjects" : [ {
+      "value" : "kyz - Kayabí",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "153 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400784",
+    "name" : "kayabi_dobson1997_s.pdf",
+    "creationDate" : "2010-04-01T10:59:14.252+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F80-2",
+    "content" : "/rest/items/item_400785_3/component/file_400784/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fe97c78e32c2120e1a0706399ab0c721",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 440144,
+    "metadata" : {
+      "title" : "kayabi_dobson1997_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 440144
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2154523",
+    "name" : "http://www-01.sil.org/americas/brasil/SILbpub.html",
+    "creationDate" : "2015-05-13T11:13:57.693+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www-01.sil.org/americas/brasil/SILbpub.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9530a75a4c45ff6625118b724949a812",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www-01.sil.org/americas/brasil/SILbpub.html",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Brazil, Publications, Language Name, Kayabi, pdf download",
+      "size" : 0
+    }
+  } ]
+}

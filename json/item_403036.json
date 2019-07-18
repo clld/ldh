@@ -1,0 +1,145 @@
+{
+  "objectId" : "item_403036",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-05-31T10:22:48.714+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7CAB-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:22:48.714+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7CAB-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:51:20.543+0000",
+  "latestRelease" : {
+    "objectId" : "item_403036",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T10:22:48.714+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7CAB-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403036",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T10:22:48.714+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7CAB-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Jicarilla Apache texts",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Pliny Earle",
+        "familyName" : "Goddard",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1911",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30892",
+      "type" : "OTHER"
+    }, {
+      "id" : "jicarilla_goddard1911_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "New York",
+      "publisher" : "Trustees"
+    },
+    "sources" : [ {
+      "title" : "Anthropological papers of the American Museum of Natural History",
+      "volume" : "8",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Jicarilla language",
+    "subjects" : [ {
+      "type" : "ISO639_3"
+    }, {
+      "value" : "apj - Jicarilla Apache",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "276 S.",
+    "abstracts" : [ {
+      "value" : "GN2, ISO 639-3 : apj, Jicarilla language--Texts"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403034",
+    "name" : "http://hdl.handle.net/2246/5752",
+    "creationDate" : "2010-04-01T11:51:17.492+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7CA9-0",
+    "content" : "http://hdl.handle.net/2246/5752",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b9e8e4290a1b2b0a29168fd37e5e442b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/2246/5752",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403035",
+    "name" : "jicarilla_goddard1911_s.pdf",
+    "creationDate" : "2010-04-01T11:51:18.111+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7CAA-E",
+    "content" : "/rest/items/item_403036_5/component/file_403035/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f4b380586af16ab91327534c2febf5d5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 25946060,
+    "metadata" : {
+      "title" : "jicarilla_goddard1911_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 25946060,
+      "copyrightDate" : "2010-11-18",
+      "rights" : "public domain, Pliny Earl Goddard 1869-1928"
+    }
+  } ]
+}

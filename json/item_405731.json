@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_405731",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-14T07:35:05.266+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B216-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-14T07:35:05.266+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8CC2-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:19:33.016+0000",
+  "latestRelease" : {
+    "objectId" : "item_405731",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-14T07:35:05.266+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B216-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405731",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-14T07:35:05.266+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B216-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Generating copies : an investigation into structural identity in language and grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Gregory Michael",
+        "familyName" : "Kobele",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35325",
+      "type" : "OTHER"
+    }, {
+      "id" : "copies_kobele2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Los Angeles",
+      "publisher" : "Univ. of California"
+    },
+    "freeKeywords" : "LoC Class: PL8821, LoC Subject Headings: Minimalist theory (Linguistics), LoC Subject Headings: Grammar/Comparative and general--Syntax, LoC Subject Headings: English language, LoC Subject Headings: Yoruba language",
+    "subjects" : [ {
+      "value" : "yor - Yoruba",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XIII, 284 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8821, LoC Subject Headings: Minimalist theory (Linguistics), LoC Subject Headings: Grammar/Comparative and general--Syntax, LoC Subject Headings: English language -- Grammar -- Theory, LoC Subject Headings: Yoruba language -- Grammar -- Theory"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405729",
+    "name" : "http://www.linguistics.ucla.edu/people/grads/kobele/Diss/Kobele06GeneratingCopies.pdf",
+    "creationDate" : "2010-04-01T13:19:23.049+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.linguistics.ucla.edu/people/grads/kobele/Diss/Kobele06GeneratingCopies.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4639b3a0fd92b1546fb8a2be5dda988e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.linguistics.ucla.edu/people/grads/kobele/Diss/Kobele06GeneratingCopies.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405730",
+    "name" : "copies_kobele2006_s.pdf",
+    "creationDate" : "2010-04-01T13:19:32.751+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8CC1-E",
+    "content" : "/rest/items/item_405731_4/component/file_405730/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8328ff28d87123e347b411e2b2dbdf0d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1785750,
+    "metadata" : {
+      "title" : "copies_kobele2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1785750
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

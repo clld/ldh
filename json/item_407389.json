@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_407389",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:04:34.765+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-95E8-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:04:34.765+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-95E8-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:12:45.877+0000",
+  "latestRelease" : {
+    "objectId" : "item_407389",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:04:34.765+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-95E8-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407389",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:04:34.765+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-95E8-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Types of reduplication : a case study of Bikol",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Mattes, Veronika",
+        "givenName" : "Veronika",
+        "familyName" : "Mattes",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38659",
+      "type" : "OTHER"
+    }, {
+      "id" : "bikol_mattes2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Graz",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PL5582,\nLoC Subject Headings: Bikol language",
+    "totalNumberOfPages" : "vii, 269 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407387",
+    "name" : "http://reduplication.uni-graz.at/online_publ.html",
+    "creationDate" : "2010-04-01T14:12:45.429+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-95E6-D",
+    "content" : "http://reduplication.uni-graz.at/online_publ.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "fb49a9a5da6fc212c27dad97eeeed9e3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://reduplication.uni-graz.at/online_publ.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407388",
+    "name" : "bikol_mattes2007_s.pdf",
+    "creationDate" : "2010-04-01T14:12:45.590+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-95E7-B",
+    "content" : "/rest/items/item_407389_2/component/file_407388/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "115151ef677866af4f828526875ed5b9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2432650,
+    "metadata" : {
+      "title" : "bikol_mattes2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2432650
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

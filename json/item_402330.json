@@ -1,0 +1,157 @@
+{
+  "objectId" : "item_402330",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-06-20T07:50:13.069+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-C1EE-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-06-20T07:50:13.069+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7893-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:30:14.794+0000",
+  "latestRelease" : {
+    "objectId" : "item_402330",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-20T07:50:13.069+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-C1EE-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402330",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-20T07:50:13.069+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-C1EE-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammaire kurde",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Paul",
+        "familyName" : "Beidar",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1926",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29657",
+      "type" : "OTHER"
+    }, {
+      "id" : "kurde_beidar1926_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Paris",
+      "publisher" : "Geuthner"
+    },
+    "freeKeywords" : "LoC Class: PK6904, LoC Subject Headings: Kurdish language",
+    "subjects" : [ {
+      "value" : "kmr - Kurdish, Northern",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "77 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PK6904,\nLoC Subject Headings: Kurdish language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402329",
+    "name" : "kurde_beidar1926_o.pdf",
+    "creationDate" : "2010-04-01T11:30:14.559+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7892-4",
+    "content" : "/rest/items/item_402330_3/component/file_402329/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "707f697a325152ecef996278fcdcfe72",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1911726,
+    "metadata" : {
+      "title" : "kurde_beidar1926_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1911726
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2034107",
+    "name" : "http://bnk.institutkurde.org/catalogue/detail.php?pirtuk=430",
+    "creationDate" : "2014-06-20T07:49:44.395+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-C1EF-4",
+    "content" : "http://bnk.institutkurde.org/catalogue/detail.php?pirtuk=430",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "44ae2de424c3d8b85364e03c44168521",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://bnk.institutkurde.org/catalogue/detail.php?pirtuk=430",
+      "contentCategory" : "publisher-version",
+      "description" : "Institut kurde de Paris, Bibliothèque numérique kurde, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2034108",
+    "name" : "http://bnk.institutkurde.org/images/pdf/QA3HRY25JU.pdf",
+    "creationDate" : "2014-06-20T07:49:44.619+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-C1F0-F",
+    "content" : "http://bnk.institutkurde.org/images/pdf/QA3HRY25JU.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c5de756ff9e37e5f0fd55cf8648c30fc",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://bnk.institutkurde.org/images/pdf/QA3HRY25JU.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "direct link to pdf-version",
+      "size" : 0
+    }
+  } ]
+}

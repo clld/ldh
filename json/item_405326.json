@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_405326",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:33:59.192+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8A7D-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:33:59.192+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8A7D-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:07:18.294+0000",
+  "latestRelease" : {
+    "objectId" : "item_405326",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:33:59.192+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A7D-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405326",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:33:59.192+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A7D-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The vowel system of Moloko",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Bow, Catherine",
+        "givenName" : "Catherine",
+        "familyName" : "Bow",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1999",
+    "datePublishedInPrint" : "1999",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34654",
+      "type" : "OTHER"
+    }, {
+      "id" : "moloko_bow1999_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Melbourne",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PL8021.C35,\nLoC Subject Headings: Cameroon --Languages",
+    "subjects" : [ {
+      "value" : "mlw - Moloko",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "43 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405324",
+    "name" : "http://www.pnglanguages.org/africa/cameroun/bydomain/linguistics/theses/bow_thesis.pdf",
+    "creationDate" : "2010-04-01T13:07:17.662+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A7B-7",
+    "content" : "http://www.pnglanguages.org/africa/cameroun/bydomain/linguistics/theses/bow_thesis.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.pnglanguages.org/africa/cameroun/bydomain/linguistics/theses/bow_thesis.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405325",
+    "name" : "moloko_bow1999_s.pdf",
+    "creationDate" : "2010-04-01T13:07:18.190+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A7C-5",
+    "content" : "/rest/items/item_405326_2/component/file_405325/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3b781bdd8a785bd9023945ce61af6e3f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 327941,
+    "metadata" : {
+      "title" : "moloko_bow1999_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 327941
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

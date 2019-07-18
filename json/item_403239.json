@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_403239",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-11T11:26:14.806+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-68B4-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-11T11:26:14.806+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7DED-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:05:27.701+0000",
+  "latestRelease" : {
+    "objectId" : "item_403239",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T11:26:14.806+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-68B4-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403239",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T11:26:14.806+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-68B4-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Subjects, events and licensing",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Heidi Britton",
+        "familyName" : "Harley",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1995",
+    "datePublishedInPrint" : "1995",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31098",
+      "type" : "OTHER"
+    }, {
+      "id" : "licensing_harley1995_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : " Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P291, LoC Subject Headings: Grammar/Comparative and general",
+    "totalNumberOfPages" : "236 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403238",
+    "name" : "licensing_harley1995_o.pdf",
+    "creationDate" : "2010-04-01T12:05:26.536+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7DEC-3",
+    "content" : "/rest/items/item_403239_3/component/file_403238/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fc037a3e30672d477b867e86f9abd142",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12077695,
+    "metadata" : {
+      "title" : "licensing_harley1995_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12077695
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110924",
+    "name" : "http://hdl.handle.net/1721.1/11073",
+    "creationDate" : "2015-03-11T11:25:37.085+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/11073",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a22978eb988eba256d0fe72d52208d33",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/11073",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

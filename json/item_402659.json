@@ -1,0 +1,161 @@
+{
+  "objectId" : "item_402659",
+  "versionNumber" : 6,
+  "modificationDate" : "2011-05-31T09:33:22.556+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7A5E-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:33:22.556+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7A5E-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:35:49.561+0000",
+  "latestRelease" : {
+    "objectId" : "item_402659",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T09:33:22.556+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7A5E-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402659",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T09:33:22.556+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7A5E-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Turkmen - English dictionary : a SPA project of Peace Corps Turkmenistan",
+    "creators" : [ {
+      "organization" : {
+        "identifier" : "ou_persistent22",
+        "name" : "United States / Peace Corps",
+        "identifierPath" : [ "ou_persistent22" ]
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    }, {
+      "person" : {
+        "givenName" : "Jonathan",
+        "familyName" : "Garrett",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Greg",
+        "familyName" : "Lastowka",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30238",
+      "type" : "OTHER"
+    }, {
+      "id" : "turkmendict_garret1996_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[Ashgabat]",
+      "publisher" : "[Peace Corps Turkmenistan]"
+    },
+    "freeKeywords" : "LoC Subject Headings: Turkish language",
+    "subjects" : [ {
+      "value" : "tuk - Turkmen",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VII, 152 S.",
+    "abstracts" : [ {
+      "value" : "PL191, ISO 639-3 : tuk ,  ISO 639-3 : eng, Turkish language --Dictionaries --English"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402657",
+    "name" : "http://www.chaihana.com/dict.pdf",
+    "creationDate" : "2010-04-01T11:35:47.355+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A5C-0",
+    "content" : "http://www.chaihana.com/dict.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.chaihana.com/dict.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Turkmenistan Chaihana",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402658",
+    "name" : "turkmendict_garret1996_s.pdf",
+    "creationDate" : "2010-04-01T11:35:49.385+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A5D-E",
+    "content" : "/rest/items/item_402659_6/component/file_402658/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9ec2363822dc14b97c9e0f4130ac96c8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1170262,
+    "metadata" : {
+      "title" : "turkmendict_garret1996_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1170262,
+      "license" : "http://creativecommons.org/licenses/by-nc/3.0/de/deed.en"
+    }
+  } ]
+}

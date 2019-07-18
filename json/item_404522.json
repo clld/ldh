@@ -1,0 +1,112 @@
+{
+  "objectId" : "item_404522",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-05-19T06:59:13.392+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-D08E-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-19T06:59:13.392+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-85FA-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:43:00.162+0000",
+  "latestRelease" : {
+    "objectId" : "item_404522",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-05-19T06:59:13.392+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D08E-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404522",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-05-19T06:59:13.392+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D08E-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Of the origin and progress of language : Vol.I",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "James Burnet",
+        "familyName" : "Monboddo",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1774",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "33389",
+      "type" : "OTHER"
+    }, {
+      "id" : "language_moriboddo1774_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "Second ed. With large additions and              corrections.",
+      "place" : "Edinburgh",
+      "publisher" : "Printed for J. Balfour, Edinburgh; and T. Cadell, London"
+    },
+    "freeKeywords" : "loC Class: P101, LoC Subject Headings: Language and languages--Origin",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "x,xi,[1],678 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404521",
+    "name" : "language_moriboddo1774_o.pdf",
+    "creationDate" : "2010-04-01T12:42:57.711+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-85F9-4",
+    "content" : "/rest/items/item_404522_5/component/file_404521/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "19bc9ba10bab6f4ea459313e2eec740f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 25735695,
+    "metadata" : {
+      "title" : "language_moriboddo1774_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 25735695
+    }
+  } ]
+}

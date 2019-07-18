@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_405413",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-05T06:49:34.933+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C683-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert , Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-05T06:49:34.933+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8AF2-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:12:11.646+0000",
+  "latestRelease" : {
+    "objectId" : "item_405413",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-05T06:49:34.933+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C683-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405413",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-05T06:49:34.933+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C683-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A reference grammar of Pashto",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Habibullah",
+        "familyName" : "Tegey",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Barbara",
+        "familyName" : "Robson"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34788",
+      "type" : "OTHER"
+    }, {
+      "id" : "pashto_tegey1996_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Washington, DC",
+      "publisher" : "Center for Applied Linguistics"
+    },
+    "freeKeywords" : "LoC Class: PK6791, LoC Subject Headings: Pushto language",
+    "subjects" : [ {
+      "value" : "pbu - Northern Pashto",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "pbt - Southern Pashto",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XIII, 230 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405412",
+    "name" : "pashto_tegey1996_o.pdf",
+    "creationDate" : "2010-04-01T13:12:11.029+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8AF1-E",
+    "content" : "/rest/items/item_405413_4/component/file_405412/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f84547b39343d4251b0c99a66a8411e9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5961469,
+    "metadata" : {
+      "title" : "pashto_tegey1996_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5961469
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2149586",
+    "name" : "http://eric.ed.gov/?q=reference+grammar+of+Pashto&id=ED399825",
+    "creationDate" : "2015-05-05T06:48:00.010+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://eric.ed.gov/?q=reference+grammar+of+Pashto&id=ED399825",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2664fefb130c8e6e76fea88fb553e012",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eric.ed.gov/?q=reference+grammar+of+Pashto&id=ED399825",
+      "contentCategory" : "publisher-version",
+      "description" : "The Education Resources Information Center (ERIC) , Collection , pdf download",
+      "size" : 0
+    }
+  } ]
+}

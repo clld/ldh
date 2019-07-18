@@ -1,0 +1,158 @@
+{
+  "objectId" : "item_405151",
+  "versionNumber" : 7,
+  "modificationDate" : "2014-09-09T09:40:59.511+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-CCC6-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "bibliografische Beschreibung korrigiert, weiterführende Information ergänzt",
+  "lastModificationDate" : "2014-09-09T09:40:59.511+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8988-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:56:18.420+0000",
+  "latestRelease" : {
+    "objectId" : "item_405151",
+    "versionNumber" : 7,
+    "modificationDate" : "2014-09-09T09:40:59.511+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-CCC6-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405151",
+    "versionNumber" : 7,
+    "modificationDate" : "2014-09-09T09:40:59.511+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-CCC6-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Abkhazian and Georgian languages for the learners  : Vol. II ; Georgian grammar manual, Georgian-Abkhazian dictionary\n\n",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Teimuraz",
+        "familyName" : "Gvantseladze",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2003",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34370",
+      "type" : "OTHER"
+    }, {
+      "id" : "georgian_gvantseladze2003_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "99940-718-8-2",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "kat", "abk" ],
+    "publishingInfo" : {
+      "place" : "Tbilisi",
+      "publisher" : "Kartuli ena [u.a.]"
+    },
+    "freeKeywords" : "LoC Subject Headings: Georgian language",
+    "subjects" : [ {
+      "value" : "kat - Georgian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "248 S.",
+    "abstracts" : [ {
+      "value" : "LoC Subject Headings: Georgian language--Grammar, Georgian language--Dictionaries--Abkhaz"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405150",
+    "name" : "georgian_gvantseladze2003_s.pdf",
+    "creationDate" : "2010-04-01T12:56:18.221+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8987-4",
+    "content" : "/rest/items/item_405151_7/component/file_405150/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "027e19b9e3401c63ea3e357888d53757",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1484658,
+    "metadata" : {
+      "title" : "georgian_gvantseladze2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1484658
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2053129",
+    "name" : "http://abkhazology.files.wordpress.com/2010/05/13634835-georgianabkhaziangrammar.pdf",
+    "creationDate" : "2014-08-27T12:53:19.617+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://abkhazology.files.wordpress.com/2010/05/13634835-georgianabkhaziangrammar.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0cead642cbf634a13c3600bc8104f545",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://abkhazology.files.wordpress.com/2010/05/13634835-georgianabkhaziangrammar.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Abkhazology wordpress blog (Georgian), contains only 'Georgian grammar manual', pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2056327",
+    "name" : "http://portal.unesco.org/ci/en/ev.php-URL_ID=16588&URL_DO=DO_TOPIC&URL_SECTION=201.html",
+    "creationDate" : "2014-09-09T09:37:48.190+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://portal.unesco.org/ci/en/ev.php-URL_ID=16588&URL_DO=DO_TOPIC&URL_SECTION=201.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5b3ff4d82ee2191c7cd9da875e79a76e",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://portal.unesco.org/ci/en/ev.php-URL_ID=16588&URL_DO=DO_TOPIC&URL_SECTION=201.html",
+      "contentCategory" : "supplementary-material",
+      "description" : "UNESCO.org, Project on Endangerd Languages in South Caucasus, project information",
+      "size" : 0
+    }
+  } ]
+}

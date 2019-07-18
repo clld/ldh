@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_403196",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-12T09:17:32.837+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CC3C-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-05-12T09:17:32.837+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7DAB-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:03:29.841+0000",
+  "latestRelease" : {
+    "objectId" : "item_403196",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-12T09:17:32.837+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CC3C-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403196",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-12T09:17:32.837+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CC3C-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "On the interaction of morphology and syntax",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ann Kathleen",
+        "familyName" : "Farmer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1980",
+    "datePublishedInPrint" : "1980",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31071",
+      "type" : "OTHER"
+    }, {
+      "id" : "interaction_farmer1980_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Institute of Technology"
+    },
+    "freeKeywords" : "LoC Class: PL561, LoC Subject Headings: Japanese language",
+    "subjects" : [ {
+      "value" : "jpn - Japanese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "224 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403195",
+    "name" : "interaction_farmer1980_o.pdf",
+    "creationDate" : "2010-04-01T12:03:28.894+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7DAA-8",
+    "content" : "/rest/items/item_403196_4/component/file_403195/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "72fc74decb2d5ff647416e8fa5d9275a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9564137,
+    "metadata" : {
+      "title" : "interaction_farmer1980_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9564137
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2152244",
+    "name" : "http://hdl.handle.net/1721.1/16064",
+    "creationDate" : "2015-05-12T09:16:58.602+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/16064",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9798d33f32105edda4c4055d22fc008d",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/16064",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

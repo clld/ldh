@@ -1,0 +1,119 @@
+{
+  "objectId" : "item_404070",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T09:48:11.633+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8366-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:48:11.633+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8366-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:34:04.035+0000",
+  "latestRelease" : {
+    "objectId" : "item_404070",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:48:11.633+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8366-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404070",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:48:11.633+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8366-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Toponimia en el Gran Pajonal con especial atención a los topónimos de afiliación ashaninka",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Romani Miranda, Maggie Mabell",
+        "givenName" : "Maggie Mabell",
+        "familyName" : "Romani Miranda",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32215",
+      "type" : "OTHER"
+    }, {
+      "id" : "ashaninka_romani2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "place" : "Lima",
+      "publisher" : "Univ.Nacional Mayor de San Marcos"
+    },
+    "freeKeywords" : "LoC Subject Headings: Campa language",
+    "subjects" : [ {
+      "value" : "cni - Asháninka",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "122 S.",
+    "abstracts" : [ {
+      "value" : "PM5716.Z5, ISO 639-3 : cni, Campa language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404069",
+    "name" : "ashaninka_romani2004_s.pdf",
+    "creationDate" : "2010-04-01T12:34:03.655+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8365-4",
+    "content" : "/rest/items/item_404070_3/component/file_404069/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d5c03af6b9f4a46d178566c95733337e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3367450,
+    "metadata" : {
+      "title" : "ashaninka_romani2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3367450,
+      "copyrightDate" : "28.08.2010",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_402447",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T08:19:05.614+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA66-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T08:19:05.614+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7934-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:31:48.042+0000",
+  "latestRelease" : {
+    "objectId" : "item_402447",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:19:05.614+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA66-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402447",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:19:05.614+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA66-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Ikonizität in Personalpronomina",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Johannes",
+        "familyName" : "Helmbrecht",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2003",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29912",
+      "type" : "OTHER"
+    }, {
+      "id" : "personalpronomina_helmbrecht2003_s              .html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Erfurt",
+      "publisher" : "Univ."
+    },
+    "sources" : [ {
+      "title" : "ASSidUE",
+      "volume" : "05",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P279, LoC Subject Headings: Grammar/Comparative and general--Pronoun",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "24 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402445",
+    "name" : "http://www.db-thueringen.de/servlets/DerivateServlet/Derivate-1769/ASSidUE05.pdf",
+    "creationDate" : "2010-04-01T11:31:47.774+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7932-3",
+    "content" : "http://www.db-thueringen.de/servlets/DerivateServlet/Derivate-1769/ASSidUE05.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "13c9c50f29deb0ec7f9d786c4345b2d8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.db-thueringen.de/servlets/DerivateServlet/Derivate-1769/ASSidUE05.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402446",
+    "name" : "personalpronomina_helmbrecht2003_s.pdf",
+    "creationDate" : "2010-04-01T11:31:47.966+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7933-1",
+    "content" : "/rest/items/item_402447_4/component/file_402446/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "42c9121111b88586fc4f8ebcf5d8c9b7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 161884,
+    "metadata" : {
+      "title" : "personalpronomina_helmbrecht2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 161884
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

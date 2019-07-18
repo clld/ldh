@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_401373",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-05-06T11:30:32.451+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C7BD-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-06T11:30:32.451+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-72F8-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:10:47.955+0000",
+  "latestRelease" : {
+    "objectId" : "item_401373",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-05-06T11:30:32.451+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7BD-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401373",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-05-06T11:30:32.451+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7BD-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Análise do Wörterbuch der Botokudensprache",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Chavedar",
+        "familyName" : "Araújo",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1992",
+    "datePublishedInPrint" : "1992",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "26514",
+      "type" : "OTHER"
+    }, {
+      "id" : "botokudensprache_araujo1992_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "place" : "Campinas",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM5641, LoC Subject Headings: Indians of South America--Brazil--Languages, LoC Subject Headings: Botocudo Indians--Language",
+    "subjects" : [ {
+      "value" : "kqq - Krenak",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "114, 9, 4 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401371",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000038507",
+    "creationDate" : "2010-04-01T11:10:45.368+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000038507",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ac421ea415f55cca20b6095f0139b18c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000038507",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. Estadual de Campinas (UNICAMP), Biblioteca Digital, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401372",
+    "name" : "botokudensprache_araujo1992_o.pdf",
+    "creationDate" : "2010-04-01T11:10:47.618+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-72F7-3",
+    "content" : "/rest/items/item_401373_6/component/file_401372/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "58989d5fd34377bba48f34ea1d7876ca",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2911981,
+    "metadata" : {
+      "title" : "botokudensprache_araujo1992_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2911981
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

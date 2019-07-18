@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_400337",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-03-12T16:49:24.827+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6DF7-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T16:49:24.827+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6CC0-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:45:30.322+0000",
+  "latestRelease" : {
+    "objectId" : "item_400337",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-12T16:49:24.827+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6DF7-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400337",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-12T16:49:24.827+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6DF7-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of San Miguel Chimalapa Zoque",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Heidi Anna",
+        "familyName" : "Johnson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedOnline" : "2000",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "17651",
+      "type" : "OTHER"
+    }, {
+      "id" : "zoque_johnson2000_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Austin",
+      "publisher" : "Univ. of Texas"
+    },
+    "freeKeywords" : "LoC Class: PM4556, LoC Subject Headings: Zoque language--Mexico--Chimalapa, LoC Subject Headings: Zoque language--Mexico--Chimalapa",
+    "subjects" : [ {
+      "value" : "zoh - Chimalapa Zoque",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xv, 424 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400336",
+    "name" : "zoque_johnson2000_s.pdf",
+    "creationDate" : "2010-04-01T10:45:29.897+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6CBF-0",
+    "content" : "/rest/items/item_400337_6/component/file_400336/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "966d7fd9df413f03bdd7f9b7b182647f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4072884,
+    "metadata" : {
+      "title" : "zoque_johnson2000_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4072884
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2032852",
+    "name" : "http://linguistics.buffalo.edu/people/faculty/vanvalin/rrg.html",
+    "creationDate" : "2014-06-12T06:55:01.270+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://linguistics.buffalo.edu/people/faculty/vanvalin/rrg.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6ed8e2c2c019b357bc4845a09d2362fc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://linguistics.buffalo.edu/people/faculty/vanvalin/rrg.html",
+      "contentCategory" : "publisher-version",
+      "description" : "List of Dissertations for downloading, Johnson, Heidi Anna (2000) (zip archive)",
+      "size" : 0
+    }
+  } ]
+}

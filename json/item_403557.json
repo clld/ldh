@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403557",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T11:41:22.882+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8017-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:41:22.882+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8017-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:39.735+0000",
+  "latestRelease" : {
+    "objectId" : "item_403557",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:41:22.882+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8017-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403557",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:41:22.882+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8017-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Oku verb morphology : tense aspect and mood",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Nforbi, Emmanuel",
+        "givenName" : "Emmanuel",
+        "familyName" : "Nforbi",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1993",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31390",
+      "type" : "OTHER"
+    }, {
+      "id" : "oku_nforbi1993_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "publisher" : "Université de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Oku language",
+    "subjects" : [ {
+      "value" : "oku - Oku",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 92 S.",
+    "abstracts" : [ {
+      "value" : "PL8219, ISO 639-3 : oku, Oku language, Grasslands Bantu languages -- Cameroon"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403556",
+    "name" : "oku_nforbi1993_o.pdf",
+    "creationDate" : "2010-04-01T12:19:39.398+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8016-0",
+    "content" : "/rest/items/item_403557_3/component/file_403556/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2981778d8012bf9a6be98e6e3a84c513",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3008029,
+    "metadata" : {
+      "title" : "oku_nforbi1993_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3008029,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

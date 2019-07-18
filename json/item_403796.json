@@ -1,0 +1,146 @@
+{
+  "objectId" : "item_403796",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:48:26.209+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-81DA-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:48:26.209+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-81DA-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:24:40.742+0000",
+  "latestRelease" : {
+    "objectId" : "item_403796",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:48:26.209+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-81DA-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403796",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:48:26.209+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-81DA-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Introduction to Bengali : part I",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Dimock, Edward C.",
+        "givenName" : "Edward C.",
+        "familyName" : "Dimock",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Somdev",
+        "familyName" : "Bhattacharji"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1964",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31732",
+      "type" : "OTHER"
+    }, {
+      "id" : "bengali_dimock1964_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Honolulu",
+      "publisher" : "East-West Center Press"
+    },
+    "sources" : [ {
+      "title" : "Asian language series",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PK1662",
+    "subjects" : [ {
+      "value" : "ben - Bengali",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xv, 383 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403794",
+    "name" : "http://dsal.uchicago.edu/digbooks/dig_toc.html?BOOKID=PK1663.D6_1976",
+    "creationDate" : "2010-04-01T12:24:37.911+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-81D8-1",
+    "content" : "http://dsal.uchicago.edu/digbooks/dig_toc.html?BOOKID=PK1663.D6_1976",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c7bb3321e9eb5ca538150368159e51c2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dsal.uchicago.edu/digbooks/dig_toc.html?BOOKID=PK1663.D6_1976",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403795",
+    "name" : "bengali_dimock1964_o.pdf",
+    "creationDate" : "2010-04-01T12:24:38.782+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-81D9-0",
+    "content" : "/rest/items/item_403796_2/component/file_403795/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "734f6b7060ab260d86064be213a8e01b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 20334998,
+    "metadata" : {
+      "title" : "bengali_dimock1964_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 20334998
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

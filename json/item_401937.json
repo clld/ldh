@@ -1,0 +1,156 @@
+{
+  "objectId" : "item_401937",
+  "versionNumber" : 7,
+  "modificationDate" : "2015-03-18T12:11:14.539+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7AB3-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter aktualisiert",
+  "lastModificationDate" : "2015-03-18T12:11:14.539+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7630-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:23:18.464+0000",
+  "latestRelease" : {
+    "objectId" : "item_401937",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-03-18T12:11:14.539+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7AB3-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401937",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-03-18T12:11:14.539+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7AB3-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Constraint-ranked derivation : A serial approach to optimization",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "H. Andrew",
+        "familyName" : "Black",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedOnline" : "2006",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "28728",
+      "type" : "OTHER"
+    }, {
+      "id" : "978-1-55671-175-6",
+      "type" : "ISBN"
+    }, {
+      "id" : "optimalization_black2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Dallas]",
+      "publisher" : "SIL International"
+    },
+    "sources" : [ {
+      "title" : "SIL e-Books",
+      "creators" : [ {
+        "organization" : {
+          "identifier" : "ou_persistent22",
+          "name" : "SIL International",
+          "identifierPath" : [ "ou_persistent22" ]
+        },
+        "role" : "EDITOR",
+        "type" : "ORGANIZATION"
+      } ],
+      "volume" : "1",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P236, LoC Subject Headings: Distinctive features (Linguistics), LoC Subject Headings: Grammar/Comparative and general--Phonology, LoC Subject Headings: Tepehuan language, LoC Subject Headings: Campa languages, LoC Subject Headings: Optimality theory (Linguistics)",
+    "subjects" : [ {
+      "value" : "stp - Southeastern Tepehuan",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "cpu - Pichis Ashéninka",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix, 186 S.",
+    "abstracts" : [ {
+      "value" : "This study is a slightly revised version of the author's 1993 Ph.D. dissertation, University of California at Santa Cruz. \n\nGenerative Phonological theory has shifted from a focus on ordered rules to well-formedness constraints, giving rise to Optimality Theory, wherein to resolve the conflict between constraints, the constraints are ranked with respect to each other. Lower-ranked constraints are allowed to be violated in order to meet higher-ranked constraints. The output that best satisfies the set of ranked and violable constraints is the optimal representation of the grammar.\n\nThis study set out to apply these insights of optimization to two sets of data, and in addition, to computationally implement the analyses. Such an implementation provides rigor and precision. Due to uncertainties about how to implement the candidate set generator, an alternative approach to optimization, Constraint-Ranked Derivation, is proposed. Constraints and processes are conceived of as distinct but closely interrelated modules. It is much more in line with the traditional view of a derivation, where processes are applied sequentially to a representation.\n\nBy applying Constraint-Ranked Derivation to some challenging truncation processes in Southeastern Tepehuan, besides demonstrating the viability of this serial approach, an instantiation of the role of binarity in stem well-formedness is also included. The approach to optimization is shown to handle the data well.\n\nThen the intriguing perturbations of stress in Pichis Asheninca provide another case for testing the proposed approach to optimization. In addition to shedding light on the relation between footing and prominence, the approach to handling the attested optionality in the data is evaluated. The success of the experiment to handle all crucial aspects of the Southeastern Tepehuan and Pichis Asheninca data confirms the viability of this modular approach to optimization.\n"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401936",
+    "name" : "optimalization_black2006_s.pdf",
+    "creationDate" : "2010-04-01T11:23:18.298+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-762F-3",
+    "content" : "/rest/items/item_401937_7/component/file_401936/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2751eb7e508475ba1879b20e35e30e88",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 863390,
+    "metadata" : {
+      "title" : "optimalization_black2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 863390
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2033108",
+    "name" : "http://www.sil.org/resources/archives/9244",
+    "creationDate" : "2014-06-13T08:57:10.809+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/9244",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7f3fb59b06348a3f32a0651d713dedfd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/9244",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, SIL e-Books, pdf",
+      "size" : 0
+    }
+  } ]
+}

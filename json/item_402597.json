@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_402597",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T10:39:55.370+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7A02-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:39:55.370+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7A02-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:34:49.998+0000",
+  "latestRelease" : {
+    "objectId" : "item_402597",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:39:55.370+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7A02-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402597",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:39:55.370+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7A02-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Mi no sal tron tongo : early Sranan in court records 1667 - 1767",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Berg, Margot van den",
+        "givenName" : "Margot van den",
+        "familyName" : "Berg",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30032",
+      "type" : "OTHER"
+    }, {
+      "id" : "sranan_berg2000_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Nijmegen",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM7875.S671,\nLoC Subject Headings: Sranan language --Grammar",
+    "subjects" : [ {
+      "value" : "srn - Sranan Tongo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "109 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402595",
+    "name" : "http://home.hum.uva.nl/oz/vandenbergm/website%20-%20nieuw!/web-scriptie.pdf",
+    "creationDate" : "2010-04-01T11:34:49.327+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A00-B",
+    "content" : "http://home.hum.uva.nl/oz/vandenbergm/website%20-%20nieuw!/web-scriptie.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7112882276b4146e1e2c77658b1be214",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://home.hum.uva.nl/oz/vandenbergm/website%20-%20nieuw!/web-scriptie.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Margot van den Berg's website. Universiteit van Amsterdam",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402596",
+    "name" : "sranan_berg2000_s.pdf",
+    "creationDate" : "2010-04-01T11:34:49.852+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A01-9",
+    "content" : "/rest/items/item_402597_3/component/file_402596/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3be4346981c65c480241bdb04ddf174f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 767819,
+    "metadata" : {
+      "title" : "sranan_berg2000_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 767819
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

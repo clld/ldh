@@ -1,0 +1,154 @@
+{
+  "objectId" : "item_402441",
+  "versionNumber" : 6,
+  "modificationDate" : "2011-05-31T09:41:22.074+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7928-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:41:22.074+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7928-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:31:45.461+0000",
+  "latestRelease" : {
+    "objectId" : "item_402441",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T09:41:22.074+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7928-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402441",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T09:41:22.074+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7928-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vana Peema : Nentenyey'a Nelhpaqmeesma Nempeema ; guía del Maestro Maskoy para el Aprendizaje del Idioma Guaná",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ernesto",
+        "familyName" : "Unruh",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Hannes",
+        "familyName" : "Kalisch",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1999",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "99925-256-4",
+      "type" : "ISBN"
+    }, {
+      "id" : "peema_unruh1999_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ya’alve-Saanga",
+      "publisher" : "Nengvaanemquescama Nempayvaam Enlhet"
+    },
+    "freeKeywords" : "LoC Subject Headings: Guana language",
+    "subjects" : [ {
+      "type" : "ISO639_3"
+    }, {
+      "value" : "gva - Guana",
+      "type" : "ISO639_3"
+    } ],
+    "tableOfContents" : "Lecciónes 1 a 16",
+    "totalNumberOfPages" : "82 S.",
+    "abstracts" : [ {
+      "value" : "PM6351.Z77 V36, ISO 639-3 : gva , Guana language -- Texts"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402439",
+    "name" : "http://www.enlhet.org/pdf/12.pdf",
+    "creationDate" : "2010-04-01T11:31:45.061+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7926-0",
+    "content" : "http://www.enlhet.org/pdf/12.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "db0445ac6fbdae530e99f65906fedf66",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.enlhet.org/pdf/12.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Nengvaanemquescama Nempayvaam Enlhet",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402440",
+    "name" : "peema_unruh1999_s.pdf",
+    "creationDate" : "2010-04-01T11:31:45.331+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7927-E",
+    "content" : "/rest/items/item_402441_6/component/file_402440/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c6b0693f00c5e99386142aae205c474c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 377114,
+    "metadata" : {
+      "title" : "peema_unruh1999_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 377114,
+      "copyrightDate" : "2011-01-18",
+      "license" : "http://creativecommons.org/licenses/by-nc-nd/3.0/de/deed.en"
+    }
+  } ]
+}

@@ -1,0 +1,171 @@
+{
+  "objectId" : "item_406283",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-11T09:07:58.514+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-1F89-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-11T09:07:58.514+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8FCC-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:34:27.215+0000",
+  "latestRelease" : {
+    "objectId" : "item_406283",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T09:07:58.514+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-1F89-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406283",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T09:07:58.514+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-1F89-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammatik und Interaktion : Untersuchungen zum Zusammenhang von grammatischen Strukturen und Gesprächsprozessen",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Arnulf",
+        "familyName" : "Deppermann",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2006",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "36641",
+      "type" : "OTHER"
+    }, {
+      "id" : "grammatik_deppermann2006_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "ISBN 3-936656-26-6",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Radolfzell am Bodensee",
+      "publisher" : "Verl. für Gesprächsforschung"
+    },
+    "freeKeywords" : "LoC Class: P201, LoC Subject Headings: Grammar/Comparative and general",
+    "totalNumberOfPages" : "356 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406281",
+    "name" : "http://www.verlag-gespraechsforschung.de/2006/pdf/grammatik.pdf",
+    "creationDate" : "2010-04-01T13:34:22.973+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8FCA-2",
+    "content" : "http://www.verlag-gespraechsforschung.de/2006/pdf/grammatik.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "369117a897cedec8491776bc9dcab759",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.verlag-gespraechsforschung.de/2006/pdf/grammatik.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406282",
+    "name" : "grammatik_deppermann2006_s.pdf",
+    "creationDate" : "2010-04-01T13:34:26.867+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8FCB-F",
+    "content" : "/rest/items/item_406283_3/component/file_406282/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "369117a897cedec8491776bc9dcab759",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2961022,
+    "metadata" : {
+      "title" : "grammatik_deppermann2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2961022
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110836",
+    "name" : "http://www.verlag-gespraechsforschung.de/2006/deppermann.htm",
+    "creationDate" : "2015-03-11T09:04:49.791+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.verlag-gespraechsforschung.de/2006/deppermann.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "042c3ec251f6afb3a15f885e742444ad",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.verlag-gespraechsforschung.de/2006/deppermann.htm",
+      "contentCategory" : "publisher-version",
+      "description" : "Verlag für Gesprächsforschung Dr. Martin Hartung, download pdf, full text, audio material, chapters",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2110837",
+    "name" : "http://www.verlag-gespraechsforschung.de/2006/pdf/grammatik.pdf",
+    "creationDate" : "2015-03-11T09:04:49.872+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.verlag-gespraechsforschung.de/2006/pdf/grammatik.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "369117a897cedec8491776bc9dcab759",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.verlag-gespraechsforschung.de/2006/pdf/grammatik.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Verlag für Gesprächsforschung Dr. Martin Hartung, direct link to pdf full text version",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,119 @@
+{
+  "objectId" : "item_403483",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-13T00:04:48.225+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-715B-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T00:04:48.225+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7F7C-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:50.881+0000",
+  "latestRelease" : {
+    "objectId" : "item_403483",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T00:04:48.225+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-715B-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403483",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T00:04:48.225+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-715B-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Aspects of clefting in Lamnso'",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Mbiydzenyuy, Sala",
+        "givenName" : "Sala",
+        "familyName" : "Mbiydzenyuy",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1999",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31306",
+      "type" : "OTHER"
+    }, {
+      "id" : "lamnso_mbiydzenyuy1999_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yaoundé",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Subject Headings: Lamnso' language, LoC Subject Headings: Cameroon --Languages",
+    "subjects" : [ {
+      "value" : "lns - Lamnso",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "Yaoundé, Univ., M.A. Thesis, 1999",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : lns, Lamnso' language, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403482",
+    "name" : "lamnso_mbiydzenyuy1999_o.pdf",
+    "creationDate" : "2010-04-01T12:18:50.450+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7F7B-6",
+    "content" : "/rest/items/item_403483_4/component/file_403482/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c09b975f7c58af7bbfe42ab65c674ea1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3177256,
+    "metadata" : {
+      "title" : "lamnso_mbiydzenyuy1999_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3177256,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

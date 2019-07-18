@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_406419",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-18T11:51:38.633+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7AA8-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-18T11:51:38.633+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-908C-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:37:46.073+0000",
+  "latestRelease" : {
+    "objectId" : "item_406419",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-18T11:51:38.633+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7AA8-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406419",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-18T11:51:38.633+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7AA8-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A vocabulary of the Igorot language as spoken by the Bontok Igorots : Igorot-English and English-Igorot ",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Walter Clayton",
+        "familyName" : "Clapp",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1908",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "36883",
+      "type" : "OTHER"
+    }, {
+      "id" : "igorot_clapp1908.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Manila",
+      "publisher" : "Bureau of Printing"
+    },
+    "sources" : [ {
+      "title" : "Division of Ethnology Publications : Bureau of Science",
+      "volume" : "5,3",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL5733,\nLoC Subject Headings: Central Cordilleran languages, LoC Subject Headings: Bontoc language",
+    "subjects" : [ {
+      "value" : "bnc - Bontok",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "S. 143-236"
+  },
+  "files" : [ {
+    "objectId" : "file_406418",
+    "name" : "igorot_clapp1908.pdf",
+    "creationDate" : "2010-04-01T13:37:43.838+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-908B-7",
+    "content" : "/rest/items/item_406419_4/component/file_406418/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6c245e1f02669013d5a5df9a30ab291c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6293836,
+    "metadata" : {
+      "title" : "igorot_clapp1908.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6293836
+    }
+  }, {
+    "objectId" : "file_2104112",
+    "name" : "https://archive.org/details/atf7596.0001.001.umich.edu",
+    "creationDate" : "2015-02-25T12:22:27.285+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/atf7596.0001.001.umich.edu",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "56d30d951ad5bd32d8fbde35fd3d143c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/atf7596.0001.001.umich.edu",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org: Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

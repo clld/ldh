@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_403870",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:25:17.249+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8248-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:25:17.249+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8248-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:27:51.412+0000",
+  "latestRelease" : {
+    "objectId" : "item_403870",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:25:17.249+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8248-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403870",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:25:17.249+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8248-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Speaking Jukun : (Takum dialect - diyi)",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Welmers, [William Everett]",
+        "givenName" : "[William Everett]",
+        "familyName" : "Welmers",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1949",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31898",
+      "type" : "OTHER"
+    }, {
+      "id" : "jukun_welmers1949_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Lupwe",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL8301.1,\nLoC Subject Headings: Jukun language",
+    "subjects" : [ {
+      "value" : "jbu - Jukun Takum",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "[73 S.]"
+  },
+  "files" : [ {
+    "objectId" : "file_403868",
+    "name" : "http://www.uni-koeln.de/phil-fak/afrikanistik/down/jukun/JukunSpeaking.pdf",
+    "creationDate" : "2010-04-01T12:27:23.159+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8246-1",
+    "content" : "http://www.uni-koeln.de/phil-fak/afrikanistik/down/jukun/JukunSpeaking.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d5274f81a77211575e45a55a197e9433",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.uni-koeln.de/phil-fak/afrikanistik/down/jukun/JukunSpeaking.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403869",
+    "name" : "jukun_welmers1949_o.pdf",
+    "creationDate" : "2010-04-01T12:27:48.249+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8247-0",
+    "content" : "/rest/items/item_403870_2/component/file_403869/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b5410755555544d8af4d30a808d51d5f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 33667014,
+    "metadata" : {
+      "title" : "jukun_welmers1949_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 33667014
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

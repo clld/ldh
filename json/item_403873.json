@@ -1,0 +1,151 @@
+{
+  "objectId" : "item_403873",
+  "versionNumber" : 10,
+  "modificationDate" : "2015-03-13T02:07:22.875+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7250-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:07:22.875+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-824C-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:27:54.949+0000",
+  "latestRelease" : {
+    "objectId" : "item_403873",
+    "versionNumber" : 10,
+    "modificationDate" : "2015-03-13T02:07:22.875+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7250-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403873",
+    "versionNumber" : 10,
+    "modificationDate" : "2015-03-13T02:07:22.875+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7250-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Reise in den Kaukasus und nach Georgien : Unternommen in den Jahren 1807 und 1808, auf Veranstaltung der Kaiserlichen Akademie der Wissenschaften zu St. Petersburg. Enthaltend eine vollständige Beschreibung der kaukasischen Länder und ihrer Bewohner",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Julius",
+        "familyName" : "Klaproth",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1814",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31900",
+      "type" : "OTHER"
+    }, {
+      "id" : "kaukasus_klaproth1812.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "place" : "Halle",
+      "publisher" : "Buchhandlungen des Hallischen Waisenhauses"
+    },
+    "freeKeywords" : "LoC Class: PK9004, LoC Subject Headings: Caucasian languages, LoC Subject Headings: Lezgian languages, LoC Subject Headings: Chechen language, LoC Subject Headings: Ossetic language, LoC Subject Headings: Circassian languages, LoC Subject Headings: Abazin language, LoC Subject Headings: Svan language, LoC Subject Headings: Tatar language",
+    "subjects" : [ {
+      "value" : "lez - Lezgi",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "che - Chechen",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "oss - Ossetian; Ossetic",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "abq - Abaza",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "sva - Svan",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "tat - Tatar",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "626, 286 S.",
+    "abstracts" : [ {
+      "value" : "Includes 'Kaukasische Sprachen : Anhang zur Reise in den Kaukasus und nach Georgien' "
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_2083542",
+    "name" : "kaukasus_klaproth1812.pdf",
+    "creationDate" : "2015-01-16T13:27:53.705+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-92B5-D",
+    "content" : "/rest/items/item_403873_10/component/file_2083542/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fb78c5b8cf85297bfb3d8e2def682cfe",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 99978183,
+    "metadata" : {
+      "title" : "kaukasus_klaproth1812.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 99978183,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2083543",
+    "name" : "https://archive.org/details/bub_gb_Obk4AQAAIAAJ",
+    "creationDate" : "2015-01-16T13:27:55.065+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/bub_gb_Obk4AQAAIAAJ",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d190912b6eb007040103714664d0abb9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/bub_gb_Obk4AQAAIAAJ",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, view online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

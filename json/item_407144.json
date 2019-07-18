@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_407144",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-01-23T14:08:01.520+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-A25E-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-01-23T14:08:01.520+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9491-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:55:44.269+0000",
+  "latestRelease" : {
+    "objectId" : "item_407144",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-23T14:08:01.520+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A25E-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407144",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-23T14:08:01.520+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A25E-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammar of the New Zealand language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Robert",
+        "familyName" : "Maunsell",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1894",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37743",
+      "type" : "OTHER"
+    }, {
+      "id" : "maori_maunsell1894_o.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "edition" : "4th ed.",
+      "place" : "Auckland",
+      "publisher" : "Upton"
+    },
+    "freeKeywords" : "LoC Class: PL6465,\nLoC Subject Headings: Maori language",
+    "subjects" : [ {
+      "value" : "mri - Maori",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xvi, 162 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6465,\nLoC Subject Headings: Maori language --Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407142",
+    "name" : "http://www.archive.org/details/grammarofnewzeal00maunrich",
+    "creationDate" : "2010-04-01T13:55:41.661+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.archive.org/details/grammarofnewzeal00maunrich",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ee23635a95827f8a46e6e74515a837c5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/grammarofnewzeal00maunrich",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, read online & pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407143",
+    "name" : "maori_maunsell1894_o.pdf",
+    "creationDate" : "2010-04-01T13:55:42.790+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9490-8",
+    "content" : "/rest/items/item_407144_3/component/file_407143/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "68919406f4fcecf31861c658c2219dfd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 15391985,
+    "metadata" : {
+      "title" : "maori_maunsell1894_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 15391985,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

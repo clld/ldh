@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_404084",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-18T09:07:59.383+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-79FD-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-18T09:07:59.383+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-837C-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:34:42.259+0000",
+  "latestRelease" : {
+    "objectId" : "item_404084",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T09:07:59.383+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-79FD-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404084",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T09:07:59.383+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-79FD-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Sentence structures of the Au language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "David",
+        "familyName" : "Scorza",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1973",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "32222",
+      "type" : "OTHER"
+    }, {
+      "id" : "au2_scorza1973_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Workpapers in Papua New Guinea Languages",
+      "volume" : "1",
+      "startPage" : "165",
+      "endPage" : "246",
+      "publishingInfo" : {
+        "place" : "Ukarumpa",
+        "publisher" : "SIL"
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6603, LoC Subject Headings: Au language",
+    "subjects" : [ {
+      "value" : "avt - Au",
+      "type" : "ISO639_3"
+    } ],
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6603,\nLoC Subject Headings: Au language--Sentences"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404083",
+    "name" : "au2_scorza1973_o.pdf",
+    "creationDate" : "2010-04-01T12:34:41.984+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-837B-3",
+    "content" : "/rest/items/item_404084_3/component/file_404083/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b409d66f8934711736547ebbae51f811",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2123506,
+    "metadata" : {
+      "title" : "au2_scorza1973_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2123506
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116685",
+    "name" : "http://www-01.sil.org/pacific/png/abstract.asp?id=12270",
+    "creationDate" : "2015-03-18T09:07:20.099+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www-01.sil.org/pacific/png/abstract.asp?id=12270",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0925942acad71004a25e09e1c7c670b3",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www-01.sil.org/pacific/png/abstract.asp?id=12270",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Papua New Guinea, PNG Language resources, pdf download",
+      "size" : 0
+    }
+  } ]
+}

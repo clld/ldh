@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_405994",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-11T10:35:12.383+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6835-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-11T10:35:12.383+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8E3B-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:25:34.595+0000",
+  "latestRelease" : {
+    "objectId" : "item_405994",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T10:35:12.383+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6835-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405994",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T10:35:12.383+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6835-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Sound structure representation, repair and well-formedness : grammar in spoken language production",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Adam B.",
+        "familyName" : "Buchwald",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35595",
+      "type" : "OTHER"
+    }, {
+      "id" : "sound_buchwald2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Baltimore",
+      "publisher" : "The Johns Hopkins Univ."
+    },
+    "freeKeywords" : "LoC Class: P217.R55, LoC Subject Headings: Grammar/Comparative and general--Phonology",
+    "totalNumberOfPages" : "VIII, 136 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405992",
+    "name" : "http://web.jhu.edu/cogsci/templates/images/pdf/people/buchwald_wholediss_single.pdf",
+    "creationDate" : "2010-04-01T13:25:30.884+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E39-0",
+    "content" : "http://web.jhu.edu/cogsci/templates/images/pdf/people/buchwald_wholediss_single.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "748ce7971f7195319dff8efc991359ad",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://web.jhu.edu/cogsci/templates/images/pdf/people/buchwald_wholediss_single.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405993",
+    "name" : "sound_buchwald2005_s.pdf",
+    "creationDate" : "2010-04-01T13:25:34.143+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E3A-E",
+    "content" : "/rest/items/item_405994_3/component/file_405993/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8d419bcbf726d50f4fa68e7b2ab3c9f5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3409449,
+    "metadata" : {
+      "title" : "sound_buchwald2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3409449
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,117 @@
+{
+  "objectId" : "item_403549",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T09:53:49.781+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8007-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:53:49.781+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8007-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:35.429+0000",
+  "latestRelease" : {
+    "objectId" : "item_403549",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:53:49.781+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8007-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403549",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:53:49.781+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8007-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Esquisse de la morphologie nominale du Ngombale",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Patrice Aime",
+        "familyName" : "Yemmene",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2001",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31386",
+      "type" : "OTHER"
+    }, {
+      "id" : "ngombale_yemmene2001_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "publisher" : "Université de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Bamileke languages",
+    "subjects" : [ {
+      "value" : "nla - Ngombale",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "125 S.",
+    "abstracts" : [ {
+      "value" : "PL8049.B4, ISO 639-3 : nla, Bamileke languages--Morphology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403548",
+    "name" : "ngombale_yemmene2001_o.pdf",
+    "creationDate" : "2010-04-01T12:19:34.855+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8006-3",
+    "content" : "/rest/items/item_403549_3/component/file_403548/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "380fba3ecb699267fc98179aeb2af220",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5419036,
+    "metadata" : {
+      "title" : "ngombale_yemmene2001_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5419036,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

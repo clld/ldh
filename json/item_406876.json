@@ -1,0 +1,116 @@
+{
+  "objectId" : "item_406876",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T20:34:51.298+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FD0-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:34:51.298+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9311-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:48:56.102+0000",
+  "latestRelease" : {
+    "objectId" : "item_406876",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:34:51.298+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FD0-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406876",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:34:51.298+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FD0-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Ossetische Sprachlehre : nebst einer Abhandlung über das Mingrelische, Suanische und Abchasische",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Georg",
+        "familyName" : "Rosen",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1846",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37488",
+      "type" : "OTHER"
+    }, {
+      "id" : "ossetisch_rosen1846_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Lemgo [u.a.]",
+      "publisher" : "Meyer"
+    },
+    "freeKeywords" : "LoC Subject Headings: Ossetic language, LoC Subject Headings: Mingrelian language, LoC Subject Headings: Abkhaz language, LoC Subject Headings: Svan language",
+    "subjects" : [ {
+      "value" : "oss - Ossetian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "84 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PK6951,\nLoC Subject Headings: Ossetic language, Mingrelian language, Abkhaz language, Svan language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406875",
+    "name" : "ossetisch_rosen1846_o.pdf",
+    "creationDate" : "2010-04-01T13:48:54.247+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9310-E",
+    "content" : "/rest/items/item_406876_4/component/file_406875/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0ce26c4c00ace6fe59024a42fcde9530",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 19450079,
+    "metadata" : {
+      "title" : "ossetisch_rosen1846_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 19450079
+    }
+  } ]
+}

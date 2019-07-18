@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403711",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-12-23T11:52:38.289+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-6062-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-23T11:52:38.289+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-815A-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:22:29.346+0000",
+  "latestRelease" : {
+    "objectId" : "item_403711",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-23T11:52:38.289+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-6062-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403711",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-23T11:52:38.289+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-6062-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A first reading book in the Micmac language : comprising the Micmac numerals, and the names of the different kinds of beasts, birds, fishes, trees, &c. of the maritime provinces of Canada. Also, some of the Indian names of places, and many familiar words and phrases, translated literally into English",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Silas Tertius",
+        "familyName" : "Rand",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1875",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31551",
+      "type" : "OTHER"
+    }, {
+      "id" : "micmac_rand1875_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Halifax",
+      "publisher" : "Nova Scotia Printing"
+    },
+    "freeKeywords" : "LoC Class: PM1794,\nLoC Subject Headings: Micmac language",
+    "subjects" : [ {
+      "value" : "mic - Micmac",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "108 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM1794,\nLoC Subject Headings: Micmac language--Texts, Micmac language -- Readers"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403709",
+    "name" : "http://www.canadiana.org/ECO/ItemRecord/12362",
+    "creationDate" : "2010-04-01T12:22:28.354+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.canadiana.org/ECO/ItemRecord/12362",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2895fce56e2738a97a614230072009a3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.canadiana.org/ECO/ItemRecord/12362",
+      "contentCategory" : "publisher-version",
+      "description" : "Early Canadiana online, view online",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403710",
+    "name" : "micmac_rand1875_o.pdf",
+    "creationDate" : "2010-04-01T12:22:28.820+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8159-1",
+    "content" : "/rest/items/item_403711_3/component/file_403710/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7722351746c0ec1540a1f7408d664652",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5004200,
+    "metadata" : {
+      "title" : "micmac_rand1875_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5004200,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

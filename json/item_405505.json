@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_405505",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:38:46.418+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8B7A-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:38:46.418+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B7A-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:14:02.468+0000",
+  "latestRelease" : {
+    "objectId" : "item_405505",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:38:46.418+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B7A-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405505",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:38:46.418+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B7A-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Abenteuer Sprache : Spanisch und Französisch im Kontakt mit amerikanischen Ureinwohnersprachen",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Kolmer, Katrin",
+        "givenName" : "Katrin",
+        "familyName" : "Kolmer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35011",
+      "type" : "OTHER"
+    }, {
+      "id" : "spanisch_kolmer2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Trier",
+      "publisher" : "Romanistische Fakultät der Universität Trier"
+    },
+    "freeKeywords" : "LoC Class: P371,\nLoC Subject Headings: Language and languages",
+    "totalNumberOfPages" : "97 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405503",
+    "name" : "http://ubt.opus.hbz-nrw.de/volltexte/2006/363/pdf/kolmer_diss.pdf",
+    "creationDate" : "2010-04-01T13:14:01.783+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B78-5",
+    "content" : "http://ubt.opus.hbz-nrw.de/volltexte/2006/363/pdf/kolmer_diss.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "99b4ca0b4c411aefa9dbbcf0deebd59f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://ubt.opus.hbz-nrw.de/volltexte/2006/363/pdf/kolmer_diss.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405504",
+    "name" : "spanisch_kolmer2005_s.pdf",
+    "creationDate" : "2010-04-01T13:14:02.236+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B79-3",
+    "content" : "/rest/items/item_405505_2/component/file_405504/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "99b4ca0b4c411aefa9dbbcf0deebd59f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1794926,
+    "metadata" : {
+      "title" : "spanisch_kolmer2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1794926
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

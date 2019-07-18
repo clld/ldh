@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_404131",
+  "versionNumber" : 7,
+  "modificationDate" : "2014-07-02T09:36:35.182+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-D82D-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Titel Rechtschreibfehler korrigiert",
+  "lastModificationDate" : "2014-07-02T09:36:35.182+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-83BF-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:35:25.135+0000",
+  "latestRelease" : {
+    "objectId" : "item_404131",
+    "versionNumber" : 7,
+    "modificationDate" : "2014-07-02T09:36:35.182+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D82D-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404131",
+    "versionNumber" : 7,
+    "modificationDate" : "2014-07-02T09:36:35.182+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D82D-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Ueber die Benguelasprache",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Hugo",
+        "familyName" : "Schuchardt",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1883",
+    "genre" : "CONTRIBUTION_TO_COLLECTED_EDITION",
+    "identifiers" : [ {
+      "id" : "32291",
+      "type" : "OTHER"
+    }, {
+      "id" : "benguela_schuchardt1883.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "sources" : [ {
+      "title" : "Sitzungsberichte / Akademie der Wissenschaften in Wien, Philosophisch-Historische Klasse",
+      "volume" : "103",
+      "startPage" : "21",
+      "endPage" : "32",
+      "identifiers" : [ {
+        "id" : "1012-487X",
+        "type" : "ISSN"
+      } ],
+      "genre" : "COLLECTED_EDITION"
+    } ],
+    "freeKeywords" : "LoC Class: PL8755.Z5, LoC Subject Headings: Umbundu language",
+    "subjects" : [ {
+      "value" : "umb - Umbundu",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "14 S. "
+  },
+  "files" : [ {
+    "objectId" : "file_404129",
+    "name" : "http://schuchardt.uni-graz.at/werk/jahr/1883",
+    "creationDate" : "2010-04-01T12:35:23.999+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-83BD-2",
+    "content" : "http://schuchardt.uni-graz.at/cgi-bin/print.cgi?action=show&type=pdf&id=318",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://schuchardt.uni-graz.at/werk/jahr/1883",
+      "contentCategory" : "publisher-version",
+      "description" : "Hugo Schuchardt archive, 1883, Über die Benguelasprache, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404130",
+    "name" : "benguela_schuchardt1883.pdf",
+    "creationDate" : "2010-04-01T12:35:24.939+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-83BE-F",
+    "content" : "/rest/items/item_404131_7/component/file_404130/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a16360ccb08314f85a54855fee2ed0db",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1126648,
+    "metadata" : {
+      "title" : "benguela_schuchardt1883.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1126648
+    }
+  } ]
+}

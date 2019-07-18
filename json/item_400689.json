@@ -1,0 +1,147 @@
+{
+  "objectId" : "item_400689",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:27:58.540+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6EFE-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:27:58.540+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6EFE-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:57:07.209+0000",
+  "latestRelease" : {
+    "objectId" : "item_400689",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:27:58.540+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6EFE-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400689",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:27:58.540+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6EFE-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Características distintivas del Quechua de Corongo : perspectivas histórica y sincrónica",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Hintz, Daniel John",
+        "givenName" : "Daniel John",
+        "familyName" : "Hintz",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Marlene Ballena",
+        "familyName" : "Dávila"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2000",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "23964",
+      "type" : "OTHER"
+    }, {
+      "id" : "quechua_hintz2000_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1a ed.",
+      "place" : "Lima, Perú",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística peruana",
+      "volume" : "50",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6309.5.C67,\nLoC Subject Headings: Quechua language--Peru--Corongo",
+    "subjects" : [ {
+      "value" : "qwa - Corongo Ancash Quechua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "261 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400687",
+    "name" : "http://www.sil.org/americas/peru/html/nav/pubIndex.html",
+    "creationDate" : "2010-04-01T10:57:06.520+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6EFC-7",
+    "content" : "http://www.sil.org/americas/peru/html/nav/pubIndex.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "53947f9f17b1ff4b80711ee58d52a053",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/nav/pubIndex.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400688",
+    "name" : "quechua_hintz2000_s.pdf",
+    "creationDate" : "2010-04-01T10:57:06.879+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6EFD-5",
+    "content" : "/rest/items/item_400689_2/component/file_400688/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6380b3e1869c477b311ddaac52555098",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2908148,
+    "metadata" : {
+      "title" : "quechua_hintz2000_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2908148
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

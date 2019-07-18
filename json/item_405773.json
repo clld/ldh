@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_405773",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-10T08:02:30.057+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-E43B-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-10T08:02:30.057+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8CFF-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:20:22.037+0000",
+  "latestRelease" : {
+    "objectId" : "item_405773",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-10T08:02:30.057+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-E43B-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405773",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-10T08:02:30.057+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-E43B-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Binding theory and beyond : an investigation into the English pronominal system",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Karin Elisabeth",
+        "familyName" : "Golde",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1999",
+    "datePublishedInPrint" : "1999",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35375",
+      "type" : "OTHER"
+    }, {
+      "id" : "english_golde1999_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: PE1261,\nLoC Subject Headings: English language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XIII, 163 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PE1261,\nLoC Subject Headings: English language --Pronoun"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405772",
+    "name" : "english_golde1999_o.pdf",
+    "creationDate" : "2010-04-01T13:20:21.644+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8CFE-8",
+    "content" : "/rest/items/item_405773_3/component/file_405772/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "922b9902a227219a8c17b56ad9e5c5e6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3627345,
+    "metadata" : {
+      "title" : "english_golde1999_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3627345
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2039816",
+    "name" : "http://linguistics.osu.edu/sites/linguistics.osu.edu/files/dissertations/Golde1999.pdf",
+    "creationDate" : "2014-07-10T07:59:54.456+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-E43D-2",
+    "content" : "http://linguistics.osu.edu/sites/linguistics.osu.edu/files/dissertations/Golde1999.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5fd5e6a77be53c56e3d5fc7746546ec1",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://linguistics.osu.edu/sites/linguistics.osu.edu/files/dissertations/Golde1999.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "Ohio State Univ., Dep. of Linguistics, direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

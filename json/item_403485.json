@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403485",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T10:06:35.987+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7F80-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:06:35.987+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7F80-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:52.240+0000",
+  "latestRelease" : {
+    "objectId" : "item_403485",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:06:35.987+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F80-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403485",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:06:35.987+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F80-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Reduplication in Lamnso?",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Vernyuy Ndzenwy, Francis",
+        "givenName" : "Francis",
+        "familyName" : "Vernyuy Ndzenwy",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1997",
+    "datePublishedInPrint" : "1997",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31307",
+      "type" : "OTHER"
+    }, {
+      "id" : "lamnso_vernyuy1997_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Lamnso' language",
+    "subjects" : [ {
+      "value" : "lns - Lamnso",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "viii, 96 S.",
+    "abstracts" : [ {
+      "value" : "Nso (African people) --Languages, Cameroon --Languages, PL8021.C35, ISO 639-3 : lns, Lamnso' language, Grassfields Bantu languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403484",
+    "name" : "lamnso_vernyuy1997_o.pdf",
+    "creationDate" : "2010-04-01T12:18:51.885+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7F7F-D",
+    "content" : "/rest/items/item_403485_3/component/file_403484/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "11b11b8a030ee4f6eab821ab71392400",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2643339,
+    "metadata" : {
+      "title" : "lamnso_vernyuy1997_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2643339,
+      "copyrightDate" : "2005-11-29"
+    }
+  } ]
+}

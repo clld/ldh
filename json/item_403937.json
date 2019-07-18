@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_403937",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-11T12:07:13.044+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-68DB-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-11T12:07:13.044+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-82A6-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:29:50.877+0000",
+  "latestRelease" : {
+    "objectId" : "item_403937",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T12:07:13.044+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-68DB-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403937",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T12:07:13.044+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-68DB-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Cipient predication : unifying double object, dative experiencer and existential/presentational constructions",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Patrick Matthias",
+        "familyName" : "Brandt",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32066",
+      "type" : "OTHER"
+    }, {
+      "id" : "http://www.lotpublications              .nl/publish/articles/000372/bookpart.pdf",
+      "type" : "URI"
+    }, {
+      "id" : "cipient_brandt2003_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "1389-9473",
+      "type" : "ISSN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "freeKeywords" : "LoC Class: P281, LoC Subject Headings: Grammar/Comparative and general--Verb phrase"
+  },
+  "files" : [ {
+    "objectId" : "file_403936",
+    "name" : "cipient_brandt2003_s.pdf",
+    "creationDate" : "2010-04-01T12:29:50.675+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-82A5-B",
+    "content" : "/rest/items/item_403937_3/component/file_403936/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4b8b042614532fef95a2705b474e9498",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1513438,
+    "metadata" : {
+      "title" : "cipient_brandt2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1513438
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110948",
+    "name" : "http://dspace.library.uu.nl/handle/1874/622",
+    "creationDate" : "2015-03-11T12:06:36.492+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dspace.library.uu.nl/handle/1874/622",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "fc511cee7cc64df8339e4cd428cbe50d",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dspace.library.uu.nl/handle/1874/622",
+      "contentCategory" : "publisher-version",
+      "description" : "Utrecht Univ., Repository, pdf download",
+      "size" : 0
+    }
+  } ]
+}

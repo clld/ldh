@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_406794",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:53:09.431+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9297-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:53:09.431+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9297-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:47:29.221+0000",
+  "latestRelease" : {
+    "objectId" : "item_406794",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:53:09.431+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9297-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406794",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:53:09.431+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9297-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A phonological study of WA at Ban Satisuk Moo 19, Tambol Patung, Mae-Chan district, Chiengrai province",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Tantiwuthipakorn, Wattana",
+        "givenName" : "Wattana",
+        "familyName" : "Tantiwuthipakorn",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1998",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37443",
+      "type" : "OTHER"
+    }, {
+      "id" : "waatbansantisuk_tantiwuthipakorn1998_o\n              .html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Bangkok",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PL441,\nLoC Subject Headings: Wa language",
+    "subjects" : [ {
+      "value" : "wbm - Wa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "6 Bl., 122 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406792",
+    "name" : "http://archives.sealang.net/mahidol",
+    "creationDate" : "2010-04-01T13:47:28.607+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9295-E",
+    "content" : "http://archives.sealang.net/mahidol",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b90f0b74e428eb7d24c3f080c1c10bb4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://archives.sealang.net/mahidol",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406793",
+    "name" : "waatbansantisuk_tantiwuthipakorn1998_o.pdf",
+    "creationDate" : "2010-04-01T13:47:28.866+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9296-C",
+    "content" : "/rest/items/item_406794_2/component/file_406793/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "bb436f5433009ffdabd53b73ffbed760",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2861823,
+    "metadata" : {
+      "title" : "waatbansantisuk_tantiwuthipakorn1998_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2861823
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

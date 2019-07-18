@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_404416",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-06T11:00:42.006+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C7AD-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-06T11:00:42.006+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8559-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:41:12.459+0000",
+  "latestRelease" : {
+    "objectId" : "item_404416",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-06T11:00:42.006+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7AD-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404416",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-06T11:00:42.006+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7AD-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Culture and history of native American peoples of South Texas",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Enrique Gibert-Michael",
+        "familyName" : "Maestas",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "33202",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Austin",
+      "publisher" : "Univ. of Texas"
+    },
+    "freeKeywords" : "LoC Class: E78.T4, LoC Subject Headings: Indians of North America--Texas--Languages",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "xix, 660 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: E78.T4,\nLoC Subject Headings: Indians of North America--Texas--History, Indians of North America--Texas--Social life and customs, Indians of North America--Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_2036733",
+    "name" : "texas_maestas2003_s.pdf",
+    "creationDate" : "2014-07-03T07:53:22.447+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0019-D903-A",
+    "content" : "/rest/items/item_404416_4/component/file_2036733/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5b899189038f3e934e80db8b84479b39",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7382701,
+    "metadata" : {
+      "title" : "texas_maestas2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7382701
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2036734",
+    "name" : "http://catalog.lib.utexas.edu/record=b5715713~S2",
+    "creationDate" : "2014-07-03T07:53:22.584+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://catalog.lib.utexas.edu/record=b5715713~S2",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c3131d69a88efbb63ebb74966afbb169",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://catalog.lib.utexas.edu/record=b5715713~S2",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. of Texas, library catalog, pdf",
+      "size" : 0
+    }
+  } ]
+}

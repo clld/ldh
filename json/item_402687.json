@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_402687",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T08:36:15.468+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA79-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T08:36:15.468+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7A8B-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:36:54.099+0000",
+  "latestRelease" : {
+    "objectId" : "item_402687",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:36:15.468+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA79-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402687",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:36:15.468+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA79-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Word order variation : a constrained-based approach",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "João",
+        "familyName" : "Costa",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1998",
+    "datePublishedInPrint" : "1998",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30264",
+      "type" : "OTHER"
+    }, {
+      "id" : "wordorder_costa1998_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "9055690589",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "sources" : [ {
+      "title" : "LOT Dissertation Series",
+      "volume" : "14",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P295, LoC Subject Headings: Grammar/Comparative and general--Word order",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "447 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402686",
+    "name" : "wordorder_costa1998_o.pdf",
+    "creationDate" : "2010-04-01T11:36:53.781+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A8A-6",
+    "content" : "/rest/items/item_402687_4/component/file_402686/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d6fd8c937f1a380c720076d56b49cff2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2723623,
+    "metadata" : {
+      "title" : "wordorder_costa1998_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2723623
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147303",
+    "name" : "http://www.lotpublications.nl/word-order-variation-word-order-variation",
+    "creationDate" : "2015-04-21T08:35:52.766+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.lotpublications.nl/word-order-variation-word-order-variation",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "aa56082d757ce89b4f4f115c6a020428",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lotpublications.nl/word-order-variation-word-order-variation",
+      "contentCategory" : "publisher-version",
+      "description" : "LOT Publications, open access, pdf download",
+      "size" : 0
+    }
+  } ]
+}

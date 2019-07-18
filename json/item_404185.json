@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_404185",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:40:33.354+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-840A-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:40:33.354+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-840A-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:36:59.737+0000",
+  "latestRelease" : {
+    "objectId" : "item_404185",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:40:33.354+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-840A-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404185",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:40:33.354+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-840A-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "De l'origine du langage a l'origine des langues : modelisations de l'emergence et de l'evolution des systemes linguistiques",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Coupe, Christophe",
+        "givenName" : "Christophe",
+        "familyName" : "Coupe",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2003",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "32443",
+      "type" : "OTHER"
+    }, {
+      "id" : "emergence_coupe2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Lille",
+      "publisher" : "ANRT"
+    },
+    "freeKeywords" : "LoC Class: P131,\nLoC Subject Headings: Language and languages --Origin",
+    "totalNumberOfPages" : "2 MF"
+  },
+  "files" : [ {
+    "objectId" : "file_404183",
+    "name" : "http://www.ddl.ish-lyon.cnrs.fr/fulltext/Christophe/Coup%E9_2003_These_sciences_cognitives.pdf",
+    "creationDate" : "2010-04-01T12:36:35.990+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8408-A",
+    "content" : "http://www.ddl.ish-lyon.cnrs.fr/fulltext/Christophe/Coup%E9_2003_These_sciences_cognitives.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ddl.ish-lyon.cnrs.fr/fulltext/Christophe/Coup%E9_2003_These_sciences_cognitives.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404184",
+    "name" : "emergence_coupe2003_s.pdf",
+    "creationDate" : "2010-04-01T12:36:58.752+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8409-8",
+    "content" : "/rest/items/item_404185_2/component/file_404184/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2224dfc37055a833db083f8efbe66fbb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9887248,
+    "metadata" : {
+      "title" : "emergence_coupe2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9887248
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

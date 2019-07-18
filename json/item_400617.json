@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_400617",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-10T08:26:07.423+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0A89-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-10T08:26:07.423+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6E7B-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:55:57.110+0000",
+  "latestRelease" : {
+    "objectId" : "item_400617",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-10T08:26:07.423+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0A89-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400617",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-10T08:26:07.423+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0A89-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of Tiriyó",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Sérgio",
+        "familyName" : "Meira",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1999",
+    "datePublishedInPrint" : "1999",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "23582",
+      "type" : "OTHER"
+    }, {
+      "id" : "tiriyo_meira1999.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PM7157, LoC Subject Headings: Trio language, LoC Subject Headings: Suriname--Languages, LoC Subject Headings: Brazil--Languages",
+    "subjects" : [ {
+      "value" : "tri - Trió",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xviii, 708 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400615",
+    "name" : "http://scholarship.rice.edu/handle/1911/19417",
+    "creationDate" : "2010-04-01T10:55:53.284+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://scholarship.rice.edu/handle/1911/19417",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b3b403fc8ce294fbb0aff1efea198131",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://scholarship.rice.edu/handle/1911/19417",
+      "contentCategory" : "publisher-version",
+      "description" : "Rice Univ., Digital Scholarship Archive DSpace,  Rice University Electronic Theses and Dissertations, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400616",
+    "name" : "tiriyo_meira1999.pdf",
+    "creationDate" : "2010-04-01T10:55:53.996+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6E7A-9",
+    "content" : "/rest/items/item_400617_4/component/file_400616/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "cd7d6f8a41ac2e62cf73671bf557de26",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 31785378,
+    "metadata" : {
+      "title" : "tiriyo_meira1999.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 31785378
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

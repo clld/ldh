@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_405499",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:36:54.108+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8B72-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:36:54.108+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B72-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:13:56.571+0000",
+  "latestRelease" : {
+    "objectId" : "item_405499",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:36:54.108+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B72-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405499",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:36:54.108+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B72-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "'N Linguistiese Ondersoek na die tradisionele Kleurterme van Noord-Sotho",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Kellermann, Esther Elizabeth",
+        "givenName" : "Esther Elizabeth",
+        "familyName" : "Kellermann",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2003",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "35009",
+      "type" : "OTHER"
+    }, {
+      "id" : "kleurterme_kellermann2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "nld" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Pretoria",
+      "publisher" : "Dept. of African Languages, Univ. of Pretoria"
+    },
+    "freeKeywords" : "LoC Class: PL8690.1,\nLoC Subject Headings: Northern Sotho language",
+    "subjects" : [ {
+      "value" : "nso - Pedi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "[86] S."
+  },
+  "files" : [ {
+    "objectId" : "file_405497",
+    "name" : "http://upetd.up.ac.za/thesis/available/etd-10252004-141302/",
+    "creationDate" : "2010-04-01T13:13:55.359+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B70-6",
+    "content" : "http://upetd.up.ac.za/thesis/available/etd-10252004-141302/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2224855897e6b9e4a5655403f15c7057",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://upetd.up.ac.za/thesis/available/etd-10252004-141302/",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405498",
+    "name" : "kleurterme_kellermann2003_s.pdf",
+    "creationDate" : "2010-04-01T13:13:56.468+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B71-4",
+    "content" : "/rest/items/item_405499_2/component/file_405498/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e8932a634ac4b11ecb6f494cce228022",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 409232,
+    "metadata" : {
+      "title" : "kleurterme_kellermann2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 409232
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_403714",
+  "versionNumber" : 5,
+  "modificationDate" : "2014-12-23T11:36:10.181+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-605C-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-23T11:36:10.181+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-815E-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:22:34.290+0000",
+  "latestRelease" : {
+    "objectId" : "item_403714",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-12-23T11:36:10.181+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-605C-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403714",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-12-23T11:36:10.181+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-605C-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The Ojebway language : a manual for missionaries and others employed among the Ojebway Indians",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Edward Francis",
+        "familyName" : "Wilson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1874",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31552",
+      "type" : "OTHER"
+    }, {
+      "id" : "ojebway_wilson1871_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Toronto",
+      "publisher" : "Rowsell and Hutchison"
+    },
+    "freeKeywords" : "LoC Class: PM854,\nLoC Subject Headings: Ojibwa language",
+    "subjects" : [ {
+      "value" : "ciw - Chippewa",
+      "type" : "ISO639_3"
+    } ],
+    "tableOfContents" : "\"In three parts: Part I -The grammar, Part II -Dialogue and excercises, Part III -The dictionary.\" ",
+    "totalNumberOfPages" : "415 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM854,\nLoC Subject Headings: Ojibwa language, Indians of North America--Canada--Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403712",
+    "name" : "http://www.canadiana.org/ECO/ItemRecord/25984",
+    "creationDate" : "2010-04-01T12:22:30.101+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.canadiana.org/ECO/ItemRecord/25984",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "76844e52fdc516c627ae43183134fac4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.canadiana.org/ECO/ItemRecord/25984",
+      "contentCategory" : "publisher-version",
+      "description" : "Early Canadiana online, view online",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403713",
+    "name" : "ojebway_wilson1871_o.pdf",
+    "creationDate" : "2010-04-01T12:22:30.913+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-815D-A",
+    "content" : "/rest/items/item_403714_5/component/file_403713/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "74f01744200cff34b97c8ef5fae61b26",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 36203628,
+    "metadata" : {
+      "title" : "ojebway_wilson1871_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 36203628,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

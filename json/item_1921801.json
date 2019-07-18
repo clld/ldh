@@ -1,0 +1,129 @@
+{
+  "objectId" : "item_1921801",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-06T11:10:53.239+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C7B1-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-06T11:10:53.239+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0015-36EA-E",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-02-12T12:46:59.411+0000",
+  "latestRelease" : {
+    "objectId" : "item_1921801",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-06T11:10:53.239+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7B1-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_1921801",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-06T11:10:53.239+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7B1-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Nevv Englands prospect : a true, lively, and experimentall description of that part of America commonly called Nevv England, discovering the state of that countrie both as it stands to our new-come English planters and to the old native inhabitants, laying downe that which may both enrich the knowledge of the mind-travelling reader or benefit the future voyager",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "William",
+        "familyName" : "Wood",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1634",
+    "genre" : "MONOGRAPH",
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "London",
+      "publisher" : "printed by Tho. Cotes for Iohn Bellamie and are to be sold at his shop ..."
+    },
+    "freeKeywords" : "LoC Subject Headings: Indians of North America--New England, LoC Class: F67",
+    "subjects" : [ {
+      "value" : "wam - Wampanoag",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "98, [6] S.",
+    "abstracts" : [ {
+      "value" : "Includes selection of vocabulary in the Massachuset language: p. [1-5], 3rd group\n\nLoC Subject Headings: Indians of North America--Massachusetts--Early works to 1800; Massachuset language--Glossaries, vocabularies, etc.--Early works to 1800; Massachusetts--Description and travel--Early works to 1800; Massachusetts--History--Colonial period, ca. 1600-1775.\nLoC Class: F67"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_1921799",
+    "name" : "Wood_NevvEnglandsProspect1634.pdf",
+    "creationDate" : "2014-02-12T12:46:55.264+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0015-36EE-6",
+    "content" : "/rest/items/item_1921801_4/component/file_1921799/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "48b1bd3bd13bd333b93ceffd3d8eb356",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 24475806,
+    "metadata" : {
+      "title" : "Wood_NevvEnglandsProspect1634.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 24475806,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_1921800",
+    "name" : "https://archive.org/details/newenglandsprosp01wood",
+    "creationDate" : "2014-02-12T12:46:55.953+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/newenglandsprosp01wood",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e61ff000662b96e1babb173faa35a9b9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/newenglandsprosp01wood",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org",
+      "size" : 0
+    }
+  } ]
+}

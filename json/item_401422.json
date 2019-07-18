@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_401422",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-06-12T09:29:14.121+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-BA11-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-06-12T09:29:14.121+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7339-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:11:32.989+0000",
+  "latestRelease" : {
+    "objectId" : "item_401422",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-12T09:29:14.121+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-BA11-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401422",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-12T09:29:14.121+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-BA11-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Pronomes, ordem e ergatividade em Mebengokre (Kayapó)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Silva",
+        "familyName" : "Reis",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedInPrint" : "2001",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "26534",
+      "type" : "OTHER"
+    }, {
+      "id" : "mebengokre_silva2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "place" : "Campinas",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM5791,\nLoC Subject Headings: Cayapo language",
+    "subjects" : [ {
+      "value" : "txu - Kayapó",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiv, 78 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401421",
+    "name" : "mebengokre_silva2003_s.pdf",
+    "creationDate" : "2010-04-01T11:11:32.870+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7338-B",
+    "content" : "/rest/items/item_401422_3/component/file_401421/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "bec5592ca22b4a415b2c0a0ae269111f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 541448,
+    "metadata" : {
+      "title" : "mebengokre_silva2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 541448
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2032915",
+    "name" : "http://www.bibliotecadigital.unicamp.br/document/?code=vtls000305039",
+    "creationDate" : "2014-06-12T09:28:29.364+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-BA12-D",
+    "content" : "http://www.bibliotecadigital.unicamp.br/document/?code=vtls000305039",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "750787cf2745d9856090a278039572d3",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.bibliotecadigital.unicamp.br/document/?code=vtls000305039",
+      "contentCategory" : "publisher-version",
+      "description" : "Digital Library UNICAMP, free registration necessary for downloading",
+      "size" : 0
+    }
+  } ]
+}

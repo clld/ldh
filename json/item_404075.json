@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_404075",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T23:18:12.294+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70F5-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T23:18:12.294+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-836E-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:34:06.859+0000",
+  "latestRelease" : {
+    "objectId" : "item_404075",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T23:18:12.294+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70F5-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404075",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T23:18:12.294+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70F5-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Aspect and subjectivity in modal constructions",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Trnavac, Radoslava",
+        "givenName" : "Radoslava",
+        "familyName" : "Trnavac",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32219",
+      "type" : "OTHER"
+    }, {
+      "id" : "aspect_trnavac2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "sources" : [ {
+      "title" : "LOT Dissertation Series",
+      "volume" : "143",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P325.5, LoC Subject Headings: Componential analysis (Linguistics), LoC Subject Headings: Modal analysis",
+    "totalNumberOfPages" : "xii, 175 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404073",
+    "name" : "http://www.lotpublications.nl/publish/articles/002062/bookpart.pdf",
+    "creationDate" : "2010-04-01T12:34:06.398+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.lotpublications.nl/publish/articles/002062/bookpart.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lotpublications.nl/publish/articles/002062/bookpart.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404074",
+    "name" : "aspect_trnavac2006_s.pdf",
+    "creationDate" : "2010-04-01T12:34:06.718+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-836D-3",
+    "content" : "/rest/items/item_404075_3/component/file_404074/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7aea114a2072603a89f50f0c4ed4ad3a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 889325,
+    "metadata" : {
+      "title" : "aspect_trnavac2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 889325
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

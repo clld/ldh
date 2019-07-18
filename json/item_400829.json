@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_400829",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:25:41.546+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6FD1-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:25:41.546+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6FD1-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:59:40.645+0000",
+  "latestRelease" : {
+    "objectId" : "item_400829",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:25:41.546+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6FD1-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400829",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:25:41.546+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6FD1-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Provisional Kom - English lexicon",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Jones, Randy",
+        "givenName" : "Randy",
+        "familyName" : "Jones",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2001",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "24337",
+      "type" : "OTHER"
+    }, {
+      "id" : "kom_jones2001_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yaounde",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PL8395.2,\nLoC Subject Headings: Kom language (Cameroon)",
+    "subjects" : [ {
+      "value" : "bkm - Kom (Cameroon)",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "156 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400827",
+    "name" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/lexicons/Kom%20Lexicon.pdf",
+    "creationDate" : "2010-04-01T10:59:40.087+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6FCF-5",
+    "content" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/lexicons/Kom%20Lexicon.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/lexicons/Kom%20Lexicon.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400828",
+    "name" : "kom_jones2001_s.pdf",
+    "creationDate" : "2010-04-01T10:59:40.468+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6FD0-0",
+    "content" : "/rest/items/item_400829_2/component/file_400828/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d46483c7f3a881d42dcfffbf6400e366",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1342060,
+    "metadata" : {
+      "title" : "kom_jones2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1342060
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

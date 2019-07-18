@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_403827",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-13T01:20:53.124+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7201-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:20:53.124+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8207-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:26:17.940+0000",
+  "latestRelease" : {
+    "objectId" : "item_403827",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T01:20:53.124+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7201-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403827",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T01:20:53.124+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7201-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The phonology of Endo : a Southern Nilotic language of Kenya",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Zwarts, Joost",
+        "givenName" : "Joost",
+        "familyName" : "Zwarts",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2003",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31745",
+      "type" : "OTHER"
+    }, {
+      "id" : "endo_zwarts2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Utrecht",
+      "publisher" : "Inst. of Linguistics OTS"
+    },
+    "freeKeywords" : "LoC Class: PL8349, LoC Subject Headings: Kalenjin language, LoC Subject Headings: Nilotic languages",
+    "subjects" : [ {
+      "value" : "enb - Endo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "142 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403825",
+    "name" : "http://www.diva-portal.org/su/abstract.xsql?lang=en&dbid=56",
+    "creationDate" : "2010-04-01T12:26:17.277+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.diva-portal.org/su/abstract.xsql?lang=en&dbid=56",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "793f5ceac147012a474395d38b329acd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.diva-portal.org/su/abstract.xsql?lang=en&dbid=56",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403826",
+    "name" : "endo_zwarts2003_s.pdf",
+    "creationDate" : "2010-04-01T12:26:17.838+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8206-4",
+    "content" : "/rest/items/item_403827_3/component/file_403826/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "998853f55e44569823ac3ff1f61d5c09",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 416017,
+    "metadata" : {
+      "title" : "endo_zwarts2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 416017
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

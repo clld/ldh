@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_402226",
+  "versionNumber" : 6,
+  "modificationDate" : "2011-06-06T07:18:46.976+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-77FA-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:18:46.976+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-77FA-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:28:12.090+0000",
+  "latestRelease" : {
+    "objectId" : "item_402226",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-06-06T07:18:46.976+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-77FA-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402226",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-06-06T07:18:46.976+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-77FA-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A Latin grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Charles Edwin",
+        "familyName" : "Bennett",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1908",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29453",
+      "type" : "OTHER"
+    }, {
+      "id" : "latin_bennett1908_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "Rev. ed. of Bennett's 'Latin Grammar' 1895",
+      "place" : "Boston [u.a.]",
+      "publisher" : "Allyn and Bacon"
+    },
+    "subjects" : [ {
+      "value" : "lat - Latin",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VIII, 280 S.",
+    "abstracts" : [ {
+      "value" : "PA2821, ISO 639-3 : lat, Latin language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402225",
+    "name" : "latin_bennett1908_o.pdf",
+    "creationDate" : "2010-04-01T11:28:11.072+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-77F9-4",
+    "content" : "/rest/items/item_402226_6/component/file_402225/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c13c4c44f6f56b1de55ca1277fa9b8f4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7198821,
+    "metadata" : {
+      "title" : "latin_bennett1908_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7198821,
+      "copyrightDate" : "2010-09-12",
+      "rights" : "not in copyright, Charles Edwin Bennett, 1858-1921"
+    }
+  }, {
+    "objectId" : "file_513058",
+    "name" : "http://www.gutenberg.org/etext/15665",
+    "creationDate" : "2010-08-20T13:53:17.994+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.gutenberg.org/etext/15665",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "64b07056ddd61212ea4bb4f55f79bd1d",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.gutenberg.org/etext/15665",
+      "contentCategory" : "publisher-version",
+      "description" : "Projekt Gutenberg",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_874612",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-04-07T08:20:07.689+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A7FB-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Metadaten korrigiert",
+  "lastModificationDate" : "2015-04-07T08:20:07.689+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0011-5469-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2011-04-27T11:48:07.656+0000",
+  "latestRelease" : {
+    "objectId" : "item_874612",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-07T08:20:07.689+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7FB-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_874612",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-07T08:20:07.689+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7FB-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Vocabulary of the Chinook jargon : the complete language used by the Indians of Oregon, Washington Territory and British possessions",
+    "creators" : [ {
+      "person" : {
+        "familyName" : "Anonymus",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1860",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31540",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "San Francisco",
+      "publisher" : "Hutchings & Rosenfield"
+    },
+    "freeKeywords" : "LoC Class: PM848, LoC Subject Headings: Chinook jargon",
+    "subjects" : [ {
+      "value" : "chn - Chinook jargon",
+      "type" : "ISO639_3"
+    } ],
+    "abstracts" : [ {
+      "value" : "LoC Class: PM848, LoC Subject Headings: Chinook language, English language -- Dictionaries, Chinook language -- Dictionaries, Indians of North America -- Oregon -- Languages, Indians of North America -- Washington (State) -- Languages, Indians of North America -- British Columbia -- Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_874610",
+    "name" : "chinook_hutchings1860_o.pdf",
+    "creationDate" : "2011-04-27T11:48:06.812+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0011-5467-4",
+    "content" : "/rest/items/item_874612_5/component/file_874610/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e2fa21b7e9b4862e0463d157ef348ba7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 505918,
+    "metadata" : {
+      "title" : "chinook_hutchings1860_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 505918
+    }
+  }, {
+    "objectId" : "file_874611",
+    "name" : "http://www.canadiana.org/ECO/ItemRecord/18646",
+    "creationDate" : "2011-04-27T11:48:06.888+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.canadiana.org/ECO/ItemRecord/18646",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "65138f517230af1bf0e51ce83335bb60",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.canadiana.org/ECO/ItemRecord/18646",
+      "contentCategory" : "publisher-version",
+      "description" : "Early Canadiana Online",
+      "size" : 0
+    }
+  } ]
+}

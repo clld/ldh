@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_407428",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-03T11:29:49.299+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-024B-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-03T11:29:49.299+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-961F-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:13:27.817+0000",
+  "latestRelease" : {
+    "objectId" : "item_407428",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T11:29:49.299+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-024B-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407428",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T11:29:49.299+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-024B-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Apinayé grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Patricia",
+        "familyName" : "Ham",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1961",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "38894",
+      "type" : "OTHER"
+    }, {
+      "id" : "apinaye_ham1961_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "preliminary version",
+      "place" : "Brasília",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PM5433,\nLoC Subject Headings: Apinayé language",
+    "subjects" : [ {
+      "value" : "apn - Apinayé",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "29 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5433,\nLoC Subject Headings: Apinayé language--Grammar, Apinagé Indians--Languages, Indians of South America--Brazil--Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407426",
+    "name" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "creationDate" : "2010-04-01T14:13:27.237+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9530a75a4c45ff6625118b724949a812",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407427",
+    "name" : "apinaye_ham1961_s.pdf",
+    "creationDate" : "2010-04-01T14:13:27.697+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-961E-B",
+    "content" : "/rest/items/item_407428_3/component/file_407427/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5e5cbb8ddf51cff64ceccaca9325e314",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 468726,
+    "metadata" : {
+      "title" : "apinaye_ham1961_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 468726
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

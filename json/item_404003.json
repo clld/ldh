@@ -1,0 +1,164 @@
+{
+  "objectId" : "item_404003",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-07-02T08:44:16.157+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-D7EE-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz ergänzt",
+  "lastModificationDate" : "2014-07-02T08:44:16.157+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8308-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:32:37.753+0000",
+  "latestRelease" : {
+    "objectId" : "item_404003",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-02T08:44:16.157+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D7EE-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404003",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-02T08:44:16.157+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D7EE-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Urhobo-English dictionary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Anthony Obakponovwe",
+        "familyName" : "Ukere",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Roger",
+        "familyName" : "Blench"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "32117",
+      "type" : "OTHER"
+    }, {
+      "id" : "urhobo_blench2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "ii, 50 S.",
+      "place" : "Cambridge",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL8682.S58,\nLoC Subject Headings: Urhobo language",
+    "subjects" : [ {
+      "value" : "urh - Urhobo",
+      "type" : "ISO639_3"
+    } ],
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8682.S58,\nLoC Subject Headings: Urhobo language--Dictionaries--English"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404002",
+    "name" : "urhobo_blench2005_s.pdf",
+    "creationDate" : "2010-04-01T12:32:37.625+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8307-9",
+    "content" : "/rest/items/item_404003_4/component/file_404002/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "866e5d6d00053329b5cfc6563f5ff9b1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 342512,
+    "metadata" : {
+      "title" : "urhobo_blench2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 342512
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2036589",
+    "name" : "http://www.rogerblench.info/Language/Niger-Congo/VN/Edoid/Edoid%20page.htm",
+    "creationDate" : "2014-07-02T08:42:09.762+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-D7ED-C",
+    "content" : "http://www.rogerblench.info/Language/Niger-Congo/VN/Edoid/Edoid%20page.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f047b386049ed90cc85db54f408ffb98",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.rogerblench.info/Language/Niger-Congo/VN/Edoid/Edoid%20page.htm",
+      "contentCategory" : "any-fulltext",
+      "description" : "Roger Blench's website, Edoid materials, Urhobo dictionary, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2036590",
+    "name" : "http://www.rogerblench.info/Language/Niger-Congo/VN/Edoid/Urhobo%20dictionary%20web.pdf",
+    "creationDate" : "2014-07-02T08:43:16.929+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-D7EF-8",
+    "content" : "http://www.rogerblench.info/Language/Niger-Congo/VN/Edoid/Urhobo%20dictionary%20web.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8286d11a4dcb6b9f06750992be183704",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.rogerblench.info/Language/Niger-Congo/VN/Edoid/Urhobo%20dictionary%20web.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

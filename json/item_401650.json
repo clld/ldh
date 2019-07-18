@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_401650",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-12T18:24:45.720+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6EBF-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T18:24:45.720+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7485-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:15:54.966+0000",
+  "latestRelease" : {
+    "objectId" : "item_401650",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T18:24:45.720+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EBF-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401650",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T18:24:45.720+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EBF-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "An Australian language as spoken by the Awabakal, the people of Awaba, or lake Macquarie (near Newcastle, New South Wales) being an account of their language, traditions, and customs",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Threleeld, Lancelot Edward",
+        "givenName" : "Lancelot Edward",
+        "familyName" : "Threlkeld",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1892",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "27426",
+      "type" : "OTHER"
+    }, {
+      "id" : "awabakal_threlkeld1892_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Sydney",
+      "publisher" : "Potter"
+    },
+    "freeKeywords" : "LoC Subject Headings: Australian languages, LoC Subject Headings: Ethnology--New South Wales",
+    "subjects" : [ {
+      "value" : "awk - Awabakal",
+      "type" : "ISO639_3"
+    } ],
+    "tableOfContents" : "Map of the Native Tribes of New South Wales \nTitle and John Fraser's Introduction \nAn Australian Grammar (1834) \nA Key (1850) \nGospel of Luke (1891) \nLexicon to Gospel of Luke (1892) \nAppendix A - Minyug Language \nAppendix B - Narrinyeri Language \nAppendix C - Languages of W. Australia \nAppendix D - Wirradhuri Language \nAppendix E - Awabakal Prayers \nAppendix F - Kamilaroi Sayings \nAppendix G - Specimens of a Dialect\n\n\n",
+    "totalNumberOfPages" : "getr. Zählg.",
+    "abstracts" : [ {
+      "value" : "PL7101.A7, ISO 639-3 : awk, Australian languages, Ethnology--New South Wales"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401649",
+    "name" : "awabakal_threlkeld1892_o.pdf",
+    "creationDate" : "2010-04-01T11:15:53.537+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7484-6",
+    "content" : "/rest/items/item_401650_5/component/file_401649/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2f54586911fb7d6b919574d0b8798127",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 14937569,
+    "metadata" : {
+      "title" : "awabakal_threlkeld1892_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 14937569,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_431975",
+    "name" : "http://libguides.newcastle.edu.au/content.php?pid=94364&sid=746770&search_terms=threlkeld%2C+L.E.",
+    "creationDate" : "2010-05-10T13:20:41.525+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://libguides.newcastle.edu.au/content.php?pid=94364&sid=746770&search_terms=threlkeld%2C+L.E.",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "187b43c8dc94962e3da168c4914f7b00",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libguides.newcastle.edu.au/content.php?pid=94364&sid=746770&search_terms=threlkeld%2C+L.E.",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  } ]
+}

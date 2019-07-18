@@ -1,0 +1,121 @@
+{
+  "objectId" : "item_403507",
+  "versionNumber" : 6,
+  "modificationDate" : "2011-05-31T09:56:31.197+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7FAB-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:56:31.197+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7FAB-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:05.647+0000",
+  "latestRelease" : {
+    "objectId" : "item_403507",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T09:56:31.197+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7FAB-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403507",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T09:56:31.197+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7FAB-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Modalites verbales : temps, aspect et mode Medumba",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Nganmou, Alise",
+        "givenName" : "Alise",
+        "familyName" : "Nganmou",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1991",
+    "datePublishedInPrint" : "1991",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31325",
+      "type" : "OTHER"
+    }, {
+      "id" : "medumba_nganmou1991_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Medumba language",
+    "subjects" : [ {
+      "value" : "byv - Medumba",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "x, 248 S.",
+    "abstracts" : [ {
+      "value" : "PL8510.M42, ISO 639-3 : byv, Medumba language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403506",
+    "name" : "medumba_nganmou1991_o.pdf",
+    "creationDate" : "2010-04-01T12:19:04.868+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7FAA-B",
+    "content" : "/rest/items/item_403507_6/component/file_403506/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b12d50d246919aee57570c94669c8cd5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7844725,
+    "metadata" : {
+      "title" : "medumba_nganmou1991_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "These presenté en vue de I'obtention du Doctorat de 3' cycle en Linguistique",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7844725,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I",
+      "license" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

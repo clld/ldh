@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_405822",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:44:27.528+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8D44-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:44:27.528+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8D44-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:21:07.726+0000",
+  "latestRelease" : {
+    "objectId" : "item_405822",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:44:27.528+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8D44-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405822",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:44:27.528+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8D44-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of Wayana",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Tavares, Petronila da Silva",
+        "givenName" : "Petronila da Silva",
+        "familyName" : "Tavares",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35435",
+      "type" : "OTHER"
+    }, {
+      "id" : "wayana_tavares2005_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PM101 .B5,\nLoC Subject Headings: Wayana language -- Grammar",
+    "subjects" : [ {
+      "value" : "way - Wayana",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix, 463 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405820",
+    "name" : "http://www.etnolinguistica.org/tese:tavares-2006",
+    "creationDate" : "2010-04-01T13:21:05.482+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D42-2",
+    "content" : "http://www.etnolinguistica.org/tese:tavares-2006",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ffb9cbbdf4bcd2d3e67b47193d28c3ec",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.etnolinguistica.org/tese:tavares-2006",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405821",
+    "name" : "wayana_tavares2005_o.pdf",
+    "creationDate" : "2010-04-01T13:21:06.404+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D43-F",
+    "content" : "/rest/items/item_405822_2/component/file_405821/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "65c78ccfc1c8b41a5607669cd9c603e0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 13295650,
+    "metadata" : {
+      "title" : "wayana_tavares2005_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 13295650
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

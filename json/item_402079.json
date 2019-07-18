@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_402079",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-17T10:56:54.006+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B7F9-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-17T10:56:54.006+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7708-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:25:30.138+0000",
+  "latestRelease" : {
+    "objectId" : "item_402079",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-17T10:56:54.006+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B7F9-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402079",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-17T10:56:54.006+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B7F9-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Deutsch-beninische Märchenforschung am Beispiel von Märchen in der Fon-Sprache mit phonetischer Transkription, Studie und Darstellung der Hauptfiguren und Themenvergleich",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mensah",
+        "familyName" : "Wekenon Tokponto",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29077",
+      "type" : "OTHER"
+    }, {
+      "id" : "fon_wekenon2003_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : " urn:nbn:de:hbz:361-2030",
+      "type" : "URN"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "place" : "Bielefeld",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: GR351.42.F65, LoC Subject Headings: Fon (African people), LoC Subject Headings: Fon dialect",
+    "subjects" : [ {
+      "value" : "fon - Fon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "298 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8178, LoC Subject Headings: Fon (African people)--Folklore, LoC Subject Headings: Fon dialect--Texts"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402078",
+    "name" : "fon_wekenon2003_s.pdf",
+    "creationDate" : "2010-04-01T11:25:29.932+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7707-4",
+    "content" : "/rest/items/item_402079_4/component/file_402078/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7c07296a5023bf36e460db82aba5ff43",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1209498,
+    "metadata" : {
+      "title" : "fon_wekenon2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1209498
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147093",
+    "name" : "http://pub.uni-bielefeld.de/publication/2306183",
+    "creationDate" : "2015-04-17T10:56:34.383+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://pub.uni-bielefeld.de/publication/2306183",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d2ab1c6ce54d76654411fd1c7fc267e4",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://pub.uni-bielefeld.de/publication/2306183",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. Bielefeld, Publications at Bielefeld University (PUB), pdf download",
+      "size" : 0
+    }
+  } ]
+}

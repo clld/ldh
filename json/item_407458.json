@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_407458",
+  "versionNumber" : 5,
+  "modificationDate" : "2013-04-08T13:09:02.487+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-964F-E",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "message" : "EJ ergänzt",
+  "lastModificationDate" : "2013-04-08T13:09:02.487+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-964B-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:13:42.584+0000",
+  "latestRelease" : {
+    "objectId" : "item_407458",
+    "versionNumber" : 5,
+    "modificationDate" : "2013-04-08T13:09:02.487+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-964F-E",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407458",
+    "versionNumber" : 5,
+    "modificationDate" : "2013-04-08T13:09:02.487+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-964F-E",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Subordinate clauses in Surui",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Carolyn",
+        "familyName" : "Bontkes",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1985",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "38929",
+      "type" : "OTHER"
+    }, {
+      "id" : "parintintin_betts2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Porto Velho workpapers",
+      "alternativeTitles" : [ { } ],
+      "startPage" : "189",
+      "endPage" : "207",
+      "publishingInfo" : {
+        "place" : "Brasília",
+        "publisher" : "SIL"
+      },
+      "genre" : "PROCEEDINGS"
+    } ],
+    "freeKeywords" : "LoC Class: PM7176,\nLoC Subject Headings: Surui language -- Dictionaries -- Portuguese",
+    "subjects" : [ {
+      "value" : "sru - Suruí",
+      "type" : "ISO639_3"
+    } ],
+    "abstracts" : [ {
+      "value" : "This paper is a description of three types of subordinate clauses in Surui: adverbial subordinate clauses, complement clauses, and quotative clauses. In adverbial and in one type of complement clauses, reflexive forms are used to show coreference with the subject of the independent clause. This type of complement clause is closely linked with its complementizer,\nwhereas another type is only in loose construction with a demonstrative complementizer."
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407456",
+    "name" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "creationDate" : "2010-04-01T14:13:42.129+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-964A-7",
+    "content" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7df0e5ec7312b4860cf2e1ea5f6c90b6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Brazil",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_526980",
+    "name" : "surui_bontkes1985_s.pdf",
+    "creationDate" : "2010-09-22T12:09:18.092+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-C718-C",
+    "content" : "/rest/items/item_407458_5/component/file_526980/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ed4880f458c7e448b416afbb0c2b66b7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 235117,
+    "metadata" : {
+      "title" : "surui_bontkes1985_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 235117
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,144 @@
+{
+  "objectId" : "item_402848",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-05-31T11:07:54.961+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7B93-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:07:54.961+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7B93-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:46:09.144+0000",
+  "latestRelease" : {
+    "objectId" : "item_402848",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T11:07:54.961+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7B93-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402848",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T11:07:54.961+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7B93-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Arte y vocabulario de la lengua chiquita",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lucien",
+        "familyName" : "Adam",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Victor",
+        "familyName" : "Henry"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1880",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30669",
+      "type" : "OTHER"
+    }, {
+      "id" : "chiquita_adam1880_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Paris",
+      "publisher" : "Maisonneuve"
+    },
+    "freeKeywords" : "LoC Subject Headings: Chiquito language",
+    "subjects" : [ {
+      "value" : "cax - Chiquitano",
+      "type" : "ISO639_3"
+    } ],
+    "abstracts" : [ {
+      "value" : "PM5816, ISO 639-3 : cax, Chiquito language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402846",
+    "name" : "http://books.google.com/books?id=HXASAAAAYAAJ",
+    "creationDate" : "2010-04-01T11:46:01.812+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7B91-C",
+    "content" : "http://books.google.com/books?id=HXASAAAAYAAJ",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9a093bc4d2c4fc9c9804d3fa86b244fe",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://books.google.com/books?id=HXASAAAAYAAJ",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402847",
+    "name" : "chiquita_adam1880_o.pdf",
+    "creationDate" : "2010-04-01T11:46:02.271+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7B92-A",
+    "content" : "/rest/items/item_402848_5/component/file_402847/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "83967a7ccc67133f2556181e15d7f94b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 73881843,
+    "metadata" : {
+      "title" : "chiquita_adam1880_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 73881843,
+      "copyrightDate" : "2011-12-02",
+      "rights" : "not in copyright, Victor Hugo 1850-1907"
+    }
+  } ]
+}

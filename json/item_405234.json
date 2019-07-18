@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_405234",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:49:11.447+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8A00-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:49:11.447+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8A00-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:04:27.754+0000",
+  "latestRelease" : {
+    "objectId" : "item_405234",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:49:11.447+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A00-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405234",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:49:11.447+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A00-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Lições para s aprendizagem da língua Kaxinawá",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Montag, Susan",
+        "givenName" : "Susan",
+        "familyName" : "Montag",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34408",
+      "type" : "OTHER"
+    }, {
+      "id" : "kaxinawa_montag2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "revisado",
+      "place" : "Lima, Perú",
+      "publisher" : "Ministerio de Educación, Inst. Lingüistico de\n              Verano"
+    },
+    "sources" : [ {
+      "title" : "Dados etno-lingüisitcos",
+      "volume" : "59",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6290.K3,\nLoC Subject Headings: Cashinawa language",
+    "subjects" : [ {
+      "value" : "cbs - Cashinahua",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405232",
+    "name" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/KIGram.pdf",
+    "creationDate" : "2010-04-01T13:04:22.451+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-89FE-B",
+    "content" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/KIGram.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "08099c719b61fcca415019413ebad2ee",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/KIGram.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405233",
+    "name" : "kaxinawa_montag2004_s.pdf",
+    "creationDate" : "2010-04-01T13:04:27.631+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-89FF-9",
+    "content" : "/rest/items/item_405234_2/component/file_405233/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "08099c719b61fcca415019413ebad2ee",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 595565,
+    "metadata" : {
+      "title" : "kaxinawa_montag2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 595565
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_407998",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-07T07:25:33.909+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A7D1-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2015-04-07T07:25:33.909+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9949-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:27:36.703+0000",
+  "latestRelease" : {
+    "objectId" : "item_407998",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-07T07:25:33.909+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7D1-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407998",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-07T07:25:33.909+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7D1-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Cashibo relative clause constructions",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lila May",
+        "familyName" : "Wistrand",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1968",
+    "datePublishedInPrint" : "1968",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "42194",
+      "type" : "OTHER"
+    }, {
+      "id" : "cashibo_wistrand1968_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Austin, TX",
+      "publisher" : "Univ. of Texas"
+    },
+    "freeKeywords" : "LoC Class: PM5763, LoC Subject Headings: Cashibo language",
+    "subjects" : [ {
+      "value" : "cbr - Cashibo-Cacataibo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "iv, 81 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5763,\nLoC Subject Headings: Cashibo language--Clauses"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407997",
+    "name" : "cashibo_wistrand1968_o.pdf",
+    "creationDate" : "2010-04-01T14:27:36.399+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9948-2",
+    "content" : "/rest/items/item_407998_3/component/file_407997/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4fceaa9c03adf8c0d1daf8abad0bf849",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2732279,
+    "metadata" : {
+      "title" : "cashibo_wistrand1968_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2732279
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2129320",
+    "name" : "http://www.peru.sil.org/resources/archives/9777",
+    "creationDate" : "2015-04-07T07:24:59.758+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/9777",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ebddd8d4facce4c912f1c0405952ed35",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/9777",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Peru Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

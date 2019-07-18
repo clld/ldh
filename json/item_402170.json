@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_402170",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-13T09:49:01.122+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CD4F-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-13T09:49:01.122+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-779B-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:26:58.109+0000",
+  "latestRelease" : {
+    "objectId" : "item_402170",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-13T09:49:01.122+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD4F-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402170",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-13T09:49:01.122+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD4F-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The structure and function of the verbal piece in the Jebero language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "John Theodor",
+        "familyName" : "Bendor-Samuel",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1958",
+    "datePublishedInPrint" : "1981",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29245",
+      "type" : "OTHER"
+    }, {
+      "id" : "jebero_bendor1981_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Verano",
+      "publisher" : "Inst. Linguistico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Datos etno-lingüísticos",
+      "volume" : "70",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5271, LoC Subject Headings: Jebero language",
+    "subjects" : [ {
+      "value" : "jeb - Jebero",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VI, 171 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402169",
+    "name" : "jebero_bendor1981_o.pdf",
+    "creationDate" : "2010-04-01T11:26:57.149+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-779A-B",
+    "content" : "/rest/items/item_402170_4/component/file_402169/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2f13a007ad433e1329c0651a142f2c49",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9588313,
+    "metadata" : {
+      "title" : "jebero_bendor1981_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9588313
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2154498",
+    "name" : "http://www.peru.sil.org/resources/archives/9563",
+    "creationDate" : "2015-05-13T09:48:01.491+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/9563",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "597187557a55377097de9428a31d60fb",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/9563",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Language & Culture Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

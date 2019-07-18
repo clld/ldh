@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_405377",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:41:33.884+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8ABF-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:41:33.884+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8ABF-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:09:00.484+0000",
+  "latestRelease" : {
+    "objectId" : "item_405377",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:41:33.884+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8ABF-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405377",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:41:33.884+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8ABF-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Zapotec writing : Knowledge, power, and and memory in ancient Oaxaca",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Urcid, Javier",
+        "givenName" : "Javier",
+        "familyName" : "Urcid",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34762",
+      "type" : "OTHER"
+    }, {
+      "id" : "oaxaca_urcid2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[Waltham, Massachusetts]",
+      "publisher" : "Brandeis Univ., Dept. of Anthropology"
+    },
+    "freeKeywords" : "LoC Class: PM4546,\nLoC Subject Headings: Zapotec language --Writing",
+    "totalNumberOfPages" : "369 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405375",
+    "name" : "http://www.famsi.org/zapotecwriting/",
+    "creationDate" : "2010-04-01T13:08:58.231+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8ABD-6",
+    "content" : "http://www.famsi.org/zapotecwriting/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "65682ae7b49d0df3e18b08bec1af80d4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.famsi.org/zapotecwriting/",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405376",
+    "name" : "oaxaca_urcid2005_s.pdf",
+    "creationDate" : "2010-04-01T13:08:58.828+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8ABE-4",
+    "content" : "/rest/items/item_405377_2/component/file_405376/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "abe4d73b63f0f1e662ba7ea9c93edf03",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 16578772,
+    "metadata" : {
+      "title" : "oaxaca_urcid2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 16578772
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

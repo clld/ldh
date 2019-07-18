@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_404145",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-10T08:08:22.670+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0A80-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Datei aktualisiert",
+  "lastModificationDate" : "2015-03-10T08:08:22.670+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-83D4-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:35:39.642+0000",
+  "latestRelease" : {
+    "objectId" : "item_404145",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-10T08:08:22.670+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0A80-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404145",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-10T08:08:22.670+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0A80-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulario o manual de dialogos en Español y Bisaya",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Dionisio",
+        "familyName" : "Mirasol",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1925",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "32304",
+      "type" : "OTHER"
+    }, {
+      "id" : "bisaya2_mirasol1925.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Mandurriao, Iloilo",
+      "publisher" : "La Panayana"
+    },
+    "freeKeywords" : "LoC Class: PL5649.4, LoC Subject Headings: Cebuano language",
+    "subjects" : [ {
+      "value" : "ceb - Cebuano",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404143",
+    "name" : "http://www.hti.umich.edu/cgi/t/text/text-idx?c=philamer;idno=AQA1995.0001.001",
+    "creationDate" : "2010-04-01T12:35:35.954+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.hti.umich.edu/cgi/t/text/text-idx?c=philamer;idno=AQA1995.0001.001",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7bc27d3b8557597d56095c18d0e1f3c7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.hti.umich.edu/cgi/t/text/text-idx?c=philamer;idno=AQA1995.0001.001",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Michigan Digital Library Text Collections UMDL, view online",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2110471",
+    "name" : "bisaya_mirasol1926.pdf",
+    "creationDate" : "2015-03-10T08:03:57.068+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0025-0A81-3",
+    "content" : "/rest/items/item_404145_4/component/file_2110471/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7d666c168ae06fdb42091538bd84710f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 26908541,
+    "metadata" : {
+      "title" : "bisaya_mirasol1926.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 26908541
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_401481",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-01-23T14:39:12.919+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-A26E-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-01-23T14:39:12.919+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-738D-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:12:45.513+0000",
+  "latestRelease" : {
+    "objectId" : "item_401481",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-23T14:39:12.919+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A26E-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401481",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-23T14:39:12.919+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A26E-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dictionary and grammar of the Chamorro language of the island of Guam",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Edward Ritter von",
+        "familyName" : "Preissig",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1918",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "26781",
+      "type" : "OTHER"
+    }, {
+      "id" : "chamorro_preissig1918_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Washington",
+      "publisher" : "Govt. print. off."
+    },
+    "freeKeywords" : "LoC Class: PL5295,\nLoC Subject Headings: Chamorro language",
+    "subjects" : [ {
+      "value" : "cha - Chamorro",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vi, 235 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL5295,\nLoC Subject Headings: Chamorro language--Dictionaries--English, English language--Dictionaries--Chamorro, Chamorro language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401480",
+    "name" : "chamorro_preissig1918_o.pdf",
+    "creationDate" : "2010-04-01T11:12:35.557+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-738C-D",
+    "content" : "/rest/items/item_401481_3/component/file_401480/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a93c93eaa6c5f315af38600f4db617c2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 106594304,
+    "metadata" : {
+      "title" : "chamorro_preissig1918_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 106594304,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2085276",
+    "name" : "https://archive.org/details/dictionarygramma00preirich",
+    "creationDate" : "2015-01-23T14:38:06.722+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/dictionarygramma00preirich",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "092cf5bf32a6ea6fac2c03005b1bc6c8",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/dictionarygramma00preirich",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, read online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

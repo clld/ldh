@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_402585",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:45:35.818+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-79FA-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:45:35.818+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-79FA-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:34:33.477+0000",
+  "latestRelease" : {
+    "objectId" : "item_402585",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:45:35.818+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-79FA-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402585",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:45:35.818+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-79FA-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Selbstbewußsein und Selbstreferenz : Ich in der Grammatik der Sprachen der Welt",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Johannes",
+        "familyName" : "Helmbrecht",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30026",
+      "type" : "OTHER"
+    }, {
+      "id" : "selbstreferenz_helmbrecht2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Erfurt",
+      "publisher" : "Univ."
+    },
+    "sources" : [ {
+      "title" : "ASSidUE",
+      "volume" : "15",
+      "genre" : "SERIES"
+    } ],
+    "totalNumberOfPages" : "27 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402583",
+    "name" : "http://www.db-thueringen.de/servlets/DerivateServlet/Derivate-2867/ASSidUE15.html",
+    "creationDate" : "2010-04-01T11:34:33.252+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-79F8-5",
+    "content" : "http://www.db-thueringen.de/servlets/DerivateServlet/Derivate-2867/ASSidUE15.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f495e0121e54f70dbafc838f96c27a2c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.db-thueringen.de/servlets/DerivateServlet/Derivate-2867/ASSidUE15.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402584",
+    "name" : "selbstreferenz_helmbrecht2004_s.pdf",
+    "creationDate" : "2010-04-01T11:34:33.398+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-79F9-3",
+    "content" : "/rest/items/item_402585_2/component/file_402584/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a14c500e4a4ab510998dfb73db401478",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 206333,
+    "metadata" : {
+      "title" : "selbstreferenz_helmbrecht2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 206333
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

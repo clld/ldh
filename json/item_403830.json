@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_403830",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-13T01:27:06.643+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7204-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:27:06.643+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-820B-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:26:18.996+0000",
+  "latestRelease" : {
+    "objectId" : "item_403830",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T01:27:06.643+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7204-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403830",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T01:27:06.643+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7204-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Evidencialidad : la codificación lingüística del punto de vista",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Fernando",
+        "familyName" : "Wachtmeister Bermúdez",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31746",
+      "type" : "OTHER"
+    }, {
+      "id" : "evidencialidad_wachtmeister2005_s .html",
+      "type" : "OTHER"
+    }, {
+      "id" : "91-7155-196-4",
+      "type" : "ISBN"
+    }, {
+      "id" : " urn:nbn:se:su:diva-806",
+      "type" : "URN"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "place" : "Stockholm",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PC4315.A8, LoC Subject Headings: Spanish language, LoC Subject Headings: Evidentials (Linguistics)",
+    "subjects" : [ {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "201 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403829",
+    "name" : "evidencialidad_wachtmeister2005_s.pdf",
+    "creationDate" : "2010-04-01T12:26:18.782+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-820A-B",
+    "content" : "/rest/items/item_403830_4/component/file_403829/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c0474590eff3af1a02506cbd48ff433c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1690836,
+    "metadata" : {
+      "title" : "evidencialidad_wachtmeister2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1690836
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2034976",
+    "name" : "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-806",
+    "creationDate" : "2014-06-26T09:41:21.604+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-806",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b8dde09f906d3518d0bc261648a21f18",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-806",
+      "contentCategory" : "publisher-version",
+      "description" : "Stockholm University, Diva Repository, pdf",
+      "size" : 0
+    }
+  } ]
+}

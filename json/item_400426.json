@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_400426",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-17T10:12:58.459+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7828-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-17T10:12:58.459+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6D65-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:51:05.633+0000",
+  "latestRelease" : {
+    "objectId" : "item_400426",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-17T10:12:58.459+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7828-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400426",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-17T10:12:58.459+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7828-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Notes on Agarabi grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jean",
+        "familyName" : "Goddard",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1980",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "19138",
+      "type" : "OTHER"
+    }, {
+      "id" : "agarabi_goddard.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Papers in New Guinea Linguistics",
+      "volume" : "20",
+      "genre" : "BOOK"
+    }, {
+      "title" : "Pacific linguistics : Series A, Occasional papers",
+      "volume" : "56",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6603, LoC Subject Headings: Agarabe language",
+    "subjects" : [ {
+      "value" : "agd - Agarabi",
+      "type" : "ISO639_3"
+    } ],
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6603,\nLoC Subject Headings: Agarabe language --Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400425",
+    "name" : "agarabi_goddard.pdf",
+    "creationDate" : "2010-04-01T10:51:05.277+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6D64-1",
+    "content" : "/rest/items/item_400426_4/component/file_400425/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d1fb6ce91f1e825089bcfefe51d45669",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3230373,
+    "metadata" : {
+      "title" : "agarabi_goddard.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3230373
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116466",
+    "name" : "http://www-01.sil.org/pacific/png/abstract.asp?id=10822",
+    "creationDate" : "2015-03-17T10:12:20.653+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www-01.sil.org/pacific/png/abstract.asp?id=10822",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9243f11accf69a5fae1f69d47bd99f13",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www-01.sil.org/pacific/png/abstract.asp?id=10822",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Papua New Guinea, PNG Language Resources, pdf download",
+      "size" : 0
+    }
+  } ]
+}

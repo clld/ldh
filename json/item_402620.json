@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_402620",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:49:49.422+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7A24-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:49:49.422+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7A24-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:35:06.636+0000",
+  "latestRelease" : {
+    "objectId" : "item_402620",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:49:49.422+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7A24-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402620",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:49:49.422+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7A24-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Conversational Ticuna",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Doris G.",
+        "familyName" : "Anderson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1962",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30101",
+      "type" : "OTHER"
+    }, {
+      "id" : "ticuna_anderson1962.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Oklahoma",
+      "publisher" : "Summer Inst. of Linguistics, Univ. of Oklahoma"
+    },
+    "freeKeywords" : "LoC Class: PM7123,\nLoC Subject Headings: Tucuna language -- Conversation and phrase books",
+    "subjects" : [ {
+      "value" : "tca - Ticuna",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XXIV, 402 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402618",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3379",
+    "creationDate" : "2010-04-01T11:35:05.029+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A22-0",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3379",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "fc18c0152aaa5de38933ba2281295983",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3379",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402619",
+    "name" : "ticuna_anderson1962.pdf",
+    "creationDate" : "2010-04-01T11:35:05.866+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A23-E",
+    "content" : "/rest/items/item_402620_2/component/file_402619/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2f8038014aed11f7f9b992311b13cd88",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6498997,
+    "metadata" : {
+      "title" : "ticuna_anderson1962.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6498997
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

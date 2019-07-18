@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_407357",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-12T23:11:03.843+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70DE-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T23:11:03.843+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-95C3-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:11:46.759+0000",
+  "latestRelease" : {
+    "objectId" : "item_407357",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T23:11:03.843+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70DE-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407357",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T23:11:03.843+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70DE-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Nanti evidential practice : language, knowledge, and social action in an Amazonian society",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lev David",
+        "familyName" : "Michael",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2008",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38427",
+      "type" : "OTHER"
+    }, {
+      "id" : "nanti_lev2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Austin",
+      "publisher" : "Univ. of Texas"
+    },
+    "freeKeywords" : "LoC Class: PM5271, LoC Subject Headings: Nanti language, LoC Subject Headings: Peru--Languages",
+    "subjects" : [ {
+      "value" : "cox - Nanti",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxv, 462 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407356",
+    "name" : "nanti_lev2008_s.pdf",
+    "creationDate" : "2010-04-01T14:11:46.557+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-95C2-E",
+    "content" : "/rest/items/item_407357_5/component/file_407356/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f765016223cf8f75402bc8d7526eaefb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1433854,
+    "metadata" : {
+      "title" : "nanti_lev2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1433854,
+      "copyrightDate" : "2010-11-13",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_2049585",
+    "name" : "http://hdl.handle.net/2152/3884",
+    "creationDate" : "2014-08-11T09:35:44.702+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/2152/3884",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/2152/3884",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. of Texas, Digital Repository, pdf",
+      "size" : 0
+    }
+  } ]
+}

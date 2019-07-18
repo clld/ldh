@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_400793",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-06T11:44:53.049+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C7C2-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-06T11:44:53.049+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6F8E-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:59:23.370+0000",
+  "latestRelease" : {
+    "objectId" : "item_400793",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-06T11:44:53.049+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7C2-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400793",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-06T11:44:53.049+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7C2-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Mocovi (Guaicuru) : fonologia e morfossintaxe",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Cecilia Beatriz",
+        "familyName" : "Gualdieri",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1998",
+    "datePublishedInPrint" : "1998",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "24283",
+      "type" : "OTHER"
+    }, {
+      "id" : "mocovi_gualdieri1998_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "place" : "Campinas",
+      "publisher" : "Univ. Estadual"
+    },
+    "freeKeywords" : "LoC Class: PM6536, LoC Subject Headings: Mocoví language",
+    "subjects" : [ {
+      "value" : "moc - Mocoví",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "331 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400791",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000132220",
+    "creationDate" : "2010-04-01T10:59:22.039+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000132220",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9541f411699ccaf30d171daa93eed567",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000132220",
+      "contentCategory" : "publisher-version",
+      "description" : "UNICAMP, Biblioteca Digital, pdf download, free e-mail registration neccessary",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400792",
+    "name" : "mocovi_gualdieri1998_s.pdf",
+    "creationDate" : "2010-04-01T10:59:23.196+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F8D-8",
+    "content" : "/rest/items/item_400793_4/component/file_400792/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ed9940a838761f4e3fb3e92ca4fd6321",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1230122,
+    "metadata" : {
+      "title" : "mocovi_gualdieri1998_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1230122
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

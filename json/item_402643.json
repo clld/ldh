@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_402643",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T17:24:30.701+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6E4E-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T17:24:30.701+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7A46-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:35:32.855+0000",
+  "latestRelease" : {
+    "objectId" : "item_402643",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:24:30.701+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E4E-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402643",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:24:30.701+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E4E-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Mencalèny & Usung Bayung Marang : a collection of Kenyah stories in the Òma Lóngh and Lebu' Kulit languages",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Antonia",
+        "familyName" : "Soriente",
+        "organizations" : [ {
+          "name" : "Max-Planck-Institut für evolutionäre\n              Anthropologie <Leipzig>"
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2006",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30186",
+      "type" : "OTHER"
+    }, {
+      "id" : "mencaleny_soriente_2006_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "979-8850-67-X",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Jakarta",
+      "publisher" : "Atma Jaya Univ. Press"
+    },
+    "freeKeywords" : "LoC Class: PL5261.Z77, LoC Subject Headings: Tales -- Borneo, LoC Subject Headings: Kenya (Southeast Asian people) -- Folklore",
+    "totalNumberOfPages" : "xliii, 315 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402641",
+    "name" : "http://lingweb.eva.mpg.de/jakarta/buku_kenyah.php",
+    "creationDate" : "2010-04-01T11:35:32.239+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://lingweb.eva.mpg.de/jakarta/buku_kenyah.php",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3db9c95ccceb4e0d14f235eea6e7f6ee",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://lingweb.eva.mpg.de/jakarta/buku_kenyah.php",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402642",
+    "name" : "mencaleny_soriente_2006_s.pdf",
+    "creationDate" : "2010-04-01T11:35:32.404+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A45-2",
+    "content" : "/rest/items/item_402643_3/component/file_402642/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "adeee9c857be8c64b984e3a4a684fa1c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2877212,
+    "metadata" : {
+      "title" : "mencaleny_soriente_2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2877212
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

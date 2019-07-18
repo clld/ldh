@@ -1,0 +1,125 @@
+{
+  "objectId" : "item_405530",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-06-06T07:48:30.180+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8B9E-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:48:30.180+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B9E-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:14:52.314+0000",
+  "latestRelease" : {
+    "objectId" : "item_405530",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-06-06T07:48:30.180+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B9E-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405530",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-06-06T07:48:30.180+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B9E-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of the high dialect of the Tamil language, termed Shen-Tamil : to which is added an introduction to Tamil poetry",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Costanzo Giuseppe",
+        "familyName" : "Beschi",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Benjamin Guy",
+        "familyName" : "Babington"
+      },
+      "role" : "TRANSLATOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1822",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "35027",
+      "type" : "OTHER"
+    }, {
+      "id" : "tamil_beschi1822_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng", "tam" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Madras",
+      "publisher" : "College Pr."
+    },
+    "freeKeywords" : "LoC Subject Headings: Tamil language",
+    "subjects" : [ {
+      "value" : "tam - Tamil",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 117 S.",
+    "abstracts" : [ {
+      "value" : "PL4753, ISO 639-3 : tam, Tamil language --Grammar, Tamil language --Versification"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405529",
+    "name" : "tamil_beschi1822_o.pdf",
+    "creationDate" : "2010-04-01T13:14:51.450+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B9D-6",
+    "content" : "/rest/items/item_405530_5/component/file_405529/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8684c8d623a02091738b4a93275818c1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8690885,
+    "metadata" : {
+      "title" : "tamil_beschi1822_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8690885,
+      "copyrightDate" : "2010-12-01",
+      "rights" : "not in copyright, Costanzo Giuseppe Beschi, 1680 - 1742 (s.a. 1747)"
+    }
+  } ]
+}

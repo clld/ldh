@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_402043",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:33:38.390+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-76C8-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:33:38.390+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-76C8-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:24:46.573+0000",
+  "latestRelease" : {
+    "objectId" : "item_402043",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:33:38.390+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-76C8-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402043",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:33:38.390+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-76C8-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Phonological nativization of Dholuo loanwords",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Owino, Daniel",
+        "givenName" : "Daniel",
+        "familyName" : "Owino",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "28959",
+      "type" : "OTHER"
+    }, {
+      "id" : "dholuo_owino2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Pretoria",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL8375,\nLoC Subject Headings: Luo language (Kenya and Tanzania)",
+    "subjects" : [ {
+      "value" : "luo - Luo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "206 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402041",
+    "name" : "http://upetd.up.ac.za/thesis/available/etd-02092004-112729/",
+    "creationDate" : "2010-04-01T11:24:45.050+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-76C6-F",
+    "content" : "http://upetd.up.ac.za/thesis/available/etd-02092004-112729/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b90ce02c096832c32cc44a8f41da84be",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://upetd.up.ac.za/thesis/available/etd-02092004-112729/",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402042",
+    "name" : "dholuo_owino2003_s.pdf",
+    "creationDate" : "2010-04-01T11:24:46.426+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-76C7-D",
+    "content" : "/rest/items/item_402043_2/component/file_402042/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4ddaa4a0da602765dcec1019a74c66ad",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 826509,
+    "metadata" : {
+      "title" : "dholuo_owino2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 826509
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

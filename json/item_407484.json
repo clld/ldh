@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_407484",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:58:10.336+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9672-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:58:10.336+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9672-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:13:56.882+0000",
+  "latestRelease" : {
+    "objectId" : "item_407484",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:58:10.336+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9672-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407484",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:58:10.336+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9672-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Prominence in Paumarí",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Chapman, Shirley",
+        "givenName" : "Shirley",
+        "familyName" : "Chapman",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1979",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "39017",
+      "type" : "OTHER"
+    }, {
+      "id" : "paumari_chapman1979_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Brasil",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PM6963,\nLoC Subject Headings: Purupuru language --Grammar",
+    "subjects" : [ {
+      "value" : "pad - Paumarí",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "19 p."
+  },
+  "files" : [ {
+    "objectId" : "file_407482",
+    "name" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "creationDate" : "2010-04-01T14:13:56.304+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9670-D",
+    "content" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c9461039d010116eaeca40f82b42a28c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407483",
+    "name" : "paumari_chapman1979_s.pdf",
+    "creationDate" : "2010-04-01T14:13:56.804+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9671-B",
+    "content" : "/rest/items/item_407484_2/component/file_407483/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4c8589431162779d7da24066bc8acda9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 173782,
+    "metadata" : {
+      "title" : "paumari_chapman1979_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 173782
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

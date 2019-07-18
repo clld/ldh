@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_406220",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-17T11:43:40.194+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B817-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-17T11:43:40.194+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8F77-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:33:13.629+0000",
+  "latestRelease" : {
+    "objectId" : "item_406220",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-17T11:43:40.194+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B817-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406220",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-17T11:43:40.194+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B817-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of Galo",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mark William",
+        "familyName" : "Post",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36459",
+      "type" : "OTHER"
+    }, {
+      "id" : "galo_post2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Bundoora",
+      "publisher" : "La Trobe Univ."
+    },
+    "freeKeywords" : "LoC Class: PL4001.G16, LoC Subject Headings: Gallong language",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "947 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL4001.G16,\nLoC Subject Headings: Gallong language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406219",
+    "name" : "galo_post2007_s.pdf",
+    "creationDate" : "2010-04-01T13:33:12.971+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8F76-F",
+    "content" : "/rest/items/item_406220_3/component/file_406219/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "cc1bfd76dbbe3b1c37589e140f92a4f0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6249072,
+    "metadata" : {
+      "title" : "galo_post2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6249072
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147107",
+    "name" : "http://irs.ub.rug.nl/ppn/310130360",
+    "creationDate" : "2015-04-17T11:42:56.936+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://irs.ub.rug.nl/ppn/310130360",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "44a52c1ed6bc088e96cd3dd8757595be",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://irs.ub.rug.nl/ppn/310130360",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Groningen, Research database, pdf download",
+      "size" : 0
+    }
+  } ]
+}

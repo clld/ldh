@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_407226",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T22:00:14.118+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7074-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T22:00:14.118+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-950E-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:02:08.819+0000",
+  "latestRelease" : {
+    "objectId" : "item_407226",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T22:00:14.118+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7074-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407226",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T22:00:14.118+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7074-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Breaking up is hard to do : teasing apart morphological complexity in Iwaidja and Maung",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Amos",
+        "familyName" : "Teo",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "degree" : "BACHELOR",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37831",
+      "type" : "OTHER"
+    }, {
+      "id" : "iwaidja_teo2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Melbourne",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL7101.I93, LoC Subject Headings: Iwaidja language, LoC Subject Headings: Maung language",
+    "subjects" : [ {
+      "value" : "ibd - Iwaidja",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "mph - Maung",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix, 92 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL7101.I93 / PL7101.M3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407225",
+    "name" : "iwaidja_teo2007_s.pdf",
+    "creationDate" : "2010-04-01T14:02:08.424+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-950D-8",
+    "content" : "/rest/items/item_407226_4/component/file_407225/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fccf854a3502833e258f8922b2d38ff4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3183488,
+    "metadata" : {
+      "title" : "iwaidja_teo2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3183488
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2048441",
+    "name" : "http://hdl.handle.net/11343/39303",
+    "creationDate" : "2014-08-06T10:16:46.769+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/11343/39303",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "edf6290d49cd11a612df79ba910f4f97",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/11343/39303",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Melbourne, Institutional Repository Minerva access, pdf",
+      "size" : 0
+    }
+  } ]
+}

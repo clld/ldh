@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_402853",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T18:02:14.596+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6E95-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T18:02:14.596+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7B9D-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:46:15.360+0000",
+  "latestRelease" : {
+    "objectId" : "item_402853",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:02:14.596+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E95-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402853",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:02:14.596+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E95-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Totonac : from clause to discourse",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Reid, Aileen A.",
+        "givenName" : "Aileen A.",
+        "familyName" : "Reid",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1968",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30677",
+      "type" : "OTHER"
+    }, {
+      "id" : "totonac_reid1968_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "1st ed.",
+      "place" : "Norman",
+      "publisher" : "Summer Institute of Linguistics, Univ. of\n              Oklahoma"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics publications in linguistics and related fields",
+      "volume" : "17",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4426, LoC Subject Headings: Totonac language -- Sentences, LoC Subject Headings: Totonac language -- Composition and exercises",
+    "subjects" : [ {
+      "value" : "tos - Highland Totonac",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "185 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402851",
+    "name" : "http://www.ethnologue.com/show_work.asp?id=12153",
+    "creationDate" : "2010-04-01T11:46:13.658+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.ethnologue.com/show_work.asp?id=12153",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8af17f81bd9bf209bf2d30156d77ffd6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ethnologue.com/show_work.asp?id=12153",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402852",
+    "name" : "totonac_reid1968_o.pdf",
+    "creationDate" : "2010-04-01T11:46:14.546+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7B9C-5",
+    "content" : "/rest/items/item_402853_3/component/file_402852/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4507d90faca5231c5c7158a12c42178f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7901698,
+    "metadata" : {
+      "title" : "totonac_reid1968_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7901698
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

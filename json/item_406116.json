@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_406116",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-05-19T07:17:06.011+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-D094-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-05-19T07:17:06.011+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8EE2-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:29:47.027+0000",
+  "latestRelease" : {
+    "objectId" : "item_406116",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-19T07:17:06.011+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D094-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406116",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-19T07:17:06.011+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D094-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Last in first out? : an investigation of the regression hypothesis in Dutch emigrants in Anglophone Canada",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Merel Christina Joanna",
+        "familyName" : "Keijzer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35914",
+      "type" : "OTHER"
+    }, {
+      "id" : "regression_keijzer2007_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "978-90-78328-34-6",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "freeKeywords" : "LoC Class: P40.5.L28, LoC Subject Headings: Language attrition, LoC Subject Headings: Dutch language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "nld - Dutch",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "407 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406115",
+    "name" : "regression_keijzer2007_s.pdf",
+    "creationDate" : "2010-04-01T13:29:46.692+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8EE1-3",
+    "content" : "/rest/items/item_406116_3/component/file_406115/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1be288871962e1e9859b0e6b0bb9a0a4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2390731,
+    "metadata" : {
+      "title" : "regression_keijzer2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2390731
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2156050",
+    "name" : "http://www.lotpublications.nl/last-in-first-out-last-in-first-out-an-investigation-of-the-regression-hypothesis-in-dutch-emigrants-in-anglophone-canada",
+    "creationDate" : "2015-05-19T07:16:21.841+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.lotpublications.nl/last-in-first-out-last-in-first-out-an-investigation-of-the-regression-hypothesis-in-dutch-emigrants-in-anglophone-canada",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4b17e046e5eaf6d9abc8acff1b02b702",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lotpublications.nl/last-in-first-out-last-in-first-out-an-investigation-of-the-regression-hypothesis-in-dutch-emigrants-in-anglophone-canada",
+      "contentCategory" : "publisher-version",
+      "description" : "LOT Publications, open access fulltext, pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403251",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T11:19:23.674+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7DFD-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:19:23.674+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7DFD-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:05:52.339+0000",
+  "latestRelease" : {
+    "objectId" : "item_403251",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:19:23.674+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7DFD-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403251",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:19:23.674+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7DFD-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Leonard Bloomfield and the phonology of the Menomini language",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Bever, Thomas Gordon",
+        "givenName" : "Thomas Gordon",
+        "familyName" : "Bever",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1967",
+    "datePublishedInPrint" : "1967",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31105",
+      "type" : "OTHER"
+    }, {
+      "id" : "menomini_bever1967_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: PM1761,\nLoC Subject Headings: Menominee language --Phonology",
+    "subjects" : [ {
+      "value" : "mez - Menominee",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "[161 Bl.]"
+  },
+  "files" : [ {
+    "objectId" : "file_403249",
+    "name" : "http://www.ai.mit.edu/projects/dm/theses/bever67.pdf",
+    "creationDate" : "2010-04-01T12:05:45.885+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7DFB-1",
+    "content" : "http://www.ai.mit.edu/projects/dm/theses/bever67.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ba8cfd4e224502b631ae0ea72b1af4a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ai.mit.edu/projects/dm/theses/bever67.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "CSAIL, MIT Computer Science and Artificial Intelligence Laboratory",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403250",
+    "name" : "menomini_bever1967_o.pdf",
+    "creationDate" : "2010-04-01T12:05:51.268+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7DFC-0",
+    "content" : "/rest/items/item_403251_3/component/file_403250/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "62b450da03be0c4c55c64ef762a4985b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10387867,
+    "metadata" : {
+      "title" : "menomini_bever1967_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10387867
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

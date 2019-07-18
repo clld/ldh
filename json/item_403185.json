@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_403185",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-13T02:16:33.451+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7260-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:16:33.451+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D9C-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:02:30.288+0000",
+  "latestRelease" : {
+    "objectId" : "item_403185",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:16:33.451+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7260-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403185",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:16:33.451+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7260-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Incorporation : a theory of grammatical function changing",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mark C.",
+        "familyName" : "Baker",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1985",
+    "datePublishedInPrint" : "1985",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31062",
+      "type" : "OTHER"
+    }, {
+      "id" : "incorporation_baker1985_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P295, LoC Subject Headings: Grammar/Comparative and general--Syntax, LoC Subject Headings: Grammar/Comparative and general--Morphology, LoC Subject Headings: Functionalism (Linguistics), LoC Subject Headings: Generative grammar",
+    "totalNumberOfPages" : "691 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403184",
+    "name" : "incorporation_baker1985_o.pdf",
+    "creationDate" : "2010-04-01T12:02:26.092+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D9B-A",
+    "content" : "/rest/items/item_403185_4/component/file_403184/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9b3953480effb188654b944a5ee2606d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 42721709,
+    "metadata" : {
+      "title" : "incorporation_baker1985_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 42721709
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110885",
+    "name" : "http://hdl.handle.net/1721.1/15069",
+    "creationDate" : "2015-03-11T10:28:52.605+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/15069",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9a1b10512ef3d5a461fcbeec68d2381b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/15069",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf",
+      "size" : 0
+    }
+  } ]
+}

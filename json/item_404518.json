@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_404518",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-12-19T12:57:49.202+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-5E0E-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-19T12:57:49.202+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-85F4-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:42:55.181+0000",
+  "latestRelease" : {
+    "objectId" : "item_404518",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-19T12:57:49.202+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5E0E-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404518",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-19T12:57:49.202+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5E0E-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Die Kechua-Sprache",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Johann Jakob von",
+        "familyName" : "Tschudi",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1853",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "33352",
+      "type" : "OTHER"
+    }, {
+      "id" : "kechua_vontschudi1853_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Wien",
+      "publisher" : "Kaiserl.-Königl. Hof- und Staatsdruckerei"
+    },
+    "freeKeywords" : "LoC Class: PM6303,\nLoC Subject Headings: Quechua language",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM6303,\nLoC Subject Headings: Quechua language--Grammar, Quechua language--Dictionaries--German, Quechua language--Dictionaries--Spanish"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_2079736",
+    "name" : "kechua_tschudi1853.pdf",
+    "creationDate" : "2014-12-19T12:55:32.646+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-5E0F-5",
+    "content" : "/rest/items/item_404518_3/component/file_2079736/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2041f1139843e86a223c47521466cc63",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 67821425,
+    "metadata" : {
+      "title" : "kechua_tschudi1853.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Vol.1: Sprachlehre",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 67821425,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2079737",
+    "name" : "http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10589353-3",
+    "creationDate" : "2014-12-19T12:55:33.638+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10589353-3",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "62ef6a02aa6e08e1a1c5828f2a8c99ba",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10589353-3",
+      "contentCategory" : "publisher-version",
+      "description" : "Bayerische Staatsbibliothek digital, view online & pdf",
+      "size" : 0
+    }
+  } ]
+}

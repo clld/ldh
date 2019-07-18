@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_405811",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:09:58.272+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8D35-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:09:58.272+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8D35-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:20:54.756+0000",
+  "latestRelease" : {
+    "objectId" : "item_405811",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:09:58.272+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8D35-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405811",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:09:58.272+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8D35-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Chimariko in areal and typological perspective",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Jany, Carmen",
+        "givenName" : "Carmen",
+        "familyName" : "Jany",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35430",
+      "type" : "OTHER"
+    }, {
+      "id" : "chimariko_jany2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: P59.C2,\nLoC Subject Headings: Chimariko language",
+    "subjects" : [ {
+      "value" : "cid - Chimariko",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxiii, 474 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405809",
+    "name" : "http://proquest.umi.com/pqdweb?did=1390282921&sid=1&Fmt=2&clientId=56146&RQT=309&VName=PQD",
+    "creationDate" : "2010-04-01T13:20:52.464+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D33-4",
+    "content" : "http://proquest.umi.com/pqdweb?did=1390282921&sid=1&Fmt=2&clientId=56146&RQT=309&VName=PQD",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "19d7ca5f9134a888438c227fc127e168",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://proquest.umi.com/pqdweb?did=1390282921&sid=1&Fmt=2&clientId=56146&RQT=309&VName=PQD",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405810",
+    "name" : "chimariko_jany2007_s.pdf",
+    "creationDate" : "2010-04-01T13:20:54.235+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D34-2",
+    "content" : "/rest/items/item_405811_2/component/file_405810/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0530e5bddbc836ad8815e44d2f3b438c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4958661,
+    "metadata" : {
+      "title" : "chimariko_jany2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4958661
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

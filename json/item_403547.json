@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403547",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T09:45:06.441+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8003-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:45:06.441+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8003-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:34.196+0000",
+  "latestRelease" : {
+    "objectId" : "item_403547",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:45:06.441+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8003-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403547",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:45:06.441+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8003-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Esquisse phonologique du Ngomba",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jean Pierre",
+        "familyName" : "Ngouagna",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1988",
+    "datePublishedInPrint" : "1988",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31385",
+      "type" : "OTHER"
+    }, {
+      "id" : "ngomba_ngouagna1988_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Ngombe language",
+    "subjects" : [ {
+      "value" : "jgo - Ngomba",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "iii, 108 S.",
+    "abstracts" : [ {
+      "value" : "PL8548.7, ISO 639-3 : jgo, Ngombe language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403546",
+    "name" : "ngomba_ngouagna1988_o.pdf",
+    "creationDate" : "2010-04-01T12:19:33.755+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8002-B",
+    "content" : "/rest/items/item_403547_3/component/file_403546/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8db043f93fec0c2b16368ea219045a9c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4088884,
+    "metadata" : {
+      "title" : "ngomba_ngouagna1988_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4088884,
+      "copyrightDate" : "2010-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

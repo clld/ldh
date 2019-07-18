@@ -1,0 +1,119 @@
+{
+  "objectId" : "item_403443",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T10:13:27.198+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7F2E-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:13:27.198+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7F2E-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:20.583+0000",
+  "latestRelease" : {
+    "objectId" : "item_403443",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:13:27.198+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F2E-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403443",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:13:27.198+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F2E-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Noun morphology of Befang",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Gueche Fotso, Hugues Carlos",
+        "givenName" : "Gueche",
+        "familyName" : "Fotso",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31251",
+      "type" : "OTHER"
+    }, {
+      "id" : "befang_gueche2004_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon --Languages",
+    "subjects" : [ {
+      "value" : "bby - Befang",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vii, [84] S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : bby, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403442",
+    "name" : "befang_gueche2004_o.pdf",
+    "creationDate" : "2010-04-01T12:18:20.212+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7F2D-3",
+    "content" : "/rest/items/item_403443_3/component/file_403442/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3065afba3b86ecb94fbc6b92d1d299ea",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3226578,
+    "metadata" : {
+      "title" : "befang_gueche2004_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3226578,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

@@ -1,0 +1,114 @@
+{
+  "objectId" : "item_403527",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T12:06:11.076+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7FD8-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T12:06:11.076+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7FD8-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:19.811+0000",
+  "latestRelease" : {
+    "objectId" : "item_403527",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T12:06:11.076+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7FD8-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403527",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T12:06:11.076+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7FD8-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Esquisse phonologique du Mpumpun",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Djiafeua, Prosper",
+        "givenName" : "Prosper",
+        "familyName" : "Djiafeua",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1989",
+    "datePublishedInPrint" : "1989",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31341",
+      "type" : "OTHER"
+    }, {
+      "id" : "mpumpun_djiafeua1989_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon --Languages",
+    "totalNumberOfPages" : "iv, 129 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : mgg ?, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403526",
+    "name" : "mpumpun_djiafeua1989_o.pdf",
+    "creationDate" : "2010-04-01T12:19:19.129+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7FD7-5",
+    "content" : "/rest/items/item_403527_4/component/file_403526/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7eeb56b741ad1735bb6b82bf08c3b04e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6782731,
+    "metadata" : {
+      "title" : "mpumpun_djiafeua1989_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6782731,
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

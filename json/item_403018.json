@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_403018",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-04-11T12:45:11.074+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7C8C-1",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "message" : "EJ, Startseite erg.",
+  "lastModificationDate" : "2013-04-11T12:45:11.074+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7C8A-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:50:58.781+0000",
+  "latestRelease" : {
+    "objectId" : "item_403018",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-04-11T12:45:11.074+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7C8C-1",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403018",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-04-11T12:45:11.074+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7C8C-1",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The northern Paiute language of Oregon",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "W. L.",
+        "familyName" : "Marsden",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1923",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "30808",
+      "type" : "OTHER"
+    }, {
+      "id" : "paiute_marsden1923_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "University of California publications in American archaelogy and ethnology",
+      "volume" : "20",
+      "startPage" : "175",
+      "endPage" : "191",
+      "publishingInfo" : {
+        "place" : "Berkeley",
+        "publisher" : "N.A."
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM2094,\nLoC Subject Headings: Northern Paiute language",
+    "subjects" : [ {
+      "value" : "pao - Northern Paiute",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403016",
+    "name" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=150",
+    "creationDate" : "2010-04-01T11:50:57.594+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7C88-9",
+    "content" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=150",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "89682236d4a0aae34c344882e0d653a5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=150",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403017",
+    "name" : "paiute_marsden1923_o.pdf",
+    "creationDate" : "2010-04-01T11:50:58.591+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7C89-7",
+    "content" : "/rest/items/item_403018_3/component/file_403017/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5ce866d477b2ce05119eee8c1df2a2f3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1289858,
+    "metadata" : {
+      "title" : "paiute_marsden1923_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1289858
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

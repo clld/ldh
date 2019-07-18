@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_405843",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:28:14.268+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8D60-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:28:14.268+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8D60-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:21:38.084+0000",
+  "latestRelease" : {
+    "objectId" : "item_405843",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:28:14.268+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8D60-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405843",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:28:14.268+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8D60-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of Hile Sherpa",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Graves, Thomas E.",
+        "givenName" : "Thomas E.",
+        "familyName" : "Graves",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35450",
+      "type" : "OTHER"
+    }, {
+      "id" : "sherpa_graves2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PL 3651 .54",
+    "subjects" : [ {
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiv, 354 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405841",
+    "name" : "http://proquest.umi.com/pqdweb?index=10&sid=3&srchmode=1&vinst=PROD&fmt=6&startpage=-1&clientid=56146&vname=PQD&RQT=309&did=1331398441&scaling=FULL&ts=12",
+    "creationDate" : "2010-04-01T13:21:36.581+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D5E-6",
+    "content" : "http://proquest.umi.com/pqdweb?index=10&sid=3&srchmode=1&vinst=PROD&fmt=6&startpage=-1&clientid=56146&vname=PQD&RQT=309&did=1331398441&scaling=FULL&ts=12",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "dffa351d57b145e579e36f2dd7ba77b0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://proquest.umi.com/pqdweb?index=10&sid=3&srchmode=1&vinst=PROD&fmt=6&startpage=-1&clientid=56146&vname=PQD&RQT=309&did=1331398441&scaling=FULL&ts=12",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405842",
+    "name" : "sherpa_graves2007_s.pdf",
+    "creationDate" : "2010-04-01T13:21:37.824+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D5F-4",
+    "content" : "/rest/items/item_405843_2/component/file_405842/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7754d3a4dad124405aaf911aeb6b4652",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1090319,
+    "metadata" : {
+      "title" : "sherpa_graves2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1090319
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

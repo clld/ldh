@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_407585",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T22:44:10.330+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70B9-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T22:44:10.330+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-96FE-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:16:02.680+0000",
+  "latestRelease" : {
+    "objectId" : "item_407585",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T22:44:10.330+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70B9-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407585",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T22:44:10.330+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70B9-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The acquistion of reference : a cross-linguistics study",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Rozendaal, Margaretha Isabella",
+        "givenName" : "Margaretha Isabella",
+        "familyName" : "Rozendaal",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2008",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "39611",
+      "type" : "OTHER"
+    }, {
+      "id" : "reference_rozendaal2008_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "978-90-78328-71-1",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "sources" : [ {
+      "title" : "LOT Dissertation Series",
+      "volume" : "197",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P118, LoC Subject Headings: Language acquisition, LoC Subject Headings: Reference (Linguistics)",
+    "totalNumberOfPages" : "415 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407583",
+    "name" : "http://www.lotpublications.nl/publish/issues/Rozendaal/index.html",
+    "creationDate" : "2010-04-01T14:16:02.303+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.lotpublications.nl/publish/issues/Rozendaal/index.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lotpublications.nl/publish/issues/Rozendaal/index.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407584",
+    "name" : "reference_rozendaal2008_s.pdf",
+    "creationDate" : "2010-04-01T14:16:02.407+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-96FD-6",
+    "content" : "/rest/items/item_407585_3/component/file_407584/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "18823aa281c326cc8d1d364004625750",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2329616,
+    "metadata" : {
+      "title" : "reference_rozendaal2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2329616
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

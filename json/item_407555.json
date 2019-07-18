@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_407555",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-08-11T10:21:42.512+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-2DBA-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-08-11T10:21:42.512+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-96D4-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:15:06.407+0000",
+  "latestRelease" : {
+    "objectId" : "item_407555",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-11T10:21:42.512+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-2DBA-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407555",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-11T10:21:42.512+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-2DBA-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Description du Jóola Banjal (Sénégal)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Alain-Christian",
+        "familyName" : "Bassene",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "39349",
+      "type" : "OTHER"
+    }, {
+      "id" : "joola_bassene2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "place" : "Lyon",
+      "publisher" : "Université Lumière Lyon 2"
+    },
+    "freeKeywords" : "LoC Class: PL8134,\nLoC Subject Headings: Diola language",
+    "subjects" : [ {
+      "value" : "dyo - Jola-Fonyi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "380 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407554",
+    "name" : "joola_bassene2006_s.pdf",
+    "creationDate" : "2010-04-01T14:15:05.475+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-96D3-F",
+    "content" : "/rest/items/item_407555_3/component/file_407554/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3edc215ecfa5149fb4199907f66f2efe",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9520776,
+    "metadata" : {
+      "title" : "joola_bassene2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9520776
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2049601",
+    "name" : "http://theses.univ-lyon2.fr/documents/lyon2/2006/bassene_ac",
+    "creationDate" : "2014-08-11T10:20:50.508+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-2DBC-4",
+    "content" : "http://theses.univ-lyon2.fr/documents/lyon2/2006/bassene_ac",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8ff3058c27f364de9df5970341603b9b",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://theses.univ-lyon2.fr/documents/lyon2/2006/bassene_ac",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. Lumière Lyon 2, cyberthèses, Versions imprimables, Document complet, pdf",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_406217",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-19T08:55:11.693+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-D0B7-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-05-19T08:55:11.693+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8F73-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:32:59.786+0000",
+  "latestRelease" : {
+    "objectId" : "item_406217",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-19T08:55:11.693+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D0B7-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406217",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-19T08:55:11.693+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D0B7-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "French dislocation",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Cécile",
+        "familyName" : "De Cat",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36458",
+      "type" : "OTHER"
+    }, {
+      "id" : "french_decat2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "York",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PC2390, LoC Subject Headings: French language",
+    "subjects" : [ {
+      "value" : "fra - French",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "367 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406216",
+    "name" : "french_decat2002_s.pdf",
+    "creationDate" : "2010-04-01T13:32:59.470+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8F72-8",
+    "content" : "/rest/items/item_406217_4/component/file_406216/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "df7c755c99a6e8ba4d93a52c9cd489e6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2499182,
+    "metadata" : {
+      "title" : "french_decat2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2499182
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2156090",
+    "name" : "http://ceciledecat.blogspot.de/p/thesis.html",
+    "creationDate" : "2015-05-19T08:54:39.636+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://ceciledecat.blogspot.de/p/thesis.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3b22c87702320d6ccf82f4513f6a4708",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://ceciledecat.blogspot.de/p/thesis.html",
+      "contentCategory" : "publisher-version",
+      "description" : "Cécile De Cat's blog, thesis, pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_408119",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-06T11:02:32.381+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C7AE-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-06T11:02:32.381+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-99F9-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:30:05.330+0000",
+  "latestRelease" : {
+    "objectId" : "item_408119",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-06T11:02:32.381+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7AE-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408119",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-06T11:02:32.381+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7AE-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The Chimariko Indians and language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Roland Burrage",
+        "familyName" : "Dixon",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1910",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "42370",
+      "type" : "OTHER"
+    }, {
+      "id" : "chimariko_dixon1910_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Berkeley",
+      "publisher" : "The University Press"
+    },
+    "sources" : [ {
+      "title" : "University of California Publications in American Archaeology and Ethnology",
+      "volume" : "5,5",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM821, LoC Subject Headings: Chimariko language",
+    "subjects" : [ {
+      "value" : "cid - Chimariko",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "S. [293]-380",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM821,\nLoC Subject Headings: Chimariko Indians, Chimariko language, Indians of North America--Language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_408118",
+    "name" : "chimariko_dixon1910_o.pdf",
+    "creationDate" : "2010-04-01T14:30:04.631+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-99F8-7",
+    "content" : "/rest/items/item_408119_4/component/file_408118/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9ec92dc42faeb32b7da77ca0f86ee6fb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6876995,
+    "metadata" : {
+      "title" : "chimariko_dixon1910_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6876995,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2103922",
+    "name" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=19",
+    "creationDate" : "2015-02-24T11:51:57.323+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=19",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b399c8410e5b29d5b84ed5baa1d41ef7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=19",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of California Berkeley, The George and Mary Foster Anthropology Library, Anthrohub, pdf",
+      "size" : 0
+    }
+  } ]
+}

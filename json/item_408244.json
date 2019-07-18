@@ -1,0 +1,151 @@
+{
+  "objectId" : "item_408244",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T22:30:02.752+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70AA-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T22:30:02.752+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9AB7-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:32:59.378+0000",
+  "latestRelease" : {
+    "objectId" : "item_408244",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T22:30:02.752+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70AA-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408244",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T22:30:02.752+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70AA-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Achkay : mito vigente en el mundo quechua",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "David",
+        "familyName" : "Weber",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Elke",
+        "familyName" : "Meier"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2008",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "42743",
+      "type" : "OTHER"
+    }, {
+      "id" : "quechua_weber2008_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "978-9972-9386-2-7",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "que", "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Lima",
+      "publisher" : "Inst LinguiŽstico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Linguistica peruana",
+      "volume" : "54",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: F2230.2.K4, LoC Subject Headings: Quechua Indians --Folklore, LoC Subject Headings: Quechua language --Texts, LoC Subject Headings: Quechua language --Dialects",
+    "subjects" : [ {
+      "value" : "qvo - Napo Lowland Quechua",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "171 S"
+  },
+  "files" : [ {
+    "objectId" : "file_408242",
+    "name" : "http://www.sil.org/americas/peru/show_work.asp?id=50734",
+    "creationDate" : "2010-04-01T14:32:58.413+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/peru/show_work.asp?id=50734",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e28ccbce60e6569ff8084334592847a0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/show_work.asp?id=50734",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408243",
+    "name" : "quechua_weber2008_o.pdf",
+    "creationDate" : "2010-04-01T14:32:59.125+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9AB6-8",
+    "content" : "/rest/items/item_408244_3/component/file_408243/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "610666d2bb608e7272772b69f88ac51b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2118469,
+    "metadata" : {
+      "title" : "quechua_weber2008_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2118469
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

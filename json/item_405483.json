@@ -1,0 +1,146 @@
+{
+  "objectId" : "item_405483",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T20:21:29.223+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FB0-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:21:29.223+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B60-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:13:37.905+0000",
+  "latestRelease" : {
+    "objectId" : "item_405483",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:21:29.223+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FB0-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405483",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:21:29.223+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FB0-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Referenz-Indizes im Deutschen und im Singhalesischen : eine kontrastive Studie",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Neelakshi Chandrasena",
+        "familyName" : "Premawardhena",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedInPrint" : "2001",
+    "datePublishedOnline" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34993",
+      "type" : "OTHER"
+    }, {
+      "id" : "singhalesischen_neelakshi2001_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "urn:nbn:de:hbz:467-2312",
+      "type" : "URN"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "place" : "Siegen",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PK2808, LoC Subject Headings: German language, LoC Subject Headings: Sinhalese language",
+    "subjects" : [ {
+      "value" : "deu - German",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "sin - Sinhala",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "232 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PK2808,\nLoC Subject Headings: German language--Reference, Sinhalese language--Reference"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405482",
+    "name" : "singhalesischen_neelakshi2001_s.pdf",
+    "creationDate" : "2010-04-01T13:13:37.755+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B5F-0",
+    "content" : "/rest/items/item_405483_4/component/file_405482/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d50f9ba4b49c29ed8efd71723ff83532",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 920732,
+    "metadata" : {
+      "title" : "singhalesischen_neelakshi2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 920732
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2039470",
+    "name" : "http://dokumentix.ub.uni-siegen.de/opus/volltexte/2006/231/",
+    "creationDate" : "2014-07-08T10:48:56.264+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-DD02-6",
+    "content" : "http://dokumentix.ub.uni-siegen.de/opus/volltexte/2006/231/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c591ce4e2bee6cc74c9f4a1bbd7b0274",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dokumentix.ub.uni-siegen.de/opus/volltexte/2006/231/",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. Siegen, Online Publication Server OPUS, pdf",
+      "size" : 0
+    }
+  } ]
+}

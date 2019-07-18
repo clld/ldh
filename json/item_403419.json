@@ -1,0 +1,119 @@
+{
+  "objectId" : "item_403419",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T09:43:32.464+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7EFA-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:43:32.464+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7EFA-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:04.729+0000",
+  "latestRelease" : {
+    "objectId" : "item_403419",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:43:32.464+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7EFA-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403419",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:43:32.464+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7EFA-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Esquisse phonologique du Bakoko : (parler de Dibombari)",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Edika, E. Solange  Félicité",
+        "givenName" : "E. Solange  Félicité",
+        "familyName" : "Edika",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1990",
+    "datePublishedInPrint" : "1990",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31237",
+      "type" : "OTHER"
+    }, {
+      "id" : "bakoko_edika1990_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Bakoko language",
+    "subjects" : [ {
+      "value" : "bkh - Bakoko",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "98 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : bkh, Bakoko language, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403418",
+    "name" : "bakoko_edika1990_o.pdf",
+    "creationDate" : "2010-04-01T12:18:04.348+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7EF9-1",
+    "content" : "/rest/items/item_403419_3/component/file_403418/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5bf17ff9cb694bc31e00c407bc596689",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2901286,
+    "metadata" : {
+      "title" : "bakoko_edika1990_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2901286,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

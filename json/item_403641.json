@@ -1,0 +1,126 @@
+{
+  "objectId" : "item_403641",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-06-06T07:42:44.946+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-80C6-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:42:44.946+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-80C6-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:21:12.308+0000",
+  "latestRelease" : {
+    "objectId" : "item_403641",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-06-06T07:42:44.946+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-80C6-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403641",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-06-06T07:42:44.946+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-80C6-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A study of the Iloco language : based mainly on the Iloco grammar of P. Fr. José Naves",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Henry",
+        "familyName" : "Swift",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1909",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31459",
+      "type" : "OTHER"
+    }, {
+      "id" : "iloco_swift1909.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Washington",
+      "publisher" : "Adams"
+    },
+    "sources" : [ {
+      "title" : "[United States.] War dept. General staff.[Publication]",
+      "alternativeTitles" : [ {
+        "value" : "[United States.] War dept. General staff. [Publication]"
+      } ],
+      "volume" : "14",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Iloko language",
+    "subjects" : [ {
+      "value" : "ilo - Ilocano",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "172 S.",
+    "abstracts" : [ {
+      "value" : "PL5751, ISO 639-3 : ilo, Iloko language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403640",
+    "name" : "iloco_swift1909.pdf",
+    "creationDate" : "2010-04-01T12:21:11.101+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-80C5-4",
+    "content" : "/rest/items/item_403641_4/component/file_403640/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "649fcd0a83d9aa0bcb54a47cc2438401",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11447274,
+    "metadata" : {
+      "title" : "iloco_swift1909.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11447274,
+      "copyrightDate" : "2010-16-11",
+      "rights" : "public domain, Henry Swift"
+    }
+  } ]
+}

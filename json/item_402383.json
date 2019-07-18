@@ -1,0 +1,153 @@
+{
+  "objectId" : "item_402383",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T18:39:56.966+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6EEC-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T18:39:56.966+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-78D6-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:30:56.306+0000",
+  "latestRelease" : {
+    "objectId" : "item_402383",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:39:56.966+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EEC-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402383",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:39:56.966+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EEC-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Lecciones para el aprendizaje del idioma mayoruna",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Kneeland, Harriet",
+        "givenName" : "Harriet",
+        "familyName" : "Kneeland",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Alicia de",
+        "familyName" : "Staly"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Patricia",
+        "familyName" : "Davis"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1979",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29793",
+      "type" : "OTHER"
+    }, {
+      "id" : "mayoruna_kneeland1979_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "Ed. provisional",
+      "place" : "[Verano]",
+      "publisher" : "Ministerio de Educación, Inst. Linguistico"
+    },
+    "sources" : [ {
+      "title" : "Documento de trabajo",
+      "volume" : "14",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6479, LoC Subject Headings: Panoan languages -- Grammar, LoC Subject Headings: Mayoruna language -- Grammar",
+    "subjects" : [ {
+      "value" : "mcf - Matsés",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "248 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402381",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=529",
+    "creationDate" : "2010-04-01T11:30:54.575+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=529",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6b095e70d355cdb685ac355208870801",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=529",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402382",
+    "name" : "mayoruna_kneeland1979_o.pdf",
+    "creationDate" : "2010-04-01T11:30:55.244+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-78D5-C",
+    "content" : "/rest/items/item_402383_3/component/file_402382/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7d68b70ae3f5448d0449b4e146633526",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10862853,
+    "metadata" : {
+      "title" : "mayoruna_kneeland1979_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10862853
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

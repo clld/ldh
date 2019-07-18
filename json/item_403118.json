@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_403118",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-13T02:14:18.862+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-725C-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:14:18.862+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D39-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:56:14.821+0000",
+  "latestRelease" : {
+    "objectId" : "item_403118",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:14:18.862+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-725C-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403118",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:14:18.862+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-725C-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Studies in the syntax of relative and comparative clauses",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Avery Delano",
+        "familyName" : "Andrews",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1975",
+    "datePublishedInPrint" : "1975",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30958",
+      "type" : "OTHER"
+    }, {
+      "id" : "comparative_andrews1975_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P297, LoC Subject Headings: Grammar/Comparative and general -- Clauses, LoC Subject Headings: Generative grammar",
+    "totalNumberOfPages" : "282 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403117",
+    "name" : "comparative_andrews1975_o.pdf",
+    "creationDate" : "2010-04-01T11:56:13.052+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D38-6",
+    "content" : "/rest/items/item_403118_4/component/file_403117/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9b2e6de3b1e9362e0ba2d067187e2756",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 18434428,
+    "metadata" : {
+      "title" : "comparative_andrews1975_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 18434428
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110863",
+    "name" : "http://hdl.handle.net/1721.1/27379",
+    "creationDate" : "2015-03-11T09:53:59.514+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/27379",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2c6749d5491f81d8fa1617baaa8fafbe",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/27379",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf",
+      "size" : 0
+    }
+  } ]
+}

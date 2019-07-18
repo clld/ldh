@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_401828",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T17:17:20.642+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6E3D-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T17:17:20.642+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7590-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:19:58.882+0000",
+  "latestRelease" : {
+    "objectId" : "item_401828",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T17:17:20.642+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E3D-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401828",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T17:17:20.642+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E3D-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Les idiomes négro-aryen et maléo-aryen : essai d'hybridologie linguistique",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lucien",
+        "familyName" : "Adam",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1883",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "28113",
+      "type" : "OTHER"
+    }, {
+      "id" : "aryen_adam1883_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Paris",
+      "publisher" : "Maisonneuve"
+    },
+    "freeKeywords" : "LoC Subject Headings: Creole dialects, LoC Subject Headings: Malayan languages",
+    "totalNumberOfPages" : "76 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM7831,\nLoC Subject Headings: Creole dialects, Malayan languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401826",
+    "name" : "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-74263",
+    "creationDate" : "2010-04-01T11:19:58.017+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-74263",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d1785b0f43529d77c21366b9b8a4ee3f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-74263",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401827",
+    "name" : "aryen_adam1883_o.pdf",
+    "creationDate" : "2010-04-01T11:19:58.598+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-758F-8",
+    "content" : "/rest/items/item_401828_4/component/file_401827/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "210542fb7ed878edcea621873b30282e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2218185,
+    "metadata" : {
+      "title" : "aryen_adam1883_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2218185
+    }
+  } ]
+}

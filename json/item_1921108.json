@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_1921108",
+  "versionNumber" : 5,
+  "modificationDate" : "2014-12-18T11:44:24.713+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-5CD8-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-18T11:44:24.713+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0015-364D-1",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-02-12T09:28:19.086+0000",
+  "latestRelease" : {
+    "objectId" : "item_1921108",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-12-18T11:44:24.713+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5CD8-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_1921108",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-12-18T11:44:24.713+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5CD8-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "A new voyage to Carolina : containing the exact description and natural history of that country ; together with the present state thereof ; and a journal of a thousand miles, travel’d thro’ several nations of Indians ; giving a particular account of their customs, manners, etc.",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "John",
+        "familyName" : "Lawson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1709",
+    "genre" : "MONOGRAPH",
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "London",
+      "publisher" : "[s.n.]"
+    },
+    "freeKeywords" : "LoC Subject Headings: Tuscarora language, LoC Subject Headings:  Woccon language, LoC Subject Headings: Indians of North America, LoC Class: F257",
+    "subjects" : [ {
+      "value" : "tus - Tuscarora",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "xwc - Woccon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "258 S.",
+    "abstracts" : [ {
+      "value" : "\"A small dictionary of every tongue ...\", p. 225-230, contains numbers, general vocabulary and phrases in the English, Tuskeruro [i.e. Tuscarora, a language in the Iroquois family spoken by a tribe in New York State and Ontario], Pamticough [a language spoken by the Pamlico Indians, who lived in Virginia], and Woccon languages [as spoken by a Siouan tribe near Piedmont, North Carolina]\n\nLoC Subject Headings: Tuscarora language, Woccon language, Indians of North America--North Carolina--Early works to 1800, Natural history--North Carolina--Early works to 1800, North Carolina--Description and travel--Early works to 1800, South Carolina--Description and travel--Early works to 1800, LoC Class: F257\n\n"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_1921106",
+    "name" : "Lawson_VoyageCarolina1709.pdf",
+    "creationDate" : "2014-02-12T09:28:15.328+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0015-364F-E",
+    "content" : "/rest/items/item_1921108_5/component/file_1921106/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d3f896397f533b638f26af99f3ea10a1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 29335356,
+    "metadata" : {
+      "title" : "Lawson_VoyageCarolina1709.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 29335356,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_1921107",
+    "name" : "https://archive.org/details/newvoyagetocarol00laws",
+    "creationDate" : "2014-02-12T09:28:15.810+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/newvoyagetocarol00laws",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f8c48cb24e02077e7bcdbe2e6af5c998",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/newvoyagetocarol00laws",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  } ]
+}

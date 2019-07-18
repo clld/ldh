@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_404530",
+  "versionNumber" : 4,
+  "modificationDate" : "2013-10-01T10:37:05.399+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-5C07-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2013-10-01T10:37:05.399+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8605-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:43:09.920+0000",
+  "latestRelease" : {
+    "objectId" : "item_404530",
+    "versionNumber" : 4,
+    "modificationDate" : "2013-10-01T10:37:05.399+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5C07-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404530",
+    "versionNumber" : 4,
+    "modificationDate" : "2013-10-01T10:37:05.399+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5C07-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Arte de la lengua Mexicana con la declaracion de los adverbios della...",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Horacio",
+        "familyName" : "Carochi",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1645",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "33392",
+      "type" : "OTHER"
+    }, {
+      "id" : "mexicana_carochi1645.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Mexico",
+      "publisher" : "Ruyz"
+    },
+    "freeKeywords" : "LoC Subject Headings: Nahuatl language",
+    "subjects" : [ {
+      "value" : "nhn - Nahuatl, Central",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "6 ungez., 132 gez. Bl.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM4063.C3,\nLoC Subject Headings: Nahuatl language -- Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404528",
+    "name" : "http://books.google.com/books?id=lIACAAAAQAAJ",
+    "creationDate" : "2010-04-01T12:43:07.087+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-5C08-D",
+    "content" : "http://books.google.com/books?id=lIACAAAAQAAJ",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7d1916be7b2d14def931a20c2f8a13b3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://books.google.com/books?id=lIACAAAAQAAJ",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404529",
+    "name" : "mexicana_carochi1645.pdf",
+    "creationDate" : "2010-04-01T12:43:07.969+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8604-2",
+    "content" : "/rest/items/item_404530_4/component/file_404529/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5057e27921d172a6facebea215bae897",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 19258235,
+    "metadata" : {
+      "title" : "mexicana_carochi1645.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 19258235
+    }
+  } ]
+}

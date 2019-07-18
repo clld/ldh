@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_407446",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T22:29:15.250+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70A8-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T22:29:15.250+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9639-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:13:37.705+0000",
+  "latestRelease" : {
+    "objectId" : "item_407446",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T22:29:15.250+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70A8-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407446",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T22:29:15.250+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70A8-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Aspectos da língua Assurini",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Nicholson, Velda",
+        "givenName" : "Velda",
+        "familyName" : "Nicholson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1978",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "38925",
+      "type" : "OTHER"
+    }, {
+      "id" : "assurini_nicholson1978_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cuiabá",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PM7115, LoC Subject Headings: Tenetehara language --Grammar, LoC Subject Headings: Tenetehara language --Textbooks for foreign speakers --Portuguese",
+    "subjects" : [ {
+      "value" : "asu - Tocantins Asurini",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407444",
+    "name" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "creationDate" : "2010-04-01T14:13:37.116+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9530a75a4c45ff6625118b724949a812",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407445",
+    "name" : "assurini_nicholson1978_s.pdf",
+    "creationDate" : "2010-04-01T14:13:37.579+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9638-F",
+    "content" : "/rest/items/item_407446_3/component/file_407445/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1ad18842b7d1ffbc5bb49dfeaf5944b6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 370221,
+    "metadata" : {
+      "title" : "assurini_nicholson1978_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 370221
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

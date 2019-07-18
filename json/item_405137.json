@@ -1,0 +1,124 @@
+{
+  "objectId" : "item_405137",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:36:46.673+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8979-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:36:46.673+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8979-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:55:55.821+0000",
+  "latestRelease" : {
+    "objectId" : "item_405137",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:36:46.673+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8979-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405137",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:36:46.673+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8979-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Manuel de Fulfulde",
+    "creators" : [ {
+      "organization" : {
+        "name" : "United States / Peace Corps"
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "1993",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34365",
+      "type" : "OTHER"
+    }, {
+      "id" : "fulfulde_peacecorps1993_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra", "" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Niamey",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL8181,\nLoC Subject Headings: Fula language",
+    "totalNumberOfPages" : "142 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405135",
+    "name" : "http://tinyurl.com/67x57m",
+    "creationDate" : "2010-04-01T12:55:54.053+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8977-8",
+    "content" : "http://tinyurl.com/67x57m",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "620d51e2c118a181b6838e600f852bf0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://tinyurl.com/67x57m",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405136",
+    "name" : "fulfulde_peacecorps1993_o.pdf",
+    "creationDate" : "2010-04-01T12:55:55.363+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8978-6",
+    "content" : "/rest/items/item_405137_2/component/file_405136/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "55cb86eac047a4daf846da274d4eecc5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3247818,
+    "metadata" : {
+      "title" : "fulfulde_peacecorps1993_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3247818
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

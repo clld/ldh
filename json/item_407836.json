@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_407836",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T22:55:42.287+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70CA-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T22:55:42.287+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9858-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:22:32.817+0000",
+  "latestRelease" : {
+    "objectId" : "item_407836",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T22:55:42.287+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70CA-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407836",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T22:55:42.287+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70CA-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Beyond grammar : an experience-based theory of language",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Bod, Rens",
+        "givenName" : "Rens",
+        "familyName" : "Bod",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1998",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "41863",
+      "type" : "OTHER"
+    }, {
+      "id" : "grammar_bod1998_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Stanford",
+      "publisher" : "CSLI"
+    },
+    "freeKeywords" : "LoC Class: P138.5, LoC Subject Headings: Linguistics--Statistical methods, LoC Subject Headings: Computational linguistics",
+    "totalNumberOfPages" : "xiii, 168 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407834",
+    "name" : "http://sul-derivatives.stanford.edu/derivative?CSNID=00000072&mediaType=application/pdf",
+    "creationDate" : "2010-04-01T14:22:22.198+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://sul-derivatives.stanford.edu/derivative?CSNID=00000072&mediaType=application/pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "af09eea1bbd74f2dbd0e3a78cf25cbdf",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://sul-derivatives.stanford.edu/derivative?CSNID=00000072&mediaType=application/pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Stanford University Libraries & Academic Information Resources",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407835",
+    "name" : "grammar_bod1998_s.pdf",
+    "creationDate" : "2010-04-01T14:22:32.140+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9857-8",
+    "content" : "/rest/items/item_407836_4/component/file_407835/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "431cce4e39f6b013f157ad65cf45b165",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6577076,
+    "metadata" : {
+      "title" : "grammar_bod1998_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6577076
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

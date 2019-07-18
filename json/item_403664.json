@@ -1,0 +1,124 @@
+{
+  "objectId" : "item_403664",
+  "versionNumber" : 7,
+  "modificationDate" : "2015-03-13T01:38:15.745+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-721F-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:38:15.745+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-80FD-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:21:52.539+0000",
+  "latestRelease" : {
+    "objectId" : "item_403664",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-03-13T01:38:15.745+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-721F-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403664",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-03-13T01:38:15.745+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-721F-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammaire et dictionnaire de la langue des îles Marquises",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ildefonse René",
+        "familyName" : "Dordillon",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1931",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31493",
+      "type" : "OTHER"
+    }, {
+      "id" : "marquises_dordillon1931.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Paris",
+      "publisher" : "Inst. d'ethnologie"
+    },
+    "freeKeywords" : "LoC Class:  ISO 639-3, LoC Subject Headings: Marquesan language, LoC Subject Headings: French language",
+    "subjects" : [ {
+      "value" : "mqm - Marquesan, South",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "mrq - Marquesan, North",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "fra - French",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vi, 446 S.",
+    "abstracts" : [ {
+      "value" : "PL6471, ISO 639-3 : mqm , ISO 639-3 , ISO 639-3 : mrq , ISO 639-3 : fra ,  Marquesan language, French language -- Dictionaries -- French, French language -- Dictionaries -- Marquesan, Marquesan language -- Grammar, Marquesan"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403663",
+    "name" : "marquises_dordillon1931.pdf",
+    "creationDate" : "2010-04-01T12:21:49.130+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-80FC-A",
+    "content" : "/rest/items/item_403664_7/component/file_403663/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "284c0e3a313aecbd9e60c3fb338dd0e7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 36498383,
+    "metadata" : {
+      "title" : "marquises_dordillon1931.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 36498383,
+      "copyrightDate" : "2010-11-22",
+      "rights" : "not in copyright; Ildefonse René Dordillon,  1808-1888"
+    }
+  } ]
+}

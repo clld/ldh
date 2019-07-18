@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_405825",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:36:50.388+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8D48-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:36:50.388+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8D48-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:21:10.638+0000",
+  "latestRelease" : {
+    "objectId" : "item_405825",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:36:50.388+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8D48-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405825",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:36:50.388+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8D48-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Applicatives in Salish languages",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Kiyosawa, Kaoru",
+        "givenName" : "Kaoru",
+        "familyName" : "Kiyosawa",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35436",
+      "type" : "OTHER"
+    }, {
+      "id" : "salish_kiyosawa2006_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PM2261,\nLoC Subject Headings: Salishan languages",
+    "totalNumberOfPages" : "xviii, 355  S."
+  },
+  "files" : [ {
+    "objectId" : "file_405823",
+    "name" : "http://proquest.umi.com/pqdweb?index=162&sid=3&srchmode=1&vinst=PROD&fmt=6&startpage=-1&clientid=56146&vname=PQD&RQT=309&did=1390279931&scaling=FULL&ts=1",
+    "creationDate" : "2010-04-01T13:21:08.462+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D46-9",
+    "content" : "http://proquest.umi.com/pqdweb?index=162&sid=3&srchmode=1&vinst=PROD&fmt=6&startpage=-1&clientid=56146&vname=PQD&RQT=309&did=1390279931&scaling=FULL&ts=1",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "af02bd6b2795f98f452fc8711476590f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://proquest.umi.com/pqdweb?index=162&sid=3&srchmode=1&vinst=PROD&fmt=6&startpage=-1&clientid=56146&vname=PQD&RQT=309&did=1390279931&scaling=FULL&ts=1",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405824",
+    "name" : "salish_kiyosawa2006_o.pdf",
+    "creationDate" : "2010-04-01T13:21:09.575+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D47-7",
+    "content" : "/rest/items/item_405825_2/component/file_405824/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6c51b4a7bce2d14f6d687b3282b6a422",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10793585,
+    "metadata" : {
+      "title" : "salish_kiyosawa2006_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10793585
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

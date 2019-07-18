@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_401269",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-28T08:31:44.423+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C2CA-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-28T08:31:44.423+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7263-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:08:31.562+0000",
+  "latestRelease" : {
+    "objectId" : "item_401269",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-28T08:31:44.423+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2CA-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401269",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-28T08:31:44.423+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2CA-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "La estructura categorial de los evidenciales en el quechua wanka",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Rick",
+        "familyName" : "Floyd",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1997",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "25520",
+      "type" : "OTHER"
+    }, {
+      "id" : "quechua_floyd1997_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1. ed.",
+      "place" : "Lima, Peru",
+      "publisher" : "Instituto Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística Peruana",
+      "volume" : "44",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6309.5.H84, LoC Subject Headings: Huanca dialect, LoC Subject Headings: Quechua language",
+    "subjects" : [ {
+      "value" : "qvw - Huaylla Wanca Quechua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "267 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM6309.5.H84, LoC Subject Headings: Huanca dialect--Discourse analysis, LoC Subject Headings: Huanca dialect--Categorial grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401268",
+    "name" : "quechua_floyd1997_o.pdf",
+    "creationDate" : "2010-04-01T11:08:30.315+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7262-4",
+    "content" : "/rest/items/item_401269_4/component/file_401268/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6dd800fc0a9e76b9cd9b2d1ce69476f4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12807658,
+    "metadata" : {
+      "title" : "quechua_floyd1997_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12807658
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2149180",
+    "name" : "http://www.sil.org/resources/archives/30189",
+    "creationDate" : "2015-04-28T08:31:15.158+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/30189",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b16b15bf9351ef5dabdbed4e41de91f3",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/30189",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Language & Culture Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

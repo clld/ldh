@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_400275",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-05-13T12:21:03.433+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CDCE-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-13T12:21:03.433+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6C66-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:44:23.335+0000",
+  "latestRelease" : {
+    "objectId" : "item_400275",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T12:21:03.433+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CDCE-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400275",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T12:21:03.433+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CDCE-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Topics in the grammar of Kuot a non-Austronesian language of New Ireland, Papua New Guinea : a non-Austronesian language of New Ireland, Papua New Guinea",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Eva",
+        "familyName" : "Lindström",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29280",
+      "type" : "OTHER"
+    }, {
+      "id" : "kuot_lindstrom2002_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "91-7265-459-7",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Stockholm",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL6621.K81, LoC Subject Headings: Kuot language",
+    "subjects" : [ {
+      "value" : "kto - Kuot",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxii, 242 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400274",
+    "name" : "kuot_lindstrom2002_s.pdf",
+    "creationDate" : "2010-04-01T10:44:22.483+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6C65-9",
+    "content" : "/rest/items/item_400275_3/component/file_400274/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9e9f5203a94459f9433d4ff6de7d6907",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8417095,
+    "metadata" : {
+      "title" : "kuot_lindstrom2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8417095
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2155705",
+    "name" : "http://www2.ling.su.se/staff/evali/thesis/Kuot-PhD.html",
+    "creationDate" : "2015-05-13T12:20:15.729+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www2.ling.su.se/staff/evali/thesis/Kuot-PhD.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0e2bff013a11d6e22b4fdb37e624fa2e",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www2.ling.su.se/staff/evali/thesis/Kuot-PhD.html",
+      "contentCategory" : "publisher-version",
+      "description" : "Stockholm Univ., Dep. of Linguistics, Eva Lindström's website, pdfs download",
+      "size" : 0
+    }
+  } ]
+}

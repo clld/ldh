@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_402248",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-07-16T12:24:28.139+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0027-D304-5",
+  "modifier" : {
+    "objectId" : "user_36017"
+  },
+  "lastModificationDate" : "2015-07-16T12:24:28.139+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-781B-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:28:50.856+0000",
+  "latestRelease" : {
+    "objectId" : "item_402248",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-07-16T12:24:28.139+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0027-D304-5",
+    "modifier" : {
+      "objectId" : "user_36017"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402248",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-07-16T12:24:28.139+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0027-D304-5",
+    "modifier" : {
+      "objectId" : "user_36017"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Mandinka grammar manual",
+    "creators" : [ {
+      "organization" : {
+        "identifier" : "ou_persistent22",
+        "name" : "Gambia / Peace Corps",
+        "identifierPath" : [ "ou_persistent22" ]
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    }, {
+      "person" : {
+        "givenName" : "Ebrima S.Y.",
+        "familyName" : "Colley",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1995",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29478",
+      "type" : "OTHER"
+    }, {
+      "id" : "mandinka_peace1995a_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Banjul",
+      "publisher" : "[W. E. C. International]"
+    },
+    "freeKeywords" : "LoC Class: PL8491, LoC Subject Headings: Mandingo language",
+    "subjects" : [ {
+      "value" : "mnk - Mandinka",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "44 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402246",
+    "name" : "http://www.africanculture.dk/gambia/ftp/mandgram.pdf",
+    "creationDate" : "2010-04-01T11:28:30.164+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7819-3",
+    "content" : "http://www.africanculture.dk/gambia/ftp/mandgram.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8489efa972a35134daedefa0121711d2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.africanculture.dk/gambia/ftp/mandgram.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402247",
+    "name" : "mandinka_peace1995a_s.pdf",
+    "creationDate" : "2010-04-01T11:28:50.746+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-781A-1",
+    "content" : "/rest/items/item_402248_3/component/file_402247/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8489efa972a35134daedefa0121711d2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 187144,
+    "metadata" : {
+      "title" : "mandinka_peace1995a_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 187144
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

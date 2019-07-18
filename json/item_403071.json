@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_403071",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-13T02:21:32.197+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-726C-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:21:32.197+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7CE9-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:53:21.729+0000",
+  "latestRelease" : {
+    "objectId" : "item_403071",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T02:21:32.197+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-726C-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403071",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T02:21:32.197+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-726C-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Introducing arguments",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Liina",
+        "familyName" : "Pylkkänen",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30928",
+      "type" : "OTHER"
+    }, {
+      "id" : "arguments_pylkkanen2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachussetts Institute of Technologie"
+    },
+    "freeKeywords" : "LoC Class: P281, LoC Subject Headings: Grammar/Comparative and general--Verb phrase, LoC Subject Headings: Grammar/Comparative and general--Syntax, LoC Subject Headings: Causative (Linguistics)",
+    "totalNumberOfPages" : "137 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403070",
+    "name" : "arguments_pylkkanen2002_s.pdf",
+    "creationDate" : "2010-04-01T11:53:21.581+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7CE8-4",
+    "content" : "/rest/items/item_403071_5/component/file_403070/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "41a9b37d5993345770663bd5bdf14aff",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 916276,
+    "metadata" : {
+      "title" : "arguments_pylkkanen2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 916276
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110950",
+    "name" : "http://hdl.handle.net/1721.1/8123",
+    "creationDate" : "2015-03-11T12:09:11.861+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/8123",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "fa4168ec3ad390d0dd3842f5bd1c3a2a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/8123",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_408261",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-21T06:27:00.228+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA11-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T06:27:00.228+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9ACF-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:33:13.999+0000",
+  "latestRelease" : {
+    "objectId" : "item_408261",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-21T06:27:00.228+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA11-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408261",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-21T06:27:00.228+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA11-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The deep structure of the sentence in Sara-Ngambay dialogues : including a description of phrase, clause, and paragraph",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "James Edward",
+        "familyName" : "Thayer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1978",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "42817",
+      "type" : "OTHER"
+    }, {
+      "id" : "sarangambay_thayer1978_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Arlington, TX",
+      "publisher" : "SIL"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics",
+      "volume" : "57",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL8197.1, LoC Subject Headings: Gambai dialect",
+    "subjects" : [ {
+      "value" : "sba - Ngambay",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiii, 221 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8197.1, LoC Subject Headings: Gambai dialect--Syntax"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_408260",
+    "name" : "sarangambay_thayer1978_o.pdf",
+    "creationDate" : "2010-04-01T14:33:13.441+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9ACE-3",
+    "content" : "/rest/items/item_408261_3/component/file_408260/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f9e6967074e6bcf9d90aef97b58f6901",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5256408,
+    "metadata" : {
+      "title" : "sarangambay_thayer1978_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5256408
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147230",
+    "name" : "http://www.sil.org/resources/archives/8625",
+    "creationDate" : "2015-04-21T06:26:09.665+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/8625",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "749e89ef0a47fa90440a591493167fa0",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/8625",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

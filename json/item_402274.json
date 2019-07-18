@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_402274",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-01-30T11:34:53.193+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-ABDA-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-01-30T11:34:53.193+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7841-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:29:31.532+0000",
+  "latestRelease" : {
+    "objectId" : "item_402274",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-30T11:34:53.193+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-ABDA-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402274",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-30T11:34:53.193+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-ABDA-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Some prehistoric Algonquian cultural vocabulary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Paul",
+        "familyName" : "Proulx",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29511",
+      "type" : "OTHER"
+    }, {
+      "id" : "algonquian_proulx2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "2. Aufl.",
+      "place" : "N.A.",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PM605,\nLoC Subject Headings: Algonquian languages",
+    "totalNumberOfPages" : "52 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM605,\nLoC Subject Headings: Algonquian languages--Glossaries, vocabularies, etc."
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402273",
+    "name" : "algonquian_proulx2004_s.pdf",
+    "creationDate" : "2010-04-01T11:29:31.386+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7840-B",
+    "content" : "/rest/items/item_402274_3/component/file_402273/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "968cc39b0b21c1c553fb2a27b587c7e2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 891275,
+    "metadata" : {
+      "title" : "algonquian_proulx2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 891275
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2086266",
+    "name" : "http://www.lulu.com/shop/paul-proulx/some-prehistoric-algonquian-cultural-vocabulary/ebook/product-17559305.html",
+    "creationDate" : "2015-01-30T11:34:23.197+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.lulu.com/shop/paul-proulx/some-prehistoric-algonquian-cultural-vocabulary/ebook/product-17559305.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e8204b5c1069f806ef142a0028f0cf49",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lulu.com/shop/paul-proulx/some-prehistoric-algonquian-cultural-vocabulary/ebook/product-17559305.html",
+      "contentCategory" : "publisher-version",
+      "description" : "lulu press, free pdf, free lulu-account necessary",
+      "size" : 0
+    }
+  } ]
+}

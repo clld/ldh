@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_401645",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:35:09.909+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-747E-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:35:09.909+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-747E-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:15:48.054+0000",
+  "latestRelease" : {
+    "objectId" : "item_401645",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:35:09.909+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-747E-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401645",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:35:09.909+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-747E-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Elements de description du Ngangela",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Zavoni, Ntondo",
+        "givenName" : "Ntondo",
+        "familyName" : "Zavoni",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2003",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "27297",
+      "type" : "OTHER"
+    }, {
+      "id" : "ngangela_zavoni2003_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "2-284-04590-1",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Lyon",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL8202,\nLoC Subject Headings: Ganguela language",
+    "subjects" : [ {
+      "value" : "nba - Nyemba",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "iv, 427 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401643",
+    "name" : "http://demeter.univ-lyon2.fr/sdx/theses/these/lyon2/2003/zavoni_n/pdf/zavoni_n-TH.1.pdf",
+    "creationDate" : "2010-04-01T11:15:46.041+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-747C-9",
+    "content" : "http://demeter.univ-lyon2.fr/sdx/theses/these/lyon2/2003/zavoni_n/pdf/zavoni_n-TH.1.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6cea6ad8c31c5f7a38716b7646179e5e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://demeter.univ-lyon2.fr/sdx/theses/these/lyon2/2003/zavoni_n/pdf/zavoni_n-TH.1.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401644",
+    "name" : "ngangela_zavoni2003_s.pdf",
+    "creationDate" : "2010-04-01T11:15:46.441+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-747D-7",
+    "content" : "/rest/items/item_401645_2/component/file_401644/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e68eec6350fc21cc62b7501ab07b8217",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 16954398,
+    "metadata" : {
+      "title" : "ngangela_zavoni2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 16954398
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_405418",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-03-12T20:16:45.721+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FA3-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:16:45.721+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8AF9-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:12:15.818+0000",
+  "latestRelease" : {
+    "objectId" : "item_405418",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-12T20:16:45.721+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FA3-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405418",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-12T20:16:45.721+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FA3-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Assyrie : les langues perdues de la Perse & de l'Assyrie",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Joachim",
+        "familyName" : "Menant",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1886",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34790",
+      "type" : "OTHER"
+    }, {
+      "id" : "perdues_menant1886_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Paris",
+      "publisher" : "Leroux"
+    },
+    "sources" : [ {
+      "title" : "Les langues perdues de la Perse & de l'Assyrie",
+      "volume" : "1",
+      "genre" : "SERIES"
+    }, {
+      "title" : "Bibliothèque Orientale Elzevirienne",
+      "volume" : "50",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Persian language, LoC Subject Headings: Oriental languages, LoC Subject Headings: Akkadian language",
+    "subjects" : [ {
+      "value" : "akk - Akkadian",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "pes - Farsi, Western",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XVI, 340 S.",
+    "abstracts" : [ {
+      "value" : "PK6223.5, ISO 639-3 : akk / pes, Persian language, Oriental languages, Akkadian language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405417",
+    "name" : "perdues_menant1886_o.pdf",
+    "creationDate" : "2010-04-01T13:12:15.125+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8AF8-F",
+    "content" : "/rest/items/item_405418_6/component/file_405417/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "182ddb34002cf55a3e1594656dee0895",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6751051,
+    "metadata" : {
+      "title" : "perdues_menant1886_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6751051,
+      "copyrightDate" : "2010-11-16",
+      "rights" : "public domain, 1820-1899"
+    }
+  } ]
+}

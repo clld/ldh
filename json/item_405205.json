@@ -1,0 +1,156 @@
+{
+  "objectId" : "item_405205",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T20:02:11.277+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F86-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:02:11.277+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-89D6-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:04:00.357+0000",
+  "latestRelease" : {
+    "objectId" : "item_405205",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:02:11.277+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F86-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405205",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:02:11.277+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F86-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammatical sketch of Isaalo (Western Sisaala)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Steven Paul",
+        "familyName" : "Moran",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34392",
+      "type" : "OTHER"
+    }, {
+      "id" : "isaalo_moran2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Ypsilanti",
+      "publisher" : "Eastern Michigan Univ."
+    },
+    "freeKeywords" : "LoC Class: PL6308, LoC Subject Headings: Sissala language, LoC Subject Headings: Grusi languages",
+    "subjects" : [ {
+      "value" : "ssl - Western Sisaala",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix, 209 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405204",
+    "name" : "isaalo_moran2006_s.pdf",
+    "creationDate" : "2010-04-01T13:04:00.162+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-89D5-5",
+    "content" : "/rest/items/item_405205_4/component/file_405204/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "10ebc8f7d8baa87b7d3628086299c438",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 951966,
+    "metadata" : {
+      "title" : "isaalo_moran2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 951966
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2036977",
+    "name" : "http://commons.emich.edu/theses/73/",
+    "creationDate" : "2014-07-04T08:32:21.913+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://commons.emich.edu/theses/73/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "46dd73fe110499a8337a2356ddaea0f7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://commons.emich.edu/theses/73/",
+      "contentCategory" : "any-fulltext",
+      "description" : "Eastern Michigan Univ., digital commons, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2036978",
+    "name" : "http://commons.emich.edu/cgi/viewcontent.cgi?article=1072&context=theses",
+    "creationDate" : "2014-07-04T08:32:22.661+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-DAA7-1",
+    "content" : "http://commons.emich.edu/cgi/viewcontent.cgi?article=1072&context=theses",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "192089cd565cd3433f395f005ae1a7f7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://commons.emich.edu/cgi/viewcontent.cgi?article=1072&context=theses",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

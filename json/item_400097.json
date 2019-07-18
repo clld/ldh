@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_400097",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-05-13T12:05:00.346+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CDB6-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-05-13T12:05:00.346+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6B5C-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:40:06.384+0000",
+  "latestRelease" : {
+    "objectId" : "item_400097",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T12:05:00.346+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CDB6-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400097",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T12:05:00.346+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CDB6-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Discourse features of Korean narration",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Shin Ja Joo",
+        "familyName" : "Hwang",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1987",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "808",
+      "type" : "OTHER"
+    }, {
+      "id" : "korean2_hwang1987_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Dallas, Tex.",
+      "publisher" : "SIL and the Univ. of Texas at Arlington\n"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics\n",
+      "volume" : "77",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL927, LoC Subject Headings: Korean language",
+    "subjects" : [ {
+      "value" : "kor - Korean",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiii, 246 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400096",
+    "name" : "korean2_hwang1987_o.pdf",
+    "creationDate" : "2010-04-01T10:40:05.539+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6B5B-9",
+    "content" : "/rest/items/item_400097_3/component/file_400096/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6c35e387777bbdca1dfef808589dd2ca",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8528891,
+    "metadata" : {
+      "title" : "korean2_hwang1987_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8528891
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2155698",
+    "name" : "http://www.sil.org/resources/archives/8613",
+    "creationDate" : "2015-05-13T12:04:34.927+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/8613",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4df9f0958d96034f09ced3060a738370",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/8613",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Language & Culture Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_407791",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-11T08:32:49.958+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-1EF3-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-11T08:32:49.958+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9816-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:20:48.156+0000",
+  "latestRelease" : {
+    "objectId" : "item_407791",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-11T08:32:49.958+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-1EF3-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407791",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-11T08:32:49.958+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-1EF3-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Martuthunira : a language of the Pilbara Region of Western Australia",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Alan Charles",
+        "familyName" : "Dench",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1995",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "41842",
+      "type" : "OTHER"
+    }, {
+      "id" : "martuthinura_dench1994_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Canberra",
+      "publisher" : "Australian National University"
+    },
+    "sources" : [ {
+      "title" : "Pacific Linguistics : Series C, Books",
+      "volume" : "125",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL7101.M284,\nLoC Subject Headings: Martuyhunira language",
+    "subjects" : [ {
+      "value" : "vma - Martuyhunira",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XVII, 390 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407790",
+    "name" : "martuthinura_dench1994_s.pdf",
+    "creationDate" : "2010-04-01T14:20:47.716+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9815-D",
+    "content" : "/rest/items/item_407791_4/component/file_407790/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d743e1e099e99fa589b517ad10a8ba5f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4109025,
+    "metadata" : {
+      "title" : "martuthinura_dench1994_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4109025
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2049749",
+    "name" : "http://www.ss.arts.uwa.edu.au/research/linguistics/martuthunira/martuthunira-grammar-download-request-form",
+    "creationDate" : "2014-08-12T08:19:45.662+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.ss.arts.uwa.edu.au/research/linguistics/martuthunira/martuthunira-grammar-download-request-form",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7c3e5ebd696a02546258dcfa17fbe606",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ss.arts.uwa.edu.au/research/linguistics/martuthunira/martuthunira-grammar-download-request-form",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. of Western Australia, Linguistics, Martuthunira, Martuthunira grammar download request registration // free registration for downloading necessary",
+      "size" : 0
+    }
+  } ]
+}

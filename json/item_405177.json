@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_405177",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-28T07:53:06.905+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C2B2-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-28T07:53:06.905+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-89AE-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:02:58.389+0000",
+  "latestRelease" : {
+    "objectId" : "item_405177",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-28T07:53:06.905+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2B2-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405177",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-28T07:53:06.905+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2B2-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Preliminary investigation into the function of tone in Hedi",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lee",
+        "familyName" : "Bramlett",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "34381",
+      "type" : "OTHER"
+    }, {
+      "id" : "hedi_bramlett1996_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Yaoundé",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class:  PL8239.1, LoC Subject Headings: Hdi language",
+    "subjects" : [ {
+      "value" : "xed - Hdi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "21 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class:  PL8239.1,\nLoC Subject Headings: Hdi language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405176",
+    "name" : "hedi_bramlett1996_o.pdf",
+    "creationDate" : "2010-04-01T13:02:58.249+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-89AD-0",
+    "content" : "/rest/items/item_405177_4/component/file_405176/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4fccc117838b49fdcd74bc1c40429552",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 518960,
+    "metadata" : {
+      "title" : "hedi_bramlett1996_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 518960
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2149162",
+    "name" : "http://www.silcam.org/languages/languagepage.php?languageid=264",
+    "creationDate" : "2015-04-28T07:47:50.749+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.silcam.org/languages/languagepage.php?languageid=264",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "609e7151e6b641fab165f358af8c99e4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.silcam.org/languages/languagepage.php?languageid=264",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Cameroon, Languages & Publications, title in French 'Recherche préliminaire de la fonction du ton en Hedi' but pdf in english, pdf download",
+      "size" : 0
+    }
+  } ]
+}

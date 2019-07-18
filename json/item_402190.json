@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_402190",
+  "versionNumber" : 7,
+  "modificationDate" : "2014-06-20T06:55:36.503+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-C1D8-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Stichwörter für LDH-Blogimport überarbeitet",
+  "lastModificationDate" : "2014-06-20T06:55:36.503+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-77BE-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:27:33.080+0000",
+  "latestRelease" : {
+    "objectId" : "item_402190",
+    "versionNumber" : 7,
+    "modificationDate" : "2014-06-20T06:55:36.503+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-C1D8-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402190",
+    "versionNumber" : 7,
+    "modificationDate" : "2014-06-20T06:55:36.503+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-C1D8-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Kharia texts : glossed, translated and annotated by John Peterson",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "John",
+        "familyName" : "Peterson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2010",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "29261",
+      "type" : "OTHER"
+    }, {
+      "id" : "kharia_peterson2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Osnabrück",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL4579, LoC Subject Headings: Kharia language",
+    "subjects" : [ {
+      "value" : "khr - Kharia",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XVII, 177 S."
+  },
+  "files" : [ {
+    "objectId" : "file_679587",
+    "name" : "kharia_peterson2010_s.pdf",
+    "creationDate" : "2011-01-28T07:21:27.453+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-C1D9-3",
+    "content" : "/rest/items/item_402190_7/component/file_679587/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "bbfcb5363c77279e360e39b0663ed60a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2191613,
+    "metadata" : {
+      "title" : "kharia_peterson2010_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "non exclusive right of use, with permission of John Peterson\n",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2191613,
+      "copyrightDate" : "2011-01-26"
+    }
+  }, {
+    "objectId" : "file_679588",
+    "name" : "http://www.southasiabibliography.de/Bibliography/Austroasiatic/Munda/Kharia/index.htm",
+    "creationDate" : "2011-01-28T07:21:27.559+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-C1DA-1",
+    "content" : "http://www.southasiabibliography.de/Bibliography/Austroasiatic/Munda/Kharia/index.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.southasiabibliography.de/Bibliography/Austroasiatic/Munda/Kharia/index.htm",
+      "contentCategory" : "supplementary-material",
+      "description" : "Bibliography for seldom studied and endangered South Asian Languages, Austroasiatic, Munda, Kharia\n",
+      "size" : 0
+    }
+  } ]
+}

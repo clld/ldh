@@ -1,0 +1,146 @@
+{
+  "objectId" : "item_404952",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-03T11:32:48.443+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0251-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-03T11:32:48.443+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8878-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:51:40.522+0000",
+  "latestRelease" : {
+    "objectId" : "item_404952",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T11:32:48.443+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0251-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404952",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T11:32:48.443+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0251-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Armenian : language competencies for peace corps volunteers in Armenia",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Vartan",
+        "familyName" : "Vartanian",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Margaret",
+        "familyName" : "Vartanian"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "organization" : {
+        "identifier" : "ou_persistent22",
+        "name" : "United States / Peace Corps",
+        "identifierPath" : [ "ou_persistent22" ]
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "1992",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "34071",
+      "type" : "OTHER"
+    }, {
+      "id" : "armenian_vartanian1992_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "freeKeywords" : "LoC Class: PK8451,\nLoC Subject Headings: Armenian language",
+    "subjects" : [ {
+      "value" : "hye - Armenian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "176 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PK8451,\nLoC Subject Headings: Armenian language--Textbooks for foreign speakers--English, Armenia--Social life and customs"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404950",
+    "name" : "http://eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED401764",
+    "creationDate" : "2010-04-01T12:51:40.039+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED401764",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "be1999d643bc70f56d18b78060bbe136",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED401764",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404951",
+    "name" : "armenian_vartanian1992_o.pdf",
+    "creationDate" : "2010-04-01T12:51:40.232+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8877-0",
+    "content" : "/rest/items/item_404952_3/component/file_404951/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "451e4e173da1347bb883c98b3dcc410e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2462259,
+    "metadata" : {
+      "title" : "armenian_vartanian1992_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2462259
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

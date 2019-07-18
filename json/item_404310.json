@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_404310",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-13T00:23:20.477+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7180-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T00:23:20.477+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-84BC-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:39:29.756+0000",
+  "latestRelease" : {
+    "objectId" : "item_404310",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T00:23:20.477+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7180-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404310",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T00:23:20.477+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7180-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Sentential complementation in Huaraz Quechua : a typological-functional study",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Miller, John Michael",
+        "givenName" : "John Michael",
+        "familyName" : "Miller",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1989",
+    "datePublishedInPrint" : "2009",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "33057",
+      "type" : "OTHER"
+    }, {
+      "id" : "quechua_miller1989_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PM6303, LoC Subject Headings: Quechua language -- Complement, LoC Subject Headings: Quechua language -- Verb, LoC Subject Headings: Quechua language -- Syntax",
+    "subjects" : [ {
+      "value" : "quz - Cusco Quechua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 166 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404308",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3391",
+    "creationDate" : "2010-04-01T12:39:28.711+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3391",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3111a2a5c53a1dfbfe0d54d987e8a07f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3391",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404309",
+    "name" : "quechua_miller1989_o.pdf",
+    "creationDate" : "2010-04-01T12:39:29.329+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-84BB-9",
+    "content" : "/rest/items/item_404310_3/component/file_404309/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "15e77c84e12f54eec8a49ea4f0bc2863",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3855541,
+    "metadata" : {
+      "title" : "quechua_miller1989_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3855541
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

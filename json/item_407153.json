@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_407153",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-02-24T12:37:49.709+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-DD1E-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "aktualisiert",
+  "lastModificationDate" : "2015-02-24T12:37:49.709+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-949D-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:56:18.564+0000",
+  "latestRelease" : {
+    "objectId" : "item_407153",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-24T12:37:49.709+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-DD1E-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407153",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-24T12:37:49.709+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-DD1E-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Mende natural history vocabulary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Frederick William H.",
+        "familyName" : "Migeod",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1913",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37748",
+      "type" : "OTHER"
+    }, {
+      "id" : "mende_migeod1913_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "London",
+      "publisher" : "Paul, Trench, Trübner"
+    },
+    "freeKeywords" : "LoC Class: PL8511,\nLoC Subject Headings: Mende language",
+    "subjects" : [ {
+      "value" : "men - Mende",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "64 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407151",
+    "name" : "http://www.archive.org/details/mendenaturalhist00migerich",
+    "creationDate" : "2010-04-01T13:56:17.130+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.archive.org/details/mendenaturalhist00migerich",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6f19e805888d664f667bb0cba8c7ec9e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/mendenaturalhist00migerich",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org: Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407152",
+    "name" : "mende_migeod1913_o.pdf",
+    "creationDate" : "2010-04-01T13:56:18.213+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-949C-0",
+    "content" : "/rest/items/item_407153_3/component/file_407152/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "88e65fed20330cce3134059c2fdc8f33",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3200294,
+    "metadata" : {
+      "title" : "mende_migeod1913_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3200294
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

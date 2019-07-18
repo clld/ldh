@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_403231",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-12-23T10:46:38.864+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-604B-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-23T10:46:38.864+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7DDE-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:05:07.680+0000",
+  "latestRelease" : {
+    "objectId" : "item_403231",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-23T10:46:38.864+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-604B-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403231",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-23T10:46:38.864+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-604B-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "O grammatičeskoj literaturě gruzinskago jazyka : Kriticěskij očerk. A. Cagareli",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Aleksandr Antonovič ",
+        "familyName" : "Cagareli",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1873",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31093",
+      "type" : "OTHER"
+    }, {
+      "id" : "gruzin_cagareli1873_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "rus" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Sanktpeterburg",
+      "publisher" : "Tip. Imp. Akad. Nauk"
+    },
+    "freeKeywords" : "LoC Class:  PK9114,\nLoC Subject Headings: Georgian language",
+    "subjects" : [ {
+      "value" : "kat - Georgian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 110 S."
+  },
+  "files" : [ {
+    "objectId" : "file_2080887",
+    "name" : "gruzin_cagareli1873.pdf",
+    "creationDate" : "2014-12-23T10:46:18.825+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-604C-E",
+    "content" : "/rest/items/item_403231_3/component/file_2080887/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "eece1298c61a5b2de08bde19b71349e6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 42014787,
+    "metadata" : {
+      "title" : "gruzin_cagareli1873.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 42014787,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2080888",
+    "name" : "http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11159902-9",
+    "creationDate" : "2014-12-23T10:46:19.374+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11159902-9",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f32e042b9fa83993072775da16c959a0",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11159902-9",
+      "contentCategory" : "publisher-version",
+      "description" : "Bayerische Staatsbibliothek digital, view online & pdf",
+      "size" : 0
+    }
+  } ]
+}

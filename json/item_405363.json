@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_405363",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T09:57:31.506+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8AAA-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:57:31.506+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8AAA-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:08:41.514+0000",
+  "latestRelease" : {
+    "objectId" : "item_405363",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:57:31.506+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8AAA-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405363",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:57:31.506+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8AAA-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Enquete sociolinguistique de la langue Niellim (Lua) du moyen Chari, Tchad",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Bagwell, Rosalind",
+        "givenName" : "Rosalind",
+        "familyName" : "Bagwell",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Stephen",
+        "familyName" : "Bagwell"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1992",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34687",
+      "type" : "OTHER"
+    }, {
+      "id" : "niellim_bagwell1992_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N'Djaména",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PL8550.N53,\nLoC Subject Headings: Nielim language",
+    "subjects" : [ {
+      "value" : "nie - Niellim",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "44 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405361",
+    "name" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/niellim_bagwell1992_1906_p.pdf",
+    "creationDate" : "2010-04-01T13:08:40.950+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8AA8-1",
+    "content" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/niellim_bagwell1992_1906_p.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/niellim_bagwell1992_1906_p.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Cameroon",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405362",
+    "name" : "niellim_bagwell1992_o.pdf",
+    "creationDate" : "2010-04-01T13:08:41.310+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8AA9-0",
+    "content" : "/rest/items/item_405363_3/component/file_405362/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2138c9b6ab0a0c5f3f9a5dca0e9da68f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1529559,
+    "metadata" : {
+      "title" : "niellim_bagwell1992_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1529559
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

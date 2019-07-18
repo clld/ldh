@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_406687",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:56:29.770+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9202-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:56:29.770+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9202-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:45:57.956+0000",
+  "latestRelease" : {
+    "objectId" : "item_406687",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:56:29.770+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9202-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406687",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:56:29.770+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9202-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Ortografía : lecciones del quechua",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Weber, David John403  2. Aufl.",
+        "givenName" : "David John403 2. Aufl.",
+        "familyName" : "Weber",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1998",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37383",
+      "type" : "OTHER"
+    }, {
+      "id" : "quechua2_weber1998_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Peru",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística peruana",
+      "volume" : "32",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6303,\nLoC Subject Headings: Quechua language --Peru --Cusco",
+    "subjects" : [ {
+      "value" : "quz - Cusco Quechua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "183 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406685",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=587",
+    "creationDate" : "2010-04-01T13:45:56.673+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9200-9",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=587",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "bb661d9eb7a67036acaaabb74ff27b73",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=587",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406686",
+    "name" : "quechua2_weber1998_o.pdf",
+    "creationDate" : "2010-04-01T13:45:57.313+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9201-7",
+    "content" : "/rest/items/item_406687_2/component/file_406686/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e0dae561e77398daec7454a0fe6587e8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6412941,
+    "metadata" : {
+      "title" : "quechua2_weber1998_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6412941
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

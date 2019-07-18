@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_406160",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T20:40:23.608+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FDD-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:40:23.608+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8F23-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:30:40.195+0000",
+  "latestRelease" : {
+    "objectId" : "item_406160",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:40:23.608+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FDD-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406160",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:40:23.608+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FDD-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Classification of stop consonant place of articulation",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Atiwong",
+        "familyName" : "Suchato",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36311",
+      "type" : "OTHER"
+    }, {
+      "id" : "classification_suchato2004_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge, Mass.",
+      "publisher" : "MIT"
+    },
+    "freeKeywords" : "LoC Class: P221.5, LoC Subject Headings: Phonetics/Acoustic, LoC Subject Headings: Automatic speech recognition",
+    "totalNumberOfPages" : "181 S.",
+    "abstracts" : [ {
+      "value" : "One of the approaches to automatic speech recognition is a distinctive feature-based speech recognition system, in which each of the underlying word segments is represented with a set of distinctive features. This thesis presents a study concerning acoustic attributes used for identifying the place of articulation features for stop consonant segments. The acoustic attributes are selected so that they capture the information relevant to place identification, including amplitude and energy of release bursts, formant movements of adjacent vowels, spectra of noises after the releases, and some temporal cues. An experimental procedure for examining the relative importance of these acoustic attributes for identifying stop place is developed. The ability of each attribute to separate the three places is evaluated by the classification error based on the distributions of its values for the three places, and another quantifier based on F-ratio. These two quantifiers generally agree and show how well each individual attribute separates the three places. Combinations of non-redundant attributes are used for the place classifications based on Mahalanobis distance. When stops contain release bursts, the classification accuracies are better than 90%. It was also shown that voicing and vowel frontness contexts lead to a better classification accuracy of stops in some contexts. When stops are located between two vowels, information on the formant structures in the vowels on both sides can be combined. Such combination yielded the best classification accuracy of 95.5%. By using appropriate methods for stops in different contexts, an overall classification accuracy of 92. 1% is achieved. Linear discriminant function analysis is used to address the relative(cont.) of these attributes when combinations are used. Their discriminating abilities and the ranking of their relative importance to the classifications in different vowel and voicing contexts are reported. The overall findings are that attributes relating to the burst spectrum in relation to the vowel contribute most effectively, while attributes relating to formant transition are somewhat less effective. The approach used in this study can be applied to different classes of sounds, as well as stops in different noise environments."
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406158",
+    "name" : "http://hdl.handle.net/1721.1/28532",
+    "creationDate" : "2010-04-01T13:30:38.478+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-C1A2-E",
+    "content" : "http://hdl.handle.net/1721.1/28532",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ee7f3e982a008a76f06ced7bbf57f059",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/28532",
+      "contentCategory" : "publisher-version",
+      "description" : "DSpace@MIT, MIT Theses, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406159",
+    "name" : "classification_suchato2004_o.pdf",
+    "creationDate" : "2010-04-01T13:30:39.393+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8F22-B",
+    "content" : "/rest/items/item_406160_4/component/file_406159/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ca5252f59eb43326de48b69ea628e2e8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7904315,
+    "metadata" : {
+      "title" : "classification_suchato2004_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7904315
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

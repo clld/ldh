@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_404136",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:50:30.096+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-83C8-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:50:30.096+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-83C8-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:35:28.972+0000",
+  "latestRelease" : {
+    "objectId" : "item_404136",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:50:30.096+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-83C8-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404136",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:50:30.096+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-83C8-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Language contact and children's bilingual acquisition : learning a mixed language and Warlpiri in Northern Australia",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "O'Shannessy, Carmel",
+        "givenName" : "Carmel",
+        "familyName" : "O'Shannessy",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32301",
+      "type" : "OTHER"
+    }, {
+      "id" : "bilingual_oshannessy2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Sydney",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PL7101.W3,\nLoC Subject Headings: Warlpiri language -- Acquisition",
+    "subjects" : [ {
+      "value" : "wbp - Warlpiri",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "286 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404134",
+    "name" : "http://ses.library.usyd.edu.au/handle/2123/1303",
+    "creationDate" : "2010-04-01T12:35:26.637+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-83C6-C",
+    "content" : "http://ses.library.usyd.edu.au/handle/2123/1303",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "520a453dab7040d1ad6ae52903be6935",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://ses.library.usyd.edu.au/handle/2123/1303",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404135",
+    "name" : "bilingual_oshannessy2006_s.pdf",
+    "creationDate" : "2010-04-01T12:35:28.062+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-83C7-A",
+    "content" : "/rest/items/item_404136_2/component/file_404135/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d04df5fbd176d155826bf08ad92a7a47",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8541374,
+    "metadata" : {
+      "title" : "bilingual_oshannessy2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8541374
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

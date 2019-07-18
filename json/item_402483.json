@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_402483",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:15:32.228+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7964-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:15:32.228+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7964-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:32:22.064+0000",
+  "latestRelease" : {
+    "objectId" : "item_402483",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:15:32.228+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7964-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402483",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:15:32.228+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7964-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Einführung in das kolonialzeitliche Quiché (Kiche) : an Hand der Sprache des Popol Wuj",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Michael",
+        "familyName" : "Dürr",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29965",
+      "type" : "OTHER"
+    }, {
+      "id" : "quiche_duerr2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Berlin",
+      "publisher" : "Freie Univ."
+    },
+    "freeKeywords" : "LoC Class: PM4231,\nLoC Subject Headings: Quiché language",
+    "subjects" : [ {
+      "value" : "qut - Kiche, West Central",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vi, 120 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402481",
+    "name" : "http://home.snafu.de/duerr/download.html",
+    "creationDate" : "2010-04-01T11:32:21.474+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7962-8",
+    "content" : "http://home.snafu.de/duerr/download.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3777fd609134076383aac1bfb9b22197",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://home.snafu.de/duerr/download.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402482",
+    "name" : "quiche_duerr2004_s.pdf",
+    "creationDate" : "2010-04-01T11:32:21.619+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7963-6",
+    "content" : "/rest/items/item_402483_2/component/file_402482/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "85428660483505c16e1dbc094362c5c3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3788382,
+    "metadata" : {
+      "title" : "quiche_duerr2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3788382
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

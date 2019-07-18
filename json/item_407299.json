@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_407299",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:28:04.780+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9572-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:28:04.780+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9572-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:09:52.113+0000",
+  "latestRelease" : {
+    "objectId" : "item_407299",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:28:04.780+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9572-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407299",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:28:04.780+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9572-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Hai-lu classifiers : an interactional approach",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Wei-che, Lee",
+        "givenName" : "Lee",
+        "familyName" : "Wei-che",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38299",
+      "type" : "OTHER"
+    }, {
+      "id" : "hailu_xyz1234_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Hsinchu",
+      "publisher" : " National Tsing Hua Univ."
+    },
+    "freeKeywords" : "LoC Class: PL1855,\nLoC Subject Headings: Hakka dialects",
+    "subjects" : [ {
+      "value" : "hak - Chinese, Hakka",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407297",
+    "name" : "http://140.114.72.28/handle/987654321/4368",
+    "creationDate" : "2010-04-01T14:09:38.472+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9570-8",
+    "content" : "http://140.114.72.28/handle/987654321/4368",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "26bff5ec5be5bc54e7ea60c8b24ae34f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://140.114.72.28/handle/987654321/4368",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407298",
+    "name" : "hailu_xyz1234_s.pdf",
+    "creationDate" : "2010-04-01T14:09:51.983+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9571-6",
+    "content" : "/rest/items/item_407299_2/component/file_407298/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "49be805d8d6ee174548a6eb3e83220e2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 688900,
+    "metadata" : {
+      "title" : "hailu_xyz1234_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 688900
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

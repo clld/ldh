@@ -1,0 +1,154 @@
+{
+  "objectId" : "item_407591",
+  "versionNumber" : 6,
+  "modificationDate" : "2011-05-31T10:09:23.240+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9705-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:09:23.240+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9705-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:16:08.534+0000",
+  "latestRelease" : {
+    "objectId" : "item_407591",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T10:09:23.240+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9705-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407591",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T10:09:23.240+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9705-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Language of the Australian aborigines",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Threlkeld, Lancelot Edward",
+        "givenName" : "Lancelot Edward",
+        "familyName" : "Threlkeld",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1858",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "39771",
+      "type" : "OTHER"
+    }, {
+      "id" : "awabakal_threlkeld1858_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Waugh's australian almanac for the year ",
+      "creators" : [ {
+        "organization" : {
+          "identifier" : "ou_persistent22",
+          "name" : "James W. Waugh <Sydney>",
+          "identifierPath" : [ "ou_persistent22" ]
+        },
+        "role" : "EDITOR",
+        "type" : "ORGANIZATION"
+      } ],
+      "startPage" : "60",
+      "endPage" : "80",
+      "publishingInfo" : {
+        "place" : "Sydney",
+        "publisher" : "Waugh"
+      },
+      "identifiers" : [ {
+        "id" : "1333196-6",
+        "type" : "ZDB"
+      } ],
+      "genre" : "JOURNAL"
+    } ],
+    "subjects" : [ {
+      "value" : "awk - Awabakal",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "20 S.",
+    "abstracts" : [ {
+      "value" : "PL7101.A7, ISO 639-3 : awk"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407590",
+    "name" : "awabakal_threlkeld1858_o.pdf",
+    "creationDate" : "2010-04-01T14:16:08.280+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9704-C",
+    "content" : "/rest/items/item_407591_6/component/file_407590/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e505df5e365dd8874b236539e5368687",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1230863,
+    "metadata" : {
+      "title" : "awabakal_threlkeld1858_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1230863,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_431817",
+    "name" : "http://libguides.newcastle.edu.au/index.php",
+    "creationDate" : "2010-05-10T12:57:00.093+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://libguides.newcastle.edu.au/index.php",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1199eb34bbdfd3724970113fba45f426",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libguides.newcastle.edu.au/index.php",
+      "contentCategory" : "publisher-version",
+      "description" : "LibGuides at University of Newcastle Australia : Virtual Coquun-Hunter River Project Guide  ",
+      "size" : 0
+    }
+  } ]
+}

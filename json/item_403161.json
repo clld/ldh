@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_403161",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-06-06T07:40:55.965+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7D76-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:40:55.965+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D76-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:59:47.353+0000",
+  "latestRelease" : {
+    "objectId" : "item_403161",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-06-06T07:40:55.965+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7D76-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403161",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-06-06T07:40:55.965+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7D76-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Les regles phonologiques tardives et la morphologie derivationnelle du francais : topics in French phonology and derivationa morphology",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Francois C.",
+        "familyName" : "Dell",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1970",
+    "datePublishedInPrint" : "1970",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31051",
+      "type" : "OTHER"
+    }, {
+      "id" : "francais_dell1970_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cambridge",
+      "publisher" : "Massachussetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Subject Headings: French language",
+    "subjects" : [ {
+      "value" : "fra - French",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix, 249 S.",
+    "abstracts" : [ {
+      "value" : "PC2131, ISO 639-3 : fra, French language, French language --Word formation"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403159",
+    "name" : "http://www.ai.mit.edu/projects/dm/theses/dell66.pdf",
+    "creationDate" : "2010-04-01T11:59:33.512+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D74-D",
+    "content" : "http://www.ai.mit.edu/projects/dm/theses/dell66.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0e633f155ab02900014215ae07043da2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ai.mit.edu/projects/dm/theses/dell66.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403160",
+    "name" : "francais_dell1970_o.pdf",
+    "creationDate" : "2010-04-01T11:59:45.821+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D75-B",
+    "content" : "/rest/items/item_403161_5/component/file_403160/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e610b25cde9ad4c1be9ba7f23e5c7fe5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 15995981,
+    "metadata" : {
+      "title" : "francais_dell1970_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 15995981,
+      "copyrightDate" : "2010-12-26",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

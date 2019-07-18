@@ -1,0 +1,111 @@
+{
+  "objectId" : "item_404935",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-09-24T14:07:46.038+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-5631-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain",
+  "lastModificationDate" : "2013-09-24T14:07:46.038+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-885E-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:51:20.487+0000",
+  "latestRelease" : {
+    "objectId" : "item_404935",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-09-24T14:07:46.038+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5631-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404935",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-09-24T14:07:46.038+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5631-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Tarahumarisches Wörterbuch, nebst einigen Nachrichten von den Sitten u. Gebräuchen der Tarahumaren, in Neu-Biscaya, in der Audiencia Guadalaxara, im Vice-Königreiche Alt-Mexico oder Neu-Spanien ; Pater Matthäus Steffel",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mattäus",
+        "familyName" : "Steffel",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1809",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "33928",
+      "type" : "OTHER"
+    }, {
+      "id" : "tarahumarisches_steffel1809_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "freeKeywords" : "LoC Subject Headings: Tarahumara language",
+    "subjects" : [ {
+      "value" : "tar - Central Tarahumara",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "84 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM4291.Z5,\nLoC Subject Headings: Tarahumara language -- Dictionaries -- German, German language -- Dictionaries -- Tarahumara, Manuscripts, German -- Massachusetts -- Wenham"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404934",
+    "name" : "tarahumarisches_steffel1809_o.pdf",
+    "creationDate" : "2010-04-01T12:51:19.853+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-885D-E",
+    "content" : "/rest/items/item_404935_3/component/file_404934/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "36ee2610eb01b006a2c4a24dbc692d9e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6251443,
+    "metadata" : {
+      "title" : "tarahumarisches_steffel1809_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6251443
+    }
+  } ]
+}

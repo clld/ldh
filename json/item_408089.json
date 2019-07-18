@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_408089",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:14:54.274+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-99CF-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:14:54.274+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-99CF-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:29:40.814+0000",
+  "latestRelease" : {
+    "objectId" : "item_408089",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:14:54.274+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-99CF-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408089",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:14:54.274+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-99CF-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Totontepec Mixe phonotagmemics",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Crawford, John Chapman",
+        "givenName" : "John Chapman",
+        "familyName" : "Crawford",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1963",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "42359",
+      "type" : "OTHER"
+    }, {
+      "id" : "totontepec_crawford1963_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "[1: ed.]",
+      "place" : "Norman, Okla.",
+      "publisher" : "Summer Institute of Linguistics of the\n              University of Oklahoma"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics and related Fields",
+      "volume" : "8",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4011,\nLoC Subject Headings: Mixe language--Dialects--Mexico--Totontepec Villa de Morelos",
+    "subjects" : [ {
+      "value" : "mto - Mixe, Totontepec",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix, 197 S."
+  },
+  "files" : [ {
+    "objectId" : "file_408087",
+    "name" : "http://www.ethnologue.com/show_work.asp?id=10477",
+    "creationDate" : "2010-04-01T14:29:39.670+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-99CD-9",
+    "content" : "http://www.ethnologue.com/show_work.asp?id=10477",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "594b2fb52f9aef0f97d8c3c1b5d60e8a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ethnologue.com/show_work.asp?id=10477",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408088",
+    "name" : "totontepec_crawford1963_o.pdf",
+    "creationDate" : "2010-04-01T14:29:40.275+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-99CE-7",
+    "content" : "/rest/items/item_408089_2/component/file_408088/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "254f2b08e504fdacefaea43c75f25a0c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5214681,
+    "metadata" : {
+      "title" : "totontepec_crawford1963_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5214681
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

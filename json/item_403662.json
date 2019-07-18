@@ -1,0 +1,121 @@
+{
+  "objectId" : "item_403662",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-13T01:38:36.763+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7220-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:38:36.763+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-80F8-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:21:46.829+0000",
+  "latestRelease" : {
+    "objectId" : "item_403662",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T01:38:36.763+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7220-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403662",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T01:38:36.763+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7220-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Practisch Maleisch-Hollandsch en Hollandsch-Maleisch handwoordenboek, benevens een \"kort begrip der Maleische woordvorming en spraakleer.\"",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Leendert Theodorus",
+        "familyName" : "Mayer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1906",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31492",
+      "type" : "OTHER"
+    }, {
+      "id" : "maleisch_mayer1895.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "nld" ],
+    "publishingInfo" : {
+      "edition" : "4. Aufl.",
+      "place" : "s'Gravenhage",
+      "publisher" : "van Dorp"
+    },
+    "freeKeywords" : "LoC Subject Headings: Malay language, LoC Subject Headings: Dutch language",
+    "subjects" : [ {
+      "value" : "mly - Malay",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "nld - Dutch",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xix, 622 S.",
+    "abstracts" : [ {
+      "value" : "PL5056, ISO 639-3 : mly, Malay language -- Dictionaries -- Dutch, Dutch language -- Dictionaries -- Malay"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403661",
+    "name" : "maleisch_mayer1895.pdf",
+    "creationDate" : "2010-04-01T12:21:40.765+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-80F7-3",
+    "content" : "/rest/items/item_403662_5/component/file_403661/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f339f5d49926ce4f89003a3cdc49a813",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 65465187,
+    "metadata" : {
+      "title" : "maleisch_mayer1895.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 65465187,
+      "copyrightDate" : "2010-11-16",
+      "rights" : "public domain, Leendert Theodorus Mayer 1851-1914"
+    }
+  } ]
+}

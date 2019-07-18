@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_404039",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-04-24T12:10:03.912+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C047-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-24T12:10:03.912+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-833B-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:33:14.039+0000",
+  "latestRelease" : {
+    "objectId" : "item_404039",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-24T12:10:03.912+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C047-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404039",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-24T12:10:03.912+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C047-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Syntactic affixation",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Nigel Alexander John",
+        "familyName" : "Fabb",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1984",
+    "datePublishedInPrint" : "1984",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32177",
+      "type" : "OTHER"
+    }, {
+      "id" : "affixation_fabb1984_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P273, LoC Subject Headings: Grammar/Comparative and general--Syntax, LoC Subject Headings: Grammar/Comparative and general--Affixes, LoC Subject Headings: Government-binding theory (Linguistics), LoC Subject Headings: Case grammar",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "264 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404038",
+    "name" : "affixation_fabb1984_o.pdf",
+    "creationDate" : "2010-04-01T12:33:12.879+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-833A-6",
+    "content" : "/rest/items/item_404039_5/component/file_404038/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3bff3a192ca3a7ee29ce949a84f2e245",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11983707,
+    "metadata" : {
+      "title" : "affixation_fabb1984_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11983707,
+      "rights" : "non-exclusive permission from Massachusetts Institute of Technology/Cambridge Massachusetts (2010-04-26)"
+    }
+  }, {
+    "objectId" : "file_2148960",
+    "name" : "http://hdl.handle.net/1721.1/15446",
+    "creationDate" : "2015-04-24T12:09:41.724+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/15446",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4a8823f10070d711a262229f108de882",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/15446",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

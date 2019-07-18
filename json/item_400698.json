@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_400698",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-07T07:46:37.726+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A7E4-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-07T07:46:37.726+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6F0A-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:57:12.835+0000",
+  "latestRelease" : {
+    "objectId" : "item_400698",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-07T07:46:37.726+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7E4-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400698",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-07T07:46:37.726+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7E4-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Datos adicionales del idioma Chamicuro",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Stephen G.",
+        "familyName" : "Parker",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1994",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "23972",
+      "type" : "OTHER"
+    }, {
+      "id" : "chamicuro_parker1994_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yarinacocha, Perú",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Documento de trabajo",
+      "volume" : "25",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5805.Z5, LoC Subject Headings: Chamicuro language",
+    "subjects" : [ {
+      "value" : "ccc - Chamicuro",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "105 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5805.Z5, LoC Subject Headings: Chamicuro language -- Dictionaries -- Spanish, Chamicuro language -- Conversation and phrase books -- Spanish"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400697",
+    "name" : "chamicuro_parker1994_o.pdf",
+    "creationDate" : "2010-04-01T10:57:12.578+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F09-1",
+    "content" : "/rest/items/item_400698_4/component/file_400697/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8d80573c2329e1d2860af86b85023633",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2188534,
+    "metadata" : {
+      "title" : "chamicuro_parker1994_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2188534
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110547",
+    "name" : "http://www.peru.sil.org/resources/archives/29727",
+    "creationDate" : "2015-03-10T10:33:44.063+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/29727",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d46d59b8a768f80324d09e253317fc1c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/29727",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Peru Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

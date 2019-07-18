@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_403805",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:09:25.307+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-81E6-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:09:25.307+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-81E6-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:24:53.000+0000",
+  "latestRelease" : {
+    "objectId" : "item_403805",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:09:25.307+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-81E6-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403805",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:09:25.307+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-81E6-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Reconstrucción de la lengua Chacha mediante un estudio Toponímico en el distrito de la Jalca grande (Chachapoyas-Amazonas)",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Culqui, Jairo Valqui",
+        "givenName" : "Jairo Valqui",
+        "familyName" : "Culqui",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31736",
+      "type" : "OTHER"
+    }, {
+      "id" : "chacha_culqui2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Lima",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PM6309.5,\nLoC Subject Headings: Quechua language --Dialects --Peru --Chachapoyas",
+    "subjects" : [ {
+      "value" : "quk - Chachapoyas Quechua",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "que - Quechua",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403803",
+    "name" : "http://sisbib.unmsm.edu.pe/Bibvirtual/tesis/HUman/valqui_cj/contenido.htm",
+    "creationDate" : "2010-04-01T12:24:51.463+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-81E4-7",
+    "content" : "http://sisbib.unmsm.edu.pe/Bibvirtual/tesis/HUman/valqui_cj/contenido.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "92abd7281b8901b762e834ecdffc225b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://sisbib.unmsm.edu.pe/Bibvirtual/tesis/HUman/valqui_cj/contenido.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403804",
+    "name" : "chacha_culqui2004_s.pdf",
+    "creationDate" : "2010-04-01T12:24:52.628+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-81E5-5",
+    "content" : "/rest/items/item_403805_2/component/file_403804/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1f0ed29977879efee8961acbf55bae24",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3160560,
+    "metadata" : {
+      "title" : "chacha_culqui2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3160560
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

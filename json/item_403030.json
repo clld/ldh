@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_403030",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-10T09:30:34.246+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0AD4-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-10T09:30:34.246+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7CA1-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:51:14.016+0000",
+  "latestRelease" : {
+    "objectId" : "item_403030",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T09:30:34.246+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0AD4-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403030",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T09:30:34.246+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0AD4-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Some Carib Indian mammal names",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "George Gaylord",
+        "familyName" : "Simpson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1941",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "30889",
+      "type" : "OTHER"
+    }, {
+      "id" : "carib_simpson1906_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "New York",
+      "publisher" : "American Museum of Natural History"
+    },
+    "sources" : [ {
+      "title" : "American Museum novitates",
+      "volume" : "1119",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5756, LoC Subject Headings: Carib language",
+    "subjects" : [ {
+      "value" : "crb - Island Carib",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "10 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5756, LoC Subject Headings: Carib Indians, Mammals--South America--Nomenclature (Popular), Mammals--Nomenclature (Popular)--Carib, Mammals--Venezuela--Nomenclature (Popular), Mammals--Nomenclature (Popular)--Spanish, Carib language--Glossaries, vocabularies, etc., Camaracoto dialect, Taurepan dialect"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403028",
+    "name" : "http://hdl.handle.net/2246/4834",
+    "creationDate" : "2010-04-01T11:51:13.207+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/2246/4834",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "51c9b110715d66e76836afa4f03cac41",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/2246/4834",
+      "contentCategory" : "publisher-version",
+      "description" : "American Museum of Natural History, Research Library, DSpace Digital Repository, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403029",
+    "name" : "carib_simpson1906_s.pdf",
+    "creationDate" : "2010-04-01T11:51:13.824+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7C9E-A",
+    "content" : "/rest/items/item_403030_3/component/file_403029/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "10d55da8ebb4b179c3e946143ecbb4d0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1366972,
+    "metadata" : {
+      "title" : "carib_simpson1906_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1366972
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

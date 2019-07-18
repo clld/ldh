@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_402477",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-13T02:14:47.096+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-725D-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:14:47.096+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-795C-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:32:15.562+0000",
+  "latestRelease" : {
+    "objectId" : "item_402477",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:14:47.096+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-725D-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402477",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:14:47.096+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-725D-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Decomposing questions",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Paul",
+        "familyName" : "Hagstrom",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1998",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29963",
+      "type" : "OTHER"
+    }, {
+      "id" : "questions_hagstrom1998_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : " Massachusetts Inst.of Technology"
+    },
+    "freeKeywords" : "LoC Class: P299.I57, LoC Subject Headings: Grammar/Comparative and general--Syntax, LoC Subject Headings: Grammar/Comparative and general--Interrogative, LoC Subject Headings: Semantics, LoC Subject Headings: Generative grammar",
+    "totalNumberOfPages" : "202 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402476",
+    "name" : "questions_hagstrom1998_s.pdf",
+    "creationDate" : "2010-04-01T11:32:15.419+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-795B-9",
+    "content" : "/rest/items/item_402477_4/component/file_402476/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1f07e485ea9ad2a13f4c16e70b48d55a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 747525,
+    "metadata" : {
+      "title" : "questions_hagstrom1998_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 747525
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110877",
+    "name" : "http://hdl.handle.net/1721.1/9649",
+    "creationDate" : "2015-03-11T10:15:08.067+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/9649",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9715e3195d4b648e296194f74fc0fbf2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/9649",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

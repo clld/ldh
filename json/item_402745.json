@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_402745",
+  "versionNumber" : 7,
+  "modificationDate" : "2015-03-13T02:01:07.601+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7246-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:01:07.601+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7AE1-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:43:58.234+0000",
+  "latestRelease" : {
+    "objectId" : "item_402745",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-03-13T02:01:07.601+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7246-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402745",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-03-13T02:01:07.601+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7246-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The Chinese of Pasuruan : their language and identity",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Dédé",
+        "familyName" : "Oetomo",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1987",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "30487",
+      "type" : "OTHER"
+    }, {
+      "id" : "pasuruan_oetomo1987_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "0-85883-349-2",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Canberra",
+      "publisher" : "Australian National Univ."
+    },
+    "sources" : [ {
+      "title" : "Pacific linguistics : Series D, Special Publications",
+      "volume" : "63",
+      "genre" : "SERIES"
+    }, {
+      "title" : "Materials in Languages of Indonesia",
+      "creators" : [ {
+        "person" : {
+          "givenName" : "W.A.L.",
+          "familyName" : "Stokhof",
+          "organizations" : [ {
+            "identifier" : "ou_persistent22",
+            "name" : "External Organizations",
+            "identifierPath" : [ "ou_persistent22" ]
+          } ]
+        },
+        "role" : "EDITOR",
+        "type" : "PERSON"
+      } ],
+      "volume" : "26",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL1621.P37, LoC Subject Headings: Chinese language, LoC Subject Headings: Pasuruan (Indonesia)--Languages",
+    "subjects" : [ {
+      "value" : "pea - Indonesian, Peranakan",
+      "type" : "ISO639_3"
+    } ],
+    "tableOfContents" : "Originally presented as the author's thesis",
+    "totalNumberOfPages" : "iv, 292 S.",
+    "abstracts" : [ {
+      "value" : "Chinese language--Indonesia --Pasuruan, Chinese--Indonesia--Pasuruan, Sociolinguistics--Indonesia--Pasuruan, Ethnology--Indonesia--Pasuruan,\tPasuruan (Indonesia)--Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402744",
+    "name" : "pasuruan_oetomo1987_o.pdf",
+    "creationDate" : "2010-04-01T11:43:56.982+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7AE0-2",
+    "content" : "/rest/items/item_402745_7/component/file_402744/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9ee0cf3f7a2ebd5770ca7fa8ca4a7a48",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12938981,
+    "metadata" : {
+      "title" : "pasuruan_oetomo1987_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12938981,
+      "copyrightDate" : "2014-01-10",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

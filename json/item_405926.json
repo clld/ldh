@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_405926",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-15T07:16:57.773+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-EBDD-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-15T07:16:57.773+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8DD5-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:23:38.847+0000",
+  "latestRelease" : {
+    "objectId" : "item_405926",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-15T07:16:57.773+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-EBDD-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405926",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-15T07:16:57.773+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-EBDD-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A lexical analysis of select unbounded dependency constructions in Korean",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Sun-Hee",
+        "familyName" : "Lee",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35551",
+      "type" : "OTHER"
+    }, {
+      "id" : "korean_lee2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: PL911,\nLoC Subject Headings: Korean language",
+    "subjects" : [ {
+      "value" : "kor - Korean",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "X, 193 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL911,\nLoC Subject Headings: Korean language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405925",
+    "name" : "korean_lee2004_s.pdf",
+    "creationDate" : "2010-04-01T13:23:38.533+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8DD4-B",
+    "content" : "/rest/items/item_405926_3/component/file_405925/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7fb9ebf788535b42a7944a4cffd7656a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2092837,
+    "metadata" : {
+      "title" : "korean_lee2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2092837
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2042392",
+    "name" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1086106196",
+    "creationDate" : "2014-07-15T07:14:59.083+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-EBDF-7",
+    "content" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1086106196",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "78d079dc71b28f58175bbe6531987514",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1086106196",
+      "contentCategory" : "any-fulltext",
+      "description" : "OhioLINK, Electronic Theses & Dissertations Center, pdf",
+      "size" : 0
+    }
+  } ]
+}

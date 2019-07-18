@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_403347",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:30:20.751+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7E8D-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:30:20.751+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E8D-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:17:15.430+0000",
+  "latestRelease" : {
+    "objectId" : "item_403347",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:30:20.751+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7E8D-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403347",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:30:20.751+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7E8D-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The phonology of Kasong at Khlong Saeng village, Danchumphon sub-district, Bo Rai district, Trat Province",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Thongkham, Noppawan",
+        "givenName" : "Noppawan",
+        "familyName" : "Thongkham",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31182",
+      "type" : "OTHER"
+    }, {
+      "id" : "kasong_noppawan2003_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "974-04-3750-8",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Nakhon Pathom",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL4301,\nLoC Subject Headings: Mon-Khmer languages",
+    "totalNumberOfPages" : "[10 Bl.], 182 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403345",
+    "name" : "http://archives.sealang.net/mahidol",
+    "creationDate" : "2010-04-01T12:17:14.561+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E8B-A",
+    "content" : "http://archives.sealang.net/mahidol",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b90f0b74e428eb7d24c3f080c1c10bb4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://archives.sealang.net/mahidol",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403346",
+    "name" : "kasong_noppawan2003_o.pdf",
+    "creationDate" : "2010-04-01T12:17:14.816+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E8C-8",
+    "content" : "/rest/items/item_403347_2/component/file_403346/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "199535c3d3bf962a3e3fa7ef06f4a6c3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5712645,
+    "metadata" : {
+      "title" : "kasong_noppawan2003_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5712645
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

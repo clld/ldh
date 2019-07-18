@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_406814",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T07:33:48.470+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA28-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T07:33:48.470+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-92B5-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:47:38.987+0000",
+  "latestRelease" : {
+    "objectId" : "item_406814",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T07:33:48.470+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA28-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406814",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T07:33:48.470+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA28-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Lexique Tuki - Français : avec indexe Français-Tuki",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jacquis",
+        "familyName" : "Kongne Welaze",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2006",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37451",
+      "type" : "OTHER"
+    }, {
+      "id" : "tuki_welaze2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yaoundé",
+      "publisher" : "ANACLAC"
+    },
+    "freeKeywords" : "LoC Class: PL8748.T831, LoC Subject Headings: Tuki language",
+    "subjects" : [ {
+      "value" : "bag - Tuki",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "81 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8748.T831, LoC Subject Headings: Tuki language -- Grammar, LoC Subject Headings: Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406813",
+    "name" : "tuki_welaze2006_s.pdf",
+    "creationDate" : "2010-04-01T13:47:38.876+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-92B4-8",
+    "content" : "/rest/items/item_406814_4/component/file_406813/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0bd4cc40e826f7b52e6a8cc5b4a34ec0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 474183,
+    "metadata" : {
+      "title" : "tuki_welaze2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 474183
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147244",
+    "name" : "http://www.silcam.org/folder030401/page.php",
+    "creationDate" : "2015-04-21T07:33:26.047+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.silcam.org/folder030401/page.php",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8b584eaeed85b5cbd0cd79404641a64a",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.silcam.org/folder030401/page.php",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Cameroon, Publications, TUKI, pdf download",
+      "size" : 0
+    }
+  } ]
+}

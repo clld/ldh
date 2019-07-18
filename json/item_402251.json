@@ -1,0 +1,127 @@
+{
+  "objectId" : "item_402251",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T11:42:54.213+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-781E-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:42:54.213+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-781E-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:29:11.737+0000",
+  "latestRelease" : {
+    "objectId" : "item_402251",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:42:54.213+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-781E-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402251",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:42:54.213+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-781E-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Mandinka English dictionary",
+    "creators" : [ {
+      "organization" : {
+        "identifier" : "ou_persistent22",
+        "name" : "Gambia / Peace Corps",
+        "identifierPath" : [ "ou_persistent22" ]
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "1995",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29479",
+      "type" : "OTHER"
+    }, {
+      "id" : "mandinka_peace1995b_s.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "edition" : "[Rev. ed.]",
+      "place" : "Banjul",
+      "publisher" : "[W. E. C. International]"
+    },
+    "freeKeywords" : "LoC Class: PL8491.4,\nLoC Subject Headings: Mandingo language--Dictionaries--English",
+    "subjects" : [ {
+      "value" : "mnk - Mandinka",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "II, 159 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402250",
+    "name" : "mandinka_peace1995b_s.pdf",
+    "creationDate" : "2010-04-01T11:29:11.574+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-781D-C",
+    "content" : "/rest/items/item_402251_3/component/file_402250/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3b82629f31bff95846fafc35fbad6b97",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1131239,
+    "metadata" : {
+      "title" : "mandinka_peace1995b_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1131239
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_417512",
+    "name" : "http://resourcepage.gambia.dk/ftp/mandinka.pdf",
+    "creationDate" : "2010-04-15T14:16:10.802+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://resourcepage.gambia.dk/ftp/mandinka.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c7b9d37457147445be28fcabe6867d98",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://resourcepage.gambia.dk/ftp/mandinka.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_404557",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-12-19T10:31:46.664+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-5D97-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-19T10:31:46.664+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-862C-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:43:35.986+0000",
+  "latestRelease" : {
+    "objectId" : "item_404557",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-19T10:31:46.664+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5D97-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404557",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-19T10:31:46.664+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5D97-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of the Tamil language : with an appendix",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Charles Theophilus Ewald",
+        "familyName" : "Rhenius",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1846",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "33433",
+      "type" : "OTHER"
+    }, {
+      "id" : "tamil_rhenius1846_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "second ed.",
+      "place" : "Madras",
+      "publisher" : "Hunt ; American Mission Press"
+    },
+    "freeKeywords" : "LoC Class: PL4753,\nLoC Subject Headings: Tamil language",
+    "subjects" : [ {
+      "value" : "tam - Tamil",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XVI S., S. [7] - 298."
+  },
+  "files" : [ {
+    "objectId" : "file_404556",
+    "name" : "tamil_rhenius1846_o.pdf",
+    "creationDate" : "2010-04-01T12:43:34.875+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-862B-C",
+    "content" : "/rest/items/item_404557_3/component/file_404556/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ddd2806ec6effe6213c639185948ea6c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11401379,
+    "metadata" : {
+      "title" : "tamil_rhenius1846_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11401379
+    }
+  }, {
+    "objectId" : "file_2079668",
+    "name" : "https://archive.org/details/agrammartamilla01rhengoog",
+    "creationDate" : "2014-12-19T10:31:14.097+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/agrammartamilla01rhengoog",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4c855934eb3e7d45b4db00a1bebfac88",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/agrammartamilla01rhengoog",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org",
+      "size" : 0
+    }
+  } ]
+}

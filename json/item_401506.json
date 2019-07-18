@@ -1,0 +1,162 @@
+{
+  "objectId" : "item_401506",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-06-12T09:47:58.431+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-BA2A-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-06-12T09:47:58.431+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-73B1-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:13:11.474+0000",
+  "latestRelease" : {
+    "objectId" : "item_401506",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-12T09:47:58.431+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-BA2A-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401506",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-12T09:47:58.431+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-BA2A-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Outline of Dani morphology",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Petrus Aatonius Maria van der",
+        "familyName" : "Stap",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1966",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "26922",
+      "type" : "OTHER"
+    }, {
+      "id" : "dani_stap1966_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "'S-Gravenhage",
+      "publisher" : "Nijhoff"
+    },
+    "sources" : [ {
+      "title" : "Verhandelingen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde",
+      "volume" : "48",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6265.Z9,\nLoC Subject Headings: Dani language",
+    "subjects" : [ {
+      "value" : "dni - Lower Grand Valley Dani",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "dnw - Western Dani",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vii, 195 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401505",
+    "name" : "dani_stap1966_o.pdf",
+    "creationDate" : "2010-04-01T11:13:10.991+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-73B0-A",
+    "content" : "/rest/items/item_401506_3/component/file_401505/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2b9b93830d4be21110b6165eb2ba1e0e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4478233,
+    "metadata" : {
+      "title" : "dani_stap1966_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4478233
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2032922",
+    "name" : "http://papuaweb.org/dlib/bk1/kitlv/index.html",
+    "creationDate" : "2014-06-12T09:47:04.114+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-BA2B-A",
+    "content" : "http://papuaweb.org/dlib/bk1/kitlv/index.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0039535bcef3556cdde8d2e03f4e890d",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://papuaweb.org/dlib/bk1/kitlv/index.html",
+      "contentCategory" : "publisher-version",
+      "description" : "papuaweb, KITLV Publications on Papua,  Stap, P.A.M. van der, 1966, 'Outline of Dani Morphology' (pdf)",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2032923",
+    "name" : "http://papuaweb.org/dlib/bk1/kitlv/stap-1966.pdf",
+    "creationDate" : "2014-06-12T09:47:04.869+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-BA2C-8",
+    "content" : "http://papuaweb.org/dlib/bk1/kitlv/stap-1966.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c580fb68e4a2a5bb0028d4de9d03a566",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://papuaweb.org/dlib/bk1/kitlv/stap-1966.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "direct link to pdf-version",
+      "size" : 0
+    }
+  } ]
+}

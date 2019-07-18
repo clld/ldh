@@ -1,0 +1,159 @@
+{
+  "objectId" : "item_403859",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-12T08:53:53.977+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CC37-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-12T08:53:53.977+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8238-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:27:04.738+0000",
+  "latestRelease" : {
+    "objectId" : "item_403859",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-12T08:53:53.977+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CC37-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403859",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-12T08:53:53.977+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CC37-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Consonant weakening in Florentine Italian : an acoustic study of gradient and variable sound changes",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Christina",
+        "familyName" : "Villafaña Dalcher",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31886",
+      "type" : "OTHER"
+    }, {
+      "id" : "italian_dalcher2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Washington, D.C.",
+      "publisher" : "Georgetown Univ."
+    },
+    "freeKeywords" : "LoC Class: P325, LoC Subject Headings: Italian language",
+    "subjects" : [ {
+      "value" : "ita - Italian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xvi, 275 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: P325,\nLoC Subject Headings: Italian language--Dialects--Italy--Florence--Consonants, Italian language--Dialects--Italy--Florence--Phonology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403858",
+    "name" : "italian_dalcher2006_s.pdf",
+    "creationDate" : "2010-04-01T12:27:04.250+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8237-5",
+    "content" : "/rest/items/item_403859_4/component/file_403858/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7e2dbf10b93c99eb669ee747e900f38b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4653319,
+    "metadata" : {
+      "title" : "italian_dalcher2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4653319
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2036546",
+    "name" : "http://christinadalcher.wordpress.com/research/",
+    "creationDate" : "2014-07-02T06:55:15.114+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://christinadalcher.wordpress.com/research/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c472245b83981138f9ddbf2a3cbd8842",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://christinadalcher.wordpress.com/research/",
+      "contentCategory" : "any-fulltext",
+      "description" : "Christina Dalcher's website, 2006, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2036547",
+    "name" : "http://christinadalcher.files.wordpress.com/2012/07/gt-diss-final.pdf",
+    "creationDate" : "2014-07-02T06:55:16.133+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-E4B6-E",
+    "content" : "http://christinadalcher.files.wordpress.com/2012/07/gt-diss-final.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "33373721bd052989c340faf02c2518e5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://christinadalcher.files.wordpress.com/2012/07/gt-diss-final.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

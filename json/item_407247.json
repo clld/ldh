@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_407247",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T22:04:54.635+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-707F-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T22:04:54.635+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-952A-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:02:29.814+0000",
+  "latestRelease" : {
+    "objectId" : "item_407247",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T22:04:54.635+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-707F-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407247",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T22:04:54.635+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-707F-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "An outline of Ulithian grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ho-min",
+        "familyName" : "Sohn",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1969",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "37839",
+      "type" : "OTHER"
+    }, {
+      "id" : "ulithian_sohn1969_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Theses for the degree of Doctor of Philosophy : Linguistics",
+      "volume" : "240",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6327.S6, LoC Subject Headings: Ulithi language --Grammar, LoC Subject Headings: Ulithian grammar",
+    "subjects" : [ {
+      "value" : "uli - Ulithian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xviii, 543 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407245",
+    "name" : "http://proquest.umi.com/pqdweb?did=756165161&sid=4&Fmt=1&clientId=56146&RQT=309&VName=PQD",
+    "creationDate" : "2010-04-01T14:02:26.764+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://proquest.umi.com/pqdweb?did=756165161&sid=4&Fmt=1&clientId=56146&RQT=309&VName=PQD",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "870aa49cd1dba2d9df8facc004035174",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://proquest.umi.com/pqdweb?did=756165161&sid=4&Fmt=1&clientId=56146&RQT=309&VName=PQD",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407246",
+    "name" : "ulithian_sohn1969_o.pdf",
+    "creationDate" : "2010-04-01T14:02:28.641+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9529-A",
+    "content" : "/rest/items/item_407247_4/component/file_407246/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a5fe2708326d805e66a4e9cc8e7ceca4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12039500,
+    "metadata" : {
+      "title" : "ulithian_sohn1969_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12039500
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

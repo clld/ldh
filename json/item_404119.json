@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_404119",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:08:28.720+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-83AC-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:08:28.720+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-83AC-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:35:17.414+0000",
+  "latestRelease" : {
+    "objectId" : "item_404119",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:08:28.720+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-83AC-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404119",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:08:28.720+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-83AC-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Functions Of The Bargam Conjunction \"Teq\"",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Hepner, Mark",
+        "givenName" : "Mark",
+        "familyName" : "Hepner",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "32281",
+      "type" : "OTHER"
+    }, {
+      "id" : "bargam_hepner1996_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[s.l.]",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL5101,\nLoC Subject Headings: Malaysian language",
+    "subjects" : [ {
+      "value" : "btg - Gagnoa Bété",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "70 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404117",
+    "name" : "http://www.pnglanguages.org/pacific/png/pubs/0000471/Bargam_Conjunction_Teq.pdf",
+    "creationDate" : "2010-04-01T12:35:14.946+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-83AA-C",
+    "content" : "http://www.pnglanguages.org/pacific/png/pubs/0000471/Bargam_Conjunction_Teq.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.pnglanguages.org/pacific/png/pubs/0000471/Bargam_Conjunction_Teq.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404118",
+    "name" : "bargam_hepner1996_s.pdf",
+    "creationDate" : "2010-04-01T12:35:17.332+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-83AB-A",
+    "content" : "/rest/items/item_404119_2/component/file_404118/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "335bb73aead26df47d01933669b552b3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 259147,
+    "metadata" : {
+      "title" : "bargam_hepner1996_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 259147
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

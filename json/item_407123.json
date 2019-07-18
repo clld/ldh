@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_407123",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-02-25T10:51:42.940+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-E2C6-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "aktualisiert",
+  "lastModificationDate" : "2015-02-25T10:51:42.940+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9479-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:55:04.621+0000",
+  "latestRelease" : {
+    "objectId" : "item_407123",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-02-25T10:51:42.940+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E2C6-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407123",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-02-25T10:51:42.940+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E2C6-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of the Kui language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "J. E.",
+        "familyName" : "Friend Pereira",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1909",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37735",
+      "type" : "OTHER"
+    }, {
+      "id" : "kui_friendpereira1909_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "1st ed.",
+      "place" : "Calcutta",
+      "publisher" : "Bengal Secretariat Book Depot"
+    },
+    "freeKeywords" : "LoC Class: PL4695.1,\nLoC Subject Headings: Kui language (Dravidian)",
+    "subjects" : [ {
+      "value" : "kxu - Kui",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix, 80, vi S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL4695.1,\nLoC Subject Headings: Kui language (Dravidian)--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407121",
+    "name" : "http://www.archive.org/details/grammarofkuilang00frierich",
+    "creationDate" : "2010-04-01T13:55:02.163+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.archive.org/details/grammarofkuilang00frierich",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b2ec168b6549ac0477d5b1dcb281621e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/grammarofkuilang00frierich",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org: Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407122",
+    "name" : "kui_friendpereira1909_o.pdf",
+    "creationDate" : "2010-04-01T13:55:03.501+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9478-F",
+    "content" : "/rest/items/item_407123_4/component/file_407122/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "16c313a02bf8eaffad6bad12f6804ca2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11116441,
+    "metadata" : {
+      "title" : "kui_friendpereira1909_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11116441
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

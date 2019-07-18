@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_406384",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T20:51:06.620+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FF2-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:51:06.620+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9059-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:37:12.849+0000",
+  "latestRelease" : {
+    "objectId" : "item_406384",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:51:06.620+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FF2-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406384",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:51:06.620+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FF2-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Agreement in Mawng : productive and lexicalised uses of agreement in an Australian language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ruth",
+        "familyName" : "Singer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36790",
+      "type" : "OTHER"
+    }, {
+      "id" : "mawng_singer2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Victoria",
+      "publisher" : " Univ. of Melbourne"
+    },
+    "freeKeywords" : "LoC Class: PL7001, LoC Subject Headings: Aboriginal Australians--Languages, LoC Subject Headings: Australian languages",
+    "totalNumberOfPages" : "XI, 351 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL7001,\nLoC Subject Headings: Aboriginal Australians, Aboriginal Australians -- Northern Territory -- Arnhem Land -- Languages, Australian languages, Australian languages -- Lexicology, Grammar, Comparative and general -- Agreement, Lexical grammar, Typology (Linguistics), Semantics"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406383",
+    "name" : "mawng_singer2006_s.pdf",
+    "creationDate" : "2010-04-01T13:37:12.201+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9058-A",
+    "content" : "/rest/items/item_406384_4/component/file_406383/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2c6b4003021551d4d44e276add46503b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5822170,
+    "metadata" : {
+      "title" : "mawng_singer2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5822170
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2034048",
+    "name" : "http://repository.unimelb.edu.au/10187/1974",
+    "creationDate" : "2014-06-19T07:38:33.944+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://repository.unimelb.edu.au/10187/1974",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "270f932448e296d97b4224908377f898",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://repository.unimelb.edu.au/10187/1974",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Melbourne, Univ. Library Digital Repository, pdf",
+      "size" : 0
+    }
+  } ]
+}

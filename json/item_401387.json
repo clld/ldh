@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_401387",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:20:37.914+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-730D-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:20:37.914+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-730D-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:11:04.876+0000",
+  "latestRelease" : {
+    "objectId" : "item_401387",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:20:37.914+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-730D-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401387",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:20:37.914+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-730D-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Fonologia e gramática do Aguaruna (Jívaro)",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Corbera Mori, Angel Humberto",
+        "givenName" : "Corbera",
+        "familyName" : "Mori",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1994",
+    "datePublishedInPrint" : "1994",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "26521",
+      "type" : "OTHER"
+    }, {
+      "id" : "aguaruna_mori1994_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM5337.A5,\nLoC Subject Headings: Aguaruna dialect",
+    "subjects" : [ {
+      "value" : "agr - Aguaruna",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "385 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401385",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000082341",
+    "creationDate" : "2010-04-01T11:11:03.220+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-730B-2",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000082341",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "83e665c13ef13b5d1ae156330d1f4079",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000082341",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401386",
+    "name" : "aguaruna_mori1994_o.pdf",
+    "creationDate" : "2010-04-01T11:11:03.868+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-730C-F",
+    "content" : "/rest/items/item_401387_2/component/file_401386/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ccea04df9228a2459d871e7599698df7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9207055,
+    "metadata" : {
+      "title" : "aguaruna_mori1994_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9207055
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

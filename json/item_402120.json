@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_402120",
+  "versionNumber" : 6,
+  "modificationDate" : "2011-05-31T11:25:24.662+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-774E-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:25:24.662+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-774E-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:26:10.668+0000",
+  "latestRelease" : {
+    "objectId" : "item_402120",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T11:25:24.662+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-774E-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402120",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T11:25:24.662+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-774E-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A Greek grammar for colleges",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Herbert Weir",
+        "familyName" : "Smyth",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1920",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29152",
+      "type" : "OTHER"
+    }, {
+      "id" : "greek_smyth1920.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "New York [u.a.]",
+      "publisher" : "American Book"
+    },
+    "freeKeywords" : "LoC Subject Headings: Greek language",
+    "subjects" : [ {
+      "value" : "ell - Modern Greek (1453-)",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xvi, 784 S.",
+    "abstracts" : [ {
+      "value" : "PA258, ISO 639-3 : ell, Greek language--Grammar--1870"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402118",
+    "name" : "http://www.textkit.com/learn/ID/142/author_id/63/",
+    "creationDate" : "2010-04-01T11:26:08.789+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-774C-A",
+    "content" : "http://www.textkit.com/learn/ID/142/author_id/63/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "cc11e4ff9bcaad39f008f9ab5de9c571",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.textkit.com/learn/ID/142/author_id/63/",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402119",
+    "name" : "greek_smyth1920.pdf",
+    "creationDate" : "2010-04-01T11:26:09.110+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-774D-8",
+    "content" : "/rest/items/item_402120_6/component/file_402119/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "19bb1f0faac2020d58cd58d24ae66987",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 16397962,
+    "metadata" : {
+      "title" : "greek_smyth1920.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 16397962,
+      "copyrightDate" : "2010-12-13",
+      "rights" : "not in copyright, Herbert Weir Smyth,  1857-1937 \n"
+    }
+  } ]
+}

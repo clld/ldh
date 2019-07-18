@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_2049474",
+  "versionNumber" : 2,
+  "modificationDate" : "2014-08-08T11:39:58.297+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-2B3F-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2014-08-08T11:39:58.297+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-001A-29A2-9",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-08-08T09:31:01.553+0000",
+  "latestRelease" : {
+    "objectId" : "item_2049474",
+    "versionNumber" : 2,
+    "modificationDate" : "2014-08-08T11:39:58.297+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-2B3F-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2049474",
+    "versionNumber" : 2,
+    "modificationDate" : "2014-08-08T11:39:58.297+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-2B3F-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Functional grammar of Nunggubuyu",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jeffrey",
+        "familyName" : "Heath",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1984",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "0-85575-157-6",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Canberra",
+      "publisher" : "Australian Institute of Aboriginal Studies"
+    },
+    "sources" : [ {
+      "title" : "AIAS new series",
+      "volume" : "53",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL7101.N8, LoC Subject Headings: Nunggubuyu language",
+    "subjects" : [ {
+      "value" : "nuy - Nunggubuyu",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiv, 664 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL7101.N8, LoC Subject Headings: Nunggubuyu language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_2049473",
+    "name" : "nunggubuyugrammar_heath1984_o.pdf",
+    "creationDate" : "2014-08-08T09:31:00.938+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-29A6-1",
+    "content" : "/rest/items/item_2049474_2/component/file_2049473/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4743dfc973c83f5e32eb7559b263b3fe",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 37502999,
+    "metadata" : {
+      "title" : "nunggubuyugrammar_heath1984_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 37502999,
+      "copyrightDate" : "24-April-2014",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_405747",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:54:54.904+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8CD9-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:54:54.904+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8CD9-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:19:53.771+0000",
+  "latestRelease" : {
+    "objectId" : "item_405747",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:54:54.904+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8CD9-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405747",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:54:54.904+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8CD9-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Mehrdeutigkeit und Kontexteinfluss : die Spezifikation kausaler Relationen am Beispiel von durch",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Solstad, Torgrim",
+        "givenName" : "Torgrim",
+        "familyName" : "Solstad",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35335",
+      "type" : "OTHER"
+    }, {
+      "id" : "durch_solstad2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Oslo",
+      "publisher" : "Univ. Oslo"
+    },
+    "sources" : [ {
+      "title" : "Acta humaniora",
+      "volume" : "302",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PF3111,\nLoC Subject Headings: German language",
+    "subjects" : [ {
+      "value" : "deu - German",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VI, 326 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405745",
+    "name" : "http://folk.uio.no/torgriso/docs/solstad-dissertation.pdf",
+    "creationDate" : "2010-04-01T13:19:52.800+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8CD7-D",
+    "content" : "http://folk.uio.no/torgriso/docs/solstad-dissertation.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8fb0d9c145ce94f5627e468e96ea0810",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://folk.uio.no/torgriso/docs/solstad-dissertation.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405746",
+    "name" : "durch_solstad2006_s.pdf",
+    "creationDate" : "2010-04-01T13:19:53.546+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8CD8-B",
+    "content" : "/rest/items/item_405747_2/component/file_405746/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fe9612a1038470ab5bfaf9e168281f96",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1726295,
+    "metadata" : {
+      "title" : "durch_solstad2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1726295
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_405979",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-11T10:02:04.981+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-20CE-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-11T10:02:04.981+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8E22-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:25:09.091+0000",
+  "latestRelease" : {
+    "objectId" : "item_405979",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T10:02:04.981+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-20CE-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405979",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T10:02:04.981+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-20CE-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Cross-linguistic variation in object marking",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Peter de",
+        "familyName" : "Swart",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35585",
+      "type" : "OTHER"
+    }, {
+      "id" : "objectmarking_deswart2007_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "978-90-78328-39-1",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "sources" : [ {
+      "title" : "LOT Dissertation Series",
+      "volume" : "168",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P281, LoC Subject Headings: Grammar/Comparative and general",
+    "totalNumberOfPages" : "235 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405978",
+    "name" : "objectmarking_deswart2007_s.pdf",
+    "creationDate" : "2010-04-01T13:25:08.890+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E21-4",
+    "content" : "/rest/items/item_405979_3/component/file_405978/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "37940bf6bca942f1accf0d2d8b1b6ffc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1049756,
+    "metadata" : {
+      "title" : "objectmarking_deswart2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1049756
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110868",
+    "name" : "http://www.lotpublications.nl/cross-linguistic-variation-in-object-marking-cross-linguistic-variation-in-object-marking",
+    "creationDate" : "2015-03-11T10:00:43.114+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.lotpublications.nl/cross-linguistic-variation-in-object-marking-cross-linguistic-variation-in-object-marking",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "959aa496f605b8cdb1da8ba9e2eed97d",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lotpublications.nl/cross-linguistic-variation-in-object-marking-cross-linguistic-variation-in-object-marking",
+      "contentCategory" : "publisher-version",
+      "description" : "Netherlands Graduate School of Linguistics, LOT Publications, pdf download",
+      "size" : 0
+    }
+  } ]
+}

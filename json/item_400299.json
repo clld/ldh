@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_400299",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:44:06.936+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6C88-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:44:06.936+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6C88-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:44:47.611+0000",
+  "latestRelease" : {
+    "objectId" : "item_400299",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:44:06.936+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6C88-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400299",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:44:06.936+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6C88-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The Tarascan language",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Foster, Mary LeCron",
+        "givenName" : "Mary LeCron",
+        "familyName" : "Foster",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1969",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "17587",
+      "type" : "OTHER"
+    }, {
+      "id" : "tarascan_foster1969.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Berkeley",
+      "publisher" : "Univ. of California Press"
+    },
+    "sources" : [ {
+      "title" : "University of California Publications in Linguistics",
+      "volume" : "56",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4296,\nLoC Subject Headings: Tarascan language",
+    "subjects" : [ {
+      "value" : "tsz - Purepecha",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xi, 200 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400297",
+    "name" : "http://proquest.umi.com/pqdweb?did=757299571&sid=4&Fmt=1&clientId=1566&RQT=309&Vname=PQD&cfc=1",
+    "creationDate" : "2010-04-01T10:44:46.197+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6C86-E",
+    "content" : "http://proquest.umi.com/pqdweb?did=757299571&sid=4&Fmt=1&clientId=1566&RQT=309&Vname=PQD&cfc=1",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5369c6e97a66b654e53083321dff45c8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://proquest.umi.com/pqdweb?did=757299571&sid=4&Fmt=1&clientId=1566&RQT=309&Vname=PQD&cfc=1",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400298",
+    "name" : "tarascan_foster1969.pdf",
+    "creationDate" : "2010-04-01T10:44:46.555+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6C87-C",
+    "content" : "/rest/items/item_400299_2/component/file_400298/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "873a36e65698a264963fdea82ed561bb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10711746,
+    "metadata" : {
+      "title" : "tarascan_foster1969.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10711746
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

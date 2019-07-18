@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_403314",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T10:06:33.506+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7E5E-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:06:33.506+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E5E-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:12:42.365+0000",
+  "latestRelease" : {
+    "objectId" : "item_403314",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:06:33.506+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7E5E-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403314",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:06:33.506+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7E5E-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Phrase structure in minimalist syntax",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Masatoshi",
+        "familyName" : "Koizumi",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1995",
+    "datePublishedInPrint" : "1995",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31140",
+      "type" : "OTHER"
+    }, {
+      "id" : "phrasestructure_koizumi1995_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cambridge",
+      "publisher" : "Massachussets Inst. of Technology"
+    },
+    "totalNumberOfPages" : "226 S.",
+    "abstracts" : [ {
+      "value" : "P158.3, ISO 639-3 : -, Phrase structure grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403312",
+    "name" : "http://www.ai.mit.edu/projects/dm/theses/koizumi95.pdf",
+    "creationDate" : "2010-04-01T12:12:20.591+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E5C-1",
+    "content" : "http://www.ai.mit.edu/projects/dm/theses/koizumi95.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8ce762bd2d664c67aaab7343c6c00ce7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ai.mit.edu/projects/dm/theses/koizumi95.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403313",
+    "name" : "phrasestructure_koizumi1995_o.pdf",
+    "creationDate" : "2010-04-01T12:12:41.121+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E5D-0",
+    "content" : "/rest/items/item_403314_3/component/file_403313/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "da0960978e315256547cd8bbd83c44d6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12971532,
+    "metadata" : {
+      "title" : "phrasestructure_koizumi1995_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12971532,
+      "copyrightDate" : "2010-12-03",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_405306",
+  "versionNumber" : 6,
+  "modificationDate" : "2014-07-04T09:53:16.565+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-DAD3-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Stichwörter bereinigt",
+  "lastModificationDate" : "2014-07-04T09:53:16.565+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8A5F-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:06:18.415+0000",
+  "latestRelease" : {
+    "objectId" : "item_405306",
+    "versionNumber" : 6,
+    "modificationDate" : "2014-07-04T09:53:16.565+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DAD3-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405306",
+    "versionNumber" : 6,
+    "modificationDate" : "2014-07-04T09:53:16.565+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DAD3-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Split-ergativity in Maori ",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Anna",
+        "familyName" : "Pucilowski",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34502",
+      "type" : "OTHER"
+    }, {
+      "id" : "maori_pucilowski2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Canterbury",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL6465, LoC Subject Headings: Maori language",
+    "subjects" : [ {
+      "value" : "mri - Maori",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "130 S.",
+    "abstracts" : [ {
+      "value" : "LoC Subject Headings: Maori language--Ergative construction, Maori language--Transitivity, Maori language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405305",
+    "name" : "maori_pucilowski2006_s.pdf",
+    "creationDate" : "2010-04-01T13:06:18.174+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A5E-9",
+    "content" : "/rest/items/item_405306_6/component/file_405305/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "098528a31e0c08c2cc414db3ead8bf83",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1489212,
+    "metadata" : {
+      "title" : "maori_pucilowski2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "Copyright Anna Pucilowski",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1489212,
+      "copyrightDate" : "2010-06-14",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_2037006",
+    "name" : "http://hdl.handle.net/10092/884",
+    "creationDate" : "2014-07-04T09:50:54.122+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-DAD4-C",
+    "content" : "http://hdl.handle.net/10092/884",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a141fe2b68cdc21f7211fa87fdb4aaf8",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/10092/884",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. of Canterbury, Research Repository, pdf",
+      "size" : 0
+    }
+  } ]
+}

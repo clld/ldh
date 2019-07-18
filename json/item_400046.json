@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_400046",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:58:44.812+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6B13-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:58:44.812+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6B13-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:39:23.834+0000",
+  "latestRelease" : {
+    "objectId" : "item_400046",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:58:44.812+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6B13-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400046",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:58:44.812+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6B13-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Identification of participants in discourse : a study of aspects of form and meaning in Nomatsiguenga",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Wise, Mary Ruth",
+        "givenName" : "Mary Ruth",
+        "familyName" : "Wise",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1971",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "752",
+      "type" : "OTHER"
+    }, {
+      "id" : "nomatsiguenga2_wise1971_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "Microfiche ed.",
+      "place" : "Dallas",
+      "publisher" : "Summer Institute of Linguistics"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics",
+      "volume" : "28",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6678,\nLoC Subject Headings: Nomatsiguenga language",
+    "subjects" : [ {
+      "value" : "not - Nomatsiguenga",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "3 MF"
+  },
+  "files" : [ {
+    "objectId" : "file_400044",
+    "name" : "http://www.sil.org/acpub/repository/12755.pdf",
+    "creationDate" : "2010-04-01T10:38:59.933+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6B11-D",
+    "content" : "http://www.sil.org/acpub/repository/12755.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "86313ade2134a738cf34db535f6beb72",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/acpub/repository/12755.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400045",
+    "name" : "nomatsiguenga2_wise1971_o.pdf",
+    "creationDate" : "2010-04-01T10:39:23.190+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6B12-B",
+    "content" : "/rest/items/item_400046_2/component/file_400045/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ba0532e1dfe7f9f90d735ff37ac3a525",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6251506,
+    "metadata" : {
+      "title" : "nomatsiguenga2_wise1971_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6251506
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

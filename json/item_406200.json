@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_406200",
+  "versionNumber" : 7,
+  "modificationDate" : "2015-05-19T09:36:18.951+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-D0D8-E",
+  "modifier" : {
+    "objectId" : "user_36017"
+  },
+  "lastModificationDate" : "2015-05-19T09:36:18.951+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8F5D-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:32:13.123+0000",
+  "latestRelease" : {
+    "objectId" : "item_406200",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-05-19T09:36:18.951+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D0D8-E",
+    "modifier" : {
+      "objectId" : "user_36017"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406200",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-05-19T09:36:18.951+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D0D8-E",
+    "modifier" : {
+      "objectId" : "user_36017"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Cliticization and the evolution of morphology : a cross-linguistic study on phonology in grammaticalization",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "René",
+        "familyName" : "Schiering",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36450",
+      "type" : "OTHER"
+    }, {
+      "id" : "clitication_schiering2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Konstanz",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: P288, LoC Subject Headings: Grammar/Comparative and general--Clitics",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "XII, 247 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406199",
+    "name" : "clitication_schiering2006_s.pdf",
+    "creationDate" : "2010-04-01T13:32:12.918+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8F5C-B",
+    "content" : "/rest/items/item_406200_7/component/file_406199/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7fa1ddcc6e5210563f7f2d7addd67c20",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1731082,
+    "metadata" : {
+      "title" : "clitication_schiering2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1731082,
+      "copyrightDate" : "2010-11-08",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_2043467",
+    "name" : "http://nbn-resolving.de/urn:nbn:de:bsz:352-opus-18728",
+    "creationDate" : "2014-07-22T06:54:40.038+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://nbn-resolving.de/urn:nbn:de:bsz:352-opus-18728",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "295f0dcfb75bd7dd3bb413b61374263e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://nbn-resolving.de/urn:nbn:de:bsz:352-opus-18728",
+      "contentCategory" : "any-fulltext",
+      "description" : "Institutional Repository Univ. of Konstanz KOPS, pdf",
+      "size" : 0
+    }
+  } ]
+}

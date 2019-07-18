@@ -1,0 +1,123 @@
+{
+  "objectId" : "item_405429",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T10:04:56.164+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8B0A-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:04:56.164+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B0A-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:12:28.866+0000",
+  "latestRelease" : {
+    "objectId" : "item_405429",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:04:56.164+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B0A-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405429",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:04:56.164+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B0A-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Étude typologique de l'expression de l'espace : localisation et déplacement en Français et en Polonais",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Kopecka, Anetta",
+        "givenName" : "Anetta",
+        "familyName" : "Kopecka",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34951",
+      "type" : "OTHER"
+    }, {
+      "id" : "polonais_anetta2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "place" : "Lyon",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Subject Headings: Polish language",
+    "subjects" : [ {
+      "value" : "fra - French",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "pol - Polish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "332 S.",
+    "abstracts" : [ {
+      "value" : "PG6004, ISO 639-3 : fra / pol, Polish language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405428",
+    "name" : "polonais_anetta2004_s.pdf",
+    "creationDate" : "2010-04-01T13:12:28.640+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B09-1",
+    "content" : "/rest/items/item_405429_3/component/file_405428/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "241da23eda32ac4450ad2e2b7c77d27b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1782022,
+    "metadata" : {
+      "title" : "polonais_anetta2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1782022,
+      "copyrightDate" : "2010-06-16",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

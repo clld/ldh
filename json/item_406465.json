@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_406465",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T09:35:30.885+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-90C7-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:35:30.885+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-90C7-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:38:49.463+0000",
+  "latestRelease" : {
+    "objectId" : "item_406465",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:35:30.885+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-90C7-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406465",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:35:30.885+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-90C7-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Luwanga-English dictionary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Alfred",
+        "familyName" : "Anangwe",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Michael",
+        "familyName" : "Marlo"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2008",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "36967",
+      "type" : "OTHER"
+    }, {
+      "id" : "luwanga_anangwe2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N.A.",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL8474.L8,\nLoC Subject Headings: Luyia language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "lsm - Saamia",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "101 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406464",
+    "name" : "luwanga_anangwe2008_s.pdf",
+    "creationDate" : "2010-04-01T13:38:49.358+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-90C6-3",
+    "content" : "/rest/items/item_406465_3/component/file_406464/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4091aaf7d0995049e46da615bb6b07b5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 395256,
+    "metadata" : {
+      "title" : "luwanga_anangwe2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 395256
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_420939",
+    "name" : "https://sites.google.com/site/michaelrmarlo/",
+    "creationDate" : "2010-05-05T09:00:28.286+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://sites.google.com/site/michaelrmarlo/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2130ac6b79f8f355fd0d31d5981418dd",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://sites.google.com/site/michaelrmarlo/",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  } ]
+}

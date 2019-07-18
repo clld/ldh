@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403326",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-14T08:16:25.781+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B23A-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Refernz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-14T08:16:25.781+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E71-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:14:54.513+0000",
+  "latestRelease" : {
+    "objectId" : "item_403326",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-14T08:16:25.781+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B23A-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403326",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-14T08:16:25.781+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B23A-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Some aspects of presupposition in generative grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Sylvia",
+        "familyName" : "Permesly Schwartz",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1973",
+    "datePublishedInPrint" : "1973",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31146",
+      "type" : "OTHER"
+    }, {
+      "id" : "presupposition_schwartz1973_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P151, LoC Subject Headings: Generative grammar, LoC Subject Headings: English language, LoC Subject Headings: Grammar/Comparative and general--Syntax, LoC Subject Headings: Grammar/Comparative and general--Negatives",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "453 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: P151, LoC Subject Headings: Generative grammar, LoC Subject Headings: English language -- Semantics, LoC Subject Headings: Grammar/Comparative and general--Syntax, LoC Subject Headings: Grammar/Comparative and general -- Negatives"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403325",
+    "name" : "presupposition_schwartz1973_o.pdf",
+    "creationDate" : "2010-04-01T12:14:51.967+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E70-2",
+    "content" : "/rest/items/item_403326_4/component/file_403325/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e0752550a5c86379423f7e963a1ec375",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 27027642,
+    "metadata" : {
+      "title" : "presupposition_schwartz1973_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 27027642
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2144418",
+    "name" : "http://hdl.handle.net/1721.1/12990",
+    "creationDate" : "2015-04-14T08:15:50.871+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/12990",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7528bfcc40d0edd96434a8e0d635753c",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/12990",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

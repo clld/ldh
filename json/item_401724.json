@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_401724",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:19:46.408+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-74FA-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:19:46.408+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-74FA-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:17:36.073+0000",
+  "latestRelease" : {
+    "objectId" : "item_401724",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:19:46.408+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-74FA-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401724",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:19:46.408+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-74FA-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Concordância em Mundurukú",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Comodo, Cristina Helena Rohwedder",
+        "givenName" : "Cristina Helena Rohwedder",
+        "familyName" : "Comodo",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1981",
+    "datePublishedInPrint" : "1981",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "27725",
+      "type" : "OTHER"
+    }, {
+      "id" : "munduruku_comodo1981_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM6596,\nLoC Subject Headings: Munduruku language",
+    "subjects" : [ {
+      "value" : "myu - Mundurukú",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "54 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401722",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000048190",
+    "creationDate" : "2010-04-01T11:17:35.261+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-74F8-4",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000048190",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "129e78a20a52711e2d3db8fc8a0e98c4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000048190",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401723",
+    "name" : "munduruku_comodo1981_o.pdf",
+    "creationDate" : "2010-04-01T11:17:35.891+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-74F9-2",
+    "content" : "/rest/items/item_401724_2/component/file_401723/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f17f4f226572aa2b7dbc4620d8591915",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 965022,
+    "metadata" : {
+      "title" : "munduruku_comodo1981_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 965022
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

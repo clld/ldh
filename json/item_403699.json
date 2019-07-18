@@ -1,0 +1,150 @@
+{
+  "objectId" : "item_403699",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-12-22T13:09:01.113+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-5F06-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-22T13:09:01.113+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-814A-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:22:23.354+0000",
+  "latestRelease" : {
+    "objectId" : "item_403699",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-22T13:09:01.113+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5F06-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403699",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-22T13:09:01.113+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5F06-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Chinook dictionary, catechism, prayers and hymns",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Modeste",
+        "familyName" : "Demers",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Francis Norbert",
+        "familyName" : "Blanchet"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Louis Napoléon",
+        "familyName" : "St. Onge"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1871",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31533",
+      "type" : "OTHER"
+    }, {
+      "id" : "chinook_demers1871_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Montreal",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PM848,\nLoC Subject Headings: Chinook jargon",
+    "subjects" : [ {
+      "value" : "chn - Chinook jargon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "68 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM848,\nLoC Subject Headings: Chinook jargon--Dictionaries--English"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403698",
+    "name" : "chinook_demers1871_o.pdf",
+    "creationDate" : "2010-04-01T12:22:22.925+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8149-5",
+    "content" : "/rest/items/item_403699_3/component/file_403698/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8f8ca489f38ff02947a7b993679a7b29",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4023839,
+    "metadata" : {
+      "title" : "chinook_demers1871_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4023839,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2079865",
+    "name" : "https://archive.org/details/cihm_04222",
+    "creationDate" : "2014-12-22T13:08:30.876+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/cihm_04222",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e7fef5d6519053bf84a9ecfd6cb46450",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/cihm_04222",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, Additional Collections, pdf & view online",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_405016",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-13T11:49:16.670+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CD9D-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-13T11:49:16.670+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-88D8-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:53:54.313+0000",
+  "latestRelease" : {
+    "objectId" : "item_405016",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-13T11:49:16.670+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD9D-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405016",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-13T11:49:16.670+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD9D-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "\"Exceptional\" case-marking and resultative constructions",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Soo-Min",
+        "familyName" : "Hong",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34173",
+      "type" : "OTHER"
+    }, {
+      "id" : "casemarking_hong2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "College Park, Md.",
+      "publisher" : "Univ. of Maryland"
+    },
+    "freeKeywords" : "LoC Class: PL921, LoC Subject Headings: Korean language",
+    "subjects" : [ {
+      "value" : "kor - Korean",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "II, 224 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405014",
+    "name" : "http://hdl.handle.net/1903/3073",
+    "creationDate" : "2010-04-01T12:53:52.639+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1903/3073",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c778cb6ac8eb767577c04650423cadf8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1903/3073",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Maryland, Ditgital Repository (DRUM), pdf download ",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405015",
+    "name" : "casemarking_hong2005_s.pdf",
+    "creationDate" : "2010-04-01T12:53:54.126+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-88D7-7",
+    "content" : "/rest/items/item_405016_4/component/file_405015/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4aed60e9d9b7ecc7983991b8256fd810",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1068233,
+    "metadata" : {
+      "title" : "casemarking_hong2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1068233
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

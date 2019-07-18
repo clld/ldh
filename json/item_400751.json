@@ -1,0 +1,148 @@
+{
+  "objectId" : "item_400751",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-17T09:51:58.448+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7816-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-17T09:51:58.448+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6F53-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:58:02.891+0000",
+  "latestRelease" : {
+    "objectId" : "item_400751",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-17T09:51:58.448+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7816-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400751",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-17T09:51:58.448+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7816-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Introducción al idioma Achuar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Gerhard",
+        "familyName" : "Fast",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Ruby",
+        "familyName" : "Fast"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1981",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "24100",
+      "type" : "OTHER"
+    }, {
+      "id" : "achuar_fast1981_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1a ed.",
+      "place" : "[Lima]",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Documento de trabajo",
+      "volume" : "20",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5318, LoC Subject Headings: Achuar language",
+    "subjects" : [ {
+      "value" : "acu - Achuar-Shiwiar",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "144 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5318, LoC Subject Headings: Achuar language--Textbooks for foreign speakers--Spanish"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400750",
+    "name" : "achuar_fast1981_o.pdf",
+    "creationDate" : "2010-04-01T10:58:02.453+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F52-A",
+    "content" : "/rest/items/item_400751_3/component/file_400750/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6a81e6f1c1ed335b10100400e47ee219",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4090864,
+    "metadata" : {
+      "title" : "achuar_fast1981_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4090864
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116459",
+    "name" : "http://www.peru.sil.org/resources/archives/30066",
+    "creationDate" : "2015-03-17T09:51:25.321+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/30066",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4bd62ccea80eb3d58b5a604afc8d4613",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/30066",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

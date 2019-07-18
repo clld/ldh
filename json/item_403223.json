@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_403223",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-14T08:03:31.144+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B22A-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-14T08:03:31.144+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7DD2-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:04:59.006+0000",
+  "latestRelease" : {
+    "objectId" : "item_403223",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-14T08:03:31.144+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B22A-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403223",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-14T08:03:31.144+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B22A-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "On the organization of the lexicon",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Rochelle",
+        "familyName" : "Lieber",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1980",
+    "datePublishedInPrint" : "1980",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31084",
+      "type" : "OTHER"
+    }, {
+      "id" : "lexicon_lieber1980_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P241, LoC Subject Headings: English language, LoC Subject Headings: Lexicology",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "327 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: P241, LoC Subject Headings: English language -- Word formation, LoC Subject Headings: English language -- Inflection, LoC Subject Headings: Lexicology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403222",
+    "name" : "lexicon_lieber1980_o.pdf",
+    "creationDate" : "2010-04-01T12:04:57.452+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7DD1-E",
+    "content" : "/rest/items/item_403223_4/component/file_403222/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d67f69082f5da9af79b4b19adc51c8c8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 16363934,
+    "metadata" : {
+      "title" : "lexicon_lieber1980_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 16363934
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2144413",
+    "name" : "http://hdl.handle.net/1721.1/15976",
+    "creationDate" : "2015-04-14T08:02:56.552+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/15976",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0f75f126c7cf6999ba6b8b0d44c99e08",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/15976",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

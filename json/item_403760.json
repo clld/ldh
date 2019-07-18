@@ -1,0 +1,116 @@
+{
+  "objectId" : "item_403760",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-10-02T10:22:15.143+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-5DA9-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain",
+  "lastModificationDate" : "2013-10-02T10:22:15.143+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-81A6-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:23:54.788+0000",
+  "latestRelease" : {
+    "objectId" : "item_403760",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-02T10:22:15.143+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5DA9-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403760",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-02T10:22:15.143+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5DA9-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Cursos de lengua panayana",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Raymundo",
+        "familyName" : "Lozano",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1876",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31697",
+      "type" : "OTHER"
+    }, {
+      "id" : "panayana_lozano1876_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Manila",
+      "publisher" : "Impr. del Colegio de Santo Tomás"
+    },
+    "freeKeywords" : "LoC Subject Headings: Bisaya language",
+    "subjects" : [ {
+      "value" : "bsd - Bisaya, Sarawak",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "231 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL5711,\nLoC Subject Headings: Bisaya language -- Textbooks for foreign speakers"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403759",
+    "name" : "panayana_lozano1876_o.pdf",
+    "creationDate" : "2010-04-01T12:23:52.955+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-81A5-4",
+    "content" : "/rest/items/item_403760_3/component/file_403759/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3a407474a5e7e188b025497831f77226",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 19255543,
+    "metadata" : {
+      "title" : "panayana_lozano1876_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 19255543
+    }
+  } ]
+}

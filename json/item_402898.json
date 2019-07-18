@@ -1,0 +1,155 @@
+{
+  "objectId" : "item_402898",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-10T11:50:22.537+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-AE33-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-10T11:50:22.537+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7BDD-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:47:25.206+0000",
+  "latestRelease" : {
+    "objectId" : "item_402898",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-10T11:50:22.537+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-AE33-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402898",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-10T11:50:22.537+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-AE33-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Head and shoulders, knees and toes : the semantics of Dobuan body parts",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Gail",
+        "familyName" : "Edoni",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1989",
+    "genre" : "BOOK_ITEM",
+    "identifiers" : [ {
+      "id" : "30738",
+      "type" : "OTHER"
+    }, {
+      "id" : "dobuan_edoni_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Studies in componential analysis",
+      "creators" : [ {
+        "person" : {
+          "givenName" : "Karl",
+          "familyName" : "Franklin",
+          "organizations" : [ {
+            "identifier" : "ou_persistent22",
+            "name" : "External Organizations",
+            "identifierPath" : [ "ou_persistent22" ]
+          } ]
+        },
+        "role" : "EDITOR",
+        "type" : "PERSON"
+      } ],
+      "startPage" : "23",
+      "endPage" : "38",
+      "publishingInfo" : {
+        "place" : "Ukarumpa",
+        "publisher" : "N.A."
+      },
+      "genre" : "BOOK"
+    }, {
+      "title" : "Data Papers on Papua New Guinea Languages",
+      "volume" : "36",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6621.D6, LoC Subject Headings: Dobu language",
+    "subjects" : [ {
+      "value" : "dob - Dobu",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "16 Bl."
+  },
+  "files" : [ {
+    "objectId" : "file_402897",
+    "name" : "dobuan_edoni_s.pdf",
+    "creationDate" : "2010-04-01T11:47:25.095+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7BDC-8",
+    "content" : "/rest/items/item_402898_3/component/file_402897/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "95d6280491d7ff5407bb37935a276673",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 525231,
+    "metadata" : {
+      "title" : "dobuan_edoni_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 525231
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2134726",
+    "name" : "http://www-01.sil.org/pacific/png/abstract.asp?id=23159",
+    "creationDate" : "2015-04-10T11:50:00.968+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www-01.sil.org/pacific/png/abstract.asp?id=23159",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d4a1d6ea832352b0278392a5c4ad9271",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www-01.sil.org/pacific/png/abstract.asp?id=23159",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Papua New Guinea, PNG Language Resources",
+      "size" : 0
+    }
+  } ]
+}

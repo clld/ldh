@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_400604",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-18T12:15:27.706+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7ABD-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-18T12:15:27.706+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6E68-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:55:41.081+0000",
+  "latestRelease" : {
+    "objectId" : "item_400604",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-18T12:15:27.706+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7ABD-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400604",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-18T12:15:27.706+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7ABD-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario ashéninca-castellano",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "David Lawrence",
+        "familyName" : "Payne",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1980",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "23209",
+      "type" : "OTHER"
+    }, {
+      "id" : "asheninca_payne1980_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa", "cpu" ],
+    "publishingInfo" : {
+      "edition" : "Ed. preliminar",
+      "place" : "[Yarinacocha, Perú]",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Documento de trabajo / Instituto Lingüístico de Verano",
+      "volume" : "18",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5716, LoC Subject Headings: Campa language",
+    "subjects" : [ {
+      "value" : "cpu - Pichis Ashéninka",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "164 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5716, LoC Subject Headings: Campa language--Dictionaries--Spanish"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400603",
+    "name" : "asheninca_payne1980_o.pdf",
+    "creationDate" : "2010-04-01T10:55:40.476+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6E67-4",
+    "content" : "/rest/items/item_400604_5/component/file_400603/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5c850e710ca5bd985ee36a8ddfaedec0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5940823,
+    "metadata" : {
+      "title" : "asheninca_payne1980_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5940823
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116761",
+    "name" : "http://www.peru.sil.org/resources/archives/30268",
+    "creationDate" : "2015-03-18T12:13:08.978+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/30268",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c5876c5471b4fdb7e08b8cf511fd0c1a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/30268",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

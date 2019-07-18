@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_406785",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-01-23T13:29:48.976+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-A244-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2015-01-23T13:29:48.976+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-928B-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:47:25.548+0000",
+  "latestRelease" : {
+    "objectId" : "item_406785",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-01-23T13:29:48.976+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A244-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406785",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-01-23T13:29:48.976+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A244-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Yana terms of relationship",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Edward",
+        "familyName" : "Sapir",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1918",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "37440",
+      "type" : "OTHER"
+    }, {
+      "id" : "yana_sapir1918_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "University of California publications in American archaeology and ethnology",
+      "volume" : "13",
+      "issue" : "4",
+      "startPage" : "153",
+      "endPage" : "173",
+      "publishingInfo" : {
+        "place" : "Berkeley",
+        "publisher" : "Univ. Press"
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM2641,\nLoC Subject Headings: Yana language",
+    "subjects" : [ {
+      "value" : "ynn - Yana",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "19 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406783",
+    "name" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=223",
+    "creationDate" : "2010-04-01T13:47:24.316+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=223",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9a7623344bc4e8f592f844fa28887263",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=223",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of California, The George and Mary Foster Anthropology Library, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406784",
+    "name" : "yana_sapir1918_o.pdf",
+    "creationDate" : "2010-04-01T13:47:25.085+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-928A-8",
+    "content" : "/rest/items/item_406785_4/component/file_406784/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fb7e69f7306fed174d5dc25b9cca4123",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4472668,
+    "metadata" : {
+      "title" : "yana_sapir1918_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4472668,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

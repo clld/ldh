@@ -1,0 +1,116 @@
+{
+  "objectId" : "item_403573",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-12T23:21:12.735+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7100-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T23:21:12.735+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-803B-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:51.916+0000",
+  "latestRelease" : {
+    "objectId" : "item_403573",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T23:21:12.735+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7100-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403573",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T23:21:12.735+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7100-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Esquisse phonologique du Ti : parler des Ti de la province de l'Ouest - Cameroun",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Nusi, Jean",
+        "givenName" : "Jean",
+        "familyName" : "Nusi",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "datePublishedInPrint" : "2000",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31412",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "place" : "Yaoundé",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon --Languages, LoC Subject Headings: Bati language",
+    "subjects" : [ {
+      "value" : "btc - Bati (Cameroon)",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "137 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : btc, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403572",
+    "name" : "ti_nusi1986_o.pdf",
+    "creationDate" : "2010-04-01T12:19:51.338+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-803A-F",
+    "content" : "/rest/items/item_403573_5/component/file_403572/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3eb6c05587256a3e967d82c23fa34a9c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5612810,
+    "metadata" : {
+      "title" : "ti_nusi1986_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5612810,
+      "rights" : "with permission from Université de Yaounde I "
+    }
+  } ]
+}

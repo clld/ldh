@@ -1,0 +1,113 @@
+{
+  "objectId" : "item_616550",
+  "versionNumber" : 5,
+  "modificationDate" : "2014-10-29T10:21:10.372+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-10F9-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "bibl. Daten korrigiert",
+  "lastModificationDate" : "2014-10-29T10:21:10.372+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0010-902D-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2011-01-03T12:54:34.944+0000",
+  "latestRelease" : {
+    "objectId" : "item_616550",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-10-29T10:21:10.372+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-10F9-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_616550",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-10-29T10:21:10.372+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-10F9-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "A brief grammar of Euskara, the Basque language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Itziar",
+        "familyName" : "Laka",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "84-8373-850-3",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "publisher" : "Univ. of the Basque Country"
+    },
+    "freeKeywords" : "LoC Class: PH5205, LoC Subject Headings: Basque language",
+    "subjects" : [ {
+      "value" : "eus - Basque",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "125",
+    "abstracts" : [ {
+      "value" : "LoC Class: PH5205, LoC subject headings: Basque language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_616549",
+    "name" : "basque_laka1996_s.pdf",
+    "creationDate" : "2011-01-03T12:54:34.769+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0010-902C-C",
+    "content" : "/rest/items/item_616550_5/component/file_616549/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9a74100e4c08bce36ad98391f2d9941b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1577372,
+    "metadata" : {
+      "title" : "basque_laka1996_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1577372,
+      "copyrightDate" : "2010-12-20",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

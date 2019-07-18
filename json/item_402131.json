@@ -1,0 +1,147 @@
+{
+  "objectId" : "item_402131",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:59:01.879+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7764-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:59:01.879+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7764-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:26:19.447+0000",
+  "latestRelease" : {
+    "objectId" : "item_402131",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:59:01.879+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7764-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402131",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:59:01.879+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7764-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Are there adjectives in Hocank (Winnebago)?",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Helmbrecht, Johannes",
+        "givenName" : "Johannes",
+        "familyName" : "Helmbrecht",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29203",
+      "type" : "OTHER"
+    }, {
+      "id" : "hocank_helmbrecht2004_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "1612-0612",
+      "type" : "ISSN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Erfurt",
+      "publisher" : "Univ."
+    },
+    "sources" : [ {
+      "title" : "ASSidUE",
+      "volume" : "14",
+      "identifiers" : [ {
+        "id" : "1612-0612",
+        "type" : "ISSN"
+      } ],
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM2591,\nLoC Subject Headings: Winnebago language --Grammar",
+    "subjects" : [ {
+      "value" : "win - Ho-Chunk",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "24 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402129",
+    "name" : "http://www.db-thueringen.de/servlets/DerivateServlet/Derivate-2863/ASSidUE14.pdf",
+    "creationDate" : "2010-04-01T11:26:19.119+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7762-7",
+    "content" : "http://www.db-thueringen.de/servlets/DerivateServlet/Derivate-2863/ASSidUE14.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1948ca9dbf671374438787f0ef543666",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.db-thueringen.de/servlets/DerivateServlet/Derivate-2863/ASSidUE14.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402130",
+    "name" : "hocank_helmbrecht2004_s.pdf",
+    "creationDate" : "2010-04-01T11:26:19.335+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7763-5",
+    "content" : "/rest/items/item_402131_2/component/file_402130/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4d427edc34b229974e34ae228242a47e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 212493,
+    "metadata" : {
+      "title" : "hocank_helmbrecht2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 212493
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

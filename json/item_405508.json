@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_405508",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-10T09:58:16.072+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-ADC2-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-10T09:58:16.072+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B7E-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:14:04.971+0000",
+  "latestRelease" : {
+    "objectId" : "item_405508",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-10T09:58:16.072+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-ADC2-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405508",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-10T09:58:16.072+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-ADC2-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A transformational-generative outline of 'Swatow' grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Nellie",
+        "familyName" : "Childe",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1971",
+    "datePublishedInPrint" : "1971",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35014",
+      "type" : "OTHER"
+    }, {
+      "id" : "swatow_childe1971_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "10.5353/th_b3194723",
+      "type" : "DOI"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Hong Kong",
+      "publisher" : "Department of English, Univ. of Hong Kong"
+    },
+    "freeKeywords" : "LoC Class: PL2127, LoC Subject Headings: Chinese language",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "249 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL2127,\nLoC Subject Headings: Chinese language--Dialects--China--Shantou (Guangdong Sheng)--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405507",
+    "name" : "swatow_childe1971_s.pdf",
+    "creationDate" : "2010-04-01T13:14:04.407+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B7D-C",
+    "content" : "/rest/items/item_405508_3/component/file_405507/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "dcceeaad366982c4b39fb0851f68763e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5512055,
+    "metadata" : {
+      "title" : "swatow_childe1971_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5512055
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2134689",
+    "name" : "http://hub.hku.hk/bib/B31947232",
+    "creationDate" : "2015-04-10T09:57:56.311+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hub.hku.hk/bib/B31947232",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d656771cf684c1783ebb79831695487f",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hub.hku.hk/bib/B31947232",
+      "contentCategory" : "pre-print",
+      "description" : "Hong Kong Univ., The HKU Scholars Hub, pdf download",
+      "size" : 0
+    }
+  } ]
+}

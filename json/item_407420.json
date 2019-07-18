@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_407420",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T12:07:57.973+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9613-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T12:07:57.973+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9613-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:13:15.797+0000",
+  "latestRelease" : {
+    "objectId" : "item_407420",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T12:07:57.973+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9613-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407420",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T12:07:57.973+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9613-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Quer falar a língua dos Canoeiros? : rikbaktsa em 26 liçes",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Joan",
+        "familyName" : "Boswood",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1978",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "38878",
+      "type" : "OTHER"
+    }, {
+      "id" : "rikbaktsa_boswood2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Brasilia, DF",
+      "publisher" : "SIL Brasil"
+    },
+    "freeKeywords" : "LoC Class: PM7004,\nLoC Subject Headings: Rikbaktsa language --Textbooks for foreign speakers --Portuguese",
+    "subjects" : [ {
+      "value" : "rkb - Rikbaktsa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "108 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407418",
+    "name" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "creationDate" : "2010-04-01T14:13:15.227+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9611-5",
+    "content" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c9461039d010116eaeca40f82b42a28c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Brazil ",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407419",
+    "name" : "rikbaktsa_boswood2007_s.pdf",
+    "creationDate" : "2010-04-01T14:13:15.688+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9612-3",
+    "content" : "/rest/items/item_407420_3/component/file_407419/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0e4770bee0396d0bd445a7bbc5aa5581",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 472710,
+    "metadata" : {
+      "title" : "rikbaktsa_boswood2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 472710
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

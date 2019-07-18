@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_403705",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-10-11T11:40:29.353+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-64F9-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain",
+  "lastModificationDate" : "2013-10-11T11:40:29.353+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8152-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:22:26.364+0000",
+  "latestRelease" : {
+    "objectId" : "item_403705",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-11T11:40:29.353+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-64F9-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403705",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-11T11:40:29.353+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-64F9-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A dictionary of the Chinnook jargon : in use among the tribes of Oregon, Washington Territory, British Columbia, and the north Pacific coast, with critical and explanatory notes",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Granville",
+        "familyName" : "Stuart",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1865",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31543",
+      "type" : "OTHER"
+    }, {
+      "id" : "chinook_stuart_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[s.l.]",
+      "publisher" : "[s.n.]"
+    },
+    "freeKeywords" : "LoC Subject Headings: Chinook jargon",
+    "subjects" : [ {
+      "value" : "chn - Chinook jargon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "[4], [103]-127 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM848,\nLoC Subject Headings: Chinook jargon, Chinook jargon--Dictionaries--English"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403703",
+    "name" : "http://www.canadiana.org/ECO/PageView/35301/0003?id=77199504882ab46a",
+    "creationDate" : "2010-04-01T12:22:25.644+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-64FA-4",
+    "content" : "http://www.canadiana.org/ECO/PageView/35301/0003?id=77199504882ab46a",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "cad008546580ef99e9a13867b03ba837",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.canadiana.org/ECO/PageView/35301/0003?id=77199504882ab46a",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403704",
+    "name" : "chinook_stuart_o.pdf",
+    "creationDate" : "2010-04-01T12:22:26.207+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8151-2",
+    "content" : "/rest/items/item_403705_3/component/file_403704/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4f9b7814a2402d52c657b9e2c44712ca",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1058469,
+    "metadata" : {
+      "title" : "chinook_stuart_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1058469
+    }
+  } ]
+}

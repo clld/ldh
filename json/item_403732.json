@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_403732",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-01-23T13:57:35.921+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-A255-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-01-23T13:57:35.921+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8176-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:23:07.128+0000",
+  "latestRelease" : {
+    "objectId" : "item_403732",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-23T13:57:35.921+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A255-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403732",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-23T13:57:35.921+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-A255-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The first grammar of the language spoken by the Bontoc Igorot, with a vocabulary and texts, mythology, folklore, historical episodes, songs",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Carl Wilhelm",
+        "familyName" : "Seidenadel",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1909",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31559",
+      "type" : "OTHER"
+    }, {
+      "id" : "bontocigorot_seidenadel1909_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Chicago",
+      "publisher" : "Open Court Publishing"
+    },
+    "freeKeywords" : "LoC Class: PL5641,\nLoC Subject Headings: Bontoc language",
+    "totalNumberOfPages" : "xxiv, 592 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403730",
+    "name" : "http://www.archive.org/details/firstgrammarofla00seidrich",
+    "creationDate" : "2010-04-01T12:23:00.777+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.archive.org/details/firstgrammarofla00seidrich",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d135b35e722f1f6f80fe851e5ee0d266",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/firstgrammarofla00seidrich",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403731",
+    "name" : "bontocigorot_seidenadel1909_o.pdf",
+    "creationDate" : "2010-04-01T12:23:02.424+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8175-0",
+    "content" : "/rest/items/item_403732_3/component/file_403731/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f252ddce36de2037bbd05b9906a591a8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 30442629,
+    "metadata" : {
+      "title" : "bontocigorot_seidenadel1909_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 30442629,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

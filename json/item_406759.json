@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_406759",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:19:35.089+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9263-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:19:35.089+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9263-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:47:04.410+0000",
+  "latestRelease" : {
+    "objectId" : "item_406759",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:19:35.089+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9263-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406759",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:19:35.089+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9263-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The word-space model : using distributional analysis to represent syntagmatic and paradigmatic relations between words in high-dimensional vector space",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Sahlgren, Magnus",
+        "givenName" : "Magnus",
+        "familyName" : "Sahlgren",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37418",
+      "type" : "OTHER"
+    }, {
+      "id" : "wordspace_sahlgren2006_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "91-7155-281-2",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Stockholm",
+      "publisher" : "Univ."
+    },
+    "sources" : [ {
+      "title" : "SICS Dissertation Series",
+      "volume" : "44",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P98,\nLoC Subject Headings: Computational linguistics",
+    "totalNumberOfPages" : "vi, 146 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406757",
+    "name" : "http://www.sics.se/~mange/TheWordSpaceModel.pdf",
+    "creationDate" : "2010-04-01T13:47:03.096+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9261-F",
+    "content" : "http://www.sics.se/~mange/TheWordSpaceModel.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d7dcbe214c92b0b780e830060f2c19d4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sics.se/~mange/TheWordSpaceModel.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406758",
+    "name" : "wordspace_sahlgren2006_s.pdf",
+    "creationDate" : "2010-04-01T13:47:04.235+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9262-D",
+    "content" : "/rest/items/item_406759_2/component/file_406758/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "51120cd3677d1cb127bd81e8fa0e9d97",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1151210,
+    "metadata" : {
+      "title" : "wordspace_sahlgren2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1151210
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

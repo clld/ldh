@@ -1,0 +1,151 @@
+{
+  "objectId" : "item_405072",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-10T10:33:34.289+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-ADE5-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-10T10:33:34.289+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-891B-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:54:51.747+0000",
+  "latestRelease" : {
+    "objectId" : "item_405072",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T10:33:34.289+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-ADE5-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405072",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T10:33:34.289+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-ADE5-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario ilustrado bilingüe : cubeo-español, español-cubeo",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Nancy L.",
+        "familyName" : "Morse",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "West",
+        "familyName" : "de Salser"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Jay K.",
+        "familyName" : "Salser"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1999",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34330",
+      "type" : "OTHER"
+    }, {
+      "id" : "cubeodict_camargo1999_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa", "cub" ],
+    "publishingInfo" : {
+      "edition" : "1. ed.",
+      "place" : "Santa Fe de Bogotá, Colombia",
+      "publisher" : "Lleras Camargo"
+    },
+    "freeKeywords" : "LoC Class: PM5870.Z5, LoC Subject Headings: Cubeo language",
+    "subjects" : [ {
+      "value" : "cub - Cubeo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "495 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5870.Z5, LoC Subject Headings: Cubeo language -- Dictionaries -- Spanish, LoC Subject Headings: Spanish language -- Dictionaries -- Cubeo"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405070",
+    "name" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=40337",
+    "creationDate" : "2010-04-01T12:54:50.997+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=40337",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5fd1d10da55420dc0943ecfa3139134b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=40337",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Colombia, Languages and Cultures of Colombia, pdfs download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405071",
+    "name" : "cubeodict_camargo1999_s.pdf",
+    "creationDate" : "2010-04-01T12:54:51.229+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-891A-B",
+    "content" : "/rest/items/item_405072_4/component/file_405071/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "21758d3b275c97c8b8b51f027bd552d0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4828119,
+    "metadata" : {
+      "title" : "cubeodict_camargo1999_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4828119
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_402763",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-06-24T08:31:21.032+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-CD9A-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Stichwörter für LDH-Blogimport angepasst",
+  "lastModificationDate" : "2014-06-24T08:31:21.032+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7AFF-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:44:31.613+0000",
+  "latestRelease" : {
+    "objectId" : "item_402763",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-06-24T08:31:21.032+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-CD9A-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402763",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-06-24T08:31:21.032+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-CD9A-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The landscape of applicatives",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Youngmi",
+        "familyName" : "Jeong",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30609",
+      "type" : "OTHER"
+    }, {
+      "id" : "applicatives_joeng2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "College Park",
+      "publisher" : "Univ. of Maryland"
+    },
+    "freeKeywords" : "LoC Class: P291.25, LoC Subject Headings: Grammar/Comparative and general",
+    "totalNumberOfPages" : "vi, 214 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: P291.25, LoC Subject Headings: Grammar, Comparative and general--Applicative constructions"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402762",
+    "name" : "applicatives_joeng2006_s.pdf",
+    "creationDate" : "2010-04-01T11:44:31.462+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7AFE-4",
+    "content" : "/rest/items/item_402763_4/component/file_402762/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9d50ca49d78931d24f0d9a58c9f56748",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 766814,
+    "metadata" : {
+      "title" : "applicatives_joeng2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 766814
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2034373",
+    "name" : "http://hdl.handle.net/1903/3485",
+    "creationDate" : "2014-06-24T08:25:29.645+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-CD99-6",
+    "content" : "http://hdl.handle.net/1903/3485",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "54b10feb02f444057146a088d5bdb2f4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1903/3485",
+      "contentCategory" : "publisher-version",
+      "description" : "DRUM Digital Repository at the University of Maryland, pdf",
+      "size" : 0
+    }
+  } ]
+}

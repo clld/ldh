@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_403900",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-02-26T10:16:37.241+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-E43D-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-02-26T10:16:37.241+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8270-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:28:42.526+0000",
+  "latestRelease" : {
+    "objectId" : "item_403900",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-26T10:16:37.241+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E43D-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403900",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-26T10:16:37.241+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E43D-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammaire de la langue montagnaise",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Laurent",
+        "familyName" : "Legoff",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1889",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31983",
+      "type" : "OTHER"
+    }, {
+      "id" : "montagnaise_legoff1889_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Montréal",
+      "publisher" : "[s.n.]"
+    },
+    "freeKeywords" : "LoC Class: PM850,\nLoC Subject Headings: Chipewyan language",
+    "subjects" : [ {
+      "value" : "chp - Chipewyan",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "351 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM850,\nLoC Subject Headings: Chipewyan language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403899",
+    "name" : "montagnaise_legoff1889_o.pdf",
+    "creationDate" : "2010-04-01T12:28:41.061+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-826F-7",
+    "content" : "/rest/items/item_403900_3/component/file_403899/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d3328b82a74b4ab8ae633079aaa4401b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 15227531,
+    "metadata" : {
+      "title" : "montagnaise_legoff1889_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 15227531,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2104266",
+    "name" : "https://archive.org/details/cihm_08643",
+    "creationDate" : "2015-02-26T10:15:19.771+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/cihm_08643",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "204c42f89f6f82665c0a4e629c238e3a",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/cihm_08643",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org: Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

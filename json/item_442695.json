@@ -1,0 +1,147 @@
+{
+  "objectId" : "item_442695",
+  "versionNumber" : 6,
+  "modificationDate" : "2011-06-21T08:42:53.786+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-B761-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-21T08:42:53.786+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-B761-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-05-26T08:30:00.263+0000",
+  "latestRelease" : {
+    "objectId" : "item_442695",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-06-21T08:42:53.786+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-B761-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_442695",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-06-21T08:42:53.786+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-B761-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "" ],
+  "metadata" : {
+    "title" : "Linguistic categorization of topological spatial relations",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Martin",
+        "familyName" : "Thiering",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2009",
+    "genre" : "PAPER",
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Preprint / Max-Planck-Institut für Wissenschaftsgeschichte",
+      "creators" : [ {
+        "organization" : {
+          "identifier" : "ou_persistent22",
+          "name" : "Max-Planck-Institut für Wissenschaftsgeschichte <Berlin>",
+          "identifierPath" : [ "ou_persistent22" ]
+        },
+        "role" : "EDITOR",
+        "type" : "ORGANIZATION"
+      } ],
+      "volume" : "373",
+      "publishingInfo" : {
+        "place" : "Berlin",
+        "publisher" : "MPIWG"
+      },
+      "identifiers" : [ {
+        "id" : "0948-9444",
+        "type" : "ISSN"
+      } ],
+      "genre" : "SERIES",
+      "totalNumberOfPages" : "76 "
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Athapascan languages",
+    "totalNumberOfPages" : "76",
+    "abstracts" : [ {
+      "value" : "PM641 , Athapascan languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_442693",
+    "name" : "topological_thiering2009_s.pdf",
+    "creationDate" : "2010-05-26T08:29:59.666+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-B75F-D",
+    "content" : "/rest/items/item_442695_6/component/file_442693/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "631bc34f11d31b756530cdefea5c66f4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1684247,
+    "metadata" : {
+      "title" : "topological_thiering2009_s.pdf",
+      "contentCategory" : "pre-print",
+      "description" : "Preprint 373 Max-Planck-Institut für Wissenschaftsgeschichte",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1684247,
+      "copyrightDate" : "2010-05-20",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_442694",
+    "name" : "http://www.mpiwg-berlin.mpg.de/de/index.html",
+    "creationDate" : "2010-05-26T08:30:00.121+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-B760-7",
+    "content" : "http://www.mpiwg-berlin.mpg.de/de/index.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2088a62314c8d29bdf49049e7a4e6df6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.mpiwg-berlin.mpg.de/de/index.html",
+      "contentCategory" : "any-fulltext",
+      "description" : "Max-Planck-Institut für Wissenschaftsgeschichte ",
+      "size" : 0
+    }
+  } ]
+}

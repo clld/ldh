@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_403356",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:45:53.611+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7E99-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:45:53.611+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E99-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:17:22.764+0000",
+  "latestRelease" : {
+    "objectId" : "item_403356",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:45:53.611+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7E99-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403356",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:45:53.611+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7E99-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A phonological comparison between Khlongphlu Chon and Wangkraprrae Chong",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Ungsitipoonporn, Siripen",
+        "givenName" : "Siripen",
+        "familyName" : "Ungsitipoonporn",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedInPrint" : "2001",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31186",
+      "type" : "OTHER"
+    }, {
+      "id" : "khlongphlu_siripen2001_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "974-04-0002-7",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Nakhon Pathom",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL4329.5,\nLoC Subject Headings: Khmer language",
+    "subjects" : [ {
+      "value" : "khm - Khmer, Central",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "[xiv], 246 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403354",
+    "name" : "http://archives.sealang.net/mahidol",
+    "creationDate" : "2010-04-01T12:17:21.796+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E97-E",
+    "content" : "http://archives.sealang.net/mahidol",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b90f0b74e428eb7d24c3f080c1c10bb4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://archives.sealang.net/mahidol",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403355",
+    "name" : "khlongphlu_siripen2001_o.pdf",
+    "creationDate" : "2010-04-01T12:17:22.116+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E98-C",
+    "content" : "/rest/items/item_403356_2/component/file_403355/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "dd75e6ef11b126f537b8aa2a0f0da652",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6323009,
+    "metadata" : {
+      "title" : "khlongphlu_siripen2001_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6323009
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

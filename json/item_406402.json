@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_406402",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T20:53:34.560+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FF7-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:53:34.560+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9074-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:37:32.391+0000",
+  "latestRelease" : {
+    "objectId" : "item_406402",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:53:34.560+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FF7-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406402",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:53:34.560+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FF7-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gramática popular del mixteco del municipio de Tezoatlán, San Andrés Yutatío, Oaxaca",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Ferguson de Williams, Judith",
+        "givenName" : "Judith",
+        "familyName" : "de Ferguson Williams",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2006",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "36817",
+      "type" : "OTHER"
+    }, {
+      "id" : "mixteco_williams2007_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "968-310323-5",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Tlalpan, D. F.",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie de gramáticas de lenguas indígenas de México",
+      "volume" : "9",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4016, LoC Subject Headings: Mixtec language -- Mexico -- Oaxaca (State), LoC Subject Headings: Mixtec language -- Mexico -- San Andrés Yutatío -- Grammar, LoC Subject Headings: Mixtec language -- Mexico -- Tezoatlán -- Grammar, LoC Subject Headings: Mixtec language -- Provincialisms -- Mexico -- San Andrés Yutatío",
+    "subjects" : [ {
+      "value" : "caj - Chané",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XIV, 293 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406400",
+    "name" : "http://www.sil.org/mexico/mixteca/tezoatlan/G009a-GramMixTez-mxb.htm",
+    "creationDate" : "2010-04-01T13:37:31.725+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/mexico/mixteca/tezoatlan/G009a-GramMixTez-mxb.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "989acf4e356360ca8a6d8dca942db36e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/mexico/mixteca/tezoatlan/G009a-GramMixTez-mxb.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406401",
+    "name" : "mixteco_williams2007_s.pdf",
+    "creationDate" : "2010-04-01T13:37:31.906+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9073-C",
+    "content" : "/rest/items/item_406402_3/component/file_406401/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0a2b7000f0a3a92b6ca35a61cce17cb0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4628221,
+    "metadata" : {
+      "title" : "mixteco_williams2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4628221
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

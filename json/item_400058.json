@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_400058",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:36:27.048+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6B26-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:36:27.048+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6B26-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:39:35.092+0000",
+  "latestRelease" : {
+    "objectId" : "item_400058",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:36:27.048+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6B26-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400058",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:36:27.048+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6B26-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Hierarchical structures in Guajajara",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Bendor-Samuel, David",
+        "givenName" : "David",
+        "familyName" : "Bendor-Samuel",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1972",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "757",
+      "type" : "OTHER"
+    }, {
+      "id" : "guajajara_bendorsamuel1972_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "Microfiche ed.",
+      "place" : "Dallas",
+      "publisher" : "Summer Institute of Linguistics"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics",
+      "volume" : "37",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6019.G51,\nLoC Subject Headings: Tenetehara language--Grammar",
+    "subjects" : [ {
+      "value" : "gub - Guajajára",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "3 MF"
+  },
+  "files" : [ {
+    "objectId" : "file_400056",
+    "name" : "http://www.ethnologue.com/show_work.asp?id=41339",
+    "creationDate" : "2010-04-01T10:39:33.682+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6B24-3",
+    "content" : "http://www.ethnologue.com/show_work.asp?id=41339",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "fde6f4506ee0f0760b297972c06a401d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ethnologue.com/show_work.asp?id=41339",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400057",
+    "name" : "guajajara_bendorsamuel1972_o.pdf",
+    "creationDate" : "2010-04-01T10:39:34.330+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6B25-1",
+    "content" : "/rest/items/item_400058_2/component/file_400057/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fa5f89691362bac2a7d1841b5e042120",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7652185,
+    "metadata" : {
+      "title" : "guajajara_bendorsamuel1972_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7652185
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

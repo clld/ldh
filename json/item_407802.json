@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_407802",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:49:44.673+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9827-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:49:44.673+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9827-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:21:04.487+0000",
+  "latestRelease" : {
+    "objectId" : "item_407802",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:49:44.673+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9827-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407802",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:49:44.673+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9827-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammatik der grönländischen Sprache : mit teilweisem Einschluß des Labradordialekts",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Kleinschmidt, Samuel",
+        "givenName" : "Samuel",
+        "familyName" : "Kleinschmidt",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1991",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "41845",
+      "type" : "OTHER"
+    }, {
+      "id" : "groenlaendischen_kleinschmidt1851_o\n              .html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "edition" : "2. Nachdr. der Ausg. Berlin 1851",
+      "place" : "Hildesheim [u.a.]",
+      "publisher" : "Olms"
+    },
+    "freeKeywords" : "LoC Class: PM62.K6",
+    "subjects" : [ {
+      "value" : "kal - Inuktitut, Greenlandic",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "ike - Inuktitut, Eastern Canadian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XII, 182 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407800",
+    "name" : "http://books.google.com/books?id=lngCAAAAQAAJ",
+    "creationDate" : "2010-04-01T14:21:03.029+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9825-9",
+    "content" : "http://books.google.com/books?id=lngCAAAAQAAJ",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5340dc2f61a62e2db0ba5ca0c565f012",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://books.google.com/books?id=lngCAAAAQAAJ",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407801",
+    "name" : "groenlaendischen_kleinschmidt1851_o.pdf",
+    "creationDate" : "2010-04-01T14:21:03.402+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9826-7",
+    "content" : "/rest/items/item_407802_2/component/file_407801/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2c314a9d117c84cf5d10987b19a4f43e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10104651,
+    "metadata" : {
+      "title" : "groenlaendischen_kleinschmidt1851_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10104651
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

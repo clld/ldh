@@ -1,0 +1,151 @@
+{
+  "objectId" : "item_405303",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:51:40.155+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8A5B-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:51:40.155+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8A5B-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:06:15.929+0000",
+  "latestRelease" : {
+    "objectId" : "item_405303",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:51:40.155+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A5B-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405303",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:51:40.155+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A5B-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Nominalmorphologie und Numerus im Bobo (Mande)",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Dienst, Stefan",
+        "givenName" : "Stefan",
+        "familyName" : "Dienst",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "organization" : {
+        "name" : "Institut für Ethnologie und Afrika-Studien\n              <Mainz>"
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2004",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34498",
+      "type" : "OTHER"
+    }, {
+      "id" : "mande_dienst2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Zugl.: Mainz",
+      "publisher" : " Univ."
+    },
+    "sources" : [ {
+      "title" : "Arbeitspapiere / Institut für Ethnologie und Afrikastudien",
+      "volume" : "34",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL8080,\nLoC Subject Headings: Bobo languages",
+    "subjects" : [ {
+      "value" : "bbo - Northern Bobo Madaré",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "bwq - Southern Bobo Madaré",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VIII, 83 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405301",
+    "name" : "http://www.ifeas.uni-mainz.de/workingpapers/Dienst.pdf",
+    "creationDate" : "2010-04-01T13:06:14.963+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A59-4",
+    "content" : "http://www.ifeas.uni-mainz.de/workingpapers/Dienst.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a77f1472ebc45b2ded2781f7143f2ef6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ifeas.uni-mainz.de/workingpapers/Dienst.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405302",
+    "name" : "mande_dienst2004_s.pdf",
+    "creationDate" : "2010-04-01T13:06:15.705+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A5A-2",
+    "content" : "/rest/items/item_405303_2/component/file_405302/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "357ff25e95ffc84dd5d14c99ae61312f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1673338,
+    "metadata" : {
+      "title" : "mande_dienst2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1673338
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

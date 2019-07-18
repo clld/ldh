@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_403233",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-05-31T11:17:45.906+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7DE1-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:17:45.906+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7DE1-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:05:10.753+0000",
+  "latestRelease" : {
+    "objectId" : "item_403233",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T11:17:45.906+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7DE1-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403233",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T11:17:45.906+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7DE1-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "On deriving the lexicon",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Richard William",
+        "familyName" : "Sproat",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1985",
+    "datePublishedInPrint" : "1985",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31096",
+      "type" : "OTHER"
+    }, {
+      "id" : "lexicon_sproat1985_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "totalNumberOfPages" : "518 S.",
+    "abstracts" : [ {
+      "value" : "P245, ISO 639-3 : -,  Grammar, Comparative and general -- Word formation, Lexicology, English language -- Word formation"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403232",
+    "name" : "lexicon_sproat1985_o.pdf",
+    "creationDate" : "2010-04-01T12:05:08.354+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7DE0-C",
+    "content" : "/rest/items/item_403233_5/component/file_403232/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1b297b58405c49c74dc526f723406e5e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 25324860,
+    "metadata" : {
+      "title" : "lexicon_sproat1985_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 25324860,
+      "copyrightDate" : "2010-12-07",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_568562",
+    "name" : "http://dspace.mit.edu/handle/1721.1/15167",
+    "creationDate" : "2010-12-08T12:18:25.380+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dspace.mit.edu/handle/1721.1/15167",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "acbe003950769127776f0e482d4d5b42",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dspace.mit.edu/handle/1721.1/15167",
+      "contentCategory" : "any-fulltext",
+      "size" : 0
+    }
+  } ]
+}

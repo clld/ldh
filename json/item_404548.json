@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_404548",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-09-25T12:41:07.587+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-56E8-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain",
+  "lastModificationDate" : "2013-09-25T12:41:07.587+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8620-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:43:26.456+0000",
+  "latestRelease" : {
+    "objectId" : "item_404548",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-09-25T12:41:07.587+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-56E8-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404548",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-09-25T12:41:07.587+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-56E8-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Études sur la langue séchuana : Précédées d'une introduction sur l'origine et les progrés de la mission chez les Bassoutos",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Eugène",
+        "familyName" : "Casalis",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1841",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "33409",
+      "type" : "OTHER"
+    }, {
+      "id" : "sechuana_casalis1841_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Paris",
+      "publisher" : "Impr. Royale"
+    },
+    "freeKeywords" : "LoC Subject Headings: Sotho language",
+    "subjects" : [ {
+      "value" : "sot - Sotho, Southern",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "LXIII, 103 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8689.Z77,\nLoC Subject Headings: Sotho language, Missions -- Lesotho"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404546",
+    "name" : "http://books.google.com/books?vid=OCLC04674130",
+    "creationDate" : "2010-04-01T12:43:25.679+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-56E9-0",
+    "content" : "http://books.google.com/books?vid=OCLC04674130",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4ec521b923ba6508524d8756adbb0b2a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://books.google.com/books?vid=OCLC04674130",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404547",
+    "name" : "sechuana_casalis1841_o.pdf",
+    "creationDate" : "2010-04-01T12:43:25.896+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-861F-8",
+    "content" : "/rest/items/item_404548_3/component/file_404547/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8b9eec3ae3942ceda5f77e89b03c2d23",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5231661,
+    "metadata" : {
+      "title" : "sechuana_casalis1841_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5231661
+    }
+  } ]
+}

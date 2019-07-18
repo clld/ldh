@@ -1,0 +1,144 @@
+{
+  "objectId" : "item_402020",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-03-13T01:53:40.954+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7238-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:53:40.954+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-76A6-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:24:28.970+0000",
+  "latestRelease" : {
+    "objectId" : "item_402020",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-13T01:53:40.954+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7238-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402020",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-13T01:53:40.954+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7238-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Kontrastive Untersuchung zur Linearstruktur im Vorfeld im chinesischen und deutschen Aussagesatz",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Donglian",
+        "familyName" : "Li",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "28947",
+      "type" : "OTHER"
+    }, {
+      "id" : "chinesischen_li2002_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "urn:nbn:de:gbv:18-7408",
+      "type" : "URN"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "place" : "Hamburg",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL1291, LoC Subject Headings: German language, LoC Subject Headings: Chinese language",
+    "subjects" : [ {
+      "value" : "cmn - Mandarin Chinese",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "deu - German",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "161 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL1291,\nLoC Subject Headings: German language--Semanitcs, Chinese language--Semantics"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402019",
+    "name" : "chinesischen_li2002_s.pdf",
+    "creationDate" : "2010-04-01T11:24:28.793+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-76A5-A",
+    "content" : "/rest/items/item_402020_6/component/file_402019/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fcc373e776b8df4c69486d072192b1e7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1168837,
+    "metadata" : {
+      "title" : "chinesischen_li2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1168837
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2033127",
+    "name" : "http://ediss.sub.uni-hamburg.de/volltexte/2002/740/",
+    "creationDate" : "2014-06-13T09:35:50.890+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://ediss.sub.uni-hamburg.de/volltexte/2002/740/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1ec80bcace79fece142483a102e2cfbd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://ediss.sub.uni-hamburg.de/volltexte/2002/740/",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. Hamburg, E-Dissertations, pdf",
+      "size" : 0
+    }
+  } ]
+}

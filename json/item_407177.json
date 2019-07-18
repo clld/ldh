@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_407177",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-10-02T11:18:36.123+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-5DC9-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain",
+  "lastModificationDate" : "2013-10-02T11:18:36.123+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-94CA-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:56:40.422+0000",
+  "latestRelease" : {
+    "objectId" : "item_407177",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-02T11:18:36.123+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5DC9-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407177",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-02T11:18:36.123+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5DC9-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammar of the Narrinyeri tribe of Australian aborigines",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "George",
+        "familyName" : "Taplin",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1880",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37762",
+      "type" : "OTHER"
+    }, {
+      "id" : "narrinyeri_taplin1880_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Adelaide",
+      "publisher" : "Spiller"
+    },
+    "freeKeywords" : "LoC Subject Headings: Narrinyeri language",
+    "subjects" : [ {
+      "value" : "nay - Narrinyeri",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "24 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL7101.N3,\nLoC Subject Headings: Narrinyeri language -- Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407175",
+    "name" : "http://www.archive.org/details/grammarofnarriny00tapliala",
+    "creationDate" : "2010-04-01T13:56:38.823+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-5DCA-2",
+    "content" : "http://www.archive.org/details/grammarofnarriny00tapliala",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "850282361d37f172e9e7a001ee460927",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/grammarofnarriny00tapliala",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407176",
+    "name" : "narrinyeri_taplin1880_o.pdf",
+    "creationDate" : "2010-04-01T13:56:40.154+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-94C9-8",
+    "content" : "/rest/items/item_407177_3/component/file_407176/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "dff6b95de14598f1c2206a37796a52d2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2177929,
+    "metadata" : {
+      "title" : "narrinyeri_taplin1880_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2177929
+    }
+  } ]
+}

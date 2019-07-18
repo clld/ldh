@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_406729",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T20:19:19.612+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FA9-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:19:19.612+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-923B-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:46:41.812+0000",
+  "latestRelease" : {
+    "objectId" : "item_406729",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:19:19.612+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FA9-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406729",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:19:19.612+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FA9-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Discourse segmentation of spoken dialogue : an empirical approach",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Flammia, Giovanni",
+        "givenName" : "Giovanni",
+        "familyName" : "Flammia",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1998",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37403",
+      "type" : "OTHER"
+    }, {
+      "id" : "segmentation_flammia1998_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Massachusetts",
+      "publisher" : " Inst. of Techn."
+    },
+    "freeKeywords" : "LoC Class: QA76.9.N38, LoC Subject Headings: Natural language processing (Computer sicence), LoC Subject Headings: Computational linguistics, LoC Subject Headings: Speech processing",
+    "totalNumberOfPages" : "152 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406727",
+    "name" : "http://groups.csail.mit.edu/sls//publications/1998/phdthesis-flammia.pdf",
+    "creationDate" : "2010-04-01T13:46:38.819+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9239-B",
+    "content" : "http://groups.csail.mit.edu/sls//publications/1998/phdthesis-flammia.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "54fc44ff5285a27e0be96767372d1ef4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://groups.csail.mit.edu/sls//publications/1998/phdthesis-flammia.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406728",
+    "name" : "segmentation_flammia1998_s.pdf",
+    "creationDate" : "2010-04-01T13:46:41.581+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-923A-9",
+    "content" : "/rest/items/item_406729_3/component/file_406728/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "54fc44ff5285a27e0be96767372d1ef4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1877230,
+    "metadata" : {
+      "title" : "segmentation_flammia1998_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1877230
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

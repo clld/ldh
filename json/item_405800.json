@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_405800",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-10T09:11:10.111+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-E47D-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-10T09:11:10.111+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8D26-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:20:46.471+0000",
+  "latestRelease" : {
+    "objectId" : "item_405800",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-10T09:11:10.111+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-E47D-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405800",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-10T09:11:10.111+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-E47D-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The language of the Modhupur Mandi, Garo : Vol. II : The Lexicon",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Robbins",
+        "familyName" : "Burling",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2003",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "35425",
+      "type" : "OTHER"
+    }, {
+      "id" : "garo2_burling2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ann Arbor, Michigan",
+      "publisher" : "Univ. of Michigan"
+    },
+    "freeKeywords" : "LoC Class: PL4001.G2,\nLoC Subject Headings: Garo language",
+    "subjects" : [ {
+      "value" : "grt - Garo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XII, 456 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405799",
+    "name" : "garo2_burling2003_s.pdf",
+    "creationDate" : "2010-04-01T13:20:46.226+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D25-4",
+    "content" : "/rest/items/item_405800_3/component/file_405799/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "05dbe7069b4a2dec94330cb78bcb4706",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1637510,
+    "metadata" : {
+      "title" : "garo2_burling2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1637510
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2039836",
+    "name" : "http://dx.doi.org/10.3998/spobooks.bbv9808.0002.001",
+    "creationDate" : "2014-07-10T08:56:55.302+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-E47F-E",
+    "content" : "http://dx.doi.org/10.3998/spobooks.bbv9808.0002.001",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0a649c7611a87aa54868dc62db24f33e",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dx.doi.org/10.3998/spobooks.bbv9808.0002.001",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Michigan, SPO Schorlar Monograph Series, pdf",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_402352",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:07:21.204+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-78B2-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:07:21.204+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-78B2-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:30:37.993+0000",
+  "latestRelease" : {
+    "objectId" : "item_402352",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:07:21.204+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-78B2-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402352",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:07:21.204+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-78B2-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Perception verb complements in Akatek, a Mayan language",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Schüle, Susanne",
+        "givenName" : "Susanne",
+        "familyName" : "Schüle",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "datePublishedInPrint" : "2000",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29676",
+      "type" : "OTHER"
+    }, {
+      "id" : "mayan_schuele2000.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Tübingen",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM3961,\nLoC Subject Headings: Mayan languages",
+    "totalNumberOfPages" : "X, 268 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402350",
+    "name" : "http://w210.ub.uni-tuebingen.de/dbt/volltexte/2000/168/pdf/diss.pdf",
+    "creationDate" : "2010-04-01T11:30:37.319+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-78B0-D",
+    "content" : "http://w210.ub.uni-tuebingen.de/dbt/volltexte/2000/168/pdf/diss.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "893888b77890662aac0ee229177e637a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://w210.ub.uni-tuebingen.de/dbt/volltexte/2000/168/pdf/diss.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402351",
+    "name" : "mayan_schuele2000.pdf",
+    "creationDate" : "2010-04-01T11:30:37.783+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-78B1-B",
+    "content" : "/rest/items/item_402352_2/component/file_402351/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "378e138c9d6484d369425a65c7bffc65",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 984273,
+    "metadata" : {
+      "title" : "mayan_schuele2000.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 984273
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

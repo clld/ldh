@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_402673",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T18:53:16.587+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6EFB-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T18:53:16.587+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7A77-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:36:06.072+0000",
+  "latestRelease" : {
+    "objectId" : "item_402673",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:53:16.587+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EFB-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402673",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:53:16.587+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EFB-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Phonetik und Phonologie des Wogeo",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mats",
+        "familyName" : "Exter",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2003",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30259",
+      "type" : "OTHER"
+    }, {
+      "id" : "wogeo_exter2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Köln",
+      "publisher" : "Inst. für Sprachwissenschaft"
+    },
+    "sources" : [ {
+      "title" : "Arbeitspapier / Institut für Sprachwissenschaft, Universität zu Köln",
+      "volume" : "46",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6337.5, LoC Subject Headings: Wogeo language -- Phonetics, LoC Subject Headings: Wogeo language -- Phonology",
+    "subjects" : [ {
+      "value" : "woc - Wogeo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "72 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402671",
+    "name" : "http://www.uni-koeln.de/phil-fak/ifl/asw/institut/homepages/me/wogeo/wogeo.html",
+    "creationDate" : "2010-04-01T11:36:05.149+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.uni-koeln.de/phil-fak/ifl/asw/institut/homepages/me/wogeo/wogeo.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "366d43474baaf46b1f60bd8c40833847",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.uni-koeln.de/phil-fak/ifl/asw/institut/homepages/me/wogeo/wogeo.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402672",
+    "name" : "wogeo_exter2003_s.pdf",
+    "creationDate" : "2010-04-01T11:36:05.246+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A76-1",
+    "content" : "/rest/items/item_402673_3/component/file_402672/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "328a762877efaae79bbd4c52ad51dd63",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7818725,
+    "metadata" : {
+      "title" : "wogeo_exter2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7818725
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

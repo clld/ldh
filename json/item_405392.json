@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_405392",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:31:34.047+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8AD4-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:31:34.047+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8AD4-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:10:59.596+0000",
+  "latestRelease" : {
+    "objectId" : "item_405392",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:31:34.047+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8AD4-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405392",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:31:34.047+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8AD4-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Ouldeme tone sketch",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Kinnaird, William",
+        "givenName" : "William",
+        "familyName" : "Kinnaird",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1997",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34778",
+      "type" : "OTHER"
+    }, {
+      "id" : "ouldeme_kinnaird1997_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yaoundé",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PL8753.5,\nLoC Subject Headings: Uldeme language",
+    "subjects" : [ {
+      "value" : "udl - Wuzlam",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "17 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405390",
+    "name" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/ouldeme_kinnaird1997_2177_p.pdf",
+    "creationDate" : "2010-04-01T13:10:58.823+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8AD2-3",
+    "content" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/ouldeme_kinnaird1997_2177_p.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/ouldeme_kinnaird1997_2177_p.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405391",
+    "name" : "ouldeme_kinnaird1997_o.pdf",
+    "creationDate" : "2010-04-01T13:10:59.482+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8AD3-1",
+    "content" : "/rest/items/item_405392_2/component/file_405391/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7c683e499193000e05fb9081ae21b396",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 572594,
+    "metadata" : {
+      "title" : "ouldeme_kinnaird1997_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 572594
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

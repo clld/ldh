@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_407599",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-12T22:43:16.809+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70B7-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T22:43:16.809+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9713-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:16:34.798+0000",
+  "latestRelease" : {
+    "objectId" : "item_407599",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T22:43:16.809+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70B7-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407599",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T22:43:16.809+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70B7-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A estrutura argumental dos verbos na língua Juruna (Yudjá) : da formação dos verbos para a análise das estruturas sintáticas",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Suzi Oliveira de",
+        "familyName" : "Lima",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2008",
+    "datePublishedInPrint" : "2008",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "39924",
+      "type" : "OTHER"
+    }, {
+      "id" : "juruna_lima2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "place" : "São Paulo",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM7179.5.J9, LoC Subject Headings: Juruna language, LoC Subject Headings: Yuruna Indians",
+    "subjects" : [ {
+      "value" : "jur - Jurúna",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiii, 295 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407598",
+    "name" : "juruna_lima2008_s.pdf",
+    "creationDate" : "2010-04-01T14:16:34.607+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9712-C",
+    "content" : "/rest/items/item_407599_5/component/file_407598/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "51ec2cfced9c6f0214757b0f3a88af15",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1356985,
+    "metadata" : {
+      "title" : "juruna_lima2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1356985
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2049606",
+    "name" : "http://www.teses.usp.br/teses/disponiveis/8/8139/tde-08072008-152745/pt-br.php",
+    "creationDate" : "2014-08-11T10:29:48.340+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.teses.usp.br/teses/disponiveis/8/8139/tde-08072008-152745/pt-br.php",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ddf3effee3b9195a49c2b2c4395e390d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.teses.usp.br/teses/disponiveis/8/8139/tde-08072008-152745/pt-br.php",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. de São Paulo, Biblioteca Digital de Teses e Dissertações, pdf",
+      "size" : 0
+    }
+  } ]
+}

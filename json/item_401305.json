@@ -1,0 +1,125 @@
+{
+  "objectId" : "item_401305",
+  "versionNumber" : 7,
+  "modificationDate" : "2011-05-31T11:02:56.695+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7295-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:02:56.695+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7295-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:09:36.116+0000",
+  "latestRelease" : {
+    "objectId" : "item_401305",
+    "versionNumber" : 7,
+    "modificationDate" : "2011-05-31T11:02:56.695+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7295-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401305",
+    "versionNumber" : 7,
+    "modificationDate" : "2011-05-31T11:02:56.695+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7295-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Greek grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "William Watson",
+        "familyName" : "Goodwin",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Charles B.",
+        "familyName" : "Gulick"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1900",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "25715",
+      "type" : "OTHER"
+    }, {
+      "id" : "greek_goodwin1900.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Boston, Mass. [u.a.]",
+      "publisher" : "Ginn"
+    },
+    "freeKeywords" : "LoC Subject Headings: Greek language",
+    "subjects" : [ {
+      "value" : "ell - Modern Greek (1453-)",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxvi, 472 S.",
+    "abstracts" : [ {
+      "value" : "PA258, ISO 639-3 : grc, Greek language--Grammar--1870-"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401304",
+    "name" : "greek_goodwin1900.pdf",
+    "creationDate" : "2010-04-01T11:09:35.256+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7294-1",
+    "content" : "/rest/items/item_401305_7/component/file_401304/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9db02a15e97f8f3f70b11f70c25f5e35",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8735705,
+    "metadata" : {
+      "title" : "greek_goodwin1900.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8735705,
+      "copyrightDate" : "2010-12-13",
+      "rights" : "not in copyright, William Watson Goodwin, 1831-1912"
+    }
+  } ]
+}

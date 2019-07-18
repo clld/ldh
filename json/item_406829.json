@@ -1,0 +1,151 @@
+{
+  "objectId" : "item_406829",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T21:03:28.247+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-700C-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:03:28.247+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-92C9-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:47:58.833+0000",
+  "latestRelease" : {
+    "objectId" : "item_406829",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T21:03:28.247+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-700C-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406829",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T21:03:28.247+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-700C-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The perception and production of second language stress : a cross-linguistic experimental study",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Heidi",
+        "familyName" : "Altmann",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37461",
+      "type" : "OTHER"
+    }, {
+      "id" : "stress_altmann2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "place" : "Newark",
+      "publisher" : "Univ. of Delaware"
+    },
+    "freeKeywords" : "LoC Class: P118, LoC Subject Headings: Language acquisition, LoC Subject Headings: Grammar/Comparative and general--Phonology",
+    "totalNumberOfPages" : "xiii, 238 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406828",
+    "name" : "stress_altmann2006_s.pdf",
+    "creationDate" : "2010-04-01T13:47:58.684+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-92C8-B",
+    "content" : "/rest/items/item_406829_4/component/file_406828/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fa8adb1bdbeb9045106ed62a48bd9c29",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 826275,
+    "metadata" : {
+      "title" : "stress_altmann2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 826275
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2048097",
+    "name" : "http://ifla.uni-stuttgart.de/index.php?article_id=162&clang=0",
+    "creationDate" : "2014-08-04T10:28:37.234+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-1BE1-C",
+    "content" : "http://ifla.uni-stuttgart.de/index.php?article_id=162&clang=0",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5778946cd8af98c97155a1e8b0cac0c9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://ifla.uni-stuttgart.de/index.php?article_id=162&clang=0",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. Stuttgart, Institute for Linguistics, Anglistik, Dr. Heidi Altmann, Publications, 2006 pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2048098",
+    "name" : "http://ifla.uni-stuttgart.de/files/altmann-dissertation.pdf",
+    "creationDate" : "2014-08-04T10:28:37.449+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-1BE6-2",
+    "content" : "http://ifla.uni-stuttgart.de/files/altmann-dissertation.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ed5f380b33ea1badc512a8ff2a661926",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://ifla.uni-stuttgart.de/files/altmann-dissertation.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

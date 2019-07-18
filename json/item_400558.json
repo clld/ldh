@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_400558",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T16:14:24.260+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6DA7-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T16:14:24.260+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6E24-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:54:38.895+0000",
+  "latestRelease" : {
+    "objectId" : "item_400558",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T16:14:24.260+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6DA7-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400558",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T16:14:24.260+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6DA7-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of Matsés",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Fleck, David William",
+        "givenName" : "David William",
+        "familyName" : "Fleck",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "22039",
+      "type" : "OTHER"
+    }, {
+      "id" : "matses_fleck2003.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PM6773, LoC Subject Headings: Matsés language--Grammar, LoC Subject Headings: Panoan languages",
+    "subjects" : [ {
+      "value" : "mcf - Matsés",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "2 Bd."
+  },
+  "files" : [ {
+    "objectId" : "file_400556",
+    "name" : "http://scholarship.rice.edu/handle/1911/18526",
+    "creationDate" : "2010-04-01T10:54:28.821+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://scholarship.rice.edu/handle/1911/18526",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "cdd06d12de2cc59b62ccd84f97655486",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://scholarship.rice.edu/handle/1911/18526",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400557",
+    "name" : "matses_fleck2003.pdf",
+    "creationDate" : "2010-04-01T10:54:29.805+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6E23-D",
+    "content" : "/rest/items/item_400558_3/component/file_400557/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "817de40d4e6a14b430b8ab29e691be80",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 98946699,
+    "metadata" : {
+      "title" : "matses_fleck2003.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 98946699
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

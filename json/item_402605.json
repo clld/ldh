@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_402605",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:33:02.119+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7A0E-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:33:02.119+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7A0E-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:34:53.092+0000",
+  "latestRelease" : {
+    "objectId" : "item_402605",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:33:02.119+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7A0E-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402605",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:33:02.119+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7A0E-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Lexikon der Tagbana-Sprache",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Casimir, Katia Kamara",
+        "givenName" : "Katia Kamara",
+        "familyName" : "Casimir",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1988",
+    "datePublishedInPrint" : "1988",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30035",
+      "type" : "OTHER"
+    }, {
+      "id" : "tagbana_casimir1998_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Bielefeld",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PL6071,\nLoC Subject Headings: Tagbanua language",
+    "subjects" : [ {
+      "value" : "tgw - Tagwana Senoufo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "412 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402603",
+    "name" : "http://bieson.ub.uni-bielefeld.de/volltexte/2004/600/",
+    "creationDate" : "2010-04-01T11:34:52.823+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A0C-4",
+    "content" : "http://bieson.ub.uni-bielefeld.de/volltexte/2004/600/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d38c121125844fc0520c1897c3defab2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://bieson.ub.uni-bielefeld.de/volltexte/2004/600/",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402604",
+    "name" : "tagbana_casimir1998_s.pdf",
+    "creationDate" : "2010-04-01T11:34:52.934+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A0D-2",
+    "content" : "/rest/items/item_402605_2/component/file_402604/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1d43ec398f8be08ea0ce0ec3762571be",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 914173,
+    "metadata" : {
+      "title" : "tagbana_casimir1998_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 914173
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

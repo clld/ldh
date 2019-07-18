@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_407271",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-08-07T08:55:07.962+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-264A-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-08-07T08:55:07.962+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-954B-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:09:18.731+0000",
+  "latestRelease" : {
+    "objectId" : "item_407271",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-07T08:55:07.962+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-264A-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407271",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-07T08:55:07.962+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-264A-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Transitivity and grounding in Atayal folk tales",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ying-an",
+        "familyName" : "Chen",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2007",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38045",
+      "type" : "OTHER"
+    }, {
+      "id" : "atayal_vanessachen2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Taichung",
+      "publisher" : "Providence Univ."
+    },
+    "freeKeywords" : "LoC Class: PL6151,\nLoC Subject Headings: Atayal language",
+    "subjects" : [ {
+      "value" : "tay - Atayal",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 87 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407270",
+    "name" : "atayal_vanessachen2007_s.pdf",
+    "creationDate" : "2010-04-01T14:09:18.544+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-954A-F",
+    "content" : "/rest/items/item_407271_3/component/file_407270/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f8f18225688d33db5b6db96e43408b77",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 916013,
+    "metadata" : {
+      "title" : "atayal_vanessachen2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 916013
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2049302",
+    "name" : "http://handle.ncl.edu.tw/11296/ndltd/94893191497561224965",
+    "creationDate" : "2014-08-07T08:53:44.972+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-264C-5",
+    "content" : "http://handle.ncl.edu.tw/11296/ndltd/94893191497561224965",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "976f152c51fa1a5c9a21802b0a4ea847",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://handle.ncl.edu.tw/11296/ndltd/94893191497561224965",
+      "contentCategory" : "publisher-version",
+      "description" : "NDLTD National Digital Library of Theses and Dissertations in Taiwan, zip file, pdf // fulltext access: free e-mail registration necessary",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_408078",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-18T11:41:49.488+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7AA4-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-18T11:41:49.488+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-99C0-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:29:16.201+0000",
+  "latestRelease" : {
+    "objectId" : "item_408078",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T11:41:49.488+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7AA4-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408078",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T11:41:49.488+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7AA4-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gramática del idioma Bora",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Wesley",
+        "familyName" : "Thiesen",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "42302",
+      "type" : "OTHER"
+    }, {
+      "id" : "bora_thiesen1996_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Pucallpa, Peru",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüistica peruana",
+      "volume" : "38",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5634.1, LoC Subject Headings: Bora language",
+    "subjects" : [ {
+      "value" : "boa - Bora",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "132 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5634.1, LoC Subject Headings: Bora language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_408077",
+    "name" : "bora_thiesen1996_o.pdf",
+    "creationDate" : "2010-04-01T14:29:15.647+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-99BF-9",
+    "content" : "/rest/items/item_408078_3/component/file_408077/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ce3ff03ca3201254a24ed00e3f979c29",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4209358,
+    "metadata" : {
+      "title" : "bora_thiesen1996_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4209358
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116747",
+    "name" : "http://www.peru.sil.org/resources/archives/30129",
+    "creationDate" : "2015-03-18T11:41:18.554+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/30129",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7f99f244c89205745af1127916227373",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/30129",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

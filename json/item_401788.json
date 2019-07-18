@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_401788",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-11-07T09:42:16.723+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-2B61-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2014-11-07T09:42:16.723+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7552-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:19:01.985+0000",
+  "latestRelease" : {
+    "objectId" : "item_401788",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-11-07T09:42:16.723+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-2B61-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401788",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-11-07T09:42:16.723+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-2B61-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Materials on Golin : grammar, texts and dictionary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Nicholas",
+        "familyName" : "Evans",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "27900",
+      "type" : "OTHER"
+    }, {
+      "id" : "golin_evans2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Melbourne",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL6621.G65,\nLoC Subject Headings: Golin dialect",
+    "subjects" : [ {
+      "value" : "gvf - Golin",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "viii, 213 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6621.D65,\nLoC Subject Headings: Golin dialect"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401787",
+    "name" : "golin_evans2005_s.pdf",
+    "creationDate" : "2010-04-01T11:19:00.899+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7551-0",
+    "content" : "/rest/items/item_401788_3/component/file_401787/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d1383e9edc9dcfd3dcb670b17305e7a4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11140615,
+    "metadata" : {
+      "title" : "golin_evans2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11140615
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2070188",
+    "name" : "http://hdl.handle.net/11343/33836",
+    "creationDate" : "2014-11-07T09:38:27.260+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/11343/33836",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0238708eb558576f0ada8e8a753646a1",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/11343/33836",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. of Melbourne, Minerva Access, School of Languages and Linguistics - Research Publications, pdf",
+      "size" : 0
+    }
+  } ]
+}

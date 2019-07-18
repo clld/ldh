@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_400681",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:17:41.969+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6EEA-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:17:41.969+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6EEA-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:57:03.144+0000",
+  "latestRelease" : {
+    "objectId" : "item_400681",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:17:41.969+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6EEA-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400681",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:17:41.969+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6EEA-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gramatica popular del Zapoteco del Istmo : prep. por Velma B. Pickett, Cheryl Black y Vicente Marcial Cerqueda",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Pickett, Velma B.",
+        "givenName" : "Velma B.",
+        "familyName" : "Pickett",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Cheryl",
+        "familyName" : "Black"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2001",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "23921",
+      "type" : "OTHER"
+    }, {
+      "id" : "zapotec_pickett1998_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "2a ed.",
+      "place" : "[Tuscon]",
+      "publisher" : "Inst. Lingüístico de Verano A.C."
+    },
+    "freeKeywords" : "LoC Class: PM4548,\nLoC Subject Headings: Zapotec language--Grammar",
+    "subjects" : [ {
+      "value" : "zai - Isthmus Zapotec",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "x, 125 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400679",
+    "name" : "http://www.sil.org/mexico/zapoteca/istmo/g023a%2Dgramaticazapistmo%2Dzai.htm",
+    "creationDate" : "2010-04-01T10:57:02.832+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6EE8-4",
+    "content" : "http://www.sil.org/mexico/zapoteca/istmo/g023a%2Dgramaticazapistmo%2Dzai.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "23465702593e70f6a1f81a7f30785943",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/mexico/zapoteca/istmo/g023a%2Dgramaticazapistmo%2Dzai.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400680",
+    "name" : "zapotec_pickett1998_s.pdf",
+    "creationDate" : "2010-04-01T10:57:03.029+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6EE9-2",
+    "content" : "/rest/items/item_400681_2/component/file_400680/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "42560b722bddcad6202e4586243ef8bb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 487310,
+    "metadata" : {
+      "title" : "zapotec_pickett1998_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 487310
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

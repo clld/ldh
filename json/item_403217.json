@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_403217",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T08:56:26.602+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA8D-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T08:56:26.602+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7DCA-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:04:41.212+0000",
+  "latestRelease" : {
+    "objectId" : "item_403217",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:56:26.602+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA8D-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403217",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:56:26.602+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA8D-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Investigations into grammatical knowledge",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "James Douglas",
+        "familyName" : "Saddy",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1991",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31082",
+      "type" : "OTHER"
+    }, {
+      "id" : "knowledge_saddy1990_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Institute of Technology"
+    },
+    "freeKeywords" : "LoC Class: P291, LoC Subject Headings: Grammar/Comparative and general--Syntax, LoC Subject Headings: Linguistic analysis (Linguistics)",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "188 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403216",
+    "name" : "knowledge_saddy1990_o.pdf",
+    "creationDate" : "2010-04-01T12:04:40.247+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7DC9-2",
+    "content" : "/rest/items/item_403217_4/component/file_403216/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "22d270b5d1abd4608fa6f4775fbbefa5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9521882,
+    "metadata" : {
+      "title" : "knowledge_saddy1990_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9521882
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147312",
+    "name" : "http://hdl.handle.net/1721.1/13731",
+    "creationDate" : "2015-04-21T08:55:59.075+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/13731",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1443b5e89c853f1e8fb2e04e7f2b4347",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/13731",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

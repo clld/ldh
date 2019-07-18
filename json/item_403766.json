@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_403766",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-02-24T11:15:20.283+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-DB0D-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz ergänzt",
+  "lastModificationDate" : "2015-02-24T11:15:20.283+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-81AF-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:24:02.000+0000",
+  "latestRelease" : {
+    "objectId" : "item_403766",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-24T11:15:20.283+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-DB0D-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403766",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-24T11:15:20.283+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-DB0D-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammar and dictionary of the Pangasinan language",
+    "alternativeTitles" : [ {
+      "value" : "Gramatica tan diccionario na salitay Pangasinan",
+      "type" : "OTHER"
+    } ],
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ernest Adolphus",
+        "familyName" : "Rayner",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1923",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31713",
+      "type" : "OTHER"
+    }, {
+      "id" : "pangasinan_rayner1923_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Manila",
+      "publisher" : "Methodist Pub. House"
+    },
+    "freeKeywords" : "LoC Class: PL6015,\nLoC Subject Headings: Pangasinan language",
+    "subjects" : [ {
+      "value" : "pag - Pangasinan",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "96 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6015,\nLoC Subject Headings: English language--Dictionaries--Pangasinan, Pangasinan language--Dictionaries--English, Pangasinan language "
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403765",
+    "name" : "pangasinan_rayner1923_o.pdf",
+    "creationDate" : "2010-04-01T12:24:01.402+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-81AE-1",
+    "content" : "/rest/items/item_403766_3/component/file_403765/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3d27ee311cabd24ffe37bb9342dd817a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5222096,
+    "metadata" : {
+      "title" : "pangasinan_rayner1923_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5222096
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2103899",
+    "name" : "http://name.umdl.umich.edu/ADL9486.0001.001",
+    "creationDate" : "2015-02-24T11:14:48.148+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://name.umdl.umich.edu/ADL9486.0001.001",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "bd966b6fbb619e7bfe950f7d0cbb76f1",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://name.umdl.umich.edu/ADL9486.0001.001",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Michigan, Library, Collection: The United States and its Territories, 1870 - 1925: The Age of Imperialism, view online",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_403293",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-24T10:53:24.391+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BFFC-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-24T10:53:24.391+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E3F-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:09:32.367+0000",
+  "latestRelease" : {
+    "objectId" : "item_403293",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-24T10:53:24.391+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BFFC-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403293",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-24T10:53:24.391+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BFFC-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Origins of phrase structure",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Timothy Angus",
+        "familyName" : "Stowell",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1981",
+    "datePublishedInPrint" : "1981",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31128",
+      "type" : "OTHER"
+    }, {
+      "id" : "origins_stowell1981_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P158.3, LoC Subject Headings: Phrase structure grammar, LoC Subject Headings: Grammar/Comparative and general--Syntax, LoC Subject Headings: Grammar/Comparative and general--Case",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "496 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403292",
+    "name" : "origins_stowell1981_o.pdf",
+    "creationDate" : "2010-04-01T12:09:29.512+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E3E-5",
+    "content" : "/rest/items/item_403293_4/component/file_403292/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2def9e6b69b4f9a2a4cce4292896f8a0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 30521851,
+    "metadata" : {
+      "title" : "origins_stowell1981_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 30521851
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2148926",
+    "name" : "http://hdl.handle.net/1721.1/15626",
+    "creationDate" : "2015-04-24T10:52:55.667+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/15626",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "135acd6208c1aeed221de15455887fd2",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/15626",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

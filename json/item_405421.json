@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_405421",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-07-08T10:33:04.788+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-DCE6-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Sprache der Publikation ergänzt",
+  "lastModificationDate" : "2014-07-08T10:33:04.788+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B00-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:12:17.001+0000",
+  "latestRelease" : {
+    "objectId" : "item_405421",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-08T10:33:04.788+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DCE6-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405421",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-08T10:33:04.788+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DCE6-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Beskrivning av tok pisin",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Magnus",
+        "familyName" : "Kusoffsky",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "degree" : "BACHELOR",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34794",
+      "type" : "OTHER"
+    }, {
+      "id" : "pisin_kusoffsky2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "swe" ],
+    "publishingInfo" : {
+      "place" : "Lund",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class:  PM7891.Z5,\nLoC Subject Headings: Tok Pisin language",
+    "subjects" : [ {
+      "value" : "tpi - Tok Pisin",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "99 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405420",
+    "name" : "pisin_kusoffsky2004_s.pdf",
+    "creationDate" : "2010-04-01T13:12:16.855+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8AFF-1",
+    "content" : "/rest/items/item_405421_4/component/file_405420/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ccfad1b7986eb2024512a015eb26d86f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 603746,
+    "metadata" : {
+      "title" : "pisin_kusoffsky2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 603746
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2039463",
+    "name" : "http://www.lunduniversity.lu.se/o.o.i.s?id=24923&postid=1330392",
+    "creationDate" : "2014-07-08T10:29:13.658+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-DCE2-5",
+    "content" : "http://www.lunduniversity.lu.se/o.o.i.s?id=24923&postid=1330392",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8d5e97b968c56bb70f8659fa698084ff",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lunduniversity.lu.se/o.o.i.s?id=24923&postid=1330392",
+      "contentCategory" : "any-fulltext",
+      "description" : "Lund Univ., LU Student Theses Database, pdf",
+      "size" : 0
+    }
+  } ]
+}

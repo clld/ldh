@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_403391",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:37:04.785+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7EC8-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:37:04.785+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7EC8-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:17:41.116+0000",
+  "latestRelease" : {
+    "objectId" : "item_403391",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:37:04.785+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7EC8-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403391",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:37:04.785+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7EC8-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A comparative study of pray and mal phonology",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Singnoi, Unchalee",
+        "givenName" : "Unchalee",
+        "familyName" : "Singnoi",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1988",
+    "datePublishedInPrint" : "1988",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31202",
+      "type" : "OTHER"
+    }, {
+      "id" : "pray_unchalee1988_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Nakhon Pathom",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PL4301,\nLoC Subject Headings: Mon-Khmer languages",
+    "subjects" : [ {
+      "value" : "pry - Pray 3",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "mlf - Mal",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiv, 209 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403389",
+    "name" : "http://archives.sealang.net/mahidol",
+    "creationDate" : "2010-04-01T12:17:40.462+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7EC6-4",
+    "content" : "http://archives.sealang.net/mahidol",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b90f0b74e428eb7d24c3f080c1c10bb4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://archives.sealang.net/mahidol",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403390",
+    "name" : "pray_unchalee1988_o.pdf",
+    "creationDate" : "2010-04-01T12:17:40.729+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7EC7-2",
+    "content" : "/rest/items/item_403391_2/component/file_403390/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "800b47078d5e2d1781bd6dd8a2df1dcb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3596599,
+    "metadata" : {
+      "title" : "pray_unchalee1988_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3596599
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

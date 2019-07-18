@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_405860",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-11T10:11:02.614+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-20FF-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-11T10:11:02.614+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8D78-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:21:57.187+0000",
+  "latestRelease" : {
+    "objectId" : "item_405860",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-11T10:11:02.614+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-20FF-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405860",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-11T10:11:02.614+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-20FF-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "WH-interrogatives in spoken French : a corpus-based analysis of their form and function",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lindsy Lee",
+        "familyName" : "Myers",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35461",
+      "type" : "OTHER"
+    }, {
+      "id" : "french_myers2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Arlington",
+      "publisher" : "Univ. of Texas"
+    },
+    "freeKeywords" : "LoC Class: PC2395, LoC Subject Headings: French language",
+    "subjects" : [ {
+      "value" : "fra - French",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 256 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405859",
+    "name" : "french_myers2007_s.pdf",
+    "creationDate" : "2010-04-01T13:21:56.944+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D77-E",
+    "content" : "/rest/items/item_405860_4/component/file_405859/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f07c83aa1f0afff306d0eaa871f432b8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 813312,
+    "metadata" : {
+      "title" : "french_myers2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 813312
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110874",
+    "name" : "http://hdl.handle.net/2152/3235",
+    "creationDate" : "2015-03-11T10:09:50.546+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/2152/3235",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "81a3a6f0db73f5e87beec138a6c094bb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/2152/3235",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Texas, Libraries, Digital Repository, pdf download",
+      "size" : 0
+    }
+  } ]
+}

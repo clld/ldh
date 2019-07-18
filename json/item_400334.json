@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_400334",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-03T10:44:23.341+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-022B-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter bereinigt",
+  "lastModificationDate" : "2015-03-03T10:44:23.341+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6CBC-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:45:26.388+0000",
+  "latestRelease" : {
+    "objectId" : "item_400334",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-03T10:44:23.341+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-022B-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400334",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-03T10:44:23.341+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-022B-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of the Nipmuck language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Holly Suzanne",
+        "familyName" : "Gustafson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "datePublishedInPrint" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "17649",
+      "type" : "OTHER"
+    }, {
+      "id" : "nipmuck_gustafson2000_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Winnipeg",
+      "publisher" : "Univ. of Manitoba"
+    },
+    "freeKeywords" : "LoC Class: PM602, LoC Subject Headings: Algonquian languages, LoC Subject Headings: Nipmuc Indians--Language",
+    "totalNumberOfPages" : "iv, 153 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM602,\nLoC Subject Headings: Nipmuc language--Grammar, Algonquian languages--Grammar, Nipmuc Indians--Language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400333",
+    "name" : "nipmuck_gustafson2000_s.pdf",
+    "creationDate" : "2010-04-01T10:45:25.531+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6CBB-7",
+    "content" : "/rest/items/item_400334_4/component/file_400333/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "38e99f7b12423ccdb5637405aa7066fc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8182382,
+    "metadata" : {
+      "title" : "nipmuck_gustafson2000_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8182382
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_1900279",
+    "name" : "http://www.collectionscanada.gc.ca/obj/s4/f2/dsk2/ftp01/MQ53163.pdf",
+    "creationDate" : "2014-01-20T09:13:36.085+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0015-0E7B-7",
+    "content" : "http://www.collectionscanada.gc.ca/obj/s4/f2/dsk2/ftp01/MQ53163.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "15e0b86a67bcffd96f715f543e9ab2cc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.collectionscanada.gc.ca/obj/s4/f2/dsk2/ftp01/MQ53163.pdf",
+      "contentCategory" : "any-fulltext",
+      "size" : 0
+    }
+  } ]
+}

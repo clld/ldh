@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_404190",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-07T09:09:11.650+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A830-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-07T09:09:11.650+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8411-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:37:02.865+0000",
+  "latestRelease" : {
+    "objectId" : "item_404190",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-07T09:09:11.650+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A830-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404190",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-07T09:09:11.650+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A830-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Aspects of the cantonese verb phrase : order and rank",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Olivia",
+        "familyName" : "Lam Shi Ching",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32457",
+      "type" : "OTHER"
+    }, {
+      "id" : "cantonese_lam2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Hongkong",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL1733, LoC Subject Headings: Cantonese dialects",
+    "subjects" : [ {
+      "value" : "yue - Chinese, Yue",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VII, 118 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL1733,\nLoC Subject Headings: Cantonese dialects--Verb phrase"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404188",
+    "name" : "http://sunzi1.lib.hku.hk/hkuto/record/B29966814",
+    "creationDate" : "2010-04-01T12:37:01.540+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://sunzi1.lib.hku.hk/hkuto/record/B29966814",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c60c64d4b36c51190feb8fa65aec79a6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://sunzi1.lib.hku.hk/hkuto/record/B29966814",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Hong Kong, The HKU Scholars Hub, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404189",
+    "name" : "cantonese_lam2004_s.pdf",
+    "creationDate" : "2010-04-01T12:37:02.744+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8410-5",
+    "content" : "/rest/items/item_404190_3/component/file_404189/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c503c8c90814e4c5ce594f3eac76d2b9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 674930,
+    "metadata" : {
+      "title" : "cantonese_lam2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 674930
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

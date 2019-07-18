@@ -1,0 +1,217 @@
+{
+  "objectId" : "item_402531",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T18:57:28.746+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F05-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T18:57:28.746+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-79AB-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:33:41.452+0000",
+  "latestRelease" : {
+    "objectId" : "item_402531",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T18:57:28.746+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F05-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402531",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T18:57:28.746+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F05-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammatical studies in Suena and Iduna",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Richard",
+        "familyName" : "Loving",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Darryl",
+        "familyName" : "Wilson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Joyce",
+        "familyName" : "Huckett",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1976",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29995",
+      "type" : "OTHER"
+    }, {
+      "id" : "suena_loving1976_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "0726304794",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ukarumpa",
+      "publisher" : "Summer Institute of Linguistics"
+    },
+    "sources" : [ {
+      "title" : "Workpapers in Papua New Guinea languages",
+      "volume" : "15",
+      "genre" : "SERIES"
+    }, {
+      "title" : "Data Papers on Papua New Guinea Languages\n",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6621.S92, LoC Subject Headings: Suena language, LoC Subject Headings: Iduna language",
+    "subjects" : [ {
+      "value" : "sue - Suena",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "viv - Iduna",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "262 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6621.S92,\nLoC Subject Headings: Suena language--Grammar, Iduna language--Sentences"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402530",
+    "name" : "suena_loving1976_o.pdf",
+    "creationDate" : "2010-04-01T11:33:40.763+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-79AA-6",
+    "content" : "/rest/items/item_402531_4/component/file_402530/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5effea0d30691a7c1f6a97b8b8ecfe9f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6035043,
+    "metadata" : {
+      "title" : "suena_loving1976_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6035043
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2034129",
+    "name" : "http://www.sil.org/resources/archives/23595",
+    "creationDate" : "2014-06-20T09:38:24.841+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/23595",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0061c9f8233c4c1b6a621da4b2e95286",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/23595",
+      "contentCategory" : "supplementary-material",
+      "description" : "SIL International, bibliographic data",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2034130",
+    "name" : "http://www-01.sil.org/pacific/png/abstract.asp?id=21874",
+    "creationDate" : "2014-06-20T09:38:25.358+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-C239-5",
+    "content" : "http://www-01.sil.org/pacific/png/abstract.asp?id=21874",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2193d31d095621292c2f9d541fbc7a0a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www-01.sil.org/pacific/png/abstract.asp?id=21874",
+      "contentCategory" : "publisher-version",
+      "description" : "PART 1: 'Paragraph and discourse structure in Suena' by Darryl Wilson, p. 5-125\nSIL Papua New Guinea, PNG publications online, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2034131",
+    "name" : "http://www.sil.org/pacific/png/abstract.asp?id=15981",
+    "creationDate" : "2014-06-20T09:38:26.215+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-C23A-3",
+    "content" : "http://www.sil.org/pacific/png/abstract.asp?id=15981",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "29c31f6c8dc96da6fb9d414b1a1c6af4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/pacific/png/abstract.asp?id=15981",
+      "contentCategory" : "publisher-version",
+      "description" : "PART 2: 'Iduna sentence structure' by Joyce Huckett, p. 127-262\nSIL Papua New Guinea, PNG publications online, pdf",
+      "size" : 0
+    }
+  } ]
+}

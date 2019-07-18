@@ -1,0 +1,145 @@
+{
+  "objectId" : "item_400776",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T17:10:08.364+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6E28-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T17:10:08.364+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6F75-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:59:02.109+0000",
+  "latestRelease" : {
+    "objectId" : "item_400776",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:10:08.364+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E28-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400776",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:10:08.364+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E28-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dicionário bilíngue nas línguas Paumarí e Portuguesa",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Salzer, Meinke",
+        "givenName" : "Meinke",
+        "familyName" : "Salzer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Shirley",
+        "familyName" : "Chapman"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "24190",
+      "type" : "OTHER"
+    }, {
+      "id" : "paumari_salzer1991_s_again.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[Porto Velho]",
+      "publisher" : "[Soc. Internacional de Lingüística]"
+    },
+    "freeKeywords" : "LoC Class: PM6963.Z5, LoC Subject Headings: Purupuru language --Dictionaries --Portuguese, LoC Subject Headings: Portuguese language --Dictionaries --Purupuru",
+    "subjects" : [ {
+      "value" : "pad - Paumarí",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "por - Portuguese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "777 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400774",
+    "name" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/PMDIC.pdf",
+    "creationDate" : "2010-04-01T10:58:47.464+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F73-F",
+    "content" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/PMDIC.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b07cc8fb0422818eb8fd9a0476c6b0d9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/PMDIC.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400775",
+    "name" : "paumari_salzer1991_s_again.pdf",
+    "creationDate" : "2010-04-01T10:59:01.887+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F74-D",
+    "content" : "/rest/items/item_400776_3/component/file_400775/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c7138b1ed43a2b02b14a45bf905c08d7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1685078,
+    "metadata" : {
+      "title" : "paumari_salzer1991_s_again.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1685078
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

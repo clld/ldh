@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_402367",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:25:59.253+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-78C3-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:25:59.253+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-78C3-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:30:45.833+0000",
+  "latestRelease" : {
+    "objectId" : "item_402367",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:25:59.253+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-78C3-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402367",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:25:59.253+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-78C3-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Identifying word translations in parallel corpora using measures of association",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Varma, Nitin",
+        "givenName" : "Nitin",
+        "familyName" : "Varma",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29782",
+      "type" : "OTHER"
+    }, {
+      "id" : "corpora_varma2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Minnesota",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: P308,\nLoC Subject Headings: Machine translating",
+    "totalNumberOfPages" : "vi, 69 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402365",
+    "name" : "http://w210.ub.uni-tuebingen.de/dbt/volltexte/2004/1317/",
+    "creationDate" : "2010-04-01T11:30:45.597+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-78C1-7",
+    "content" : "http://w210.ub.uni-tuebingen.de/dbt/volltexte/2004/1317/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8f7ae25ff443e4bdcc154ab9cdcb7c99",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://w210.ub.uni-tuebingen.de/dbt/volltexte/2004/1317/",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402366",
+    "name" : "corpora_varma2002_s.pdf",
+    "creationDate" : "2010-04-01T11:30:45.729+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-78C2-5",
+    "content" : "/rest/items/item_402367_2/component/file_402366/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e24506822a18d57a6b63537a4301a8dd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 339160,
+    "metadata" : {
+      "title" : "corpora_varma2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 339160
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

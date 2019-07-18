@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_406529",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:29:58.067+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9124-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:29:58.067+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9124-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:40:18.099+0000",
+  "latestRelease" : {
+    "objectId" : "item_406529",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:29:58.067+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9124-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406529",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:29:58.067+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9124-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Nkutama a mvila za Makanda",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Cuvelier, J.",
+        "givenName" : "J.",
+        "familyName" : "Cuvelier",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1934",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37222",
+      "type" : "OTHER"
+    }, {
+      "id" : "nkutama_cuvelier1934.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Tumba",
+      "publisher" : "Impr. Mission Catholique"
+    },
+    "freeKeywords" : "LoC Class: PL8401,\nLoC Subject Headings: Kongo language",
+    "totalNumberOfPages" : "110 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406527",
+    "name" : "http://www.nekongo.org/akongo/docs/langue_culture/nkutama_mvila_makanda.pdf",
+    "creationDate" : "2010-04-01T13:40:12.949+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9122-9",
+    "content" : "http://www.nekongo.org/akongo/docs/langue_culture/nkutama_mvila_makanda.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "96d73e5b99eba9dda084b02d8982cb5f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.nekongo.org/akongo/docs/langue_culture/nkutama_mvila_makanda.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406528",
+    "name" : "nkutama_cuvelier1934.pdf",
+    "creationDate" : "2010-04-01T13:40:16.968+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9123-7",
+    "content" : "/rest/items/item_406529_2/component/file_406528/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "285119a6b96fc5ac5a612afa0719acd0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11624437,
+    "metadata" : {
+      "title" : "nkutama_cuvelier1934.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11624437
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

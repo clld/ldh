@@ -1,0 +1,127 @@
+{
+  "objectId" : "item_403193",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T08:34:14.653+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA77-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T08:34:14.653+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7DA7-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:03:23.760+0000",
+  "latestRelease" : {
+    "objectId" : "item_403193",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:34:14.653+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA77-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403193",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:34:14.653+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA77-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Infinitives : restructuring and clause structure",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Susanne",
+        "familyName" : "Wurmbrand",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1998",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "31070",
+      "type" : "OTHER"
+    }, {
+      "id" : "infinitives_wurmbrand1998_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "freeKeywords" : "LoC Class: P293.2, LoC Subject Headings: Grammar/Comparative and general--Infinitival constructions",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "351 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403192",
+    "name" : "infinitives_wurmbrand1998_o.pdf",
+    "creationDate" : "2010-04-01T12:03:22.305+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7DA6-0",
+    "content" : "/rest/items/item_403193_4/component/file_403192/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f43bb1f5e61395d27e2aed8d55fe58d6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 15026011,
+    "metadata" : {
+      "title" : "infinitives_wurmbrand1998_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 15026011
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147302",
+    "name" : "http://hdl.handle.net/1721.1/9592",
+    "creationDate" : "2015-04-21T08:33:48.569+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/9592",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8b9fab0932d626aa3939efd3457341be",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/9592",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

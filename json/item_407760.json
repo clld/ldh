@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_407760",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:27:10.957+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-97EA-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:27:10.957+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-97EA-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:20:03.792+0000",
+  "latestRelease" : {
+    "objectId" : "item_407760",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:27:10.957+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-97EA-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407760",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:27:10.957+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-97EA-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Insights into Tagalog : reduplication, infixation, and stress from nonlinear phonology",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "French, Koleen M.",
+        "givenName" : "Koleen M.",
+        "familyName" : "French",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1988",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "41826",
+      "type" : "OTHER"
+    }, {
+      "id" : "tagalog_french1988_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Dallas, Tex.",
+      "publisher" : "Summer Institute of Linguistics [u.a.]"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics and The University of Texas at Arlington Publications in Linguistics",
+      "volume" : "84",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6053,\nLoC Subject Headings: Tagalog language--Phonology",
+    "subjects" : [ {
+      "value" : "tgl - Tagalog",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "X, 127 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407758",
+    "name" : "http://www.ethnologue.com/show_work.asp?id=22216",
+    "creationDate" : "2010-04-01T14:20:02.742+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-97E8-C",
+    "content" : "http://www.ethnologue.com/show_work.asp?id=22216",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0eb637772184555a38bff55f88748827",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ethnologue.com/show_work.asp?id=22216",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407759",
+    "name" : "tagalog_french1988_o.pdf",
+    "creationDate" : "2010-04-01T14:20:03.422+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-97E9-A",
+    "content" : "/rest/items/item_407760_2/component/file_407759/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "83df8f72bcd3add77c04de636d651cbc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3334401,
+    "metadata" : {
+      "title" : "tagalog_french1988_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3334401
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

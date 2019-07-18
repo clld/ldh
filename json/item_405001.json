@@ -1,0 +1,152 @@
+{
+  "objectId" : "item_405001",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-02-05T13:25:01.680+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0015-1AF2-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "aktueller Link ergänzt\n",
+  "lastModificationDate" : "2014-02-05T13:25:01.680+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-88C2-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:53:39.489+0000",
+  "latestRelease" : {
+    "objectId" : "item_405001",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-02-05T13:25:01.680+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0015-1AF2-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405001",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-02-05T13:25:01.680+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0015-1AF2-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Proceedings from the workshop on Sinhala linguistics : June 3-4, 2005",
+    "creators" : [ {
+      "organization" : {
+        "identifier" : "ou_persistent22",
+        "name" : "Workshop on Sinhala Linguistics <2005 , Santa              Barbara>",
+        "identifierPath" : [ "ou_persistent22" ]
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    }, {
+      "person" : {
+        "givenName" : "Robert",
+        "familyName" : "Englebretson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Carol",
+        "familyName" : "Genetti"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "34156",
+      "type" : "OTHER"
+    }, {
+      "id" : "vol17_englebretson2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Santa Barbara, CA.",
+      "publisher" : "Univ. of California"
+    },
+    "sources" : [ {
+      "title" : "Santa Barbara papers in linguistics",
+      "volume" : "17",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PK2808,\nLoC Subject Headings: Sinhalese language --Grammar",
+    "subjects" : [ {
+      "value" : "sin - Sinhala",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "184 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405000",
+    "name" : "vol17_englebretson2005_s.pdf",
+    "creationDate" : "2010-04-01T12:53:39.018+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-88C1-8",
+    "content" : "/rest/items/item_405001_3/component/file_405000/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ac2eecd1b8c3393f030149d6b51e4bb3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4345162,
+    "metadata" : {
+      "title" : "vol17_englebretson2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4345162
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_1920103",
+    "name" : "http://www.linguistics.ucsb.edu/sites/secure.lsit.ucsb.edu.ling.cms/files/sitefiles/research/papers/Working%20Papers%20Vol%2017.pdf",
+    "creationDate" : "2014-02-05T13:21:45.517+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0015-1AF3-9",
+    "content" : "http://www.linguistics.ucsb.edu/sites/secure.lsit.ucsb.edu.ling.cms/files/sitefiles/research/papers/Working%20Papers%20Vol%2017.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7955a96b8ef776bf4de91fc99c1e3583",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.linguistics.ucsb.edu/sites/secure.lsit.ucsb.edu.ling.cms/files/sitefiles/research/papers/Working%20Papers%20Vol%2017.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  } ]
+}

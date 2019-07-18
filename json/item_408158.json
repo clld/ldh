@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_408158",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-12T09:08:21.745+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CC39-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-12T09:08:21.745+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9A3B-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:31:05.804+0000",
+  "latestRelease" : {
+    "objectId" : "item_408158",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-12T09:08:21.745+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CC39-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408158",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-12T09:08:21.745+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CC39-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Jamaican Creole morphology and syntax",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Beryl Loftman",
+        "familyName" : "Bailey",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateCreated" : "2003",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "42422",
+      "type" : "OTHER"
+    }, {
+      "id" : "jamaican_bailey1966.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Colchester",
+      "publisher" : "Univ. of Essex"
+    },
+    "freeKeywords" : "LoC Class: PM7874.J3, LoC Subject Headings: Creole dialects--Jamaica",
+    "subjects" : [ {
+      "value" : "jam - Jamaican Creole English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "47 S."
+  },
+  "files" : [ {
+    "objectId" : "file_408156",
+    "name" : "http://privatewww.essex.ac.uk/~patrickp/papers/JamCreoleGrammar.pdf",
+    "creationDate" : "2010-04-01T14:31:03.640+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9A39-F",
+    "content" : "http://privatewww.essex.ac.uk/~patrickp/papers/JamCreoleGrammar.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4af1653b1bc9ba6ea933b5277aa26ba8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://privatewww.essex.ac.uk/~patrickp/papers/JamCreoleGrammar.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Essex, Peter L. Patrick's website, direct link to pdf version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408157",
+    "name" : "jamaican_bailey1966.pdf",
+    "creationDate" : "2010-04-01T14:31:04.088+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9A3A-D",
+    "content" : "/rest/items/item_408158_4/component/file_408157/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "86c8dd9ea88211b4baec6f39dc0d123f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 18010226,
+    "metadata" : {
+      "title" : "jamaican_bailey1966.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 18010226
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

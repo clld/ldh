@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_407532",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:21:13.051+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-96B2-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:21:13.051+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-96B2-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:14:18.956+0000",
+  "latestRelease" : {
+    "objectId" : "item_407532",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:21:13.051+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-96B2-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407532",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:21:13.051+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-96B2-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Os sistemas fonológicos e gráficos Xavante e Portugues",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Hall, Joan",
+        "givenName" : "Joan",
+        "familyName" : "Hall",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1979",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "39078",
+      "type" : "OTHER"
+    }, {
+      "id" : "xavante_hale1979_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cuiabá",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PM5809,\nLoC Subject Headings: Xavante language",
+    "subjects" : [ {
+      "value" : "xav - Xavánte",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "22 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407530",
+    "name" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "creationDate" : "2010-04-01T14:14:18.355+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-96B0-E",
+    "content" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c9461039d010116eaeca40f82b42a28c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407531",
+    "name" : "xavante_hale1979_s.pdf",
+    "creationDate" : "2010-04-01T14:14:18.851+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-96B1-C",
+    "content" : "/rest/items/item_407532_2/component/file_407531/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b86f9871aef3042d843c8ab4621ab82e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 472861,
+    "metadata" : {
+      "title" : "xavante_hale1979_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 472861
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

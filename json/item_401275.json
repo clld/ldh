@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_401275",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T18:11:12.554+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6EA7-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T18:11:12.554+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-726B-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:08:38.137+0000",
+  "latestRelease" : {
+    "objectId" : "item_401275",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:11:12.554+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EA7-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401275",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:11:12.554+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EA7-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Una gramática del quechua del Huallaga (Huánuco)",
+    "alternativeTitles" : [ {
+      "value" : "Grammar of Huallaga (Huánuco) Quechua <spa>"
+    } ],
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Weber, David",
+        "givenName" : "David",
+        "familyName" : "Weber",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "25522",
+      "type" : "OTHER"
+    }, {
+      "id" : "quechua_weber1996_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1. ed.",
+      "place" : "Lima, Perú",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística peruana",
+      "volume" : "40",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6303, LoC Subject Headings: Quechua language -- Grammar, LoC Subject Headings: Quechua language -- Dialects -- Peru -- Huánuco (Dept.)",
+    "subjects" : [ {
+      "value" : "qub - Huallaga Huánuco Quechua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "641 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401273",
+    "name" : "http://www.sil.org/americas/peru/html/nav/pubIndex.html",
+    "creationDate" : "2010-04-01T11:08:35.199+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/peru/html/nav/pubIndex.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "edf753b2de78b6acc524fe87e298f3d2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/nav/pubIndex.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401274",
+    "name" : "quechua_weber1996_o.pdf",
+    "creationDate" : "2010-04-01T11:08:35.522+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-726A-3",
+    "content" : "/rest/items/item_401275_3/component/file_401274/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5dd753c09ed255cbe61ed9e9f234f11f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 27936234,
+    "metadata" : {
+      "title" : "quechua_weber1996_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 27936234
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

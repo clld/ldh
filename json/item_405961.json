@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_405961",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:35:12.102+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8E06-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:35:12.102+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8E06-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:24:53.054+0000",
+  "latestRelease" : {
+    "objectId" : "item_405961",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:35:12.102+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8E06-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405961",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:35:12.102+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8E06-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The concept of intentional action in the grammar of Kathmandu Newari",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Hargreaves, David J.",
+        "givenName" : "David J.",
+        "familyName" : "Hargreaves",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1991",
+    "datePublishedInPrint" : "1991",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35567",
+      "type" : "OTHER"
+    }, {
+      "id" : "newari_hargreaves1991_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[Eugene]",
+      "publisher" : " Univ. of Oregon"
+    },
+    "freeKeywords" : "LoC Class: PL3801.N5,\nLoC Subject Headings: Newar language -- Grammar",
+    "subjects" : [ {
+      "value" : "new - Newar",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XII, 222 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405959",
+    "name" : "https://scholarsbank.uoregon.edu/dspace/handle/1794/3088",
+    "creationDate" : "2010-04-01T13:24:40.149+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E04-6",
+    "content" : "https://scholarsbank.uoregon.edu/dspace/handle/1794/3088",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://scholarsbank.uoregon.edu/dspace/handle/1794/3088",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405960",
+    "name" : "newari_hargreaves1991_o.pdf",
+    "creationDate" : "2010-04-01T13:24:42.861+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E05-4",
+    "content" : "/rest/items/item_405961_2/component/file_405960/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ed46b877040da013dca96af801830fd9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 107048810,
+    "metadata" : {
+      "title" : "newari_hargreaves1991_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 107048810
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

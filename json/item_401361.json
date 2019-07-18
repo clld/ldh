@@ -1,0 +1,151 @@
+{
+  "objectId" : "item_401361",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:21:06.258+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-72E8-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:21:06.258+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-72E8-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:10:38.318+0000",
+  "latestRelease" : {
+    "objectId" : "item_401361",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:21:06.258+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-72E8-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401361",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:21:06.258+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-72E8-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Reconstrução fonológica do Protomaku Oriental",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Martins, Valteir",
+        "givenName" : "Valteir",
+        "familyName" : "Martins",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "26377",
+      "type" : "OTHER"
+    }, {
+      "id" : "maku_martins2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "sources" : [ {
+      "title" : "LOT Dissertation Series",
+      "volume" : "104",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6393,\nLoC Subject Headings: Macú language",
+    "subjects" : [ {
+      "value" : "kwa - Dâw",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "jup - Hupdë",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "mbj - Nadëb",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "yab - Yuhup",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xvii, 385 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401359",
+    "name" : "http://www.lotpublications.nl/publish/issues/Martins/index.html",
+    "creationDate" : "2010-04-01T11:10:37.994+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-72E6-9",
+    "content" : "http://www.lotpublications.nl/publish/issues/Martins/index.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "fc4fc4d46083f8299d222fd835f927cb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lotpublications.nl/publish/issues/Martins/index.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401360",
+    "name" : "maku_martins2005_s.pdf",
+    "creationDate" : "2010-04-01T11:10:38.097+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-72E7-7",
+    "content" : "/rest/items/item_401361_2/component/file_401360/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "29df6c3862facd1ed9930d64cdbb6164",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1657703,
+    "metadata" : {
+      "title" : "maku_martins2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1657703
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_401471",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:34:38.719+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-737E-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:34:38.719+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-737E-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:12:26.629+0000",
+  "latestRelease" : {
+    "objectId" : "item_401471",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:34:38.719+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-737E-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401471",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:34:38.719+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-737E-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Zauro'nödok Agawayo Yau : variants of Akawaio spoken at Waramadong",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Caesar-Fox, Desrey Clementine",
+        "givenName" : "Desrey Clementine",
+        "familyName" : "Caesar-Fox",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "26777",
+      "type" : "OTHER"
+    }, {
+      "id" : "akawaio_ceasarfox2003_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Houston",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM5308,\nLoC Subject Headings: Acawai language",
+    "subjects" : [ {
+      "value" : "ake - Akawaio",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix, 582 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401469",
+    "name" : "http://scholarship.rice.edu/handle/1911/18513",
+    "creationDate" : "2010-04-01T11:12:25.073+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-737C-2",
+    "content" : "http://scholarship.rice.edu/handle/1911/18513",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d99e2b002b37c0edd20bbb885fb4aef4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://scholarship.rice.edu/handle/1911/18513",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401470",
+    "name" : "akawaio_ceasarfox2003_o.pdf",
+    "creationDate" : "2010-04-01T11:12:25.937+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-737D-F",
+    "content" : "/rest/items/item_401471_2/component/file_401470/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b1c06c35e33e864c5b6ff817821ac6c6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6832838,
+    "metadata" : {
+      "title" : "akawaio_ceasarfox2003_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6832838
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

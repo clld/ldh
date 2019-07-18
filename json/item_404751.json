@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_404751",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-11-28T15:46:48.598+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-440C-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz ergänzt",
+  "lastModificationDate" : "2014-11-28T15:46:48.598+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-874A-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:47:08.483+0000",
+  "latestRelease" : {
+    "objectId" : "item_404751",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-11-28T15:46:48.598+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-440C-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404751",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-11-28T15:46:48.598+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-440C-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Ethnography of language change : an ethnolinguistic survey of the Gilaki language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Monireh",
+        "familyName" : "Rahmani",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1985",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "33724",
+      "type" : "OTHER"
+    }, {
+      "id" : "gilaki_rahmani1985_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Norman",
+      "publisher" : "Univ. of Oklahoma"
+    },
+    "freeKeywords" : "LoC Class: PK 6996.G54,\nLoC Subject Headings: Gilaki language",
+    "subjects" : [ {
+      "value" : "glk - Gilaki",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix, 275 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404750",
+    "name" : "gilaki_rahmani1985_o.pdf",
+    "creationDate" : "2010-04-01T12:47:07.874+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8749-2",
+    "content" : "/rest/items/item_404751_3/component/file_404750/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "020cf08779a1d2d895d0f858b5608e90",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5974327,
+    "metadata" : {
+      "title" : "gilaki_rahmani1985_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5974327
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2075802",
+    "name" : "http://hdl.handle.net/11244/5405",
+    "creationDate" : "2014-11-28T15:46:13.440+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/11244/5405",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "631c0acd41c4a879a6e0da8550808ca0",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/11244/5405",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Oklahoma, DSpace shareok.org, OU Dissertations, pdf",
+      "size" : 0
+    }
+  } ]
+}

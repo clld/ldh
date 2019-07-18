@@ -1,0 +1,158 @@
+{
+  "objectId" : "item_402842",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-06-24T08:49:34.011+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-CD9D-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-06-24T08:49:34.011+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7B8A-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:45:55.885+0000",
+  "latestRelease" : {
+    "objectId" : "item_402842",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-24T08:49:34.011+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-CD9D-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402842",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-24T08:49:34.011+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-CD9D-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Onondaga pronominal prefixes",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Percy W.",
+        "familyName" : "Abrams",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30663",
+      "type" : "OTHER"
+    }, {
+      "id" : "onondaga_abrams2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PM2076, LoC Subject Headings: Onondaga language",
+    "subjects" : [ {
+      "value" : "ono - Onondaga",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "160 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM2076,\nLoC Subject Headings: Onondaga language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402841",
+    "name" : "onondaga_abrams2006_s.pdf",
+    "creationDate" : "2010-04-01T11:45:55.626+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7B89-F",
+    "content" : "/rest/items/item_402842_3/component/file_402841/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "68676898b35f546556aebd612acbea9a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1540889,
+    "metadata" : {
+      "title" : "onondaga_abrams2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1540889
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2034375",
+    "name" : "http://linguistics.buffalo.edu/graduate/phd/recent_dissertations/",
+    "creationDate" : "2014-06-24T08:48:37.688+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-CD9E-B",
+    "content" : "http://linguistics.buffalo.edu/graduate/phd/recent_dissertations/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "df4ad108d32c47c7ee05b09e9cd20adb",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://linguistics.buffalo.edu/graduate/phd/recent_dissertations/",
+      "contentCategory" : "publisher-version",
+      "description" : "Buffalo Univ., Dep. of Linguistics, Recent Dissertations, 2006, Abrams Percy, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2034376",
+    "name" : "http://linguistics.buffalo.edu/graduate/phd/recent_dissertations/dissertations/Abrams.pdf",
+    "creationDate" : "2014-06-24T08:48:38.665+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-CD9F-9",
+    "content" : "http://linguistics.buffalo.edu/graduate/phd/recent_dissertations/dissertations/Abrams.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e5eb5250b28c799eee148d8d1207d157",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://linguistics.buffalo.edu/graduate/phd/recent_dissertations/dissertations/Abrams.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

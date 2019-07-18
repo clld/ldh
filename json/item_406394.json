@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_406394",
+  "versionNumber" : 6,
+  "modificationDate" : "2014-07-24T08:14:33.943+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-00A8-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Genre korrigiert",
+  "lastModificationDate" : "2014-07-24T08:14:33.943+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9067-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:37:21.588+0000",
+  "latestRelease" : {
+    "objectId" : "item_406394",
+    "versionNumber" : 6,
+    "modificationDate" : "2014-07-24T08:14:33.943+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-00A8-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406394",
+    "versionNumber" : 6,
+    "modificationDate" : "2014-07-24T08:14:33.943+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-00A8-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Los lenguajes hablados por los indígenas del Norte y Centro de América",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Francisco",
+        "familyName" : "Fernández y González",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1893",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "36809",
+      "type" : "OTHER"
+    }, {
+      "id" : "meridional_gonzalez1893_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "sources" : [ {
+      "title" : "Ateneo de Madrid",
+      "genre" : "SERIES"
+    } ],
+    "totalNumberOfPages" : "80 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM108, LoC Subject Headings: North America--Linguistics, Central America--Linguistics, Indians--Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406393",
+    "name" : "meridional_gonzalez1893_o.pdf",
+    "creationDate" : "2010-04-01T13:37:21.185+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9066-A",
+    "content" : "/rest/items/item_406394_6/component/file_406393/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9fec76fdcd6b2c4de04d1842d8df9a40",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3692658,
+    "metadata" : {
+      "title" : "meridional_gonzalez1893_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3692658,
+      "copyrightDate" : "2011-12-02",
+      "rights" : "not in copyright, Fernández y González 1833-1917"
+    }
+  }, {
+    "objectId" : "file_2044416",
+    "name" : "https://archive.org/details/loslenguajeshab00goog",
+    "creationDate" : "2014-07-24T08:11:28.500+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-00AC-8",
+    "content" : "https://archive.org/details/loslenguajeshab00goog",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1409607f27cb73c9ff468db5a3e16250",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/loslenguajeshab00goog",
+      "contentCategory" : "publisher-version",
+      "description" : "archive.org, Collection Americana",
+      "size" : 0
+    }
+  } ]
+}

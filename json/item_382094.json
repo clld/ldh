@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_382094",
+  "versionNumber" : 6,
+  "modificationDate" : "2011-06-21T08:42:42.209+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-67FD-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-21T08:42:42.209+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-67FD-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-03-05T20:53:45.999+0000",
+  "latestRelease" : {
+    "objectId" : "item_382094",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-06-21T08:42:42.209+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-67FD-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_382094",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-06-21T08:42:42.209+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-67FD-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "Linglit Import 3 2010-03-05 17:04" ],
+  "metadata" : {
+    "title" : "Estudio morfológico e sintático da língua Mundurukú (Tupí)",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Gomes, Dioney Moreira",
+        "givenName" : "Dioney Moreira",
+        "familyName" : "Gomes",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35623",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "freeKeywords" : "LoC Subject Headings: Munduruku language",
+    "subjects" : [ {
+      "value" : "myu - Mundurukú",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XIX, 265, 14-38 S.",
+    "abstracts" : [ {
+      "value" : "PM6596, ISO-Code : myu, Munduruku language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_382092",
+    "name" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=557",
+    "creationDate" : "2010-03-05T20:53:44.605+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-67FB-5",
+    "content" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=557",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0eb8e8eba299386592d1db0a89e9ac34",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=557",
+      "contentCategory" : "publisher-version",
+      "description" : "Biblioteca Digital de Teses e Dissertações, Universidade de Brasilia",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_382093",
+    "name" : "tupi_gomes2006_s.pdf",
+    "creationDate" : "2010-03-05T20:53:45.703+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-67FC-3",
+    "content" : "/rest/items/item_382094_6/component/file_382093/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ac02b8735b930b3eaf6ce5dac107f845",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2190781,
+    "metadata" : {
+      "title" : "tupi_gomes2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2190781,
+      "copyrightDate" : "2010-02-13",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

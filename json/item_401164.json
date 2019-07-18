@@ -1,0 +1,145 @@
+{
+  "objectId" : "item_401164",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-10T11:58:49.987+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-AE3A-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-10T11:58:49.987+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-71C9-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:06:42.306+0000",
+  "latestRelease" : {
+    "objectId" : "item_401164",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T11:58:49.987+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-AE3A-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401164",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T11:58:49.987+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-AE3A-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Measuring dialect pronunciation differences using Levenshtein distance",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Wilbert Jan",
+        "familyName" : "Heeringa",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "25244",
+      "type" : "OTHER"
+    }, {
+      "id" : "levenshtein_heeringa2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Groningen",
+      "publisher" : "Rijksuniv."
+    },
+    "sources" : [ {
+      "title" : "Groningen Dissertations in Linguistics",
+      "volume" : "46",
+      "identifiers" : [ {
+        "id" : "0928-0030",
+        "type" : "ISSN"
+      } ],
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P367, LoC Subject Headings: Dialectology, LoC Subject Headings: Language and languages--Variation, LoC Subject Headings: Norwegian language, LoC Subject Headings: Dutch language",
+    "subjects" : [ {
+      "value" : "nld - Dutch",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "nor - Norwegian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vii, 315 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401163",
+    "name" : "levenshtein_heeringa2004_s.pdf",
+    "creationDate" : "2010-04-01T11:06:40.074+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-71C8-6",
+    "content" : "/rest/items/item_401164_4/component/file_401163/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fa8190eb0cbcfc9bc524eebfae7129cd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 23691533,
+    "metadata" : {
+      "title" : "levenshtein_heeringa2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 23691533
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2134730",
+    "name" : "http://irs.ub.rug.nl/ppn/258438452",
+    "creationDate" : "2015-04-10T11:58:15.129+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://irs.ub.rug.nl/ppn/258438452",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c5c860b0aa014341388175f712cf6d84",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://irs.ub.rug.nl/ppn/258438452",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Groningen, Research Database, Publications, pdfs download",
+      "size" : 0
+    }
+  } ]
+}

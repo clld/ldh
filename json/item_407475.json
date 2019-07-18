@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_407475",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T22:27:34.990+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70A4-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T22:27:34.990+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9666-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:13:51.552+0000",
+  "latestRelease" : {
+    "objectId" : "item_407475",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T22:27:34.990+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70A4-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407475",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T22:27:34.990+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70A4-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Modo, extensao temporal, tempo verbal e relevancia contrastiva na lingua terena",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Butler, Nancy Evelyn",
+        "givenName" : "Nancy Evelyn",
+        "familyName" : "Butler",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1978",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "39013",
+      "type" : "OTHER"
+    }, {
+      "id" : "terena_butler2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Brasilia, DF",
+      "publisher" : "SIL"
+    },
+    "sources" : [ {
+      "title" : "Ensaios lingüísticos",
+      "volume" : "01",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM7117, LoC Subject Headings: Terena language --Verb, LoC Subject Headings: Terena language --Temporal clauses",
+    "subjects" : [ {
+      "value" : "ter - Tereno",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "76 p."
+  },
+  "files" : [ {
+    "objectId" : "file_407473",
+    "name" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "creationDate" : "2010-04-01T14:13:51.001+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9530a75a4c45ff6625118b724949a812",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407474",
+    "name" : "terena_butler2007_s.pdf",
+    "creationDate" : "2010-04-01T14:13:51.454+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9665-9",
+    "content" : "/rest/items/item_407475_3/component/file_407474/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6aea549fa1c4e23425710ae5d14619f9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 253120,
+    "metadata" : {
+      "title" : "terena_butler2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 253120
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

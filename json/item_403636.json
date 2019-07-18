@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_403636",
+  "versionNumber" : 6,
+  "modificationDate" : "2011-05-31T09:50:59.986+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-80BC-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:50:59.986+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-80BC-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:21:07.535+0000",
+  "latestRelease" : {
+    "objectId" : "item_403636",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T09:50:59.986+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-80BC-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403636",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T09:50:59.986+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-80BC-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Breve compendio de gramatica Iloco-Castellana",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Gabriel",
+        "familyName" : "Vibo y Inderias",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1920",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31456",
+      "type" : "OTHER"
+    }, {
+      "id" : "ilocano_inderias1920.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Manila",
+      "publisher" : "Tip. Pontificia del Col. de Sto. Tomás"
+    },
+    "freeKeywords" : "LoC Subject Headings: Iloko language",
+    "subjects" : [ {
+      "value" : "ilo - Ilocano",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "79 S.",
+    "abstracts" : [ {
+      "value" : "PL5752, ISO 639-3 : ilo, Iloko language--Textbooks for foreign speakers--Spanish, Iloko language--Grammar, Spanish language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403634",
+    "name" : "http://www.cs.chalmers.se/~harald2/grammars/iloco.zip",
+    "creationDate" : "2010-04-01T12:21:06.600+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-80BA-D",
+    "content" : "http://www.cs.chalmers.se/~harald2/grammars/iloco.zip",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "697bec75e838ae6b08431f761afc12fc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.cs.chalmers.se/~harald2/grammars/iloco.zip",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403635",
+    "name" : "ilocano_inderias1920.pdf",
+    "creationDate" : "2010-04-01T12:21:06.791+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-80BB-B",
+    "content" : "/rest/items/item_403636_6/component/file_403635/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8c79a15ccda653b4bc9661ae48a84023",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6348204,
+    "metadata" : {
+      "title" : "ilocano_inderias1920.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6348204,
+      "copyrightDate" : "2010-11-16",
+      "rights" : "public domain, Gabriel Vibo y Inderias"
+    }
+  } ]
+}

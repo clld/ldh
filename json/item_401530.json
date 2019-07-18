@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_401530",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-17T12:21:47.969+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-78C3-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-17T12:21:47.969+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-73D3-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:13:42.358+0000",
+  "latestRelease" : {
+    "objectId" : "item_401530",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-17T12:21:47.969+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-78C3-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401530",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-17T12:21:47.969+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-78C3-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulário básico Apalaí-Português: Dicionário da língua Apalaí",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Edward Henry",
+        "familyName" : "Koehn",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Sally Sharp",
+        "familyName" : "Koehn"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1995",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "27057",
+      "type" : "OTHER"
+    }, {
+      "id" : "apalai_koehn1995_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por", "apy" ],
+    "publishingInfo" : {
+      "edition" : "primeira ed.",
+      "place" : "Brasília",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PM5431.Z5, LoC Subject Headings: Apalai language",
+    "subjects" : [ {
+      "value" : "apy - Apalaí",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "iv, 130 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5431.Z5, LoC Subject Headings: Apalai language --Dictionaries --Portuguese, LoC Subject Headings: Portuguese language --Dictionaries --Apalai"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401529",
+    "name" : "apalai_koehn1995_s.pdf",
+    "creationDate" : "2010-04-01T11:13:42.195+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-73D2-D",
+    "content" : "/rest/items/item_401530_4/component/file_401529/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2da3fc6e9d90c0ae16e563d8c9e9d6e7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 686167,
+    "metadata" : {
+      "title" : "apalai_koehn1995_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 686167
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116590",
+    "name" : "http://www.sil.org/resources/archives/16984",
+    "creationDate" : "2015-03-17T12:21:11.310+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/16984",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a72cb63b704e9e7c842fd6903fbddebb",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/16984",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Archives, link to pdf download",
+      "size" : 0
+    }
+  } ]
+}

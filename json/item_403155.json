@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_403155",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T19:27:34.424+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F42-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:27:34.424+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D6E-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:59:15.091+0000",
+  "latestRelease" : {
+    "objectId" : "item_403155",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T19:27:34.424+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F42-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403155",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T19:27:34.424+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F42-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Multiple feature-checking : a theory of grammatical function splitting",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Ura, Hiroyuki",
+        "givenName" : "Hiroyuki",
+        "familyName" : "Ura",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1996",
+    "datePublishedInPrint" : "1996",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31049",
+      "type" : "OTHER"
+    }, {
+      "id" : "featurechecking_ura1996_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cambridge",
+      "publisher" : " Massachussets Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P158.28, LoC Subject Headings: Minimalist theory (Linguistics), LoC Subject Headings: Generative grammar",
+    "totalNumberOfPages" : "477 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403153",
+    "name" : "http://www.ai.mit.edu/projects/dm/theses/ura96.pdf",
+    "creationDate" : "2010-04-01T11:58:53.403+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.ai.mit.edu/projects/dm/theses/ura96.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f8375319a37552975de9c4b3a99316a3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ai.mit.edu/projects/dm/theses/ura96.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403154",
+    "name" : "featurechecking_ura1996_o.pdf",
+    "creationDate" : "2010-04-01T11:59:13.106+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D6D-0",
+    "content" : "/rest/items/item_403155_3/component/file_403154/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "96e3d91d4c72de22e45eeeb94ad24bb5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 20999630,
+    "metadata" : {
+      "title" : "featurechecking_ura1996_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 20999630
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,147 @@
+{
+  "objectId" : "item_407535",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:12:59.182+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-96B6-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:12:59.182+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-96B6-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:14:20.282+0000",
+  "latestRelease" : {
+    "objectId" : "item_407535",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:12:59.182+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-96B6-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407535",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:12:59.182+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-96B6-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Descriçao preliminar de oraçoes wajapi",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Olson, Gary",
+        "givenName" : "Gary",
+        "familyName" : "Olson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Duse Abreu",
+        "familyName" : "Moura"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1978",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "39144",
+      "type" : "OTHER"
+    }, {
+      "id" : "wajapi2_olson1978_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Brasilia",
+      "publisher" : "SIL"
+    },
+    "sources" : [ {
+      "title" : "Ensaios lingüísticos",
+      "volume" : "03",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM7173 .O52 1978,\nLoC Subject Headings: Tupi language --Sentences",
+    "subjects" : [ {
+      "value" : "oym - Wayampi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "31 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407533",
+    "name" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "creationDate" : "2010-04-01T14:14:19.682+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-96B4-6",
+    "content" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c9461039d010116eaeca40f82b42a28c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407534",
+    "name" : "wajapi2_olson1978_s.pdf",
+    "creationDate" : "2010-04-01T14:14:20.147+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-96B5-4",
+    "content" : "/rest/items/item_407535_2/component/file_407534/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "85140fb2d5a09b291a90523ed4fc8d33",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 443937,
+    "metadata" : {
+      "title" : "wajapi2_olson1978_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 443937
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

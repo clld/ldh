@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_404078",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-12-23T11:48:06.270+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-6061-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-23T11:48:06.270+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8372-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:34:11.158+0000",
+  "latestRelease" : {
+    "objectId" : "item_404078",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-12-23T11:48:06.270+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-6061-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404078",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-12-23T11:48:06.270+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-6061-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "An elementary grammar with full syllabary and progressive reading book, of the Assyrian language in the cuneiform type",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Archibald Henry",
+        "familyName" : "Sayce",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1875",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "32220",
+      "type" : "OTHER"
+    }, {
+      "id" : "assyrian_sayce1875_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "London",
+      "publisher" : "Bagster"
+    },
+    "sources" : [ {
+      "title" : "Archaic classics",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PJ3251,\nLoC Subject Headings: Akkadian language",
+    "subjects" : [ {
+      "value" : "akk - Akkadian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vi, 129 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PJ3251,\nLoC Subject Headings: Akkadian language--Grammar, Akkadian language--Readers"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404076",
+    "name" : "http://www.archive.org/details/elementarygramma00saycrich",
+    "creationDate" : "2010-04-01T12:34:09.412+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.archive.org/details/elementarygramma00saycrich",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "33e0eb445c8135e74bc01cbadcb3a908",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/elementarygramma00saycrich",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, California Digital Library, view online & pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404077",
+    "name" : "assyrian_sayce1875_o.pdf",
+    "creationDate" : "2010-04-01T12:34:10.624+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8371-8",
+    "content" : "/rest/items/item_404078_4/component/file_404077/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8665f19465823b309fb52bca59774e1b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5043376,
+    "metadata" : {
+      "title" : "assyrian_sayce1875_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5043376,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

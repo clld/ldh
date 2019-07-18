@@ -1,0 +1,113 @@
+{
+  "objectId" : "item_403535",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-06-06T07:47:53.856+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7FE9-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:47:53.856+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7FE9-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:24.956+0000",
+  "latestRelease" : {
+    "objectId" : "item_403535",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-06-06T07:47:53.856+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7FE9-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403535",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-06-06T07:47:53.856+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7FE9-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Esquisse phonologique du Mvae",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Berthe",
+        "familyName" : "Meguedo",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1991",
+    "datePublishedInPrint" : "1991",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31376",
+      "type" : "OTHER"
+    }, {
+      "id" : "mvae_meguedo1991_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé"
+    },
+    "totalNumberOfPages" : "V, 111 S.",
+    "abstracts" : [ {
+      "value" : "PL8167.F3, ISO 639-3 : fan , Fang language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403534",
+    "name" : "mvae_meguedo1991_o.pdf",
+    "creationDate" : "2010-04-01T12:19:24.283+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7FE8-E",
+    "content" : "/rest/items/item_403535_4/component/file_403534/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a95e78623b2bfd11230680e0a17974d4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5916332,
+    "metadata" : {
+      "title" : "mvae_meguedo1991_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5916332,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

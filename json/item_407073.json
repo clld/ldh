@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_407073",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:36:19.635+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-943C-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:36:19.635+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-943C-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:53:44.943+0000",
+  "latestRelease" : {
+    "objectId" : "item_407073",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:36:19.635+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-943C-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407073",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:36:19.635+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-943C-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "kâ-yôskâtahk ôma nêhiyawêwin : the representation of intentionality in Plains Cree",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Mühlbauer, Jeffrey Thomas",
+        "givenName" : "Jeffrey Thomas",
+        "familyName" : "Mühlbauer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2008",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37626",
+      "type" : "OTHER"
+    }, {
+      "id" : "plainscree_muehlbauer2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Vancouver",
+      "publisher" : " Univ. of British Columbia"
+    },
+    "freeKeywords" : "LoC Class: PM987,\nLoC Subject Headings: Cree language",
+    "subjects" : [ {
+      "value" : "crk - Plains Cree",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xv, 391 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407071",
+    "name" : "https://circle.ubc.ca//handle/2429/940",
+    "creationDate" : "2010-04-01T13:53:42.980+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-943A-C",
+    "content" : "https://circle.ubc.ca//handle/2429/940",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4f128b099b28b6e4018e9bcde121144a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://circle.ubc.ca//handle/2429/940",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407072",
+    "name" : "plainscree_muehlbauer2008_s.pdf",
+    "creationDate" : "2010-04-01T13:53:44.348+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-943B-A",
+    "content" : "/rest/items/item_407073_2/component/file_407072/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9f8678490ff9a8cc8942a64d0d2c02b7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5759697,
+    "metadata" : {
+      "title" : "plainscree_muehlbauer2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5759697
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

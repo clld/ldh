@@ -1,0 +1,154 @@
+{
+  "objectId" : "item_402262",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:04:30.483+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-782E-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:04:30.483+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-782E-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:29:19.176+0000",
+  "latestRelease" : {
+    "objectId" : "item_402262",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:04:30.483+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-782E-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402262",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:04:30.483+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-782E-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Rana acha'taka ijnachale kana chamekolo",
+    "alternativeTitles" : [ { } ],
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Stephen",
+        "familyName" : "Parker",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Gregorio",
+        "familyName" : "Orbe Caro"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Alfonso",
+        "familyName" : "Patow Chota"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1987",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29502",
+      "type" : "OTHER"
+    }, {
+      "id" : "chamicuro_parker1987_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Lima",
+      "publisher" : "Inst. lingüistico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Comunidades y culturas Peruanas",
+      "volume" : "21",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5805.Z5,\nLoC Subject Headings: Chamicuro language",
+    "subjects" : [ {
+      "value" : "ccc - Chamicuro",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "69 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402260",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=505",
+    "creationDate" : "2010-04-01T11:29:18.089+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-782C-A",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=505",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3b8277317836902da37113e44d0687f3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=505",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402261",
+    "name" : "chamicuro_parker1987_o.pdf",
+    "creationDate" : "2010-04-01T11:29:18.900+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-782D-8",
+    "content" : "/rest/items/item_402262_2/component/file_402261/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a9575a343c38dcf890f44be2cbf8d964",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2032126,
+    "metadata" : {
+      "title" : "chamicuro_parker1987_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2032126
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

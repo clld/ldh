@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_406765",
+  "versionNumber" : 6,
+  "modificationDate" : "2011-05-31T09:58:14.555+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-926B-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:58:14.555+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-926B-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:47:11.321+0000",
+  "latestRelease" : {
+    "objectId" : "item_406765",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T09:58:14.555+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-926B-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406765",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T09:58:14.555+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-926B-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of the dialect of Windhill, in the West Riding of Yorkshire",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Joseph",
+        "familyName" : "Wright",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1892",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37429",
+      "type" : "OTHER"
+    }, {
+      "id" : "windhill_wright1892_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "London",
+      "publisher" : "Pub. for the English dialect society by K.Paul, Trench, Trübner & co."
+    },
+    "sources" : [ {
+      "title" : "English dialect society. Series C. Original glossaries. [Publications]",
+      "volume" : "67",
+      "genre" : "SERIES"
+    } ],
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 255, [1] S.",
+    "abstracts" : [ {
+      "value" : "PE1701 .E58, ISO 639-3 : ?, English language --Dialects --Windhill"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406763",
+    "name" : "http://www.cs.chalmers.se/~harald2/grammars/english_windhill.zip",
+    "creationDate" : "2010-04-01T13:47:08.375+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9269-0",
+    "content" : "http://www.cs.chalmers.se/~harald2/grammars/english_windhill.zip",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "697bec75e838ae6b08431f761afc12fc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.cs.chalmers.se/~harald2/grammars/english_windhill.zip",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406764",
+    "name" : "windhill_wright1892_o.pdf",
+    "creationDate" : "2010-04-01T13:47:08.589+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-926A-E",
+    "content" : "/rest/items/item_406765_6/component/file_406764/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0ff02c579583c5ddbb1af9309b9d723e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 29217873,
+    "metadata" : {
+      "title" : "windhill_wright1892_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 29217873,
+      "copyrightDate" : "2010-11-16",
+      "rights" : "public domain. Joseph Wright 1855-1930"
+    }
+  } ]
+}

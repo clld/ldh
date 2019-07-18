@@ -1,0 +1,151 @@
+{
+  "objectId" : "item_877672",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-13T01:47:27.681+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-722E-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:47:27.681+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0011-5563-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2011-04-28T11:27:17.980+0000",
+  "latestRelease" : {
+    "objectId" : "item_877672",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T01:47:27.681+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-722E-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_877672",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T01:47:27.681+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-722E-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Über das Indoportugiesische von Cochim",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Hugo",
+        "familyName" : "Schuchardt",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1883",
+    "genre" : "CONTRIBUTION_TO_COLLECTED_EDITION",
+    "identifiers" : [ {
+      "id" : "36887",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "sources" : [ {
+      "title" : "Sitzungsberichte der Akademie der Wissenschaften in Wien : Philosophisch-Historische Klasse",
+      "creators" : [ {
+        "organization" : {
+          "identifier" : "ou_persistent22",
+          "name" : "Akademie der Wissenschaften <Wien> / Philosophisch-Historische Klasse",
+          "identifierPath" : [ "ou_persistent22" ]
+        },
+        "role" : "EDITOR",
+        "type" : "ORGANIZATION"
+      } ],
+      "volume" : "102,28",
+      "startPage" : "797",
+      "endPage" : "816",
+      "publishingInfo" : {
+        "place" : "Wien",
+        "publisher" : "Rohrer"
+      },
+      "identifiers" : [ {
+        "id" : "1012-487X",
+        "type" : "ISSN"
+      }, {
+        "id" : "211453-7",
+        "type" : "ZDB"
+      } ],
+      "genre" : "SERIES"
+    }, {
+      "title" : "Kreolische Studien",
+      "creators" : [ {
+        "person" : {
+          "givenName" : "Hugo",
+          "familyName" : "Schuchardt",
+          "organizations" : [ {
+            "identifier" : "ou_persistent22",
+            "name" : "External Organizations",
+            "identifierPath" : [ "ou_persistent22" ]
+          } ]
+        },
+        "role" : "AUTHOR",
+        "type" : "PERSON"
+      } ],
+      "volume" : "2",
+      "publishingInfo" : {
+        "place" : "Wien",
+        "publisher" : "Tempsky"
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Creole Dialects, LoC Subject Headings: Portuguese--India",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM7831"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_877671",
+    "name" : "indoportugiesische_schuchardt1882.pdf",
+    "creationDate" : "2011-04-28T11:27:17.842+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0011-5562-6",
+    "content" : "/rest/items/item_877672_5/component/file_877671/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "851f300ad2ea79d3678e723c83a95ed6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1984027,
+    "metadata" : {
+      "title" : "indoportugiesische_schuchardt1882.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1984027
+    }
+  } ]
+}

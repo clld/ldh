@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_403925",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-13T01:26:22.747+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7202-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:26:22.747+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8295-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:29:37.154+0000",
+  "latestRelease" : {
+    "objectId" : "item_403925",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T01:26:22.747+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7202-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403925",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T01:26:22.747+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7202-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Native languages : a support document for the teaching of language patterns ; Ojibwe and Cree",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Lickers, Keith",
+        "givenName" : "Keith",
+        "familyName" : "Lickers",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "organization" : {
+        "name" : "Ontario. Ministry of Education"
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "2002",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "32062",
+      "type" : "OTHER"
+    }, {
+      "id" : "ojibwe_lickers2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Toronto",
+      "publisher" : "Ministry of Education"
+    },
+    "freeKeywords" : "LoC Class: PM854, LoC Subject Headings: Native language and education -- Ontario, LoC Subject Headings: Ojibwa language -- Study and teaching -- Ontario, LoC Subject Headings: Cree language",
+    "subjects" : [ {
+      "value" : "ojc - Central Ojibwa",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "crk - Plains Cree",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403923",
+    "name" : "http://www.edu.gov.on.ca/eng/document/curricul/ojibwe.pdf",
+    "creationDate" : "2010-04-01T12:29:17.965+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.edu.gov.on.ca/eng/document/curricul/ojibwe.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "32c3d7889e5e2485efe309561fc74e3b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.edu.gov.on.ca/eng/document/curricul/ojibwe.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403924",
+    "name" : "ojibwe_lickers2002_s.pdf",
+    "creationDate" : "2010-04-01T12:29:36.967+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8294-2",
+    "content" : "/rest/items/item_403925_3/component/file_403924/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2424af055eab2cf306f8e64008ecb86c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1400470,
+    "metadata" : {
+      "title" : "ojibwe_lickers2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1400470
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

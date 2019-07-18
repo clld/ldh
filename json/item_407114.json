@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_407114",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-10T11:38:13.952+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0BC4-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-10T11:38:13.952+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-946D-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:54:46.275+0000",
+  "latestRelease" : {
+    "objectId" : "item_407114",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T11:38:13.952+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0BC4-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407114",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T11:38:13.952+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0BC4-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Language contact and language comparison : the case of Bai",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Feng",
+        "familyName" : "Wang",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37732",
+      "type" : "OTHER"
+    }, {
+      "id" : "bai_wang2004_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Hong Kong",
+      "publisher" : "City Univ."
+    },
+    "freeKeywords" : "LoC Class: PL4001.B16, LoC Subject Headings: Bai language (China)",
+    "totalNumberOfPages" : "xviii, 265 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL4001.B16, LoC Subject Headings: Bai language (China)--Grammar, Comparative--Chinese, Chinese language--Grammar, Comparative--Bai"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407112",
+    "name" : "http://lib.cityu.edu.hk/record=b1871651",
+    "creationDate" : "2010-04-01T13:54:44.384+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://lib.cityu.edu.hk/record=b1871651",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ddee4abec6ef4d8e5a97e605b458e920",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://lib.cityu.edu.hk/record=b1871651",
+      "contentCategory" : "publisher-version",
+      "description" : "City Uni. of Hong Kong, Run Run Shaw Library, access full text, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407113",
+    "name" : "bai_wang2004_o.pdf",
+    "creationDate" : "2010-04-01T13:54:45.297+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-946C-B",
+    "content" : "/rest/items/item_407114_3/component/file_407113/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "04c24c37ea2b4f72cbb8d74527a55591",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9848454,
+    "metadata" : {
+      "title" : "bai_wang2004_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9848454
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_400673",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-17T11:49:30.474+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-78A9-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-17T11:49:30.474+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6ED7-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:56:59.663+0000",
+  "latestRelease" : {
+    "objectId" : "item_400673",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-17T11:49:30.474+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-78A9-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400673",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-17T11:49:30.474+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-78A9-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gramática del idioma yanesha' (amuesha)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Martha",
+        "familyName" : "Duff-Tripp",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1997",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "23916",
+      "type" : "OTHER"
+    }, {
+      "id" : "amuesha_dufftripp1997_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1a ed.",
+      "place" : "Lima, Perú",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística Peruana",
+      "volume" : "43",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5415, LoC Subject Headings: Amuesha language",
+    "subjects" : [ {
+      "value" : "ame - Yanesha'",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "283 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5415,\nLoC Subject Headings: Amuesha language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400672",
+    "name" : "amuesha_dufftripp1997_o.pdf",
+    "creationDate" : "2010-04-01T10:56:58.627+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6ED6-C",
+    "content" : "/rest/items/item_400673_3/component/file_400672/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e37c88decda15a7aa9ed21833db1a650",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10564110,
+    "metadata" : {
+      "title" : "amuesha_dufftripp1997_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10564110
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116563",
+    "name" : "http://www.peru.sil.org/resources/archives/29664",
+    "creationDate" : "2015-03-17T11:39:23.236+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/29664",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3d0e1e937916e19d71759c27bf7be581",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/29664",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

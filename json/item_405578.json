@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_405578",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-18T08:22:31.529+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-79E4-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter angepasst",
+  "lastModificationDate" : "2015-03-18T08:22:31.529+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8BE5-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:15:44.280+0000",
+  "latestRelease" : {
+    "objectId" : "item_405578",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-18T08:22:31.529+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-79E4-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405578",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-18T08:22:31.529+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-79E4-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Tunisian Arabic",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Rached",
+        "familyName" : "Ben Abdelkader",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1988",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "35056",
+      "type" : "OTHER"
+    }, {
+      "id" : "tunisian_benabdelkader1988_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng", "ara" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N.A.",
+      "publisher" : "Peace Corps (Thailand)"
+    },
+    "freeKeywords" : "LoC Class: PJ6770.T8, LoC Subject Headings: Arabic language",
+    "subjects" : [ {
+      "value" : "aeb - Tunisian Arabic",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "IV, 207 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PJ6770.T8,\nLoC Subject Headings: Arabic language--Dialects--Tunisia //\nA brief narrative description of the journal article, document, or resource.\tThis instructional guide for Tunisian Arabic is designed to be used in language training of Peace Corps volunteers in Tunisia. It consists of 15 thematic units focusing on daily living skills and activities. Each contains a brief dialogue in transliterated Arabic, an English translation, lists of vocabulary and expressions, comprehension questions, additional useful vocabulary, grammar notes, vocabulary and grammar exercises, communication activities, and script writing exercises. Unit topics include: greetings; money; giving and getting directions; weather and seasons; drinks; post office; making a presentation; time; making a visit; grocery shopping; vegetables; the bus station; meals and entertaining; and the family. (MSE)"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405577",
+    "name" : "tunisian_benabdelkader1988_o.pdf",
+    "creationDate" : "2010-04-01T13:15:43.783+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8BE4-4",
+    "content" : "/rest/items/item_405578_4/component/file_405577/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1d855d84352796f82c4828455aa38af4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4745546,
+    "metadata" : {
+      "title" : "tunisian_benabdelkader1988_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4745546
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116675",
+    "name" : "http://eric.ed.gov/?id=ED401742",
+    "creationDate" : "2015-03-18T08:21:54.330+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://eric.ed.gov/?id=ED401742",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4ffcaff1a72768ed4529147023d56958",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eric.ed.gov/?id=ED401742",
+      "contentCategory" : "publisher-version",
+      "description" : "Education Resources Information Center (ERIC), pdf download",
+      "size" : 0
+    }
+  } ]
+}

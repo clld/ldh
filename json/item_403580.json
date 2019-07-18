@@ -1,0 +1,117 @@
+{
+  "objectId" : "item_403580",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-06-06T07:37:53.849+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8048-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:37:53.849+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8048-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:56.187+0000",
+  "latestRelease" : {
+    "objectId" : "item_403580",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:37:53.849+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8048-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403580",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:37:53.849+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8048-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Yamba : a morphosyntactic study of the basic sentence",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Nzenge Lucia",
+        "familyName" : "Nassuna ",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2001",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31415",
+      "type" : "OTHER"
+    }, {
+      "id" : "yamba_nassuna2001_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Yamba language",
+    "subjects" : [ {
+      "value" : "yam - Yamba",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vi, 87 S.",
+    "abstracts" : [ {
+      "value" : "PL8800.Y35, ISO 639-3 : yam, Yamba language (Cameroon and Nigeria)"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403579",
+    "name" : "yamba_nassuna2001_o.pdf",
+    "creationDate" : "2010-04-01T12:19:55.866+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8047-2",
+    "content" : "/rest/items/item_403580_3/component/file_403579/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1922482e80416e904a60f853b91060c9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2689465,
+    "metadata" : {
+      "title" : "yamba_nassuna2001_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "with permission from Université de Yaounde I ",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2689465,
+      "copyrightDate" : "2005-11-29"
+    }
+  } ]
+}

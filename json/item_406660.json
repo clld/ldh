@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_406660",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T21:02:31.563+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7009-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:02:31.563+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-91DA-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:45:43.340+0000",
+  "latestRelease" : {
+    "objectId" : "item_406660",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T21:02:31.563+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7009-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406660",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T21:02:31.563+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7009-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dictionnaire karang - français",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Ulfers, Robert Ernst",
+        "givenName" : "Robert Ernst",
+        "familyName" : "Ulfers",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "organization" : {
+        "name" : "Yaounde / Ministère de la Recherche\n              Scientifique et de l'Innovation"
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "2007",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37372",
+      "type" : "OTHER"
+    }, {
+      "id" : "karang_ulfers2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yaounde",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PL8021.C35, LoC Subject Headings: Karang language (Cameroon), LoC Subject Headings: Cameroon--Languages",
+    "subjects" : [ {
+      "value" : "kzr - Karang",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "149 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406658",
+    "name" : "http://www.silinternational.com/africa/cameroun/bydomain/linguistics/dictionaries/Karang%20Dictionary%20Internet%202",
+    "creationDate" : "2010-04-01T13:45:42.490+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-91D8-4",
+    "content" : "http://www.silinternational.com/africa/cameroun/bydomain/linguistics/dictionaries/Karang%20Dictionary%20Internet%202",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.silinternational.com/africa/cameroun/bydomain/linguistics/dictionaries/Karang%20Dictionary%20Internet%202",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406659",
+    "name" : "karang_ulfers2008_s.pdf",
+    "creationDate" : "2010-04-01T13:45:43.158+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-91D9-2",
+    "content" : "/rest/items/item_406660_3/component/file_406659/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a61ffbd6df65a648477f2dad862c4cdd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1248847,
+    "metadata" : {
+      "title" : "karang_ulfers2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1248847
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

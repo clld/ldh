@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_403190",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-19T07:08:36.044+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-D093-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-05-19T07:08:36.044+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7DA3-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:03:12.349+0000",
+  "latestRelease" : {
+    "objectId" : "item_403190",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-19T07:08:36.044+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D093-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403190",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-19T07:08:36.044+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D093-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Propositional attitudes and indexicality : a cross categorial approach",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Philippe",
+        "familyName" : "Schlenker",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1999",
+    "datePublishedInPrint" : "1999",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31069",
+      "type" : "OTHER"
+    }, {
+      "id" : "indexicality_schlenker1999_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge, Mass.",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P106, LoC Subject Headings: Language and languages--Philosophy",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "210 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403189",
+    "name" : "indexicality_schlenker1999_o.pdf",
+    "creationDate" : "2010-04-01T12:03:10.726+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7DA2-7",
+    "content" : "/rest/items/item_403190_4/component/file_403189/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "48240b8569bec35d9d96cc72c2d3e822",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 16690162,
+    "metadata" : {
+      "title" : "indexicality_schlenker1999_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 16690162
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2156049",
+    "name" : "http://hdl.handle.net/1721.1/9353",
+    "creationDate" : "2015-05-19T07:07:36.423+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/9353",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9515d9cb20c92dd7e7fd1ce3f8b98104",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/9353",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

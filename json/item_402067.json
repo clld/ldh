@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_402067",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-06-18T10:45:35.193+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-BFA3-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-06-18T10:45:35.193+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-76F4-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:25:22.245+0000",
+  "latestRelease" : {
+    "objectId" : "item_402067",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-18T10:45:35.193+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-BFA3-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402067",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-18T10:45:35.193+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-BFA3-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Particle patterns in English : a comprehensive coverage",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Bert",
+        "familyName" : "Cappelle",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29072",
+      "type" : "OTHER"
+    }, {
+      "id" : "english_cappelle2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Leuven",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PE1072,\nLoC Subject Headings: English language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XXIV, 500 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402066",
+    "name" : "english_cappelle2005_s.pdf",
+    "creationDate" : "2010-04-01T11:25:21.895+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-76F3-7",
+    "content" : "/rest/items/item_402067_3/component/file_402066/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5341e69c9336625bd3fa2864a86e9a82",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3124251,
+    "metadata" : {
+      "title" : "english_cappelle2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3124251
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2033893",
+    "name" : "https://lirias.kuleuven.be/handle/1979/51",
+    "creationDate" : "2014-06-18T10:39:14.416+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-BFA6-8",
+    "content" : "https://lirias.kuleuven.be/handle/1979/51",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c3970b28726593d74d9240faaa1aad3d",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://lirias.kuleuven.be/handle/1979/51",
+      "contentCategory" : "publisher-version",
+      "description" : "KU Leuven, digital repository Lirias, pdf",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_407025",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-03T11:27:44.610+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-024A-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-03T11:27:44.610+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-93F8-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:52:46.161+0000",
+  "latestRelease" : {
+    "objectId" : "item_407025",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-03T11:27:44.610+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-024A-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407025",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-03T11:27:44.610+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-024A-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Morfologia Kuikuro : gerando nomes e verbos",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Gélsama Mara Ferreira dos",
+        "familyName" : "Santos",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37608",
+      "type" : "OTHER"
+    }, {
+      "id" : "kuikuro_santos2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "place" : "Rio de Janeiro",
+      "publisher" : "Univ. Federal"
+    },
+    "freeKeywords" : "LoC Class: F2520.1.K85, LoC Subject Headings: Kuikuru Indians--Language, LoC Subject Headings: Apalakiri Indians--Language",
+    "subjects" : [ {
+      "value" : "kui - Kuikúro-Kalapálo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "303 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407024",
+    "name" : "kuikuro_santos2007_s.pdf",
+    "creationDate" : "2010-04-01T13:52:45.904+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-93F7-8",
+    "content" : "/rest/items/item_407025_5/component/file_407024/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6080d855a1d118cd469bdd346d9fd4f8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2211727,
+    "metadata" : {
+      "title" : "kuikuro_santos2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2211727
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2048251",
+    "name" : "http://www.etnolinguistica.org/tese:santos-2007",
+    "creationDate" : "2014-08-05T09:31:10.057+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.etnolinguistica.org/tese:santos-2007",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6c1fa08889079207f9d1cb1c51020043",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.etnolinguistica.org/tese:santos-2007",
+      "contentCategory" : "any-fulltext",
+      "description" : "Etnolingüística.org, pdf",
+      "size" : 0
+    }
+  } ]
+}

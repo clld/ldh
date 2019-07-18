@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403491",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-06-06T07:32:03.591+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7F8B-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:32:03.591+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7F8B-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:56.802+0000",
+  "latestRelease" : {
+    "objectId" : "item_403491",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:32:03.591+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F8B-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403491",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:32:03.591+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F8B-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A study of the phonological and syntactic processes in the standardisation of Limbum",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Samuel Tabah",
+        "familyName" : "Nforgwei",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31313",
+      "type" : "OTHER"
+    }, {
+      "id" : "limbum_bah2004_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Limbum language",
+    "subjects" : [ {
+      "value" : "lmp - Limbum",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xvi, 419 S.",
+    "abstracts" : [ {
+      "value" : "PN6519.L56, ISO 639-3 : lmp, Limbum language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403490",
+    "name" : "limbum_bah2004_o.pdf",
+    "creationDate" : "2010-04-01T12:18:55.355+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7F8A-4",
+    "content" : "/rest/items/item_403491_3/component/file_403490/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6104ed4200764fde2a562b40d1806150",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 15088341,
+    "metadata" : {
+      "title" : "limbum_bah2004_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 15088341,
+      "copyrightDate" : "2010-06-23",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

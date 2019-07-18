@@ -1,0 +1,147 @@
+{
+  "objectId" : "item_400548",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-18T09:49:04.182+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7A29-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-18T09:49:04.182+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6E15-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:54:20.233+0000",
+  "latestRelease" : {
+    "objectId" : "item_400548",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T09:49:04.182+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A29-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400548",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T09:49:04.182+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A29-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Theoretical aspects of Bantu tone",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Larry M.",
+        "familyName" : "Hyman",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Charles",
+        "familyName" : "Kisseberth"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1998",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "21937",
+      "type" : "OTHER"
+    }, {
+      "id" : "bantu_hyman1998_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "1-57586-095-3",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Stanford, Calif.",
+      "publisher" : "CSLI"
+    },
+    "sources" : [ {
+      "title" : "CSLI lecture notes",
+      "volume" : "82",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL8025.1, LoC Subject Headings: Bantu languages",
+    "totalNumberOfPages" : "x, 366 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8025.1,\nLoC Subject Headings: Bantu languages--Tone"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400546",
+    "name" : "http://sul-derivatives.stanford.edu/derivative?CSNID=00000062&mediaType=application/pdf",
+    "creationDate" : "2010-04-01T10:52:43.329+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://sul-derivatives.stanford.edu/derivative?CSNID=00000062&mediaType=application/pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a56819cd08795d290dae4fc7b0ddedd8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://sul-derivatives.stanford.edu/derivative?CSNID=00000062&mediaType=application/pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400547",
+    "name" : "bantu_hyman1998_s.pdf",
+    "creationDate" : "2010-04-01T10:54:08.828+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6E14-F",
+    "content" : "/rest/items/item_400548_3/component/file_400547/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2f3350ba0ed5da43370c4b6d383f3155",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 121784523,
+    "metadata" : {
+      "title" : "bantu_hyman1998_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 121784523
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

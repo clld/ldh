@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_407195",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-10-02T09:59:22.916+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-5D89-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain",
+  "lastModificationDate" : "2013-10-02T09:59:22.916+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-94E2-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:01:07.625+0000",
+  "latestRelease" : {
+    "objectId" : "item_407195",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-02T09:59:22.916+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5D89-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407195",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-02T09:59:22.916+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5D89-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of the Tulu language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "J.",
+        "familyName" : "Brigel",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1872",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37768",
+      "type" : "OTHER"
+    }, {
+      "id" : "tulu_brigel1872_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Mangalore",
+      "publisher" : "Stolz"
+    },
+    "freeKeywords" : "LoC Subject Headings: Tulu language",
+    "subjects" : [ {
+      "value" : "tcy - Tulu",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "iv, 139, vi S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL4792,\nLoC Subject Headings: Tulu language --Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407193",
+    "name" : "http://www.archive.org/details/grammaroftululan00briguoft",
+    "creationDate" : "2010-04-01T14:01:05.371+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-5D8A-3",
+    "content" : "http://www.archive.org/details/grammaroftululan00briguoft",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "dfe0e0c90521ed6157e977983f4a6d31",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/grammaroftululan00briguoft",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407194",
+    "name" : "tulu_brigel1872_o.pdf",
+    "creationDate" : "2010-04-01T14:01:06.590+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-94E1-0",
+    "content" : "/rest/items/item_407195_3/component/file_407194/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "72c9b31b250aae5018b3ae1be9692007",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10682496,
+    "metadata" : {
+      "title" : "tulu_brigel1872_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10682496
+    }
+  } ]
+}

@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_406509",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-04-28T06:48:29.693+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C290-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-28T06:48:29.693+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9109-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:39:44.620+0000",
+  "latestRelease" : {
+    "objectId" : "item_406509",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-28T06:48:29.693+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C290-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406509",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-28T06:48:29.693+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C290-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Nabaloi tales",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Claude Russell",
+        "familyName" : "Moss",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1924",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "37201",
+      "type" : "OTHER"
+    }, {
+      "id" : "nabaloi_moss1924_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "University of California publications in American archaeology and ethnology",
+      "volume" : "17",
+      "issue" : "5",
+      "startPage" : "227",
+      "endPage" : "353",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: E51, LoC Subject Headings: Ibaloi language, LoC Subject Headings: Igorot (Philippine people)",
+    "subjects" : [ {
+      "value" : "ibl - Ibaloi",
+      "type" : "ISO639_3"
+    } ],
+    "abstracts" : [ {
+      "value" : "LoC Class: E51, LoC Subject Headings: Ibaloi language, Igorot (Philippine people)--Legends"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406508",
+    "name" : "nabaloi_moss1924_o.pdf",
+    "creationDate" : "2010-04-01T13:39:43.345+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9108-7",
+    "content" : "/rest/items/item_406509_5/component/file_406508/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6b39c46f707b2b03294f46f9134e0957",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12904083,
+    "metadata" : {
+      "title" : "nabaloi_moss1924_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12904083
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147090",
+    "name" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=&volume=17&journal=1&item=6",
+    "creationDate" : "2015-04-17T10:49:50.372+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=&volume=17&journal=1&item=6",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0ad6013d78d4756748c9d5ffb7194016",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=&volume=17&journal=1&item=6",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of California, The George and Mary Foster Anthropology Library, pdf download",
+      "size" : 0
+    }
+  } ]
+}

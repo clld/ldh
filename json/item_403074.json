@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_403074",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-03T12:51:36.529+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-02BE-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Korrektur",
+  "lastModificationDate" : "2015-03-03T12:51:36.529+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7CED-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:53:29.693+0000",
+  "latestRelease" : {
+    "objectId" : "item_403074",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-03T12:51:36.529+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-02BE-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403074",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-03T12:51:36.529+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-02BE-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The syntax of argument-structure-changing morphology",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mika Christine",
+        "familyName" : "Hoffman",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1991",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30929",
+      "type" : "OTHER"
+    }, {
+      "id" : "argumentstructure_hoffman1991_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge, MA",
+      "publisher" : "MIT"
+    },
+    "freeKeywords" : "LoC Class: P292, LoC Subject Headings: Bantu languages",
+    "totalNumberOfPages" : "245 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: P292,\nLoC Subject Headings: Bantu languages--Causitive, Bantu languages--Case, Bantu languages--Syntax"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403073",
+    "name" : "argumentstructure_hoffman1991_o.pdf",
+    "creationDate" : "2010-04-01T11:53:28.529+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7CEC-B",
+    "content" : "/rest/items/item_403074_4/component/file_403073/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e24c8eb2becd948de497ccc0dbaaaf91",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11673707,
+    "metadata" : {
+      "title" : "argumentstructure_hoffman1991_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11673707
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2104892",
+    "name" : "http://hdl.handle.net/1721.1/13519",
+    "creationDate" : "2015-03-03T12:51:02.195+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/13519",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "36dec560cb3656ca74ddda9677ee4bb4",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/13519",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, MIT Theses, pdf",
+      "size" : 0
+    }
+  } ]
+}

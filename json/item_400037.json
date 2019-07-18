@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_400037",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T16:40:27.041+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6DEA-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T16:40:27.041+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6B07-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:38:53.367+0000",
+  "latestRelease" : {
+    "objectId" : "item_400037",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T16:40:27.041+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6DEA-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400037",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T16:40:27.041+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6DEA-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A linguistic sketch of Jicaltepec Mixtec",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Bradley, C. Henry",
+        "givenName" : "C. Henry",
+        "familyName" : "Bradley",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1970",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "749",
+      "type" : "OTHER"
+    }, {
+      "id" : "jicaltepec_bradley1970_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "Microfiche ed.",
+      "place" : "Dallas",
+      "publisher" : "SIL"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics",
+      "volume" : "25",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4016.Z9, LoC Subject Headings: Mixtec language--Dialects--Jicaltepec, LoC Subject Headings: Oaxaca, LoC Subject Headings: Mexico, LoC Subject Headings: Mixtec language--Grammar",
+    "subjects" : [ {
+      "value" : "mio - Mixtec, Pinotepa Nacional",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "2 MF"
+  },
+  "files" : [ {
+    "objectId" : "file_400035",
+    "name" : "http://www.ethnologue.com/show_work.asp?id=10305",
+    "creationDate" : "2010-04-01T10:38:52.178+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.ethnologue.com/show_work.asp?id=10305",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "557794cdbe65969a98272c0001c376be",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ethnologue.com/show_work.asp?id=10305",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400036",
+    "name" : "jicaltepec_bradley1970_o.pdf",
+    "creationDate" : "2010-04-01T10:38:52.987+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6B06-5",
+    "content" : "/rest/items/item_400037_3/component/file_400036/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d75af90813830694fbb95d5f00722bc1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3351905,
+    "metadata" : {
+      "title" : "jicaltepec_bradley1970_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3351905
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

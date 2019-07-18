@@ -1,0 +1,149 @@
+{
+  "objectId" : "item_405338",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:42:24.980+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8A8D-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:42:24.980+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8A8D-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:07:58.961+0000",
+  "latestRelease" : {
+    "objectId" : "item_405338",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:42:24.980+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A8D-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405338",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:42:24.980+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A8D-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Learner's Mongol-English Dictionary",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Hurelbat, B.",
+        "givenName" : "B.",
+        "familyName" : "Hurelbat",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "S.",
+        "familyName" : "Nadja"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "J.",
+        "familyName" : "Amraa"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1993",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34661",
+      "type" : "OTHER"
+    }, {
+      "id" : "mongoldict_hurlbat1993_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng", "mon" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N.A.",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL401,\nLoC Subject Headings: Mongolian languages",
+    "subjects" : [ {
+      "value" : "khk - Mongolian, Halh",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "58 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405336",
+    "name" : "http://www.eric.ed.gov/ERICDocs/data/ericdocs2sql/content_storage_01/0000019b/80/14/d7/18.pdf",
+    "creationDate" : "2010-04-01T13:07:31.676+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A8B-3",
+    "content" : "http://www.eric.ed.gov/ERICDocs/data/ericdocs2sql/content_storage_01/0000019b/80/14/d7/18.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.eric.ed.gov/ERICDocs/data/ericdocs2sql/content_storage_01/0000019b/80/14/d7/18.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405337",
+    "name" : "mongoldict_hurlbat1993_o.pdf",
+    "creationDate" : "2010-04-01T13:07:58.683+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A8C-1",
+    "content" : "/rest/items/item_405338_2/component/file_405337/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e12518873c384434f9d2a440611b0ec5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2304059,
+    "metadata" : {
+      "title" : "mongoldict_hurlbat1993_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2304059
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

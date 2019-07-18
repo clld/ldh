@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_405252",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:18:42.355+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8A19-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:18:42.355+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8A19-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:05:02.002+0000",
+  "latestRelease" : {
+    "objectId" : "item_405252",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:18:42.355+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A19-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405252",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:18:42.355+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A19-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Lexique kikôngo-français, français-kikônge",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Dereau, Léon",
+        "givenName" : "Léon",
+        "familyName" : "Dereau",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "K. E.",
+        "familyName" : "Laman"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1957",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34416",
+      "type" : "OTHER"
+    }, {
+      "id" : "kikongo_dereau1957_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Namur",
+      "publisher" : "Wesmael-Charlier"
+    },
+    "freeKeywords" : "LoC Class: PL8403,\nLoC Subject Headings: Kongo language",
+    "subjects" : [ {
+      "value" : "kng - Koongo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "116 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405250",
+    "name" : "http://www.nekongo.org/akongo/docs/langue_culture/lexique_kikongo_francais_dereau.pdf",
+    "creationDate" : "2010-04-01T13:04:55.743+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A17-9",
+    "content" : "http://www.nekongo.org/akongo/docs/langue_culture/lexique_kikongo_francais_dereau.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "86b50344a408952060567b0e5c3aa777",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.nekongo.org/akongo/docs/langue_culture/lexique_kikongo_francais_dereau.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405251",
+    "name" : "kikongo_dereau1957_o.pdf",
+    "creationDate" : "2010-04-01T13:05:00.962+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A18-7",
+    "content" : "/rest/items/item_405252_2/component/file_405251/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "50b5ac177d4f7fb5ecf6fde1921daf47",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9851400,
+    "metadata" : {
+      "title" : "kikongo_dereau1957_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9851400
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

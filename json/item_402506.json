@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_402506",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T07:01:59.849+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA1A-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-21T07:01:59.849+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7985-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:32:40.256+0000",
+  "latestRelease" : {
+    "objectId" : "item_402506",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T07:01:59.849+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA1A-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402506",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T07:01:59.849+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA1A-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Klitisierung von Pronomina und Artikelformen : eine empirische Untersuchung am Beispiel des Ruhrdeutschen",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "René",
+        "familyName" : "Schiering",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2002",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29975",
+      "type" : "OTHER"
+    }, {
+      "id" : "ruhrdeutsch_schiering2002_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "urn:nbn:de:hebis:30-111805",
+      "type" : "URN"
+    } ],
+    "languages" : [ "deu" ],
+    "sources" : [ {
+      "title" : "Arbeitspapier / Institut für Sprachwissenschaft, Universität Köln ; N.F.",
+      "volume" : "44",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PF3139.3, LoC Subject Headings: German language",
+    "subjects" : [ {
+      "value" : "deu - German",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "62 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PF3139.3, LoC Subject Headings: German language--Clitics"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402505",
+    "name" : "ruhrdeutsch_schiering2002_s.pdf",
+    "creationDate" : "2010-04-01T11:32:40.102+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7984-B",
+    "content" : "/rest/items/item_402506_4/component/file_402505/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ab5c2b1a319fcd79b0a684ce0d6d5eea",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 921120,
+    "metadata" : {
+      "title" : "ruhrdeutsch_schiering2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 921120
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147235",
+    "name" : "http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/22314",
+    "creationDate" : "2015-04-21T07:01:29.842+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/22314",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "211929e02ddbd96cbea4fd40b666bd11",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/22314",
+      "contentCategory" : "publisher-version",
+      "description" : "Goethe Univ. Frankfurt am Main, Univ. library, electronic documents, pdf download",
+      "size" : 0
+    }
+  } ]
+}

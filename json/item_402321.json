@@ -1,0 +1,153 @@
+{
+  "objectId" : "item_402321",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-13T10:43:39.952+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CD5D-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-05-13T10:43:39.952+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7887-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:30:11.165+0000",
+  "latestRelease" : {
+    "objectId" : "item_402321",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-13T10:43:39.952+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD5D-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402321",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-13T10:43:39.952+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD5D-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Morphosyntactic Phenomena of Korean in Role and Reference Grammar: Psych-Verb Constructions, Inflectional Verb Morphemes, Complex Sentences, and Relative Clauses",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Byong-Seon",
+        "familyName" : "Yang",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1994",
+    "datePublishedInPrint" : "1994",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29654",
+      "type" : "OTHER"
+    }, {
+      "id" : "korean_yang1994_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Buffalo",
+      "publisher" : "State Univ. of New York"
+    },
+    "freeKeywords" : "LoC Class: PL945.K89, LoC Subject Headings: Korean language",
+    "subjects" : [ {
+      "value" : "kor - Korean",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "[XII, 315 S.]"
+  },
+  "files" : [ {
+    "objectId" : "file_402320",
+    "name" : "korean_yang1994_s.pdf",
+    "creationDate" : "2010-04-01T11:30:10.983+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7886-F",
+    "content" : "/rest/items/item_402321_4/component/file_402320/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "abb7f67ead49a755f8970dcdaf0d0e5b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1014309,
+    "metadata" : {
+      "title" : "korean_yang1994_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1014309
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2154506",
+    "name" : "http://linguistics.buffalo.edu/people/faculty/vanvalin/rrg.html",
+    "creationDate" : "2015-05-13T10:43:02.186+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://linguistics.buffalo.edu/people/faculty/vanvalin/rrg.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1f0884ee22c3925d9c2581eea2d479ee",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://linguistics.buffalo.edu/people/faculty/vanvalin/rrg.html",
+      "contentCategory" : "publisher-version",
+      "description" : "State Univ. of New York, Univ. at Buffalo, Dep. of Linguistics, Role and Reference Grammar, List of Dissertations for downloading, Yang, Byong-Seon (1994), pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2154507",
+    "name" : "http://linguistics.buffalo.edu/people/faculty/vanvalin/rrg/yang/YANGDis.pdf",
+    "creationDate" : "2015-05-13T10:43:02.847+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://linguistics.buffalo.edu/people/faculty/vanvalin/rrg/yang/YANGDis.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "14cbb9278bec17d1bf8911d1d4a2b9c7",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://linguistics.buffalo.edu/people/faculty/vanvalin/rrg/yang/YANGDis.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "State Univ. of New York, Univ. at Buffalo, Dep. of Linguistics, Role and Reference Grammar, direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

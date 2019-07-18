@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_407845",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-01-30T12:36:04.587+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-AC19-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-01-30T12:36:04.587+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9867-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:22:42.928+0000",
+  "latestRelease" : {
+    "objectId" : "item_407845",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-01-30T12:36:04.587+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-AC19-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407845",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-01-30T12:36:04.587+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-AC19-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Noticia de la lengua huasteca : que en beneficio de sus nacionales, de orden del ilmô. sr. arzopispo [sic] de esta santa Iglesia metropolitana, y a sus expensas",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Tapia",
+        "familyName" : "Zenteno",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1767",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "41867",
+      "type" : "OTHER"
+    }, {
+      "id" : "huasteca_zenteno1767_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "freeKeywords" : "LoC Class: PM3831,\nLoC Subject Headings: Huastec language",
+    "subjects" : [ {
+      "value" : "hva - Huastec, San Luís Potosí",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "128 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM3831,\nLoC Subject Headings: Huastec language--Grammar, Huastec language--Glossaries, vocabularies, etc."
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_2086275",
+    "name" : "huasteca_zenteno1767.pdf",
+    "creationDate" : "2015-01-30T12:35:24.902+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-AC1A-8",
+    "content" : "/rest/items/item_407845_5/component/file_2086275/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e2a0cafae483f1dea64b4793cdbb32e5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 16616545,
+    "metadata" : {
+      "title" : "huasteca_zenteno1767.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 16616545,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2086276",
+    "name" : "https://archive.org/details/noticiadelalengu00tapi",
+    "creationDate" : "2015-01-30T12:35:25.210+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/noticiadelalengu00tapi",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f841786303f54d0c14fbd8ce69b44af0",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/noticiadelalengu00tapi",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, Canadian Libraries, read online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

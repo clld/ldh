@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_406002",
+  "versionNumber" : 7,
+  "modificationDate" : "2015-03-13T02:03:04.354+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7249-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:03:04.354+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8E47-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:25:51.745+0000",
+  "latestRelease" : {
+    "objectId" : "item_406002",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-03-13T02:03:04.354+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7249-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406002",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-03-13T02:03:04.354+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7249-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Enabling a legacy morphological parser to use DATR-based lexicons",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Michael A.",
+        "familyName" : "Colburn",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1999",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35598",
+      "type" : "OTHER"
+    }, {
+      "id" : "parser_colburn2000_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Denver",
+      "publisher" : "Colorado Technical Univ."
+    },
+    "freeKeywords" : "LoC Class: P98, LoC Subject Headings: Grammar/Comparative and general--Data processing, LoC Subject Headings: Computational linguistics, LoC Subject Headings: Papuan languages--Madang Province",
+    "subjects" : [ {
+      "value" : "eri - Ogea",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xi, 175 S. ; viii, 301 S."
+  },
+  "files" : [ {
+    "objectId" : "file_2070172",
+    "name" : "parser_colburn1999_s_1.pdf",
+    "creationDate" : "2014-11-07T08:37:38.128+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-2B26-C",
+    "content" : "/rest/items/item_406002_7/component/file_2070172/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "452e1dabd05237c8ea60892112e059fc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 692577,
+    "metadata" : {
+      "title" : "parser_colburn1999_s_1.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "Vol. 1: Chapter 1 - Introduction, Chapter 2 - Analysis of the literature, Chapter 3 - Using DATR with AMPLE, Chapter 4 - Conclusion ",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 692577,
+      "copyrightDate" : "2014-09-22",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  }, {
+    "objectId" : "file_2070173",
+    "name" : "parser_colburn1999_s_2.pdf",
+    "creationDate" : "2014-11-07T08:37:38.254+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-2B27-A",
+    "content" : "/rest/items/item_406002_7/component/file_2070173/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "52b2e431d5ce56bc3c47112d32e4558b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 542993,
+    "metadata" : {
+      "title" : "parser_colburn1999_s_2.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "Vol. 2: Appendix 1 - An overview of Ogea morphophonemics and morphotactics, Appendix 2 - Ogea AMPLE lexicon, Appendix 3 - The Ogea DATR lexicon ",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 542993,
+      "copyrightDate" : "2014-09-22",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

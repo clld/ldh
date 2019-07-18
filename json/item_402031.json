@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_402031",
+  "versionNumber" : 5,
+  "modificationDate" : "2013-10-01T12:52:32.752+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-5CA2-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2013-10-01T12:52:32.752+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-76B7-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:24:37.408+0000",
+  "latestRelease" : {
+    "objectId" : "item_402031",
+    "versionNumber" : 5,
+    "modificationDate" : "2013-10-01T12:52:32.752+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5CA2-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402031",
+    "versionNumber" : 5,
+    "modificationDate" : "2013-10-01T12:52:32.752+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5CA2-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of the Maskwke, or Creek language, to which are prefixed lessons in spelling, reading and defining",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Henri Frieland",
+        "familyName" : "Buckner",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Goliah",
+        "familyName" : "Herrod"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1860",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "28952",
+      "type" : "OTHER"
+    }, {
+      "id" : "creek_buckner1860_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Marion",
+      "publisher" : "The Domestic and Indian Misison Board"
+    },
+    "freeKeywords" : "LoC Subject Headings: Creek language",
+    "subjects" : [ {
+      "value" : "mus - Muskogee",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "138 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM991,\nLoC Subject Headings: Creek language -- Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402029",
+    "name" : "http://lingspace.wm.edu/lingspace/creek/learning-creek/bookshelf/",
+    "creationDate" : "2010-04-01T11:24:35.982+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-76B5-6",
+    "content" : "http://www.wm.edu/linguistics/creek/bookshelf.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "952e46a16960870ea603be26ceccd710",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://lingspace.wm.edu/lingspace/creek/learning-creek/bookshelf/",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402030",
+    "name" : "creek_buckner1860_o.pdf",
+    "creationDate" : "2010-04-01T11:24:36.813+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-76B6-4",
+    "content" : "/rest/items/item_402031_5/component/file_402030/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "535d81a9dd7812ab91e71f10cffa8c6e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5692996,
+    "metadata" : {
+      "title" : "creek_buckner1860_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5692996
+    }
+  } ]
+}

@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_403106",
+  "versionNumber" : 7,
+  "modificationDate" : "2012-03-14T10:44:10.831+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7D29-8",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "lastModificationDate" : "2012-03-14T10:44:10.831+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D23-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:55:29.204+0000",
+  "latestRelease" : {
+    "objectId" : "item_403106",
+    "versionNumber" : 7,
+    "modificationDate" : "2012-03-14T10:44:10.831+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7D29-8",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403106",
+    "versionNumber" : 7,
+    "modificationDate" : "2012-03-14T10:44:10.831+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7D29-8",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Logical relations in Chinese and the theory of grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "C.-T.James",
+        "familyName" : "Huang",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1982",
+    "datePublishedInPrint" : "1982",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30953",
+      "type" : "OTHER"
+    }, {
+      "id" : "chinese_huang1982_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : " Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P158.H8 1998,\nLoC Subject Headings: Chinese language",
+    "subjects" : [ {
+      "value" : "cmn - Mandarin Chinese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "598 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403104",
+    "name" : "http://www.ai.mit.edu/projects/dm/theses/huang82.pdf",
+    "creationDate" : "2010-04-01T11:55:08.265+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D21-7",
+    "content" : "http://www.ai.mit.edu/projects/dm/theses/huang82.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "97c87c1d10e60e0e7e72b0b2e53ff569",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ai.mit.edu/projects/dm/theses/huang82.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403105",
+    "name" : "chinese_huang1982_o.pdf",
+    "creationDate" : "2010-04-01T11:55:26.366+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D22-5",
+    "content" : "/rest/items/item_403106_7/component/file_403105/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7b29218fb6d189a513810e7c912bf873",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 30233670,
+    "metadata" : {
+      "title" : "chinese_huang1982_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 30233670,
+      "copyrightDate" : "27.2.2012",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/"
+    }
+  } ]
+}

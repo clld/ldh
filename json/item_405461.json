@@ -1,0 +1,150 @@
+{
+  "objectId" : "item_405461",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-02-25T11:53:05.395+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-E322-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-02-25T11:53:05.395+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B41-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:13:24.207+0000",
+  "latestRelease" : {
+    "objectId" : "item_405461",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-25T11:53:05.395+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E322-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405461",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-25T11:53:05.395+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E322-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Elementarbuch der Sanskrit-Sprache : Grammatik, Texte, Wörterbuch",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Adolf Friedrich",
+        "familyName" : "Stenzler",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Richard",
+        "familyName" : "Pischel"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Karl F.",
+        "familyName" : "Geldner"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1915",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34965",
+      "type" : "OTHER"
+    }, {
+      "id" : "sanskrit_stenzler1915_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "9. Aufl. / umgearb. von Karl F. Geldner",
+      "place" : "Giessen",
+      "publisher" : "Töpelmann"
+    },
+    "freeKeywords" : "LoC Class: PK666,\nLoC Subject Headings: Sanskrit language",
+    "subjects" : [ {
+      "value" : "san - Sanskrit",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VIII, 120 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PK666,\nLoC Subject Headings: Sanskrit language--Grammar, Sanskrit language--Readers"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405460",
+    "name" : "sanskrit_stenzler1915_o.pdf",
+    "creationDate" : "2010-04-01T13:13:23.805+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B40-1",
+    "content" : "/rest/items/item_405461_3/component/file_405460/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3c056b276c45ff5bf6964cda351045c2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3643995,
+    "metadata" : {
+      "title" : "sanskrit_stenzler1915_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3643995,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2104107",
+    "name" : "https://archive.org/details/elementarbuchde04stengoog",
+    "creationDate" : "2015-02-25T11:52:41.133+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/elementarbuchde04stengoog",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5fcf90122f85cf2ac1a97b20f05ccc74",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/elementarbuchde04stengoog",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org: Internet Archive, 3. ed. (1875), view online",
+      "size" : 0
+    }
+  } ]
+}

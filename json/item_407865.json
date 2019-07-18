@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_407865",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T08:00:44.893+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9885-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T08:00:44.893+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9885-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:23:26.038+0000",
+  "latestRelease" : {
+    "objectId" : "item_407865",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T08:00:44.893+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9885-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407865",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T08:00:44.893+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9885-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Kartvelian morphosyntax : number agreement and morphosyntactic orientation in the South Caucasian languages",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Tuite, Kevin",
+        "givenName" : "Kevin",
+        "familyName" : "Tuite",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1998",
+    "datePublishedInPrint" : "1998",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "41878",
+      "type" : "OTHER"
+    }, {
+      "id" : "kartvelian_tuite1998_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "München",
+      "publisher" : "Lincom Europa"
+    },
+    "sources" : [ {
+      "title" : "LINCOM Studies in Caucasian linguistics",
+      "volume" : "12",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PK9052,\nLoC Subject Headings: Kartvelian languages",
+    "subjects" : [ {
+      "value" : "kat - Georgian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "260 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407863",
+    "name" : "http://www.mapageweb.umontreal.ca/tuitekj/publications/TuiteThesis.pdf",
+    "creationDate" : "2010-04-01T14:23:17.034+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9883-4",
+    "content" : "http://www.mapageweb.umontreal.ca/tuitekj/publications/TuiteThesis.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "42a3ddb86aab3b12975a92ee4046cf3c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.mapageweb.umontreal.ca/tuitekj/publications/TuiteThesis.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407864",
+    "name" : "kartvelian_tuite1998_s.pdf",
+    "creationDate" : "2010-04-01T14:23:25.479+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9884-2",
+    "content" : "/rest/items/item_407865_2/component/file_407864/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "42a3ddb86aab3b12975a92ee4046cf3c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5228747,
+    "metadata" : {
+      "title" : "kartvelian_tuite1998_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5228747
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

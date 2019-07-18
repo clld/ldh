@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_407891",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-17T11:53:06.720+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-78AD-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-17T11:53:06.720+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-98A5-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:24:08.421+0000",
+  "latestRelease" : {
+    "objectId" : "item_407891",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-17T11:53:06.720+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-78AD-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407891",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-17T11:53:06.720+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-78AD-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Ambulas grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Patricia R.",
+        "familyName" : "Wilson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1980",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "41890",
+      "type" : "OTHER"
+    }, {
+      "id" : "ambulas_wilson1980_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ukarumpa",
+      "publisher" : "SIL"
+    },
+    "sources" : [ {
+      "title" : "Workpapers in Papua New Guinea Languages",
+      "volume" : "26",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6621.A26, LoC Subject Headings: Abulas language",
+    "subjects" : [ {
+      "value" : "abt - Ambulas",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "477 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6621.A26, LoC Subject Headings: Abulas language--Grammar, LoC Subject Headings: Ndu languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407889",
+    "name" : "http://www.sil.org/pacific/png/abstract.asp?id=21876",
+    "creationDate" : "2010-04-01T14:24:06.243+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/pacific/png/abstract.asp?id=21876",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ecfea6f67182fc9b3993b90246c4e0c9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/pacific/png/abstract.asp?id=21876",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Papua New Guinea, PNG Language Resources, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407890",
+    "name" : "ambulas_wilson1980_o.pdf",
+    "creationDate" : "2010-04-01T14:24:07.243+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-98A4-9",
+    "content" : "/rest/items/item_407891_4/component/file_407890/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d49408f7d82d76e77c8446afb264e24d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12268971,
+    "metadata" : {
+      "title" : "ambulas_wilson1980_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12268971
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

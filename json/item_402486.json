@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_402486",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-10-02T08:38:55.470+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-5D36-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain",
+  "lastModificationDate" : "2013-10-02T08:38:55.470+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7968-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:32:25.067+0000",
+  "latestRelease" : {
+    "objectId" : "item_402486",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-02T08:38:55.470+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5D36-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402486",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-02T08:38:55.470+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5D36-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gramatica de la lengua quiche : Grammaire de la langue quichée, espagnole-française mise en parallèle avec ses deux dialectes, cakchiquel et tzutuhil, tirée des manuscrits des meilleurs auteurs guatémaliens ,  Ouvrage accompagné de notes philologiques avec un vocabulaire ... et suivi d'un essai sur la poésie, la musique, la danse et l'art dramatique chez les Mexicains et les Guatémaltèques avant la conquête",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Brasseur",
+        "familyName" : "de Bourbourg",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1862",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29966",
+      "type" : "OTHER"
+    }, {
+      "id" : "quichee_bourbourg1862_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Paris",
+      "publisher" : "Durand"
+    },
+    "freeKeywords" : "LoC Subject Headings: Quiché language",
+    "subjects" : [ {
+      "value" : "qut - Kiche, West Central",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XV, 122 S., 12 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM4231,\nLoC Subject Headings: Quiché language -- Grammar, Quiché language -- Dictionaries -- Polyglot"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402484",
+    "name" : "http://books.google.com/books?vid=OCLC11967284",
+    "creationDate" : "2010-04-01T11:32:22.892+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-5D37-E",
+    "content" : "http://books.google.com/books?vid=OCLC11967284",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "24067541464c7d85622a636777ae3536",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://books.google.com/books?vid=OCLC11967284",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402485",
+    "name" : "quichee_bourbourg1862_o.pdf",
+    "creationDate" : "2010-04-01T11:32:23.390+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7967-D",
+    "content" : "/rest/items/item_402486_3/component/file_402485/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "64fb3b7f439a7b8ab197a32f2957f5d3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 17679302,
+    "metadata" : {
+      "title" : "quichee_bourbourg1862_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 17679302
+    }
+  } ]
+}

@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_405795",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-10T08:52:07.763+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-E46B-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-10T08:52:07.763+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8D1F-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:20:43.856+0000",
+  "latestRelease" : {
+    "objectId" : "item_405795",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-10T08:52:07.763+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-E46B-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405795",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-10T08:52:07.763+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-E46B-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The Slaying of Lady Mondegreen, being a study of French tonal association and Alignment and their role in speech segmentation",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Pauline Susan",
+        "familyName" : "Welby",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35420",
+      "type" : "OTHER"
+    }, {
+      "id" : "french_welby2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: PC2139.5,\nLoC Subject Headings: French language",
+    "subjects" : [ {
+      "value" : "fra - French",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XXXI, 290 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PC2139.5,\nLoC Subject Headings: French language -- Intonation"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405794",
+    "name" : "french_welby2003_s.pdf",
+    "creationDate" : "2010-04-01T13:20:43.276+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D1E-5",
+    "content" : "/rest/items/item_405795_3/component/file_405794/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "885f81cad91e21ae7e11acf16017f7e3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5629033,
+    "metadata" : {
+      "title" : "french_welby2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5629033
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2039832",
+    "name" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1074614793",
+    "creationDate" : "2014-07-10T08:50:43.519+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-E46D-5",
+    "content" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1074614793",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b571ee8d64ef7cee6235b53ef3ef0cea",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1074614793",
+      "contentCategory" : "any-fulltext",
+      "description" : "OhioLINK, Electronic Theses & Dissertations Center, pdf",
+      "size" : 0
+    }
+  } ]
+}

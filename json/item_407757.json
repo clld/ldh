@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_407757",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-19T05:41:08.919+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-D07C-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-19T05:41:08.919+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-97E6-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:20:02.043+0000",
+  "latestRelease" : {
+    "objectId" : "item_407757",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-19T05:41:08.919+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D07C-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407757",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-19T05:41:08.919+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D07C-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Tense / aspect and the development of auxiliaries in Kru languages",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lynell",
+        "familyName" : "Marchese",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1986",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "41825",
+      "type" : "OTHER"
+    }, {
+      "id" : "kru_marchese1986_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Dallas, Tex.",
+      "publisher" : "Summer Institute of Linguistics [u.a.]"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics",
+      "volume" : "78",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL8416, LoC Subject Headings: Kru languages",
+    "subjects" : [ {
+      "value" : "ted - Krumen, Tepo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XII, 301",
+    "abstracts" : [ {
+      "value" : "\nOriginally appeared as author's thesis (Ph.D.) 1979, University of California, Los Angeles\n"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407756",
+    "name" : "kru_marchese1986_o.pdf",
+    "creationDate" : "2010-04-01T14:20:01.072+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-97E5-1",
+    "content" : "/rest/items/item_407757_4/component/file_407756/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "83c83423bcf94e482fdf744e69a5c45e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9632645,
+    "metadata" : {
+      "title" : "kru_marchese1986_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9632645
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2156032",
+    "name" : "http://www.sil.org/resources/archives/8616",
+    "creationDate" : "2015-05-19T05:40:42.835+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/8616",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "00f8c40690eef8924d75dc1483700f2a",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/8616",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Language & Culture Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_402308",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:01:58.468+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7875-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:01:58.468+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7875-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:30:01.992+0000",
+  "latestRelease" : {
+    "objectId" : "item_402308",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:01:58.468+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7875-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402308",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:01:58.468+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7875-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Ordem oracional e movimento de clítico de segunda posição em Kayabi (Família Tupi-Guarani)",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Faria, André Luiz",
+        "givenName" : "André Luiz",
+        "familyName" : "Faria",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29607",
+      "type" : "OTHER"
+    }, {
+      "id" : "kayabi_faria2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : "[s.n.]"
+    },
+    "freeKeywords" : "LoC Class: PM6294,\nLoC Subject Headings: Kayabi language",
+    "subjects" : [ {
+      "value" : "kyz - Kayabí",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "49 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402306",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000343762",
+    "creationDate" : "2010-04-01T11:30:00.724+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7873-A",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000343762",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7280bb0ce8b1e99007710aa16b515b83",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000343762",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402307",
+    "name" : "kayabi_faria2004_s.pdf",
+    "creationDate" : "2010-04-01T11:30:01.871+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7874-8",
+    "content" : "/rest/items/item_402308_2/component/file_402307/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "59dda15f57d83ea1c7f6fd8eb2f318ab",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 558672,
+    "metadata" : {
+      "title" : "kayabi_faria2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 558672
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

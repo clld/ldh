@@ -1,0 +1,148 @@
+{
+  "objectId" : "item_406860",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T20:34:13.054+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FCE-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:34:13.054+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-92F5-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:48:21.855+0000",
+  "latestRelease" : {
+    "objectId" : "item_406860",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:34:13.054+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FCE-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406860",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:34:13.054+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FCE-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The Mission Indian vocabularies of Alphonse Pinart",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Pinart, Alphonse Louis",
+        "givenName" : "Alphonse Louis",
+        "familyName" : "Pinart",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1952",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37474",
+      "type" : "OTHER"
+    }, {
+      "id" : "pinart_heizer1952_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Berkeley [u.a.]",
+      "publisher" : "Univ. of California Press"
+    },
+    "sources" : [ {
+      "title" : "University of California publications : anthropological records",
+      "volume" : "15,1",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM501.C2, LoC Subject Headings: Ohlone language, LoC Subject Headings: Salinan language, LoC Subject Headings: Esselen language, LoC Subject Headings: Chumash language, LoC Subject Headings: Indians of North America -- Languages",
+    "subjects" : [ {
+      "value" : "css - Southern Ohlone",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "sln - Salinan",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "esq - Esselen",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "chs - Chumash",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "83 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406858",
+    "name" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=15",
+    "creationDate" : "2010-04-01T13:48:19.993+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=15",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "046345207f7629179ead4a5ccdb801fc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=15",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406859",
+    "name" : "pinart_heizer1952_o.pdf",
+    "creationDate" : "2010-04-01T13:48:21.373+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-92F4-5",
+    "content" : "/rest/items/item_406860_3/component/file_406859/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7073f14956045d04ecf6d8ac2b5c2c3a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4581911,
+    "metadata" : {
+      "title" : "pinart_heizer1952_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4581911
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

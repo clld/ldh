@@ -1,0 +1,144 @@
+{
+  "objectId" : "item_405121",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:31:42.018+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8963-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:31:42.018+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8963-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:55:39.403+0000",
+  "latestRelease" : {
+    "objectId" : "item_405121",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:31:42.018+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8963-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405121",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:31:42.018+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8963-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Estonian Language Competencies for Peace Corps Volunteers in the Republic of Estonia",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Ets, Tiina K.",
+        "givenName" : "Tiina K.",
+        "familyName" : "Ets",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "organization" : {
+        "name" : "United States / Peace Corps"
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "1992",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34358",
+      "type" : "OTHER"
+    }, {
+      "id" : "estonian_ets1992_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Washington, D.C.",
+      "publisher" : "Peace Corps"
+    },
+    "freeKeywords" : "LoC Class: PH606,\nLoC Subject Headings: Estonian language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "est - Estonian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "174 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405119",
+    "name" : "http://tinyurl.com/6oa3vd",
+    "creationDate" : "2010-04-01T12:55:37.608+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8961-7",
+    "content" : "http://tinyurl.com/6oa3vd",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "08c3eb2d034b1ae307dfb9ba7e734a9a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://tinyurl.com/6oa3vd",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405120",
+    "name" : "estonian_ets1992_o.pdf",
+    "creationDate" : "2010-04-01T12:55:38.791+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8962-5",
+    "content" : "/rest/items/item_405121_2/component/file_405120/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4c98d13b5107c35d53cfe39262bf11d1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4856385,
+    "metadata" : {
+      "title" : "estonian_ets1992_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4856385
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

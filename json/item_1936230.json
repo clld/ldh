@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_1936230",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-01-16T10:51:15.577+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-9214-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-01-16T10:51:15.577+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0015-7DD1-4",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-02-26T08:37:12.833+0000",
+  "latestRelease" : {
+    "objectId" : "item_1936230",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-01-16T10:51:15.577+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-9214-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_1936230",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-01-16T10:51:15.577+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-9214-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "A vocabulary of Nanticoke dialect",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Daniel Garrison",
+        "familyName" : "Brinton",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1893",
+    "genre" : "ARTICLE",
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Proceedings of the American Philosophical Society",
+      "volume" : "XXXI",
+      "issue" : "Jan to Dec, 1893",
+      "startPage" : "325",
+      "endPage" : "333",
+      "publishingInfo" : {
+        "place" : "Philadelphia, Pa.",
+        "publisher" : "American Philosophical Soc."
+      },
+      "identifiers" : [ {
+        "id" : "0003-049X",
+        "type" : "ISSN"
+      } ],
+      "genre" : "JOURNAL",
+      "totalNumberOfPages" : "7 Bl., 372 S., 9 Bl."
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Nanticoke language, LoC Class: PM2001.Z5",
+    "subjects" : [ {
+      "value" : "nnt - Nanticoke",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "9 S.",
+    "abstracts" : [ {
+      "value" : "LoC Subject Headings: Nanticoke language--Glossaries, vocabularies, etc., LoC Class: PM2001.Z5"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_1936228",
+    "name" : "Brinton_Nanticoke1893.pdf",
+    "creationDate" : "2014-02-26T08:37:09.381+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0015-7DD3-F",
+    "content" : "/rest/items/item_1936230_4/component/file_1936228/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1311414144710b19ed828bc83ffa4888",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 466057,
+    "metadata" : {
+      "title" : "Brinton_Nanticoke1893.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 466057,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_1936229",
+    "name" : "https://archive.org/details/proceedingsofame31ameruoft",
+    "creationDate" : "2014-02-26T08:37:09.443+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/proceedingsofame31ameruoft",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a176957d0316c411f14e81da3d921f9b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/proceedingsofame31ameruoft",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, complete volume: Proc. Am. Philos. Soc., XXXI",
+      "size" : 0
+    }
+  } ]
+}

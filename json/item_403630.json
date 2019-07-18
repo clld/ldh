@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_403630",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-12-18T12:17:33.163+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-5CEA-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-18T12:17:33.163+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-80B2-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:20:58.558+0000",
+  "latestRelease" : {
+    "objectId" : "item_403630",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-18T12:17:33.163+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5CEA-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403630",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-18T12:17:33.163+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5CEA-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dictionaire de la langue huronne, necessaire à ceux qui n'ont l'intelligence d'icelle, & ont à traiter auec les sauuages du pays",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Gabriel",
+        "familyName" : "Sagard-Théodat",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1632",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31449",
+      "type" : "OTHER"
+    }, {
+      "id" : "huronne_sagard1632_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Paris",
+      "publisher" : "Moreau"
+    },
+    "freeKeywords" : "LoC Class: PM1366,\nLoC Subject Headings: Wyandot language",
+    "subjects" : [ {
+      "value" : "wya - Wyandot",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "380, 12, [74] S."
+  },
+  "files" : [ {
+    "objectId" : "file_2079545",
+    "name" : "huronne_sagard1632.pdf",
+    "creationDate" : "2014-12-18T12:16:58.942+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-5CEB-3",
+    "content" : "/rest/items/item_403630_3/component/file_2079545/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "dee855360be06baeda69aefe15028a63",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 82281393,
+    "metadata" : {
+      "title" : "huronne_sagard1632.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 82281393,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2079546",
+    "name" : "https://archive.org/details/dictionairedelal01saga",
+    "creationDate" : "2014-12-18T12:17:00.130+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/dictionairedelal01saga",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "84a087ae70ceca4c09e14c3abb97417c",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/dictionairedelal01saga",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org",
+      "size" : 0
+    }
+  } ]
+}

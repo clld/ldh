@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_407244",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T22:01:10.615+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7075-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T22:01:10.615+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9526-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:02:25.611+0000",
+  "latestRelease" : {
+    "objectId" : "item_407244",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T22:01:10.615+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7075-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407244",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T22:01:10.615+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7075-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Sayula Popoluca texts with grammatical outline",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Clark, Lawrence E.",
+        "givenName" : "Lawrence E.",
+        "familyName" : "Clark",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1961",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37838",
+      "type" : "OTHER"
+    }, {
+      "id" : "sayula_clark1961_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "1. ed.",
+      "place" : "Norman, Okla",
+      "publisher" : "SIL of the Univ. of Oklamhoma"
+    },
+    "sources" : [ {
+      "title" : "¬A¬ publication of the Summer Institute of\n              Linguistics of the University of Oklahoma /\n              Linguistic series",
+      "alternativeTitles" : [ {
+        "value" : "¬A¬ publication of the Summer Institute of Linguistics of the University of Oklahoma / Linguistic series"
+      } ],
+      "volume" : "6",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4207, LoC Subject Headings: PM4207, LoC Subject Headings: Sierra Popoluca language--Texts",
+    "subjects" : [ {
+      "value" : "poi - Highland Popoluca",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "216 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407242",
+    "name" : "http://www.ethnologue.com/show_work.asp?id=10420",
+    "creationDate" : "2010-04-01T14:02:23.965+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.ethnologue.com/show_work.asp?id=10420",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d194c7a1f8eff4df2da34bc480587f40",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ethnologue.com/show_work.asp?id=10420",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407243",
+    "name" : "sayula_clark1961_o.pdf",
+    "creationDate" : "2010-04-01T14:02:25.190+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9525-1",
+    "content" : "/rest/items/item_407244_3/component/file_407243/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5e33e3242e6ae8e5046087d974a144ec",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3922421,
+    "metadata" : {
+      "title" : "sayula_clark1961_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3922421
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_405131",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-17T11:36:58.808+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B815-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-17T11:36:58.808+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8971-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:55:50.858+0000",
+  "latestRelease" : {
+    "objectId" : "item_405131",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-17T11:36:58.808+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B815-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405131",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-17T11:36:58.808+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B815-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "La conjugaison du verbe Français",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "William",
+        "familyName" : "Kinnaird",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1991",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34362",
+      "type" : "OTHER"
+    }, {
+      "id" : "francais_kinnaird1991_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "place" : "Besançon",
+      "publisher" : "Univ. de Franche-Comté"
+    },
+    "freeKeywords" : "LoC Class: PC2271, LoC Subject Headings: French language",
+    "subjects" : [ {
+      "value" : "fra - French",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "165 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PC2271, LoC Subject Headings: French language--Verb"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405130",
+    "name" : "francais_kinnaird1991_o.pdf",
+    "creationDate" : "2010-04-01T12:55:50.415+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8970-5",
+    "content" : "/rest/items/item_405131_3/component/file_405130/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4e02e3b6bd47dce20e310348215228ca",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3878524,
+    "metadata" : {
+      "title" : "francais_kinnaird1991_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3878524
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147106",
+    "name" : "http://www.silcam.org/languages/languagepage.php?languageid=103",
+    "creationDate" : "2015-04-17T11:36:25.868+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.silcam.org/languages/languagepage.php?languageid=103",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "37f2eb8ce11c521b84eff8ae0793140b",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.silcam.org/languages/languagepage.php?languageid=103",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Cameroon, Languages & Publications, pdf download",
+      "size" : 0
+    }
+  } ]
+}

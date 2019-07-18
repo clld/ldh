@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_406868",
+  "versionNumber" : 6,
+  "modificationDate" : "2011-05-31T11:43:37.215+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9301-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:43:37.215+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9301-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:48:45.475+0000",
+  "latestRelease" : {
+    "objectId" : "item_406868",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T11:43:37.215+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9301-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406868",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T11:43:37.215+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9301-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "An Icelandic Primer : with Grammar, Notes, and Glossary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Henry",
+        "familyName" : "Sweet",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1895",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37478",
+      "type" : "OTHER"
+    }, {
+      "id" : "icelandic_sweet1895_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "London",
+      "publisher" : "Oxford Univ. Press"
+    },
+    "subjects" : [ {
+      "value" : "isl - Icelandic",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "176 S.",
+    "abstracts" : [ {
+      "value" : "PD2235, ISO 639-3 : isl, Old Norse language --Readers, Old Norse language --Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406866",
+    "name" : "http://www.gutenberg.org/etext/5424",
+    "creationDate" : "2010-04-01T13:48:44.279+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-92FF-F",
+    "content" : "http://www.gutenberg.org/etext/5424",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0b7d7a8e8d9dab673cb5f56c21b9c4da",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.gutenberg.org/etext/5424",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406867",
+    "name" : "icelandic_sweet1895_s.pdf",
+    "creationDate" : "2010-04-01T13:48:45.351+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9300-1",
+    "content" : "/rest/items/item_406868_6/component/file_406867/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d7b3d1b73b888d1728e5a0fc2a35763a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 528616,
+    "metadata" : {
+      "title" : "icelandic_sweet1895_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "not in copyright, Henry Sweet, 1845-1912",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 528616,
+      "copyrightDate" : "2010-09-12"
+    }
+  } ]
+}

@@ -1,0 +1,179 @@
+{
+  "objectId" : "item_403164",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T11:50:03.855+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7D7D-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:50:03.855+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D7D-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:59:49.829+0000",
+  "latestRelease" : {
+    "objectId" : "item_403164",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T11:50:03.855+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7D7D-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403164",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T11:50:03.855+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7D7D-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The transformational cycle in French syntax",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Kayne, Richard Stanley",
+        "givenName" : "Richard Stanley",
+        "familyName" : "Kayne",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1969",
+    "datePublishedInPrint" : "1969",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31052",
+      "type" : "OTHER"
+    }, {
+      "id" : "french_kayne1969_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : " Massachussetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Subject Headings: French language",
+    "subjects" : [ {
+      "value" : "fra - French",
+      "type" : "ISO639_3"
+    } ],
+    "tableOfContents" : "Foreword\t\nPreface\t\n1 The Leftward Movement of Tout/Tous\t\n2 Clitic Placement\t\n3 The Faire-Infinitive Construction\t\n4 Clitic Placement in the Faire-Infinitive Construction\n5 Reflexive/Reciprocal Clitic Placement\t\n6 The Transformational Cycle\t\nBibliography\t\nGeneral Index\t\nIndex of Rules\t\n",
+    "totalNumberOfPages" : "199 S.",
+    "abstracts" : [ {
+      "value" : "PC 2369, ISO 639-3 : fra, French language -- Syntax, French language -- Grammar, Generative"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403162",
+    "name" : "http://hdl.handle.net/1721.1/16436",
+    "creationDate" : "2010-04-01T11:59:48.055+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D7B-0",
+    "content" : "http://hdl.handle.net/1721.1/16436",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d1d11a27ed25d4416beb2f059a5df070",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/16436",
+      "contentCategory" : "publisher-version",
+      "description" : "DSpace@MIT",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403163",
+    "name" : "french_kayne1969_o.pdf",
+    "creationDate" : "2010-04-01T11:59:48.867+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D7C-E",
+    "content" : "/rest/items/item_403164_4/component/file_403163/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d73fe3b1ba06d47746be39205290ec1a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9814013,
+    "metadata" : {
+      "title" : "french_kayne1969_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9814013,
+      "rights" : "non-exclusive permission from Massachusetts Institute of Technology/Cambridge Massachusetts (2010-04-20)"
+    }
+  }, {
+    "objectId" : "file_458153",
+    "name" : "http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11400",
+    "creationDate" : "2010-06-16T12:27:51.523+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11400",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f9ea581e3c0cbeb0b79ae537596f1356",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11400",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT Press - Print Version ",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_458154",
+    "name" : "http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11400&mode=toc",
+    "creationDate" : "2010-06-16T12:27:54.641+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11400&mode=toc",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "de004b14810cc05e501a9206da228849",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11400&mode=toc",
+      "contentCategory" : "table-of-contents",
+      "description" : "Table of Contents - MIT Press",
+      "size" : 0
+    }
+  } ]
+}

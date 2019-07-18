@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_406433",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-28T08:40:45.597+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C2D3-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-28T08:40:45.597+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-909A-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:37:57.868+0000",
+  "latestRelease" : {
+    "objectId" : "item_406433",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-28T08:40:45.597+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2D3-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406433",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-28T08:40:45.597+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2D3-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Mood and modality in Hurrian : volume 1",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Dennis R. M.",
+        "familyName" : "Campbell",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36911",
+      "type" : "OTHER"
+    }, {
+      "id" : "hurrian_campbell2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Chicago",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: P958, LoC Subject Headings: Hurrian language",
+    "subjects" : [ {
+      "value" : "xhu - Hurrian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xviii, 532 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: P958, LoC Subject Headings: Hurrian language -- Mood, LoC Subject Headings: Hurrian language -- Modality, LoC Subject Headings: Hurrian language -- Ergative constructions"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406432",
+    "name" : "hurrian_campbell2007_s.pdf",
+    "creationDate" : "2010-04-01T13:37:57.474+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9099-7",
+    "content" : "/rest/items/item_406433_4/component/file_406432/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "090b793b5a5d419aebd3d798dfc5dadd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3578733,
+    "metadata" : {
+      "title" : "hurrian_campbell2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3578733
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2149183",
+    "name" : "http://oi.uchicago.edu/research/research-archives-library/dissertations/mood-and-modality-hurrian",
+    "creationDate" : "2015-04-28T08:40:14.571+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://oi.uchicago.edu/research/research-archives-library/dissertations/mood-and-modality-hurrian",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3469f25d5ff380732c0aee9717e0ad2c",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://oi.uchicago.edu/research/research-archives-library/dissertations/mood-and-modality-hurrian",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Chicago, Oriental Inst., Research Archives-Libraries, Dissertations, pdf download",
+      "size" : 0
+    }
+  } ]
+}

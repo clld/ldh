@@ -1,0 +1,157 @@
+{
+  "objectId" : "item_400692",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-12T07:05:23.039+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CBE7-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-12T07:05:23.039+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6F02-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:57:09.634+0000",
+  "latestRelease" : {
+    "objectId" : "item_400692",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-12T07:05:23.039+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CBE7-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400692",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-12T07:05:23.039+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CBE7-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Cohesion y enfoque en textos y discursos",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mary Ruth",
+        "familyName" : "Wise",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Anne",
+        "familyName" : "Stewart"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1981",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "23969",
+      "type" : "OTHER"
+    }, {
+      "id" : "discursos_wise1981_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1a ed.",
+      "place" : "Yarinacocha",
+      "publisher" : "Inst. Lingüistico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística Peruana",
+      "volume" : "17",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5271, LoC Subject Headings: Indians of South America--Peru--Languages",
+    "subjects" : [ {
+      "value" : "ame - Yanesha'",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "cbt - Chayahuita",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "arl - Arabela",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "qup - Southern Pastaza Quechua",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "cbv - Cacua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "273 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400691",
+    "name" : "discursos_wise1981_o.pdf",
+    "creationDate" : "2010-04-01T10:57:08.694+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F01-2",
+    "content" : "/rest/items/item_400692_4/component/file_400691/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "890508065a45211f9939ccc3db05d2fb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9508008,
+    "metadata" : {
+      "title" : "discursos_wise1981_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9508008
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2152213",
+    "name" : "http://www.peru.sil.org/resources/archives/30072",
+    "creationDate" : "2015-05-12T07:04:56.505+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/30072",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "34769e62ad5eb6c158c8d9953230b5fe",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/30072",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Language & Culture Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

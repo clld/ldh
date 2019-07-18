@@ -1,0 +1,129 @@
+{
+  "objectId" : "item_878569",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-21T08:42:21.050+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0011-559F-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-21T08:42:21.050+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0011-559F-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2011-04-29T12:52:19.942+0000",
+  "latestRelease" : {
+    "objectId" : "item_878569",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-21T08:42:21.050+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0011-559F-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_878569",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-21T08:42:21.050+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0011-559F-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "" ],
+  "metadata" : {
+    "title" : "Readings in Urdu : prose and poetry",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "C.M.",
+        "familyName" : "Naim",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1965",
+    "genre" : "MONOGRAPH",
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Honolulu",
+      "publisher" : "South Asia Language and Area Center, University of Chicago"
+    },
+    "freeKeywords" : "LoC Class: PK2198.A1,\nLoC Subject Headings: Urdu language--Readers",
+    "subjects" : [ {
+      "type" : "ISO639_3"
+    }, {
+      "value" : "urd - Urdu",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "viii, 396"
+  },
+  "files" : [ {
+    "objectId" : "file_878567",
+    "name" : "urdu_naim1965.pdf",
+    "creationDate" : "2011-04-29T12:52:18.958+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0011-559D-6",
+    "content" : "/rest/items/item_878569_2/component/file_878567/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d981c42ee8313f6635c083695970d0b3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 17506268,
+    "metadata" : {
+      "title" : "urdu_naim1965.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 17506268
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_878568",
+    "name" : "http://dsal.uchicago.edu/digbooks/dig_toc.html?BOOKID=PK1975.N18",
+    "creationDate" : "2011-04-29T12:52:19.304+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0011-559E-4",
+    "content" : "http://dsal.uchicago.edu/digbooks/dig_toc.html?BOOKID=PK1975.N18",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "836ab2c3d8bd73566d58d7a8fcb12167",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dsal.uchicago.edu/digbooks/dig_toc.html?BOOKID=PK1975.N18",
+      "contentCategory" : "publisher-version",
+      "description" : "Digital South Asia Library",
+      "size" : 0
+    }
+  } ]
+}

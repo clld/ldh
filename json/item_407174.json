@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_407174",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-01-16T13:52:01.247+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-92EF-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain\n",
+  "lastModificationDate" : "2015-01-16T13:52:01.247+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-94C5-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:56:38.104+0000",
+  "latestRelease" : {
+    "objectId" : "item_407174",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-01-16T13:52:01.247+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-92EF-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407174",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-01-16T13:52:01.247+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-92EF-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar and vocabulary of the Namaqua-Hottentot language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Henry",
+        "familyName" : "Tindall",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1857",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37761",
+      "type" : "OTHER"
+    }, {
+      "id" : "namaqua_tindall1857_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Cape Town]",
+      "publisher" : "Pike"
+    },
+    "freeKeywords" : "LoC Class: PL8251,\nLoC Subject Headings: Nama language, LoC Subject Headings: Khoikhoi language",
+    "subjects" : [ {
+      "value" : "naq - Nama",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "124 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407172",
+    "name" : "http://www.archive.org/details/gram00marvocabulartindrich",
+    "creationDate" : "2010-04-01T13:56:36.216+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.archive.org/details/gram00marvocabulartindrich",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "21de923a4c407c14230a1248c604b689",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/gram00marvocabulartindrich",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, view online & pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407173",
+    "name" : "namaqua_tindall1857_o.pdf",
+    "creationDate" : "2010-04-01T13:56:37.547+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-94C4-1",
+    "content" : "/rest/items/item_407174_4/component/file_407173/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "631f4f67ee05a8a6b67137a37be89b03",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5303910,
+    "metadata" : {
+      "title" : "namaqua_tindall1857_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5303910,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

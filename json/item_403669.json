@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_403669",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-03-18T10:11:38.103+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7A42-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-18T10:11:38.103+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8108-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:21:55.987+0000",
+  "latestRelease" : {
+    "objectId" : "item_403669",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-18T10:11:38.103+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A42-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403669",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-18T10:11:38.103+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A42-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The Nabaloi dialect",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Otto",
+        "familyName" : "Scheerer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1905",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "31498",
+      "type" : "OTHER"
+    }, {
+      "id" : "nabaloi_scheerer1905_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Ethnological Survey publications / Department of the Interior",
+      "volume" : "2.2-3",
+      "startPage" : "85",
+      "endPage" : "199",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL5731, LoC Subject Headings: Ibaloi language",
+    "subjects" : [ {
+      "value" : "ibl - Ibaloi",
+      "type" : "ISO639_3"
+    } ],
+    "abstracts" : [ {
+      "value" : "LoC Class: PL5731, LoC Subject Headings: Ibaloi language, LoC Subject Headings: Igorot (Philippine people), LoC Subject Headings: Batak (Philippine people)"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403668",
+    "name" : "nabaloi_scheerer1905_o.pdf",
+    "creationDate" : "2010-04-01T12:21:55.237+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8107-A",
+    "content" : "/rest/items/item_403669_6/component/file_403668/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e069fcac0ed3ff690536045775d0d6d9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7332066,
+    "metadata" : {
+      "title" : "nabaloi_scheerer1905_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7332066
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2104303",
+    "name" : "https://archive.org/details/atf7591.0001.001.umich.edu",
+    "creationDate" : "2015-02-26T11:56:09.830+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/atf7591.0001.001.umich.edu",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "40915a3c85ef08e5ceef299a3d99d7d0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/atf7591.0001.001.umich.edu",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org: Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

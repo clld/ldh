@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_402456",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-07T08:55:55.134+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A820-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-07T08:55:55.134+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7941-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:32:01.361+0000",
+  "latestRelease" : {
+    "objectId" : "item_402456",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-07T08:55:55.134+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A820-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402456",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-07T08:55:55.134+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A820-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario Piro (Tokanchi gikshijikowaka-steno)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Joyce",
+        "familyName" : "Nies",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1986",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29915",
+      "type" : "OTHER"
+    }, {
+      "id" : "piro_nies1986_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Lima",
+      "publisher" : "Ministerio de Educación"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística peruana",
+      "volume" : "22",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5818, LoC Subject Headings: Chontaquiro language",
+    "subjects" : [ {
+      "value" : "pib - Yine",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "595 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5818.Z5, LoC Subject Headings: Chontaquiro language--Dictionaries--Spanish, LoC Subject Headings: Spanish language--Dictionaries--Chontaquiro"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402455",
+    "name" : "piro_nies1986_o.pdf",
+    "creationDate" : "2010-04-01T11:31:58.215+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7940-3",
+    "content" : "/rest/items/item_402456_4/component/file_402455/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e8913c43791f13aa88c8fbfdcbc9978d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 33512831,
+    "metadata" : {
+      "title" : "piro_nies1986_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 33512831
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2129349",
+    "name" : "http://www.peru.sil.org/resources/archives/29663",
+    "creationDate" : "2015-04-07T08:54:37.375+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/29663",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6f31d89b7623dfbbace252755b6186c0",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/29663",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Peru Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

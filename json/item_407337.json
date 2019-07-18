@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_407337",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T23:12:07.408+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70E0-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T23:12:07.408+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-95A8-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:11:01.816+0000",
+  "latestRelease" : {
+    "objectId" : "item_407337",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T23:12:07.408+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70E0-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407337",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T23:12:07.408+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70E0-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Definiteness in Northern Sotho",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mampaka Lydia",
+        "familyName" : "Mojapelo",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38342",
+      "type" : "OTHER"
+    }, {
+      "id" : "sotho_mojapelo2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Stellenbosch",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL8690, LoC Subject Headings: Northern Sotho language, LoC Subject Headings: Definiteness (Linguistics)",
+    "subjects" : [ {
+      "value" : "nso - Pedi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "340 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8690,\nLoC Subject Headings: Northern Sotho language--Definiteness, Northern Sotho language--Noun phrase, Definiteness (Linguistics)"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407336",
+    "name" : "sotho_mojapelo2007_s.pdf",
+    "creationDate" : "2010-04-01T14:11:01.369+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-95A7-C",
+    "content" : "/rest/items/item_407337_4/component/file_407336/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "30ca94dc00c456d4fd4ef36caba708bc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3769214,
+    "metadata" : {
+      "title" : "sotho_mojapelo2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3769214
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2049573",
+    "name" : "http://hdl.handle.net/10019.1/1217",
+    "creationDate" : "2014-08-11T09:00:57.283+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/10019.1/1217",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "bf88cd15fc995d4f82263ddf83bf688f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/10019.1/1217",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Stellenbosch, SUNScholar Research Repository, pdf",
+      "size" : 0
+    }
+  } ]
+}

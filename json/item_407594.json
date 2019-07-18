@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_407594",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:38:52.084+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-970C-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:38:52.084+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-970C-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:16:10.797+0000",
+  "latestRelease" : {
+    "objectId" : "item_407594",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:38:52.084+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-970C-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407594",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:38:52.084+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-970C-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Fonologia e aspectos morfológicos e sintáticos da língua Akuntsú",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Aragon, Carolina Coelho",
+        "givenName" : "Carolina Coelho",
+        "familyName" : "Aragon",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "39920",
+      "type" : "OTHER"
+    }, {
+      "id" : "akuntsu_aragon2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Brasília",
+      "publisher" : " Univ. UnB"
+    },
+    "freeKeywords" : "LoC Class: PM7179,\nLoC Subject Headings: Tupi languages --phonology",
+    "totalNumberOfPages" : "xiv, 139 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407592",
+    "name" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=3697",
+    "creationDate" : "2010-04-01T14:16:09.708+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-970A-F",
+    "content" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=3697",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "48130f8b5fffd09303fe12f42dcf0082",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=3697",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407593",
+    "name" : "akuntsu_aragon2008_s.pdf",
+    "creationDate" : "2010-04-01T14:16:10.679+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-970B-D",
+    "content" : "/rest/items/item_407594_2/component/file_407593/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "357a6f957eb03f41cd9f9a18c2dabd98",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 613779,
+    "metadata" : {
+      "title" : "akuntsu_aragon2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 613779
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403394",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:27:38.080+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7ECC-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:27:38.080+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7ECC-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:17:43.159+0000",
+  "latestRelease" : {
+    "objectId" : "item_403394",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:27:38.080+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7ECC-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403394",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:27:38.080+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7ECC-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A phonological study of PWO Karen at Huay-Hom-Nok village, Tambon Tha-Mae-Lob, Mae-Tha district, Lamphun province",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Chuensukon, Naruemon",
+        "givenName" : "Naruemon",
+        "familyName" : "Chuensukon",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1995",
+    "datePublishedInPrint" : "1995",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31203",
+      "type" : "OTHER"
+    }, {
+      "id" : "pwokaren_naruemon1995_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Nakhon Pathom",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PL4054.Z9,\nLoC Subject Headings: Pwo Karen language",
+    "subjects" : [ {
+      "value" : "kjp - Karen, Pwo Eastern",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 180 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403392",
+    "name" : "http://archives.sealang.net/mahidol",
+    "creationDate" : "2010-04-01T12:17:42.461+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7ECA-B",
+    "content" : "http://archives.sealang.net/mahidol",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b90f0b74e428eb7d24c3f080c1c10bb4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://archives.sealang.net/mahidol",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403393",
+    "name" : "pwokaren_naruemon1995_o.pdf",
+    "creationDate" : "2010-04-01T12:17:42.757+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7ECB-9",
+    "content" : "/rest/items/item_403394_2/component/file_403393/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "04d79ad8f8c38d8cf88fff4cd971f844",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3367078,
+    "metadata" : {
+      "title" : "pwokaren_naruemon1995_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3367078
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

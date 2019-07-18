@@ -1,0 +1,152 @@
+{
+  "objectId" : "item_762558",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-03T08:09:56.229+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-01CE-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2015-03-03T08:09:56.229+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0011-25C4-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2011-02-24T10:32:49.643+0000",
+  "latestRelease" : {
+    "objectId" : "item_762558",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-03T08:09:56.229+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-01CE-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_762558",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-03T08:09:56.229+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-01CE-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Gantëya bain : el pueblo siona del río Putumayo, Colombia",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Alva",
+        "familyName" : "Wheeler",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organisations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1987",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : " 958-21-0003-6",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "spa" ],
+    "freeKeywords" : "LoC Class: PM7072.Z5, LoC Subject Headings: Sioni language",
+    "subjects" : [ {
+      "value" : "snn - Siona",
+      "type" : "ISO639_3"
+    } ],
+    "abstracts" : [ {
+      "value" : "LoC Subject Headings: Sioni language--Dictionaries--Spanish, Sioni language--Glossaries, vocabularies, etc."
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_762557",
+    "name" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=22017",
+    "creationDate" : "2011-02-24T10:32:48.985+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=22017",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "bb856b09d8c7ea3ead5ffd76fbb7dfcd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=22017",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International - Languages and Cultures of Colombia",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_762559",
+    "name" : "Gantëya bain tomo 1",
+    "creationDate" : "2011-02-24T10:37:59.364+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0025-01CF-C",
+    "content" : "/rest/items/item_762558_4/component/file_762559/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a63a5a964f0c17245c15b1546fd054f6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 14851979,
+    "metadata" : {
+      "title" : "Gantëya bain tomo 1",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 14851979
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_762560",
+    "name" : "Gantëya bain tomo 2",
+    "creationDate" : "2011-02-24T10:37:59.651+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0025-01D0-6",
+    "content" : "/rest/items/item_762558_4/component/file_762560/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b27fe3b07c77b2dabad9cfc4a423c4b0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6387322,
+    "metadata" : {
+      "title" : "Gantëya bain tomo 2",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6387322
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

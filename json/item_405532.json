@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_405532",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-05-31T11:13:50.011+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8BA4-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:13:50.011+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8BA4-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:14:53.733+0000",
+  "latestRelease" : {
+    "objectId" : "item_405532",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T11:13:50.011+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8BA4-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405532",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T11:13:50.011+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8BA4-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Arte de la lengua Tarasca : dispuesto con nuevo estilo y claridad",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Diego",
+        "familyName" : "Basalenque",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1886",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "35028",
+      "type" : "OTHER"
+    }, {
+      "id" : "tarasca_basalenque1714_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "Reimpr. de la publ. en 1784",
+      "place" : "México",
+      "publisher" : "Oficina tip. de la secretaría de Fomento"
+    },
+    "freeKeywords" : "LoC Subject Headings: Tarascan language",
+    "subjects" : [ {
+      "value" : "tsz - Purepecha",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxxiii, v, 86 S.",
+    "abstracts" : [ {
+      "value" : "PM4297, ISO 639-3 : tsz, Tarascan language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405531",
+    "name" : "tarasca_basalenque1714_o.pdf",
+    "creationDate" : "2010-04-01T13:14:52.999+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8BA3-5",
+    "content" : "/rest/items/item_405532_5/component/file_405531/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "df7aea9acd753c0e0892ccd2881d6bab",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7250927,
+    "metadata" : {
+      "title" : "tarasca_basalenque1714_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7250927,
+      "copyrightDate" : "2010-12-01",
+      "rights" : "not in copyright, Diego Basalenque, 1577-1651"
+    }
+  } ]
+}

@@ -1,0 +1,113 @@
+{
+  "objectId" : "item_406808",
+  "versionNumber" : 5,
+  "modificationDate" : "2013-04-09T12:42:25.719+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-92AE-7",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "message" : "EJ nachgetragen (stand im falschen Feld)",
+  "lastModificationDate" : "2013-04-09T12:42:25.719+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-92AA-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:47:36.367+0000",
+  "latestRelease" : {
+    "objectId" : "item_406808",
+    "versionNumber" : 5,
+    "modificationDate" : "2013-04-09T12:42:25.719+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-92AE-7",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406808",
+    "versionNumber" : 5,
+    "modificationDate" : "2013-04-09T12:42:25.719+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-92AE-7",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Les Vai : leur langue et leur système d'écriture",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Maurice",
+        "familyName" : "Delafosse",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1899",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "37449",
+      "type" : "OTHER"
+    }, {
+      "id" : "vai_delafosse1899_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "freeKeywords" : "LoC Subject Headings: Vai language",
+    "subjects" : [ {
+      "value" : "vai - Vai",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "43 S.",
+    "abstracts" : [ {
+      "value" : "PL8761.1, Vai language --Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406807",
+    "name" : "vai_delafosse1899_o.pdf",
+    "creationDate" : "2010-04-01T13:47:36.143+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-92A9-2",
+    "content" : "/rest/items/item_406808_5/component/file_406807/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7515da279a4929471f7c2bd30cfc6e7e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1875390,
+    "metadata" : {
+      "title" : "vai_delafosse1899_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1875390,
+      "copyrightDate" : "2010-11-24",
+      "rights" : "not in copyrightM Maurice Delafosse 1870-1926"
+    }
+  } ]
+}

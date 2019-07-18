@@ -1,0 +1,153 @@
+{
+  "objectId" : "item_2071097",
+  "versionNumber" : 1,
+  "modificationDate" : "2014-11-14T14:02:13.818+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-361C-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Erlaubnis zur Veröffentlichung vorhanden",
+  "lastModificationDate" : "2014-11-14T14:02:13.818+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0024-361B-B",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-11-14T14:01:08.468+0000",
+  "latestRelease" : {
+    "objectId" : "item_2071097",
+    "versionNumber" : 1,
+    "modificationDate" : "2014-11-14T14:02:13.818+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-361C-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2071097",
+    "versionNumber" : 1,
+    "modificationDate" : "2014-11-14T14:02:13.818+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-361C-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Arguments for Pama-Nyungan as a genetic subgroup, with particular reference to initial laminalization",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Nicholas",
+        "familyName" : "Evans",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1988",
+    "genre" : "BOOK_ITEM",
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Aboriginal linguistics 1",
+      "creators" : [ {
+        "person" : {
+          "givenName" : "Nicholas",
+          "familyName" : "Evans",
+          "organizations" : [ {
+            "identifier" : "ou_persistent22",
+            "name" : "External Organizations",
+            "identifierPath" : [ "ou_persistent22" ]
+          } ]
+        },
+        "role" : "EDITOR",
+        "type" : "PERSON"
+      }, {
+        "person" : {
+          "givenName" : "Steve",
+          "familyName" : "Johnson"
+        },
+        "role" : "EDITOR",
+        "type" : "PERSON"
+      } ],
+      "startPage" : "91",
+      "endPage" : "110",
+      "publishingInfo" : {
+        "place" : "Armidale, N.S.W:",
+        "publisher" : "Univ. of New England, Dept. of Linguistics"
+      },
+      "identifiers" : [ {
+        "id" : "085834857 G",
+        "type" : "ISBN"
+      } ],
+      "genre" : "BOOK"
+    } ],
+    "freeKeywords" : "LoC Class: PL7002, LoC Subject Headings: Pama-Nyungan languages",
+    "totalNumberOfPages" : "20 S."
+  },
+  "files" : [ {
+    "objectId" : "file_2071095",
+    "name" : "pama-nyungan_evans1988_ocr.pdf",
+    "creationDate" : "2014-11-14T13:59:05.542+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-361D-7",
+    "content" : "/rest/items/item_2071097_1/component/file_2071095/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "99efcc24bba4082f17a2ae77e1d8c388",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1449830,
+    "metadata" : {
+      "title" : "pama-nyungan_evans1988_ocr.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1449830,
+      "copyrightDate" : "2014-11-07",
+      "rights" : "© by the author"
+    }
+  }, {
+    "objectId" : "file_2071096",
+    "name" : "http://hdl.handle.net/1885/10440",
+    "creationDate" : "2014-11-14T13:59:05.645+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1885/10440",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1885/10440",
+      "contentCategory" : "any-fulltext",
+      "description" : "ANU, digital collections, Aboriginal Linguistics #1, pdf",
+      "size" : 0
+    }
+  } ]
+}

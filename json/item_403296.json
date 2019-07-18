@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_403296",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T09:02:49.255+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA90-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T09:02:49.255+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E43-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:10:24.237+0000",
+  "latestRelease" : {
+    "objectId" : "item_403296",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T09:02:49.255+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA90-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403296",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T09:02:49.255+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA90-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Restructuring parameters and complex predicates : a transformational approach",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Hyon Sook",
+        "familyName" : "Choe",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1988",
+    "datePublishedInPrint" : "1988",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31130",
+      "type" : "OTHER"
+    }, {
+      "id" : "parameters_choe1988_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P281, LoC Subject Headings: Grammar/Comparative and general--Verb phrase, LoC Subject Headings: Principles and parameters (Linguistics)",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "575 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403295",
+    "name" : "parameters_choe1988_o.pdf",
+    "creationDate" : "2010-04-01T12:10:20.732+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E42-A",
+    "content" : "/rest/items/item_403296_4/component/file_403295/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e71109b0990107941b55f178f58e7f17",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 37681606,
+    "metadata" : {
+      "title" : "parameters_choe1988_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 37681606
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147323",
+    "name" : "http://hdl.handle.net/1721.1/14742",
+    "creationDate" : "2015-04-21T09:02:17.645+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/14742",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "eaef032d5127d78c2f946ecf3a7d1ba1",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/14742",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

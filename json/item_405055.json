@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_405055",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-17T09:30:40.537+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B7B0-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-17T09:30:40.537+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8906-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:54:42.353+0000",
+  "latestRelease" : {
+    "objectId" : "item_405055",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-17T09:30:40.537+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B7B0-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405055",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-17T09:30:40.537+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B7B0-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Woordvolgorde in het Esperanto : Normen, taalgebruik en universalia",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Willem Hendrik",
+        "familyName" : "Jansen",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2007",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "34319",
+      "type" : "OTHER"
+    }, {
+      "id" : "esperanto_jansen2007_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "978-90-78328-36-0",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "nld" ],
+    "sources" : [ {
+      "title" : "LOT Dissertation Series",
+      "volume" : "165",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM8201, LoC Subject Headings: Esperanto",
+    "subjects" : [ {
+      "value" : "epo - Esperanto",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VI, 283 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM8201,\nLoC Subject Headings: Esperanto--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405054",
+    "name" : "esperanto_jansen2007_s.pdf",
+    "creationDate" : "2010-04-01T12:54:42.116+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8905-A",
+    "content" : "/rest/items/item_405055_3/component/file_405054/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "09a199bb79683be0126192bd079a4e86",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1915606,
+    "metadata" : {
+      "title" : "esperanto_jansen2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1915606
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147065",
+    "name" : "http://www.lotpublications.nl/woordvolgorde-in-het-esperanto-woordvolgorde-in-het-esperanto-normen-taalgebruik-en-universalia",
+    "creationDate" : "2015-04-17T09:30:15.207+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.lotpublications.nl/woordvolgorde-in-het-esperanto-woordvolgorde-in-het-esperanto-normen-taalgebruik-en-universalia",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d4e7c935d1caf38d30fd0618e8bfcd75",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lotpublications.nl/woordvolgorde-in-het-esperanto-woordvolgorde-in-het-esperanto-normen-taalgebruik-en-universalia",
+      "contentCategory" : "publisher-version",
+      "description" : "Netherland's Graduate School of Linguistics (LOT), LOT Publications, pdf download",
+      "size" : 0
+    }
+  } ]
+}

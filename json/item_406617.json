@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_406617",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:00:20.121+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-919D-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:00:20.121+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-919D-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:44:23.413+0000",
+  "latestRelease" : {
+    "objectId" : "item_406617",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:00:20.121+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-919D-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406617",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:00:20.121+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-919D-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Sobre a morfologia e a sintaxe da língua Guajá : (Familia Tupí-Guaraní)",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Magalhães, Marina Maria Silva",
+        "givenName" : "Marina Maria Silva",
+        "familyName" : "Magalhães",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37338",
+      "type" : "OTHER"
+    }, {
+      "id" : "guaja_magalhaes2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Brasília",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PM7115,\nLoC Subject Headings: Tenetehara language --Morphosyntax",
+    "subjects" : [ {
+      "value" : "gvj - Guajá",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xviii, 297 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406615",
+    "name" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=3128",
+    "creationDate" : "2010-04-01T13:44:22.838+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-919B-C",
+    "content" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=3128",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "08f16641439e87a513c7548132d2953e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=3128",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406616",
+    "name" : "guaja_magalhaes2007_s.pdf",
+    "creationDate" : "2010-04-01T13:44:23.188+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-919C-A",
+    "content" : "/rest/items/item_406617_2/component/file_406616/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1016e580e3a7bfe1cddf7305c061dbe4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1464372,
+    "metadata" : {
+      "title" : "guaja_magalhaes2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1464372
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

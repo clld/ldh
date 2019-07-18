@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_407007",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-08-05T09:08:34.048+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-1ED6-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-08-05T09:08:34.048+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-93DD-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:52:07.428+0000",
+  "latestRelease" : {
+    "objectId" : "item_407007",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-05T09:08:34.048+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1ED6-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407007",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-05T09:08:34.048+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1ED6-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "'n Dimensionele grammatiese beskrywing van hulpwerkwoorde in Noord-Sotho",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Willem Jacobus",
+        "familyName" : "Pretorius",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37596",
+      "type" : "OTHER"
+    }, {
+      "id" : "hulpwerkwoorde_pretorius2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "nld" ],
+    "publishingInfo" : {
+      "place" : "Johannesburg",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL8690,\nLoC Subject Headings: Sotho language",
+    "subjects" : [ {
+      "value" : "nso - Pedi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "v, 223 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8690,\nLoC Subject Headings: Sotho language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407006",
+    "name" : "hulpwerkwoorde_pretorius2004_s.pdf",
+    "creationDate" : "2010-04-01T13:52:07.216+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-93DC-6",
+    "content" : "/rest/items/item_407007_3/component/file_407006/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ef0e74769fb939060b505889fd505476",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1162069,
+    "metadata" : {
+      "title" : "hulpwerkwoorde_pretorius2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1162069
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2048242",
+    "name" : "http://hdl.handle.net/10210/149",
+    "creationDate" : "2014-08-05T09:07:46.456+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-1ED8-C",
+    "content" : "http://hdl.handle.net/10210/149",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2f02e5ca7a4c819f8af7a7728a307fe4",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/10210/149",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. of Johannesburg, ujdigispace institutional repository, pdfs",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,128 @@
+{
+  "objectId" : "item_407461",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-12T22:26:39.560+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70A1-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T22:26:39.560+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9651-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:13:43.904+0000",
+  "latestRelease" : {
+    "objectId" : "item_407461",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T22:26:39.560+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70A1-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407461",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T22:26:39.560+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70A1-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A prosódia Silábica Surui",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Carolyn",
+        "familyName" : "Bontkes",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2007",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "38930",
+      "type" : "OTHER"
+    }, {
+      "id" : "surui_bontkes2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "freeKeywords" : "LoC Class: PM7173, LoC Subject Headings: Suruí language, LoC Subject Headings: Tupi languages",
+    "subjects" : [ {
+      "value" : "sru - Suruí",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407460",
+    "name" : "surui_bontkes2007_s.pdf",
+    "creationDate" : "2010-04-01T14:13:43.781+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9650-8",
+    "content" : "/rest/items/item_407461_5/component/file_407460/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "546506563ded3351701a4a3961a5effa",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 194682,
+    "metadata" : {
+      "title" : "surui_bontkes2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 194682
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_526978",
+    "name" : "http://www.sil.org/americas/brasil/SILbpub.html#Ling",
+    "creationDate" : "2010-09-22T11:54:03.576+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/brasil/SILbpub.html#Ling",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9530a75a4c45ff6625118b724949a812",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/brasil/SILbpub.html#Ling",
+      "contentCategory" : "any-fulltext",
+      "description" : "SIL Brasil",
+      "size" : 0
+    }
+  } ]
+}

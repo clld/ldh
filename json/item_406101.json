@@ -1,0 +1,159 @@
+{
+  "objectId" : "item_406101",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-12T21:22:25.285+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7037-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:22:25.285+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8ECC-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:29:16.981+0000",
+  "latestRelease" : {
+    "objectId" : "item_406101",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T21:22:25.285+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7037-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406101",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T21:22:25.285+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7037-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Nuclear accent types and prominence : some psycholinguistic experiments",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Gayle Marie",
+        "familyName" : "Ayers",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1996",
+    "datePublishedInPrint" : "1996",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35787",
+      "type" : "OTHER"
+    }, {
+      "id" : "prominence_ayers1996_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "sources" : [ {
+      "title" : "OSDL Ohio State Dissertations in Linguistics",
+      "publishingInfo" : {
+        "place" : "Columbus",
+        "publisher" : "Ohio State Univ."
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P283, LoC Subject Headings: Emphasis (Linguistics), LoC Subject Headings: Psycholinguistics",
+    "totalNumberOfPages" : "XIV, 188 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406100",
+    "name" : "prominence_ayers1996_o.pdf",
+    "creationDate" : "2010-04-01T13:29:16.335+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8ECB-8",
+    "content" : "/rest/items/item_406101_5/component/file_406100/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b47369676be0c8da3f4b8b537af24108",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5939303,
+    "metadata" : {
+      "title" : "prominence_ayers1996_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5939303
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2042738",
+    "name" : "https://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+    "creationDate" : "2014-07-17T08:54:25.833+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "cb39c56f34a2e2754202d51879c49cfd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+      "contentCategory" : "any-fulltext",
+      "description" : "Ohio State Univ., Dep. of Linguistics, OSU Dissertations in Linguistics, 1990-1998, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2042739",
+    "name" : "https://linguistics.osu.edu/sites/linguistics.osu.edu/files/Ayers_dissertation_1996.pdf",
+    "creationDate" : "2014-07-17T08:54:26.183+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://linguistics.osu.edu/sites/linguistics.osu.edu/files/Ayers_dissertation_1996.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b798c6aab39fc640d0a080750524f778",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://linguistics.osu.edu/sites/linguistics.osu.edu/files/Ayers_dissertation_1996.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version ",
+      "size" : 0
+    }
+  } ]
+}

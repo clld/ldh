@@ -1,0 +1,119 @@
+{
+  "objectId" : "item_403417",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T11:55:37.068+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7EF6-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:55:37.068+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7EF6-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:03.680+0000",
+  "latestRelease" : {
+    "objectId" : "item_403417",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:55:37.068+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7EF6-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403417",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:55:37.068+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7EF6-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Morphologie nominale du Baka",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Djoupee, Bertille",
+        "givenName" : "Bertille",
+        "familyName" : "Djoupee",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2001",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31236",
+      "type" : "OTHER"
+    }, {
+      "id" : "baka_djoupee2002_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yaoundé",
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Baka language",
+    "subjects" : [ {
+      "value" : "bkc - Baka (Cameroon)",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "103 S.",
+    "abstracts" : [ {
+      "value" : "PL8047.65, ISO 639-3 : bkc, Baka language (Cameroon and Gabon)--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403416",
+    "name" : "baka_djoupee2002_o.pdf",
+    "creationDate" : "2010-04-01T12:18:03.380+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7EF5-9",
+    "content" : "/rest/items/item_403417_3/component/file_403416/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "eda42b26d9fa669b60b5cb4b2e0caf62",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2538843,
+    "metadata" : {
+      "title" : "baka_djoupee2002_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2538843,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

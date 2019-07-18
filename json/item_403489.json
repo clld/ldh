@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403489",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T11:47:05.335+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7F87-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:47:05.335+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7F87-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:54.703+0000",
+  "latestRelease" : {
+    "objectId" : "item_403489",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:47:05.335+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F87-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403489",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:47:05.335+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F87-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The noun class system of Lefo",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Ebah Ebude, Lydia",
+        "givenName" : "Lydia Ebude",
+        "familyName" : "Ebah",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1990",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31311",
+      "type" : "OTHER"
+    }, {
+      "id" : "lefo_ebah1990_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon --Languages",
+    "subjects" : [ {
+      "value" : "bwt - Bafaw-Balong",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "iv, 102 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : bwt, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403488",
+    "name" : "lefo_ebah1990_o.pdf",
+    "creationDate" : "2010-04-01T12:18:54.385+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7F86-C",
+    "content" : "/rest/items/item_403489_3/component/file_403488/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4ce11b2b9d1ec19d7bcaad6706e90650",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2768501,
+    "metadata" : {
+      "title" : "lefo_ebah1990_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2768501,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

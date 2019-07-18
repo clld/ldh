@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_403050",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-13T01:58:29.904+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7241-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:58:29.904+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7CC6-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:51:42.380+0000",
+  "latestRelease" : {
+    "objectId" : "item_403050",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T01:58:29.904+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7241-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403050",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T01:58:29.904+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7241-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Adjunctions and projections in syntax",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Margaret Jean",
+        "familyName" : "Speas",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1986",
+    "datePublishedInPrint" : "1986",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30905",
+      "type" : "OTHER"
+    }, {
+      "id" : "adjunction_speas1986_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Institute of Technology"
+    },
+    "freeKeywords" : "LoC Class: P291, LoC Subject Headings: Navajo language, LoC Subject Headings: Phrase structure grammar, LoC Subject Headings: Grammar/Comparative and general--Syntax, LoC Subject Headings: Government-binding theory (Linguistics)",
+    "subjects" : [ {
+      "value" : "nav - Navajo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "333 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: P291,\nLoC Subject Headings: Phrase structure grammar, Grammar/Comparative and general--Syntax, Government-binding theory (Linguistics), Navajo language--Syntax"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403049",
+    "name" : "adjunction_speas1986_o.pdf",
+    "creationDate" : "2010-04-01T11:51:40.493+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7CC5-1",
+    "content" : "/rest/items/item_403050_5/component/file_403049/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "26416ff977d05e209e684f81b52f07e8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 19915651,
+    "metadata" : {
+      "title" : "adjunction_speas1986_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 19915651,
+      "copyrightDate" : "2010-12-07",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  }, {
+    "objectId" : "file_2034392",
+    "name" : "http://dspace.mit.edu/handle/1721.1/15108",
+    "creationDate" : "2014-06-24T09:20:17.770+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-CDB2-C",
+    "content" : "http://dspace.mit.edu/handle/1721.1/15108",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4082e2b3266a499a601aa3d97b57b380",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dspace.mit.edu/handle/1721.1/15108",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT Theses, pdf",
+      "size" : 0
+    }
+  } ]
+}

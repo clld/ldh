@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_407723",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:48:31.814+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-97B7-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:48:31.814+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-97B7-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:19:22.999+0000",
+  "latestRelease" : {
+    "objectId" : "item_407723",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:48:31.814+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-97B7-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407723",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:48:31.814+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-97B7-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Papers on discourse",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Joseph E.",
+        "familyName" : "Grimes",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1978",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "41812",
+      "type" : "OTHER"
+    }, {
+      "id" : "discourse_grimes1978_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Dallas, Tex.",
+      "publisher" : "Summer Institute of Linguistics"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics and Related Fields",
+      "volume" : "51",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P302,\nLoC Subject Headings: Discourse analysis",
+    "totalNumberOfPages" : "VIII, 389 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407721",
+    "name" : "http://www.ethnologue.com/show_work.asp?id=15208",
+    "creationDate" : "2010-04-01T14:19:20.329+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-97B5-B",
+    "content" : "http://www.ethnologue.com/show_work.asp?id=15208",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b513dcdf18a2173378859110d9c1e8dd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ethnologue.com/show_work.asp?id=15208",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407722",
+    "name" : "discourse_grimes1978_o.pdf",
+    "creationDate" : "2010-04-01T14:19:21.384+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-97B6-9",
+    "content" : "/rest/items/item_407723_2/component/file_407722/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2856e394519f8c5e3eeced959de24b3a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 16645154,
+    "metadata" : {
+      "title" : "discourse_grimes1978_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 16645154
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

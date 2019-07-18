@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_405476",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:26:37.573+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8B56-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:26:37.573+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B56-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:13:33.356+0000",
+  "latestRelease" : {
+    "objectId" : "item_405476",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:26:37.573+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B56-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405476",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:26:37.573+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B56-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Shona language course : books 1-3",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Carter, Hazel",
+        "givenName" : "Hazel",
+        "familyName" : "Carter",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "G. P.",
+        "familyName" : "Kahari"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1981",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34988",
+      "type" : "OTHER"
+    }, {
+      "id" : "shona_carter1981_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Madison",
+      "publisher" : "Univ. of Wisconsin, African Studies Programm"
+    },
+    "freeKeywords" : "LoC Class: PL8681.2,\nLoC Subject Headings: Shona language",
+    "subjects" : [ {
+      "value" : "sna - Shona",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "Getr. Zählung"
+  },
+  "files" : [ {
+    "objectId" : "file_405474",
+    "name" : "http://tinyurl.com/664cr8",
+    "creationDate" : "2010-04-01T13:13:31.838+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B54-6",
+    "content" : "http://tinyurl.com/664cr8",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "3b33b9006ff383a6b401afe1bdf3cad1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://tinyurl.com/664cr8",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405475",
+    "name" : "shona_carter1981_o.pdf",
+    "creationDate" : "2010-04-01T13:13:32.814+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B55-4",
+    "content" : "/rest/items/item_405476_2/component/file_405475/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d2b4a578f9fa8136658956d8539c84fb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5174822,
+    "metadata" : {
+      "title" : "shona_carter1981_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5174822
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

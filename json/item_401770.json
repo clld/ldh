@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_401770",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-17T11:22:24.271+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-788B-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-17T11:22:24.271+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7539-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:18:26.817+0000",
+  "latestRelease" : {
+    "objectId" : "item_401770",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-17T11:22:24.271+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-788B-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401770",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-17T11:22:24.271+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-788B-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A transformational grammar of Amahuaca (Pano)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Robert Lee",
+        "familyName" : "Russell",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1965",
+    "datePublishedInPrint" : "1965",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "27768",
+      "type" : "OTHER"
+    }, {
+      "id" : "amahuaca_russell1965_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM5388, LoC Subject Headings: Amahuaca language",
+    "subjects" : [ {
+      "value" : "amc - Amahuaca",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "iii, 112 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5388,\nLoC Subject Headings: Amahuaca language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401769",
+    "name" : "amahuaca_russell1965_o.pdf",
+    "creationDate" : "2010-04-01T11:18:26.386+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7538-A",
+    "content" : "/rest/items/item_401770_3/component/file_401769/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "36768a95ad4310e9bdcecbc5bc070c18",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4003811,
+    "metadata" : {
+      "title" : "amahuaca_russell1965_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4003811
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116547",
+    "name" : "http://www.peru.sil.org/resources/archives/9380",
+    "creationDate" : "2015-03-17T11:21:55.947+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/9380",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "96bc5dc042c51aa5795ac14585e3d0ed",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/9380",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

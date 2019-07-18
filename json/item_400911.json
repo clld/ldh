@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_400911",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-04-11T13:01:45.254+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7046-3",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "message" : "Ej ergänzt",
+  "lastModificationDate" : "2013-04-11T13:01:45.254+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7044-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:00:32.772+0000",
+  "latestRelease" : {
+    "objectId" : "item_400911",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-04-11T13:01:45.254+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7046-3",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400911",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-04-11T13:01:45.254+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7046-3",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Elaboración de gramáticas populares de lenguas indígenas : una breve guía; (con ferencia especial a las lenguas otomangues)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Elena Erickson de",
+        "familyName" : "Hollenbach",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1999",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "24678",
+      "type" : "OTHER"
+    }, {
+      "id" : "otomangues_hollenbach1999_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "sources" : [ {
+      "title" : "SIL online",
+      "startPage" : "1",
+      "endPage" : "27",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4145,\nLoC Subject Headings: Otomanguean languages"
+  },
+  "files" : [ {
+    "objectId" : "file_400909",
+    "name" : "http://www.sil.org/americas/mexico/ling/E001-GramaticasPopulares.htm",
+    "creationDate" : "2010-04-01T11:00:32.499+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7042-B",
+    "content" : "http://www.sil.org/americas/mexico/ling/E001-GramaticasPopulares.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2cae4d3c2cc37b6d7c17071ee010a0da",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/mexico/ling/E001-GramaticasPopulares.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400910",
+    "name" : "otomangues_hollenbach1999_s.pdf",
+    "creationDate" : "2010-04-01T11:00:32.698+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7043-9",
+    "content" : "/rest/items/item_400911_3/component/file_400910/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "97a6c8aff2f54fb8ea88ada226e24295",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 93029,
+    "metadata" : {
+      "title" : "otomangues_hollenbach1999_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 93029
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

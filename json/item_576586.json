@@ -1,0 +1,127 @@
+{
+  "objectId" : "item_576586",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-06-21T08:36:48.762+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-D3E3-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-21T08:36:48.762+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-D3E3-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-12-13T09:20:03.690+0000",
+  "latestRelease" : {
+    "objectId" : "item_576586",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-21T08:36:48.762+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-D3E3-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_576586",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-21T08:36:48.762+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-D3E3-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "" ],
+  "metadata" : {
+    "title" : "La lengua Uitota en la obra de K. Th. Preuss : aspectos fonológicos y morfosintácticos",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Gabriele",
+        "familyName" : "Petersen de Piñeros ",
+        "organizations" : [ {
+          "address" : ", ",
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1994",
+    "genre" : "THESIS",
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "place" : "Bogotá",
+      "publisher" : "Ed. Univ. Nacional"
+    },
+    "freeKeywords" : "LoC Subject Headings: Witoto languages",
+    "totalNumberOfPages" : "250 S.",
+    "abstracts" : [ {
+      "value" : "PM7254, ISO 639-3 : -, Preuss, Konrad Theodor, 1869-1938, Witoto language --Phonology, Witoto language --Phonemics, Witoto language --Morphology, Witoto language --Syntax"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_576584",
+    "name" : "witoto_petersendepineros1994_s.pdf",
+    "creationDate" : "2010-12-13T09:20:02.334+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-D3E1-3",
+    "content" : "/rest/items/item_576586_3/component/file_576584/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a67e375fe33b57e16ed2ca1a520177b6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 17164646,
+    "metadata" : {
+      "title" : "witoto_petersendepineros1994_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 17164646,
+      "copyrightDate" : "-",
+      "license" : "http://creativecommons.org/licenses/by-nc-nd/2.5/"
+    }
+  }, {
+    "objectId" : "file_576585",
+    "name" : "http://www.bdigital.unal.edu.co/1434/",
+    "creationDate" : "2010-12-13T09:20:02.654+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-D3E2-1",
+    "content" : "http://www.bdigital.unal.edu.co/1434/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7b27282b635498f9acae849ab44e05b6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.bdigital.unal.edu.co/1434/",
+      "contentCategory" : "any-fulltext",
+      "size" : 0
+    }
+  } ]
+}

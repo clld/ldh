@@ -1,0 +1,129 @@
+{
+  "objectId" : "item_402213",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-02-26T10:05:17.146+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-E429-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-02-26T10:05:17.146+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-77E6-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:27:58.330+0000",
+  "latestRelease" : {
+    "objectId" : "item_402213",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-26T10:05:17.146+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E429-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402213",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-26T10:05:17.146+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E429-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The science of language : founded on lectures delivered at the Royal institution in 1861 and 1863",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "F. Max",
+        "familyName" : "Müller",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1899",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29287",
+      "type" : "OTHER"
+    }, {
+      "id" : "language_mueller1899a_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "London [u.a.]",
+      "publisher" : "Longmans"
+    },
+    "freeKeywords" : "LoC Class: P106,\nLoC Subject Headings: Language and languages, LoC Subject Headings: Comparative linguistics",
+    "totalNumberOfPages" : "xliii, 582 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402212",
+    "name" : "language_mueller1899a_s.pdf",
+    "creationDate" : "2010-04-01T11:27:53.870+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-77E5-0",
+    "content" : "/rest/items/item_402213_3/component/file_402212/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f974d249ba30f9017ddd524cd113d98f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 45839927,
+    "metadata" : {
+      "title" : "language_mueller1899a_s.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 45839927,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2104263",
+    "name" : "https://archive.org/details/sciencelanguage00unkngoog",
+    "creationDate" : "2015-02-26T10:04:29.724+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/sciencelanguage00unkngoog",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4e2ab8f59ed4c7103d651e1373debcd0",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/sciencelanguage00unkngoog",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org: Internet Archive, view online",
+      "size" : 0
+    }
+  } ]
+}

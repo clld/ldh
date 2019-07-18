@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_401358",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:37:22.058+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-72E4-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:37:22.058+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-72E4-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:10:37.080+0000",
+  "latestRelease" : {
+    "objectId" : "item_401358",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:37:22.058+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-72E4-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401358",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:37:22.058+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-72E4-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Lexical categories and argument structure : a study with reference to Sakha ; (met enn samenvatting in het Nederlands)",
+    "alternativeTitles" : [ { }, { } ],
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Vinokurova, Nadezhda",
+        "givenName" : "Nadezhda",
+        "familyName" : "Vinokurova",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "26376",
+      "type" : "OTHER"
+    }, {
+      "id" : "sakha_vinokurova2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "sources" : [ {
+      "title" : "LOT Dissertation Series",
+      "volume" : "103",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL362,\nLoC Subject Headings: Yakut language",
+    "subjects" : [ {
+      "value" : "sah - Yakut",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401356",
+    "name" : "http://www.lotpublications.nl/publish/issues/Vinokurova/index.html",
+    "creationDate" : "2010-04-01T11:10:36.467+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-72E2-2",
+    "content" : "http://www.lotpublications.nl/publish/issues/Vinokurova/index.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7321068f5db6e8e615bfbf56df740ca7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lotpublications.nl/publish/issues/Vinokurova/index.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401357",
+    "name" : "sakha_vinokurova2005_s.pdf",
+    "creationDate" : "2010-04-01T11:10:36.578+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-72E3-F",
+    "content" : "/rest/items/item_401358_2/component/file_401357/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "72a7152e6d7c87e55f06a14f59c0e279",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4767038,
+    "metadata" : {
+      "title" : "sakha_vinokurova2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4767038
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

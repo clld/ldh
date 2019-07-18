@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_405665",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:32:16.544+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8C5F-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:32:16.544+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8C5F-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:18:08.201+0000",
+  "latestRelease" : {
+    "objectId" : "item_405665",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:32:16.544+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8C5F-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405665",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:32:16.544+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8C5F-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "State of Indegenious languages in Australia : 2001",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "McConvell, Patrick",
+        "givenName" : "Patrick",
+        "familyName" : "McConvell",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Nicholas",
+        "familyName" : "Thieberger"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2001",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "35200",
+      "type" : "OTHER"
+    }, {
+      "id" : "australia_mcconvell2001_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N.A.",
+      "publisher" : "N.A."
+    },
+    "sources" : [ {
+      "title" : "Australia State of the Environment Second Technical Paper Series (Natural and Cultural Heritage)",
+      "volume" : "2",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL7003,\nLoC Subject Headings: Australian languages",
+    "totalNumberOfPages" : "VIII, 111 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405663",
+    "name" : "http://www.environment.gov.au/soe/2001/publications/technical/indigenous-languages.html",
+    "creationDate" : "2010-04-01T13:18:04.155+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C5D-0",
+    "content" : "http://www.environment.gov.au/soe/2001/publications/technical/indigenous-languages.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4f4e813b14052e64722e2a5eae53f4b9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.environment.gov.au/soe/2001/publications/technical/indigenous-languages.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405664",
+    "name" : "australia_mcconvell2001_s.pdf",
+    "creationDate" : "2010-04-01T13:18:06.590+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C5E-E",
+    "content" : "/rest/items/item_405665_2/component/file_405664/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3fbfbbd0180ff1f70495fa2eba1dc414",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1073604,
+    "metadata" : {
+      "title" : "australia_mcconvell2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1073604
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

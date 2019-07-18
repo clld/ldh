@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403511",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T09:40:51.934+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7FB5-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:40:51.934+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7FB5-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:08.335+0000",
+  "latestRelease" : {
+    "objectId" : "item_403511",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:40:51.934+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7FB5-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403511",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:40:51.934+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7FB5-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Verbal extensions in Meta'",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Comfort Che",
+        "familyName" : "Ngum",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "02",
+      "type" : "OTHER"
+    }, {
+      "id" : "meta_ngum2004_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "publisher" : "Unversité de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Meta language (Cameroon)",
+    "subjects" : [ {
+      "value" : "mgo - Meta",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "97 S.",
+    "abstracts" : [ {
+      "value" : "PL8514.M471, ISO 639-3 : mgo, Meta language (Cameroon)"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403510",
+    "name" : "meta_ngum2004_o.pdf",
+    "creationDate" : "2010-04-01T12:19:07.933+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7FB4-4",
+    "content" : "/rest/items/item_403511_3/component/file_403510/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "41d140f4851998b4de3fc726dfa22427",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3421764,
+    "metadata" : {
+      "title" : "meta_ngum2004_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3421764,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

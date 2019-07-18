@@ -1,0 +1,144 @@
+{
+  "objectId" : "item_405042",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-10T11:41:58.008+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0BCB-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-10T11:41:58.008+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-88F8-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:54:33.788+0000",
+  "latestRelease" : {
+    "objectId" : "item_405042",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T11:41:58.008+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0BCB-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405042",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T11:41:58.008+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0BCB-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Chinese final particles and the syntax of the periphery",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Boya",
+        "familyName" : "Li",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34298",
+      "type" : "OTHER"
+    }, {
+      "id" : "chinese_boya2006_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "978-90-78328-02-5",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "sources" : [ {
+      "title" : "Landelijke Onderzoekschool Taalwetenschap",
+      "volume" : "133",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL1237, LoC Subject Headings: Chinese language",
+    "subjects" : [ {
+      "value" : "cmn - Mandarin Chinese",
+      "type" : "ISO639_3"
+    } ],
+    "abstracts" : [ {
+      "value" : "LoC Class: PL1237, LoC Subject Headings: Chinese language--Particles, Chinese language--Syntax"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405041",
+    "name" : "chinese_boya2006_s.pdf",
+    "creationDate" : "2010-04-01T12:54:33.518+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-88F7-1",
+    "content" : "/rest/items/item_405042_3/component/file_405041/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fe0b278f65a3494369fd402411a22bbd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2118463,
+    "metadata" : {
+      "title" : "chinese_boya2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2118463
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110623",
+    "name" : "http://hdl.handle.net/1887/4393",
+    "creationDate" : "2015-03-10T11:41:26.162+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1887/4393",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "fa515f0a8d5d7bc9da4a6de184ce1307",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1887/4393",
+      "contentCategory" : "publisher-version",
+      "description" : "Leiden Univ., DSpace, Scholarly Repository, pdf download",
+      "size" : 0
+    }
+  } ]
+}

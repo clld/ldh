@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_400208",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T17:06:03.212+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6E1B-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T17:06:03.212+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6C07-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:42:30.188+0000",
+  "latestRelease" : {
+    "objectId" : "item_400208",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:06:03.212+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E1B-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400208",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:06:03.212+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E1B-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Trique : San Juan Copala, Oaxaca",
+    "creators" : [ {
+      "organization" : {
+        "name" : "Colegio de México"
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    }, {
+      "person" : {
+        "givenName" : "Gloria",
+        "familyName" : "de Ruiz Bravo Ahuja",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1975",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "11814",
+      "type" : "OTHER"
+    }, {
+      "id" : "trique_archivo1975_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "México",
+      "publisher" : "El Colegio de México"
+    },
+    "sources" : [ {
+      "title" : "Archivo de lenguas indígenas de México",
+      "volume" : "02",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4431, LoC Subject Headings: Mexico, LoC Subject Headings: Phonology, LoC Subject Headings: San Juan Copala, LoC Subject Headings: Syntax, LoC Subject Headings: Trique language, LoC Subject Headings: Trique language--Mexico--San Juan Copala--Phonology, LoC Subject Headings: Trique language--Mexico--San Juan Copala--Syntax",
+    "totalNumberOfPages" : "157 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400206",
+    "name" : "http://www.colmex.mx/alim/coleccion.html",
+    "creationDate" : "2010-04-01T10:42:28.823+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6C05-1",
+    "content" : "http://www.colmex.mx/alim/coleccion.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.colmex.mx/alim/coleccion.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400207",
+    "name" : "trique_archivo1975_o.pdf",
+    "creationDate" : "2010-04-01T10:42:29.804+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6C06-0",
+    "content" : "/rest/items/item_400208_3/component/file_400207/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1106c449e9fc115a07b9d8ba2484a365",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2960470,
+    "metadata" : {
+      "title" : "trique_archivo1975_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2960470
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

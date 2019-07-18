@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_408059",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-10T11:47:06.890+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0BE1-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-10T11:47:06.890+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-99A4-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:28:46.977+0000",
+  "latestRelease" : {
+    "objectId" : "item_408059",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T11:47:06.890+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0BE1-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408059",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T11:47:06.890+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0BE1-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Comanche texts",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Elliott",
+        "familyName" : "Canonge",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1958",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "42288",
+      "type" : "OTHER"
+    }, {
+      "id" : "comanche_canonge1958_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Dallas",
+      "publisher" : "Summer Institute of Linguistics"
+    },
+    "sources" : [ {
+      "title" : "SIL International Publications in Linguistics\n",
+      "volume" : "1",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM921.Z77, LoC Subject Headings: Comanche language, LoC Subject Headings: Comanche Indians--Legends",
+    "subjects" : [ {
+      "value" : "com - Comanche",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiii, 156 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM921.Z77, LoC Subject Headings: Comanche language--Texts, Comanche Indians--Legends"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_408058",
+    "name" : "comanche_canonge1958_o.pdf",
+    "creationDate" : "2010-04-01T14:28:46.583+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-99A3-5",
+    "content" : "/rest/items/item_408059_3/component/file_408058/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1d41a168c6d057311765627b56dd6cef",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3584463,
+    "metadata" : {
+      "title" : "comanche_canonge1958_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3584463
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110626",
+    "name" : "http://www.sil.org/resources/archives/8413",
+    "creationDate" : "2015-03-10T11:46:22.065+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/8413",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5e67c78ebd979d619ab49f7c5ee32cac",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/8413",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL.org, Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_408022",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:19:40.704+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-996B-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:19:40.704+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-996B-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:28:04.428+0000",
+  "latestRelease" : {
+    "objectId" : "item_408022",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:19:40.704+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-996B-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408022",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:19:40.704+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-996B-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Southern Sierra Miwok language",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Broadbent, Sylvia M.",
+        "givenName" : "Sylvia M.",
+        "familyName" : "Broadbent",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1964",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "42268",
+      "type" : "OTHER"
+    }, {
+      "id" : "sierramiwok_broadbent1964.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Berkeley, Calif.",
+      "publisher" : "Univ. of California Press"
+    },
+    "freeKeywords" : "LoC Class: PM1845,\nLoC Subject Headings: Miwok languages",
+    "subjects" : [ {
+      "value" : "skd - Miwok, Southern Sierra",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vii, 355 S."
+  },
+  "files" : [ {
+    "objectId" : "file_408020",
+    "name" : "http://www.yosemite.ca.us/library/southern_sierra_miwok_language/",
+    "creationDate" : "2010-04-01T14:28:02.226+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9969-7",
+    "content" : "http://www.yosemite.ca.us/library/southern_sierra_miwok_language/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ec9dcae30b6fb181462f9522406facca",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.yosemite.ca.us/library/southern_sierra_miwok_language/",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408021",
+    "name" : "sierramiwok_broadbent1964.pdf",
+    "creationDate" : "2010-04-01T14:28:03.231+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-996A-5",
+    "content" : "/rest/items/item_408022_2/component/file_408021/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "063a4fa7a885d4d9faa78248b1de8d60",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12039215,
+    "metadata" : {
+      "title" : "sierramiwok_broadbent1964.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12039215
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_402161",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-06-19T07:12:35.722+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-C185-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Stichwörter für LDH-Blog bereinigt",
+  "lastModificationDate" : "2014-06-19T07:12:35.722+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-778E-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:26:50.695+0000",
+  "latestRelease" : {
+    "objectId" : "item_402161",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-06-19T07:12:35.722+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-C185-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402161",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-06-19T07:12:35.722+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-C185-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The interrogative marker Ka in Japanese",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Sonoko",
+        "familyName" : "Takahashi",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1995",
+    "datePublishedInPrint" : "1995",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29242",
+      "type" : "OTHER"
+    }, {
+      "id" : "japanese_takahashi1995_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Columbus]",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: PL570,\nLoC Subject Headings: Japanese language",
+    "subjects" : [ {
+      "value" : "jpn - Japanese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "IX, 119 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL570,\nLoC Subject Headings: Japanese language -- Parts of speech, Japanese language -- Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402160",
+    "name" : "japanese_takahashi1995_o.pdf",
+    "creationDate" : "2010-04-01T11:26:50.377+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-778D-9",
+    "content" : "/rest/items/item_402161_4/component/file_402160/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0327a50e7439150818d13aa9edb0bfe5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2822901,
+    "metadata" : {
+      "title" : "japanese_takahashi1995_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2822901
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2034000",
+    "name" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1116614186",
+    "creationDate" : "2014-06-18T13:49:49.938+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-C186-E",
+    "content" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1116614186",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7ca222f616c41dcdbba808b366bdf881",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1116614186",
+      "contentCategory" : "publisher-version",
+      "description" : "OhioLINK Electronic Theses & Dissertation Center, pdf",
+      "size" : 0
+    }
+  } ]
+}

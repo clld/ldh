@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_407697",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:47:50.264+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9796-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:47:50.264+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9796-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:18:59.297+0000",
+  "latestRelease" : {
+    "objectId" : "item_407697",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:47:50.264+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9796-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407697",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:47:50.264+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9796-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A reference grammar of Southeastern Tepehuan",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Willett, Thomas Leslie",
+        "givenName" : "Thomas Leslie",
+        "familyName" : "Willett",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1991",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "41800",
+      "type" : "OTHER"
+    }, {
+      "id" : "tepehuan_willett1991_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Dallas, Tex.",
+      "publisher" : "SIL [u.a.]"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics and The University of Texas at Arlington Publications in Linguistics",
+      "volume" : "100",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4356,\nLoC Subject Headings: Tepehuan language--Grammar",
+    "subjects" : [ {
+      "value" : "stp - Southeastern Tepehuan",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XII, 282 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407695",
+    "name" : "http://www.ethnologue.com/show_work.asp?id=29375",
+    "creationDate" : "2010-04-01T14:18:57.566+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9794-6",
+    "content" : "http://www.ethnologue.com/show_work.asp?id=29375",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e561cb7a35b928fd1724be5a27e3e0a7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ethnologue.com/show_work.asp?id=29375",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407696",
+    "name" : "tepehuan_willett1991_o.pdf",
+    "creationDate" : "2010-04-01T14:18:58.372+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9795-4",
+    "content" : "/rest/items/item_407697_2/component/file_407696/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0fcf1c3eb64345e0fcc1497ecfeec05b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9390089,
+    "metadata" : {
+      "title" : "tepehuan_willett1991_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9390089
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

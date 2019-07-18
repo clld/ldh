@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_407414",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-10T10:38:08.448+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-ADE8-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-10T10:38:08.448+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-960B-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:13:13.027+0000",
+  "latestRelease" : {
+    "objectId" : "item_407414",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T10:38:08.448+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-ADE8-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407414",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T10:38:08.448+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-ADE8-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dicionário Deni-Português",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Gordon",
+        "familyName" : "Koop",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Lois",
+        "familyName" : "Koop"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1985",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "38876",
+      "type" : "OTHER"
+    }, {
+      "id" : "deni_koop2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por", "dny" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Anápolis",
+      "publisher" : "SIL Brasil"
+    },
+    "freeKeywords" : "LoC Class: PL6621.D35, LoC Subject Headings: Dani language",
+    "subjects" : [ {
+      "value" : "dny - Dení",
+      "type" : "ISO639_3"
+    } ],
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6621.D35, LoC Subject Headings: Dani language --Dictionaries--Portuguese, LoC Subject Headings: Portuguese language--Dictionaries--Dani"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407412",
+    "name" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "creationDate" : "2010-04-01T14:13:12.153+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9530a75a4c45ff6625118b724949a812",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Brazil, Publications, DENI, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407413",
+    "name" : "deni_koop2008_s.pdf",
+    "creationDate" : "2010-04-01T14:13:12.924+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-960A-8",
+    "content" : "/rest/items/item_407414_4/component/file_407413/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7e3abe051ae3339db23f2f4f61ac14e4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 505675,
+    "metadata" : {
+      "title" : "deni_koop2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 505675
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

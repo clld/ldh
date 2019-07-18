@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403851",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-18T12:52:40.202+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7AF5-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-18T12:52:40.202+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-822D-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:26:44.034+0000",
+  "latestRelease" : {
+    "objectId" : "item_403851",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T12:52:40.202+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7AF5-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403851",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T12:52:40.202+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7AF5-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Évolution lexicale du galibi : langue caribe de Guyane Française ",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Odile",
+        "familyName" : "Renault-Lescure",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1981",
+    "datePublishedInPrint" : "1981",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31822",
+      "type" : "OTHER"
+    }, {
+      "id" : "guyane_renaultlescure1981_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "place" : "Paris",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM5756, LoC Subject Headings: Carib language",
+    "subjects" : [ {
+      "value" : "car - Galibi Carib",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "[274 S.]",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5756,\nLoC Subject Headings: Carib language--Lexicology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403850",
+    "name" : "guyane_renaultlescure1981_o.pdf",
+    "creationDate" : "2010-04-01T12:26:42.958+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-822C-0",
+    "content" : "/rest/items/item_403851_3/component/file_403850/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c2dad328f7cf554fa505d045a609db16",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10968569,
+    "metadata" : {
+      "title" : "guyane_renaultlescure1981_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10968569
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116782",
+    "name" : "http://www.infos-guyane.com/evolution-lexicale-galibi-langue-caribe-guyane-francaise/",
+    "creationDate" : "2015-03-18T12:52:01.821+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.infos-guyane.com/evolution-lexicale-galibi-langue-caribe-guyane-francaise/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d7d3297101c7d0617006affb2fd65522",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.infos-guyane.com/evolution-lexicale-galibi-langue-caribe-guyane-francaise/",
+      "contentCategory" : "publisher-version",
+      "description" : "Infos Guyane, Informations et ressources sur la Guyane, Langues, Document -> pdf download",
+      "size" : 0
+    }
+  } ]
+}

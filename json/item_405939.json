@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_405939",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:28:25.983+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8DE7-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:28:25.983+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8DE7-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:23:52.911+0000",
+  "latestRelease" : {
+    "objectId" : "item_405939",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:28:25.983+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8DE7-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405939",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:28:25.983+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8DE7-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Premiere evaluation globale de la situation sociolinguistique de la langue Lefa",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Mbongue, Joseph",
+        "givenName" : "Joseph",
+        "familyName" : "Mbongue",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1999",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "35556",
+      "type" : "OTHER"
+    }, {
+      "id" : "lefa_mbongue1999_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N.A.",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL8047.5.B42,\nLoC Subject Headings: Bafia language",
+    "subjects" : [ {
+      "value" : "lfa - Lefa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "19 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405937",
+    "name" : "http://www.silinternational.org/africa/cameroun/bydomain/linguistics/archives/bafia_mbongue1999_2412_p.pdf",
+    "creationDate" : "2010-04-01T13:23:52.046+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8DE5-3",
+    "content" : "http://www.silinternational.org/africa/cameroun/bydomain/linguistics/archives/bafia_mbongue1999_2412_p.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.silinternational.org/africa/cameroun/bydomain/linguistics/archives/bafia_mbongue1999_2412_p.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405938",
+    "name" : "lefa_mbongue1999_o.pdf",
+    "creationDate" : "2010-04-01T13:23:52.769+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8DE6-1",
+    "content" : "/rest/items/item_405939_2/component/file_405938/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fc505b5c4f5933aad14d1166f3a2955d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 766411,
+    "metadata" : {
+      "title" : "lefa_mbongue1999_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 766411
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

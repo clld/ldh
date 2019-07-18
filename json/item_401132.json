@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_401132",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:28:43.511+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7198-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:28:43.511+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7198-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:04:54.870+0000",
+  "latestRelease" : {
+    "objectId" : "item_401132",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:28:43.511+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7198-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401132",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:28:43.511+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7198-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A segmental phonology of the Oku language",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Davis, Leslie Kim",
+        "givenName" : "Leslie Kim",
+        "familyName" : "Davis",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1992",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "25082",
+      "type" : "OTHER"
+    }, {
+      "id" : "oku_davis1992_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PL8021.C35,\nLoC Subject Headings: Cameroon--Languages",
+    "subjects" : [ {
+      "value" : "oku - Oku",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xi, 109 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401130",
+    "name" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/oku_davis1992_1842_p.pdf",
+    "creationDate" : "2010-04-01T11:04:54.040+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7196-7",
+    "content" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/oku_davis1992_1842_p.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/archives/oku_davis1992_1842_p.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401131",
+    "name" : "oku_davis1992_o.pdf",
+    "creationDate" : "2010-04-01T11:04:54.580+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7197-5",
+    "content" : "/rest/items/item_401132_2/component/file_401131/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "63f06d9e6b66a7b85fe8ed8006b5ffeb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2505360,
+    "metadata" : {
+      "title" : "oku_davis1992_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2505360
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

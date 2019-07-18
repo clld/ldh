@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_405221",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:21:23.647+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-89ED-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:21:23.647+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-89ED-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:04:13.309+0000",
+  "latestRelease" : {
+    "objectId" : "item_405221",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:21:23.647+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-89ED-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405221",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:21:23.647+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-89ED-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A performatividade na linguagem da resistência kaiowa/guarani/",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Filho, Antonio José",
+        "givenName" : "Antonio José",
+        "familyName" : "Filho",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34402",
+      "type" : "OTHER"
+    }, {
+      "id" : "kaiowa_filho2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PM7171,\nLoC Subject Headings: Guarani language",
+    "subjects" : [ {
+      "value" : "gug - Guaraní, Paraguayan",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405219",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000372989",
+    "creationDate" : "2010-04-01T13:04:10.826+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-89EB-6",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000372989",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a6f00570fc8257f4fbc4317b00debf62",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000372989",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405220",
+    "name" : "kaiowa_filho2005_s.pdf",
+    "creationDate" : "2010-04-01T13:04:12.002+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-89EC-4",
+    "content" : "/rest/items/item_405221_2/component/file_405220/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4495af778960e059794f39e235f8fe81",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 13302940,
+    "metadata" : {
+      "title" : "kaiowa_filho2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 13302940
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,111 @@
+{
+  "objectId" : "item_2049456",
+  "versionNumber" : 1,
+  "modificationDate" : "2014-08-08T08:36:31.848+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-292C-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2014-08-08T08:36:31.848+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-001A-292A-C",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-08-08T08:35:49.564+0000",
+  "latestRelease" : {
+    "objectId" : "item_2049456",
+    "versionNumber" : 1,
+    "modificationDate" : "2014-08-08T08:36:31.848+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-292C-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_2049456",
+    "versionNumber" : 1,
+    "modificationDate" : "2014-08-08T08:36:31.848+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-292C-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Dhuwal (Arnhem Land) texts on kinship and other subjects : with grammatical sketch and dictionary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jeffrey",
+        "familyName" : "Heath",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1980",
+    "genre" : "MONOGRAPH",
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Sydney]",
+      "publisher" : "[Univ. of Sydney]"
+    },
+    "sources" : [ {
+      "title" : "Oceania linguistic monographs",
+      "volume" : "23",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL7091.A7, LoC Subject Headings: Dhuwal language",
+    "subjects" : [ {
+      "value" : "duj - Dhuwal",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "iv, 241 S."
+  },
+  "files" : [ {
+    "objectId" : "file_2049455",
+    "name" : "dhuwal_heath1980_o.pdf",
+    "creationDate" : "2014-08-08T08:35:49.278+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-292E-4",
+    "content" : "/rest/items/item_2049456_1/component/file_2049455/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9bb296d26be353959535abf8aa09d4b7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11920010,
+    "metadata" : {
+      "title" : "dhuwal_heath1980_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11920010,
+      "copyrightDate" : "2014-May-01",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

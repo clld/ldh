@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_407147",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-18T09:39:00.588+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7A1C-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-18T09:39:00.588+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9495-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:56:14.743+0000",
+  "latestRelease" : {
+    "objectId" : "item_407147",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-18T09:39:00.588+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A1C-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407147",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-18T09:39:00.588+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A1C-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Les classes nominales dans les langues bantoues des groupes B.10, B.20, B.30 (Gabon-Congo)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "André",
+        "familyName" : "Jacquot",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1983",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37746",
+      "type" : "OTHER"
+    }, {
+      "id" : "bantoues_jacquot1983_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "-7099-0678",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Paris",
+      "publisher" : "O.R.S.T.O.M."
+    },
+    "sources" : [ {
+      "title" : "Travaux et documents de l'ORSTOM",
+      "volume" : "157",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL8025.1, LoC Subject Headings: Bantu languages, LoC Subject Headings: Gabon--Languages",
+    "totalNumberOfPages" : "360 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8025.1,\nLoC Subject Headings: Bantu languages--Gabon--Noun, Bantu languages--Congo (Brazzaville)--Noun, Gabon--Languages--Noun, Congo (Brazzaville)--Languages--Noun"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407145",
+    "name" : "http://www.ddl.ish-lyon.cnrs.fr/fulltext/Gabon/B20/Jacquot_1983_B10_B20_B30.pdf",
+    "creationDate" : "2010-04-01T13:55:44.974+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.ddl.ish-lyon.cnrs.fr/fulltext/Gabon/B20/Jacquot_1983_B10_B20_B30.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "bc0ba8d6c95d8ecfa649a9bd5dead6d1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ddl.ish-lyon.cnrs.fr/fulltext/Gabon/B20/Jacquot_1983_B10_B20_B30.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407146",
+    "name" : "bantoues_jacquot1983_o.pdf",
+    "creationDate" : "2010-04-01T13:56:13.942+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9494-F",
+    "content" : "/rest/items/item_407147_4/component/file_407146/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6f8729694a5ef48ba98473dd3fd3d805",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7595216,
+    "metadata" : {
+      "title" : "bantoues_jacquot1983_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7595216
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,119 @@
+{
+  "objectId" : "item_403582",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T23:19:25.127+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70FA-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T23:19:25.127+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-804C-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:57.147+0000",
+  "latestRelease" : {
+    "objectId" : "item_403582",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T23:19:25.127+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70FA-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403582",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T23:19:25.127+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70FA-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Le syntagme nominal du Yasa",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Bouh Ma Sitna, Charles Lwanga",
+        "givenName" : "Charles Lwanga",
+        "familyName" : "Bouh Ma Sitna",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31416",
+      "type" : "OTHER"
+    }, {
+      "id" : "yasa_bouh2004_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé I"
+    },
+    "freeKeywords" : "LoC Subject Headings: Yasa language, LoC Subject Headings: Cameroon --Languages",
+    "subjects" : [ {
+      "value" : "yko - Yasa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "94 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : yko , Yasa language, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403581",
+    "name" : "yasa_bouh2004_o.pdf",
+    "creationDate" : "2010-04-01T12:19:56.834+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-804B-9",
+    "content" : "/rest/items/item_403582_4/component/file_403581/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "78ccd148eb3b42ae4bc2eebdb0def477",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2731687,
+    "metadata" : {
+      "title" : "yasa_bouh2004_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2731687,
+      "copyrightDate" : "2010-11-29",
+      "rights" : "with permission from Université de Yaounde I"
+    }
+  } ]
+}

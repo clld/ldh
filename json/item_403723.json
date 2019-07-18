@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403723",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-14T08:31:22.333+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B24B-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-14T08:31:22.333+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-816A-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:22:43.025+0000",
+  "latestRelease" : {
+    "objectId" : "item_403723",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-14T08:31:22.333+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B24B-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403723",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-14T08:31:22.333+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B24B-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario Iningles-Binisaya",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jose Maria",
+        "familyName" : "Cuenco",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Mariano A.",
+        "familyName" : "Cuenco"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1927",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "31556",
+      "type" : "OTHER"
+    }, {
+      "id" : "binisaya_cuenco1935.html",
+      "type" : "OTHER"
+    } ],
+    "freeKeywords" : "LoC Class: PL5711.4 .Y37, LoC Subject Headings: Cebuano language",
+    "subjects" : [ {
+      "value" : "ceb - Cebuano",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "20, 238 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL5711.4 .Y37,\nLoC Subject Headings: English language--Dictionaries--Cebuano"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403722",
+    "name" : "binisaya_cuenco1935.pdf",
+    "creationDate" : "2010-04-01T12:22:41.867+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8169-C",
+    "content" : "/rest/items/item_403723_3/component/file_403722/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "51476600b119c865ac39a09fa94f96fd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11928136,
+    "metadata" : {
+      "title" : "binisaya_cuenco1935.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11928136
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2144423",
+    "name" : "http://name.umdl.umich.edu/AQJ7943.0001.001",
+    "creationDate" : "2015-04-14T08:30:55.573+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://name.umdl.umich.edu/AQJ7943.0001.001",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b8ec07594bb9f47c4f57ce13e59a6a19",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://name.umdl.umich.edu/AQJ7943.0001.001",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Michigan Digital Library (UMDL), Text Collections, view online",
+      "size" : 0
+    }
+  } ]
+}

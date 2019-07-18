@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_406259",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-03T10:28:18.872+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0223-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-03T10:28:18.872+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8FAC-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:34:04.303+0000",
+  "latestRelease" : {
+    "objectId" : "item_406259",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T10:28:18.872+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0223-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406259",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T10:28:18.872+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0223-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Language use and proficiency in a multilingual setting : A sociolinguistic survey of Agutaynen speakers in Palawan, Philippines",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "John Stephen",
+        "familyName" : "Quakenbush",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1989",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "36588",
+      "type" : "OTHER"
+    }, {
+      "id" : "agutaynen_quakenbush1989_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "ISBN 971-1059-13-4",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Philippine journal of linguistics : special monograph issue",
+      "volume" : "28",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL5985.Z9 A332, LoC Subject Headings: Palawan (Philippine people), LoC Subject Headings: Agutaynen dialect",
+    "totalNumberOfPages" : "XV, 164 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL5985.Z9 A332,\nLoC Subject Headings: Palawan (Philippine people), Agutaynen dialect--Grammar, Agutaynen dialect--Bilingual method, Philippines--Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406257",
+    "name" : "http://www.sil.org/asia/philippines/plb_download.html",
+    "creationDate" : "2010-04-01T13:34:02.411+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/asia/philippines/plb_download.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2527e9f1f93955e95b05b18f0023b74f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/asia/philippines/plb_download.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406258",
+    "name" : "agutaynen_quakenbush1989_s.pdf",
+    "creationDate" : "2010-04-01T13:34:04.136+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8FAB-8",
+    "content" : "/rest/items/item_406259_3/component/file_406258/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2412d2ec06d575251e207f5e00711668",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1087800,
+    "metadata" : {
+      "title" : "agutaynen_quakenbush1989_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1087800
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

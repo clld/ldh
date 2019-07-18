@@ -1,0 +1,116 @@
+{
+  "objectId" : "item_406181",
+  "versionNumber" : 4,
+  "modificationDate" : "2012-02-14T13:34:34.771+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8F43-1",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "lastModificationDate" : "2012-02-14T13:34:34.771+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8F40-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:31:18.819+0000",
+  "latestRelease" : {
+    "objectId" : "item_406181",
+    "versionNumber" : 4,
+    "modificationDate" : "2012-02-14T13:34:34.771+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8F43-1",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406181",
+    "versionNumber" : 4,
+    "modificationDate" : "2012-02-14T13:34:34.771+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8F43-1",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "La dynamique des langues camerounaises en contact avec le Francais : approche macrosociolinguistique",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Zachée Denis ",
+        "familyName" : "Bitjaa Kody",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36439",
+      "type" : "OTHER"
+    }, {
+      "id" : "camerounaises_bitjaa2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "place" : "Yaounde",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon Languages ",
+    "subjects" : [ {
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XVII, 630 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, Cameroon -- Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406180",
+    "name" : "camerounaises_bitjaa2004_s.pdf",
+    "creationDate" : "2010-04-01T13:31:18.021+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8F3F-D",
+    "content" : "/rest/items/item_406181_4/component/file_406180/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7d8cd4f9c1ac7f9176840779e8601355",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7718000,
+    "metadata" : {
+      "title" : "camerounaises_bitjaa2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7718000,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaounde I "
+    }
+  } ]
+}

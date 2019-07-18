@@ -1,0 +1,148 @@
+{
+  "objectId" : "item_405522",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-02-20T10:10:34.637+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-CE85-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-02-20T10:10:34.637+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B93-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:14:17.530+0000",
+  "latestRelease" : {
+    "objectId" : "item_405522",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-20T10:10:34.637+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-CE85-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405522",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-20T10:10:34.637+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-CE85-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gramática teaducida en lengua Tagala de la Castellana ; Gramática na isinauicang tagalog nang sa castila",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Zacarias",
+        "familyName" : "Villamarin",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Acisclo",
+        "familyName" : "Vallin y Bustillo",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1886",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "35023",
+      "type" : "OTHER"
+    }, {
+      "id" : "tagalog_vallinybustillo1886.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[Manila]",
+      "publisher" : "La Industrial"
+    },
+    "freeKeywords" : "LoC Class: PL6054,\nLoC Subject Headings: Tagalog language",
+    "subjects" : [ {
+      "value" : "tgl - Tagalog",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "254 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6054,\nLoC Subject Headings: Spanish language--Grammar, Tagalog language--Grammar, Tagalog language--Study and teaching"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405521",
+    "name" : "tagalog_vallinybustillo1886.pdf",
+    "creationDate" : "2010-04-01T13:14:16.048+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B92-B",
+    "content" : "/rest/items/item_405522_3/component/file_405521/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "75f03a6d2ec383c9ba12597b67176493",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 15535701,
+    "metadata" : {
+      "title" : "tagalog_vallinybustillo1886.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 15535701,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2096438",
+    "name" : "https://archive.org/details/gramticanaisina01villgoog",
+    "creationDate" : "2015-02-20T10:10:06.214+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/gramticanaisina01villgoog",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "74ed7f11e8b5673d3854d936ffaaf8dd",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/gramticanaisina01villgoog",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, read online",
+      "size" : 0
+    }
+  } ]
+}

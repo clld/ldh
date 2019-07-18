@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_403308",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-06-06T07:51:12.622+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7E53-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:51:12.622+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E53-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:12:09.921+0000",
+  "latestRelease" : {
+    "objectId" : "item_403308",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-06-06T07:51:12.622+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7E53-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403308",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-06-06T07:51:12.622+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7E53-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Crossing and nested paths--NP movement in accusative and ergative languages",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Kumiko",
+        "familyName" : "Murasugi",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1992",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31138",
+      "type" : "OTHER"
+    }, {
+      "id" : "paths_murasugi1992_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cambridge",
+      "publisher" : "Massachussets Inst. of Technology"
+    },
+    "totalNumberOfPages" : "222 S.",
+    "abstracts" : [ {
+      "value" : "P291.5, ISO 639-3 : -, Generative grammar, Grammar, Comparative and general -- Case, Grammar, Comparative and general -- Ergative constructions"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403306",
+    "name" : "http://www.ai.mit.edu/projects/dm/theses/murasugi92.pdf",
+    "creationDate" : "2010-04-01T12:11:47.642+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E51-8",
+    "content" : "http://www.ai.mit.edu/projects/dm/theses/murasugi92.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "bdf16b6691b5073f540dae80b9a862f1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ai.mit.edu/projects/dm/theses/murasugi92.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403307",
+    "name" : "paths_murasugi1992_o.pdf",
+    "creationDate" : "2010-04-01T12:12:08.877+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E52-6",
+    "content" : "/rest/items/item_403308_5/component/file_403307/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2dd941f5d60b224719562d562d788286",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10822747,
+    "metadata" : {
+      "title" : "paths_murasugi1992_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10822747,
+      "copyrightDate" : "2010-06-12",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

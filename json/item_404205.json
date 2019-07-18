@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_404205",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-10T09:15:03.483+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0AC1-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-10T09:15:03.483+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8421-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:37:13.055+0000",
+  "latestRelease" : {
+    "objectId" : "item_404205",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T09:15:03.483+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0AC1-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404205",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T09:15:03.483+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0AC1-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Discontinuous verb-object compounds in Cantonese and Mandarin",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "So Sum",
+        "familyName" : "Yu",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32465",
+      "type" : "OTHER"
+    }, {
+      "id" : "cantonese_yu2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Hongkong",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL1733, LoC Subject Headings: Cantonese dialects, LoC Subject Headings: Mandarin dialects",
+    "subjects" : [ {
+      "value" : "yue - Chinese, Yue",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "cmn - Mandarin Chinese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VIII, 117 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL1733,\nLoC Subject Headings: Cantonese dialects--Syntax, Mandarin dialects--Syntax, Cantonese dialects--Morphology, Mandarin dialects--Morphology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404204",
+    "name" : "cantonese_yu2003_s.pdf",
+    "creationDate" : "2010-04-01T12:37:12.841+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8420-1",
+    "content" : "/rest/items/item_404205_3/component/file_404204/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5edfd7edb6e093b960aa220a8a68b346",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1603547,
+    "metadata" : {
+      "title" : "cantonese_yu2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1603547
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110499",
+    "name" : "http://hub.hku.hk/handle/10722/31220",
+    "creationDate" : "2015-03-10T09:13:50.469+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hub.hku.hk/handle/10722/31220",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "20132a39455d6391fdf09ad8af10c426",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hub.hku.hk/handle/10722/31220",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Hong Kong, The HKU Scholars Hub, pdf download",
+      "size" : 0
+    }
+  } ]
+}

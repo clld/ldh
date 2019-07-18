@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_407319",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:18:54.758+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-958D-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:18:54.758+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-958D-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:10:41.313+0000",
+  "latestRelease" : {
+    "objectId" : "item_407319",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:18:54.758+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-958D-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407319",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:18:54.758+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-958D-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Causative and inchoative alternation in Taiwanese Southern Min : in comparison with Mandarin and English",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Chien-Lung Chiang",
+        "givenName" : "Chien-Lung",
+        "familyName" : "Chiang",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38324",
+      "type" : "OTHER"
+    }, {
+      "id" : "min_chiang1234_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng", "zho" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Hsinchu",
+      "publisher" : " National Tsing Hua Univ."
+    },
+    "freeKeywords" : "LoC Class: PL1710 .T28,\nLoC Subject Headings: Southern Min dialects --Taiwan",
+    "subjects" : [ {
+      "value" : "cmn - Mandarin Chinese",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "nan - Chinese, Min Nan",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "[7 Bl.], 103 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407317",
+    "name" : "http://140.114.72.28/handle/987654321/6666",
+    "creationDate" : "2010-04-01T14:10:22.479+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-958B-E",
+    "content" : "http://140.114.72.28/handle/987654321/6666",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4224701fd25ee7938e6943a6ee21a208",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://140.114.72.28/handle/987654321/6666",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407318",
+    "name" : "min_chiang1234_s.pdf",
+    "creationDate" : "2010-04-01T14:10:40.874+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-958C-C",
+    "content" : "/rest/items/item_407319_2/component/file_407318/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ddd285c35682c9fcfa0a633002269aec",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 572076,
+    "metadata" : {
+      "title" : "min_chiang1234_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 572076
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

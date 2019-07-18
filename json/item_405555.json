@@ -1,0 +1,145 @@
+{
+  "objectId" : "item_405555",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T20:32:08.121+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FC9-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:32:08.121+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8BC6-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:15:28.247+0000",
+  "latestRelease" : {
+    "objectId" : "item_405555",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:32:08.121+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FC9-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405555",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:32:08.121+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FC9-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Thai : basic course",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Yates, Warren G.",
+        "givenName" : "Warren G.",
+        "familyName" : "Yates",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Absorn",
+        "familyName" : "Tryon"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1970",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "35047",
+      "type" : "OTHER"
+    }, {
+      "id" : "thai_yates1970_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Washington, DC",
+      "publisher" : "Foreign Service Inst., Dep. of State"
+    },
+    "sources" : [ {
+      "title" : "Foreign Service Institute basic course series",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL4163, LoC Subject Headings: Thai language -- Spoken Thai, LoC Subject Headings: Thai language -- Textbooks for foreign speakers, LoC Subject Headings: Thai language -- Programmed instruction, LoC Subject Headings: Thai language -- Grammar",
+    "subjects" : [ {
+      "value" : "tha - Thai",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XLI, 326, G 59 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405553",
+    "name" : "http://fsi-language-courses.com/",
+    "creationDate" : "2010-04-01T13:15:26.190+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://fsi-language-courses.com/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "55f31f6bbe361f74cc53907ac70aa706",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://fsi-language-courses.com/",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405554",
+    "name" : "thai_yates1970_o.pdf",
+    "creationDate" : "2010-04-01T13:15:27.266+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8BC5-A",
+    "content" : "/rest/items/item_405555_3/component/file_405554/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8b52fdd2c1bdc4afec3a33f5595994dd",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9892720,
+    "metadata" : {
+      "title" : "thai_yates1970_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9892720
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,144 @@
+{
+  "objectId" : "item_406170",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-08-05T11:02:23.909+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-1F9D-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Quelle: bibliograf. Daten korrigiert",
+  "lastModificationDate" : "2014-08-05T11:02:23.909+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8F31-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:31:06.099+0000",
+  "latestRelease" : {
+    "objectId" : "item_406170",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-05T11:02:23.909+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1F9D-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406170",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-08-05T11:02:23.909+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1F9D-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Domains in Michif phonology",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Nicole",
+        "familyName" : "Rosen",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36394",
+      "type" : "OTHER"
+    }, {
+      "id" : "michif_rosen2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Toronto",
+      "publisher" : "Univ. of Toronto"
+    },
+    "sources" : [ {
+      "title" : "Toronto Working Papers in Linguistics : TWPL",
+      "publishingInfo" : {
+        "place" : "Toronto",
+        "publisher" : "Univ."
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM7895.M53,\nLoC Subject Headings: Michif language",
+    "subjects" : [ {
+      "value" : "crg - Michif",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 272 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406169",
+    "name" : "michif_rosen2007_s.pdf",
+    "creationDate" : "2010-04-01T13:31:05.780+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8F30-B",
+    "content" : "/rest/items/item_406170_4/component/file_406169/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1fe100cde8c7d56a257c94077370f03a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2331856,
+    "metadata" : {
+      "title" : "michif_rosen2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2331856
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2042766",
+    "name" : "http://twpl.library.utoronto.ca/index.php/twpl/article/view/6495",
+    "creationDate" : "2014-07-17T09:43:49.511+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-1F9F-4",
+    "content" : "http://twpl.library.utoronto.ca/index.php/twpl/article/view/6495",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e5c8c88508dec188fe30135e51c50bf7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://twpl.library.utoronto.ca/index.php/twpl/article/view/6495",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. of Toronto, Toronto Working Papers in Linguistics TWPL, pdf",
+      "size" : 0
+    }
+  } ]
+}

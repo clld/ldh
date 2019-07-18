@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_405617",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:10:47.449+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8C1B-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:10:47.449+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8C1B-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:16:23.465+0000",
+  "latestRelease" : {
+    "objectId" : "item_405617",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:10:47.449+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8C1B-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405617",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:10:47.449+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8C1B-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Viracnon : language packet",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Meman, Paz B.",
+        "givenName" : "Paz B.",
+        "familyName" : "Meman",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1990",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "35089",
+      "type" : "OTHER"
+    }, {
+      "id" : "viracnon_meman1990_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng", "" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Manila (Philippines)",
+      "publisher" : "Peace Corps"
+    },
+    "freeKeywords" : "LoC Class: PL5582,\nLoC Subject Headings: Bikol language",
+    "totalNumberOfPages" : "324 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405615",
+    "name" : "http://tinyurl.com/5ecmgz",
+    "creationDate" : "2010-04-01T13:16:22.229+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C19-8",
+    "content" : "http://tinyurl.com/5ecmgz",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "818bee50ba75c39ceec193c6285b840e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://tinyurl.com/5ecmgz",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405616",
+    "name" : "viracnon_meman1990_o.pdf",
+    "creationDate" : "2010-04-01T13:16:22.811+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C1A-6",
+    "content" : "/rest/items/item_405617_2/component/file_405616/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d409831dcd0caaacea72a5da565a2837",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6341815,
+    "metadata" : {
+      "title" : "viracnon_meman1990_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6341815
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

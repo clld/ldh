@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_407262",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-18T08:49:10.494+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-79F1-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-18T08:49:10.494+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-953F-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:03:14.359+0000",
+  "latestRelease" : {
+    "objectId" : "item_407262",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-18T08:49:10.494+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-79F1-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407262",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-18T08:49:10.494+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-79F1-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "On relativization in Squliq Atayal",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Adlay Kun-long",
+        "familyName" : "Liu",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38011",
+      "type" : "OTHER"
+    }, {
+      "id" : "atayal_liu2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Hsinchu",
+      "publisher" : "National Tsing Hua Univ."
+    },
+    "freeKeywords" : "LoC Class:  PL6151.1, LoC Subject Headings: Atayal language",
+    "subjects" : [ {
+      "value" : "tay - Atayal",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 199 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class:  PL6151.1, LoC Subject Headings: Atayal language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407260",
+    "name" : "http://140.114.72.28/handle/987654321/7605",
+    "creationDate" : "2010-04-01T14:03:07.253+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://140.114.72.28/handle/987654321/7605",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7c2c7dbbf87065732526c91b1502cbca",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://140.114.72.28/handle/987654321/7605",
+      "contentCategory" : "publisher-version",
+      "description" : "National Tsing Hua University (NTHU) Institutional Repository, zip download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407261",
+    "name" : "atayal_liu2004_s.pdf",
+    "creationDate" : "2010-04-01T14:03:14.179+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-953E-B",
+    "content" : "/rest/items/item_407262_4/component/file_407261/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6758d1d3d05e234062252a049291c2d8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 854029,
+    "metadata" : {
+      "title" : "atayal_liu2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 854029
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

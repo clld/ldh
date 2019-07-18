@@ -1,0 +1,148 @@
+{
+  "objectId" : "item_400016",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-06T11:26:16.562+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C7B9-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-06T11:26:16.562+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6AEB-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:38:34.762+0000",
+  "latestRelease" : {
+    "objectId" : "item_400016",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-06T11:26:16.562+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7B9-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400016",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-06T11:26:16.562+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7B9-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Bolivian Indian tribes : classification, bibliography and map of present language distribution",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Harold",
+        "familyName" : "Key",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Mary R.",
+        "familyName" : "Key"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1967",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "741",
+      "type" : "OTHER"
+    }, {
+      "id" : "bolivian_key1967_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "Microfiche ed.",
+      "place" : "Norman",
+      "publisher" : "SIL of the Univ. of Oklahoma"
+    },
+    "sources" : [ {
+      "title" : "SIL International Publications in Linguistics",
+      "volume" : "15",
+      "genre" : "SERIES"
+    }, {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics and Related Fields ",
+      "volume" : "15",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: F3320, LoC Subject Headings: Indians of South America--Bolivia--Languages",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "128 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400015",
+    "name" : "bolivian_key1967_o.pdf",
+    "creationDate" : "2010-04-01T10:38:34.310+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6AEA-D",
+    "content" : "/rest/items/item_400016_4/component/file_400015/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4be1e2a2989da95a9a07626f4f84654a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4185682,
+    "metadata" : {
+      "title" : "bolivian_key1967_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4185682
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2151695",
+    "name" : "http://www.sil.org/resources/archives/8505",
+    "creationDate" : "2015-05-06T11:25:59.875+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/8505",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d599e0e0e0aa93266d30765f2dc79c20",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/8505",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Language & Culture Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

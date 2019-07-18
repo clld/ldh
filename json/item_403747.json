@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403747",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-02-24T11:26:59.485+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-DCBE-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-02-24T11:26:59.485+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8190-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:23:37.427+0000",
+  "latestRelease" : {
+    "objectId" : "item_403747",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-02-24T11:26:59.485+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-DCBE-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403747",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-02-24T11:26:59.485+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-DCBE-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulario Iloco-Español trabajado por varios\nreligiosos del orden de N.P.S. Agustin",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Andrés",
+        "familyName" : "Carro",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1888",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31565",
+      "type" : "OTHER"
+    }, {
+      "id" : "iloco_carro1888.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "2. Aufl.",
+      "place" : "Manila",
+      "publisher" : "Perez"
+    },
+    "freeKeywords" : "LoC Class: PL5751,\nLoC Subject Headings: Iloko language",
+    "subjects" : [ {
+      "value" : "ilo - Ilocano",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 295 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL5751,\nLoC Subject Headings: Iloko language, Spanish language--Dialects"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403745",
+    "name" : "http://www.hti.umich.edu/cgi/t/text/text-idx?c=philamer;idno=AQA2024.0001.001",
+    "creationDate" : "2010-04-01T12:23:30.990+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.hti.umich.edu/cgi/t/text/text-idx?c=philamer;idno=AQA2024.0001.001",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "cb9367f42460c7c0a0c930c160897b40",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.hti.umich.edu/cgi/t/text/text-idx?c=philamer;idno=AQA2024.0001.001",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Michigan Digital Library Text Collections UMDL,  Collection: The United States and its Territories, 1870 - 1925: The Age of Imperialism, view online",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403746",
+    "name" : "iloco_carro1888.pdf",
+    "creationDate" : "2010-04-01T12:23:35.080+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-818F-7",
+    "content" : "/rest/items/item_403747_5/component/file_403746/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a7b0834aa0e7d6438baee0ad43026f24",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 24548876,
+    "metadata" : {
+      "title" : "iloco_carro1888.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 24548876,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

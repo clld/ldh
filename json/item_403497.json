@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403497",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T10:40:31.246+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7F97-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:40:31.246+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7F97-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:00.068+0000",
+  "latestRelease" : {
+    "objectId" : "item_403497",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:40:31.246+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F97-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403497",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:40:31.246+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F97-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Esquisse phonologique alphabet et principes orthographiques du Mada",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Hubert Fernand",
+        "familyName" : "Nkoumou",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31320",
+      "type" : "OTHER"
+    }, {
+      "id" : "mada_nkoumou2003_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Mada language (Cameroon)",
+    "subjects" : [ {
+      "value" : "mxu - Mada",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "v, 162 S.",
+    "abstracts" : [ {
+      "value" : "PL8478.8, ISO 639-3 : mxu, Mada language (Cameroon)"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403496",
+    "name" : "mada_nkoumou2003_o.pdf",
+    "creationDate" : "2010-04-01T12:18:59.452+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7F96-8",
+    "content" : "/rest/items/item_403497_3/component/file_403496/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3d1a5bb07e82ccd8acf2ddf007d65261",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5729217,
+    "metadata" : {
+      "title" : "mada_nkoumou2003_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5729217,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

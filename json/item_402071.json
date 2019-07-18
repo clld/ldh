@@ -1,0 +1,129 @@
+{
+  "objectId" : "item_402071",
+  "versionNumber" : 7,
+  "modificationDate" : "2015-04-17T08:10:16.318+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B76E-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-17T08:10:16.318+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-76FA-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:25:26.134+0000",
+  "latestRelease" : {
+    "objectId" : "item_402071",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-04-17T08:10:16.318+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B76E-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402071",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-04-17T08:10:16.318+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B76E-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Old English grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Joseph",
+        "familyName" : "Wright",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Elizabeth Mary",
+        "familyName" : "Wright"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1908",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29074",
+      "type" : "OTHER"
+    }, {
+      "id" : "english_wrigth1908_o.pdf",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "London [u.a.]",
+      "publisher" : "Frowde"
+    },
+    "sources" : [ {
+      "title" : "¬The¬ student's series of historical and comparative grammars",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PE131, LoC Subject Headings: English language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XIV, 351 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PE131, LoC Subject Headings: English language--Old English/ca. 450-1100--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402070",
+    "name" : "english_wrigth1908_o.pdf",
+    "creationDate" : "2010-04-01T11:25:23.888+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-76F9-C",
+    "content" : "/rest/items/item_402071_7/component/file_402070/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b6fca67a6d993313d84be59e3a0d68f3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 23038034,
+    "metadata" : {
+      "title" : "english_wrigth1908_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 23038034,
+      "copyrightDate" : "2010-11-16",
+      "rights" : "public domain, Joseph Wright 1855-1930"
+    }
+  } ]
+}

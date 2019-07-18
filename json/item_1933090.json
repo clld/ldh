@@ -1,0 +1,153 @@
+{
+  "objectId" : "item_1933090",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-01-13T16:04:44.223+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-7638-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-01-13T16:04:44.223+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0015-3ED6-D",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-02-20T09:25:42.756+0000",
+  "latestRelease" : {
+    "objectId" : "item_1933090",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-13T16:04:44.223+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-7638-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_1933090",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-13T16:04:44.223+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-7638-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Glossary of the Mohegan-Pequot Language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "J. Dyneley",
+        "familyName" : "Prince",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Frank G.",
+        "familyName" : "Speck",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1904",
+    "genre" : "ARTICLE",
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "American Anthropologist, New Series",
+      "volume" : "6",
+      "issue" : "1 (Jan. - Mar., 1904)",
+      "startPage" : "18",
+      "endPage" : "45",
+      "publishingInfo" : {
+        "place" : "Malden, Mass. [u.a.]",
+        "publisher" : "Wiley-Blackwell"
+      },
+      "identifiers" : [ {
+        "id" : "0002-7294",
+        "type" : "ISSN"
+      } ],
+      "genre" : "JOURNAL"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Mohegan language, LoC Class: PM1885.P8",
+    "subjects" : [ {
+      "value" : "mof - Mohegan-Montauk-Narragansett",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "28 S.",
+    "abstracts" : [ {
+      "value" : "LoC Subject Headings: Mohegan language--Glossaries, vocabularies, etc.\nLoC Class: PM1885.P8"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_1933088",
+    "name" : "Prince_MoheganPequot1904.pdf",
+    "creationDate" : "2014-02-20T09:25:42.393+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0015-3ED8-9",
+    "content" : "/rest/items/item_1933090_3/component/file_1933088/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "33e6b2b201394c568c4c9c3210ab389f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2583813,
+    "metadata" : {
+      "title" : "Prince_MoheganPequot1904.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2583813,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_1933089",
+    "name" : "http://www.jstor.org/stable/659295",
+    "creationDate" : "2014-02-20T09:25:42.501+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.jstor.org/stable/659295",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e81b3421168f3a12eb5923bfd30d210c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.jstor.org/stable/659295",
+      "contentCategory" : "publisher-version",
+      "description" : "JStor, American Anthropologist, view online & pdf",
+      "size" : 0
+    }
+  } ]
+}

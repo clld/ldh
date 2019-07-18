@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_403299",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T07:11:22.431+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA1C-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T07:11:22.431+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E47-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:10:43.596+0000",
+  "latestRelease" : {
+    "objectId" : "item_403299",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T07:11:22.431+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA1C-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403299",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T07:11:22.431+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA1C-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Parameters and effects of word order variation",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lisa deMena",
+        "familyName" : "Travis",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1984",
+    "datePublishedInPrint" : "1984",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31133",
+      "type" : "OTHER"
+    }, {
+      "id" : "parameters_travis1984_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P158.3, LoC Subject Headings: Grammar/Comparative and general--Word order, LoC Subject Headings: Government-binding theory (Linguistics), LoC Subject Headings: Germanic languages",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "284 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: P158.3, LoC Subject Headings: Grammar/Comparative and general--Word order, LoC Subject Headings: Government-binding theory (Linguistics), LoC Subject Headings: Germanic languages--Word order"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403298",
+    "name" : "parameters_travis1984_o.pdf",
+    "creationDate" : "2010-04-01T12:10:42.218+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E46-2",
+    "content" : "/rest/items/item_403299_4/component/file_403298/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "dcc847eae43bf876195dcdd792cbb36c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 14272789,
+    "metadata" : {
+      "title" : "parameters_travis1984_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 14272789
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147236",
+    "name" : "http://hdl.handle.net/1721.1/15211",
+    "creationDate" : "2015-04-21T07:09:05.657+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/15211",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1daa821483c93d04d8cf29930062ca17",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/15211",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

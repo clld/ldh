@@ -1,0 +1,129 @@
+{
+  "objectId" : "item_1920223",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-01-13T15:30:49.040+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-761F-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-01-13T15:30:49.040+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0015-1BD2-B",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-02-06T11:06:20.096+0000",
+  "latestRelease" : {
+    "objectId" : "item_1920223",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-13T15:30:49.040+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-761F-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_1920223",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-13T15:30:49.040+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-761F-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Narratives of New Netherland, 1609-1664",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "John Franklin",
+        "familyName" : "Jameson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1909",
+    "genre" : "MONOGRAPH",
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "New York",
+      "publisher" : "Charles Scribner's Sons"
+    },
+    "freeKeywords" : "LoC Subject Headings: Mohawk language\nLoC Class: F122.1",
+    "subjects" : [ {
+      "value" : "moh - Mohawk",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xx, 478 S.",
+    "abstracts" : [ {
+      "value" : "Includes vocabularies of Mohawk, e.g. p.157-162, p.73\n\nLoC Subject Headings: Mohawk language, New York (State)--History--Colonial period/ca. 1600-1775--Sources"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_1920221",
+    "name" : "Jameson_NewNetherland1909.pdf",
+    "creationDate" : "2014-02-06T11:06:16.430+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0015-1BD4-7",
+    "content" : "/rest/items/item_1920223_3/component/file_1920221/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f8d66559b4d5d97c13b6b21d1eb3fc54",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 27443682,
+    "metadata" : {
+      "title" : "Jameson_NewNetherland1909.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 27443682,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_1920222",
+    "name" : "https://archive.org/details/narrativesofnewn01jame",
+    "creationDate" : "2014-02-06T11:06:16.854+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/narrativesofnewn01jame",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "fa289f0a25d6e88ed42ed7ec704257e2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/narrativesofnewn01jame",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org",
+      "size" : 0
+    }
+  } ]
+}

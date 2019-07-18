@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_404237",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-03T07:28:54.810+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-D8F2-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-03T07:28:54.810+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8450-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:37:49.496+0000",
+  "latestRelease" : {
+    "objectId" : "item_404237",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-03T07:28:54.810+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D8F2-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404237",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-03T07:28:54.810+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D8F2-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "An outline of the  Shilha (Berber) vernacular of Douiret (Southern Tunisia)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Zouhir",
+        "familyName" : "Gabsi",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32933",
+      "type" : "OTHER"
+    }, {
+      "id" : "shilha_gabsi2003_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Sydney",
+      "publisher" : "Univ. of Western Sydney"
+    },
+    "freeKeywords" : "LoC Class: PJ2379,\nLoC Subject Headings: Shilha language",
+    "subjects" : [ {
+      "value" : "jbn - Nafusi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "IX, 451 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PJ2379,\nLoC Subject Headings: Shilha language--Tunisia, Shilha language--Phonology, Shilha language--Morphology, Shilha language--Syntax"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404236",
+    "name" : "shilha_gabsi2003_o.pdf",
+    "creationDate" : "2010-04-01T12:37:47.718+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-844F-C",
+    "content" : "/rest/items/item_404237_3/component/file_404236/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d6796dda28b96464f88003f7f25b9cef",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 18182616,
+    "metadata" : {
+      "title" : "shilha_gabsi2003_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 18182616
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2036726",
+    "name" : "http://handle.uws.edu.au:8081/1959.7/573",
+    "creationDate" : "2014-07-03T07:26:02.395+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-D8F3-5",
+    "content" : "http://handle.uws.edu.au:8081/1959.7/573",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6ccf7982313038c5da58e91fb13453f8",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://handle.uws.edu.au:8081/1959.7/573",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. of Western Sydney, VITAL Repository, pdfs",
+      "size" : 0
+    }
+  } ]
+}

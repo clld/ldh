@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_402114",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T12:05:25.107+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7742-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T12:05:25.107+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7742-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:26:06.922+0000",
+  "latestRelease" : {
+    "objectId" : "item_402114",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T12:05:25.107+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7742-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402114",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T12:05:25.107+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7742-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Syntax of the moods and tenses of the Greek verb",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "William Watson",
+        "familyName" : "Goodwin",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1897",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29150",
+      "type" : "OTHER"
+    }, {
+      "id" : "greek_goodwin1896.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "Rewritten and enl.",
+      "place" : "Boston [u.a.]",
+      "publisher" : "Ginn"
+    },
+    "freeKeywords" : "LoC Subject Headings: Greek language",
+    "subjects" : [ {
+      "value" : "ell - Modern Greek (1453-)",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxxii, 464 S.",
+    "abstracts" : [ {
+      "value" : "PA369, ISO 639-3 : ell, Greek language--Mood, Greek language--Tense"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402112",
+    "name" : "http://www.textkit.com/learn/ID/100/author_id/38/",
+    "creationDate" : "2010-04-01T11:26:04.990+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7740-2",
+    "content" : "http://www.textkit.com/learn/ID/100/author_id/38/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4e97f4ac96d7ee3c11ec57a5333b1d04",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.textkit.com/learn/ID/100/author_id/38/",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402113",
+    "name" : "greek_goodwin1896.pdf",
+    "creationDate" : "2010-04-01T11:26:05.872+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7741-F",
+    "content" : "/rest/items/item_402114_4/component/file_402113/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5108103f592abbfaf2940fb47980a98a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10655843,
+    "metadata" : {
+      "title" : "greek_goodwin1896.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10655843,
+      "copyrightDate" : "2011-12-02",
+      "rights" : "not in copyright, William Watson Goodwin 1831-1912"
+    }
+  } ]
+}

@@ -1,0 +1,145 @@
+{
+  "objectId" : "item_401533",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T18:06:05.897+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6EA0-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T18:06:05.897+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-73D7-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:13:54.590+0000",
+  "latestRelease" : {
+    "objectId" : "item_401533",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:06:05.897+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EA0-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401533",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:06:05.897+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EA0-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Pequeno dicionário xavánte-português, português-xavánte",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Hall, Joan",
+        "givenName" : "Joan",
+        "familyName" : "Hall",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Ruth Alice",
+        "familyName" : "MacLeod",
+        "alternativeNames" : [ "McLeod, Ruth Alice" ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "27058",
+      "type" : "OTHER"
+    }, {
+      "id" : "xavante_hall1987_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "rev. e atual.",
+      "place" : "Brasília, DF",
+      "publisher" : "Summer Institute of Linguistics"
+    },
+    "freeKeywords" : "LoC Class: PM5809.Z5, LoC Subject Headings: Xavante language--Dictionaries--Portuguese, LoC Subject Headings: Portuguese language--Dictionaries--Xavante",
+    "subjects" : [ {
+      "value" : "por - Portuguese",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "xav - Xavánte",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "343 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401531",
+    "name" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/XVDict.pdf",
+    "creationDate" : "2010-04-01T11:13:43.079+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/XVDict.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05748fd080f4dd1c1566836df8425b0e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/XVDict.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401532",
+    "name" : "xavante_hall1987_s.pdf",
+    "creationDate" : "2010-04-01T11:13:54.424+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-73D6-5",
+    "content" : "/rest/items/item_401533_3/component/file_401532/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "05748fd080f4dd1c1566836df8425b0e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 797244,
+    "metadata" : {
+      "title" : "xavante_hall1987_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 797244
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

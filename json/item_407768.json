@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_407768",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T22:47:54.226+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70C0-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T22:47:54.226+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-97F5-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:20:10.468+0000",
+  "latestRelease" : {
+    "objectId" : "item_407768",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T22:47:54.226+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70C0-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407768",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T22:47:54.226+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70C0-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Development and diversity : language variation across time and space ; a Festschrift for Charles-James N. Bailey",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jerold A.",
+        "familyName" : "Edmondson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1990",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "41831",
+      "type" : "OTHER"
+    }, {
+      "id" : "development_edmondson1990_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Dallas, Tex.",
+      "publisher" : "SIL [u.a.]"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics and The University of Texas at Arlington Publications in Linguistics",
+      "volume" : "93",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P120.V37, LoC Subject Headings: Language and languages--Variation, LoC Subject Headings: Linguistic change",
+    "totalNumberOfPages" : "L, 688 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407766",
+    "name" : "http://www.ethnologue.com/show_work.asp?id=23595",
+    "creationDate" : "2010-04-01T14:20:08.038+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.ethnologue.com/show_work.asp?id=23595",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0613764a19cd7d9828a1541794d96074",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ethnologue.com/show_work.asp?id=23595",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407767",
+    "name" : "development_edmondson1990_o.pdf",
+    "creationDate" : "2010-04-01T14:20:08.766+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-97F4-0",
+    "content" : "/rest/items/item_407768_3/component/file_407767/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "00578a2bc5d37a63e454555e57059744",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 17846552,
+    "metadata" : {
+      "title" : "development_edmondson1990_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 17846552
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

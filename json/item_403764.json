@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_403764",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-02-24T11:33:35.030+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-DCC9-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-02-24T11:33:35.030+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-81AC-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:24:00.331+0000",
+  "latestRelease" : {
+    "objectId" : "item_403764",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-24T11:33:35.030+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-DCC9-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403764",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-24T11:33:35.030+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-DCC9-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Arte de la lengua Pangasinan ó Cabolóan",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mariano",
+        "familyName" : "Pellicez",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1904",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31699",
+      "type" : "OTHER"
+    }, {
+      "id" : "pangasinan_pellicer1904.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "3. Ed.",
+      "place" : "Manila",
+      "publisher" : "Tomás"
+    },
+    "freeKeywords" : "LoC Class: PL6015,\nLoC Subject Headings: Pangasinan language",
+    "subjects" : [ {
+      "value" : "pag - Pangasinan",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "268 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6015,\nLoC Subject Headings: Malay language--Dialects, Pangasinan language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403763",
+    "name" : "pangasinan_pellicer1904.pdf",
+    "creationDate" : "2010-04-01T12:23:58.541+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-81AB-7",
+    "content" : "/rest/items/item_403764_3/component/file_403763/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0c847a4447f1b2d925482ef81eb010e5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 18556317,
+    "metadata" : {
+      "title" : "pangasinan_pellicer1904.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 18556317,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2103911",
+    "name" : "https://archive.org/details/aqj0419.0001.001.umich.edu",
+    "creationDate" : "2015-02-24T11:33:06.355+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/aqj0419.0001.001.umich.edu",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "142c470203336ebcd68e4cf911e6ff40",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/aqj0419.0001.001.umich.edu",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org: Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,126 @@
+{
+  "objectId" : "item_1909633",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-03-13T01:49:42.073+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7231-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:49:42.073+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0015-10BB-E",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-01-22T09:48:29.864+0000",
+  "latestRelease" : {
+    "objectId" : "item_1909633",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-13T01:49:42.073+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7231-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_1909633",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-13T01:49:42.073+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7231-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Observations on the language of the Muhhekaneew Indians : in which the extent of that language in North-America is shewn; its genius is grammatically traced; some of its peculiarities, and some instances of analogy between that and the Hebrew are pointed out",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jonathan",
+        "familyName" : " Edwards",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1789",
+    "genre" : "MONOGRAPH",
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "reprint",
+      "place" : "London",
+      "publisher" : "W. Justins"
+    },
+    "freeKeywords" : "LoC Class: PM1855, LoC Subject Headings: Mohegan language--Early works to 1800, LoC Subject Headings: Mahican language",
+    "subjects" : [ {
+      "value" : "mof - Mohegan-Montauk-Narragansett",
+      "type" : "ISO639_3"
+    } ],
+    "tableOfContents" : "Primarily a discussion of the Mohegan language and grammar and a lesser discussion of comaprative grammar and vocabulary of the Algonquian languages; includes a comparative glossary of words in English, Mohegan and Shawnee, p. 6, and another comparative glossary of words in English, Mohegan and Chippewau [the Ojibwa language], p. 7; includes vocabulary for numerals 1-10 in Mohegan and Mohawk, p. 8; and the Lord's Prayer in the Mohegan language and in the language of the Six Nations [in the Mahican language], p. 8-9"
+  },
+  "files" : [ {
+    "objectId" : "file_1909632",
+    "name" : "https://archive.org/details/observationsonla00edwa",
+    "creationDate" : "2014-01-22T09:48:26.535+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/observationsonla00edwa",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "743002a6b63d863a8f185997588d9e1d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/observationsonla00edwa",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_1921111",
+    "name" : "Mahigan_edwards1788.pdf",
+    "creationDate" : "2014-02-12T09:39:13.437+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0015-365B-1",
+    "content" : "/rest/items/item_1909633_6/component/file_1921111/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "49be9e8e4a2994687cdfb0dfae65f85a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4057190,
+    "metadata" : {
+      "title" : "Mahigan_edwards1788.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4057190,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

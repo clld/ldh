@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_401155",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-03T12:28:08.795+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-028F-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-03T12:28:08.795+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-71BD-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:06:08.039+0000",
+  "latestRelease" : {
+    "objectId" : "item_401155",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T12:28:08.795+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-028F-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401155",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T12:28:08.795+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-028F-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Valence change and Oroko verb morphology (Mbonge dialect)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lisa",
+        "familyName" : "Friesen",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2002",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "25238",
+      "type" : "OTHER"
+    }, {
+      "id" : "oroko_friesen2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Grand Forks, ND",
+      "publisher" : "Univ. of North Dakota"
+    },
+    "freeKeywords" : "LoC Class: PL8598.O7, LoC Subject Headings: Bakundu-Balue language",
+    "subjects" : [ {
+      "value" : "bdu - Oroko",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "x, 124 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8598.O7,\nLoC Subject Headings: Bakundu-Balue language--Dependency grammar, Bakundu-Balue language--Dialects, Grammar, Comparative and general--Morphology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401154",
+    "name" : "oroko_friesen2002_s.pdf",
+    "creationDate" : "2010-04-01T11:06:07.900+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-71BC-2",
+    "content" : "/rest/items/item_401155_3/component/file_401154/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1cfd58bc88985e5de687f2fb60ac485f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 721172,
+    "metadata" : {
+      "title" : "oroko_friesen2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 721172
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2104882",
+    "name" : "http://arts-sciences.und.edu/summer-institute-of-linguistics/theses/2002-friesen-lisa.cfm",
+    "creationDate" : "2015-03-03T12:27:32.504+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://arts-sciences.und.edu/summer-institute-of-linguistics/theses/2002-friesen-lisa.cfm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "547f1a02de1c5d6005601764e62bb74f",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://arts-sciences.und.edu/summer-institute-of-linguistics/theses/2002-friesen-lisa.cfm",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of North Dakota (UND), Summer Institute of Linguistics, theses, pdf",
+      "size" : 0
+    }
+  } ]
+}

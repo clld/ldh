@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403667",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-05-06T11:04:22.337+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C7AF-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-06T11:04:22.337+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8105-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:21:54.402+0000",
+  "latestRelease" : {
+    "objectId" : "item_403667",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-05-06T11:04:22.337+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7AF-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403667",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-05-06T11:04:22.337+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7AF-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The language of the Mississaga Indians of Skugog : a contribution to the linguistics of the Algonkian Tribes of Canada",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Alexander Francis",
+        "familyName" : "Chamberlain",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1891",
+    "datePublishedInPrint" : "1892",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31495",
+      "type" : "OTHER"
+    }, {
+      "id" : "mississaga_chamberlain1892_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Philadelphia",
+      "publisher" : "MacCalla"
+    },
+    "freeKeywords" : "LoC Class: PM1831, LoC Subject Headings: Missisauga language, LoC Subject Headings: Indians of North America--Canada--Languages",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "84 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM1831,\nLoC Subject Headings: Missisauga language, Missisauga language--Glossaries, vocabularies,etc., Indians of North America--Canada"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403665",
+    "name" : "http://www.canadiana.org/ECO/ItemRecord/02955",
+    "creationDate" : "2010-04-01T12:21:53.206+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.canadiana.org/ECO/ItemRecord/02955",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "76fb2dc91ef98a62af3e3bf1684b8c79",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.canadiana.org/ECO/ItemRecord/02955",
+      "contentCategory" : "publisher-version",
+      "description" : "Canadiana.org, Early Canadiana online, read online",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403666",
+    "name" : "mississaga_chamberlain1892_o.pdf",
+    "creationDate" : "2010-04-01T12:21:53.957+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8104-0",
+    "content" : "/rest/items/item_403667_5/component/file_403666/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "385c5956d6ee2f8606bdb20b441ba2d0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4210818,
+    "metadata" : {
+      "title" : "mississaga_chamberlain1892_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4210818,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

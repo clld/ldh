@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_402640",
+  "versionNumber" : 7,
+  "modificationDate" : "2015-03-13T02:04:56.466+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-724C-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:04:56.466+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7A42-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:35:30.050+0000",
+  "latestRelease" : {
+    "objectId" : "item_402640",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-03-13T02:04:56.466+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-724C-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402640",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-03-13T02:04:56.466+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-724C-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Arte y vocabulario de la lengua lule y tonocoté",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Antonio",
+        "familyName" : "de Machoni Cerdeña",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1877",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "30182",
+      "type" : "OTHER"
+    }, {
+      "id" : "lule_decerdena1732_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "Nachdr. der Ausg. 1732",
+      "place" : "Buenos Aires",
+      "publisher" : "Coni"
+    },
+    "freeKeywords" : "LoC Subject Headings: Lule language, LoC Subject Headings: Tonocote language",
+    "subjects" : [ {
+      "value" : "vil - Vilela",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "361 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM6366,\nLoC Subject Headings: Lule language, Tonocote language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_2079520",
+    "name" : "machoni_lule1877.pdf",
+    "creationDate" : "2014-12-18T10:53:41.438+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-5CBB-F",
+    "content" : "/rest/items/item_402640_7/component/file_2079520/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "28fbc5c1a254e4d1c997da36e4644236",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 30075027,
+    "metadata" : {
+      "title" : "machoni_lule1877.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 30075027,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2079521",
+    "name" : "https://archive.org/details/arteyvocabulario01mach",
+    "creationDate" : "2014-12-18T10:53:41.905+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/arteyvocabulario01mach",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5f69317d0bbcb059ec905b25b6278cb2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/arteyvocabulario01mach",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org",
+      "size" : 0
+    }
+  } ]
+}

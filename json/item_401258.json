@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_401258",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T18:14:49.337+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6EAF-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T18:14:49.337+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7253-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:08:19.822+0000",
+  "latestRelease" : {
+    "objectId" : "item_401258",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:14:49.337+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EAF-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401258",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:14:49.337+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EAF-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulario resígaro",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Allin, Trevor R.",
+        "givenName" : "Trevor R.",
+        "familyName" : "Allin",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1979",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "25484",
+      "type" : "OTHER"
+    }, {
+      "id" : "resigaro_allin1979.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1. ed.",
+      "place" : "[Yarinacocha, Peru]",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Documento de trabajo",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM7003, LoC Subject Headings: Resigero language--Dictionaries--Spanish, LoC Subject Headings: Spanish language--Dictionaries--Resigero",
+    "subjects" : [ {
+      "value" : "rgr - Resígaro",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "p. 379-528"
+  },
+  "files" : [ {
+    "objectId" : "file_401256",
+    "name" : "resigaro_allin1979.pdf",
+    "creationDate" : "2010-04-01T11:08:18.969+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7251-A",
+    "content" : "/rest/items/item_401258_3/component/file_401256/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2769b59f973b3571b591292904c4cd84",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4191810,
+    "metadata" : {
+      "title" : "resigaro_allin1979.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4191810
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_401257",
+    "name" : "http://www.sil.org/americas/peru/html/nav/pubIndex.html",
+    "creationDate" : "2010-04-01T11:08:19.487+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/peru/html/nav/pubIndex.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "57b1a29594eb288e51975e10e7eae491",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/nav/pubIndex.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  } ]
+}

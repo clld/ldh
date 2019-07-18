@@ -1,0 +1,160 @@
+{
+  "objectId" : "item_406800",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-05-05T07:23:37.797+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C689-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-05T07:23:37.797+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-929F-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:47:31.926+0000",
+  "latestRelease" : {
+    "objectId" : "item_406800",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-05-05T07:23:37.797+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C689-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406800",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-05-05T07:23:37.797+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C689-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Suplemento a listas comparativas de palabras usuales en idiomas vernáculos de la selva",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Joyce",
+        "familyName" : "Nies",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1976",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37445",
+      "type" : "OTHER"
+    }, {
+      "id" : "vernaculos_nies1976_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Lima, Perú",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Datos etno-lingüisticos : Colección de los archivos del ILV",
+      "volume" : "49",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5271, LoC Subject Headings: Indians of South America--Peru--Languages",
+    "subjects" : [ {
+      "value" : "acu - Achuar-Shiwiar",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "ame - Yanesha'",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "bmr - Muinane",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "cbt - Chayahuita",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "cul - Culina",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "hto - Huitoto, Minica",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "not - Nomatsiguenga",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "pib - Yine",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "82 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406799",
+    "name" : "vernaculos_nies1976_o.pdf",
+    "creationDate" : "2010-04-01T13:47:31.654+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-929E-B",
+    "content" : "/rest/items/item_406800_6/component/file_406799/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "641f330c90dbc0185a9438696b98bd63",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1900013,
+    "metadata" : {
+      "title" : "vernaculos_nies1976_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1900013
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147073",
+    "name" : "http://www.peru.sil.org/resources/archives/30154",
+    "creationDate" : "2015-04-17T09:42:29.827+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/30154",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2341dc0cabc18167fca5cd41da60c64d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/30154",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Peru Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

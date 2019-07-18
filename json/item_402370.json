@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_402370",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-06-19T06:41:17.738+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-C182-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Korrektur Subject Headings",
+  "lastModificationDate" : "2014-06-19T06:41:17.738+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-78C7-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:30:47.025+0000",
+  "latestRelease" : {
+    "objectId" : "item_402370",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-06-19T06:41:17.738+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-C182-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402370",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-06-19T06:41:17.738+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-C182-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Live fast, die young the short life of Early Modern German auxiliary ellipsis",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Anne",
+        "familyName" : "Breitbarth",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29784",
+      "type" : "OTHER"
+    }, {
+      "id" : "german_breitbarth2005_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "90-76864-82-9",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "freeKeywords" : "LoC Class: PF4521,\nLoC Subject Headings: German language",
+    "subjects" : [ {
+      "value" : "deu - German",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "viii, 195 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PF4521,\nLoC Subject Headings: German language--Early modern, 1500-1700--Auxiliary verbs; German language--Early modern, 1500-1700--Ellipsis"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402368",
+    "name" : "http://www.lotpublications.nl/publish/issues/Breitbarth/",
+    "creationDate" : "2010-04-01T11:30:46.736+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-78C5-0",
+    "content" : "http://www.lotpublications.nl/publish/issues/Breitbarth/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "53b1a1d66496e2c033be2c7b739d11e9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lotpublications.nl/publish/issues/Breitbarth/",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402369",
+    "name" : "german_breitbarth2005_s.pdf",
+    "creationDate" : "2010-04-01T11:30:46.842+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-78C6-E",
+    "content" : "/rest/items/item_402370_4/component/file_402369/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "57e64780240970d62dac5350739f9a79",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1235887,
+    "metadata" : {
+      "title" : "german_breitbarth2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1235887
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

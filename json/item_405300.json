@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_405300",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:57:43.052+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8A57-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:57:43.052+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8A57-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:06:14.120+0000",
+  "latestRelease" : {
+    "objectId" : "item_405300",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:57:43.052+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A57-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405300",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:57:43.052+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A57-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The tone system in Mambila : some further comments",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Perrin, Mona",
+        "givenName" : "Mona",
+        "familyName" : "Perrin",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1991",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34497",
+      "type" : "OTHER"
+    }, {
+      "id" : "mambila_perrin1991_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yaoundé",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PL8484.M251,\nLoC Subject Headings: Mambila language --Phonology",
+    "subjects" : [ {
+      "value" : "mcu - Mambila, Cameroon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "18 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405298",
+    "name" : "http://www.sil.org/africa/cameroun/bylanguage/languages/mambila.html",
+    "creationDate" : "2010-04-01T13:06:13.474+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A55-C",
+    "content" : "http://www.sil.org/africa/cameroun/bylanguage/languages/mambila.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/africa/cameroun/bylanguage/languages/mambila.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405299",
+    "name" : "mambila_perrin1991_o.pdf",
+    "creationDate" : "2010-04-01T13:06:13.997+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A56-A",
+    "content" : "/rest/items/item_405300_2/component/file_405299/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "36cd34a9efa1228e07fb5e4295a6076a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 583394,
+    "metadata" : {
+      "title" : "mambila_perrin1991_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 583394
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

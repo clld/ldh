@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_403897",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:57:18.408+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-826C-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:57:18.408+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-826C-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:28:40.158+0000",
+  "latestRelease" : {
+    "objectId" : "item_403897",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:57:18.408+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-826C-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403897",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:57:18.408+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-826C-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Língua matis (pano) : uma descrição gramatical",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Rogério Vicente",
+        "familyName" : "Ferreira",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31978",
+      "type" : "OTHER"
+    }, {
+      "id" : "matis_rferreira2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PM6773,\nLoC Subject Headings: Panoan languages",
+    "totalNumberOfPages" : "xxvii, 316 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403895",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000366126",
+    "creationDate" : "2010-04-01T12:28:39.308+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-826A-2",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000366126",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4a9c6d796272aaeb7168b30f3fe640c5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000366126",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403896",
+    "name" : "matis_rferreira2005_s.pdf",
+    "creationDate" : "2010-04-01T12:28:39.909+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-826B-F",
+    "content" : "/rest/items/item_403897_2/component/file_403896/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "47e661c54a49e4000b9eab91b2b1a09d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1528792,
+    "metadata" : {
+      "title" : "matis_rferreira2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1528792
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

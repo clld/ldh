@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_404507",
+  "versionNumber" : 6,
+  "modificationDate" : "2011-05-31T09:34:45.979+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-85E1-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:34:45.979+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-85E1-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:42:41.759+0000",
+  "latestRelease" : {
+    "objectId" : "item_404507",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T09:34:45.979+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-85E1-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404507",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-05-31T09:34:45.979+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-85E1-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A manual of the Chaldee language : containing a Chaldee grammar, chiefly from the German of Professor G.B. Winer ; a chrestomathy consisting of selections from the Targums, and including notes on the biblical Chaldee and a vocabulary, adapted to the chrestomathy ; with an appendix on the rabbinic and Samaritan dialects",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Elias",
+        "familyName" : "Riggs",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1832",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "33338",
+      "type" : "OTHER"
+    }, {
+      "id" : "chaldee_riggs1832_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Boston",
+      "publisher" : "Perkins and Marvin"
+    },
+    "freeKeywords" : "LoC Subject Headings: Aramaic language",
+    "subjects" : [ {
+      "value" : "sam - Samaritan Aramaic",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "180 S.",
+    "abstracts" : [ {
+      "value" : "PJ5213, ISO 639-3 : sam, Aramaic language -- Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404506",
+    "name" : "chaldee_riggs1832_o.pdf",
+    "creationDate" : "2010-04-01T12:42:41.153+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-85E0-9",
+    "content" : "/rest/items/item_404507_6/component/file_404506/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5db365379a5698bfc8d285ba21ed9e07",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5905915,
+    "metadata" : {
+      "title" : "chaldee_riggs1832_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5905915,
+      "copyrightDate" : "2010-11-16",
+      "rights" : "not in copyright, Elias Riggs 1810-1901"
+    }
+  } ]
+}

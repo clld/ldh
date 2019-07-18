@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_407437",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:15:51.325+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-962B-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:15:51.325+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-962B-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:13:33.619+0000",
+  "latestRelease" : {
+    "objectId" : "item_407437",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:15:51.325+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-962B-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407437",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:15:51.325+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-962B-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gramática Mundurukú",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Crofts, Marjorie",
+        "givenName" : "Marjorie",
+        "familyName" : "Crofts",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Mary I.",
+        "familyName" : "Daniel"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1973",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "38899",
+      "type" : "OTHER"
+    }, {
+      "id" : "munduruku_crofts1973_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Brasília",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PM6596,\nLoC Subject Headings: Munduruku language --Grammar",
+    "subjects" : [ {
+      "value" : "myu - Mundurukú",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "192 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407435",
+    "name" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "creationDate" : "2010-04-01T14:13:33.022+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9629-2",
+    "content" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c9461039d010116eaeca40f82b42a28c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407436",
+    "name" : "munduruku_crofts1973_s.pdf",
+    "creationDate" : "2010-04-01T14:13:33.481+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-962A-F",
+    "content" : "/rest/items/item_407437_2/component/file_407436/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2988aeedfefabf4aa0f3e3980d1df2ec",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 787394,
+    "metadata" : {
+      "title" : "munduruku_crofts1973_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 787394
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

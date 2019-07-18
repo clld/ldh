@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_406576",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T08:01:08.450+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA4C-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenze aktualisiert",
+  "lastModificationDate" : "2015-04-21T08:01:08.450+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9164-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:41:34.663+0000",
+  "latestRelease" : {
+    "objectId" : "item_406576",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:01:08.450+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA4C-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406576",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:01:08.450+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA4C-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Argument structure and transitivity alternation",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jingquan",
+        "familyName" : "Han",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37317",
+      "type" : "OTHER"
+    }, {
+      "id" : "argument_han2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Hong Kong",
+      "publisher" : "City Univ."
+    },
+    "freeKeywords" : "LoC Class: P295, LoC Subject Headings: Grammar/Comparative and general--Syntax, LoC Subject Headings: Grammar/Comparative and general--Transitivity",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "viii, 336 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406574",
+    "name" : "http://lib.cityu.edu.hk/record=b2217833",
+    "creationDate" : "2010-04-01T13:41:33.056+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://lib.cityu.edu.hk/record=b2217833",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b52e987aa8490d126b6f5d999e9f2ba9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://lib.cityu.edu.hk/record=b2217833",
+      "contentCategory" : "publisher-version",
+      "description" : "City Univ. of Hong Kong, Run Run Shaw Library, access full-text, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406575",
+    "name" : "argument_han2007_s.pdf",
+    "creationDate" : "2010-04-01T13:41:34.461+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9163-8",
+    "content" : "/rest/items/item_406576_4/component/file_406575/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6949cf01e8234c231bcf3df9b05721d0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1173668,
+    "metadata" : {
+      "title" : "argument_han2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1173668
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

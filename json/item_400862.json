@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_400862",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:50:38.039+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6FFD-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:50:38.039+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6FFD-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:59:57.296+0000",
+  "latestRelease" : {
+    "objectId" : "item_400862",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:50:38.039+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6FFD-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400862",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:50:38.039+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6FFD-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dictionnaire ouldémé - français",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "William",
+        "familyName" : "Kinnaird",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Timothée",
+        "familyName" : "Oumaté"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1999",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "24350",
+      "type" : "OTHER"
+    }, {
+      "id" : "ouldeme_kinnaird1999_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[Yaoundé, Republic of Cameroon]",
+      "publisher" : "[SIL]"
+    },
+    "freeKeywords" : "LoC Class: PL8753.5,\nLoC Subject Headings: Uldeme language",
+    "subjects" : [ {
+      "value" : "udl - Wuzlam",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "154 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400860",
+    "name" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/lexicons/Ouldeme%20Lexicon.pdf",
+    "creationDate" : "2010-04-01T10:59:56.593+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6FFB-1",
+    "content" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/lexicons/Ouldeme%20Lexicon.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/lexicons/Ouldeme%20Lexicon.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400861",
+    "name" : "ouldeme_kinnaird1999_s.pdf",
+    "creationDate" : "2010-04-01T10:59:57.138+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6FFC-0",
+    "content" : "/rest/items/item_400862_2/component/file_400861/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "08a520f5192e97cd37adddc446e8534e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1077280,
+    "metadata" : {
+      "title" : "ouldeme_kinnaird1999_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1077280
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

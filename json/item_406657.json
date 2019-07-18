@@ -1,0 +1,154 @@
+{
+  "objectId" : "item_406657",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-08-04T09:54:02.511+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-1B0C-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-08-04T09:54:02.511+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-91D6-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:45:41.780+0000",
+  "latestRelease" : {
+    "objectId" : "item_406657",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-04T09:54:02.511+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1B0C-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406657",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-04T09:54:02.511+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1B0C-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Construções causativas da língua Kaingang",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Luciana Pereira",
+        "familyName" : "Tabosa",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37371",
+      "type" : "OTHER"
+    }, {
+      "id" : "kaingang_tabosa2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "place" : "Londrina",
+      "publisher" : "Univ. Estadual"
+    },
+    "freeKeywords" : "LoC Class: PM6276,\nLoC Subject Headings: Kaingang language",
+    "subjects" : [ {
+      "value" : "kgp - Kaingáng",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "103 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406656",
+    "name" : "kaingang_tabosa2006_s.pdf",
+    "creationDate" : "2010-04-01T13:45:41.669+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-91D5-A",
+    "content" : "/rest/items/item_406657_3/component/file_406656/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6a1aa06c0191a2061d22c8859c1c846d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 630586,
+    "metadata" : {
+      "title" : "kaingang_tabosa2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 630586
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2048084",
+    "name" : "http://obraslivres.com/obras/67551/construcoes-causativas-da-lingua-kaingang",
+    "creationDate" : "2014-08-04T09:51:28.447+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-1B18-1",
+    "content" : "http://obraslivres.com/obras/67551/construcoes-causativas-da-lingua-kaingang",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7b66bf1372705079d2bfe55e528bf592",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://obraslivres.com/obras/67551/construcoes-causativas-da-lingua-kaingang",
+      "contentCategory" : "any-fulltext",
+      "description" : "ObrasLivres.com, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2048085",
+    "name" : "http://obraslivres.com/arquivos/67551-construcoes-causativas-da-lingua-kaingang.pdf",
+    "creationDate" : "2014-08-04T09:51:28.993+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-1B1A-E",
+    "content" : "http://obraslivres.com/arquivos/67551-construcoes-causativas-da-lingua-kaingang.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "574ec5492612d98ce1a608f49ec08abd",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://obraslivres.com/arquivos/67551-construcoes-causativas-da-lingua-kaingang.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

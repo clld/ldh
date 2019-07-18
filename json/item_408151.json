@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_408151",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-05-31T10:33:04.395+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9A2E-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:33:04.395+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9A2E-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:30:56.941+0000",
+  "latestRelease" : {
+    "objectId" : "item_408151",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T10:33:04.395+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9A2E-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408151",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T10:33:04.395+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9A2E-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Beaver texts",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Pliny Earle",
+        "familyName" : "Goddard",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1917",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "42416",
+      "type" : "OTHER"
+    }, {
+      "id" : "beaver_goddard1917_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "New York",
+      "publisher" : "The Trustees"
+    },
+    "sources" : [ {
+      "title" : "Anthropological Papers of the American Museum of Natural History",
+      "volume" : "10,5-6",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Tsattine language",
+    "subjects" : [ {
+      "value" : "bea - Beaver",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "1 p. l., p. 295-546",
+    "abstracts" : [ {
+      "value" : "PM2493, GN2 .A27, ISO 639-3 : bea, Texts, Tsattine language, Tsattine language -- Texts"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_408149",
+    "name" : "http://hdl.handle.net/2246/156",
+    "creationDate" : "2010-04-01T14:30:54.463+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9A2C-D",
+    "content" : "http://hdl.handle.net/2246/156",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ef62bc9d86197408e630c856701a562b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/2246/156",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408150",
+    "name" : "beaver_goddard1917_s.pdf",
+    "creationDate" : "2010-04-01T14:30:55.173+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9A2D-B",
+    "content" : "/rest/items/item_408151_5/component/file_408150/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0cfc2202783d5dbd7a9037c60adbf24f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 18527840,
+    "metadata" : {
+      "title" : "beaver_goddard1917_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 18527840,
+      "copyrightDate" : "2010-11-18",
+      "rights" : "public domain, Pliny Earl Goddard 1869-1928"
+    }
+  } ]
+}

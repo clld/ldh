@@ -1,0 +1,168 @@
+{
+  "objectId" : "item_406306",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T19:52:51.272+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F71-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:52:51.272+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8FEF-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:35:18.259+0000",
+  "latestRelease" : {
+    "objectId" : "item_406306",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T19:52:51.272+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F71-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406306",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T19:52:51.272+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F71-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Papers from the 1992 Hokan-Penutian Languages Conference and the J.P. Harrington Conference : held at the University of California, Santa Barbara and the Museum of Natural History, Santa Barbara June 24-27, 1992",
+    "creators" : [ {
+      "organization" : {
+        "identifier" : "ou_persistent22",
+        "name" : "Hokan-Penutian Languages Conference <1992,              Santa Barbara, Calif.>",
+        "identifierPath" : [ "ou_persistent22" ]
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    }, {
+      "person" : {
+        "givenName" : "James E.",
+        "familyName" : "Redden",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1992",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "36679",
+      "type" : "OTHER"
+    }, {
+      "id" : "hokan_redden1992_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Carbondale",
+      "publisher" : "Dept. of Linguistics, Southern Illinois\n              University"
+    },
+    "sources" : [ {
+      "title" : "Occasional papers on linguistics",
+      "volume" : "17",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM1343, LoC Subject Headings: Hokan languages, LoC Subject Headings: Penutian languages, LoC Subject Headings: Yuman languages",
+    "totalNumberOfPages" : "145 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM1343,\nLoC Subject Headings: Hokan languages--Congresses, Penutian languages--Congresses, Langdon, Margaret, 1926-2005, Yuman languages--Congresses"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406305",
+    "name" : "hokan_redden1992_o.pdf",
+    "creationDate" : "2010-04-01T13:35:17.638+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8FEE-1",
+    "content" : "/rest/items/item_406306_4/component/file_406305/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6405361c19b0667d7b62b509bfcf9ce3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6036367,
+    "metadata" : {
+      "title" : "hokan_redden1992_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6036367
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2034045",
+    "name" : "http://linguistics.berkeley.edu/~survey/resources/publications.php?publication=hokan-penutian&year=1992",
+    "creationDate" : "2014-06-19T07:18:50.120+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-C188-A",
+    "content" : "http://linguistics.berkeley.edu/~survey/resources/publications.php?publication=hokan-penutian&year=1992",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2cc171e9579aa5c64cf392fa85f6e097",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://linguistics.berkeley.edu/~survey/resources/publications.php?publication=hokan-penutian&year=1992",
+      "contentCategory" : "publisher-version",
+      "description" : "Berkeley Univ. of California, Proceedings of the Hokan-Penutian Workshop, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2034046",
+    "name" : "http://linguistics.berkeley.edu/~survey/documents/hokan-penutian/1992/volume-1992.pdf",
+    "creationDate" : "2014-06-19T07:18:50.864+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-C189-8",
+    "content" : "http://linguistics.berkeley.edu/~survey/documents/hokan-penutian/1992/volume-1992.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c7f4ab7425a4965fb39e1ddf2dfea30c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://linguistics.berkeley.edu/~survey/documents/hokan-penutian/1992/volume-1992.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "direct linkt to pdf version",
+      "size" : 0
+    }
+  } ]
+}

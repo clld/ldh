@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_405709",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-03-18T09:10:17.202+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7A00-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-18T09:10:17.202+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8CA3-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:19:00.816+0000",
+  "latestRelease" : {
+    "objectId" : "item_405709",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-18T09:10:17.202+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A00-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405709",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-18T09:10:17.202+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A00-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Language-specificity in auditory perception of Chinese tones",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Tsan",
+        "familyName" : "Huang",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35309",
+      "type" : "OTHER"
+    }, {
+      "id" : "chinese_huang2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: PL1213, LoC Subject Headings: Chinese language",
+    "subjects" : [ {
+      "value" : "cmn - Mandarin Chinese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xic, 194 S.",
+    "abstracts" : [ {
+      "value" : "PL1213, LoC Subject Headings: Auditory perception, Chinese language--Tone, Chinese language--Phonology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405708",
+    "name" : "chinese_huang2004_s.pdf",
+    "creationDate" : "2010-04-01T13:19:00.632+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8CA2-3",
+    "content" : "/rest/items/item_405709_6/component/file_405708/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "72e2d78cef4d0ce3f4f57655ce296943",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1275995,
+    "metadata" : {
+      "title" : "chinese_huang2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1275995,
+      "copyrightDate" : "2010-04-11",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_2039803",
+    "name" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1092856661",
+    "creationDate" : "2014-07-10T07:19:07.546+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1092856661",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2ffc9e3257413ffe025f577dd0528e72",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1092856661",
+      "contentCategory" : "any-fulltext",
+      "description" : "OhioLINK, Electronic Theses & Dissertations Center, pdf",
+      "size" : 0
+    }
+  } ]
+}

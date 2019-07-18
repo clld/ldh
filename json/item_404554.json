@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_404554",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-12-22T08:49:44.706+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-5EDA-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-22T08:49:44.706+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8628-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:43:33.639+0000",
+  "latestRelease" : {
+    "objectId" : "item_404554",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-22T08:49:44.706+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5EDA-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404554",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-22T08:49:44.706+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5EDA-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A Grammar of the modern Syriac Language as spoken in Oroomiah, Persia and in Koordistan",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "David Tappan",
+        "familyName" : "Stoddard",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1855",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "33432",
+      "type" : "OTHER"
+    }, {
+      "id" : "syriac_stoddard1855_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "New Haven [u.a.]",
+      "publisher" : "B. L. Hamlen"
+    },
+    "freeKeywords" : "LoC Class: PJ5802,\nLoC Subject Headings: Syriac language/Modern",
+    "subjects" : [ {
+      "value" : "syc - Classical Syriac",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "180 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PJ5802,\nLoC Subject Headings: Syriac language, Modern--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_2079838",
+    "name" : "syriac_stoddard1855.pdf",
+    "creationDate" : "2014-12-22T08:49:16.182+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-5EDB-A",
+    "content" : "/rest/items/item_404554_3/component/file_2079838/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0cff9b6174db8dd7e5b0660218cf7af2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11987201,
+    "metadata" : {
+      "title" : "syriac_stoddard1855.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11987201,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2079839",
+    "name" : "https://archive.org/details/rosettaproject_aii_multiple-1",
+    "creationDate" : "2014-12-22T08:49:16.529+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/rosettaproject_aii_multiple-1",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9d9e33e170015def60ebc1b1555e0ed8",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/rosettaproject_aii_multiple-1",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, view online & pdf",
+      "size" : 0
+    }
+  } ]
+}

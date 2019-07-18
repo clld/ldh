@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_400718",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T16:44:57.087+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6DF0-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T16:44:57.087+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6F25-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:57:34.133+0000",
+  "latestRelease" : {
+    "objectId" : "item_400718",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T16:44:57.087+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6DF0-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400718",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T16:44:57.087+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6DF0-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Nijyami niquejadamusiy may niquejadamuju, may niquejadamusiy nijyami niquejadamuju : Diccionario Yagua - Castellano",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Powlison, Paul S.",
+        "givenName" : "Paul S.",
+        "familyName" : "Powlison",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1995",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "23986",
+      "type" : "OTHER"
+    }, {
+      "id" : "yagua_powlison1995.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1a ed.",
+      "place" : "Lima, Perú",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie lingüística peruana",
+      "volume" : "35",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM7263.Z5, LoC Subject Headings: Yagua language--Dictionaries--Spanish, LoC Subject Headings: Spanish language--Dictionaries--Yagua",
+    "subjects" : [ {
+      "value" : "yad - Yagua",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "390 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400716",
+    "name" : "http://www.sil.org/americas/peru/html/nav/pubIndex_sp.html",
+    "creationDate" : "2010-04-01T10:57:30.853+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/peru/html/nav/pubIndex_sp.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ef906a34198248a487a6952c80f54cda",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/nav/pubIndex_sp.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400717",
+    "name" : "yagua_powlison1995.pdf",
+    "creationDate" : "2010-04-01T10:57:31.231+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F24-1",
+    "content" : "/rest/items/item_400718_3/component/file_400717/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "cbb7dacbc38c1a23fbd08281ef18c29f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 30827765,
+    "metadata" : {
+      "title" : "yagua_powlison1995.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 30827765
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

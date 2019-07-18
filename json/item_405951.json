@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_405951",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:25:55.648+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8DF8-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:25:55.648+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8DF8-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:24:16.832+0000",
+  "latestRelease" : {
+    "objectId" : "item_405951",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:25:55.648+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8DF8-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405951",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:25:55.648+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8DF8-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Language ideology and practice among Navajo College students at Diné College",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Neal Heuss, Jennifer",
+        "givenName" : "Jennifer",
+        "familyName" : "Neal Heuss",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35562",
+      "type" : "OTHER"
+    }, {
+      "id" : "navajo_heuss2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[Lubbock]",
+      "publisher" : " Texas Tech Univ."
+    },
+    "freeKeywords" : "LoC Class: PM2007,\nLoC Subject Headings: Navajo language",
+    "subjects" : [ {
+      "value" : "nav - Navajo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "IV, 114 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405949",
+    "name" : "http://hdl.handle.net/2346/1068",
+    "creationDate" : "2010-04-01T13:24:09.064+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8DF6-E",
+    "content" : "http://hdl.handle.net/2346/1068",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "521b0434e42ff4559118cd90f8b5ab28",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/2346/1068",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405950",
+    "name" : "navajo_heuss2006_s.pdf",
+    "creationDate" : "2010-04-01T13:24:16.726+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8DF7-C",
+    "content" : "/rest/items/item_405951_2/component/file_405950/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "08d800dfa1fac778b4249df06876853c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 532539,
+    "metadata" : {
+      "title" : "navajo_heuss2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 532539
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

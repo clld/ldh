@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_406045",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:06:25.176+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8E81-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:06:25.176+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8E81-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:26:53.115+0000",
+  "latestRelease" : {
+    "objectId" : "item_406045",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:06:25.176+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8E81-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406045",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:06:25.176+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8E81-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Stone soup translation : the linked automata model",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Davis, Paul C.",
+        "givenName" : "Paul C.",
+        "familyName" : "Davis",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35620",
+      "type" : "OTHER"
+    }, {
+      "id" : "translation_davis2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: P308,\nLoC Subject Headings: Machine translating",
+    "totalNumberOfPages" : "XVI, 306 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406043",
+    "name" : "http://www.ling.ohio-state.edu/~pcdavis/papers/diss.pdf",
+    "creationDate" : "2010-04-01T13:26:51.194+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E7F-5",
+    "content" : "http://www.ling.ohio-state.edu/~pcdavis/papers/diss.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9fb27ab6685dd92813faff0f65a0363c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ling.ohio-state.edu/~pcdavis/papers/diss.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406044",
+    "name" : "translation_davis2002_s.pdf",
+    "creationDate" : "2010-04-01T13:26:52.942+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E80-0",
+    "content" : "/rest/items/item_406045_2/component/file_406044/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "01597bdd8f1f461f02dbfe6e3fbac3c0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1070331,
+    "metadata" : {
+      "title" : "translation_davis2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1070331
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

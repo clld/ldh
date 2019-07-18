@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_403245",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-04-07T07:57:27.477+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A7EE-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-07T07:57:27.477+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7DF5-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:05:39.239+0000",
+  "latestRelease" : {
+    "objectId" : "item_403245",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-07T07:57:27.477+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7EE-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403245",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-07T07:57:27.477+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7EE-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Event structure and the encoding of arguments : the syntax of the Mandarin and English verb phrase",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jimmy",
+        "familyName" : "Lin",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31101",
+      "type" : "OTHER"
+    }, {
+      "id" : "mandarin_lin2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachussetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: PL1510, LoC Subject Headings: Chinese language, LoC Subject Headings: Mandarin dialects",
+    "subjects" : [ {
+      "value" : "cmn - Mandarin Chinese",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "194 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL1510, LoC Subject Headings: Chinese language--Dialects, LoC Subject Headings: Mandarin dialects"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403244",
+    "name" : "mandarin_lin2004_s.pdf",
+    "creationDate" : "2010-04-01T12:05:39.113+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7DF4-F",
+    "content" : "/rest/items/item_403245_5/component/file_403244/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "cc84ae0fb69c3c36d1ff095b3286e276",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 700093,
+    "metadata" : {
+      "title" : "mandarin_lin2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 700093
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2129328",
+    "name" : "http://hdl.handle.net/1721.1/28710",
+    "creationDate" : "2015-04-07T07:55:41.537+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/28710",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "056c9b4478f84e5a67e714ab0a953c61",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/28710",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_400229",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T17:02:29.741+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6E11-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T17:02:29.741+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6C23-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:42:47.882+0000",
+  "latestRelease" : {
+    "objectId" : "item_400229",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:02:29.741+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E11-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400229",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:02:29.741+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E11-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Mixe : Tlahuitoltepec, Oaxaca",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Ruiz de Bravo Ahuja, Gloria",
+        "givenName" : "Gloria",
+        "familyName" : "de Ruiz Bravo Ahuja",
+        "alternativeNames" : [ "Bravo Ahuja, Gloria Ruiz de" ],
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "organization" : {
+        "name" : "Centro de Investigación para la Integración\n              Social (Mexico City, Mexico)"
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "1980",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "11828",
+      "type" : "OTHER"
+    }, {
+      "id" : "mixe_archivo1980_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "México",
+      "publisher" : "Colegio de México"
+    },
+    "sources" : [ {
+      "title" : "Archivo de lenguas indígenas de México",
+      "volume" : "08",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4011, LoC Subject Headings: Mexico, LoC Subject Headings: Mixe language, LoC Subject Headings: Mixe language--Mexico--Santa María Tlahuitoltepec--Phonology, LoC Subject Headings: Mixe language--Mexico--Santa María Tlahuitoltepec--Syntax, LoC Subject Headings: Phonology, LoC Subject Headings: Santa María Tlahuitoltepec, LoC Subject Headings: Syntax",
+    "totalNumberOfPages" : "156 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400227",
+    "name" : "http://www.colmex.mx/alim/coleccion.html",
+    "creationDate" : "2010-04-01T10:42:46.900+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6C21-1",
+    "content" : "http://www.colmex.mx/alim/coleccion.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.colmex.mx/alim/coleccion.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400228",
+    "name" : "mixe_archivo1980_o.pdf",
+    "creationDate" : "2010-04-01T10:42:47.391+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6C22-0",
+    "content" : "/rest/items/item_400229_3/component/file_400228/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "566d885d86a520a9ef308951996d6076",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3835148,
+    "metadata" : {
+      "title" : "mixe_archivo1980_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3835148
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_402973",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-03T11:21:17.801+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0248-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert\n",
+  "lastModificationDate" : "2015-03-03T11:21:17.801+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7C4C-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:48:36.784+0000",
+  "latestRelease" : {
+    "objectId" : "item_402973",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T11:21:17.801+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0248-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402973",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T11:21:17.801+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0248-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gender and gender agreement in Jaruara (Arauan)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Alan Robert",
+        "familyName" : "Vogel",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1989",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30780",
+      "type" : "OTHER"
+    }, {
+      "id" : "jaruara_vogel1989_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Arlington",
+      "publisher" : "Univ. of Texas"
+    },
+    "freeKeywords" : "LoC Class: PM5099.8,\nLoC Subject Headings: Arawakan languages, LoC Subject Headings: Amazon River Region--Language",
+    "subjects" : [ {
+      "value" : "jap - Jaruára",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vii, 79 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5099.8,\nLoC Subject Headings: Arawakan languages--Gender, Arawakan languages--Noun phrase, Amazon River Region--Language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402971",
+    "name" : "http://www.silinternational.org/americas/brasil/PUBLCNS/LING/JAGend.pdf",
+    "creationDate" : "2010-04-01T11:48:34.539+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7C4A-6",
+    "content" : "http://www.silinternational.org/americas/brasil/PUBLCNS/LING/JAGend.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7dcd1d29034922a34e92a756c9115b3c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.silinternational.org/americas/brasil/PUBLCNS/LING/JAGend.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402972",
+    "name" : "jaruara_vogel1989_o.pdf",
+    "creationDate" : "2010-04-01T11:48:36.537+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7C4B-4",
+    "content" : "/rest/items/item_402973_3/component/file_402972/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8ffba4efe6309210f0f047e244018667",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2066773,
+    "metadata" : {
+      "title" : "jaruara_vogel1989_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2066773
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

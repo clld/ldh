@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_400670",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-18T12:36:04.065+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7ADB-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-18T12:36:04.065+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6ECE-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:56:57.124+0000",
+  "latestRelease" : {
+    "objectId" : "item_400670",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T12:36:04.065+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7ADB-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400670",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T12:36:04.065+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7ADB-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Morfología del caquinte (arawak preandino)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Kenneth E.",
+        "familyName" : "Swift",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1988",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "23914",
+      "type" : "OTHER"
+    }, {
+      "id" : "caquinte_swift1988_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1a ed.",
+      "place" : "Yarinacocha",
+      "publisher" : "Instituto Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística Peruana",
+      "volume" : "25",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5739, LoC Subject Headings: Caquinte language",
+    "subjects" : [ {
+      "value" : "cot - Caquinte",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "216 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5739,\nLoC Subject Headings: Caquinte language--Morphology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400669",
+    "name" : "caquinte_swift1988_o.pdf",
+    "creationDate" : "2010-04-01T10:56:56.379+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6ECD-2",
+    "content" : "/rest/items/item_400670_3/component/file_400669/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "991b96eaf41cc27ed8a3cda5d7982742",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7445205,
+    "metadata" : {
+      "title" : "caquinte_swift1988_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7445205
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116775",
+    "name" : "http://www.peru.sil.org/resources/archives/29899",
+    "creationDate" : "2015-03-18T12:35:19.956+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/29899",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "edeb972ae46c8cc8ed346c7dd01a0716",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/29899",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_404705",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-13T02:03:54.174+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-724A-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:03:54.174+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8705-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:46:23.348+0000",
+  "latestRelease" : {
+    "objectId" : "item_404705",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:03:54.174+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-724A-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404705",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:03:54.174+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-724A-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Sri Lanka Creole Portuguese phonology",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ian Russell",
+        "familyName" : "Smith",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1977",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "33697",
+      "type" : "OTHER"
+    }, {
+      "id" : "creole_smith1977_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cornell",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM7849.C4, LoC Subject Headings: Creole dialects, LoC Subject Headings: Portuguese",
+    "subjects" : [ {
+      "value" : "idb - Indo-Portuguese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xiv, 230 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM7849.C4,\nLoC Subject Headings: Creole dialects, Portuguese--Sri Lanka--Batticaloa District-- Phonology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_2071081",
+    "name" : "creoleportuguese_smith1977_o.pdf",
+    "creationDate" : "2014-11-14T12:04:25.796+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-3611-0",
+    "content" : "/rest/items/item_404705_4/component/file_2071081/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "dd72f149230d9963f986e7f1e856479d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3881211,
+    "metadata" : {
+      "title" : "creoleportuguese_smith1977_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3881211,
+      "copyrightDate" : "2014-11-07",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

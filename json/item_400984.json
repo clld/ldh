@@ -1,0 +1,115 @@
+{
+  "objectId" : "item_400984",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-11-28T11:08:57.300+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-4389-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "CC-by-Lizenz liegt vor",
+  "lastModificationDate" : "2014-11-28T11:08:57.300+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-70B5-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:02:41.116+0000",
+  "latestRelease" : {
+    "objectId" : "item_400984",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-11-28T11:08:57.300+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-4389-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400984",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-11-28T11:08:57.300+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-4389-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Clallam : A study in Coast Salish ethnolinguistics",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mark Stewart",
+        "familyName" : "Fleisher",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1976",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "24983",
+      "type" : "OTHER"
+    }, {
+      "id" : "clallam_fleisher1976_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Pullman]",
+      "publisher" : "Washington State Univ."
+    },
+    "freeKeywords" : "LoC Class: PM895,\nLoC Subject Headings: Clallam language",
+    "subjects" : [ {
+      "value" : "clm - Clallam",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xi, 320 S."
+  },
+  "files" : [ {
+    "objectId" : "file_2075710",
+    "name" : "clallam_fleisher1976_o.pdf",
+    "creationDate" : "2014-11-28T11:06:46.512+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-438A-C",
+    "content" : "/rest/items/item_400984_3/component/file_2075710/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b84a5552e3a11794087d41354da7f8a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4755468,
+    "metadata" : {
+      "title" : "clallam_fleisher1976_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4755468,
+      "copyrightDate" : "2014-11-21",
+      "license" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  } ]
+}

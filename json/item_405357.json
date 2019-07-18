@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_405357",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-18T10:29:58.336+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7A5B-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-18T10:29:58.336+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8AA2-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:08:38.683+0000",
+  "latestRelease" : {
+    "objectId" : "item_405357",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T10:29:58.336+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A5B-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405357",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T10:29:58.336+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7A5B-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Topic and focus in Ngardi",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Tom",
+        "familyName" : "Honeyman",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "BACHELOR",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34683",
+      "type" : "OTHER"
+    }, {
+      "id" : "ngardi_honeyman2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Sydney",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL7101, LoC Subject Headings: Waringari (Australian people)--Language, LoC Subject Headings: Australian languages",
+    "totalNumberOfPages" : "77 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405356",
+    "name" : "ngardi_honeyman2005_s.pdf",
+    "creationDate" : "2010-04-01T13:08:38.570+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8AA1-F",
+    "content" : "/rest/items/item_405357_3/component/file_405356/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7fa5c9281af328da6b6a79e868527fca",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 409727,
+    "metadata" : {
+      "title" : "ngardi_honeyman2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 409727
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116712",
+    "name" : "http://hdl.handle.net/2123/139",
+    "creationDate" : "2015-03-18T10:29:22.142+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/2123/139",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "aec116738a674f146e9f29a0db87ca94",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/2123/139",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Sydney, Sydney eScholarship Repository, pdf & rtf download",
+      "size" : 0
+    }
+  } ]
+}

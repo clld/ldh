@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_406584",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:55:55.859+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9170-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:55:55.859+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9170-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:43:42.881+0000",
+  "latestRelease" : {
+    "objectId" : "item_406584",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:55:55.859+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9170-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406584",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:55:55.859+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9170-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "El elemento Espanol en la lengua Chamorra (Islas Marianas)",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Rodríguez-Ponga Salamanca, Rafael",
+        "givenName" : "Rafael",
+        "familyName" : "Rodríguez-Ponga Salamanca",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1995",
+    "datePublishedInPrint" : "1995",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37320",
+      "type" : "OTHER"
+    }, {
+      "id" : "chamorra_salamanca2002_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Madrid",
+      "publisher" : " Univ. Complutense"
+    },
+    "freeKeywords" : "LoC Class: PL5295,\nLoC Subject Headings: Chamorro language",
+    "subjects" : [ {
+      "value" : "cha - Chamorro",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "2 tomos  en un (675 p.)"
+  },
+  "files" : [ {
+    "objectId" : "file_406582",
+    "name" : "http://www.ucm.es/eprints/3664/",
+    "creationDate" : "2010-04-01T13:41:40.248+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-916E-1",
+    "content" : "http://www.ucm.es/eprints/3664/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c28ff334e94ed49d20b49b33e6f5591b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ucm.es/eprints/3664/",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406583",
+    "name" : "chamorra_salamanca2002_o.pdf",
+    "creationDate" : "2010-04-01T13:43:40.663+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-916F-0",
+    "content" : "/rest/items/item_406584_2/component/file_406583/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "aef90227a463afc81d7a3cbe50b17d88",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 23397805,
+    "metadata" : {
+      "title" : "chamorra_salamanca2002_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 23397805
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

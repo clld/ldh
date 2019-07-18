@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_403928",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-07-02T07:57:38.203+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-D7CB-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2014-07-02T07:57:38.203+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8299-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:29:38.130+0000",
+  "latestRelease" : {
+    "objectId" : "item_403928",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-02T07:57:38.203+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D7CB-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403928",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-02T07:57:38.203+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-D7CB-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Distributed optimality",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jochen",
+        "familyName" : "Trommer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "dateCreated" : "2001",
+    "datePublishedOnline" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32063",
+      "type" : "OTHER"
+    }, {
+      "id" : "optimality_trommer2001_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "urn:nbn:de:kobv:517-0001377",
+      "type" : "URN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Potsdam",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: P158.42,\nLoC Subject Headings: Optimality theory--Morphologie <Linguistik>",
+    "totalNumberOfPages" : "554 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403927",
+    "name" : "optimality_trommer2001_s.pdf",
+    "creationDate" : "2010-04-01T12:29:37.912+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8298-9",
+    "content" : "/rest/items/item_403928_4/component/file_403927/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4c1ada171c8ccef01610ead3ec2c840c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1576343,
+    "metadata" : {
+      "title" : "optimality_trommer2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1576343
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2036564",
+    "name" : "http://opus.kobv.de/ubp/volltexte/2005/101/",
+    "creationDate" : "2014-07-02T07:48:52.295+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-D7C1-C",
+    "content" : "http://opus.kobv.de/ubp/volltexte/2005/101/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "399abed31324e9a731aa1d59a634f03c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://opus.kobv.de/ubp/volltexte/2005/101/",
+      "contentCategory" : "publisher-version",
+      "description" : "Potsdam Univ., publication server, pdf",
+      "size" : 0
+    }
+  } ]
+}

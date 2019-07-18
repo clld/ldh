@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_400005",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:42:53.608+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6ADB-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:42:53.608+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6ADB-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:38:22.547+0000",
+  "latestRelease" : {
+    "objectId" : "item_400005",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:42:53.608+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6ADB-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400005",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:42:53.608+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6ADB-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Saramaccan grammar sketch",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Rountree, Catherine S.",
+        "givenName" : "Catherine S.",
+        "familyName" : "Rountree",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1992",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "717",
+      "type" : "OTHER"
+    }, {
+      "id" : "saramaccan_rountree1992_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng", "" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Dallas",
+      "publisher" : "Summer Institute of Linguistics"
+    },
+    "sources" : [ {
+      "title" : "Languages of the Guianas",
+      "volume" : "8",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM7875.S27,\nLoC Subject Headings: Saramaccan language--Grammar",
+    "subjects" : [ {
+      "value" : "srm - Saramaccan",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "iii, 69 S. (2 MF)"
+  },
+  "files" : [ {
+    "objectId" : "file_400003",
+    "name" : "http://www.archive.org/details/rosettaproject_srm_morsyn-1",
+    "creationDate" : "2010-04-01T10:38:20.669+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6AD9-4",
+    "content" : "http://www.archive.org/details/rosettaproject_srm_morsyn-1",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0a2cb21b958580f870dbfcc67faa1dc4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/rosettaproject_srm_morsyn-1",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400004",
+    "name" : "saramaccan_rountree1992_o.pdf",
+    "creationDate" : "2010-04-01T10:38:21.778+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6ADA-2",
+    "content" : "/rest/items/item_400005_2/component/file_400004/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5645f541e5bb1360f609311ed8df9932",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7612729,
+    "metadata" : {
+      "title" : "saramaccan_rountree1992_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7612729
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,161 @@
+{
+  "objectId" : "item_403812",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-04-10T11:37:53.903+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-AE22-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-10T11:37:53.903+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-81F0-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:26:09.939+0000",
+  "latestRelease" : {
+    "objectId" : "item_403812",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-10T11:37:53.903+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-AE22-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403812",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-10T11:37:53.903+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-AE22-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dinka-English and English-Dinka dictionary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Roger",
+        "familyName" : "Blench",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Arthur",
+        "familyName" : "Nebel",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "CONTRIBUTOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "31740",
+      "type" : "OTHER"
+    }, {
+      "id" : "dinka_blench2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "N.A.",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL8131.4, LoC Subject Headings: Dinka language",
+    "subjects" : [ {
+      "value" : "dip - Northeastern Dinka",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "dik - Southwestern Dinka",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "diw - Northwestern Dinka",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "dks - Southeastern Dinka",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "dib - South Central Dinka",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "195 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8131.4, LoC Subject Headings: English language--Dictionaries--Dinka, LoC Subject Headings: Dinka language--Dictionaries--English // This Dinka-English Dictionary is a collection of words gathered from various sources. It includes the words from the Dinka-English section of Nebel’s Dinka-English Dictionary.\nThis is a draft document released by SIL.\n[This version was converted to Unicode by Roger Blench on December 17, 2005. Minor corrections of spelling and formatting were also made] "
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403811",
+    "name" : "dinka_blench2005_s.pdf",
+    "creationDate" : "2010-04-01T12:26:09.727+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-81EF-2",
+    "content" : "/rest/items/item_403812_5/component/file_403811/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a7d94537b8a084beb5e61d65a0d29487",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1607447,
+    "metadata" : {
+      "title" : "dinka_blench2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1607447
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_1900009",
+    "name" : "http://www.rogerblench.info/Language/Nilo-Saharan/Nilotic/Comparative%20Dinka%20lexicon%20converted.pdf",
+    "creationDate" : "2014-01-16T09:14:36.094+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0015-0CA8-2",
+    "content" : "http://www.rogerblench.info/Language/Nilo-Saharan/Nilotic/Comparative%20Dinka%20lexicon%20converted.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9760004d90009e8614ec5ecfeaecd11c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.rogerblench.info/Language/Nilo-Saharan/Nilotic/Comparative%20Dinka%20lexicon%20converted.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "Roger Blench's website, Nilo-Saharan Languages, pdf download",
+      "size" : 0
+    }
+  } ]
+}

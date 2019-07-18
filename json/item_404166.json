@@ -1,0 +1,148 @@
+{
+  "objectId" : "item_404166",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:59:19.986+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-83F0-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:59:19.986+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-83F0-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:36:18.374+0000",
+  "latestRelease" : {
+    "objectId" : "item_404166",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:59:19.986+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-83F0-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404166",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:59:19.986+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-83F0-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Bulgarski ezik za dobrovoltsi ot Korpusa na mira : Bulgarian language for Peace Corps Volunteers ; Bulgaria",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Dimitrova, Aneta",
+        "givenName" : "Aneta",
+        "familyName" : "Dimitrova",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Christina",
+        "familyName" : "Tomova"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "organization" : {
+        "name" : "United States / Peace Corps"
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "1998",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "32359",
+      "type" : "OTHER"
+    }, {
+      "id" : "bulgarski_dimitrova1998.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "bul" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N.A.",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PG824,\nLoC Subject Headings: Bulgarian language",
+    "subjects" : [ {
+      "value" : "bul - Bulgarian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "94 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404164",
+    "name" : "http://eric.ed.gov/ERICDocs/data/ericdocs2/content_storage_01/0000000b/80/11/28/89.pdf",
+    "creationDate" : "2010-04-01T12:36:17.789+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-83EE-3",
+    "content" : "http://eric.ed.gov/ERICDocs/data/ericdocs2/content_storage_01/0000000b/80/11/28/89.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eric.ed.gov/ERICDocs/data/ericdocs2/content_storage_01/0000000b/80/11/28/89.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404165",
+    "name" : "bulgarski_dimitrova1998.pdf",
+    "creationDate" : "2010-04-01T12:36:17.939+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-83EF-1",
+    "content" : "/rest/items/item_404166_2/component/file_404165/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "366a8f5607b9c13e0e1148c6e2734c71",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4010619,
+    "metadata" : {
+      "title" : "bulgarski_dimitrova1998.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4010619
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

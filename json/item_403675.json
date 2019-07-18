@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403675",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-06-06T07:26:59.260+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8119-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:26:59.260+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8119-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:22:02.244+0000",
+  "latestRelease" : {
+    "objectId" : "item_403675",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-06-06T07:26:59.260+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8119-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403675",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-06-06T07:26:59.260+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8119-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A theoretical and practical grammar of the\nOtchipwe language : for the use of missionaries and other persons living among the Indians",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Frederic",
+        "familyName" : "Baraga",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1878",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31501",
+      "type" : "OTHER"
+    }, {
+      "id" : "otchipwe_baraga1878_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "2. Aufl.",
+      "place" : "Montreal",
+      "publisher" : "Beauchemin & Valois"
+    },
+    "freeKeywords" : "LoC Subject Headings: Ojibwa language",
+    "subjects" : [ {
+      "value" : "ojb - Northwestern Ojibwa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xi, 422 S.",
+    "abstracts" : [ {
+      "value" : "PM852, ISO 639-3 : ojb, Ojibwa language -- Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403674",
+    "name" : "otchipwe_baraga1878_o.pdf",
+    "creationDate" : "2010-04-01T12:22:00.323+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8118-4",
+    "content" : "/rest/items/item_403675_4/component/file_403674/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fce9926fae657a05e5fe67cc8440ddcb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 20145408,
+    "metadata" : {
+      "title" : "otchipwe_baraga1878_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 20145408,
+      "copyrightDate" : "2010-12-01",
+      "rights" : "not in copyright, Frederic Baraga  1797 - 1868"
+    }
+  } ]
+}

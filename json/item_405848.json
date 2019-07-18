@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_405848",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-10T10:18:23.980+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-ADE0-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-10T10:18:23.980+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8D67-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:21:42.604+0000",
+  "latestRelease" : {
+    "objectId" : "item_405848",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T10:18:23.980+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-ADE0-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405848",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T10:18:23.980+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-ADE0-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Case variation in Czech and Russian : implications for the transitivity hypothesis",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mark Eliot",
+        "familyName" : "Nuckols",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35454",
+      "type" : "OTHER"
+    }, {
+      "id" : "transitivity_nuckols2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Columbus]",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: PG4221, LoC Subject Headings: Czech language, LoC Subject Headings: Russian language",
+    "subjects" : [ {
+      "value" : "ces - Czech",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "rus - Russian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 259 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PG4221, LoC Subject Headings: Czech language -- Transitivity, LoC Subject Headings: Czech language -- Case, LoC Subject Headings: Russian language -- Transitivity, LoC Subject Headings: Russian language -- Case"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405847",
+    "name" : "transitivity_nuckols2007_s.pdf",
+    "creationDate" : "2010-04-01T13:21:42.394+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D66-3",
+    "content" : "/rest/items/item_405848_4/component/file_405847/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1c1ca99a1206d48364a9791e67a396c2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1297688,
+    "metadata" : {
+      "title" : "transitivity_nuckols2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1297688
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2134703",
+    "name" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1190059620",
+    "creationDate" : "2015-04-10T10:15:40.723+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1190059620",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "86131773f21e02ccaf817acee446786f",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1190059620",
+      "contentCategory" : "publisher-version",
+      "description" : "OhioLINK, Electronic Theses & Dissertations Center, pdf download",
+      "size" : 0
+    }
+  } ]
+}

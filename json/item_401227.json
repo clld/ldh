@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_401227",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T18:34:30.724+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6EDF-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T18:34:30.724+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7228-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:07:56.933+0000",
+  "latestRelease" : {
+    "objectId" : "item_401227",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:34:30.724+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EDF-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401227",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T18:34:30.724+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6EDF-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Relativización y clausulas nominalizadas en el quechua huallaguino (Huanuco)",
+    "alternativeTitles" : [ {
+      "value" : "Relativization and nominalized clauses in\n              Huallaga (Huanuco) Quechua <spa>"
+    } ],
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Weber, David",
+        "givenName" : "David",
+        "familyName" : "Weber",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1994",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "25472",
+      "type" : "OTHER"
+    }, {
+      "id" : "quechua_weber1994_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[Perú]",
+      "publisher" : "Instituto Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística peruana",
+      "volume" : "33",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6303, LoC Subject Headings: Quechua language--Relative clauses, LoC Subject Headings: Quechua language--Nominals",
+    "subjects" : [ {
+      "value" : "qub - Huallaga Huánuco Quechua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "150 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401225",
+    "name" : "http://www.sil.org/americas/peru/html/nav/pubIndex.html",
+    "creationDate" : "2010-04-01T11:07:55.547+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/peru/html/nav/pubIndex.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0b07b098f06a4df92b205709adb23d30",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/nav/pubIndex.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401226",
+    "name" : "quechua_weber1994_o.pdf",
+    "creationDate" : "2010-04-01T11:07:56.262+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7227-A",
+    "content" : "/rest/items/item_401227_3/component/file_401226/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "23ec5bb602e53e68a542148e90c2a611",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6532688,
+    "metadata" : {
+      "title" : "quechua_weber1994_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6532688
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_404509",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-12-19T11:00:26.423+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-5D9C-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain\n",
+  "lastModificationDate" : "2014-12-19T11:00:26.423+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-85E8-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:42:43.784+0000",
+  "latestRelease" : {
+    "objectId" : "item_404509",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-19T11:00:26.423+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5D9C-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404509",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-19T11:00:26.423+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5D9C-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gramatica de la lengua chilena, escrita por el Rev. P. Misionero Andres Febres soc. Jesu",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Andrés",
+        "familyName" : "Fébres",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1846",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "33339",
+      "type" : "OTHER"
+    }, {
+      "id" : "chilena_febres1846_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "arn" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Santiago",
+      "publisher" : "Imprenta de los tribunales"
+    },
+    "freeKeywords" : "LoC Class: PM5463,\nLoC Subject Headings: Mapuche language",
+    "subjects" : [ {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "V, 292, 29, II S."
+  },
+  "files" : [ {
+    "objectId" : "file_2079671",
+    "name" : "chilena_febres1846.pdf",
+    "creationDate" : "2014-12-19T10:55:20.207+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0024-5D9D-B",
+    "content" : "/rest/items/item_404509_3/component/file_2079671/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "12aef2514efe635992a6c4a08532301b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 66966095,
+    "metadata" : {
+      "title" : "chilena_febres1846.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 66966095,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2079672",
+    "name" : "http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10524287-2",
+    "creationDate" : "2014-12-19T10:55:21.164+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10524287-2",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "79fe1670e039e4b60b637b8fd78143f8",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10524287-2",
+      "contentCategory" : "publisher-version",
+      "description" : "Bayerische Staatsbibliothek digital, view online & pdf",
+      "size" : 0
+    }
+  } ]
+}

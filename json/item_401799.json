@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_401799",
+  "versionNumber" : 6,
+  "modificationDate" : "2011-06-06T07:31:07.525+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7562-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:31:07.525+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7562-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:19:09.185+0000",
+  "latestRelease" : {
+    "objectId" : "item_401799",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-06-06T07:31:07.525+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7562-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401799",
+    "versionNumber" : 6,
+    "modificationDate" : "2011-06-06T07:31:07.525+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7562-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of the Maguindanao tongue according to the manner of speaking it in the interior and on the south coast of the island of Mindanao",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jacinto",
+        "familyName" : "Juanmartí",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "C.C.",
+        "familyName" : "Smith",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1906",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "28072",
+      "type" : "OTHER"
+    }, {
+      "id" : "maguindanao_juanmarti1906_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Washington",
+      "publisher" : "Govt. print. off."
+    },
+    "freeKeywords" : "LoC Subject Headings: Magindanao language",
+    "subjects" : [ {
+      "value" : "mly - Malay",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "80 S.",
+    "abstracts" : [ {
+      "value" : "PL5912, ISO 639-3 : mly, Magindanao language--Grammar, Malay language--Glossaries, vocabularies, etc."
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401798",
+    "name" : "maguindanao_juanmarti1906_o.pdf",
+    "creationDate" : "2010-04-01T11:19:08.609+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7561-C",
+    "content" : "/rest/items/item_401799_6/component/file_401798/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5eda68aa5aa9638237619cf48bb96415",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5540192,
+    "metadata" : {
+      "title" : "maguindanao_juanmarti1906_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5540192,
+      "copyrightDate" : "2010-11-18",
+      "rights" : "public domain, Jacinto Juanmarti 1832-1897"
+    }
+  } ]
+}

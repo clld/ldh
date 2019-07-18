@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_400865",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T17:11:30.328+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6E2B-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T17:11:30.328+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7001-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:59:58.565+0000",
+  "latestRelease" : {
+    "objectId" : "item_400865",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:11:30.328+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E2B-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400865",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:11:30.328+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E2B-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Podoko provisional lexicon",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ndoula",
+        "familyName" : "Lagona",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Elizabeth",
+        "familyName" : "Jarvis"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1992",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "24351",
+      "type" : "OTHER"
+    }, {
+      "id" : "podoko_lagona1992_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[Yaoundé]",
+      "publisher" : "[SIL]"
+    },
+    "freeKeywords" : "LoC Class: PL8599.P282, LoC Subject Headings: Paduko language, LoC Subject Headings: Chadic languages",
+    "subjects" : [ {
+      "value" : "pbi - Parkwa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "146 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400863",
+    "name" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/dictionaries/Podoko%20lexicon.pdf",
+    "creationDate" : "2010-04-01T10:59:58.010+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6FFF-A",
+    "content" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/dictionaries/Podoko%20lexicon.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/dictionaries/Podoko%20lexicon.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400864",
+    "name" : "podoko_lagona1992_s.pdf",
+    "creationDate" : "2010-04-01T10:59:58.389+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7000-E",
+    "content" : "/rest/items/item_400865_3/component/file_400864/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0164b700269e614dc525f9ae24081a73",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1172537,
+    "metadata" : {
+      "title" : "podoko_lagona1992_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1172537
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,113 @@
+{
+  "objectId" : "item_1481963",
+  "versionNumber" : 1,
+  "modificationDate" : "2012-07-06T10:46:47.620+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-000F-A9F1-2",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "lastModificationDate" : "2012-07-06T10:46:47.620+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-000F-A9F0-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2012-07-06T10:42:10.810+0000",
+  "latestRelease" : {
+    "objectId" : "item_1481963",
+    "versionNumber" : 1,
+    "modificationDate" : "2012-07-06T10:46:47.620+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-000F-A9F1-2",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_1481963",
+    "versionNumber" : 1,
+    "modificationDate" : "2012-07-06T10:46:47.620+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-000F-A9F1-2",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "" ],
+  "metadata" : {
+    "title" : "La flessione possessiva del chamacoco",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Luca",
+        "familyName" : "Ciucci",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2010",
+    "dateSubmitted" : "2012-07-06",
+    "genre" : "ARTICLE",
+    "languages" : [ "ita" ],
+    "sources" : [ {
+      "title" : "Quaderni del Laboratorio di Linguistica",
+      "volume" : "9",
+      "issue" : "2",
+      "identifiers" : [ {
+        "id" : "1251852-9",
+        "type" : "ZDB"
+      } ],
+      "genre" : "JOURNAL"
+    } ],
+    "freeKeywords" : "LoC Class: PM7329,\nLoC subject Headings: Chamacoco language",
+    "subjects" : [ {
+      "value" : "ceg - Chamacoco",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "32"
+  },
+  "files" : [ {
+    "objectId" : "file_1481962",
+    "name" : "Ciucci_Chamacoco_possessive_inflection.pdf",
+    "creationDate" : "2012-07-06T10:42:10.591+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-000F-A9EF-A",
+    "content" : "/rest/items/item_1481963_1/component/file_1481962/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4900cdda63309c935c0b56c772b1ce22",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 285663,
+    "metadata" : {
+      "title" : "Ciucci_Chamacoco_possessive_inflection.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 285663,
+      "copyrightDate" : "2010",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/"
+    }
+  } ]
+}

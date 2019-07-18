@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_404142",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:14:57.902+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-83D0-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:14:57.902+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-83D0-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:35:35.007+0000",
+  "latestRelease" : {
+    "objectId" : "item_404142",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:14:57.902+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-83D0-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404142",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:14:57.902+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-83D0-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Sentence final verbs in Binumarein",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Des",
+        "familyName" : "Oatridge",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Jennifer",
+        "familyName" : "Oatridge"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1965",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "32303",
+      "type" : "OTHER"
+    }, {
+      "id" : "binumarein_oatridge1965_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[Ukakumpa]",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL6621.B57,\nLoC Subject Headings: Binumarien language",
+    "subjects" : [ {
+      "value" : "bjr - Binumarien",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "24 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404140",
+    "name" : "http://www.sil.org/pacific/png/pubs/0000402/Binum%20BJR%20Sentence%20Final%20Verbs%20in%20Binumarien_1",
+    "creationDate" : "2010-04-01T12:35:34.123+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-83CE-B",
+    "content" : "http://www.sil.org/pacific/png/pubs/0000402/Binum%20BJR%20Sentence%20Final%20Verbs%20in%20Binumarien_1",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "2039c0bf9454513a8d8770367d737477",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/pacific/png/pubs/0000402/Binum%20BJR%20Sentence%20Final%20Verbs%20in%20Binumarien_1",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404141",
+    "name" : "binumarein_oatridge1965_o.pdf",
+    "creationDate" : "2010-04-01T12:35:34.892+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-83CF-9",
+    "content" : "/rest/items/item_404142_2/component/file_404141/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "096242472da78f93e85f159e3264bd34",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 488277,
+    "metadata" : {
+      "title" : "binumarein_oatridge1965_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 488277
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403479",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T11:30:56.735+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7F74-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:30:56.735+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7F74-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:45.701+0000",
+  "latestRelease" : {
+    "objectId" : "item_403479",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:30:56.735+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F74-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403479",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:30:56.735+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F74-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The noun class system of Kole",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Irene Swiri",
+        "familyName" : "Asobo",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1989",
+    "datePublishedInPrint" : "1989",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31304",
+      "type" : "OTHER"
+    }, {
+      "id" : "kole_swiri1989_0.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Kanuri language",
+    "subjects" : [ {
+      "value" : "knc - Kanuri, Central",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "124 S.",
+    "abstracts" : [ {
+      "value" : "PL8361, ISO 639-3 : knc, Kanuri language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403478",
+    "name" : "kole_swiri1989_0.pdf",
+    "creationDate" : "2010-04-01T12:18:45.238+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7F73-5",
+    "content" : "/rest/items/item_403479_3/component/file_403478/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "097c75bf7bd05c56be642bbe62ab0673",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4232829,
+    "metadata" : {
+      "title" : "kole_swiri1989_0.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4232829,
+      "copyrightDate" : "2010-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

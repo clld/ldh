@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_401316",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T12:06:06.875+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-72A9-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T12:06:06.875+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-72A9-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:09:42.611+0000",
+  "latestRelease" : {
+    "objectId" : "item_401316",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T12:06:06.875+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-72A9-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401316",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T12:06:06.875+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-72A9-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Estudos de aspectos da língua Kaiabi (Tupi)",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Souza, Patrícia de Oliveira Borges e",
+        "givenName" : "Patrícia de Oliveira Borges e",
+        "familyName" : "Souza",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "25894",
+      "type" : "OTHER"
+    }, {
+      "id" : "kaiabi_souza2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : "Unicamp"
+    },
+    "freeKeywords" : "LoC Class: PM7173",
+    "subjects" : [ {
+      "value" : "kyz - Kayabí",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "76 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401314",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000317252",
+    "creationDate" : "2010-04-01T11:09:41.268+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-72A7-8",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000317252",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a61c2844953ecf11e5ff0463eb09d3d0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000317252",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401315",
+    "name" : "kaiabi_souza2004_s.pdf",
+    "creationDate" : "2010-04-01T11:09:42.438+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-72A8-6",
+    "content" : "/rest/items/item_401316_2/component/file_401315/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "17966f5d27b7af65cd1d340b35cfc840",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1111201,
+    "metadata" : {
+      "title" : "kaiabi_souza2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1111201
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

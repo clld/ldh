@@ -1,0 +1,129 @@
+{
+  "objectId" : "item_406663",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-04-09T12:45:55.797+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-91E0-0",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "message" : "EJ ergänzt, Verlag und Verlagsort ins richtige Feld geschrieben",
+  "lastModificationDate" : "2013-04-09T12:45:55.797+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-91DE-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:45:45.033+0000",
+  "latestRelease" : {
+    "objectId" : "item_406663",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-04-09T12:45:55.797+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-91E0-0",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406663",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-04-09T12:45:55.797+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-91E0-0",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A phonological study of the Khmer spoken at Ban Nawattai, Tambon Dongnoi, Ratchasan Sub-district, Chachoengsaw province",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Amphon",
+        "familyName" : "Wichitkhachee",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "37374",
+      "type" : "OTHER"
+    }, {
+      "id" : "khmer_wichitkhachee1996_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "freeKeywords" : "LoC Class: PL4322,\nLoC Subject Headings: Khmer language",
+    "subjects" : [ {
+      "value" : "khm - Khmer, Central",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xi, 220 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406661",
+    "name" : "http://archives.sealang.net/mahidol",
+    "creationDate" : "2010-04-01T13:45:44.211+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-91DC-B",
+    "content" : "http://archives.sealang.net/mahidol",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "86fa3379c3cfd9ea6e00bb37274e97b0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://archives.sealang.net/mahidol",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406662",
+    "name" : "khmer_wichitkhachee1996_o.pdf",
+    "creationDate" : "2010-04-01T13:45:44.509+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-91DD-9",
+    "content" : "/rest/items/item_406663_3/component/file_406662/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d5aa69fd69102aa5b4968fac36d44acc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5091331,
+    "metadata" : {
+      "title" : "khmer_wichitkhachee1996_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5091331
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

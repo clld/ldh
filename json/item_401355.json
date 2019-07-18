@@ -1,0 +1,145 @@
+{
+  "objectId" : "item_401355",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-10T10:55:36.365+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-ADF7-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert\n",
+  "lastModificationDate" : "2015-04-10T10:55:36.365+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-72E0-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:10:35.745+0000",
+  "latestRelease" : {
+    "objectId" : "item_401355",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T10:55:36.365+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-ADF7-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401355",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-10T10:55:36.365+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-ADF7-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Fonologia e gramática Dâw",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Silvana",
+        "familyName" : "Andrade Martins",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "26375",
+      "type" : "OTHER"
+    }, {
+      "id" : "daw_andrade2004_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "90-76864-65-9",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "sources" : [ {
+      "title" : "LOT Dissertation Series",
+      "volume" : "98",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5924, LoC Subject Headings: Dâw language",
+    "subjects" : [ {
+      "value" : "kwa - Dâw",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "2 vols",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5924, LoC Subject Headings: Dâw language--Grammar, LoC Subject Headings: Dâw language--Phonology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401354",
+    "name" : "daw_andrade2004_s.pdf",
+    "creationDate" : "2010-04-01T11:10:35.297+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-72DF-C",
+    "content" : "/rest/items/item_401355_4/component/file_401354/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "44983d65900f14e252421540d7f01b1d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4096911,
+    "metadata" : {
+      "title" : "daw_andrade2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4096911
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2134709",
+    "name" : "http://www.lotpublications.nl/fonologia-e-gramatica-daw-tomo-ii-fonologia-e-gramatica-daw",
+    "creationDate" : "2015-04-10T10:54:41.607+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.lotpublications.nl/fonologia-e-gramatica-daw-tomo-ii-fonologia-e-gramatica-daw",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "07f2f655d4eee137dcb475683b177647",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lotpublications.nl/fonologia-e-gramatica-daw-tomo-ii-fonologia-e-gramatica-daw",
+      "contentCategory" : "publisher-version",
+      "description" : "LOT Publications, Netherlands Graduate School of Linguistics, pdf dowonload",
+      "size" : 0
+    }
+  } ]
+}

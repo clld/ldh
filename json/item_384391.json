@@ -1,0 +1,129 @@
+{
+  "objectId" : "item_384391",
+  "versionNumber" : 10,
+  "modificationDate" : "2011-06-21T08:36:08.253+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6848-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-21T08:36:08.253+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6848-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-03-08T14:16:23.162+0000",
+  "latestRelease" : {
+    "objectId" : "item_384391",
+    "versionNumber" : 10,
+    "modificationDate" : "2011-06-21T08:36:08.253+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6848-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_384391",
+    "versionNumber" : 10,
+    "modificationDate" : "2011-06-21T08:36:08.253+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6848-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "" ],
+  "metadata" : {
+    "title" : "The morphology, syntax and semantics of adverbs in cantonese",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "May Lai-Yin",
+        "familyName" : "Wong",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2002",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "languages" : [ "eng" ],
+    "freeKeywords" : "LoC Subject Headings: Cantonese dialects",
+    "subjects" : [ {
+      "value" : "yue - Chinese, Yue",
+      "type" : "ISO639_3"
+    } ],
+    "tableOfContents" : "Declaration\nAcknowledgements\nTable of Contents\nList of Illustrations/Tables/Figures/Appendices\nAbbreviations\nChapter 1: Introduction\nChapter 2: Adverbs and Other Word Classes \nChapter 3: Forms of Adverbs \nChapter 4: Semantic Classificatio~l of Adverbs\nChapter 5: Syntactic Functions of Adverbs\nChapter 6: Conclusion and Further Research\nAppendices\nReferences",
+    "totalNumberOfPages" : "VII, 140 S.",
+    "abstracts" : [ {
+      "value" : "PL1733 , Cantonese dialects -- Adverb , Cantonese dialects -- Morphology , Cantonese dialects -- Syntax"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_384389",
+    "name" : "cantonese_wong2002_o.pdf",
+    "creationDate" : "2010-03-08T14:16:20.911+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6846-D",
+    "content" : "/rest/items/item_384391_10/component/file_384389/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "15833f4a26506b5b14a77627838f5112",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10829920,
+    "metadata" : {
+      "title" : "cantonese_wong2002_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10829920,
+      "copyrightDate" : "2010-03-05",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_384390",
+    "name" : "http://sunzi1.lib.hku.hk/hkuto/record/B3122684X",
+    "creationDate" : "2010-03-08T14:16:21.966+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6847-B",
+    "content" : "http://sunzi1.lib.hku.hk/hkuto/record/B3122684X",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "df4b53cc12fb46990810993659a2f5c0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://sunzi1.lib.hku.hk/hkuto/record/B3122684X",
+      "contentCategory" : "publisher-version",
+      "description" : "Hong Kong University Theses Online",
+      "size" : 0
+    }
+  } ]
+}

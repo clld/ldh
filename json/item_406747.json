@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_406747",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T20:18:52.313+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FA8-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:18:52.313+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9253-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:46:56.500+0000",
+  "latestRelease" : {
+    "objectId" : "item_406747",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:18:52.313+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FA8-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406747",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:18:52.313+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FA8-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Za:r : dictionary, grammar, texts",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Caron, Bernard",
+        "givenName" : "Bernard",
+        "familyName" : "Caron",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37410",
+      "type" : "OTHER"
+    }, {
+      "id" : "zaar_caron2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ibadan",
+      "publisher" : "IFRA"
+    },
+    "freeKeywords" : "LoC Class: PL8649.95, LoC Subject Headings: Zaar dialect -- Dictionaries -- English, LoC Subject Headings: Zaar dialect -- Dictionaries -- Hausa, LoC Subject Headings: Zaar dialect -- Grammar, LoC Subject Headings: Zaar dialect -- Conversation and phrase books -- English, LoC Subject Headings: Zaar dialect -- Conversation and phrase books -- Hausa, LoC Subject Headings: Saya language -- Dialects -- Nigeria -- Bauchi State",
+    "subjects" : [ {
+      "value" : "say - Saya",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vi, 326 Bl."
+  },
+  "files" : [ {
+    "objectId" : "file_406745",
+    "name" : "http://llacan.vjf.cnrs.fr/PDF/Publications/Caron/Zaar/",
+    "creationDate" : "2010-04-01T13:46:56.008+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9251-4",
+    "content" : "http://llacan.vjf.cnrs.fr/PDF/Publications/Caron/Zaar/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1733d30b9a8ee65b7b6d0951d5d7c420",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://llacan.vjf.cnrs.fr/PDF/Publications/Caron/Zaar/",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406746",
+    "name" : "zaar_caron2005_s.pdf",
+    "creationDate" : "2010-04-01T13:46:56.259+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9252-2",
+    "content" : "/rest/items/item_406747_3/component/file_406746/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "49c43538f6ab328606d185cba03f98e3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1834061,
+    "metadata" : {
+      "title" : "zaar_caron2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1834061
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

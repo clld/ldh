@@ -1,0 +1,120 @@
+{
+  "objectId" : "item_403563",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T11:35:55.647+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8024-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:35:55.647+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8024-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:43.417+0000",
+  "latestRelease" : {
+    "objectId" : "item_403563",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T11:35:55.647+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8024-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403563",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T11:35:55.647+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8024-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Etude phonologique du pólrí",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Wega, Simeu Abraham",
+        "givenName" : "Simeu Abraham",
+        "familyName" : "Wega",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31407",
+      "type" : "OTHER"
+    }, {
+      "id" : "polri_wega2004_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "place" : "Yaoundé",
+      "publisher" : "Université de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon --Languages",
+    "subjects" : [ {
+      "value" : "pmm - Pomo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "iii, 124 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : pmm, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403562",
+    "name" : "polri_wega2004_o.pdf",
+    "creationDate" : "2010-04-01T12:19:43.021+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8023-1",
+    "content" : "/rest/items/item_403563_4/component/file_403562/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "02535e9435e4b6e6c7def1d152a8dd08",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3577006,
+    "metadata" : {
+      "title" : "polri_wega2004_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3577006,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

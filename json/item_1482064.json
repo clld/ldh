@@ -1,0 +1,116 @@
+{
+  "objectId" : "item_1482064",
+  "versionNumber" : 2,
+  "modificationDate" : "2012-07-09T10:40:55.215+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-000F-AA23-8",
+  "modifier" : {
+    "objectId" : "user_284919"
+  },
+  "lastModificationDate" : "2012-07-09T10:40:55.215+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-000F-AA21-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2012-07-09T09:18:55.847+0000",
+  "latestRelease" : {
+    "objectId" : "item_1482064",
+    "versionNumber" : 2,
+    "modificationDate" : "2012-07-09T10:40:55.215+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-000F-AA23-8",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_1482064",
+    "versionNumber" : 2,
+    "modificationDate" : "2012-07-09T10:40:55.215+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-000F-AA23-8",
+    "modifier" : {
+      "objectId" : "user_284919"
+    }
+  },
+  "localTags" : [ "" ],
+  "metadata" : {
+    "title" : "Elementi di morfologia verbale del chamacoco",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Luca",
+        "familyName" : "Ciucci",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2009",
+    "dateSubmitted" : "2012-07-09",
+    "genre" : "ARTICLE",
+    "languages" : [ "ita" ],
+    "sources" : [ {
+      "title" : "Quaderni del Laboratorio di Linguistica",
+      "volume" : "8",
+      "publishingInfo" : {
+        "place" : "Pisa",
+        "publisher" : "Scuola Normale Superiore Pisa"
+      },
+      "identifiers" : [ {
+        "id" : "1251852-9",
+        "type" : "ZDB"
+      } ],
+      "genre" : "JOURNAL"
+    } ],
+    "freeKeywords" : "LoC Class: PM7329,\nLoC subject Headings: Chamacoco language",
+    "subjects" : [ {
+      "value" : "ceg - Chamacoco",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "19"
+  },
+  "files" : [ {
+    "objectId" : "file_1482063",
+    "name" : "Ciucci_Chamacoco_verb_inflection.pdf",
+    "creationDate" : "2012-07-09T09:18:55.728+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-000F-AA20-E",
+    "content" : "/rest/items/item_1482064_2/component/file_1482063/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "272bbe0db4aec868c7894f15c1fae476",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 328034,
+    "metadata" : {
+      "title" : "Ciucci_Chamacoco_verb_inflection.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 328034,
+      "copyrightDate" : "2009",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/"
+    }
+  } ]
+}

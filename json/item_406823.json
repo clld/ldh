@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_406823",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-10T11:40:54.332+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-AE24-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-10T11:40:54.332+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-92C1-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:47:56.063+0000",
+  "latestRelease" : {
+    "objectId" : "item_406823",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-10T11:40:54.332+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-AE24-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406823",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-10T11:40:54.332+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-AE24-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Explorations in discourse topicality",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Robert A.",
+        "familyName" : "Dooley",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2007",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "37457",
+      "type" : "OTHER"
+    }, {
+      "id" : "topicality_dooley2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Dallas",
+      "publisher" : "SIL International"
+    },
+    "freeKeywords" : "LoC Class: P302, LoC Subject Headings: Discourse analysis",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "166 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406822",
+    "name" : "topicality_dooley2007_s.pdf",
+    "creationDate" : "2010-04-01T13:47:55.854+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-92C0-C",
+    "content" : "/rest/items/item_406823_3/component/file_406822/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1f2c058ee188c7d905c060cae82a6f3a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1090067,
+    "metadata" : {
+      "title" : "topicality_dooley2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1090067
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2134724",
+    "name" : "http://www.sil.org/resources/archives/7828",
+    "creationDate" : "2015-04-10T11:40:30.102+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/7828",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d4d071aeea5bdd2a319f6058c2c84c32",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/7828",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Archive, pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403481",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T10:04:42.317+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7F78-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:04:42.317+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7F78-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:47.433+0000",
+  "latestRelease" : {
+    "objectId" : "item_403481",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:04:42.317+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F78-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403481",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:04:42.317+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F78-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Reduplication in Kom : a morpho-syntactic study",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "JudithJudith Fonyuy",
+        "familyName" : "Moye",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31305",
+      "type" : "OTHER"
+    }, {
+      "id" : "kom_fonyuy2003_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Kom language (Cameroon)",
+    "subjects" : [ {
+      "value" : "bkm - Kom (Cameroon)",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "x, 125 S.",
+    "abstracts" : [ {
+      "value" : "PL8395, ISO 639-3 : bkm, Kom language (Cameroon)"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403480",
+    "name" : "kom_fonyuy2003_o.pdf",
+    "creationDate" : "2010-04-01T12:18:46.962+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7F77-E",
+    "content" : "/rest/items/item_403481_3/component/file_403480/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e7598a765c6cd4913c93163f5666ceac",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4216381,
+    "metadata" : {
+      "title" : "kom_fonyuy2003_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4216381,
+      "copyrightDate" : "2010-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

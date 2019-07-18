@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_405434",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T20:18:03.269+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FA6-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:18:03.269+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B11-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:12:35.718+0000",
+  "latestRelease" : {
+    "objectId" : "item_405434",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:18:03.269+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FA6-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405434",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:18:03.269+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FA6-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Pragmatics and language learning : Volume 3",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lawrence F.",
+        "familyName" : "Bouton",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Yamuna",
+        "familyName" : "Kachsu"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1992",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34954",
+      "type" : "OTHER"
+    }, {
+      "id" : "pragmatics_bouton1992_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Urbana-Champaign",
+      "publisher" : "Illinois Univ."
+    },
+    "freeKeywords" : "LoC Class: P99.4.P72, LoC Subject Headings: Pragmatics, LoC Subject Headings: Language and languages --Study and teaching, LoC Subject Headings: Second language acquisition",
+    "totalNumberOfPages" : "VI, 230 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405433",
+    "name" : "pragmatics_bouton1992_o.pdf",
+    "creationDate" : "2010-04-01T13:12:34.667+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B10-D",
+    "content" : "/rest/items/item_405434_4/component/file_405433/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "333645a1da8900937060bcedb428e884",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10467913,
+    "metadata" : {
+      "title" : "pragmatics_bouton1992_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10467913
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_527039",
+    "name" : "http://eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED395517",
+    "creationDate" : "2010-09-23T11:54:19.117+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED395517",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c55e8a912412d51a7fa19e8867d825db",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED395517",
+      "contentCategory" : "publisher-version",
+      "description" : "ERIC - Education Resources Information Center",
+      "size" : 0
+    }
+  } ]
+}

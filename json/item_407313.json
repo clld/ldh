@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_407313",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-10T10:00:30.091+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-ADC5-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-10T10:00:30.091+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9585-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:10:08.986+0000",
+  "latestRelease" : {
+    "objectId" : "item_407313",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-10T10:00:30.091+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-ADC5-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407313",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-10T10:00:30.091+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-ADC5-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The grammaticalization of Hao in Mandarin Chinese",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Wang",
+        "familyName" : "Li-ya",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38322",
+      "type" : "OTHER"
+    }, {
+      "id" : "mandarin_wang1234_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Taipeh",
+      "publisher" : "National Taiwan Univ."
+    },
+    "freeKeywords" : "LoC Class: PL1900.P44, LoC Subject Headings: Mandarin dialect",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "103 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL1900.P44, LoC Subject Headings: Mandarin dialect--China--Beijing--Dictionaries--Chinese"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407311",
+    "name" : "http://140.114.72.28/handle/987654321/6239",
+    "creationDate" : "2010-04-01T14:09:59.573+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://140.114.72.28/handle/987654321/6239",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "939a9fd107aea876de657af6a2da8542",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://140.114.72.28/handle/987654321/6239",
+      "contentCategory" : "publisher-version",
+      "description" : "National Tsing Hua University, Institutional Repository, zip archive download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407312",
+    "name" : "mandarin_wang1234_s.pdf",
+    "creationDate" : "2010-04-01T14:10:08.879+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9584-B",
+    "content" : "/rest/items/item_407313_3/component/file_407312/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9133104e952add79e072ebe13db04427",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 447889,
+    "metadata" : {
+      "title" : "mandarin_wang1234_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 447889
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

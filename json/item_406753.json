@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_406753",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T12:01:43.515+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-925B-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T12:01:43.515+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-925B-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:46:59.697+0000",
+  "latestRelease" : {
+    "objectId" : "item_406753",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T12:01:43.515+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-925B-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406753",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T12:01:43.515+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-925B-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammar sketch of Yemba",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Harro, Gretchen",
+        "givenName" : "Gretchen",
+        "familyName" : "Harro",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Nancy",
+        "familyName" : "Haynes"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1991",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37412",
+      "type" : "OTHER"
+    }, {
+      "id" : "yemba_harro1991_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yaoundé",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PL8813,\nLoC Subject Headings: Yemba language",
+    "subjects" : [ {
+      "value" : "ybb - Yemba",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "[50] S."
+  },
+  "files" : [ {
+    "objectId" : "file_406751",
+    "name" : "http://www.silcam.org/languages/languagepage.php?languageid=16",
+    "creationDate" : "2010-04-01T13:46:58.789+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9259-3",
+    "content" : "http://www.silcam.org/languages/languagepage.php?languageid=16",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "dc220a35c232ef03e1d51e909b71fa61",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.silcam.org/languages/languagepage.php?languageid=16",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406752",
+    "name" : "yemba_harro1991_o.pdf",
+    "creationDate" : "2010-04-01T13:46:59.475+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-925A-1",
+    "content" : "/rest/items/item_406753_2/component/file_406752/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "903f4287d69cbfd3cfdded2b1255d40c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1695171,
+    "metadata" : {
+      "title" : "yemba_harro1991_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1695171
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

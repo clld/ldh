@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_406127",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-11T08:59:37.654+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-1F75-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz korrigiert",
+  "lastModificationDate" : "2015-03-11T08:59:37.654+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8EF1-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:29:55.301+0000",
+  "latestRelease" : {
+    "objectId" : "item_406127",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T08:59:37.654+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-1F75-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406127",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T08:59:37.654+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-1F75-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammar and information structure : a study with reference to Russian",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Natalia",
+        "familyName" : "Siloussar",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35949",
+      "type" : "OTHER"
+    }, {
+      "id" : "russian_slioussar2007_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "978-90-78328-32-2",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "freeKeywords" : "LoC Class: PG2074, LoC Subject Headings: Russian language, LoC Subject Headings: Grammar/Comparative and general",
+    "subjects" : [ {
+      "value" : "rus - Russian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "X, 243 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406126",
+    "name" : "russian_slioussar2007_s.pdf",
+    "creationDate" : "2010-04-01T13:29:54.555+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8EF0-1",
+    "content" : "/rest/items/item_406127_3/component/file_406126/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "268028db11edf0ee2fda6e5bad94860c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6877811,
+    "metadata" : {
+      "title" : "russian_slioussar2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6877811
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110833",
+    "name" : "http://dspace.library.uu.nl/handle/1874/21870",
+    "creationDate" : "2015-03-11T08:58:17.117+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dspace.library.uu.nl/handle/1874/21870",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "465f6f543670c581b88f351270ca9e34",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dspace.library.uu.nl/handle/1874/21870",
+      "contentCategory" : "publisher-version",
+      "description" : "Utrecht Univ., Repository, pdf download",
+      "size" : 0
+    }
+  } ]
+}

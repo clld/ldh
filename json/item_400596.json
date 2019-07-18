@@ -1,0 +1,142 @@
+{
+  "objectId" : "item_400596",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T16:35:14.327+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6DDF-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T16:35:14.327+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6E5D-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:55:33.904+0000",
+  "latestRelease" : {
+    "objectId" : "item_400596",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T16:35:14.327+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6DDF-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400596",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T16:35:14.327+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6DDF-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gramática náhuatl (mela'tájtol) : de los municipos de Mecayapan y Tatahuicapan de Juárez, Veracruz",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Wolgemuth, Carl Joseph",
+        "givenName" : "Carl Joseph",
+        "familyName" : "Wolgemuth",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2002",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "22786",
+      "type" : "OTHER"
+    }, {
+      "id" : "nahuatl_wolgemuth2002a_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "968-31-0315-4",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "2da ed.",
+      "place" : "Coyoacán",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie de gramáticas de lenguas indígenas de México",
+      "volume" : "5",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4063, LoC Subject Headings: Nahuatl language--Grammar, LoC Subject Headings: Nahuatl language--Dialects--Mexico--Mecayapan",
+    "subjects" : [ {
+      "value" : "nhx - Nahuatl, Isthmus-Mecayapan",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xix, 193 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400594",
+    "name" : "http://www.sil.org/mexico/nahuatl/istmo/G027a-GramNahIst-nhx.htm",
+    "creationDate" : "2010-04-01T10:55:33.382+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/mexico/nahuatl/istmo/G027a-GramNahIst-nhx.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9433608ca0e27398719477327d33f463",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/mexico/nahuatl/istmo/G027a-GramNahIst-nhx.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400595",
+    "name" : "nahuatl_wolgemuth2002a_s.pdf",
+    "creationDate" : "2010-04-01T10:55:33.582+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6E5C-D",
+    "content" : "/rest/items/item_400596_3/component/file_400595/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "bb3223336568836220c3ec06a035ae35",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2770774,
+    "metadata" : {
+      "title" : "nahuatl_wolgemuth2002a_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2770774
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

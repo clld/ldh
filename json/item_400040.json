@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_400040",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:51:33.254+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6B0B-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:51:33.254+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6B0B-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:38:55.166+0000",
+  "latestRelease" : {
+    "objectId" : "item_400040",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:51:33.254+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6B0B-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400040",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:51:33.254+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6B0B-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Major grammatical patterns of Western Bukidnon Manobo",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Elkins, Richard E.",
+        "givenName" : "Richard E.",
+        "familyName" : "Elkins",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1970",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "750",
+      "type" : "OTHER"
+    }, {
+      "id" : "bukidnon_elkins1970_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "Microfiche ed.",
+      "place" : "Dallas",
+      "publisher" : "Summer Institute of Linguistics"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics",
+      "volume" : "26",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6113,\nLoC Subject Headings: Western Bukidnon Manobo language--Grammar",
+    "subjects" : [ {
+      "value" : "mbb - Manobo, Western Bukidnon",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "1 MF"
+  },
+  "files" : [ {
+    "objectId" : "file_400038",
+    "name" : "http://www.ethnologue.com/show_work.asp?id=10600",
+    "creationDate" : "2010-04-01T10:38:54.213+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6B09-0",
+    "content" : "http://www.ethnologue.com/show_work.asp?id=10600",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8a6a72ca09db4854ee972eaf01db875e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ethnologue.com/show_work.asp?id=10600",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400039",
+    "name" : "bukidnon_elkins1970_o.pdf",
+    "creationDate" : "2010-04-01T10:38:54.861+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6B0A-E",
+    "content" : "/rest/items/item_400040_2/component/file_400039/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7af98d685a2c9dacc48c49966f0d924f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2217768,
+    "metadata" : {
+      "title" : "bukidnon_elkins1970_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2217768
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

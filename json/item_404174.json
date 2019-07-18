@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_404174",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T06:40:55.629+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA14-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "lastModificationDate" : "2015-04-21T06:40:55.629+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-83FB-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:36:28.089+0000",
+  "latestRelease" : {
+    "objectId" : "item_404174",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T06:40:55.629+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA14-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404174",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T06:40:55.629+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA14-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Canadian French vowel harmony",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Gabriel Christophe",
+        "familyName" : "Poliquin",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32381",
+      "type" : "OTHER"
+    }, {
+      "id" : "canadian_poliquin2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Havard Univ."
+    },
+    "freeKeywords" : "LoC Class: PC3615, LoC Subject Headings: French language, LoC Subject Headings: Grammar/Comparative and general",
+    "subjects" : [ {
+      "value" : "fra - French",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "X, 328 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PC3615, LoC Subject Headings: French language -- Canada -- Vowels, LoC Subject Headings: Grammar/Comparative and general -- Vowel harmony"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404172",
+    "name" : "http://roa.rutgers.edu/files/861-0906/861-POLIQUIN-0-0.PDF",
+    "creationDate" : "2010-04-01T12:36:22.485+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://roa.rutgers.edu/files/861-0906/861-POLIQUIN-0-0.PDF",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://roa.rutgers.edu/files/861-0906/861-POLIQUIN-0-0.PDF",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404173",
+    "name" : "canadian_poliquin2006_s.pdf",
+    "creationDate" : "2010-04-01T12:36:27.807+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-83FA-7",
+    "content" : "/rest/items/item_404174_4/component/file_404173/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "86f77ee3673dcc4dd063b84cf971556b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2196486,
+    "metadata" : {
+      "title" : "canadian_poliquin2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2196486
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

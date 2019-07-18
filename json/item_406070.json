@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_406070",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:10:24.038+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8EA2-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:10:24.038+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8EA2-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:28:47.217+0000",
+  "latestRelease" : {
+    "objectId" : "item_406070",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:10:24.038+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8EA2-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406070",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:10:24.038+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8EA2-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Patterned exceptions in phonology",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Zuraw, Kie Ross",
+        "givenName" : "Kie Ross",
+        "familyName" : "Zuraw",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "datePublishedInPrint" : "2000",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35655",
+      "type" : "OTHER"
+    }, {
+      "id" : "phonology_zuraw2000_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Los Angeles",
+      "publisher" : " Univ. of California"
+    },
+    "freeKeywords" : "LoC Class: PL6053,\nLoC Subject Headings: Tagalog language -- Phonology",
+    "subjects" : [ {
+      "value" : "tgl - Tagalog",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "206 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406068",
+    "name" : "http://www.linguistics.ucla.edu/people/zuraw/dnldpprs/diss.pdf",
+    "creationDate" : "2010-04-01T13:28:37.312+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8EA0-8",
+    "content" : "http://www.linguistics.ucla.edu/people/zuraw/dnldpprs/diss.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "981d12e7b564f62372791f9d912603ea",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.linguistics.ucla.edu/people/zuraw/dnldpprs/diss.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406069",
+    "name" : "phonology_zuraw2000_s.pdf",
+    "creationDate" : "2010-04-01T13:28:46.909+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8EA1-6",
+    "content" : "/rest/items/item_406070_2/component/file_406069/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e0d2b9e3689071b7c97c50dd40e1272a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 967430,
+    "metadata" : {
+      "title" : "phonology_zuraw2000_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 967430
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

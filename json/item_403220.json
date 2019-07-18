@@ -1,0 +1,131 @@
+{
+  "objectId" : "item_403220",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-13T02:19:24.759+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7266-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:19:24.759+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7DCE-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:04:47.900+0000",
+  "latestRelease" : {
+    "objectId" : "item_403220",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:19:24.759+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7266-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403220",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:19:24.759+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7266-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Lexical phonology",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Karuvannur Puthanveettil",
+        "familyName" : "Mohanan",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1982",
+    "datePublishedInPrint" : "1982",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31083",
+      "type" : "OTHER"
+    }, {
+      "id" : "lexical_mohanan1982_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P217.3, LoC Subject Headings: Grammar/Comparative and general--Phonology, LoC Subject Headings: Lexicology",
+    "totalNumberOfPages" : "229 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403219",
+    "name" : "lexical_mohanan1982_o.pdf",
+    "creationDate" : "2010-04-01T12:04:46.983+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7DCD-9",
+    "content" : "/rest/items/item_403220_4/component/file_403219/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9d63f19028c1d710a3befb055e0b805b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9216621,
+    "metadata" : {
+      "title" : "lexical_mohanan1982_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9216621
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110905",
+    "name" : "http://hdl.handle.net/1721.1/15652",
+    "creationDate" : "2015-03-11T10:57:36.821+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/15652",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "bb07328ab5c03560b7f80418c1c0cc68",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/15652",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

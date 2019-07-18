@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_406854",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:37:01.215+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-92ED-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:37:01.215+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-92ED-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:48:14.247+0000",
+  "latestRelease" : {
+    "objectId" : "item_406854",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:37:01.215+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-92ED-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406854",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:37:01.215+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-92ED-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Os generos do humor no ensino de língua Portuguesa : uma abordagem discursiva crítica",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Ottoni, Maria Aparecida Resende",
+        "givenName" : "Maria Aparecida Resende",
+        "familyName" : "Ottoni",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37472",
+      "type" : "OTHER"
+    }, {
+      "id" : "portuguesa_ottoni2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Brasília",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PC5057,\nLoC Subject Headings: Portuguese language.",
+    "totalNumberOfPages" : "200 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406852",
+    "name" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=2293",
+    "creationDate" : "2010-04-01T13:48:13.503+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-92EB-E",
+    "content" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=2293",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ce9053177fb6f7ed2e7783ac253cedd3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=2293",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406853",
+    "name" : "portuguesa_ottoni2007_s.pdf",
+    "creationDate" : "2010-04-01T13:48:13.852+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-92EC-C",
+    "content" : "/rest/items/item_406854_2/component/file_406853/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2226208b50ae497f4ef7b09acda04468",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3523643,
+    "metadata" : {
+      "title" : "portuguesa_ottoni2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3523643
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

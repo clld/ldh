@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_403269",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T08:41:27.426+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA80-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T08:41:27.426+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E18-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:06:58.855+0000",
+  "latestRelease" : {
+    "objectId" : "item_403269",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:41:27.426+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA80-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403269",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:41:27.426+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA80-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "What moves where when in which languages?",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Norvin Waldemar",
+        "familyName" : "Richards",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1997",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31119",
+      "type" : "OTHER"
+    }, {
+      "id" : "moves_richards1997_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge, MA",
+      "publisher" : "Massachusetts Institute of Technology"
+    },
+    "freeKeywords" : "LoC Class: P273, LoC Subject Headings: Grammar/Comparative and general--Syntax",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "363 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403268",
+    "name" : "moves_richards1997_o.pdf",
+    "creationDate" : "2010-04-01T12:06:57.329+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E17-C",
+    "content" : "/rest/items/item_403269_4/component/file_403268/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "651e00e51548f70c47cad81c2a635676",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 15913080,
+    "metadata" : {
+      "title" : "moves_richards1997_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 15913080
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147305",
+    "name" : "http://hdl.handle.net/1721.1/10236",
+    "creationDate" : "2015-04-21T08:41:04.010+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/10236",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1a0cd1dc663f2dfc7c6baf443bd95fed",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/10236",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

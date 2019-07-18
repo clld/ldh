@@ -1,0 +1,113 @@
+{
+  "objectId" : "item_406870",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-09-24T13:57:54.173+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-5622-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain\n",
+  "lastModificationDate" : "2013-09-24T13:57:54.173+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9308-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:48:46.951+0000",
+  "latestRelease" : {
+    "objectId" : "item_406870",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-09-24T13:57:54.173+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5622-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406870",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-09-24T13:57:54.173+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5622-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammatica e vocabolario della lingua Kurda",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Maurizio",
+        "familyName" : "Garzoni",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1787",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37485",
+      "type" : "OTHER"
+    }, {
+      "id" : "kurda_garzoni1787_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "ita" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Roma",
+      "publisher" : "Nella stamperia della Sacra congregazione di propaganda fide"
+    },
+    "freeKeywords" : "LoC Class: PK6904,\nLoC Subject Headings: Kurdish language",
+    "subjects" : [ {
+      "value" : "kur - Kurdish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "288 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406869",
+    "name" : "kurda_garzoni1787_o.pdf",
+    "creationDate" : "2010-04-01T13:48:46.189+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9307-4",
+    "content" : "/rest/items/item_406870_3/component/file_406869/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "05aa6dca096ae0410993850284f4d318",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7657782,
+    "metadata" : {
+      "title" : "kurda_garzoni1787_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7657782
+    }
+  } ]
+}

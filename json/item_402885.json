@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_402885",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-03T11:38:40.262+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0259-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-03T11:38:40.262+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7BCC-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:47:07.698+0000",
+  "latestRelease" : {
+    "objectId" : "item_402885",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T11:38:40.262+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0259-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402885",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T11:38:40.262+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0259-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Continuity and given-new status of discourse referents in Adzera oral narrative",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "David Edward",
+        "familyName" : "Howard",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30734",
+      "type" : "OTHER"
+    }, {
+      "id" : "adzera_howard2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Arlington",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL6609.5.A39, LoC Subject Headings: Austronesian languages--Papua New Guinea, LoC Subject Headings: Adzera (Papua New Guinea people)",
+    "subjects" : [ {
+      "value" : "azr - Adzera",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xv, 175 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6609.5.A39, LoC Subject Headings: Austronesian languages--Papua New Guinea, Austronesian languages--Papua New Guinea--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402883",
+    "name" : "http://www.sil.org/pacific/png/pubs/0000394/Adzera%20-%20narrative%20discourse.pdf",
+    "creationDate" : "2010-04-01T11:47:00.649+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7BCA-E",
+    "content" : "http://www.sil.org/pacific/png/pubs/0000394/Adzera%20-%20narrative%20discourse.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "92552f7fa0c7553774ad19c6e8bfba10",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/pacific/png/pubs/0000394/Adzera%20-%20narrative%20discourse.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402884",
+    "name" : "adzera_howard2002_s.pdf",
+    "creationDate" : "2010-04-01T11:47:07.573+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7BCB-C",
+    "content" : "/rest/items/item_402885_3/component/file_402884/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "bd46cdea5fda1e66018988d7bc288038",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 558309,
+    "metadata" : {
+      "title" : "adzera_howard2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 558309
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

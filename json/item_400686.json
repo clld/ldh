@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_400686",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-03T09:28:10.089+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-01EE-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "lastModificationDate" : "2015-03-03T09:28:10.089+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6EFA-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:57:05.777+0000",
+  "latestRelease" : {
+    "objectId" : "item_400686",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T09:28:10.089+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-01EE-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400686",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T09:28:10.089+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-01EE-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Bases para el estudio de la relativizacion con reference al Quechua",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "David J.",
+        "familyName" : "Weber",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1976",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "23963",
+      "type" : "OTHER"
+    }, {
+      "id" : "quechua_weber1976b_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "sources" : [ {
+      "title" : "Documento de Trabajo / Instituto Lingüistico de Verano",
+      "volume" : "10",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM6309, LoC Subject Headings: Quechua language ",
+    "subjects" : [ {
+      "value" : "qub - Huallaga Huánuco Quechua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "42 S.",
+    "abstracts" : [ {
+      "value" : "LoC Subject Headings: Quechua language--Dialects--Peru--Huánuco (Department)"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400685",
+    "name" : "quechua_weber1976b_o.pdf",
+    "creationDate" : "2010-04-01T10:57:05.533+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6EF9-D",
+    "content" : "/rest/items/item_400686_3/component/file_400685/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "87c015739498110117915876d7f814d9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1873498,
+    "metadata" : {
+      "title" : "quechua_weber1976b_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1873498
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2104815",
+    "name" : "http://www.peru.sil.org/resources/archives/29637",
+    "creationDate" : "2015-03-03T09:27:27.742+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/29637",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "98f5390a32a0bd1d3b58f5b2a183c9ce",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/29637",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Peru Archives, pdf",
+      "size" : 0
+    }
+  } ]
+}

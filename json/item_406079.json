@@ -1,0 +1,159 @@
+{
+  "objectId" : "item_406079",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T21:33:50.043+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7050-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:33:50.043+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8EAE-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:28:58.623+0000",
+  "latestRelease" : {
+    "objectId" : "item_406079",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T21:33:50.043+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7050-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406079",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T21:33:50.043+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7050-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Plans in the common ground : toward a generative account of conversational implicature",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Katherine Alice",
+        "familyName" : "Welker",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1994",
+    "datePublishedInPrint" : "1994",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35765",
+      "type" : "OTHER"
+    }, {
+      "id" : "plans_welker1994_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "sources" : [ {
+      "title" : "OSDL Ohio State Dissertations in Linguistics",
+      "publishingInfo" : {
+        "place" : "Columbus",
+        "publisher" : "Ohio State Univ."
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P95.45, LoC Subject Headings: Speech acts (Linguistics), LoC Subject Headings: Allusions, LoC Subject Headings: Pragmatism",
+    "totalNumberOfPages" : "X, 268 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406078",
+    "name" : "plans_welker1994_o.pdf",
+    "creationDate" : "2010-04-01T13:28:57.755+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8EAD-E",
+    "content" : "/rest/items/item_406079_4/component/file_406078/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e8133798a12c7b4abb8f7ade7c164025",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8343512,
+    "metadata" : {
+      "title" : "plans_welker1994_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8343512
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2042693",
+    "name" : "https://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+    "creationDate" : "2014-07-17T07:23:27.206+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "06df08d6f4a749ebd663f8d5449af918",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://linguistics.osu.edu/about-us/osu-dissertations-linguistics",
+      "contentCategory" : "any-fulltext",
+      "description" : "Ohio State Univ., Dep. of Linguistics, OSU Dissertations in Linguistics, 1990-1998, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2042694",
+    "name" : "https://linguistics.osu.edu/sites/linguistics.osu.edu/files/Welker_dissertation_1994.pdf",
+    "creationDate" : "2014-07-17T07:23:27.673+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://linguistics.osu.edu/sites/linguistics.osu.edu/files/Welker_dissertation_1994.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0a998b694d98fbda10b1c639afcbb2d3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://linguistics.osu.edu/sites/linguistics.osu.edu/files/Welker_dissertation_1994.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

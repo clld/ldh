@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_400826",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:14:16.460+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6FCD-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:14:16.460+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6FCD-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:59:39.402+0000",
+  "latestRelease" : {
+    "objectId" : "item_400826",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:14:16.460+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6FCD-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400826",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:14:16.460+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6FCD-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Kenyang lexicon",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Tanyi Eyong",
+        "familyName" : "Mbuagbaw",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1998",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "24336",
+      "type" : "OTHER"
+    }, {
+      "id" : "kenyang_mbuagbaw1998_s.pdf",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "prov. ed.",
+      "place" : "Yaounde",
+      "publisher" : "SKL & CABTAL"
+    },
+    "freeKeywords" : "LoC Class: PL8047.3.A59725,\nLoC Subject Headings: Anyang language",
+    "subjects" : [ {
+      "value" : "ken - Kenyang",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "46 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400824",
+    "name" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/dictionaries/Kenyang%20Lexicon.pdf",
+    "creationDate" : "2010-04-01T10:59:38.914+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6FCB-D",
+    "content" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/dictionaries/Kenyang%20Lexicon.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/dictionaries/Kenyang%20Lexicon.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400825",
+    "name" : "kenyang_mbuagbaw1998_s.pdf",
+    "creationDate" : "2010-04-01T10:59:39.302+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6FCC-B",
+    "content" : "/rest/items/item_400826_2/component/file_400825/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "95ed77ba71cff91112c324d581bc242e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 399310,
+    "metadata" : {
+      "title" : "kenyang_mbuagbaw1998_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 399310
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

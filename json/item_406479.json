@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_406479",
+  "versionNumber" : 4,
+  "modificationDate" : "2013-10-01T10:43:35.843+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-5C0D-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain",
+  "lastModificationDate" : "2013-10-01T10:43:35.843+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-90DB-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:39:01.297+0000",
+  "latestRelease" : {
+    "objectId" : "item_406479",
+    "versionNumber" : 4,
+    "modificationDate" : "2013-10-01T10:43:35.843+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5C0D-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406479",
+    "versionNumber" : 4,
+    "modificationDate" : "2013-10-01T10:43:35.843+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5C0D-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammar and vocabulary of the Bullom language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Gustavus Reinhold",
+        "familyName" : "Nyländer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1814",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37157",
+      "type" : "OTHER"
+    }, {
+      "id" : "bullom_nylaender1814_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "London",
+      "publisher" : "Ellerton and Henderson"
+    },
+    "freeKeywords" : "LoC Subject Headings: Northern Bullom language",
+    "subjects" : [ {
+      "value" : "buy - Bullom So",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "159 S.",
+    "abstracts" : [ {
+      "value" : "LoC Subject Headings: Northern Bullom language --Grammar, Northern Bullom language --Glossaries, vocabularies, etc.\nLoC Class: PL8093.N9"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406477",
+    "name" : "http://books.google.com/books?id=DpoOAAAAQAAJ",
+    "creationDate" : "2010-04-01T13:39:00.403+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-5C0E-1",
+    "content" : "http://books.google.com/books?id=DpoOAAAAQAAJ",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a2f58cfad4e7a261f6f2e6c87e52f442",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://books.google.com/books?id=DpoOAAAAQAAJ",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406478",
+    "name" : "bullom_nylaender1814_o.pdf",
+    "creationDate" : "2010-04-01T13:39:00.834+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-90DA-8",
+    "content" : "/rest/items/item_406479_4/component/file_406478/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f37406e57f7d42a1ac5f7347165f9f22",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4312211,
+    "metadata" : {
+      "title" : "bullom_nylaender1814_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4312211
+    }
+  } ]
+}

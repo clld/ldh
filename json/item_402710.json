@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_402710",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-06-24T08:06:40.538+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-CD90-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz gelöscht, nicht mehr aktuell",
+  "lastModificationDate" : "2014-06-24T08:06:40.538+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7AAC-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:37:23.407+0000",
+  "latestRelease" : {
+    "objectId" : "item_402710",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-06-24T08:06:40.538+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-CD90-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402710",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-06-24T08:06:40.538+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-CD90-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of the Skou language of New Guinea",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mark",
+        "familyName" : "Donohue",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "30301",
+      "type" : "OTHER"
+    }, {
+      "id" : "skou_donohue2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Singapore",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL6601, LoC Subject Headings: Papua New Guinea --Languages",
+    "subjects" : [ {
+      "value" : "skv - Skou",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxxiii, 365 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6601, LoC Subject Headings: Papua New Guinea --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402709",
+    "name" : "skou_donohue2004_s.pdf",
+    "creationDate" : "2010-04-01T11:37:22.932+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7AAB-B",
+    "content" : "/rest/items/item_402710_4/component/file_402709/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b69e7a47e7b21760bd0d290e12a522bf",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4430120,
+    "metadata" : {
+      "title" : "skou_donohue2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4430120,
+      "copyrightDate" : "2010-27-09",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

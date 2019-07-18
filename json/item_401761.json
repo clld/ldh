@@ -1,0 +1,154 @@
+{
+  "objectId" : "item_401761",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-06-12T10:16:56.875+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-BA58-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe referenz aktualisiert",
+  "lastModificationDate" : "2014-06-12T10:16:56.875+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-752D-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:18:20.610+0000",
+  "latestRelease" : {
+    "objectId" : "item_401761",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-12T10:16:56.875+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-BA58-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401761",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-12T10:16:56.875+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-BA58-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A nasalidade me Mebengokre e Apinayé : o limite do vozeamento soante",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Andrés Pablo",
+        "familyName" : "Salanova",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2001",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "27756",
+      "type" : "OTHER"
+    }, {
+      "id" : "mebengokre_salanova2001_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "place" : "Campinas",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PM7108,\nLoC Subject Headings: Gê languages",
+    "subjects" : [ {
+      "value" : "apn - Apinayé",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "viii, 87 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401760",
+    "name" : "mebengokre_salanova2001_s.pdf",
+    "creationDate" : "2010-04-01T11:18:20.452+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-752C-6",
+    "content" : "/rest/items/item_401761_3/component/file_401760/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4511353dd82c4344edb31dc6472bbae3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 439499,
+    "metadata" : {
+      "title" : "mebengokre_salanova2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 439499
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2032963",
+    "name" : "http://aix1.uottawa.ca/~asalanov/research.html#modality",
+    "creationDate" : "2014-06-12T10:16:15.029+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-BA59-2",
+    "content" : "http://aix1.uottawa.ca/~asalanov/research.html#modality",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4cb63bba88268ff3ff50dee83b1e90a7",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://aix1.uottawa.ca/~asalanov/research.html#modality",
+      "contentCategory" : "publisher-version",
+      "description" : "Andrés Salanova's website, research, phonology, 'My master's thesis, on nasality and problems of Mebengokre morphology (in Portuguese)', 2001, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2032964",
+    "name" : "http://aix1.uottawa.ca/~asalanov/Docs/tese.pdf",
+    "creationDate" : "2014-06-12T10:16:15.570+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-BA5B-D",
+    "content" : "http://aix1.uottawa.ca/~asalanov/Docs/tese.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "cb9209b466c5b601bcd6ef22c6c0f942",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://aix1.uottawa.ca/~asalanov/Docs/tese.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "direct link to pdf-version",
+      "size" : 0
+    }
+  } ]
+}

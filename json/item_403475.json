@@ -1,0 +1,114 @@
+{
+  "objectId" : "item_403475",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-06-06T07:25:55.385+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7F6C-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:25:55.385+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7F6C-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:43.168+0000",
+  "latestRelease" : {
+    "objectId" : "item_403475",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:25:55.385+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F6C-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403475",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:25:55.385+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7F6C-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A step towards the standardisation of Kànswéynséy : (a grassfield bantu language)",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Akeriweh",
+        "familyName" : "Akeriweh",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "datePublishedInPrint" : "2000",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31302",
+      "type" : "OTHER"
+    }, {
+      "id" : "kansweynsey_akeriweh2000_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon --Languages",
+    "totalNumberOfPages" : "ix, 129 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : -, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403474",
+    "name" : "kansweynsey_akeriweh2000_o.pdf",
+    "creationDate" : "2010-04-01T12:18:42.454+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7F6B-A",
+    "content" : "/rest/items/item_403475_3/component/file_403474/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f345a74d1d26ce700d0c308912bc4794",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7162645,
+    "metadata" : {
+      "title" : "kansweynsey_akeriweh2000_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7162645,
+      "copyrightDate" : "2010-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

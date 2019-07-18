@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_407754",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T09:11:17.965+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA98-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T09:11:17.965+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-97E2-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:19:59.322+0000",
+  "latestRelease" : {
+    "objectId" : "item_407754",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T09:11:17.965+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA98-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407754",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T09:11:17.965+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA98-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Sentence initial devices",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Joseph E.",
+        "familyName" : "Grimes",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1986",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "41824",
+      "type" : "OTHER"
+    }, {
+      "id" : "devices_grimes1986_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "1st ed.",
+      "place" : "Dallas, Tex.",
+      "publisher" : "Summer Institute of Linguistics [u.a.]"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics",
+      "volume" : "75",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P295, LoC Subject Headings: Grammar/Comparative and general--Word order, LoC Subject Headings: Grammar/Comparative and general--Topic and comment, LoC Subject Headings: Discourse analysis",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "V, 233 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407753",
+    "name" : "devices_grimes1986_o.pdf",
+    "creationDate" : "2010-04-01T14:19:58.498+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-97E1-9",
+    "content" : "/rest/items/item_407754_4/component/file_407753/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d06e346f29b73f451d3d202a02184ea8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7897612,
+    "metadata" : {
+      "title" : "devices_grimes1986_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7897612
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147328",
+    "name" : "http://eric.ed.gov/?q=%22Sentence+initial+devices%22&id=ED291232",
+    "creationDate" : "2015-04-21T09:10:50.664+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://eric.ed.gov/?q=%22Sentence+initial+devices%22&id=ED291232",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6ce7da382d607bac598e954aca6897c6",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eric.ed.gov/?q=%22Sentence+initial+devices%22&id=ED291232",
+      "contentCategory" : "publisher-version",
+      "description" : "Education Resources Information Center (ERIC), pdf download",
+      "size" : 0
+    }
+  } ]
+}

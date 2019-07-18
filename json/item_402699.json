@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_402699",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T09:38:04.274+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7A98-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:38:04.274+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7A98-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:37:11.937+0000",
+  "latestRelease" : {
+    "objectId" : "item_402699",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T09:38:04.274+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7A98-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402699",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T09:38:04.274+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7A98-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Le Zénaga des Tribus sénégalaises : contribution a l'etude de la langue Berbère",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Lois Léon César",
+        "familyName" : "Faidherbe",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1877",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30280",
+      "type" : "OTHER"
+    }, {
+      "id" : "zenaga_faidherbe1877_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Paris",
+      "publisher" : "Leroux"
+    },
+    "freeKeywords" : "LoC Subject Headings: Zenaga language",
+    "subjects" : [ {
+      "value" : "zen - Zenaga",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "95 S.",
+    "abstracts" : [ {
+      "value" : "PJ2391, Zenaga language, Senegal--Native races"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402698",
+    "name" : "zenaga_faidherbe1877_o.pdf",
+    "creationDate" : "2010-04-01T11:37:11.629+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A97-8",
+    "content" : "/rest/items/item_402699_4/component/file_402698/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "98121a7cfe97578ba4179cba870303b1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2276958,
+    "metadata" : {
+      "title" : "zenaga_faidherbe1877_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2276958,
+      "copyrightDate" : "2010-11-22",
+      "rights" : "not in copyright; Lois Léon César 1865-1925"
+    }
+  } ]
+}

@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_400094",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T16:58:03.746+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6E08-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T16:58:03.746+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6B58-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:40:03.523+0000",
+  "latestRelease" : {
+    "objectId" : "item_400094",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T16:58:03.746+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E08-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400094",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T16:58:03.746+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E08-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Pragmatics in non-Western perspective",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "George",
+        "familyName" : "Huttar",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Kenneth J.",
+        "familyName" : "Gregerson"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1986",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "805",
+      "type" : "OTHER"
+    }, {
+      "id" : "pragmatics2_huttar1986_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "Microfiche ed.",
+      "place" : "Dallas",
+      "publisher" : "SIL"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics",
+      "volume" : "73",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P99.4.P72, LoC Subject Headings: Pragmatics, LoC Subject Headings: Sociolinguistics",
+    "totalNumberOfPages" : "3 MF"
+  },
+  "files" : [ {
+    "objectId" : "file_400092",
+    "name" : "http://www.ethnologue.com/show_work.asp?id=21921",
+    "creationDate" : "2010-04-01T10:40:02.270+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.ethnologue.com/show_work.asp?id=21921",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "432cd537802bde5b880730266318d5d0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ethnologue.com/show_work.asp?id=21921",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400093",
+    "name" : "pragmatics2_huttar1986_o.pdf",
+    "creationDate" : "2010-04-01T10:40:02.886+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6B57-2",
+    "content" : "/rest/items/item_400094_3/component/file_400093/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "800871b9f5ea707d2aacaa686e99f8ac",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6185570,
+    "metadata" : {
+      "title" : "pragmatics2_huttar1986_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6185570
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

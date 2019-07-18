@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_403257",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T10:01:45.632+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7E06-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:01:45.632+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E06-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:06:19.393+0000",
+  "latestRelease" : {
+    "objectId" : "item_403257",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T10:01:45.632+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7E06-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403257",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T10:01:45.632+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7E06-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Morphosyntax : the syntax of verbal inflection",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jonathan David",
+        "familyName" : "Bobaljik",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1995",
+    "datePublishedInPrint" : "1995",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31112",
+      "type" : "OTHER"
+    }, {
+      "id" : "morphosyntax_bobaljik1995_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachussets Inst. of Technology"
+    },
+    "totalNumberOfPages" : "380 S.",
+    "abstracts" : [ {
+      "value" : "P290, ISO 639-3 : -, Germanic languages, Grammar, Comparative and general--Morphology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403255",
+    "name" : "http://www.ai.mit.edu/projects/dm/theses/bobaljik95.pdf",
+    "creationDate" : "2010-04-01T12:06:03.715+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E04-5",
+    "content" : "http://www.ai.mit.edu/projects/dm/theses/bobaljik95.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "aca01437675d10e3f15906a397740533",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ai.mit.edu/projects/dm/theses/bobaljik95.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT Computer Science and Artificial Intelligence Laboratory",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403256",
+    "name" : "morphosyntax_bobaljik1995_o.pdf",
+    "creationDate" : "2010-04-01T12:06:16.708+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E05-3",
+    "content" : "/rest/items/item_403257_4/component/file_403256/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a3a4b8ce33e7b06b3dc69b9e66f3141f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 28450414,
+    "metadata" : {
+      "title" : "morphosyntax_bobaljik1995_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 28450414,
+      "copyrightDate" : "2010-11-27",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

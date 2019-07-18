@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_406648",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-17T08:14:48.871+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B76F-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-17T08:14:48.871+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-91C9-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:44:53.536+0000",
+  "latestRelease" : {
+    "objectId" : "item_406648",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-17T08:14:48.871+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B76F-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406648",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-17T08:14:48.871+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B76F-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Crenças em estratégias de aprendizagem de línguas (ingles) de alunos de cursos de letras",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Glenda Rúbia",
+        "familyName" : "Lopes",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37368",
+      "type" : "OTHER"
+    }, {
+      "id" : "ingles_lopes2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "place" : "Brasília",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PE1066, LoC Subject Headings: English language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xvi, 243 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PE1066,\nLoC Subject Headings: English language--Study and teaching"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406646",
+    "name" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=2745",
+    "creationDate" : "2010-04-01T13:44:52.327+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-91C7-A",
+    "content" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=2745",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1103326af951b53ccc078db2a1a7bf2b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=2745",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406647",
+    "name" : "ingles_lopes2007_s.pdf",
+    "creationDate" : "2010-04-01T13:44:53.294+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-91C8-8",
+    "content" : "/rest/items/item_406648_3/component/file_406647/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7d330b2f0c51d8255d557250f535e58d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1972533,
+    "metadata" : {
+      "title" : "ingles_lopes2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1972533
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

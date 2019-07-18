@@ -1,0 +1,146 @@
+{
+  "objectId" : "item_402879",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-05-13T11:06:03.824+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CD6F-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-05-13T11:06:03.824+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7BC4-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:46:58.442+0000",
+  "latestRelease" : {
+    "objectId" : "item_402879",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T11:06:03.824+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD6F-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402879",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T11:06:03.824+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD6F-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Wand Tuan wand puate: Yumbo yumbo buagi raqe wund (As tok bilong Tok Ples Wand Tuan: Kamasau practical tri-glot dictionary)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Arden",
+        "familyName" : "Sanders",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Joy",
+        "familyName" : "Sanders"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "30731",
+      "type" : "OTHER"
+    }, {
+      "id" : "kamasau_sanders1996_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "9980016736",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng", "kms" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ukarumpa",
+      "publisher" : "Summer Inst. of Linguistics"
+    },
+    "freeKeywords" : "LoC Class: PL6621.K12, LoC Subject Headings: Kamasau language",
+    "subjects" : [ {
+      "value" : "kms - Kamasau",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "tpi - Tok Pisin",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "394 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402878",
+    "name" : "kamasau_sanders1996_s.pdf",
+    "creationDate" : "2010-04-01T11:46:58.235+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7BC3-B",
+    "content" : "/rest/items/item_402879_3/component/file_402878/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "88a5f7c12fd8da1c515a62549ed3748d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1412697,
+    "metadata" : {
+      "title" : "kamasau_sanders1996_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1412697
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2154518",
+    "name" : "http://www-01.sil.org/pacific/png/abstract.asp?id=37442",
+    "creationDate" : "2015-05-13T11:05:34.519+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www-01.sil.org/pacific/png/abstract.asp?id=37442",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0a1a660c5d9346f79c430f313967796e",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www-01.sil.org/pacific/png/abstract.asp?id=37442",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL of Papua New Guinea, PNG Language Resources, pdf download",
+      "size" : 0
+    }
+  } ]
+}

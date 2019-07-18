@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_403788",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T23:29:37.321+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7114-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T23:29:37.321+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-81CF-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:24:34.324+0000",
+  "latestRelease" : {
+    "objectId" : "item_403788",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T23:29:37.321+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7114-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403788",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T23:29:37.321+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7114-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Edhina ekogidho : names as links, the encounter between African and European anthroponymic systems among the Ambo people in Namibia",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Saarelma-Maunumaa, Minna",
+        "givenName" : "Minna",
+        "familyName" : "Saarelma-Maunumaa",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31729",
+      "type" : "OTHER"
+    }, {
+      "id" : "ambo_saarelma2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Helsinki",
+      "publisher" : "Univ."
+    },
+    "sources" : [ {
+      "title" : "Studia Fennica. Linguistica",
+      "volume" : "11",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PH124, LoC Subject Headings: Names, LoC Subject Headings: Personal -- Namibia, LoC Subject Headings: Ovambo (African people) -- Social conditions",
+    "totalNumberOfPages" : "347 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403786",
+    "name" : "http://ethesis.helsinki.fi/julkaisut/hum/suome/vk/saarelma-maunumaa/",
+    "creationDate" : "2010-04-01T12:24:33.855+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-81CD-C",
+    "content" : "http://ethesis.helsinki.fi/julkaisut/hum/suome/vk/saarelma-maunumaa/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4bb13ebb32229935d2bd4bcb4f153a71",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://ethesis.helsinki.fi/julkaisut/hum/suome/vk/saarelma-maunumaa/",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403787",
+    "name" : "ambo_saarelma2003_s.pdf",
+    "creationDate" : "2010-04-01T12:24:34.129+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-81CE-A",
+    "content" : "/rest/items/item_403788_3/component/file_403787/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "28a582e8ab105d9453fde47914e3967c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1093248,
+    "metadata" : {
+      "title" : "ambo_saarelma2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1093248
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

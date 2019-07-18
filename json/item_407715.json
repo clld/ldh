@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_407715",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T07:44:41.652+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA2E-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T07:44:41.652+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-97AC-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:19:15.923+0000",
+  "latestRelease" : {
+    "objectId" : "item_407715",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T07:44:41.652+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA2E-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407715",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T07:44:41.652+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA2E-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A generative syntax of Penoles Mixtec",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "John P.",
+        "familyName" : "Daly",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1973",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "41808",
+      "type" : "OTHER"
+    }, {
+      "id" : "penoles_daly1973_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "1. ed.",
+      "place" : "Norman, Okla.",
+      "publisher" : "Summer Institute of Linguistics [u.a.]"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics and Related Fields",
+      "volume" : "42",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4016, LoC Subject Headings: Mixtec language",
+    "subjects" : [ {
+      "value" : "mil - Mixtec, Peñoles",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XI, 90 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM4016, LoC Subject Headings: Mixtec language--Syntax, LoC Subject Headings: Mixtec language--Grammar, LoC Subject Headings: Mixtec language--Mexico--Santa María Peñoles"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407714",
+    "name" : "penoles_daly1973_o.pdf",
+    "creationDate" : "2010-04-01T14:19:15.623+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-97AB-3",
+    "content" : "/rest/items/item_407715_4/component/file_407714/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "15826213f6a09584fd8696f2edc10346",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2557809,
+    "metadata" : {
+      "title" : "penoles_daly1973_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2557809
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147247",
+    "name" : "http://www.sil.org/resources/archives/8830",
+    "creationDate" : "2015-04-21T07:40:44.302+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/8830",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9a5d99316e53715605327d7ee8ff9b2d",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/8830",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Language & Culture Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

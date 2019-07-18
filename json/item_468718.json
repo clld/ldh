@@ -1,0 +1,123 @@
+{
+  "objectId" : "item_468718",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-03T10:54:35.682+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0231-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-03T10:54:35.682+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-C2BA-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-07-27T07:02:30.526+0000",
+  "latestRelease" : {
+    "objectId" : "item_468718",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T10:54:35.682+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0231-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_468718",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-03T10:54:35.682+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0231-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Logical structure and case marking in Japanese",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Shingo",
+        "familyName" : "Imai",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "genre" : "ARTICLE",
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Bulletin of international center yamaguchi university  ",
+      "creators" : [ {
+        "organization" : {
+          "identifier" : "ou_persistent22",
+          "name" : "Yamaguchi University",
+          "identifierPath" : [ "ou_persistent22" ]
+        },
+        "role" : "EDITOR",
+        "type" : "ORGANIZATION"
+      } ],
+      "volume" : "1 ",
+      "issue" : "10",
+      "startPage" : "10",
+      "endPage" : "50",
+      "publishingInfo" : {
+        "place" : "Yamaguchi",
+        "publisher" : "Univ."
+      },
+      "genre" : "JOURNAL"
+    } ],
+    "freeKeywords" : "Loc Class: PL534, LoC Subject Headings: Japanese language",
+    "subjects" : [ {
+      "value" : "jpn - Japanese",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_468717",
+    "name" : "japanese_imai2005_o.pdf",
+    "creationDate" : "2010-07-27T07:02:30.204+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-C2B9-6",
+    "content" : "/rest/items/item_468718_3/component/file_468717/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ac03c8050dad983f83be9fea0a8bb9b5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1035036,
+    "metadata" : {
+      "title" : "japanese_imai2005_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1035036,
+      "copyrightDate" : "2010-07-18",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

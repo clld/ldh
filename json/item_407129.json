@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_407129",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-05-19T05:45:26.539+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-D07D-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-19T05:45:26.539+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9481-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:55:12.675+0000",
+  "latestRelease" : {
+    "objectId" : "item_407129",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-19T05:45:26.539+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D07D-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407129",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-05-19T05:45:26.539+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-D07D-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of the Kuvi language, with copious examples",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Frederick Volkomor Paul",
+        "familyName" : "Schulze",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1911",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37738",
+      "type" : "OTHER"
+    }, {
+      "id" : "kuvi_schulze1911_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "1st. ed.",
+      "place" : "Madras",
+      "publisher" : "Graves, Cookson & Co."
+    },
+    "freeKeywords" : "LoC Class: PL4706, LoC Subject Headings: Kuvi language",
+    "subjects" : [ {
+      "value" : "kxv - Kuvi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ii, 252 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL4706,\nLoC Subject Headings: Kuvi language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407127",
+    "name" : "http://www.archive.org/details/grammarofkuvilan00schurich",
+    "creationDate" : "2010-04-01T13:55:09.971+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.archive.org/details/grammarofkuvilan00schurich",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "82ea9e2146c9ce33253de57853be5098",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/grammarofkuvilan00schurich",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org: Internet Archive, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407128",
+    "name" : "kuvi_schulze1911_o.pdf",
+    "creationDate" : "2010-04-01T13:55:11.195+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9480-C",
+    "content" : "/rest/items/item_407129_4/component/file_407128/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "89cfe570b5f0e03c415b5250dac2854b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 15044022,
+    "metadata" : {
+      "title" : "kuvi_schulze1911_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 15044022
+    }
+  } ]
+}

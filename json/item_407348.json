@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_407348",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-08-11T09:20:36.600+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-2D52-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-08-11T09:20:36.600+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-95B7-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:11:14.788+0000",
+  "latestRelease" : {
+    "objectId" : "item_407348",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-11T09:20:36.600+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-2D52-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407348",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-11T09:20:36.600+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-2D52-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Morphosyntactic manifestations of participants in Tona (Rukai)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "May Hsiu-mei",
+        "familyName" : "Wang",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2004",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38370",
+      "type" : "OTHER"
+    }, {
+      "id" : "tonarukai_wang2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Taipei",
+      "publisher" : "National Taiwan Normal Univ. Diss."
+    },
+    "freeKeywords" : "LoC Class: PL6159,\nLoC Subject Headings: Rukai languages",
+    "subjects" : [ {
+      "value" : "dru - Rukai",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 144 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6159,\nLoC Subject Headings: Rukai languages--Taiwan"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407347",
+    "name" : "tonarukai_wang2003_s.pdf",
+    "creationDate" : "2010-04-01T14:11:14.571+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-95B6-A",
+    "content" : "/rest/items/item_407348_3/component/file_407347/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "58a353db5b7df6116231039533a748e4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 497302,
+    "metadata" : {
+      "title" : "tonarukai_wang2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 497302
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2049577",
+    "name" : "http://handle.ncl.edu.tw/11296/ndltd/32885087620237720779",
+    "creationDate" : "2014-08-11T09:18:40.056+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-2D54-A",
+    "content" : "http://handle.ncl.edu.tw/11296/ndltd/32885087620237720779",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9f16a74a9f1c4a695b66bb4ccb6dab60",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://handle.ncl.edu.tw/11296/ndltd/32885087620237720779",
+      "contentCategory" : "publisher-version",
+      "description" : "NDLTD National Digital Library of Theses and Dissertations in Taiwan, zip file, pdf // fulltext access: free e-mail registration necessary",
+      "size" : 0
+    }
+  } ]
+}

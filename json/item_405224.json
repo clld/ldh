@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_405224",
+  "versionNumber" : 5,
+  "modificationDate" : "2014-07-04T09:17:06.594+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-DAB6-0",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Stichwörter für LDH-Blogimport überarbeitet",
+  "lastModificationDate" : "2014-07-04T09:17:06.594+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-89F1-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:04:15.713+0000",
+  "latestRelease" : {
+    "objectId" : "item_405224",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-07-04T09:17:06.594+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DAB6-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405224",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-07-04T09:17:06.594+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DAB6-0",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Local case-marking in Kalasha",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jan Heergard",
+        "familyName" : "Petersen",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34404",
+      "type" : "OTHER"
+    }, {
+      "id" : "kalashaapp_petersen2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Copenhagen",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PK7065.K3, LoC Subject Headings: Kalash language",
+    "subjects" : [ {
+      "value" : "kls - Kalasha",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XIV, 295 S.",
+    "abstracts" : [ {
+      "value" : "PK7065.K3,"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405223",
+    "name" : "kalashaapp_petersen2006_s.pdf",
+    "creationDate" : "2010-04-01T13:04:15.479+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-89F0-7",
+    "content" : "/rest/items/item_405224_5/component/file_405223/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6d8ac19e5cc2011830f65bcf1039a9e8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1813041,
+    "metadata" : {
+      "title" : "kalashaapp_petersen2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1813041,
+      "copyrightDate" : "2010-08-24",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_2036987",
+    "name" : "http://languagesofpakistan.blogspot.de/2012/01/local-case-marking-in-kalasha-phd.html",
+    "creationDate" : "2014-07-04T09:09:48.788+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-DAB5-1",
+    "content" : "http://languagesofpakistan.blogspot.de/2012/01/local-case-marking-in-kalasha-phd.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "eb756cb882e08cc88cdba8e70ad19af9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://languagesofpakistan.blogspot.de/2012/01/local-case-marking-in-kalasha-phd.html",
+      "contentCategory" : "any-fulltext",
+      "description" : "Blog 'Languages of Pakistan', pdf via scribd",
+      "size" : 0
+    }
+  } ]
+}

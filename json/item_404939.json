@@ -1,0 +1,123 @@
+{
+  "objectId" : "item_404939",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-04-17T08:05:40.095+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B769-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-17T08:05:40.095+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8864-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:51:27.048+0000",
+  "latestRelease" : {
+    "objectId" : "item_404939",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-17T08:05:40.095+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B769-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404939",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-04-17T08:05:40.095+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B769-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Aelfrics Grammatik und Glossar : erste Abteilung ; Text und Varianten",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Julius",
+        "familyName" : "Zupitza",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1880",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34060",
+      "type" : "OTHER"
+    }, {
+      "id" : "aelfrics_zupitza1880_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Berlin",
+      "publisher" : "Weidmann"
+    },
+    "sources" : [ {
+      "title" : "Sammlung englischer Denkmäler in kritischen Ausgaben",
+      "volume" : "1",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: English language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "322 S.",
+    "abstracts" : [ {
+      "value" : "PE129 .A44, ISO 639-3 : eng, English language—Middle English/1100-1500, English language--Glossaries/vocabularies/ etc.--Early works to 1800, Latin language--Dictionaries--English (Old)--Early works to 1800"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404938",
+    "name" : "aelfrics_zupitza1880_o.pdf",
+    "creationDate" : "2010-04-01T12:51:22.783+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8863-D",
+    "content" : "/rest/items/item_404939_5/component/file_404938/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4bb97184ed4905bbf1d3359b252116cb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 45719575,
+    "metadata" : {
+      "title" : "aelfrics_zupitza1880_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 45719575,
+      "copyrightDate" : "2010-11-16",
+      "rights" : "public domain, Julius Zupitza 1844-1895"
+    }
+  } ]
+}

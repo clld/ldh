@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_406803",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-05-05T07:28:11.613+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C68B-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-05T07:28:11.613+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-92A3-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:47:34.122+0000",
+  "latestRelease" : {
+    "objectId" : "item_406803",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-05-05T07:28:11.613+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C68B-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406803",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-05-05T07:28:11.613+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C68B-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Listas comparativas de palabras usuales en idiomas vernáculos de la selva",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Martha",
+        "familyName" : "Jakway",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1975",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37446",
+      "type" : "OTHER"
+    }, {
+      "id" : "vernaculos_jakway1975_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Lima, Perú",
+      "publisher" : "Instituto Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Datos Etno-Lingüísticos",
+      "volume" : "4",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5271, LoC Subject Headings: Indians of South America--Peru--Languages",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "332 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406802",
+    "name" : "vernaculos_jakway1975_o.pdf",
+    "creationDate" : "2010-04-01T13:47:33.269+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-92A2-0",
+    "content" : "/rest/items/item_406803_5/component/file_406802/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0785ea8a668a20aeb6fef2ca5f245f7a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8824433,
+    "metadata" : {
+      "title" : "vernaculos_jakway1975_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8824433
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147079",
+    "name" : "http://www.peru.sil.org/resources/archives/29877",
+    "creationDate" : "2015-04-17T09:50:04.083+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/29877",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b1f21c8a13db023f7f168ea44fb2fc84",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/29877",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Peru Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

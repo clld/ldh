@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403433",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-13T00:05:37.573+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-715D-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T00:05:37.573+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7F1A-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:18:15.399+0000",
+  "latestRelease" : {
+    "objectId" : "item_403433",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T00:05:37.573+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-715D-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403433",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T00:05:37.573+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-715D-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Morphologie nominale et verbale de la langue Bangwa",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Emile-Gille",
+        "familyName" : "Nguendjio",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1989",
+    "datePublishedInPrint" : "1989",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31244",
+      "type" : "OTHER"
+    }, {
+      "id" : "bangwa_nguendjio1989_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Bangwa language, LoC Subject Headings: Cameroon--Languages",
+    "subjects" : [ {
+      "value" : "ybb - Yemba",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix, 382 S.",
+    "abstracts" : [ {
+      "value" : "PL8056.B271, ISO 639-3 : ybb, Bangwa language--Grammar, Cameroon--Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403432",
+    "name" : "bangwa_nguendjio1989_o.pdf",
+    "creationDate" : "2010-04-01T12:18:14.389+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7F19-F",
+    "content" : "/rest/items/item_403433_4/component/file_403432/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a60517b5a61ae15cc904a06adf1ec662",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10327262,
+    "metadata" : {
+      "title" : "bangwa_nguendjio1989_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10327262,
+      "copyrightDate" : "2005-05-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

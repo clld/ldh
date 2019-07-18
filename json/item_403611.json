@@ -1,0 +1,112 @@
+{
+  "objectId" : "item_403611",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T10:32:38.382+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8087-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:32:38.382+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8087-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:20:40.230+0000",
+  "latestRelease" : {
+    "objectId" : "item_403611",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T10:32:38.382+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8087-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403611",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T10:32:38.382+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8087-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulaires comparatifs de plus de 60 langues ou dialectes parlés à la Cote d?Ivoire et dans les régions limitrophes, avec des notes linguistiques et ethnologiques, une bibliographie et une carte",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Maurice",
+        "familyName" : "Delafosse",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1904",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31431",
+      "type" : "OTHER"
+    }, {
+      "id" : "cotedivoire_delafosse1904_o.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Paris",
+      "publisher" : "Leroux"
+    },
+    "totalNumberOfPages" : "iv, 284 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.I8, ISO 639-3 : -, African languages--Glossaries, vocabularies, etc."
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403610",
+    "name" : "cotedivoire_delafosse1904_o.pdf",
+    "creationDate" : "2010-04-01T12:20:38.540+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8086-1",
+    "content" : "/rest/items/item_403611_4/component/file_403610/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "dad54162408b69333b962f84aafa74ac",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 13052009,
+    "metadata" : {
+      "title" : "cotedivoire_delafosse1904_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 13052009,
+      "copyrightDate" : "2010-11-24",
+      "rights" : "not in copyright, Maurice Delafosse, 1870-1926"
+    }
+  } ]
+}

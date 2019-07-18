@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_400804",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:30:23.366+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6FA1-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:30:23.366+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6FA1-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:59:27.939+0000",
+  "latestRelease" : {
+    "objectId" : "item_400804",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:30:23.366+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6FA1-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400804",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:30:23.366+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6FA1-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Mofu-Gudur hortatory discourse",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Hollingsworth, Kenneth R.",
+        "givenName" : "Kenneth R.",
+        "familyName" : "Hollingsworth",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2001",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "2432",
+      "type" : "OTHER"
+    }, {
+      "id" : "mofugudur_hollingsworth2001_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Yaounde, Republic of Cameroon",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PL8517,\nLoC Subject Headings: Southern Mofu language",
+    "subjects" : [ {
+      "value" : "mif - Mofu-Gudur",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "22 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400802",
+    "name" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/manuscripts/Mofu%20-%20gud%20Hort02.pdf",
+    "creationDate" : "2010-04-01T10:59:27.458+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F9E-4",
+    "content" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/manuscripts/Mofu%20-%20gud%20Hort02.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05dbf6bb28ff3e7480384e69ec8d25a9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/africa/cameroun/bydomain/linguistics/manuscripts/Mofu%20-%20gud%20Hort02.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400803",
+    "name" : "mofugudur_hollingsworth2001_s.pdf",
+    "creationDate" : "2010-04-01T10:59:27.837+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F9F-2",
+    "content" : "/rest/items/item_400804_2/component/file_400803/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "97a93026d0bb662eb8f37f7257c8c085",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 397208,
+    "metadata" : {
+      "title" : "mofugudur_hollingsworth2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 397208
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

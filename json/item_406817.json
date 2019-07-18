@@ -1,0 +1,145 @@
+{
+  "objectId" : "item_406817",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:44:14.814+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-92B9-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:44:14.814+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-92B9-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:47:50.699+0000",
+  "latestRelease" : {
+    "objectId" : "item_406817",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:44:14.814+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-92B9-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406817",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:44:14.814+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-92B9-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gramatica pedagógica del tucano",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "West, Birdie",
+        "givenName" : "Birdie",
+        "familyName" : "West",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Betty",
+        "familyName" : "Welch"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37452",
+      "type" : "OTHER"
+    }, {
+      "id" : "tucano_west2004_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "958-97227-7-6",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "Primera ed.",
+      "place" : "Bogotá",
+      "publisher" : "Ed. Buena Semilla"
+    },
+    "freeKeywords" : "LoC Class: PM7164,\nLoC Subject Headings: Tucano language --Grammar",
+    "subjects" : [ {
+      "value" : "tuo - Tucano",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "vi, 168 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406815",
+    "name" : "http://www.sil.org/americas/colombia/pubs/tuo/TucanoPedGram_49289.pdf",
+    "creationDate" : "2010-04-01T13:47:40.303+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-92B7-2",
+    "content" : "http://www.sil.org/americas/colombia/pubs/tuo/TucanoPedGram_49289.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e2bcd8e9f5556e827882b3c72e958a0b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/colombia/pubs/tuo/TucanoPedGram_49289.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406816",
+    "name" : "tucano_west2004_o.pdf",
+    "creationDate" : "2010-04-01T13:47:50.560+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-92B8-F",
+    "content" : "/rest/items/item_406817_2/component/file_406816/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6e75bfef693c4c2cd22c2c5a6eab5a61",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 860725,
+    "metadata" : {
+      "title" : "tucano_west2004_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 860725
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

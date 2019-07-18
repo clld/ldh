@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_405516",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T10:24:38.921+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8B89-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:24:38.921+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8B89-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:14:09.452+0000",
+  "latestRelease" : {
+    "objectId" : "item_405516",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T10:24:38.921+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B89-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405516",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T10:24:38.921+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8B89-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Syriac grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "George",
+        "familyName" : "Phillips",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1866",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "35018",
+      "type" : "OTHER"
+    }, {
+      "id" : "syriac_phillips1866_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "3. ed., rev. and enl.",
+      "place" : "Cambridge [u.a.]",
+      "publisher" : "Deighton, Bell, & Co. [u.a.]"
+    },
+    "freeKeywords" : "LoC Subject Headings: Syriac language",
+    "subjects" : [ {
+      "value" : "syc - Classical Syriac",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XI, 203 S.",
+    "abstracts" : [ {
+      "value" : "PJ5421, ISO 639-3 : syc, Syriac language --Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405515",
+    "name" : "syriac_phillips1866_o.pdf",
+    "creationDate" : "2010-04-01T13:14:08.618+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8B88-1",
+    "content" : "/rest/items/item_405516_4/component/file_405515/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "afc3c9988c95031048b876c685278af9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8471303,
+    "metadata" : {
+      "title" : "syriac_phillips1866_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8471303,
+      "copyrightDate" : "2010-11-16",
+      "rights" : "public domain, George Phillips 1804-1892"
+    }
+  } ]
+}

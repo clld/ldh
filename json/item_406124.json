@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_406124",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T21:21:34.328+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7035-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:21:34.328+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8EEC-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:29:53.517+0000",
+  "latestRelease" : {
+    "objectId" : "item_406124",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T21:21:34.328+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7035-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406124",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T21:21:34.328+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7035-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Encoding of argument structure in Romanian and SiSwati",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Udo-Michael",
+        "familyName" : "Klein",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35948",
+      "type" : "OTHER"
+    }, {
+      "id" : "romanian_klein2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "London",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PC624, LoC Subject Headings: Romanian language, LoC Subject Headings: Siswati language, LoC Subject Headings: Romanian language",
+    "subjects" : [ {
+      "value" : "ron - Romanian",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "ssw - Swati",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "236 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406123",
+    "name" : "romanian_klein2007_s.pdf",
+    "creationDate" : "2010-04-01T13:29:53.336+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8EEB-F",
+    "content" : "/rest/items/item_406124_4/component/file_406123/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "abac772eae35aa0d8656bf5dcf0372ea",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1268400,
+    "metadata" : {
+      "title" : "romanian_klein2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1268400,
+      "copyrightDate" : "2010-12-06",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_566574",
+    "name" : "http://www.ilg.uni-stuttgart.de/projekte/C2/talks/ILG.2007.FunktionaleApplikationUndKasusmarkierung.pdf",
+    "creationDate" : "2010-12-07T12:42:46.855+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.ilg.uni-stuttgart.de/projekte/C2/talks/ILG.2007.FunktionaleApplikationUndKasusmarkierung.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6e20a54f1417e02fa62ed373d56e2d5c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ilg.uni-stuttgart.de/projekte/C2/talks/ILG.2007.FunktionaleApplikationUndKasusmarkierung.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Universität Stuttgart, Institut für Linguistik/Germanistik (ILG)",
+      "size" : 0
+    }
+  } ]
+}

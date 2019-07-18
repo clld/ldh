@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_403115",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:01:01.018+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7D35-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:01:01.018+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D35-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:56:01.610+0000",
+  "latestRelease" : {
+    "objectId" : "item_403115",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:01:01.018+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7D35-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403115",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:01:01.018+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7D35-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Individuation, identity and proper names in cognitive development",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Sorrentino, Cristina M.",
+        "givenName" : "Cristina M.",
+        "familyName" : "Sorrentino",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1999",
+    "datePublishedInPrint" : "1999",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30957",
+      "type" : "OTHER"
+    }, {
+      "id" : "cognitive_sorrentino1999_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cambridge",
+      "publisher" : " Massachusetts Inst. of Technology"
+    },
+    "totalNumberOfPages" : "203 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403113",
+    "name" : "http://www.ai.mit.edu/projects/dm/theses/sorrentino99.pdf",
+    "creationDate" : "2010-04-01T11:55:52.589+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D33-0",
+    "content" : "http://www.ai.mit.edu/projects/dm/theses/sorrentino99.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a053309875cd6887d54b274f97a9ec87",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ai.mit.edu/projects/dm/theses/sorrentino99.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403114",
+    "name" : "cognitive_sorrentino1999_o.pdf",
+    "creationDate" : "2010-04-01T11:56:00.680+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D34-E",
+    "content" : "/rest/items/item_403115_2/component/file_403114/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "05dbc169cbc662cabe4b92d5468ae2ab",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9409601,
+    "metadata" : {
+      "title" : "cognitive_sorrentino1999_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9409601
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

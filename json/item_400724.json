@@ -1,0 +1,148 @@
+{
+  "objectId" : "item_400724",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-07T07:23:25.204+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A7CD-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-07T07:23:25.204+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6F2D-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:57:39.470+0000",
+  "latestRelease" : {
+    "objectId" : "item_400724",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-07T07:23:25.204+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7CD-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400724",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-07T07:23:25.204+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7CD-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario Capanahua - Castellano",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Eugene",
+        "familyName" : "Loos",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Betty",
+        "familyName" : "Loos"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1998",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "23988",
+      "type" : "OTHER"
+    }, {
+      "id" : "capanahua_loos1998_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa", "kaq" ],
+    "publishingInfo" : {
+      "edition" : "1a ed.",
+      "place" : "Yarinacocha, Perú",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística peruana",
+      "volume" : "45",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5735, LoC Subject Headings: Capanahua language",
+    "subjects" : [ {
+      "value" : "kaq - Capanahua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "683 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5735, LoC Subject Headings: Capanahua language--Dictionaries--Spanish, LoC Subject Headings: Spanish language--Dictionaries--Spanish"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400723",
+    "name" : "capanahua_loos1998_s.pdf",
+    "creationDate" : "2010-04-01T10:57:39.060+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F2C-2",
+    "content" : "/rest/items/item_400724_4/component/file_400723/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "59b4390739c95ae834e5d28de6551846",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3732549,
+    "metadata" : {
+      "title" : "capanahua_loos1998_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3732549
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2129314",
+    "name" : "http://www.peru.sil.org/resources/archives/30091",
+    "creationDate" : "2015-04-07T07:22:35.239+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/30091",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "cac4994dc01e1d592b5876143daa3c27",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/30091",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Peru Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

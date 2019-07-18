@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_400022",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-18T12:28:53.914+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7ACF-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-18T12:28:53.914+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6AF3-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:38:39.419+0000",
+  "latestRelease" : {
+    "objectId" : "item_400022",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T12:28:53.914+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7ACF-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400022",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-18T12:28:53.914+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7ACF-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The phonology of Capanahua and its grammatical basis",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Eugene E.",
+        "familyName" : "Loos",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1969",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "744",
+      "type" : "OTHER"
+    }, {
+      "id" : "capanahua_loos1969_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "Microfiche ed.",
+      "place" : "Dallas",
+      "publisher" : "Summer Institute of Linguistics"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in Linguistics and Related Fields ",
+      "volume" : "20",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5735, LoC Subject Headings: Capanahua language",
+    "subjects" : [ {
+      "value" : "kaq - Capanahua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xii, 233 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5735, LoC Subject Headings: Capanahua language--Phonology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400021",
+    "name" : "capanahua_loos1969_o.pdf",
+    "creationDate" : "2010-04-01T10:38:38.627+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6AF2-A",
+    "content" : "/rest/items/item_400022_3/component/file_400021/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d11b3db528c257be8852586c7fda5954",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8001389,
+    "metadata" : {
+      "title" : "capanahua_loos1969_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8001389
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116769",
+    "name" : "http://www.sil.org/resources/archives/8652",
+    "creationDate" : "2015-03-18T12:28:04.174+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/resources/archives/8652",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e94848cbde3b4173873ec721460ced10",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/8652",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL International, Archive, pdf download",
+      "size" : 0
+    }
+  } ]
+}

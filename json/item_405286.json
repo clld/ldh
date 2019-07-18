@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_405286",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T19:50:12.192+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F6C-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:50:12.192+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8A47-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:06:02.526+0000",
+  "latestRelease" : {
+    "objectId" : "item_405286",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T19:50:12.192+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F6C-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405286",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T19:50:12.192+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F6C-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Verb tone in Il-Keekonyokie Maa",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Rasmussen, Kent A.",
+        "givenName" : "Kent A.",
+        "familyName" : "Rasmussen",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34489",
+      "type" : "OTHER"
+    }, {
+      "id" : "maa_rasmussen2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "[Eugene]",
+      "publisher" : " Univ. of Oregon"
+    },
+    "freeKeywords" : "LoC Class: PL8501.1, LoC Subject Headings: Masai language -- Intonation, LoC Subject Headings: Masai language -- Phonology",
+    "subjects" : [ {
+      "value" : "cma - Maa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XV, 247 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405284",
+    "name" : "http://darkwing.uoregon.edu/~dlpayne/Nilotic/RasmussenKMaaTone.pdf",
+    "creationDate" : "2010-04-01T13:05:58.195+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A45-0",
+    "content" : "http://darkwing.uoregon.edu/~dlpayne/Nilotic/RasmussenKMaaTone.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "36161ea3acf10d478fab075ca69669de",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://darkwing.uoregon.edu/~dlpayne/Nilotic/RasmussenKMaaTone.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405285",
+    "name" : "maa_rasmussen2002_s.pdf",
+    "creationDate" : "2010-04-01T13:06:02.370+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A46-E",
+    "content" : "/rest/items/item_405286_3/component/file_405285/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8a1d96447e2ff4a3704124f745bcf70b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 914469,
+    "metadata" : {
+      "title" : "maa_rasmussen2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 914469
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

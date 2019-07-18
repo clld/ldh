@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_406605",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-05-06T11:14:29.568+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C7B2-2",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-06T11:14:29.568+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-918D-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:44:14.405+0000",
+  "latestRelease" : {
+    "objectId" : "item_406605",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-06T11:14:29.568+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7B2-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406605",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-06T11:14:29.568+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C7B2-2",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Materiales para estudios fonológicos : tomo I",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Eugene E.",
+        "familyName" : "Loos",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1978",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37334",
+      "type" : "OTHER"
+    }, {
+      "id" : "fonologicos_loos1978_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "Segunda ed.",
+      "place" : "Yarinacocha",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Documento de trabajo",
+      "volume" : "9",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5271, LoC Subject Headings: Indians of South America--Peru-- Languages",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "263 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406604",
+    "name" : "fonologicos_loos1978_o.pdf",
+    "creationDate" : "2010-04-01T13:44:12.979+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-918C-E",
+    "content" : "/rest/items/item_406605_3/component/file_406604/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a8e418984d72fd9711c5a8d89a236a0c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5596534,
+    "metadata" : {
+      "title" : "fonologicos_loos1978_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5596534
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2151692",
+    "name" : "http://www.peru.sil.org/resources/archives/29987",
+    "creationDate" : "2015-05-06T11:14:04.214+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/29987",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c8932806dc5e3735e5ad7ad313618dfe",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/29987",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Peru Language & Culture Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

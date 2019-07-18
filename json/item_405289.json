@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_405289",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:26:55.513+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8A4B-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:26:55.513+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8A4B-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:06:04.780+0000",
+  "latestRelease" : {
+    "objectId" : "item_405289",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:26:55.513+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A4B-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405289",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:26:55.513+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8A4B-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Narrativas mitológicas Makurap : aspectos textuais e discursivos",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Silva, Jaqueline Brandão da",
+        "givenName" : "Jaqueline Brandão da",
+        "familyName" : "Silva",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34490",
+      "type" : "OTHER"
+    }, {
+      "id" : "makurap_dasilva2003_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : "UNICAMP"
+    },
+    "freeKeywords" : "LoC Class: PM7179,\nLoC Subject Headings: Tupi languages",
+    "subjects" : [ {
+      "value" : "mpu - Makuráp",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "147 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405287",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000299955",
+    "creationDate" : "2010-04-01T13:06:03.378+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A49-8",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000299955",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a1246c2e34101aab2dc4e73bc8a7ef71",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000299955",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405288",
+    "name" : "makurap_dasilva2003_o.pdf",
+    "creationDate" : "2010-04-01T13:06:04.289+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A4A-6",
+    "content" : "/rest/items/item_405289_2/component/file_405288/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c465099778ba6c8fe6c1cbb8a18ab8f2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4317637,
+    "metadata" : {
+      "title" : "makurap_dasilva2003_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4317637
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_406645",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:42:29.933+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-91C5-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:42:29.933+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-91C5-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:44:51.623+0000",
+  "latestRelease" : {
+    "objectId" : "item_406645",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:42:29.933+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-91C5-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406645",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:42:29.933+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-91C5-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Una gramatica del Wansöjöt (Puinave)",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Higuita, Jesús Mario Girón",
+        "givenName" : "Jesús Mario Girón",
+        "familyName" : "Higuita",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2008",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37366",
+      "type" : "OTHER"
+    }, {
+      "id" : "puinave_higuita2008_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "978-90-78328-59-9",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "nld" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "freeKeywords" : "LoC Class: PM6947,\nLoC Subject Headings: Puinave language -- Grammar",
+    "subjects" : [ {
+      "value" : "pui - Puinave",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XX, 476 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406643",
+    "name" : "http://www.lotpublications.nl/publish/issues/Giron/index.html",
+    "creationDate" : "2010-04-01T13:44:51.180+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-91C3-1",
+    "content" : "http://www.lotpublications.nl/publish/issues/Giron/index.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0afe6a81c5a97f4e26e66033652f0071",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lotpublications.nl/publish/issues/Giron/index.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406644",
+    "name" : "puinave_higuita2008_s.pdf",
+    "creationDate" : "2010-04-01T13:44:51.285+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-91C4-0",
+    "content" : "/rest/items/item_406645_2/component/file_406644/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "bdd5f57cddf3bcdd42d27f11b25fc4e4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2956029,
+    "metadata" : {
+      "title" : "puinave_higuita2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2956029
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

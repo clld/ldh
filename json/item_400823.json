@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_400823",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-06-19T09:21:47.604+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-C199-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz und Stichwörter aktualisiert",
+  "lastModificationDate" : "2014-06-19T09:21:47.604+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6FC9-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:59:38.218+0000",
+  "latestRelease" : {
+    "objectId" : "item_400823",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-06-19T09:21:47.604+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-C199-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400823",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-06-19T09:21:47.604+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-C199-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Bana provisional lexicon",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Marti",
+        "familyName" : "Giger",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Ruth",
+        "familyName" : "Lienhard"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2003",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "24334",
+      "type" : "OTHER"
+    }, {
+      "id" : "bana_giger2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra", "eng" ],
+    "publishingInfo" : {
+      "place" : "[Yaoundé]",
+      "publisher" : "[SIL Cameroon]"
+    },
+    "freeKeywords" : "LoC Subject Headings: Bana language, LoC Class: PL8169.4",
+    "subjects" : [ {
+      "value" : "bcw - Bana",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "23 S.",
+    "abstracts" : [ {
+      "value" : "\nTitle and introduction are in English. The lexicon is Bana-French. \"Bana is a chadic language (biu-Mandara A3) spoken in the Far North province of Cameroon. The Bana lexicon was created by Marti Giger and Ruth Lienhard. It is a working document of just over 1,500 entries. Definitions are given in French. Tone is marked on the Bana lexemes.\"\n"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400822",
+    "name" : "bana_giger2003_s.pdf",
+    "creationDate" : "2010-04-01T10:59:38.137+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6FC8-4",
+    "content" : "/rest/items/item_400823_4/component/file_400822/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c092fc6d1d03793ffce56d723c72e6f8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 254738,
+    "metadata" : {
+      "title" : "bana_giger2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 254738
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2034053",
+    "name" : "http://www.sil.org/resources/archives/47299",
+    "creationDate" : "2014-06-19T09:20:46.450+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-C19A-2",
+    "content" : "http://www.sil.org/resources/archives/47299",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "86d1720f1c6006ed15fa0bd8a2f29f94",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/resources/archives/47299",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL international, Archives",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_402146",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-12-22T11:29:26.074+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-5EFD-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-22T11:29:26.074+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-777A-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:26:38.712+0000",
+  "latestRelease" : {
+    "objectId" : "item_402146",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-22T11:29:26.074+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5EFD-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402146",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-22T11:29:26.074+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-5EFD-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The etymology of Jamaica grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Thomas",
+        "familyName" : "Russell",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1868",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29237",
+      "type" : "OTHER"
+    }, {
+      "id" : "jamaica_russell1868_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Kingston",
+      "publisher" : "Decordova"
+    },
+    "freeKeywords" : "LoC Class: PM7874.J3,\nLoC Subject Headings: Creole dialects--Jamaica",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "20 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402145",
+    "name" : "jamaica_russell1868_o.pdf",
+    "creationDate" : "2010-04-01T11:26:38.277+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7779-6",
+    "content" : "/rest/items/item_402146_3/component/file_402145/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "81077f75dbc4889817a79192233df292",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3412548,
+    "metadata" : {
+      "title" : "jamaica_russell1868_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3412548,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2079857",
+    "name" : "https://archive.org/details/etymologyjamaic00russgoog",
+    "creationDate" : "2014-12-22T11:28:57.253+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/etymologyjamaic00russgoog",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f83261153b2199f650259e6e33593525",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/etymologyjamaic00russgoog",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, American Libraries, view online ",
+      "size" : 0
+    }
+  } ]
+}

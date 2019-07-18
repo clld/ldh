@@ -1,0 +1,146 @@
+{
+  "objectId" : "item_405104",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-04T06:56:55.882+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-DA44-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-04T06:56:55.882+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-894E-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:55:17.268+0000",
+  "latestRelease" : {
+    "objectId" : "item_405104",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-04T06:56:55.882+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DA44-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405104",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-04T06:56:55.882+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DA44-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Ellipsis in Dutch dialects",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jeroen van",
+        "familyName" : "Craenenbroeck",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "datePublishedInPrint" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34343",
+      "type" : "OTHER"
+    }, {
+      "id" : "dutch_craenenbroeck2004_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "90-76864-58-6",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Utrecht",
+      "publisher" : "LOT"
+    },
+    "sources" : [ {
+      "title" : "LOT Dissertation Series",
+      "volume" : "96",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PF746,\nLoC Subject Headings: Dutch language",
+    "subjects" : [ {
+      "value" : "nld - Dutch",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "X, 297 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PF746,\nLoC Subject Headings: Dutch language--Dialects--Grammar, Dutch language--Ellipsis"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405103",
+    "name" : "dutch_craenenbroeck2004_s.pdf",
+    "creationDate" : "2010-04-01T12:55:17.026+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-894D-A",
+    "content" : "/rest/items/item_405104_3/component/file_405103/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ce11b3ca1c2e41f685eb59b830660fef",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1783507,
+    "metadata" : {
+      "title" : "dutch_craenenbroeck2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1783507
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2036951",
+    "name" : "http://www.lotpublications.nl/index3.html",
+    "creationDate" : "2014-07-04T06:55:16.750+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-DA45-C",
+    "content" : "http://www.lotpublications.nl/index3.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "4beda1ff973fbcc5ed8c27ec68c4e183",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.lotpublications.nl/index3.html",
+      "contentCategory" : "publisher-version",
+      "description" : "LOT publications/ Netherlands Graduate School of Linguistics, Dissertations 2004, Ellipsis in Dutch dialects, contents, pdfs",
+      "size" : 0
+    }
+  } ]
+}

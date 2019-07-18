@@ -1,0 +1,154 @@
+{
+  "objectId" : "item_400695",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-07T07:02:28.699+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A7BB-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-07T07:02:28.699+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6F06-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:57:11.514+0000",
+  "latestRelease" : {
+    "objectId" : "item_400695",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-07T07:02:28.699+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7BB-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400695",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-07T07:02:28.699+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7BB-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Conjunciones y otros nexos en tres idiomas amazónicos",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Mary Ruth",
+        "familyName" : "Wise",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Harry",
+        "familyName" : "Boonstra"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1982",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "23971",
+      "type" : "OTHER"
+    }, {
+      "id" : "amazonicos_wise1982_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1a ed.",
+      "place" : "Yarinacocha, Perú",
+      "publisher" : "Instituto Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística peruana",
+      "volume" : "19",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5718, LoC Subject Headings: Candoshi language, LoC Subject Headings: Matsés language, LoC Subject Headings: Nomatsiguenga language",
+    "subjects" : [ {
+      "value" : "not - Nomatsiguenga",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "cbu - Candoshi-Shapra",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "mcf - Matsés",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "222 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5718, LoC Subject Headings: Candoshi language--Grammar, LoC Subject Headings: Matsés language--Grammar, LoC Subject Headings: Nomatsiguenga language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400694",
+    "name" : "amazonicos_wise1982_o.pdf",
+    "creationDate" : "2010-04-01T10:57:10.798+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F05-9",
+    "content" : "/rest/items/item_400695_4/component/file_400694/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b046885c8ef1ace29d1c1ed3f657a695",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6902591,
+    "metadata" : {
+      "title" : "amazonicos_wise1982_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6902591
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2129289",
+    "name" : "http://www.peru.sil.org/resources/archives/29900",
+    "creationDate" : "2015-04-07T07:01:52.647+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/29900",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "46ae2e3ff6058b0adedcc1db192844a8",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/29900",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Peru Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

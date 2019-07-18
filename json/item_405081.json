@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_405081",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-05-31T10:58:17.524+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8927-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:58:17.524+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8927-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:55:00.896+0000",
+  "latestRelease" : {
+    "objectId" : "item_405081",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T10:58:17.524+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8927-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405081",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T10:58:17.524+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8927-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The grammatical status of the English dative alternation",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Oehrle, Richard Thomas",
+        "givenName" : "Richard Thomas",
+        "familyName" : "Oehrle",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1976",
+    "datePublishedInPrint" : "1976",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34335",
+      "type" : "OTHER"
+    }, {
+      "id" : "dative_oehrle1976_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Mass."
+    },
+    "freeKeywords" : "LoC Subject Headings: English language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "abstracts" : [ {
+      "value" : "PE1221, ISO 639-3 : eng, English language -- Case, English language -- Grammar, Generative"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405079",
+    "name" : "http://hdl.handle.net/1721.1/16390",
+    "creationDate" : "2010-04-01T12:54:58.706+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8925-2",
+    "content" : "http://hdl.handle.net/1721.1/16390",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "50dba9f13ce183cd212eea6e188c39ee",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/16390",
+      "contentCategory" : "publisher-version",
+      "description" : "DSpace@MIT ",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405080",
+    "name" : "dative_oehrle1976_o.pdf",
+    "creationDate" : "2010-04-01T12:54:59.588+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8926-F",
+    "content" : "/rest/items/item_405081_5/component/file_405080/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ac54b0b45724a4a631bede1b99e3fff8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12948919,
+    "metadata" : {
+      "title" : "dative_oehrle1976_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12948919,
+      "rights" : "non-exclusive permission from Massachusetts Institute of Technology/Cambridge Massachusetts (2010-04-26)"
+    }
+  } ]
+}

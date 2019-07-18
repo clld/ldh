@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_408250",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T22:45:49.467+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70BE-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T22:45:49.467+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9ABF-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:33:04.176+0000",
+  "latestRelease" : {
+    "objectId" : "item_408250",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T22:45:49.467+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70BE-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408250",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T22:45:49.467+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70BE-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Observaciones preliminares acerca del idioma macaguan : apuntes culturales, fonología, apuntes\ngramaticales, vocabulario macaguan-español",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Edgar",
+        "familyName" : "Buenaventura V.",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1993",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "42753",
+      "type" : "OTHER"
+    }, {
+      "id" : "macaguan_buenaventura1993_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "958-21-0106-7",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1. ed.",
+      "place" : "Santafé de Bogota, Colombia",
+      "publisher" : "Asociacion Inst. Linguistico de Verano"
+    },
+    "freeKeywords" : "LoC Class: PM6374, LoC Subject Headings: Macaguan language, LoC Subject Headings: Macaguan Indians",
+    "subjects" : [ {
+      "value" : "spa - Spanish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "iv, 104 p."
+  },
+  "files" : [ {
+    "objectId" : "file_408248",
+    "name" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=32989",
+    "creationDate" : "2010-04-01T14:33:03.622+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=32989",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b27b24e6125b46f86c8478f94a19e6aa",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/colombia/pubs/abstract.asp?id=32989",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408249",
+    "name" : "macaguan_buenaventura1993_o.pdf",
+    "creationDate" : "2010-04-01T14:33:03.866+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9ABE-7",
+    "content" : "/rest/items/item_408250_4/component/file_408249/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "dbe3075b8983a21342371b854a80eccc",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2670059,
+    "metadata" : {
+      "title" : "macaguan_buenaventura1993_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2670059
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

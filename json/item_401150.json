@@ -1,0 +1,153 @@
+{
+  "objectId" : "item_401150",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-01-16T13:39:19.921+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-92D2-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-01-16T13:39:19.921+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-71B6-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:06:01.984+0000",
+  "latestRelease" : {
+    "objectId" : "item_401150",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-01-16T13:39:19.921+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-92D2-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401150",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-01-16T13:39:19.921+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-92D2-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dakota grammar, texts, and ethnography",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Stephen Return",
+        "familyName" : "Riggs",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "James Owen",
+        "familyName" : "Dorsey",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1893",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "25178",
+      "type" : "OTHER"
+    }, {
+      "id" : "dakota_riggs1893_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Washington",
+      "publisher" : "Government Printing Office"
+    },
+    "sources" : [ {
+      "title" : "Contributions to North American Ethnology",
+      "volume" : "9",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM1021,\nLoC Subject Headings: Dakota language",
+    "subjects" : [ {
+      "value" : "dak - Dakota",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxx, 239 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM1021,\nLoC Subject Headings: Dakota language--Grammar, Dakota language--Texts, Siouan Indians"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_401149",
+    "name" : "dakota_riggs1893_o.pdf",
+    "creationDate" : "2010-04-01T11:05:59.614+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-71B5-0",
+    "content" : "/rest/items/item_401150_5/component/file_401149/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e7895b83f57f450d84675d5c9a506be1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 25072108,
+    "metadata" : {
+      "title" : "dakota_riggs1893_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 25072108,
+      "rights" : "Public  Domain"
+    }
+  }, {
+    "objectId" : "file_2032881",
+    "name" : "https://archive.org/details/grammerdakota09riggrich",
+    "creationDate" : "2014-06-12T08:43:20.721+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/grammerdakota09riggrich",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7e83c6515cda042fac0583e90a8ee095",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/grammerdakota09riggrich",
+      "contentCategory" : "publisher-version",
+      "description" : "archive.org, view online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

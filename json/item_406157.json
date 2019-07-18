@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_406157",
+  "versionNumber" : 4,
+  "modificationDate" : "2014-07-17T09:36:14.387+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-F0A9-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-17T09:36:14.387+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8F1F-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:30:37.773+0000",
+  "latestRelease" : {
+    "objectId" : "item_406157",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-17T09:36:14.387+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-F0A9-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406157",
+    "versionNumber" : 4,
+    "modificationDate" : "2014-07-17T09:36:14.387+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-F0A9-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The phonological dimension of grammatical markedness",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Cristian",
+        "familyName" : "Iscrulescu",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36221",
+      "type" : "OTHER"
+    }, {
+      "id" : "markedness_iscrulescu2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Los Angeles",
+      "publisher" : "Univ. of Southern California"
+    },
+    "freeKeywords" : "LoC Class: P291,\nLoC Subject Headings: Grammar/Comparative and general--Syntax",
+    "totalNumberOfPages" : "XII, 313  S."
+  },
+  "files" : [ {
+    "objectId" : "file_406156",
+    "name" : "markedness_iscrulescu2006_s.pdf",
+    "creationDate" : "2010-04-01T13:30:37.612+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8F1E-6",
+    "content" : "/rest/items/item_406157_4/component/file_406156/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0b937b4c3bcd09199452a6ca26626263",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 981577,
+    "metadata" : {
+      "title" : "markedness_iscrulescu2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 981577
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2042756",
+    "name" : "http://digitallibrary.usc.edu/cdm/compoundobject/collection/p15799coll127/id/35497/rec/1",
+    "creationDate" : "2014-07-17T09:34:45.278+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-F0AB-9",
+    "content" : "http://digitallibrary.usc.edu/cdm/compoundobject/collection/p15799coll127/id/35497/rec/1",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "10ee08a5c1d82d10973d12c00fcf4b7a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://digitallibrary.usc.edu/cdm/compoundobject/collection/p15799coll127/id/35497/rec/1",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. of Southern Calif., Digital Library,  University of Southern California Dissertations and Theses, pdf",
+      "size" : 0
+    }
+  } ]
+}

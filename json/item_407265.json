@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_407265",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-02-25T12:10:36.749+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-E32A-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-02-25T12:10:36.749+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9543-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:09:10.589+0000",
+  "latestRelease" : {
+    "objectId" : "item_407265",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-25T12:10:36.749+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E32A-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407265",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-25T12:10:36.749+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E32A-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The Eskimo tribes : their distribution and characteristics, especially in regard to language, with a comparative vocabulary and a sketch-map",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Hinrich",
+        "familyName" : "Rink",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1887",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "38033",
+      "type" : "OTHER"
+    }, {
+      "id" : "eskimo_rink1887_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Copenhagen [u.a.]",
+      "publisher" : "Reitzel"
+    },
+    "sources" : [ {
+      "title" : "Meddelelser om Grønland / Kommissionen for Videnskabelige Undersøgelser i Grønland",
+      "volume" : "11",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM61,\nLoC Subject Headings: Eskimo languages",
+    "totalNumberOfPages" : "247 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407264",
+    "name" : "eskimo_rink1887_o.pdf",
+    "creationDate" : "2010-04-01T14:09:09.675+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9542-0",
+    "content" : "/rest/items/item_407265_3/component/file_407264/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9df0d5d72f6615448e5a45d613a48e24",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8861694,
+    "metadata" : {
+      "title" : "eskimo_rink1887_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8861694,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2104109",
+    "name" : "https://archive.org/details/eskimotribesthei00rinkrich",
+    "creationDate" : "2015-02-25T12:10:08.343+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/eskimotribesthei00rinkrich",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1b420c1f1078eab2b5273e7116702007",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/eskimotribesthei00rinkrich",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org: Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  } ]
+}

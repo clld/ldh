@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_408104",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T23:00:32.486+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70D6-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T23:00:32.486+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-99E4-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:29:54.315+0000",
+  "latestRelease" : {
+    "objectId" : "item_408104",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T23:00:32.486+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70D6-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408104",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T23:00:32.486+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70D6-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Otomí de San Andrés Cuexcontitlán, Estado de México",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Lastra de Suárez, Yolanda",
+        "givenName" : "Yolanda",
+        "familyName" : "de Lastra Suárez",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1989",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "42365",
+      "type" : "OTHER"
+    }, {
+      "id" : "otomi_lastra1989_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "1. ed.",
+      "place" : "México, D.F.",
+      "publisher" : "Colegio de México"
+    },
+    "sources" : [ {
+      "title" : "Archivo de lenguas indígenas de México",
+      "volume" : "13",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM4149, LoC Subject Headings: Mexico, LoC Subject Headings: Otomi language, LoC Subject Headings: Otomi language--Mexico--San Andrés Cuexcontitlán, LoC Subject Headings: San Andrés Cuexcontitlán",
+    "totalNumberOfPages" : "155 S."
+  },
+  "files" : [ {
+    "objectId" : "file_408102",
+    "name" : "http://www.colmex.mx/alim/coleccion.html",
+    "creationDate" : "2010-04-01T14:29:53.382+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-99E2-8",
+    "content" : "http://www.colmex.mx/alim/coleccion.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.colmex.mx/alim/coleccion.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408103",
+    "name" : "otomi_lastra1989_o.pdf",
+    "creationDate" : "2010-04-01T14:29:53.878+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-99E3-6",
+    "content" : "/rest/items/item_408104_3/component/file_408103/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3fcbe039e5a70845200fea47ea806aee",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4068101,
+    "metadata" : {
+      "title" : "otomi_lastra1989_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4068101
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

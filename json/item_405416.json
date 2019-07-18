@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_405416",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-13T02:20:26.214+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7269-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:20:26.214+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8AF6-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:12:14.382+0000",
+  "latestRelease" : {
+    "objectId" : "item_405416",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:20:26.214+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7269-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405416",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-13T02:20:26.214+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7269-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Speech perception in phonology",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Edward",
+        "familyName" : "Flemming",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2003",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34789",
+      "type" : "OTHER"
+    }, {
+      "id" : "perception_flemming2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Stanford",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: P217.3.R65, LoC Subject Headings: Grammar/Comparative and general--Phonology, LoC Subject Headings: Speech perception",
+    "totalNumberOfPages" : "37 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405414",
+    "name" : "http://web.mit.edu/~flemming/www/paper/Percphon03.pdf",
+    "creationDate" : "2010-04-01T13:12:12.473+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8AF4-8",
+    "content" : "http://web.mit.edu/~flemming/www/paper/Percphon03.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "354de9cfc43b4f83c030d88639e8e6b9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://web.mit.edu/~flemming/www/paper/Percphon03.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405415",
+    "name" : "perception_flemming2003_s.pdf",
+    "creationDate" : "2010-04-01T13:12:14.273+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8AF5-6",
+    "content" : "/rest/items/item_405416_4/component/file_405415/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "354de9cfc43b4f83c030d88639e8e6b9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 247791,
+    "metadata" : {
+      "title" : "perception_flemming2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 247791
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

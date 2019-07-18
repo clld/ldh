@@ -1,0 +1,121 @@
+{
+  "objectId" : "item_403627",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-05-31T10:30:01.930+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-80AB-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:30:01.930+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-80AB-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:20:55.817+0000",
+  "latestRelease" : {
+    "objectId" : "item_403627",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T10:30:01.930+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-80AB-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403627",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T10:30:01.930+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-80AB-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Vocabulaire francais-esquimau : dialecte des Tchiglit des bouches du Mackenzie et de l'Anderson ; précédé d'une monographie de cette tribu et de notes grammaticales",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Emile Fortuné St. J.",
+        "familyName" : "Petitot",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1876",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31437",
+      "type" : "OTHER"
+    }, {
+      "id" : "esquimau_petitot1876_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Paris [u.a.]",
+      "publisher" : "Leroux"
+    },
+    "sources" : [ {
+      "title" : "Bibliothèque de linguistique et d'ethnographie\naméricaines",
+      "alternativeTitles" : [ {
+        "value" : "Bibliothèque de linguistique et d'ethnographie américaines"
+      } ],
+      "volume" : "03",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Eskimo languages",
+    "totalNumberOfPages" : "xliv, 75, [4] S.",
+    "abstracts" : [ {
+      "value" : "PM63, ISO 639-3 : -, Eskimo languages -- Dictionaries -- French, French language -- Dictionaries -- Eskimo, Kopagmiut dialect -- Dictionaries -- French, French language -- Dictionaries -- Kopagmiut, Kopagmiut dialect -- Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403626",
+    "name" : "esquimau_petitot1876_o.pdf",
+    "creationDate" : "2010-04-01T12:20:54.766+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-80AA-2",
+    "content" : "/rest/items/item_403627_5/component/file_403626/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b13d8d5d3fce5ebabe60f8f8044fb238",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10541368,
+    "metadata" : {
+      "title" : "esquimau_petitot1876_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10541368,
+      "copyrightDate" : "2010-11-16"
+    }
+  } ]
+}

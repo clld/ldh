@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403616",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-06-06T07:21:51.129+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8094-1",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:21:51.129+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8094-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:20:45.476+0000",
+  "latestRelease" : {
+    "objectId" : "item_403616",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-06-06T07:21:51.129+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8094-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403616",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-06-06T07:21:51.129+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8094-1",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A lecture on the grammatical construction of the Cree language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "James",
+        "familyName" : "Hunter",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1875",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31433",
+      "type" : "OTHER"
+    }, {
+      "id" : "cree_hunter1875_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "London",
+      "publisher" : "Printed for the Society for Promoting Christian Knowledge"
+    },
+    "freeKeywords" : "LoC Subject Headings: Cree language",
+    "subjects" : [ {
+      "value" : "csw - Swampy Cree",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "267 S.",
+    "abstracts" : [ {
+      "value" : "PM987, ISO 639-3 : csw, Cree language--Grammar, Indians of North America--Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403615",
+    "name" : "cree_hunter1875_o.pdf",
+    "creationDate" : "2010-04-01T12:20:43.659+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8093-3",
+    "content" : "/rest/items/item_403616_5/component/file_403615/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c8e8076f4fe3861024f01b501ff66c06",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12499752,
+    "metadata" : {
+      "title" : "cree_hunter1875_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12499752,
+      "copyrightDate" : "2010-11-18",
+      "rights" : "public domain, James Hunter 1817-1882"
+    }
+  } ]
+}

@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_405380",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-05-28T10:12:20.931+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0027-76A5-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-05-28T10:12:20.931+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8AC3-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:09:02.216+0000",
+  "latestRelease" : {
+    "objectId" : "item_405380",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-05-28T10:12:20.931+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0027-76A5-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405380",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-05-28T10:12:20.931+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0027-76A5-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The OCP in the perception grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Paul",
+        "familyName" : "Boersma",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2000",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "34765",
+      "type" : "OTHER"
+    }, {
+      "id" : "ocp_boersma2000_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Amsterdam",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: P217.3, LoC Subject Headings: Grammar/Comparative and general—Phonology",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "52 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405378",
+    "name" : "http://www.fon.hum.uva.nl/paul/papers/ocp_perc.pdf",
+    "creationDate" : "2010-04-01T13:09:01.776+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8AC1-9",
+    "content" : "http://www.fon.hum.uva.nl/paul/papers/ocp_perc.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f20b3be9172a54519d695bd62fdc5d9d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.fon.hum.uva.nl/paul/papers/ocp_perc.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Homepage Paul Boersma, University of Amsterdam, Institute of Phonetic Sciences",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405379",
+    "name" : "ocp_boersma2000_s.pdf",
+    "creationDate" : "2010-04-01T13:09:02.124+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8AC2-7",
+    "content" : "/rest/items/item_405380_5/component/file_405379/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f20b3be9172a54519d695bd62fdc5d9d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 258436,
+    "metadata" : {
+      "title" : "ocp_boersma2000_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 258436
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

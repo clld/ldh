@@ -1,0 +1,114 @@
+{
+  "objectId" : "item_406954",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-02-20T10:41:29.281+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-CECE-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-02-20T10:41:29.281+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-938D-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:51:02.348+0000",
+  "latestRelease" : {
+    "objectId" : "item_406954",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-20T10:41:29.281+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-CECE-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406954",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-02-20T10:41:29.281+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-CECE-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammatika udinskago jazyka",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Adolf",
+        "familyName" : "Dirr",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1903",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37534",
+      "type" : "OTHER"
+    }, {
+      "id" : "udinsko_dirr1903.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "rus", "kat" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Tiflis",
+      "publisher" : "Tip. Kanc. Glavnonac. gr. c. na Kavkaze"
+    },
+    "freeKeywords" : "LoC Class: PK9201.U41,\nLoC Subject Headings: Udi language",
+    "subjects" : [ {
+      "value" : "udi - Udi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XI S., 3 Bl., 101 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406953",
+    "name" : "udinsko_dirr1903.pdf",
+    "creationDate" : "2010-04-01T13:51:01.864+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-938C-B",
+    "content" : "/rest/items/item_406954_3/component/file_406953/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "345d1cfab980e34b9360c871e202db50",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4573054,
+    "metadata" : {
+      "title" : "udinsko_dirr1903.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4573054,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

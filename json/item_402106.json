@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_402106",
+  "versionNumber" : 5,
+  "modificationDate" : "2014-08-21T08:01:02.861+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-C130-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Stichwörter bereinigt",
+  "lastModificationDate" : "2014-08-21T08:01:02.861+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7735-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:25:54.780+0000",
+  "latestRelease" : {
+    "objectId" : "item_402106",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-08-21T08:01:02.861+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C130-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402106",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-08-21T08:01:02.861+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C130-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gender in English pronouns : Myth and reality",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Susanne",
+        "familyName" : "Wagner",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29147",
+      "type" : "OTHER"
+    }, {
+      "id" : "gender_wagner2002_s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "urn:nbn:de:bsz:25-opus-14124",
+      "type" : "URN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Freiburg",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PE1074.75,\nLoC Subject Headings: English language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "tableOfContents" : "LoC Class: PE1074.75,\nLoC Subject Headings: English language--Gender",
+    "totalNumberOfPages" : "XII, 341 S.",
+    "abstracts" : [ {
+      "value" : "This study deals with a feature of traditional English dialects in Southwest England and Newfoundland, namely the use of \"gendered\" pronouns (primarily he and him) to refer to inanimate objects such as a tree or a watch: \"I can't climb him\" or \"He's a good watch\".\nBackground analyses include an overview of the history of gender in English as well as sketches of the investigated dialects. The core of the study contains detailed analyses of material from the Survey of English Dialects (both the Basic and the Incidental Material) as well as examples of use and changes in use from various corpora of spoken language (parts of the Freiburg English Dialect Corpus for Southwest England, material from the MUNFLA archives for Newfoundland)."
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402105",
+    "name" : "gender_wagner2002_s.pdf",
+    "creationDate" : "2010-04-01T11:25:54.218+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7734-D",
+    "content" : "/rest/items/item_402106_5/component/file_402105/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "16d57b9d29e16c3498639f215e737222",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 5196362,
+    "metadata" : {
+      "title" : "gender_wagner2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 5196362
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2033899",
+    "name" : "http://www.freidok.uni-freiburg.de/volltexte/1412/",
+    "creationDate" : "2014-06-18T11:00:34.997+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-BFAA-F",
+    "content" : "http://www.freidok.uni-freiburg.de/volltexte/1412/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f2261f5181953eaee3a00a1e706b3b54",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.freidok.uni-freiburg.de/volltexte/1412/",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Freiburg, document server FreiDOK, pdf",
+      "size" : 0
+    }
+  } ]
+}

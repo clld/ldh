@@ -1,0 +1,159 @@
+{
+  "objectId" : "item_402046",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T17:40:56.818+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6E65-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T17:40:56.818+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-76CC-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:24:47.539+0000",
+  "latestRelease" : {
+    "objectId" : "item_402046",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T17:40:56.818+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E65-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402046",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T17:40:56.818+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E65-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Documentation of endangered languages : a priority task for linguistics",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Christian",
+        "familyName" : "Lehmann",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1999",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "29013",
+      "type" : "OTHER"
+    }, {
+      "id" : "documentation_lehmann1999_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Erfurt",
+      "publisher" : "Univ."
+    },
+    "sources" : [ {
+      "title" : "ASSidUE",
+      "volume" : "01",
+      "identifiers" : [ {
+        "id" : "1612-0612",
+        "type" : "ISSN"
+      } ],
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P40.5.L33, LoC Subject Headings: Language obsolescence, LoC Subject Headings: Endangered languages",
+    "totalNumberOfPages" : "15 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402045",
+    "name" : "documentation_lehmann1999_s.pdf",
+    "creationDate" : "2010-04-01T11:24:47.468+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-76CB-5",
+    "content" : "/rest/items/item_402046_4/component/file_402045/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1c56add1e2fa27dea36b437dcfa1d336",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 59390,
+    "metadata" : {
+      "title" : "documentation_lehmann1999_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 59390
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2033890",
+    "name" : "https://www.uni-erfurt.de/target/assidue/",
+    "creationDate" : "2014-06-18T10:30:51.648+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://www.uni-erfurt.de/target/assidue/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5a2086e1da679584a3280244950e955c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://www.uni-erfurt.de/target/assidue/",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Erfurt, textual archive TARGET, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2033891",
+    "name" : "http://www2.uni-erfurt.de/sprachwissenschaft/ASSidUE/ASSidUE01.pdf",
+    "creationDate" : "2014-06-18T10:30:51.921+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-BF9B-2",
+    "content" : "http://www2.uni-erfurt.de/sprachwissenschaft/ASSidUE/ASSidUE01.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "605c675ffbbea31b964d1887a713e10c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www2.uni-erfurt.de/sprachwissenschaft/ASSidUE/ASSidUE01.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "direct link to pdf",
+      "size" : 0
+    }
+  } ]
+}

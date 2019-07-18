@@ -1,0 +1,120 @@
+{
+  "objectId" : "item_403400",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T10:47:57.839+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7ED7-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:47:57.839+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7ED7-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:17:47.957+0000",
+  "latestRelease" : {
+    "objectId" : "item_403400",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T10:47:57.839+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7ED7-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403400",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T10:47:57.839+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7ED7-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Phonology structurale de l'Awing",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Azieshi, Gisele",
+        "givenName" : "Gisele",
+        "familyName" : "Azieshi",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1993",
+    "datePublishedInPrint" : "1993",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31210",
+      "type" : "OTHER"
+    }, {
+      "id" : "awing_azieshi1994_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "place" : "Yaoundé",
+      "publisher" : "Univ. I"
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon --Languages",
+    "subjects" : [ {
+      "value" : "azo - Awing",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "iv, 101 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : azo, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403399",
+    "name" : "awing_azieshi1994_o.pdf",
+    "creationDate" : "2010-04-01T12:17:47.669+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7ED6-F",
+    "content" : "/rest/items/item_403400_4/component/file_403399/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7ff84e4e323ea911be9aedaea20f30ae",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2382407,
+    "metadata" : {
+      "title" : "awing_azieshi1994_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2382407,
+      "copyrightDate" : "2010-11-29",
+      "rights" : "non-exklusive permission University of Yaounde I 29.11.2005"
+    }
+  } ]
+}

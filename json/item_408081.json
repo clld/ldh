@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_408081",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-07T09:24:15.545+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A843-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-07T09:24:15.545+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-99C4-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:29:35.783+0000",
+  "latestRelease" : {
+    "objectId" : "item_408081",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-07T09:24:15.545+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A843-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_408081",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-07T09:24:15.545+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A843-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Linguistic databases",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "John",
+        "familyName" : "Nerbonne",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1998",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "42356",
+      "type" : "OTHER"
+    }, {
+      "id" : "databases_nerbonne1998_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "CSLI Lecture Notes",
+      "volume" : "77",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P128.D37, LoC Subject Headings: Linguistics--Databases, LoC Subject Headings: Linguistic analysis (Linguistics), LoC Subject Headings: Computational linguistics",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "xii, 243 S."
+  },
+  "files" : [ {
+    "objectId" : "file_408079",
+    "name" : "http://sul-derivatives.stanford.edu/derivative?CSNID=00003779&mediaType=application/pdf",
+    "creationDate" : "2010-04-01T14:29:16.925+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-99C2-0",
+    "content" : "http://sul-derivatives.stanford.edu/derivative?CSNID=00003779&mediaType=application/pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "794a2bd434df6abcb762831ccbc09086",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://sul-derivatives.stanford.edu/derivative?CSNID=00003779&mediaType=application/pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_408080",
+    "name" : "databases_nerbonne1998_s.pdf",
+    "creationDate" : "2010-04-01T14:29:34.533+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-99C3-E",
+    "content" : "/rest/items/item_408081_4/component/file_408080/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6f5108d2c524aee302e0c567e6b36acf",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 12803072,
+    "metadata" : {
+      "title" : "databases_nerbonne1998_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 12803072
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

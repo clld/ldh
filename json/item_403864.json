@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_403864",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:37:02.948+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-823F-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:37:02.948+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-823F-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:27:20.981+0000",
+  "latestRelease" : {
+    "objectId" : "item_403864",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:37:02.948+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-823F-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403864",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:37:02.948+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-823F-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Jarawara-English dictionary",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Vogel, Alan",
+        "givenName" : "Alan",
+        "familyName" : "Vogel",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2006",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31889",
+      "type" : "OTHER"
+    }, {
+      "id" : "jarawara_vogel2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Cuiabá",
+      "publisher" : "Sociedade Internacional de Lingüística"
+    },
+    "freeKeywords" : "LoC Class: PM6258,\nLoC Subject Headings: Jaruara language",
+    "subjects" : [ {
+      "value" : "jap - Jaruára",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "262 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403862",
+    "name" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/JADictEN.pdf",
+    "creationDate" : "2010-04-01T12:27:07.237+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-823D-A",
+    "content" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/JADictEN.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "e01cb2165bdfc8d149c4ad8c4d71399a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/JADictEN.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403863",
+    "name" : "jarawara_vogel2006_s.pdf",
+    "creationDate" : "2010-04-01T12:27:20.755+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-823E-8",
+    "content" : "/rest/items/item_403864_2/component/file_403863/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c32b72fda320a78f827a5bfae46fff91",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1730879,
+    "metadata" : {
+      "title" : "jarawara_vogel2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1730879
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

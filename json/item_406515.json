@@ -1,0 +1,151 @@
+{
+  "objectId" : "item_406515",
+  "versionNumber" : 7,
+  "modificationDate" : "2015-03-12T21:20:07.905+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7032-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:20:07.905+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9111-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:40:05.320+0000",
+  "latestRelease" : {
+    "objectId" : "item_406515",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-03-12T21:20:07.905+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7032-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406515",
+    "versionNumber" : 7,
+    "modificationDate" : "2015-03-12T21:20:07.905+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7032-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Syntactic form and discourse function in natural language generation",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Cassandre",
+        "familyName" : "Creswell",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37203",
+      "type" : "OTHER"
+    }, {
+      "id" : "natural_creswell2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[State College]",
+      "publisher" : "Pennsylvania State Univ."
+    },
+    "freeKeywords" : "LoC Class: P98, LoC Subject Headings: Computational linguistics, LoC Subject Headings: Grammar/Comparative and general--Syntax--Data processing, LoC Subject Headings: Discourse analysis--Data processing",
+    "totalNumberOfPages" : "xiii, 230 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406514",
+    "name" : "natural_creswell2003_s.pdf",
+    "creationDate" : "2010-04-01T13:40:05.202+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9110-4",
+    "content" : "/rest/items/item_406515_7/component/file_406514/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3542e9a985e547399694cda17d47eff2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 655039,
+    "metadata" : {
+      "title" : "natural_creswell2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 655039
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2044911",
+    "name" : "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.107.6721",
+    "creationDate" : "2014-07-28T07:03:43.420+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.107.6721",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7c01de006b206c7471b645611bbcc843",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.107.6721",
+      "contentCategory" : "any-fulltext",
+      "description" : "Pennsylvania State University, digital library CiteSeerx, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_2044912",
+    "name" : "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.107.6721&rep=rep1&type=pdf",
+    "creationDate" : "2014-07-28T07:03:44.125+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-06F0-7",
+    "content" : "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.107.6721&rep=rep1&type=pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ef91ebaeb33ca746859e2e4e431a5974",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.107.6721&rep=rep1&type=pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

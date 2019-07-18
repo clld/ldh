@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_406573",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T21:31:31.621+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-704A-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:31:31.621+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9160-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:41:32.036+0000",
+  "latestRelease" : {
+    "objectId" : "item_406573",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T21:31:31.621+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-704A-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406573",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T21:31:31.621+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-704A-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Contribuição para a fonologia da língua Apiaká (Tupí-Guaraní)",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Padua, Alexandre Jorge",
+        "givenName" : "Alexandre Jorge",
+        "familyName" : "Padua",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37316",
+      "type" : "OTHER"
+    }, {
+      "id" : "apiaka_padua2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Brasília",
+      "publisher" : " Univ. de Brasília"
+    },
+    "freeKeywords" : "LoC Class: PM5431, LoC Subject Headings: Apiaká language, LoC Subject Headings: Tupi-Guarani languages",
+    "subjects" : [ {
+      "value" : "api - Apiaká",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "43 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406571",
+    "name" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=2392",
+    "creationDate" : "2010-04-01T13:41:30.941+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-915E-5",
+    "content" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=2392",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c8e26c281dd47900189abb32c24c57d0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=2392",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406572",
+    "name" : "apiaka_padua2007_s.pdf",
+    "creationDate" : "2010-04-01T13:41:31.902+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-915F-3",
+    "content" : "/rest/items/item_406573_3/component/file_406572/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "fcff4ba184e310e3f28a4f5bae771dbe",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 716290,
+    "metadata" : {
+      "title" : "apiaka_padua2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 716290
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

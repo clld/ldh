@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_403149",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-14T08:18:16.974+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B23B-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-14T08:18:16.974+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D66-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:58:41.528+0000",
+  "latestRelease" : {
+    "objectId" : "item_403149",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-14T08:18:16.974+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B23B-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403149",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-14T08:18:16.974+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B23B-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Some rules of semantic interpretation for English",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ray",
+        "familyName" : "Jackendoff",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1969",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31047",
+      "type" : "OTHER"
+    }, {
+      "id" : "english_jackendoff1969_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "MIT"
+    },
+    "freeKeywords" : "LoC Class: PE1585, LoC Subject Headings: English language, LoC Subject Headings: Generative grammar",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "248 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PE1585, LoC Subject Headings: English language -- Semantics, LoC Subject Headings: Generative grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403148",
+    "name" : "english_jackendoff1969_o.pdf",
+    "creationDate" : "2010-04-01T11:58:37.262+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D65-F",
+    "content" : "/rest/items/item_403149_4/component/file_403148/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "96ea696747a9e023fb0e159c0aa15732",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 45180567,
+    "metadata" : {
+      "title" : "english_jackendoff1969_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 45180567
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2144419",
+    "name" : "http://hdl.handle.net/1721.1/12965",
+    "creationDate" : "2015-04-14T08:17:48.113+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/12965",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "00ad437172b45a3a3d4b88f66af61baf",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/12965",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_406587",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-06-06T07:52:25.572+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9174-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:52:25.572+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9174-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:43:45.311+0000",
+  "latestRelease" : {
+    "objectId" : "item_406587",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:52:25.572+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9174-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406587",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:52:25.572+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9174-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Factors influencing the origins of colour categories",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Tony",
+        "familyName" : "Belpaeme",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "datePublishedInPrint" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37321",
+      "type" : "OTHER"
+    }, {
+      "id" : "colour_belpaeme2002_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Brussel",
+      "publisher" : "Vrije Univ. Diss."
+    },
+    "freeKeywords" : "LoC Subject Headings: Anthropological linguistics",
+    "totalNumberOfPages" : "xiv, 189 S.",
+    "abstracts" : [ {
+      "value" : "P35, Anthropological linguistics"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406585",
+    "name" : "http://www.isrl.uiuc.edu/~amag/langev/paper/belpaeme02factorsInfluencing.html",
+    "creationDate" : "2010-04-01T13:43:43.635+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9172-6",
+    "content" : "http://www.isrl.uiuc.edu/~amag/langev/paper/belpaeme02factorsInfluencing.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "da087650e17895d00c28fc82ba0401db",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.isrl.uiuc.edu/~amag/langev/paper/belpaeme02factorsInfluencing.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406586",
+    "name" : "colour_belpaeme2002_s.pdf",
+    "creationDate" : "2010-04-01T13:43:44.359+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9173-4",
+    "content" : "/rest/items/item_406587_3/component/file_406586/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "65cc315615d26cd9c00fbb582e9f03bb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9558938,
+    "metadata" : {
+      "title" : "colour_belpaeme2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9558938,
+      "copyrightDate" : "2010-04-11",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

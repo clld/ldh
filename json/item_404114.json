@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_404114",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:46:54.110+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-83A5-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:46:54.110+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-83A5-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:35:12.660+0000",
+  "latestRelease" : {
+    "objectId" : "item_404114",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:46:54.110+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-83A5-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404114",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:46:54.110+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-83A5-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The bantu attribute noun class prefixes and their suffixal counterparts, with special reference to Zulu",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Mohala, Linkie",
+        "givenName" : "Linkie",
+        "familyName" : "Mohala",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32279",
+      "type" : "OTHER"
+    }, {
+      "id" : "bantu_mohlala2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Pretoria",
+      "publisher" : "[s.n.]"
+    },
+    "freeKeywords" : "LoC Class: PL8842,\nLoC Subject Headings: Zulu language -- Noun",
+    "subjects" : [ {
+      "value" : "zul - Zulu",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404112",
+    "name" : "http://upetd.up.ac.za/thesis/available/etd-03152004-104546/",
+    "creationDate" : "2010-04-01T12:35:11.449+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-83A3-9",
+    "content" : "http://upetd.up.ac.za/thesis/available/etd-03152004-104546/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "70780853db68fda5e120ba012019ac99",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://upetd.up.ac.za/thesis/available/etd-03152004-104546/",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404113",
+    "name" : "bantu_mohlala2003_s.pdf",
+    "creationDate" : "2010-04-01T12:35:12.544+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-83A4-7",
+    "content" : "/rest/items/item_404114_2/component/file_404113/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "380f77634340214496102452f6671265",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 520609,
+    "metadata" : {
+      "title" : "bantu_mohlala2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 520609
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

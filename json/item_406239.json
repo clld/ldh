@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_406239",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T20:47:31.381+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FEF-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:47:31.381+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8F91-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:33:31.165+0000",
+  "latestRelease" : {
+    "objectId" : "item_406239",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:47:31.381+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FEF-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406239",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T20:47:31.381+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FEF-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The role of segmental sandhi in the parsing of speech : evidence from Greek",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Georgios",
+        "familyName" : "Tserdanelis",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36527",
+      "type" : "OTHER"
+    }, {
+      "id" : "greek_tserdanelis2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: PA265, LoC Subject Headings: Sandhi, LoC Subject Headings: Greek language",
+    "subjects" : [ {
+      "value" : "ell - Modern Greek (1453-)",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XV, 124 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PA265,\nLoC Subject Headings: Sandhi, Greek language--Phonology, Greek language--Parsing"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406238",
+    "name" : "greek_tserdanelis2005_s.pdf",
+    "creationDate" : "2010-04-01T13:33:31.025+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8F90-4",
+    "content" : "/rest/items/item_406239_4/component/file_406238/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7a1894f5427bc81cd32e188398821856",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 924363,
+    "metadata" : {
+      "title" : "greek_tserdanelis2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 924363
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2043515",
+    "name" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1104430793",
+    "creationDate" : "2014-07-22T08:01:09.212+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1104430793",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ce61ecca890a42cc191316e1740f26a1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1104430793",
+      "contentCategory" : "any-fulltext",
+      "description" : "OhioLINK, Electronic Theses & Dissertations Center, pdf",
+      "size" : 0
+    }
+  } ]
+}

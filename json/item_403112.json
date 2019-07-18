@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_403112",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-04-28T07:43:55.858+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-C2AF-5",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-28T07:43:55.858+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D30-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:55:51.886+0000",
+  "latestRelease" : {
+    "objectId" : "item_403112",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-28T07:43:55.858+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2AF-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403112",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-28T07:43:55.858+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-C2AF-5",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Parametric variation in clitic constructions",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Hagit",
+        "familyName" : "Borer",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1981",
+    "datePublishedInPrint" : "1981",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30955",
+      "type" : "OTHER"
+    }, {
+      "id" : "clitic_borer1981_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachusetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: P299, LoC Subject Headings: Grammar/Comparative and general--Clitics, LoC Subject Headings: Structural linguistics, LoC Subject Headings: Hebrew language, LoC Subject Headings: Generative grammar",
+    "subjects" : [ {
+      "value" : "heb - Hebrew",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "363 S."
+  },
+  "files" : [ {
+    "objectId" : "file_403111",
+    "name" : "clitic_borer1981_o.pdf",
+    "creationDate" : "2010-04-01T11:55:50.037+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D2F-B",
+    "content" : "/rest/items/item_403112_6/component/file_403111/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "498b76a3a715b5b7762d83ae34b76fa5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 19249127,
+    "metadata" : {
+      "title" : "clitic_borer1981_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 19249127,
+      "copyrightDate" : "2011-03-02",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  }, {
+    "objectId" : "file_2148941",
+    "name" : "http://hdl.handle.net/1721.1/15940",
+    "creationDate" : "2015-04-24T11:09:37.951+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/15940",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6bca4ba3b9bea9ccd7efe5de5e9b7323",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/15940",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

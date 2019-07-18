@@ -1,0 +1,120 @@
+{
+  "objectId" : "item_403561",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T23:20:55.966+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-70FF-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T23:20:55.966+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8020-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:42.264+0000",
+  "latestRelease" : {
+    "objectId" : "item_403561",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T23:20:55.966+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70FF-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403561",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T23:20:55.966+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-70FF-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The noun class system of Oroko east",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Shu Che, Abednego",
+        "givenName" : "Abednego Che",
+        "familyName" : "Shu ",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1993",
+    "datePublishedInPrint" : "1993",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31395",
+      "type" : "OTHER"
+    }, {
+      "id" : "oroko_shu1993_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Yaoundé",
+      "publisher" : "Université de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Bakundu-Balue language, LoC Subject Headings: Cameroon --Languages",
+    "subjects" : [ {
+      "value" : "bdu - Oroko",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xi, 72 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : bdu, Bakundu-Balue language, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403560",
+    "name" : "oroko_shu1993_o.pdf",
+    "creationDate" : "2010-04-01T12:19:41.880+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-801F-D",
+    "content" : "/rest/items/item_403561_4/component/file_403560/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "865d4710cda8b8ffe0e84987ffc9fee7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3590247,
+    "metadata" : {
+      "title" : "oroko_shu1993_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3590247,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

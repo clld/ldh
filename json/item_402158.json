@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_402158",
+  "versionNumber" : 5,
+  "modificationDate" : "2014-08-21T09:52:40.068+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0023-C1A1-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Stichwörter bereinigt",
+  "lastModificationDate" : "2014-08-21T09:52:40.068+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-778A-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:26:48.894+0000",
+  "latestRelease" : {
+    "objectId" : "item_402158",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-08-21T09:52:40.068+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C1A1-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402158",
+    "versionNumber" : 5,
+    "modificationDate" : "2014-08-21T09:52:40.068+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0023-C1A1-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Honorific predication in early middle Japanese : a critical survey with examples from the Ookagami",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Chihaya C.",
+        "familyName" : "Shibata",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1997",
+    "datePublishedInPrint" : "1997",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29241",
+      "type" : "OTHER"
+    }, {
+      "id" : "japanese_shibata1997_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Columbus]",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: PL641,\nLoC Subject Headings: Japanese language",
+    "subjects" : [ {
+      "value" : "jpn - Japanese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "X, 82 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL641,\nLoC Subject Headings: Japanese language--Honorific"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402157",
+    "name" : "japanese_shibata1997_o.pdf",
+    "creationDate" : "2010-04-01T11:26:48.637+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7789-2",
+    "content" : "/rest/items/item_402158_5/component/file_402157/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9730be85d852cf99fe06e48c0f7aef8a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2087890,
+    "metadata" : {
+      "title" : "japanese_shibata1997_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2087890
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2033933",
+    "name" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1116609758",
+    "creationDate" : "2014-06-18T11:35:15.709+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1116609758",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "0c94c2f12577e81c4a9199bfd93179c9",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1116609758",
+      "contentCategory" : "publisher-version",
+      "description" : "OhioLINK, Electronic Theses & Dissertations Center, pdf",
+      "size" : 0
+    }
+  } ]
+}

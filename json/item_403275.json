@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403275",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-14T08:09:25.770+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B22F-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert, Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-14T08:09:25.770+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7E22-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:07:15.668+0000",
+  "latestRelease" : {
+    "objectId" : "item_403275",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-14T08:09:25.770+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B22F-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403275",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-14T08:09:25.770+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B22F-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Analyses of negation in English",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Howard",
+        "familyName" : "Lasnik",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1972",
+    "datePublishedInPrint" : "1972",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31121",
+      "type" : "OTHER"
+    }, {
+      "id" : "negation_lasnik1972_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "MIT"
+    },
+    "freeKeywords" : "LoC Class: P291 .M8, LoC Subject Headings: English language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "168 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: P291 .M8, LoC Subject Headings: English language -- Negatives, LoC Subject Headings: English language -- Syntax"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403274",
+    "name" : "negation_lasnik1972_o.pdf",
+    "creationDate" : "2010-04-01T12:07:14.777+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7E21-3",
+    "content" : "/rest/items/item_403275_4/component/file_403274/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2f47a4d2cfb8fbdc94433c07503c3c53",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8956214,
+    "metadata" : {
+      "title" : "negation_lasnik1972_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8956214
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2144415",
+    "name" : "http://hdl.handle.net/1721.1/12984",
+    "creationDate" : "2015-04-14T08:08:58.055+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/12984",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "adc18353492097d09d33855fdf9d4057",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/12984",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

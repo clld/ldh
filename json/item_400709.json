@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_400709",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-17T11:18:21.957+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7884-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-03-17T11:18:21.957+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6F19-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:57:21.620+0000",
+  "latestRelease" : {
+    "objectId" : "item_400709",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-17T11:18:21.957+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7884-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400709",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-17T11:18:21.957+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7884-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario Amahuaca",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Sylvia",
+        "familyName" : "Hyde",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1980",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "23981",
+      "type" : "OTHER"
+    }, {
+      "id" : "amahuaca_hyde1980_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "amc", "spa" ],
+    "publishingInfo" : {
+      "edition" : "ed. preliminar",
+      "place" : "Yarinacocha, Perú",
+      "publisher" : "Instituto Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Serie Lingüística peruana",
+      "volume" : "7",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5388.Z5, LoC Subject Headings: Amahuaca language",
+    "subjects" : [ {
+      "value" : "amc - Amahuaca",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "154 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM5388.Z5, LoC Subject Headings: Amahuaca language--Dictionaries--Spanish, LoC Subject Headings: Spanish language--Dictionaries--Amahuaca"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_400708",
+    "name" : "amahuaca_hyde1980_o.pdf",
+    "creationDate" : "2010-04-01T10:57:20.838+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F18-E",
+    "content" : "/rest/items/item_400709_4/component/file_400708/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "04594dcbfc69746d7f1201e0406794a7",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7485674,
+    "metadata" : {
+      "title" : "amahuaca_hyde1980_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7485674
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2116540",
+    "name" : "http://www.peru.sil.org/resources/archives/29823",
+    "creationDate" : "2015-03-17T11:17:21.600+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.peru.sil.org/resources/archives/29823",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "dfaba778bf99017e759f17ec5201db2d",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.peru.sil.org/resources/archives/29823",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Peru, Archives, pdf download",
+      "size" : 0
+    }
+  } ]
+}

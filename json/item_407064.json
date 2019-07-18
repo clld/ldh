@@ -1,0 +1,126 @@
+{
+  "objectId" : "item_407064",
+  "versionNumber" : 6,
+  "modificationDate" : "2014-01-09T13:52:02.484+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-D1E9-1",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "bibliografische Angaben korrigiert",
+  "lastModificationDate" : "2014-01-09T13:52:02.484+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-942E-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:53:26.227+0000",
+  "latestRelease" : {
+    "objectId" : "item_407064",
+    "versionNumber" : 6,
+    "modificationDate" : "2014-01-09T13:52:02.484+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-D1E9-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407064",
+    "versionNumber" : 6,
+    "modificationDate" : "2014-01-09T13:52:02.484+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-D1E9-1",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Strukturkurs Neupersisch : SoSe 2009",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Peter-Arnold",
+        "familyName" : "Mumm",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedOnline" : "2009",
+    "genre" : "PAPER",
+    "languages" : [ "deu" ],
+    "freeKeywords" : "LoC Class: PK6201, LoC Subject Headings: Persian language",
+    "subjects" : [ {
+      "value" : "pes - Farsi, Western",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "71 S.",
+    "abstracts" : [ {
+      "value" : "Kursmaterial Stand: Januar 2009"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_547632",
+    "name" : "http://www.ats.uni-muenchen.de/personen/privatdozenten/mumm/publikationen/index.html",
+    "creationDate" : "2010-11-29T08:22:43.449+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-D1EA-0",
+    "content" : "http://www.ats.uni-muenchen.de/personen/privatdozenten/mumm/publikationen/index.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a21c3d5a2a1bbcc802927ce3b58cf72d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ats.uni-muenchen.de/personen/privatdozenten/mumm/publikationen/index.html",
+      "contentCategory" : "publisher-version",
+      "description" : "Homepage PD Dr. Peter-Arnold Mumm , LMU München",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_1896624",
+    "name" : "neupersisch_mumm2009_o.pdf",
+    "creationDate" : "2014-01-09T13:50:54.238+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-D1EC-C",
+    "content" : "/rest/items/item_407064_6/component/file_1896624/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "36e24b0e84817a88d493498e812aa8c6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2340539,
+    "metadata" : {
+      "title" : "neupersisch_mumm2009_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "Kursmaterial",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2340539
+    }
+  } ]
+}

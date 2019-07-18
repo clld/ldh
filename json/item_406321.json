@@ -1,0 +1,128 @@
+{
+  "objectId" : "item_406321",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T19:47:13.227+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F66-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:47:13.227+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9003-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:35:31.397+0000",
+  "latestRelease" : {
+    "objectId" : "item_406321",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T19:47:13.227+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F66-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406321",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T19:47:13.227+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F66-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Diccionario Inga",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Francisco",
+        "familyName" : "Tandioy Jansasoy",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1997",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "36693",
+      "type" : "OTHER"
+    }, {
+      "id" : "inga_jansasoy1997_s.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Pasto, Colombia",
+      "publisher" : "Comité de Educación Inga de la Organización\n              Musu Runakuna"
+    },
+    "freeKeywords" : "LoC Class: PM6221, LoC Subject Headings: Inga language, LoC Subject Headings: Colombia--Languages",
+    "totalNumberOfPages" : "IV, 171 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406319",
+    "name" : "http://www.sil.org/americas/colombia/pubs/inb/48151.pdf",
+    "creationDate" : "2010-04-01T13:35:31.049+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/americas/colombia/pubs/inb/48151.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "480b8caa98d8182be51e22476cd9f031",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/colombia/pubs/inb/48151.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406320",
+    "name" : "inga_jansasoy1997_s.pdf",
+    "creationDate" : "2010-04-01T13:35:31.222+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9002-C",
+    "content" : "/rest/items/item_406321_3/component/file_406320/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "dc10951b4261a34659149ca9a269f44d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 856170,
+    "metadata" : {
+      "title" : "inga_jansasoy1997_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 856170
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

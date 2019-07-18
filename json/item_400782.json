@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_400782",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T17:09:10.208+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6E26-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T17:09:10.208+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6F7D-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:59:09.242+0000",
+  "latestRelease" : {
+    "objectId" : "item_400782",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:09:10.208+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E26-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400782",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T17:09:10.208+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6E26-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Gramática descritiva da lingua Nambikuára",
+    "alternativeTitles" : [ {
+      "value" : "A descriptive grammar of Nambikuara"
+    } ],
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Kroeker, Menno H.",
+        "givenName" : "Menno H.",
+        "familyName" : "Kroeker",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2003",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "24195",
+      "type" : "OTHER"
+    }, {
+      "id" : "nambikuara_kroeker2001_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "1a ed. em português",
+      "place" : "Cuiabá",
+      "publisher" : "Soc. Internacional de Lingüística"
+    },
+    "freeKeywords" : "LoC Class: PM6643, LoC Subject Headings: Nambicuara language--Textbooks for foreign speakers--Portuguese, LoC Subject Headings: Nambicuara language--Grammar",
+    "subjects" : [ {
+      "value" : "nab - Nambikuára, Southern",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "121 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400780",
+    "name" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/NBGram.pdf",
+    "creationDate" : "2010-04-01T10:59:06.162+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F7B-0",
+    "content" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/NBGram.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "8c2f5930172526f4d45557856050669c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/NBGram.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_400781",
+    "name" : "nambikuara_kroeker2001_s.pdf",
+    "creationDate" : "2010-04-01T10:59:09.133+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6F7C-E",
+    "content" : "/rest/items/item_400782_3/component/file_400781/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "8c2f5930172526f4d45557856050669c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 365747,
+    "metadata" : {
+      "title" : "nambikuara_kroeker2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 365747
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_406535",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:49:23.119+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-912C-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:49:23.119+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-912C-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:40:24.082+0000",
+  "latestRelease" : {
+    "objectId" : "item_406535",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:49:23.119+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-912C-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406535",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:49:23.119+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-912C-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Structured nominal and modal reference",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Brasoveanu, Adrian",
+        "givenName" : "Adrian",
+        "familyName" : "Brasoveanu",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2007",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37224",
+      "type" : "OTHER"
+    }, {
+      "id" : "nominal_brasoveanu2007_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "New Jersey",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: P291,\nLoC Subject Headings: Reference (Linguistics)",
+    "totalNumberOfPages" : "XIII, 365 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406533",
+    "name" : "http://abrsvn.googlepages.com/diss.html",
+    "creationDate" : "2010-04-01T13:40:22.462+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-912A-A",
+    "content" : "http://abrsvn.googlepages.com/diss.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "dd43e101ed8887f80ee7996623b568b5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://abrsvn.googlepages.com/diss.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406534",
+    "name" : "nominal_brasoveanu2007_s.pdf",
+    "creationDate" : "2010-04-01T13:40:23.807+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-912B-8",
+    "content" : "/rest/items/item_406535_2/component/file_406534/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7f9412a139dc277cb2ee5d2697304915",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2183422,
+    "metadata" : {
+      "title" : "nominal_brasoveanu2007_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2183422
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

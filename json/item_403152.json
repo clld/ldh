@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403152",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-04-21T07:25:38.098+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA22-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-04-21T07:25:38.098+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7D6A-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:58:52.669+0000",
+  "latestRelease" : {
+    "objectId" : "item_403152",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-21T07:25:38.098+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA22-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403152",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-04-21T07:25:38.098+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA22-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Topics in Ewe syntax",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Christopher Thad",
+        "familyName" : "Collins",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1993",
+    "datePublishedInPrint" : "1993",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31048",
+      "type" : "OTHER"
+    }, {
+      "id" : "ewe_collins1993_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Cambridge",
+      "publisher" : "Massachussetts Inst. of Technology"
+    },
+    "freeKeywords" : "LoC Class: PL8162, LoC Subject Headings: Ewe language",
+    "subjects" : [ {
+      "value" : "ewe - Éwé",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "202 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8162,\nLoC Subject Headings: Ewe language--Syntax"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403151",
+    "name" : "ewe_collins1993_o.pdf",
+    "creationDate" : "2010-04-01T11:58:51.567+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7D69-7",
+    "content" : "/rest/items/item_403152_3/component/file_403151/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "25e1fa61dac6b9fe55018e039d6e5a04",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 11301677,
+    "metadata" : {
+      "title" : "ewe_collins1993_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 11301677
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147240",
+    "name" : "http://hdl.handle.net/1721.1/12496",
+    "creationDate" : "2015-04-21T07:24:58.603+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/1721.1/12496",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "46de5beeeb5a73e469284cf78de31e5c",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/1721.1/12496",
+      "contentCategory" : "publisher-version",
+      "description" : "MIT, DSpace, pdf download",
+      "size" : 0
+    }
+  } ]
+}

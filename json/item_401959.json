@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_401959",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:48:16.076+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7651-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:48:16.076+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7651-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:23:40.316+0000",
+  "latestRelease" : {
+    "objectId" : "item_401959",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:48:16.076+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7651-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401959",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:48:16.076+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7651-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Estructura de la narracion en Achual",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Fast Mowitz, F. Gerhard",
+        "givenName" : "Fast",
+        "familyName" : "Mowitz",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1975",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "28832",
+      "type" : "OTHER"
+    }, {
+      "id" : "achual_mowitz1975_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Lima, Peru",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Datos etno-lingüísticos",
+      "volume" : "6",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5318.Z5,\nLoC Subject Headings: Achuar language",
+    "subjects" : [ {
+      "value" : "acu - Achuar-Shiwiar",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "55 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401957",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3399",
+    "creationDate" : "2010-04-01T11:23:38.921+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-764F-C",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3399",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "650ade52cb45469453ad12f2c00c1675",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3399",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401958",
+    "name" : "achual_mowitz1975_o.pdf",
+    "creationDate" : "2010-04-01T11:23:40.014+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7650-6",
+    "content" : "/rest/items/item_401959_2/component/file_401958/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "89b36e756920b106dc3df94b473b4f7c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2306791,
+    "metadata" : {
+      "title" : "achual_mowitz1975_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2306791
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

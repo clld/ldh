@@ -1,0 +1,150 @@
+{
+  "objectId" : "item_404971",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:46:29.492+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8894-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:46:29.492+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8894-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:51:59.660+0000",
+  "latestRelease" : {
+    "objectId" : "item_404971",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:46:29.492+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8894-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404971",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:46:29.492+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8894-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Bolivian Indian grammars : one ; Baure, Ignaciano, Tacana, Eseejja, Chacobo",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Matteson, Esther",
+        "givenName" : "Esther",
+        "familyName" : "Matteson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1967",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34098",
+      "type" : "OTHER"
+    }, {
+      "id" : "bolivian_matteson1967_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Norman",
+      "publisher" : "Summer Inst. of Linguistics of the Univ. of\n              Oklahoma"
+    },
+    "sources" : [ {
+      "title" : "Summer Institute of Linguistics Publications in linguistics and related fields",
+      "volume" : "16",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5131,\nLoC Subject Headings: Indians of South America -- Bolivia -- Languages",
+    "subjects" : [ {
+      "value" : "brg - Baure",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "ign - Ignaciano",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "tna - Tacana",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "ese - Ese Ejja",
+      "type" : "ISO639_3"
+    }, {
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404969",
+    "name" : "http://www.ethnologue.com/show_work.asp?id=10029",
+    "creationDate" : "2010-04-01T12:51:57.716+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8892-1",
+    "content" : "http://www.ethnologue.com/show_work.asp?id=10029",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6a64c129581fe9b5bb3209943358a407",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.ethnologue.com/show_work.asp?id=10029",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404970",
+    "name" : "bolivian_matteson1967_o.pdf",
+    "creationDate" : "2010-04-01T12:51:58.957+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8893-0",
+    "content" : "/rest/items/item_404971_2/component/file_404970/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c8100de0c735e68af501a07758f04663",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6982315,
+    "metadata" : {
+      "title" : "bolivian_matteson1967_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6982315
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

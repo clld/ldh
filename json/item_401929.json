@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_401929",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:16:56.611+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7625-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:16:56.611+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7625-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:22:56.144+0000",
+  "latestRelease" : {
+    "objectId" : "item_401929",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:16:56.611+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7625-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_401929",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:16:56.611+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7625-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Language systems and discourse structure in Cashinawa",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Cromack, Robert Earl",
+        "givenName" : "Robert Earl",
+        "familyName" : "Cromack",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1968",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "28709",
+      "type" : "OTHER"
+    }, {
+      "id" : "cashinawa_cromack1968_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ann Arbor",
+      "publisher" : "UMI"
+    },
+    "freeKeywords" : "LoC Class: PM6290.K3,\nLoC Subject Headings: Cashinawa language",
+    "subjects" : [ {
+      "value" : "cbs - Cashinahua",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xviii, 381 S."
+  },
+  "files" : [ {
+    "objectId" : "file_401927",
+    "name" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3385",
+    "creationDate" : "2010-04-01T11:22:53.790+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7623-C",
+    "content" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3385",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c4c0b10c9f808567d559d09b4b1fdbd6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3385",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_401928",
+    "name" : "cashinawa_cromack1968_o.pdf",
+    "creationDate" : "2010-04-01T11:22:54.421+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7624-A",
+    "content" : "/rest/items/item_401929_2/component/file_401928/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "d45f02ff0b4f829b347394a2dfdd7400",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 17360112,
+    "metadata" : {
+      "title" : "cashinawa_cromack1968_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 17360112
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

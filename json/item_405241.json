@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_405241",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-01-16T14:28:56.765+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-9309-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-01-16T14:28:56.765+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8A0A-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:04:35.772+0000",
+  "latestRelease" : {
+    "objectId" : "item_405241",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-16T14:28:56.765+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-9309-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405241",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-01-16T14:28:56.765+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-9309-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of the dialect of Kendal (Westmoreland) : descriptive amd historical ; with speciments and a glossary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Tom Oakes",
+        "familyName" : "Hirst",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1906",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34411",
+      "type" : "OTHER"
+    }, {
+      "id" : "kendal_hirst1906_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Heidelberg",
+      "publisher" : "Winter"
+    },
+    "freeKeywords" : "LoC Class: PE2066.A6,\nLoC Subject Headings: English language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "170 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PE2066,\nLoC Subject Headings: English language--Dialects--England--Westmoreland, English language--Dialects--England--Kendal"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405240",
+    "name" : "kendal_hirst1906_o.pdf",
+    "creationDate" : "2010-04-01T13:04:33.419+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8A09-9",
+    "content" : "/rest/items/item_405241_3/component/file_405240/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "17f7a69c6535d6013a129923850322eb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 24935320,
+    "metadata" : {
+      "title" : "kendal_hirst1906_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 24935320,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_2083575",
+    "name" : "https://archive.org/details/agrammardialect00hirsgoog",
+    "creationDate" : "2015-01-16T14:28:26.892+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/agrammardialect00hirsgoog",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9ee02e0254f01ed1c82b462320fa8068",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/agrammardialect00hirsgoog",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, view online",
+      "size" : 0
+    }
+  } ]
+}

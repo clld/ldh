@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_406482",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-05-31T10:55:28.496+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-90DF-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:55:28.496+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-90DF-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:39:03.482+0000",
+  "latestRelease" : {
+    "objectId" : "item_406482",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T10:55:28.496+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-90DF-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406482",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-05-31T10:55:28.496+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-90DF-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Modeling temporal progression in Mandarin : aspect markers and temporal relations",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Jiun-shiung",
+        "familyName" : "Wu",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37158",
+      "type" : "OTHER"
+    }, {
+      "id" : "mandarin_wu2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Austin",
+      "publisher" : "Tex. "
+    },
+    "freeKeywords" : "LoC Subject Headings: Chinese language",
+    "subjects" : [ {
+      "value" : "cmn - Mandarin Chinese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XVIII, 475 S.",
+    "abstracts" : [ {
+      "value" : "PL1235, ISO 639-3 : cmn, Chinese language -- Temporal constructions, Chinese language -- Semantics"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406480",
+    "name" : "http://repositories.tdl.org/tdl/handle/2152/1277",
+    "creationDate" : "2010-04-01T13:39:02.011+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-90DD-2",
+    "content" : "http://repositories.tdl.org/tdl/handle/2152/1277",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "40f4888a75838297bcfebee1355ee92c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://repositories.tdl.org/tdl/handle/2152/1277",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406481",
+    "name" : "mandarin_wu2003_s.pdf",
+    "creationDate" : "2010-04-01T13:39:03.274+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-90DE-F",
+    "content" : "/rest/items/item_406482_4/component/file_406481/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f7e0516bcaad6f31e2abaf1f5b5a758f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1520550,
+    "metadata" : {
+      "title" : "mandarin_wu2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1520550,
+      "copyrightDate" : "2010-10-23",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

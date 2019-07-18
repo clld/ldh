@@ -1,0 +1,120 @@
+{
+  "objectId" : "item_403517",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T09:56:39.101+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7FC1-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:56:39.101+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7FC1-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:13.640+0000",
+  "latestRelease" : {
+    "objectId" : "item_403517",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:56:39.101+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7FC1-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403517",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T09:56:39.101+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7FC1-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The Mmen noun phrase",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Bangha, George F.",
+        "givenName" : "George F.",
+        "familyName" : "Bangha",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31331",
+      "type" : "OTHER"
+    }, {
+      "id" : "mmen_bangha2003_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Yaoundé",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon --Languages",
+    "subjects" : [ {
+      "value" : "bfm - Mmen",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "x, 97 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : bfm, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403516",
+    "name" : "mmen_bangha2003_o.pdf",
+    "creationDate" : "2010-04-01T12:19:13.345+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7FC0-8",
+    "content" : "/rest/items/item_403517_3/component/file_403516/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9b5d9bc5a0152fc8f56b47aa9f237991",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2549493,
+    "metadata" : {
+      "title" : "mmen_bangha2003_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2549493,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

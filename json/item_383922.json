@@ -1,0 +1,146 @@
+{
+  "objectId" : "item_383922",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-06-21T08:35:52.638+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6829-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-21T08:35:52.638+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6829-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-03-05T21:50:39.769+0000",
+  "latestRelease" : {
+    "objectId" : "item_383922",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-06-21T08:35:52.638+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6829-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_383922",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-06-21T08:35:52.638+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6829-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "Linglit Import 3 2010-03-05 17:04" ],
+  "metadata" : {
+    "title" : "Acateco de la frontera sur",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Zavala Maldonado, Roberto",
+        "givenName" : "Roberto",
+        "familyName" : "Zavala Maldonado",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1992",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "41884",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "sources" : [ {
+      "title" : "Archivo de lenguas indígenas de México ",
+      "alternativeTitles" : [ { } ],
+      "volume" : "17",
+      "publishingInfo" : {
+        "place" : "México",
+        "publisher" : "El Colegio de México"
+      },
+      "identifiers" : [ {
+        "id" : "2256449-4",
+        "type" : "ZDB"
+      } ],
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Akatek language",
+    "subjects" : [ {
+      "value" : "knj - Akateko",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "275 S.",
+    "abstracts" : [ {
+      "value" : "PM3512, Akatek language--Mexico, Mayan languages--Dialects--Mexico"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_383920",
+    "name" : "http://www.colmex.mx/alim/coleccion.html",
+    "creationDate" : "2010-03-05T21:50:38.634+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6827-4",
+    "content" : "http://www.colmex.mx/alim/coleccion.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.colmex.mx/alim/coleccion.html",
+      "contentCategory" : "publisher-version",
+      "description" : "Archivo de Lenguas Indígenas de México, El Colegio de México",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_383921",
+    "name" : "acateco_maldonado1992_o.pdf",
+    "creationDate" : "2010-03-05T21:50:39.130+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6828-2",
+    "content" : "/rest/items/item_383922_5/component/file_383921/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "440107464aadba1c4ff0951790ffe739",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6336249,
+    "metadata" : {
+      "title" : "acateco_maldonado1992_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6336249,
+      "copyrightDate" : "2010-01-07",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

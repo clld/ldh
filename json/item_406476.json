@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_406476",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T20:57:36.493+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FFD-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:57:36.493+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-90D7-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:38:59.652+0000",
+  "latestRelease" : {
+    "objectId" : "item_406476",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:57:36.493+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FFD-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406476",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:57:36.493+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FFD-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Ainore Boe egore : um estudo descritivo da língua bororo e conseqüências para a teoria de caso e concordância",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Nonato, Rafael Bezerra",
+        "givenName" : "Rafael Bezerra",
+        "familyName" : "Nonato",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2008",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37156",
+      "type" : "OTHER"
+    }, {
+      "id" : "bororo_nonato2008_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Campinas",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PM5636, LoC Subject Headings: Bororo language (Brazil), LoC Subject Headings: Khaling language",
+    "subjects" : [ {
+      "value" : "bor - Borôro",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "bra - Braj",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "360 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406474",
+    "name" : "http://libdigi.unicamp.br/document/?code=vtls000432270",
+    "creationDate" : "2010-04-01T13:38:58.180+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://libdigi.unicamp.br/document/?code=vtls000432270",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "76d0985b0b5e20e860158df485cf7053",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://libdigi.unicamp.br/document/?code=vtls000432270",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406475",
+    "name" : "bororo_nonato2008_o.pdf",
+    "creationDate" : "2010-04-01T13:38:59.406+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-90D6-0",
+    "content" : "/rest/items/item_406476_3/component/file_406475/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ac1ffea1c860a0e1f0ea4cadad8dfe8f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1904841,
+    "metadata" : {
+      "title" : "bororo_nonato2008_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1904841
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

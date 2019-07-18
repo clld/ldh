@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_407186",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:36:53.181+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-94D6-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:36:53.181+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-94D6-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:59:00.051+0000",
+  "latestRelease" : {
+    "objectId" : "item_407186",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:36:53.181+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-94D6-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407186",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:36:53.181+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-94D6-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Tokelauan syntax : studies in the sentence structure of a Polynesian language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Peter R.",
+        "familyName" : "Sharples",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1976",
+    "datePublishedInPrint" : "1976",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37765",
+      "type" : "OTHER"
+    }, {
+      "id" : "tokelauan_sharples1976_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Auckland",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PL6521,\nLoC Subject Headings: Tokelauan language",
+    "subjects" : [ {
+      "value" : "tkl - Tokelau",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xvii, 377 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407184",
+    "name" : "http://researchspace.auckland.ac.nz/handle/2292/2288",
+    "creationDate" : "2010-04-01T13:58:49.978+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-94D4-E",
+    "content" : "http://researchspace.auckland.ac.nz/handle/2292/2288",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "5be1d57d8a0b3bbb872ee27afaa85910",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://researchspace.auckland.ac.nz/handle/2292/2288",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407185",
+    "name" : "tokelauan_sharples1976_o.pdf",
+    "creationDate" : "2010-04-01T13:58:51.644+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-94D5-C",
+    "content" : "/rest/items/item_407186_2/component/file_407185/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f8f3719fb0c84bd21449f0b5dbaf8b1b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 86658012,
+    "metadata" : {
+      "title" : "tokelauan_sharples1976_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 86658012
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

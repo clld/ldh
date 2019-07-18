@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_404396",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T10:16:21.463+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-853B-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:16:21.463+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-853B-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:40:47.586+0000",
+  "latestRelease" : {
+    "objectId" : "item_404396",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:16:21.463+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-853B-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404396",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:16:21.463+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-853B-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Information structure in Acadian French",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Emma",
+        "familyName" : "Pavey",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedInPrint" : "2001",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "33189",
+      "type" : "OTHER"
+    }, {
+      "id" : "acadian_pavey2001_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Grand Forks",
+      "publisher" : "North Dakota"
+    },
+    "freeKeywords" : "LoC Subject Headings: French language",
+    "subjects" : [ {
+      "value" : "fra - French",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VI, 54 S.",
+    "abstracts" : [ {
+      "value" : "PC3645.M35, ISO 639-3 : fra, French language -- Spoken French -- Manitoba, French language -- Manitoba -- Syntax, Acadians -- Manitoba"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404394",
+    "name" : "http://www.und.nodak.edu/dept/linguistics/theses/2001Pavey.PDF",
+    "creationDate" : "2010-04-01T12:40:46.262+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8539-3",
+    "content" : "http://www.und.nodak.edu/dept/linguistics/theses/2001Pavey.PDF",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9f0f00d42fe36b5cf8ffd692d5f19ed5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.und.nodak.edu/dept/linguistics/theses/2001Pavey.PDF",
+      "contentCategory" : "publisher-version",
+      "description" : "University of North Dakota, Summer Institute of Linguistics",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404395",
+    "name" : "acadian_pavey2001_s.pdf",
+    "creationDate" : "2010-04-01T12:40:47.496+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-853A-1",
+    "content" : "/rest/items/item_404396_3/component/file_404395/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0963353e6d5268b4ad91d1e3ae05036a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 223109,
+    "metadata" : {
+      "title" : "acadian_pavey2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 223109,
+      "copyrightDate" : "2010-06-10",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

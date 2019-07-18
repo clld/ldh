@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_404193",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-10T09:18:26.083+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-0AC4-D",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz akutalisiert",
+  "lastModificationDate" : "2015-03-10T09:18:26.083+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8415-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:37:04.676+0000",
+  "latestRelease" : {
+    "objectId" : "item_404193",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T09:18:26.083+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0AC4-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404193",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-10T09:18:26.083+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-0AC4-D",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The subject function in cantonese",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "On Man",
+        "familyName" : "Lee",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "32461",
+      "type" : "OTHER"
+    }, {
+      "id" : "cantonese_lee2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Hongkong",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: PL1733, LoC Subject Headings: Cantonese dialects",
+    "subjects" : [ {
+      "value" : "yue - Chinese, Yue",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "IX, 114 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL1733,\nLoC Subject Headings: Cantonese dialects -- Subjectless constructions, Cantonese dialects -- Syntax"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404192",
+    "name" : "cantonese_lee2003_s.pdf",
+    "creationDate" : "2010-04-01T12:37:04.483+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8414-E",
+    "content" : "/rest/items/item_404193_3/component/file_404192/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b94919ca7fe820f3653f7517b0bd318a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1363299,
+    "metadata" : {
+      "title" : "cantonese_lee2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1363299
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110500",
+    "name" : "http://hub.hku.hk/handle/10722/30824",
+    "creationDate" : "2015-03-10T09:17:48.318+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hub.hku.hk/handle/10722/30824",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "608de2f4e0901475d077ae0a5ab26be2",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hub.hku.hk/handle/10722/30824",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Hong Kong, The HKU Scholars Hub, Theses, pdf download",
+      "size" : 0
+    }
+  } ]
+}

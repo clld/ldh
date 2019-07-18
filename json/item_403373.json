@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_403373",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-06-19T09:48:01.708+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-C19B-F",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "ISO-Code ergänzt",
+  "lastModificationDate" : "2014-06-19T09:48:01.708+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7EB0-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:17:32.629+0000",
+  "latestRelease" : {
+    "objectId" : "item_403373",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-19T09:48:01.708+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-C19B-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403373",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-19T09:48:01.708+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-C19B-F",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Thavung phonology at Muang Khamkert, Bolikhamxai Province, Lao P.D.R.",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Nuchanart",
+        "familyName" : "Waiyanont",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1998",
+    "datePublishedInPrint" : "1998",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31192",
+      "type" : "OTHER"
+    }, {
+      "id" : "muang_nuchanart1998_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "974-661-793-1",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Nakhon Pathom",
+      "publisher" : "Mahidol Univ."
+    },
+    "subjects" : [ {
+      "value" : "thm - Aheu",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403371",
+    "name" : "http://archives.sealang.net/mahidol",
+    "creationDate" : "2010-04-01T12:17:31.925+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-C19C-D",
+    "content" : "http://archives.sealang.net/mahidol",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "86fa3379c3cfd9ea6e00bb37274e97b0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://archives.sealang.net/mahidol",
+      "contentCategory" : "publisher-version",
+      "description" : "Sealang archives, Diss. from Mahidol Univ., Nuchanart Waiyanot, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403372",
+    "name" : "muang_nuchanart1998_o.pdf",
+    "creationDate" : "2010-04-01T12:17:32.290+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7EAF-9",
+    "content" : "/rest/items/item_403373_3/component/file_403372/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "abfcb8edcf791d01f90591b63b018155",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2967843,
+    "metadata" : {
+      "title" : "muang_nuchanart1998_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2967843
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

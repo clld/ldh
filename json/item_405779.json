@@ -1,0 +1,141 @@
+{
+  "objectId" : "item_405779",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-03-12T21:00:51.924+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7005-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T21:00:51.924+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8D07-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:20:33.092+0000",
+  "latestRelease" : {
+    "objectId" : "item_405779",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-12T21:00:51.924+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7005-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405779",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-03-12T21:00:51.924+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7005-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "On the relation between formal markedness and functional specialization : a descriptive analysis of Peripheral Phenomena in English and Japanese",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Hiroaki",
+        "familyName" : "Konno",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2005",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35377",
+      "type" : "OTHER"
+    }, {
+      "id" : "english_konno2005_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng", "jpn" ],
+    "publishingInfo" : {
+      "place" : "Tsukuba",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: P299.M35, LoC Subject Headings: English language, LoC Subject Headings: Japanese language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "jpn - Japanese",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "IX, 198 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: P299.M35, LoC Subject Headings: English language--Markedness, Japanese language-Markedness"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405778",
+    "name" : "english_konno2005_s.pdf",
+    "creationDate" : "2010-04-01T13:20:32.936+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8D06-A",
+    "content" : "/rest/items/item_405779_6/component/file_405778/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "453740a880abee2968a8c48004300fe2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 936671,
+    "metadata" : {
+      "title" : "english_konno2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 936671,
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/"
+    }
+  }, {
+    "objectId" : "file_2039822",
+    "name" : "http://hdl.handle.net/2241/6271",
+    "creationDate" : "2014-07-10T08:29:49.615+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://hdl.handle.net/2241/6271",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c2bc640f7723dea90fba5f0bf6f89e7b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/2241/6271",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. of Tsukuba, Library, Tukips, pdf",
+      "size" : 0
+    }
+  } ]
+}

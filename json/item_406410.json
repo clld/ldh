@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_406410",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-12T20:53:07.458+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FF6-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:53:07.458+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-907F-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:37:37.970+0000",
+  "latestRelease" : {
+    "objectId" : "item_406410",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T20:53:07.458+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FF6-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406410",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-12T20:53:07.458+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FF6-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Die Pima-Sprache und die Sprache der Koloschen",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Johann Karl Eduard",
+        "familyName" : "Buschmann",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1857",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "36879",
+      "type" : "OTHER"
+    }, {
+      "id" : "pima_buschmann1857_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "sources" : [ {
+      "title" : "Die Spuren der aztekischen Sprache im nördlichen Mexico und höheren amerikanischen Norden aufgesucht von Joh. Carl Ed. Buschmann",
+      "volume" : "2.2",
+      "publishingInfo" : {
+        "place" : "Berlin",
+        "publisher" : "N.A."
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM2171, LoC Subject Headings: Pima language, LoC Subject Headings: Tlingit language --Dictionaries",
+    "subjects" : [ {
+      "value" : "pia - Pima Bajo",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "tli - Tlingit",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "432"
+  },
+  "files" : [ {
+    "objectId" : "file_406408",
+    "name" : "http://bibliothek.bbaw.de/bibliothek-digital/digitalequellen/schriften/anzeige?band=07-abh/1856&seite:int=00000867",
+    "creationDate" : "2010-04-01T13:37:37.320+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://bibliothek.bbaw.de/bibliothek-digital/digitalequellen/schriften/anzeige?band=07-abh/1856&seite:int=00000867",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6b4a45d05f20b1a1b01d805665598322",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://bibliothek.bbaw.de/bibliothek-digital/digitalequellen/schriften/anzeige?band=07-abh/1856&seite:int=00000867",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406409",
+    "name" : "pima_buschmann1857_o.pdf",
+    "creationDate" : "2010-04-01T13:37:37.469+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-907E-5",
+    "content" : "/rest/items/item_406410_5/component/file_406409/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e6cf5bf3e9cf737dddce1cb884c4d9c8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4751714,
+    "metadata" : {
+      "title" : "pima_buschmann1857_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4751714
+    }
+  } ]
+}

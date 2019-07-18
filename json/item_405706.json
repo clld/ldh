@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_405706",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-10T07:09:16.160+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-E41B-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisert",
+  "lastModificationDate" : "2014-07-10T07:09:16.160+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8C9F-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:18:57.441+0000",
+  "latestRelease" : {
+    "objectId" : "item_405706",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-10T07:09:16.160+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-E41B-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405706",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-10T07:09:16.160+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-E41B-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Argument structure, HPSG and Chinese grammar",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Quian",
+        "familyName" : "Gao",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2000",
+    "datePublishedInPrint" : "2000",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35308",
+      "type" : "OTHER"
+    }, {
+      "id" : "chinese_gao2000_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: PL1235,\nLoC Subject Headings: Chinese language",
+    "totalNumberOfPages" : "XI, 269 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL1235,\nLoC Subject Headings: Chinese language--Verb, Chinese language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405705",
+    "name" : "chinese_gao2000_o.pdf",
+    "creationDate" : "2010-04-01T13:18:56.584+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8C9E-F",
+    "content" : "/rest/items/item_405706_3/component/file_405705/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4ca217422b321d772a54145b6ddcdfec",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8643852,
+    "metadata" : {
+      "title" : "chinese_gao2000_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8643852
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2039802",
+    "name" : "http://linguistics.osu.edu/sites/linguistics.osu.edu/files/dissertations/Gao2000.pdf",
+    "creationDate" : "2014-07-10T07:07:42.796+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-E41D-8",
+    "content" : "http://linguistics.osu.edu/sites/linguistics.osu.edu/files/dissertations/Gao2000.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c950f9e32c7e7e0008d95ab0cc293bb3",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://linguistics.osu.edu/sites/linguistics.osu.edu/files/dissertations/Gao2000.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "Ohio State Univ., Dep. of Linguistics, Dissertations, direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

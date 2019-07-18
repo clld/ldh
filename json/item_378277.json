@@ -1,0 +1,112 @@
+{
+  "objectId" : "item_378277",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-06-21T08:43:49.647+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-6789-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-21T08:43:49.647+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6789-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-03-05T19:08:45.648+0000",
+  "latestRelease" : {
+    "objectId" : "item_378277",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-06-21T08:43:49.647+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6789-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_378277",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-06-21T08:43:49.647+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-6789-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "Linglit Import 3 2010-03-05 17:04" ],
+  "metadata" : {
+    "title" : "Strong linearity : three case studies towards a theory of morphosyntactic templatic constructions",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Good, Jeffrey Craig",
+        "givenName" : "Jeffrey Craig",
+        "familyName" : "Good",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29463",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "subjects" : [ {
+      "value" : "che - Chechen",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "srm - Saramaccan",
+      "type" : "ISO639_3"
+    } ],
+    "tableOfContents" : "1 Introduction: Templates, linearity domains, and strong linearity 1\n2 Causativization and applicativization of the Bantu verb stem: A case study of a morphosyntactic template\n3 The preverbal enclitic ’a and the Chechen verb phrase template: A case study\nof a templatically-positioned clitic \n4 Saramaccan serial verb phrases and uniformity in serial verb ordering: A case\nstudy of a constructional template in the syntax \n5 Conclusion: Towards an explanation for the Strong Linearity Domain Hypothesis\n",
+    "totalNumberOfPages" : "vii, 574 S."
+  },
+  "files" : [ {
+    "objectId" : "file_378276",
+    "name" : "linearity_good2003_s.pdf",
+    "creationDate" : "2010-03-05T19:08:45.410+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-6788-5",
+    "content" : "/rest/items/item_378277_5/component/file_378276/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c41e66312551737a74c6ab29f0300bd1",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1318666,
+    "metadata" : {
+      "title" : "linearity_good2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1318666,
+      "copyrightDate" : "2010-02-26",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

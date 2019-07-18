@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_407517",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:48:29.569+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-969E-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:48:29.569+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-969E-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:14:11.321+0000",
+  "latestRelease" : {
+    "objectId" : "item_407517",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:48:29.569+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-969E-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407517",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:48:29.569+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-969E-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Fonemica Kaingáng",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Kindell, Gloria Elaine",
+        "givenName" : "Gloria Elaine",
+        "familyName" : "Kindell",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1961",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "39071",
+      "type" : "OTHER"
+    }, {
+      "id" : "kaingang_kindell2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Anápolis",
+      "publisher" : "SIL Brasil"
+    },
+    "freeKeywords" : "LoC Class: PM6276,\nLoC Subject Headings: Kaingang language",
+    "subjects" : [ {
+      "value" : "kgp - Kaingáng",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407515",
+    "name" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "creationDate" : "2010-04-01T14:14:10.758+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-969C-D",
+    "content" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c9461039d010116eaeca40f82b42a28c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/BRASIL/EnglTcPb.htm",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407516",
+    "name" : "kaingang_kindell2008_s.pdf",
+    "creationDate" : "2010-04-01T14:14:11.217+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-969D-B",
+    "content" : "/rest/items/item_407517_2/component/file_407516/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "0d176192d8432de8ae8f1ec73ba03a0d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 440463,
+    "metadata" : {
+      "title" : "kaingang_kindell2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 440463
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

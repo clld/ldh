@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_407334",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T22:09:17.360+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-7089-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T22:09:17.360+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-95A4-1",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:10:56.835+0000",
+  "latestRelease" : {
+    "objectId" : "item_407334",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T22:09:17.360+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7089-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407334",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T22:09:17.360+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-7089-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Saisiyat phonology : with special reference to vowel variations",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Fang-yin Freda",
+        "familyName" : "Hsieh",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "38337",
+      "type" : "OTHER"
+    }, {
+      "id" : "saisiyat_hsieh1234_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Hsinchu",
+      "publisher" : "National Tsing Hua Univ."
+    },
+    "freeKeywords" : "LoC Class: PL6145, LoC Subject Headings: Saisiyat language, LoC Subject Headings: Taiwan languages",
+    "subjects" : [ {
+      "value" : "xsy - Saisiyat",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "viii, 113 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL6145,\nLoC Subject Headings: Saisiyat language, Taiwan languages--Dialects"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407333",
+    "name" : "saisiyat_hsieh1234_s.pdf",
+    "creationDate" : "2010-04-01T14:10:56.552+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-95A3-3",
+    "content" : "/rest/items/item_407334_4/component/file_407333/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "b195209b2b10514e17b2dfdd859b0224",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 821493,
+    "metadata" : {
+      "title" : "saisiyat_hsieh1234_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 821493
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2049566",
+    "name" : "http://handle.ncl.edu.tw/11296/ndltd/08586458413364315826",
+    "creationDate" : "2014-08-11T08:50:16.512+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://handle.ncl.edu.tw/11296/ndltd/08586458413364315826",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "898ccdfa3318ce6d57391831b0eaf461",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://handle.ncl.edu.tw/11296/ndltd/08586458413364315826",
+      "contentCategory" : "publisher-version",
+      "description" : "NDLTD National Digital Library of Theses and Dissertations in Taiwan, zip file, pdf // fulltext access: free e-mail registration necessary",
+      "size" : 0
+    }
+  } ]
+}

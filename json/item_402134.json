@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_402134",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-21T08:14:43.857+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-BA5E-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-21T08:14:43.857+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7768-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:26:20.575+0000",
+  "latestRelease" : {
+    "objectId" : "item_402134",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:14:43.857+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA5E-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402134",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-21T08:14:43.857+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-BA5E-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Typologie und Diffusion von Höflichkeitspronomina in Europa",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Johannes",
+        "familyName" : "Helmbrecht",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2004",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "29209",
+      "type" : "OTHER"
+    }, {
+      "id" : "hoeflichkeitspronomina_helmbrecht2005_              s.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "1612-0612",
+      "type" : "ISSN"
+    } ],
+    "languages" : [ "deu" ],
+    "sources" : [ {
+      "title" : "ASSidUE",
+      "volume" : "18",
+      "identifiers" : [ {
+        "id" : "1612-0612",
+        "type" : "ISSN"
+      } ],
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: P279, LoC Subject Headings: Grammar/Comparative and general--Pronoun",
+    "subjects" : [ {
+      "type" : "DDC"
+    } ],
+    "totalNumberOfPages" : "34 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402133",
+    "name" : "hoeflichkeitspronomina_helmbrecht2005_s.pdf",
+    "creationDate" : "2010-04-01T11:26:20.359+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7767-E",
+    "content" : "/rest/items/item_402134_4/component/file_402133/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ed036caf6d6c2f2e68043d9f2117cca0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1567403,
+    "metadata" : {
+      "title" : "hoeflichkeitspronomina_helmbrecht2005_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1567403
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2147292",
+    "name" : "http://www2.uni-erfurt.de/sprachwissenschaft/ASSidUE/ASSidUE18.pdf",
+    "creationDate" : "2015-04-21T08:14:26.721+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www2.uni-erfurt.de/sprachwissenschaft/ASSidUE/ASSidUE18.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7f7ea029384abbb15d6e81cfc75ccc52",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www2.uni-erfurt.de/sprachwissenschaft/ASSidUE/ASSidUE18.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  } ]
+}

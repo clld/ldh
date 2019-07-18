@@ -1,0 +1,147 @@
+{
+  "objectId" : "item_404229",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-13T00:46:44.038+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-71B1-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T00:46:44.038+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8445-F",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:37:40.370+0000",
+  "latestRelease" : {
+    "objectId" : "item_404229",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T00:46:44.038+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-71B1-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404229",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-13T00:46:44.038+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-71B1-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Russian Language Competencies for Peace Corps Volunteers in Russia",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Strobykina, Irina",
+        "givenName" : "Irina",
+        "familyName" : "Strobykina",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "organization" : {
+        "name" : "United States / Peace Corps"
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    }, {
+      "person" : {
+        "givenName" : "Nataliya",
+        "familyName" : "Fomenko"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1996",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "32853",
+      "type" : "OTHER"
+    }, {
+      "id" : "russian_strobykinna1996_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Vladivostok",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PG2065, LoC Subject Headings: Russian language --Study and teaching, LoC Subject Headings: Russian language --Textbooks for foreign speakers --English",
+    "subjects" : [ {
+      "value" : "rus - Russian",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "V, 323 S."
+  },
+  "files" : [ {
+    "objectId" : "file_404227",
+    "name" : "http://eric.ed.gov/ERICDocs/data/ericdocs2/content_storage_01/0000000b/80/25/ac/3d.pdf",
+    "creationDate" : "2010-04-01T12:37:39.341+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://eric.ed.gov/ERICDocs/data/ericdocs2/content_storage_01/0000000b/80/25/ac/3d.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "010530ea5f77ced089a7807d11ac13af",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eric.ed.gov/ERICDocs/data/ericdocs2/content_storage_01/0000000b/80/25/ac/3d.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_404228",
+    "name" : "russian_strobykinna1996_o.pdf",
+    "creationDate" : "2010-04-01T12:37:39.497+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8444-2",
+    "content" : "/rest/items/item_404229_3/component/file_404228/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9d72a5e5710167399bbfff3696fc7f6d",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8497577,
+    "metadata" : {
+      "title" : "russian_strobykinna1996_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8497577
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

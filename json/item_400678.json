@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_400678",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-05-13T11:20:21.977+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CD7F-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-05-13T11:20:21.977+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-6EE6-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T10:57:02.135+0000",
+  "latestRelease" : {
+    "objectId" : "item_400678",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T11:20:21.977+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD7F-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_400678",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-05-13T11:20:21.977+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CD7F-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Kom language grammar sketch : Part 1",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "George",
+        "familyName" : "Shultz",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1997",
+    "genre" : "PAPER",
+    "identifiers" : [ {
+      "id" : "23919",
+      "type" : "OTHER"
+    }, {
+      "id" : "komgrammar_shultz1997_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Yaoundé",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: PL8395.4, LoC Subject Headings: Kom language (Cameroon)",
+    "subjects" : [ {
+      "value" : "bkm - Kom (Cameroon)",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "41 S."
+  },
+  "files" : [ {
+    "objectId" : "file_400677",
+    "name" : "komgrammar_shultz1997_s.pdf",
+    "creationDate" : "2010-04-01T10:57:01.962+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-6EE5-A",
+    "content" : "/rest/items/item_400678_3/component/file_400677/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e19be8ea0f806b9856e2b4cf0d79d9e8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1187113,
+    "metadata" : {
+      "title" : "komgrammar_shultz1997_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1187113
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2154524",
+    "name" : "http://silcam.org/languages/languagepage.php?languageid=45",
+    "creationDate" : "2015-05-13T11:19:53.211+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://silcam.org/languages/languagepage.php?languageid=45",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ede197262f7422f0e6583511b61e72f6",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://silcam.org/languages/languagepage.php?languageid=45",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Cameroon, Languages & Publications, Languages, Kom, pdf download",
+      "size" : 0
+    }
+  } ]
+}

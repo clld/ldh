@@ -1,0 +1,133 @@
+{
+  "objectId" : "item_874609",
+  "versionNumber" : 6,
+  "modificationDate" : "2015-04-07T08:22:48.597+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-A7FE-9",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-07T08:22:48.597+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0011-5463-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2011-04-27T11:34:15.776+0000",
+  "latestRelease" : {
+    "objectId" : "item_874609",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-07T08:22:48.597+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7FE-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_874609",
+    "versionNumber" : 6,
+    "modificationDate" : "2015-04-07T08:22:48.597+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-A7FE-9",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Pocket dictionary of the Chinook jargon ",
+    "creators" : [ {
+      "person" : {
+        "familyName" : "Anonymus",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1898",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "34306",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng", "chn" ],
+    "publishingInfo" : {
+      "place" : "San Francisco",
+      "publisher" : "Downing & Clarke"
+    },
+    "freeKeywords" : "LoC Class: PM848, LoC Subject Headings: Chinook jargon",
+    "subjects" : [ {
+      "value" : "chn - Chinook jargon",
+      "type" : "ISO639_3"
+    } ],
+    "tableOfContents" : "Part I. Chinook-English -- Part II. English-Chinook -- The Lord' s Prayer in Chinook [with interlinear translation]",
+    "totalNumberOfPages" : "32",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM848, LoC Subject Headings: Chinook language -- Dictionaries -- English, LoC Subject Headings: English language -- Dictionaries -- Chinook"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_874607",
+    "name" : "chinook_downing1898_o.pdf",
+    "creationDate" : "2011-04-27T11:34:14.496+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0011-5461-0",
+    "content" : "/rest/items/item_874609_6/component/file_874607/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "650f084e4cc5837d19e0a0fb169a6255",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4045238,
+    "metadata" : {
+      "title" : "chinook_downing1898_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4045238
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_874608",
+    "name" : "http://www.canadiana.org/ECO/ItemRecord/15913",
+    "creationDate" : "2011-04-27T11:34:14.624+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.canadiana.org/ECO/ItemRecord/15913",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ba9afa02b773f9d479f364877e02e319",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.canadiana.org/ECO/ItemRecord/15913",
+      "contentCategory" : "publisher-version",
+      "description" : "Early Canadiana Online, view online",
+      "size" : 0
+    }
+  } ]
+}

@@ -1,0 +1,128 @@
+{
+  "objectId" : "item_405372",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:05:52.219+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8AB8-0",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:05:52.219+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8AB8-0",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:08:50.752+0000",
+  "latestRelease" : {
+    "objectId" : "item_405372",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:05:52.219+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8AB8-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405372",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:05:52.219+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8AB8-0",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Peace Corps/Zambia PST 1995 Special Lessons : Nyanja",
+    "creators" : [ {
+      "organization" : {
+        "name" : "Peace Corps (Zambia)"
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "1995",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34691",
+      "type" : "OTHER"
+    }, {
+      "id" : "nyanja_peacecorps1995_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N.A.",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Class: PL8593,\nLoC Subject Headings: Nyanja language",
+    "subjects" : [ {
+      "value" : "nya - Nyanja",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "91 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405370",
+    "name" : "http://tinyurl.com/5ruhuz",
+    "creationDate" : "2010-04-01T13:08:45.528+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8AB6-3",
+    "content" : "http://tinyurl.com/5ruhuz",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6763e2d678c45207cb1dfb674ebc7465",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://tinyurl.com/5ruhuz",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405371",
+    "name" : "nyanja_peacecorps1995_o.pdf",
+    "creationDate" : "2010-04-01T13:08:50.367+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8AB7-1",
+    "content" : "/rest/items/item_405372_2/component/file_405371/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "28b5e280465739c662c5d49a2f453c45",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2026311,
+    "metadata" : {
+      "title" : "nyanja_peacecorps1995_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2026311
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

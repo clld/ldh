@@ -1,0 +1,119 @@
+{
+  "objectId" : "item_403553",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T11:31:45.638+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-800F-2",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:31:45.638+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-800F-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:37.581+0000",
+  "latestRelease" : {
+    "objectId" : "item_403553",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:31:45.638+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-800F-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403553",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T11:31:45.638+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-800F-2",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Esquisse phonologique du Nulibie (dialecte Yambassa)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Aline ",
+        "familyName" : "Ekambi",
+        "organizations" : [ {
+          "address" : "née Aline Etondi Boumda\n\n\n",
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1990",
+    "datePublishedInPrint" : "1990",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31388",
+      "type" : "OTHER"
+    }, {
+      "id" : "nulibie_ekambi1990_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Yambassa language",
+    "subjects" : [ {
+      "value" : "ekm - Elip",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "iii, 88 S.",
+    "abstracts" : [ {
+      "value" : "PL8221.6, ISO 639-3 : ekm, Yambassa language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403552",
+    "name" : "nulibie_ekambi1990_o.pdf",
+    "creationDate" : "2010-04-01T12:19:37.279+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-800E-4",
+    "content" : "/rest/items/item_403553_3/component/file_403552/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c3d2bf66923a2feb3fcef8d76231bf93",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2654179,
+    "metadata" : {
+      "title" : "nulibie_ekambi1990_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2654179,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

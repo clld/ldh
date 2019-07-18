@@ -1,0 +1,152 @@
+{
+  "objectId" : "item_406506",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-12-23T12:45:33.368+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-606C-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2014-12-23T12:45:33.368+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9105-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:39:41.678+0000",
+  "latestRelease" : {
+    "objectId" : "item_406506",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-23T12:45:33.368+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-606C-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406506",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-12-23T12:45:33.368+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-606C-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Nabaloi songs",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Claude Russell",
+        "familyName" : "Moss",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Alfred L.",
+        "familyName" : "Kroeber",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1919",
+    "genre" : "ARTICLE",
+    "identifiers" : [ {
+      "id" : "37195",
+      "type" : "OTHER"
+    }, {
+      "id" : "nabaloi_moss1919_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "University of California publications in American archaeology and ethnology, 15. 2",
+      "alternativeTitles" : [ {
+        "value" : "University of California publications in American archaeology and ethnology"
+      } ],
+      "volume" : "15",
+      "issue" : "2",
+      "startPage" : "187",
+      "endPage" : "206",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL5719.Z77,\nLoC Subject Headings: Ibaloi language",
+    "subjects" : [ {
+      "value" : "ibl - Ibaloi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "20 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406504",
+    "name" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=140",
+    "creationDate" : "2010-04-01T13:39:39.854+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=140",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "86507f2b22a98c972a3fffa31458650e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=language&item=140",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of California, Anthropology Library, pdf",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406505",
+    "name" : "nabaloi_moss1919_o.pdf",
+    "creationDate" : "2010-04-01T13:39:41.371+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9104-F",
+    "content" : "/rest/items/item_406506_3/component/file_406505/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ea16dd4c037721503c67c28c42e0f092",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2585736,
+    "metadata" : {
+      "title" : "nabaloi_moss1919_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2585736,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

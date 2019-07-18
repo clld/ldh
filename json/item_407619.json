@@ -1,0 +1,144 @@
+{
+  "objectId" : "item_407619",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T08:00:59.466+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-972F-E",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T08:00:59.466+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-972F-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:17:04.690+0000",
+  "latestRelease" : {
+    "objectId" : "item_407619",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T08:00:59.466+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-972F-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407619",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T08:00:59.466+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-972F-E",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Las lenguas pano y su reconstruction",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Shell, Olive A.",
+        "givenName" : "Olive A.",
+        "familyName" : "Shell",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1985",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "40048",
+      "type" : "OTHER"
+    }, {
+      "id" : "panos3_shell1985_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "edition" : "2a ed.",
+      "place" : "Yarinacocha, Perû",
+      "publisher" : "Inst. Lingüístico de Verano"
+    },
+    "sources" : [ {
+      "title" : "Estudios Panos",
+      "volume" : "3",
+      "genre" : "SERIES"
+    }, {
+      "title" : "Serie Lingüística Peruana",
+      "volume" : "12",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM5763,\nLoC Subject Headings: Cashibo language",
+    "subjects" : [ {
+      "value" : "cbr - Cashibo-Cacataibo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "212 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407617",
+    "name" : "http://www.sil.org/americas/peru/html/nav/pubIndex.html",
+    "creationDate" : "2010-04-01T14:17:03.112+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-972D-1",
+    "content" : "http://www.sil.org/americas/peru/html/nav/pubIndex.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "53947f9f17b1ff4b80711ee58d52a053",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/americas/peru/html/nav/pubIndex.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407618",
+    "name" : "panos3_shell1985_o.pdf",
+    "creationDate" : "2010-04-01T14:17:03.715+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-972E-0",
+    "content" : "/rest/items/item_407619_2/component/file_407618/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ae5a7b52a1bf2f8083898a76038fdeac",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 9844154,
+    "metadata" : {
+      "title" : "panos3_shell1985_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 9844154
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

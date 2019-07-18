@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_402333",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T10:58:53.498+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7897-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:58:53.498+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7897-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:30:18.654+0000",
+  "latestRelease" : {
+    "objectId" : "item_402333",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:58:53.498+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7897-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402333",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T10:58:53.498+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7897-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Notes on Kusunda grammar : a language isolate of Nepal",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Watters, David E.",
+        "givenName" : "David E.",
+        "familyName" : "Watters",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "29659",
+      "type" : "OTHER"
+    }, {
+      "id" : "kusunda_watters_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Kathmandu",
+      "publisher" : "National Foundation for the Development of\n              Indigenous Nationalities"
+    },
+    "freeKeywords" : "LoC Class: PL3801.K9,\nLoC Subject Headings: Kusunda language",
+    "subjects" : [ {
+      "value" : "kgg - Kusunda",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "X, 221 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402331",
+    "name" : "http://www.linguistics.ucsb.edu/HimalayanLinguistics/grammars/2006/HLA03_Watters.pdf",
+    "creationDate" : "2010-04-01T11:30:15.545+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7895-D",
+    "content" : "http://www.linguistics.ucsb.edu/HimalayanLinguistics/grammars/2006/HLA03_Watters.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a0a63366b5748439d60d815f653e2a44",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.linguistics.ucsb.edu/HimalayanLinguistics/grammars/2006/HLA03_Watters.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402332",
+    "name" : "kusunda_watters_s.pdf",
+    "creationDate" : "2010-04-01T11:30:18.509+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7896-B",
+    "content" : "/rest/items/item_402333_2/component/file_402332/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "7a4dcf73bd6a94ae04e120686b498d79",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 878682,
+    "metadata" : {
+      "title" : "kusunda_watters_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 878682
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

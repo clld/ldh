@@ -1,0 +1,134 @@
+{
+  "objectId" : "item_407180",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-02-26T12:23:52.613+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-E496-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-02-26T12:23:52.613+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-94CE-D",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:56:46.449+0000",
+  "latestRelease" : {
+    "objectId" : "item_407180",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-02-26T12:23:52.613+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E496-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407180",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-02-26T12:23:52.613+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-E496-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The Oceanic languages, their grammatical structure, vocabulary, and origin",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Daniel",
+        "familyName" : "Macdonald",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1907",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37763",
+      "type" : "OTHER"
+    }, {
+      "id" : "oceanic_macdonald1907_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "London [u.a.]",
+      "publisher" : "Frowde"
+    },
+    "freeKeywords" : "LoC Class: PL6231,\nLoC Subject Headings: Efate language",
+    "subjects" : [ {
+      "value" : "erk - Efate, South",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xx, 352 S."
+  },
+  "files" : [ {
+    "objectId" : "file_407178",
+    "name" : "http://www.archive.org/details/oceaniclanguages00macduoft",
+    "creationDate" : "2010-04-01T13:56:41.523+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.archive.org/details/oceaniclanguages00macduoft",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f64a2f374a77a1151c375ab3740fca17",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/oceaniclanguages00macduoft",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org: Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407179",
+    "name" : "oceanic_macdonald1907_o.pdf",
+    "creationDate" : "2010-04-01T13:56:42.679+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-94CD-F",
+    "content" : "/rest/items/item_407180_4/component/file_407179/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c2f477a82b561e233ba52ab973b1b589",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 40166057,
+    "metadata" : {
+      "title" : "oceanic_macdonald1907_o.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 40166057,
+      "rights" : "Public Domain"
+    }
+  } ]
+}

@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_378741",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-06-21T08:52:14.011+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-67B8-C",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-21T08:52:14.011+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-67B8-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-03-05T19:16:17.781+0000",
+  "latestRelease" : {
+    "objectId" : "item_378741",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-06-21T08:52:14.011+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-67B8-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_378741",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-06-21T08:52:14.011+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-67B8-C",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "Linglit Import 3 2010-03-05 17:04" ],
+  "metadata" : {
+    "title" : "Yanyuwa Wuka : language from Yanyuwa country , a Yanyuwa dictionary and cultural resource",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Bradley, John",
+        "givenName" : "John",
+        "familyName" : "Bradley",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Jean",
+        "familyName" : "Kirton"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1992",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "30278",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "freeKeywords" : "LoC Subject Headings: Yanyuwa language",
+    "subjects" : [ {
+      "value" : "jao - Yanyuwa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "640 S.",
+    "abstracts" : [ {
+      "value" : "A Yanyuwa dictionary and cultural resource that includes Yanyuwa-English and English-Yanyuwa word and phrase translations. Maps, illustrations and a select bibliography are also included. \n\nPL7091.N67 , Yanyuwa language -- Readers"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_378739",
+    "name" : "http://eprint.uq.edu.au/archive/00000072/",
+    "creationDate" : "2010-03-05T19:16:10.257+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-67B6-0",
+    "content" : "http://eprint.uq.edu.au/archive/00000072/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a82e66ed955e9f12e0b44d6293bad22b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://eprint.uq.edu.au/archive/00000072/",
+      "contentCategory" : "publisher-version",
+      "description" : "University of Queensland (UQ) eSpace ",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_378740",
+    "name" : "yanyuwa_bradley1992_o.pdf",
+    "creationDate" : "2010-03-05T19:16:13.103+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-67B7-E",
+    "content" : "/rest/items/item_378741_5/component/file_378740/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5f296b2205b585451211cf9300ba7980",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 48171554,
+    "metadata" : {
+      "title" : "yanyuwa_bradley1992_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 48171554,
+      "copyrightDate" : "2010-01-18",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

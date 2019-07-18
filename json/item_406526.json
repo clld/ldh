@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_406526",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T10:45:00.307+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-911F-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:45:00.307+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-911F-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:40:12.246+0000",
+  "latestRelease" : {
+    "objectId" : "item_406526",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:45:00.307+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-911F-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406526",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:45:00.307+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-911F-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Njém tonology",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Akumbu Pius",
+        "familyName" : "Wuchu",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2008",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37207",
+      "type" : "OTHER"
+    }, {
+      "id" : "njem_akumbu2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Yaounde",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon Languages",
+    "subjects" : [ {
+      "value" : "njy - Njyem",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XXIV, 281 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : njy, Cameroon Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406525",
+    "name" : "njem_akumbu2006_s.pdf",
+    "creationDate" : "2010-04-01T13:40:11.996+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-911E-8",
+    "content" : "/rest/items/item_406526_3/component/file_406525/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "a137dbca8989ae663df47e3742dcdba4",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2050360,
+    "metadata" : {
+      "title" : "njem_akumbu2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2050360,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "non-exclusive permission from Univ. de Yaounde I "
+    }
+  }, {
+    "objectId" : "file_458231",
+    "name" : "http://www.silcam.org/languages/languagepage.php?languageid=310",
+    "creationDate" : "2010-06-17T13:18:58.730+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.silcam.org/languages/languagepage.php?languageid=310",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "884c1ee7eec2cd3ec4498ccb2f2214e9",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.silcam.org/languages/languagepage.php?languageid=310",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL Cameroon",
+      "size" : 0
+    }
+  } ]
+}

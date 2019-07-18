@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_406360",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T20:41:31.978+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FE1-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:41:31.978+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9038-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:36:00.781+0000",
+  "latestRelease" : {
+    "objectId" : "item_406360",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:41:31.978+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FE1-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406360",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:41:31.978+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FE1-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The linguistic construction of character relations in TV drama : doing friendship in \"Sex and the City\"",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Bubel, Claudia",
+        "givenName" : "Claudia",
+        "familyName" : "Bubel",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2005",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "36756",
+      "type" : "OTHER"
+    }, {
+      "id" : "friendship_bubel2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Saarbrücken",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PN1992.8.L35, LoC Subject Headings: Sociolinguistics, LoC Subject Headings: Dialogue analysis, LoC Subject Headings: Television broadcasting --Language"
+  },
+  "files" : [ {
+    "objectId" : "file_406358",
+    "name" : "http://scidok.sulb.uni-saarland.de/volltexte/2006/598/pdf/Diss_Bubel_publ.pdf",
+    "creationDate" : "2010-04-01T13:35:59.871+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-9036-7",
+    "content" : "http://scidok.sulb.uni-saarland.de/volltexte/2006/598/pdf/Diss_Bubel_publ.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c7f161bf9a3dff3bab75a8d0ac8eea63",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://scidok.sulb.uni-saarland.de/volltexte/2006/598/pdf/Diss_Bubel_publ.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406359",
+    "name" : "friendship_bubel2006_s.pdf",
+    "creationDate" : "2010-04-01T13:36:00.544+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9037-5",
+    "content" : "/rest/items/item_406360_3/component/file_406359/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2c6d5a84ccbd7b9e14532019f12d9861",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1056497,
+    "metadata" : {
+      "title" : "friendship_bubel2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1056497
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

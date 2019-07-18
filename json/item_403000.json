@@ -1,0 +1,179 @@
+{
+  "objectId" : "item_403000",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T09:59:28.301+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7C72-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T09:59:28.301+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7C72-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:50:05.522+0000",
+  "latestRelease" : {
+    "objectId" : "item_403000",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:59:28.301+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7C72-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403000",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T09:59:28.301+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7C72-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Namia grammar essentials",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Tom",
+        "familyName" : "Feldpausch",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Becky",
+        "familyName" : "Feldpausch"
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1992",
+    "genre" : "BOOK_ITEM",
+    "identifiers" : [ {
+      "id" : "30795",
+      "type" : "OTHER"
+    }, {
+      "id" : "http://www.sil\n              .\n              org/pacific/png/pubs/0000019/Namia_Grammar_Part\n              _2.pdf",
+      "type" : "URI"
+    }, {
+      "id" : "namia_feldpausch1992_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Ukarumpa",
+      "publisher" : "SIL"
+    },
+    "sources" : [ {
+      "title" : "Data Papers on Papua New Guinea Languages",
+      "creators" : [ {
+        "person" : {
+          "completeName" : "edited by John R. Roberts"
+        },
+        "role" : "AUTHOR",
+        "type" : "PERSON"
+      } ],
+      "publishingInfo" : {
+        "place" : "Ukarumpa",
+        "publisher" : "N.A."
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL6621.N34,\nLoC Subject Headings: Namia language -- Grammar",
+    "subjects" : [ {
+      "value" : "nnm - Namia",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "IV, 97 S. (Part I u. II)"
+  },
+  "files" : [ {
+    "objectId" : "file_402997",
+    "name" : "http://www.sil.org/pacific/png/pubs/0000019/Namia_Grammar_Part_1.pdf",
+    "creationDate" : "2010-04-01T11:49:27.596+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7C6F-3",
+    "content" : "http://www.sil.org/pacific/png/pubs/0000019/Namia_Grammar_Part_1.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/pacific/png/pubs/0000019/Namia_Grammar_Part_1.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402998",
+    "name" : "http://www.sil.org/pacific/png/pubs/0000019/Namia_Grammar_Part_2.pdf",
+    "creationDate" : "2010-04-01T11:49:44.543+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7C70-E",
+    "content" : "http://www.sil.org/pacific/png/pubs/0000019/Namia_Grammar_Part_2.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/pacific/png/pubs/0000019/Namia_Grammar_Part_2.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402999",
+    "name" : "namia_feldpausch1992_o.pdf",
+    "creationDate" : "2010-04-01T11:50:05.243+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7C71-C",
+    "content" : "/rest/items/item_403000_2/component/file_402999/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2b5cde0f4ebb22d2763487a9eea9e9f2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2350994,
+    "metadata" : {
+      "title" : "namia_feldpausch1992_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2350994
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

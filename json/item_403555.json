@@ -1,0 +1,124 @@
+{
+  "objectId" : "item_403555",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-06-06T07:49:34.867+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8013-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:49:34.867+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8013-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:38.743+0000",
+  "latestRelease" : {
+    "objectId" : "item_403555",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:49:34.867+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8013-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403555",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:49:34.867+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8013-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The proto-reconstructions of the Nyang languages",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Bakume Nkongho Ojong, Magdaline",
+        "givenName" : "Magdaline",
+        "familyName" : "Bakume Nkongho Ojong",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2005",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31389",
+      "type" : "OTHER"
+    }, {
+      "id" : "nyang_bakume2005_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "publisher" : "Université de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon --Languages",
+    "subjects" : [ {
+      "value" : "ken - Kenyang",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "anv - Denya",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "kvm - Kendem",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "x, 151 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : ken / anv / kvm, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403554",
+    "name" : "nyang_bakume2005_o.pdf",
+    "creationDate" : "2010-04-01T12:19:38.241+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8012-7",
+    "content" : "/rest/items/item_403555_3/component/file_403554/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "bc06c1969cbf092ed5f14e7ff3bf1c4e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4832533,
+    "metadata" : {
+      "title" : "nyang_bakume2005_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4832533,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

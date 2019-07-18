@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_406064",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-04-14T08:06:01.284+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-B22D-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-04-14T08:06:01.284+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8E9A-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:28:32.962+0000",
+  "latestRelease" : {
+    "objectId" : "item_406064",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-14T08:06:01.284+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B22D-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406064",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-04-14T08:06:01.284+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-B22D-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The effects of linguistic experience on the perception of phonation",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Christina Marie",
+        "familyName" : "Esposito",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2006",
+    "datePublishedInPrint" : "2006",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35646",
+      "type" : "OTHER"
+    }, {
+      "id" : "phonation_esposito2006_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Los Angeles",
+      "publisher" : "Univ. of California"
+    },
+    "freeKeywords" : "LoC Class: PE1135, LoC Subject Headings: English language, LoC Subject Headings: Gujarati language",
+    "subjects" : [ {
+      "value" : "eng - English",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "guj - Gujarati",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XVI, 185 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PE1135, LoC Subject Headings: English language -- Phonetics, LoC Subject Headings: English language -- Intonation, LoC Subject Headings: Gujarati language -- Phonetics"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406062",
+    "name" : "http://www.linguistics.ucla.edu/people/grads/esposito/Esposito%202006.pdf",
+    "creationDate" : "2010-04-01T13:28:24.675+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.linguistics.ucla.edu/people/grads/esposito/Esposito%202006.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "9a9d78b2a4bdbcf4ab8adf03d16b6d29",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.linguistics.ucla.edu/people/grads/esposito/Esposito%202006.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406063",
+    "name" : "phonation_esposito2006_s.pdf",
+    "creationDate" : "2010-04-01T13:28:32.706+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E99-9",
+    "content" : "/rest/items/item_406064_4/component/file_406063/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "dccf31a2034f1fcbe7998fb564878cfe",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1335192,
+    "metadata" : {
+      "title" : "phonation_esposito2006_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1335192
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_406544",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-13T01:55:29.636+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-723B-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T01:55:29.636+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9138-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:40:33.001+0000",
+  "latestRelease" : {
+    "objectId" : "item_406544",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T01:55:29.636+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-723B-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406544",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T01:55:29.636+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-723B-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Sentence processing in a \"nonconfigurational\" language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Kiel Tobias",
+        "familyName" : "Christianson",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2002",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37227",
+      "type" : "OTHER"
+    }, {
+      "id" : "nonconfigurational_christianson2002_s              .html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Michigan",
+      "publisher" : "State Univ."
+    },
+    "freeKeywords" : "LoC Class: PM2083, LoC Subject Headings: Ottawa language, LoC Subject Headings: Psycholinguistics",
+    "subjects" : [ {
+      "value" : "otw - Ottawa",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "341 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM2083,\nLoC Subject Headings: Ottawa language--Sentences (Grammar), Psycholinguistics"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406543",
+    "name" : "nonconfigurational_christianson2002_s.pdf",
+    "creationDate" : "2010-04-01T13:40:32.806+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9137-C",
+    "content" : "/rest/items/item_406544_5/component/file_406543/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "79fc687c8cc5786b97ec6f12b738b4e6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 975841,
+    "metadata" : {
+      "title" : "nonconfigurational_christianson2002_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 975841
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2052554",
+    "name" : "http://www.researchgate.net/publication/33780715_Sentence_processing_in_a_nonconfigurational_language_",
+    "creationDate" : "2014-08-25T09:35:52.387+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.researchgate.net/publication/33780715_Sentence_processing_in_a_nonconfigurational_language_",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "7dc5977be683a7ee906e2a325ba50206",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.researchgate.net/publication/33780715_Sentence_processing_in_a_nonconfigurational_language_",
+      "contentCategory" : "publisher-version",
+      "description" : "researchgate.net, free registration for fulltext access necessary",
+      "size" : 0
+    }
+  } ]
+}

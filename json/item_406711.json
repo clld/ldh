@@ -1,0 +1,129 @@
+{
+  "objectId" : "item_406711",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-11T09:27:36.105+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-1FFC-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-11T09:27:36.105+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9222-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:46:15.080+0000",
+  "latestRelease" : {
+    "objectId" : "item_406711",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-11T09:27:36.105+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-1FFC-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406711",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-11T09:27:36.105+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-1FFC-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Resumption as resource management",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Arshia",
+        "familyName" : "Asudeh",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2004",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37396",
+      "type" : "OTHER"
+    }, {
+      "id" : "resumption_asudeh2004_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Stanford",
+      "publisher" : "Univ."
+    },
+    "freeKeywords" : "LoC Class: P151, LoC Subject Headings: Grammar/Comparative and general",
+    "totalNumberOfPages" : "XVIII, 465 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406710",
+    "name" : "resumption_asudeh2004_s.pdf",
+    "creationDate" : "2010-04-01T13:46:14.828+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9221-0",
+    "content" : "/rest/items/item_406711_4/component/file_406710/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "3cc2a95b3eae5a5f119b21ac6b5f1bac",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1988189,
+    "metadata" : {
+      "title" : "resumption_asudeh2004_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1988189
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2110846",
+    "name" : "http://users.ox.ac.uk/~cpgl0036/pdf/phd-twoside.pdf",
+    "creationDate" : "2015-03-11T09:26:55.577+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://users.ox.ac.uk/~cpgl0036/pdf/phd-twoside.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c5d2e1ec74c2d2db15a8add68181ee4b",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://users.ox.ac.uk/~cpgl0036/pdf/phd-twoside.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Oxford Univ., personal homepage Arshia Asudeh, direct linkt to pdf version",
+      "size" : 0
+    }
+  } ]
+}

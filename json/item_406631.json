@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_406631",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-11T10:46:22.917+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6852-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-11T10:46:22.917+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-91B1-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:44:31.376+0000",
+  "latestRelease" : {
+    "objectId" : "item_406631",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-11T10:46:22.917+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6852-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406631",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-11T10:46:22.917+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6852-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "An introduction to phonological analysis",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Stephen",
+        "familyName" : "Marlett",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2001",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "37357",
+      "type" : "OTHER"
+    }, {
+      "id" : "phonological_marlett2001_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "North Dakota",
+      "publisher" : "SIL"
+    },
+    "freeKeywords" : "LoC Class: P217.G98, LoC Subject Headings: Grammar/Comparative and general--Phonology",
+    "totalNumberOfPages" : "288 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406629",
+    "name" : "http://www.sil.org/mexico/ling/Phonology-Marlett/E004-Phon.htm",
+    "creationDate" : "2010-04-01T13:44:31.032+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.sil.org/mexico/ling/Phonology-Marlett/E004-Phon.htm",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "f7455f50f752fe278ce4cfb5619edd0c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.sil.org/mexico/ling/Phonology-Marlett/E004-Phon.htm",
+      "contentCategory" : "publisher-version",
+      "description" : "SIL in Mexico, Publications, pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406630",
+    "name" : "phonological_marlett2001_s.pdf",
+    "creationDate" : "2010-04-01T13:44:31.226+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-91B0-B",
+    "content" : "/rest/items/item_406631_4/component/file_406630/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "f6b5c069a0db74d92b3a6faf0de3e57b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 918506,
+    "metadata" : {
+      "title" : "phonological_marlett2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 918506
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

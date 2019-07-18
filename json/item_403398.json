@@ -1,0 +1,119 @@
+{
+  "objectId" : "item_403398",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-05-31T10:20:37.774+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7ED3-6",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:20:37.774+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7ED3-6",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:17:47.010+0000",
+  "latestRelease" : {
+    "objectId" : "item_403398",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:20:37.774+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7ED3-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403398",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-05-31T10:20:37.774+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7ED3-6",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The phonology of Ambele",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Nganganu Kenfac, Lucy",
+        "givenName" : "Lucy",
+        "familyName" : "Nganganu Kenfac",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedInPrint" : "2001",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "31209",
+      "type" : "OTHER"
+    }, {
+      "id" : "ambele_nganganu2001_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "publisher" : "Université de Yaoundé "
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon --Languages",
+    "subjects" : [ {
+      "value" : "ael - Ambele",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "viii, 129 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : ael, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403397",
+    "name" : "ambele_nganganu2001_o.pdf",
+    "creationDate" : "2010-04-01T12:17:46.603+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7ED2-8",
+    "content" : "/rest/items/item_403398_3/component/file_403397/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "4a50db59e0e7cdec454dbfdeed812cfb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3652801,
+    "metadata" : {
+      "title" : "ambele_nganganu2001_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3652801,
+      "copyrightDate" : "2005-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

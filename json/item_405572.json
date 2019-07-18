@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_405572",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-08T11:45:57.452+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-DD74-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-08T11:45:57.452+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8BDE-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:15:39.823+0000",
+  "latestRelease" : {
+    "objectId" : "item_405572",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-08T11:45:57.452+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DD74-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405572",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-08T11:45:57.452+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-DD74-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Cohesion in a Tswana narrative text",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Dikeledi Mavis",
+        "familyName" : "Shole",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedInPrint" : "2001",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35054",
+      "type" : "OTHER"
+    }, {
+      "id" : "tswana_shole2001_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "[Johannesburg]",
+      "publisher" : "Rand Afrikaans Univ."
+    },
+    "freeKeywords" : "LoC Class: PL8651,\nLoC Subject Headings: Tswana language",
+    "subjects" : [ {
+      "value" : "tsn - Tswana",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "III, 67 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8651,\nLoC Subject Headings: Tswana language--lexicology, Tswana language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405571",
+    "name" : "tswana_shole2001_s.pdf",
+    "creationDate" : "2010-04-01T13:15:39.739+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8BDD-5",
+    "content" : "/rest/items/item_405572_3/component/file_405571/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "67a0096f84c69bd4f44522c29ee4a257",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 183514,
+    "metadata" : {
+      "title" : "tswana_shole2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 183514
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2039527",
+    "name" : "http://hdl.handle.net/10210/152",
+    "creationDate" : "2014-07-08T11:45:23.664+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-DD76-4",
+    "content" : "http://hdl.handle.net/10210/152",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "05cccfb12c713a0d772c8e3cdd3d9fb5",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://hdl.handle.net/10210/152",
+      "contentCategory" : "any-fulltext",
+      "description" : "Univ. of Johannesburg, Instiutional Repository, Theses and Dissertations, pdfs",
+      "size" : 0
+    }
+  } ]
+}

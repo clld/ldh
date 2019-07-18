@@ -1,0 +1,233 @@
+{
+  "objectId" : "item_407799",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-05-31T10:03:23.807+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-9820-4",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:03:23.807+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9820-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:21:02.102+0000",
+  "latestRelease" : {
+    "objectId" : "item_407799",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T10:03:23.807+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9820-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407799",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T10:03:23.807+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-9820-4",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Mithridates oder allgemeine Sprachenkunde",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Johann Christoph von",
+        "familyName" : "Adelung",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1970",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "41844",
+      "type" : "OTHER"
+    }, {
+      "id" : "mithridates2_adelung1809_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "mithridates4_adelung1817_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "mithridates31_adelung1812_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "mithridates32_adelung1813_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "mithridates33_adelung1816_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "Reprograf. Nachdr. der Ausg. Berlin 1806",
+      "place" : "Hildesheim [u.a.]",
+      "publisher" : "Olms"
+    },
+    "abstracts" : [ {
+      "value" : "ISO 639-3 : - , P201, Grammar, Comparative and general, Language and languages--Classification, Ethnology, Bask language"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407794",
+    "name" : "mithridates2_adelung1809_o.pdf",
+    "creationDate" : "2010-04-01T14:20:50.930+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-981B-1",
+    "content" : "/rest/items/item_407799_5/component/file_407794/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "5d78ce2409faee3da33add75eca5f17f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 36509657,
+    "metadata" : {
+      "title" : "mithridates2_adelung1809_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "2. Theil (1809) ",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 36509657,
+      "copyrightDate" : "2010-12-01",
+      "rights" : "not in copyright, Johann Christoph von Adelung 1732-1806"
+    }
+  }, {
+    "objectId" : "file_407795",
+    "name" : "mithridates4_adelung1817_o.pdf",
+    "creationDate" : "2010-04-01T14:20:54.322+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-981C-0",
+    "content" : "/rest/items/item_407799_5/component/file_407795/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "74170f13d84d83e7a86dc229020bbe01",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 23076655,
+    "metadata" : {
+      "title" : "mithridates4_adelung1817_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "4. Theil (1817)",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 23076655,
+      "copyrightDate" : "2010-12-01",
+      "rights" : "not in copyright, Johann Christoph von Adelung 1732-1806"
+    }
+  }, {
+    "objectId" : "file_407796",
+    "name" : "mithridates31_adelung1812_o.pdf",
+    "creationDate" : "2010-04-01T14:20:56.562+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-981D-E",
+    "content" : "/rest/items/item_407799_5/component/file_407796/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "ab0d3c6e74cb7f86cc4036ce7db8cf02",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 17325385,
+    "metadata" : {
+      "title" : "mithridates31_adelung1812_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "3. Theil, Abtlg. 1 (1812) ",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 17325385,
+      "copyrightDate" : "2010-12-01",
+      "rights" : "not in copyright, Johann Christoph von Adelung 1732-1806"
+    }
+  }, {
+    "objectId" : "file_407797",
+    "name" : "mithridates32_adelung1813_o.pdf",
+    "creationDate" : "2010-04-01T14:20:58.448+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-981E-C",
+    "content" : "/rest/items/item_407799_5/component/file_407797/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "19ce2cc5d730beefa122485e7b6ed03b",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 17506439,
+    "metadata" : {
+      "title" : "mithridates32_adelung1813_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "3. Theil, Abtlg. 2 (1813) ",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 17506439,
+      "copyrightDate" : "2010-12-01",
+      "rights" : "not in copyright, Johann Christoph von Adelung 1732-1806"
+    }
+  }, {
+    "objectId" : "file_407798",
+    "name" : "mithridates33_adelung1816_o.pdf",
+    "creationDate" : "2010-04-01T14:21:00.157+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-981F-A",
+    "content" : "/rest/items/item_407799_5/component/file_407798/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "dc2784c8297916777b218b6e2af4a2ae",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 20072169,
+    "metadata" : {
+      "title" : "mithridates33_adelung1816_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "description" : "3. Theil, Abtlg. 3 (1816) ",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 20072169,
+      "copyrightDate" : "2010-12-01",
+      "rights" : "not in copyright, Johann Christoph von Adelung 1732-1806"
+    }
+  } ]
+}

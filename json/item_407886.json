@@ -1,0 +1,130 @@
+{
+  "objectId" : "item_407886",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:36:08.635+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-989E-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:36:08.635+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-989E-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T14:24:02.486+0000",
+  "latestRelease" : {
+    "objectId" : "item_407886",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:36:08.635+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-989E-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407886",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:36:08.635+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-989E-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Function, selection, and innateness : the emergence of language universals",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Kirby, Simon",
+        "givenName" : "Simon",
+        "familyName" : "Kirby",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1999",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "41888",
+      "type" : "OTHER"
+    }, {
+      "id" : "universals_kirby1996_s.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Oxford [u.a.]",
+      "publisher" : "Oxford Univ. Press"
+    },
+    "freeKeywords" : "LoC Class: P204,\nLoC Subject Headings: Linguistic universals",
+    "totalNumberOfPages" : "xvi, 156p."
+  },
+  "files" : [ {
+    "objectId" : "file_407884",
+    "name" : "http://www.isrl.uiuc.edu/~amag/langev/paper/kirby99functionSelection.html",
+    "creationDate" : "2010-04-01T14:24:01.351+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-989C-E",
+    "content" : "http://www.isrl.uiuc.edu/~amag/langev/paper/kirby99functionSelection.html",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "566c6251e189e3b53e35ad63f34d6b1e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.isrl.uiuc.edu/~amag/langev/paper/kirby99functionSelection.html",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_407885",
+    "name" : "universals_kirby1996_s.pdf",
+    "creationDate" : "2010-04-01T14:24:02.274+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-989D-C",
+    "content" : "/rest/items/item_407886_2/component/file_407885/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "6cdc99bddffc784e0cc80b475d913bec",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1284995,
+    "metadata" : {
+      "title" : "universals_kirby1996_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1284995
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

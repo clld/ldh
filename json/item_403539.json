@@ -1,0 +1,118 @@
+{
+  "objectId" : "item_403539",
+  "versionNumber" : 3,
+  "modificationDate" : "2011-06-06T07:45:10.170+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7FF2-5",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:45:10.170+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7FF2-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:19:28.093+0000",
+  "latestRelease" : {
+    "objectId" : "item_403539",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:45:10.170+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7FF2-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403539",
+    "versionNumber" : 3,
+    "modificationDate" : "2011-06-06T07:45:10.170+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7FF2-5",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A sketch phonology and a step towards the standardization of Naki",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Kum Nang, Juliua",
+        "givenName" : "Julius Nang",
+        "familyName" : "Kum ",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2002",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "31379",
+      "type" : "OTHER"
+    }, {
+      "id" : "naki_kum2002_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "publisher" : "Université de Yaoundé"
+    },
+    "freeKeywords" : "LoC Subject Headings: Cameroon --Languages",
+    "subjects" : [ {
+      "value" : "mff - Naki",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "ix, 124 S.",
+    "abstracts" : [ {
+      "value" : "PL8021.C35, ISO 639-3 : mff, Cameroon --Languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403538",
+    "name" : "naki_kum2002_o.pdf",
+    "creationDate" : "2010-04-01T12:19:27.675+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7FF1-7",
+    "content" : "/rest/items/item_403539_3/component/file_403538/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "54c27f3207df82e6f46a367bc0727db2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3611775,
+    "metadata" : {
+      "title" : "naki_kum2002_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3611775,
+      "copyrightDate" : "2010-11-29",
+      "rights" : "with permission from Université de Yaoundé I"
+    }
+  } ]
+}

@@ -1,0 +1,144 @@
+{
+  "objectId" : "item_407031",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-08-05T09:57:12.428+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-1F5B-B",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-08-05T09:57:12.428+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9400-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:52:56.118+0000",
+  "latestRelease" : {
+    "objectId" : "item_407031",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-05T09:57:12.428+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1F5B-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407031",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-08-05T09:57:12.428+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1F5B-B",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Studies on Mongolian verb morphology",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Chuluu",
+        "familyName" : "Ujiyediin",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1998",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37610",
+      "type" : "OTHER"
+    }, {
+      "id" : "mongolian_ujiyediin1998_o.html",
+      "type" : "OTHER"
+    }, {
+      "id" : "0-612-35350-8",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Toronto",
+      "publisher" : "Univ."
+    },
+    "sources" : [ {
+      "title" : "Canadian theses = Thèses canadiennes",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL404,\nLoC Subject Headings: Mongolian language",
+    "subjects" : [ {
+      "value" : "khk - Mongolian, Halh",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XI, 274 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL404,\nLoC Subject Headings: Mongolian language--Morphology"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407030",
+    "name" : "mongolian_ujiyediin1998_o.pdf",
+    "creationDate" : "2010-04-01T13:52:54.601+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-93FF-7",
+    "content" : "/rest/items/item_407031_3/component/file_407030/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "180e9ce0067dc64ab3fc3019cbd66fb2",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 15832472,
+    "metadata" : {
+      "title" : "mongolian_ujiyediin1998_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 15832472
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2048258",
+    "name" : "http://www.nlc-bnc.ca/obj/s4/f2/dsk2/tape15/PQDD_0001/NQ35350.pdf",
+    "creationDate" : "2014-08-05T09:54:13.461+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-1F5D-7",
+    "content" : "http://www.nlc-bnc.ca/obj/s4/f2/dsk2/tape15/PQDD_0001/NQ35350.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "273384b7f0044f2db47eb1432fbbe7c1",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.nlc-bnc.ca/obj/s4/f2/dsk2/tape15/PQDD_0001/NQ35350.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "Library and Archives Canada, Theses Canada, pdf (Amicus-No. 21565422)",
+      "size" : 0
+    }
+  } ]
+}

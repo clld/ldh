@@ -1,0 +1,139 @@
+{
+  "objectId" : "item_405410",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:09:54.543+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8AEE-7",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:09:54.543+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8AEE-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:12:06.422+0000",
+  "latestRelease" : {
+    "objectId" : "item_405410",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:09:54.543+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8AEE-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405410",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:09:54.543+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8AEE-7",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Construindo um dicionário Parakanã-Portugues",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Ferreira da Silva, Gino",
+        "givenName" : "Gino",
+        "familyName" : "Ferreira da Silva",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "34787",
+      "type" : "OTHER"
+    }, {
+      "id" : "parakana_dasilva2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Belém",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PC5442,\nLoC Subject Headings: Portuguese language -- Brazil",
+    "subjects" : [ {
+      "value" : "pak - Parakanã",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "por - Portuguese",
+      "type" : "ISO639_3"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405408",
+    "name" : "http://www.silinternational.com/americas/brasil/PUBLCNS/DICTGRAM/PKDic.pdf",
+    "creationDate" : "2010-04-01T13:11:46.727+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8AEC-B",
+    "content" : "http://www.silinternational.com/americas/brasil/PUBLCNS/DICTGRAM/PKDic.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "68dbc4b34dca56d879661ce948a7c626",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.silinternational.com/americas/brasil/PUBLCNS/DICTGRAM/PKDic.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405409",
+    "name" : "parakana_dasilva2003_s.pdf",
+    "creationDate" : "2010-04-01T13:12:06.153+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8AED-9",
+    "content" : "/rest/items/item_405410_2/component/file_405409/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "68dbc4b34dca56d879661ce948a7c626",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2213134,
+    "metadata" : {
+      "title" : "parakana_dasilva2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2213134
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

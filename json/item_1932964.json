@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_1932964",
+  "versionNumber" : 2,
+  "modificationDate" : "2015-01-13T15:53:40.170+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0024-7631-4",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Public Domain",
+  "lastModificationDate" : "2015-01-13T15:53:40.170+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0015-3DB6-E",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-02-19T11:28:24.080+0000",
+  "latestRelease" : {
+    "objectId" : "item_1932964",
+    "versionNumber" : 2,
+    "modificationDate" : "2015-01-13T15:53:40.170+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-7631-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_1932964",
+    "versionNumber" : 2,
+    "modificationDate" : "2015-01-13T15:53:40.170+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0024-7631-4",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "The Tutelo Tribe and Language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Horatio",
+        "familyName" : "Hale",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1883",
+    "genre" : "ARTICLE",
+    "languages" : [ "eng" ],
+    "sources" : [ {
+      "title" : "Proceedings of the American philosophical society",
+      "volume" : "XXI",
+      "issue" : "114",
+      "startPage" : "1",
+      "endPage" : "47",
+      "publishingInfo" : {
+        "place" : "Philadelphia",
+        "publisher" : "s.n."
+      },
+      "genre" : "JOURNAL"
+    } ],
+    "freeKeywords" : "LoC Subject Headings: Tutelo language\nLoC Class: E99.T96",
+    "subjects" : [ {
+      "value" : "tta - Tutelo",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "47 S.",
+    "abstracts" : [ {
+      "value" : "LoC Subject Headings: Tutelo language, Tutelo Indians"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_1932962",
+    "name" : "Hale_Tutelo1883.pdf",
+    "creationDate" : "2014-02-19T11:28:20.363+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0015-3DB8-A",
+    "content" : "/rest/items/item_1932964_2/component/file_1932962/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "85734162467d6de8e447d019ebec79cf",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 3783771,
+    "metadata" : {
+      "title" : "Hale_Tutelo1883.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 3783771,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_1932963",
+    "name" : "https://archive.org/details/rosettaproject_tta_morsyn-1",
+    "creationDate" : "2014-02-19T11:28:20.482+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/rosettaproject_tta_morsyn-1",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "d2086465c17283b8890f894040ccfb33",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/rosettaproject_tta_morsyn-1",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org",
+      "size" : 0
+    }
+  } ]
+}

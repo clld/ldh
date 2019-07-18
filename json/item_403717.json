@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_403717",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-10-02T09:17:27.405+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-5D63-A",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain",
+  "lastModificationDate" : "2013-10-02T09:17:27.405+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8162-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:22:36.022+0000",
+  "latestRelease" : {
+    "objectId" : "item_403717",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-02T09:17:27.405+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5D63-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_403717",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-10-02T09:17:27.405+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-5D63-A",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Some account of the Tahkaht language, as spoken by several tribes of the western coast of Vancouver Island ...",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "C.",
+        "familyName" : "Knipe",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1868",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "31554",
+      "type" : "OTHER"
+    }, {
+      "id" : "tahkaht_knife1868_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "London",
+      "publisher" : "Hatchard"
+    },
+    "freeKeywords" : "LoC Subject Headings: Nootka language",
+    "subjects" : [ {
+      "value" : "noo - Nootka",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "80 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM483,\nLoC Subject Headings: Nootka language, Indians of North America -- British Columbia -- Vancouver Island -- Languages, Wakashan languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_403715",
+    "name" : "http://www.canadiana.org/ECO/ItemRecord/15389",
+    "creationDate" : "2010-04-01T12:22:34.994+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-5D64-8",
+    "content" : "http://www.canadiana.org/ECO/ItemRecord/15389",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "56dfc45dac922f599b2f97537dee6428",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.canadiana.org/ECO/ItemRecord/15389",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_403716",
+    "name" : "tahkaht_knife1868_o.pdf",
+    "creationDate" : "2010-04-01T12:22:35.459+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8161-B",
+    "content" : "/rest/items/item_403717_3/component/file_403716/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "676f600b2e35852cc845b47dc579d1d3",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 4589534,
+    "metadata" : {
+      "title" : "tahkaht_knife1868_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 4589534
+    }
+  } ]
+}

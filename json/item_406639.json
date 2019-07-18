@@ -1,0 +1,140 @@
+{
+  "objectId" : "item_406639",
+  "versionNumber" : 4,
+  "modificationDate" : "2015-03-12T19:56:53.854+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6F79-F",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T19:56:53.854+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-91BC-4",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:44:44.238+0000",
+  "latestRelease" : {
+    "objectId" : "item_406639",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T19:56:53.854+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F79-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406639",
+    "versionNumber" : 4,
+    "modificationDate" : "2015-03-12T19:56:53.854+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6F79-F",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Prosodic morphology : constraint interaction and satisfaction",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "John J.",
+        "familyName" : "McCarthy",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Alan",
+        "familyName" : "Prince"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2001",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "37364",
+      "type" : "OTHER"
+    }, {
+      "id" : "prosodic_maccarthy1993_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "New Brunswick, NJ",
+      "publisher" : "Rutgers Center for Cognitive Science"
+    },
+    "freeKeywords" : "LoC Subject Headings: Prosodic analysis (Linguistics), LoC Subject Headings: Morphemics, LoC Subject Headings: Phonemics",
+    "totalNumberOfPages" : "XIV, 196 S.",
+    "abstracts" : [ {
+      "value" : "P242.D69, Prosodic analysis (Linguistics), Morphemics, Phonemics"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406637",
+    "name" : "http://roa.rutgers.edu/view.php3?roa=482",
+    "creationDate" : "2010-04-01T13:44:43.425+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://roa.rutgers.edu/view.php3?roa=482",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c59aaf569413293bade9e0d7ca4d0c87",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://roa.rutgers.edu/view.php3?roa=482",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406638",
+    "name" : "prosodic_maccarthy1993_s.pdf",
+    "creationDate" : "2010-04-01T13:44:44.038+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-91BB-6",
+    "content" : "/rest/items/item_406639_4/component/file_406638/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "afdbb58511595ab2e7998968778bb2bf",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1425698,
+    "metadata" : {
+      "title" : "prosodic_maccarthy1993_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1425698,
+      "copyrightDate" : "2010-08-10",
+      "license" : "http://creativecommons.org/licenses/by/3.0/de/deed.en_US"
+    }
+  } ]
+}

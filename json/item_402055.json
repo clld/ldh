@@ -1,0 +1,165 @@
+{
+  "objectId" : "item_402055",
+  "versionNumber" : 24,
+  "modificationDate" : "2015-05-12T08:47:49.673+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0026-CC2F-8",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert, externe Referenz aktualisiert",
+  "lastModificationDate" : "2015-05-12T08:47:49.673+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-76D3-2",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:24:52.776+0000",
+  "latestRelease" : {
+    "objectId" : "item_402055",
+    "versionNumber" : 24,
+    "modificationDate" : "2015-05-12T08:47:49.673+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CC2F-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402055",
+    "versionNumber" : 24,
+    "modificationDate" : "2015-05-12T08:47:49.673+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0026-CC2F-8",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Enenlhet apaivoma : nentengiai'a nengiangveiakmoho neliatekamaha\nenenlhet apaivoma, guía para el aprendizaje del idioma materno toba",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ernesto",
+        "familyName" : "Unruh",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Hannes",
+        "familyName" : "Kalisch",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Manolo",
+        "familyName" : "Romero",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2003",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29016",
+      "type" : "OTHER"
+    }, {
+      "id" : "99925-3-258-0",
+      "type" : "ISBN"
+    } ],
+    "languages" : [ "spa" ],
+    "publishingInfo" : {
+      "place" : "Ya'alve-Saanga",
+      "publisher" : "Nengvaanemkeskama Nempayvaam Enlhet"
+    },
+    "sources" : [ {
+      "title" : "Biblioteca paraguaya de antropología",
+      "volume" : "43",
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PM7146, LoC Subject Headings: Mascoi language",
+    "subjects" : [ {
+      "value" : "tmf - Toba-Maskoy",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VIII, 348 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PM7146, LoC Subject Headings: Mascoi language--Textbooks for foreign speakers--Spanish"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402054",
+    "name" : "enenlhet_unruh2003_s.pdf",
+    "creationDate" : "2010-04-01T11:24:52.524+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-76D2-4",
+    "content" : "/rest/items/item_402055_24/component/file_402054/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "cad795789ec1faf04a232ba69770e846",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1992458,
+    "metadata" : {
+      "title" : "enenlhet_unruh2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1992458,
+      "copyrightDate" : "2011-09-05",
+      "license" : "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    }
+  }, {
+    "objectId" : "file_2152238",
+    "name" : "http://www.enlhet.org/pdf/13.pdf",
+    "creationDate" : "2015-05-12T08:47:18.097+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.enlhet.org/pdf/13.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "c56298f23f46cfea5191c84d8e515fd4",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.enlhet.org/pdf/13.pdf",
+      "contentCategory" : "publisher-version",
+      "description" : "enlhet.org, Bibliografia, direct link to pdf version",
+      "size" : 0
+    }
+  } ]
+}

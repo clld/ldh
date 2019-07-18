@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_402737",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-06-24T08:14:15.143+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-CD95-E",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-06-24T08:14:15.143+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7AD5-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:37:58.520+0000",
+  "latestRelease" : {
+    "objectId" : "item_402737",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-24T08:14:15.143+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-CD95-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402737",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-06-24T08:14:15.143+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-CD95-E",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Notes on the phonology of Gude",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "James Taylor",
+        "familyName" : "Hoskison",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1975",
+    "datePublishedInPrint" : "1975",
+    "degree" : "MASTER",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30469",
+      "type" : "OTHER"
+    }, {
+      "id" : "gude_hoskison1975_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: PL8221.4, LoC Subject Headings: Gude language",
+    "subjects" : [ {
+      "value" : "gde - Gude",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "III, 48 S.",
+    "abstracts" : [ {
+      "value" : "This thesis provides a partial description of the sound system of Gude, a previously undescribed Chadic language of Nigeria. In sections 2.0 to 2.3, the 58 consonants of Gude are shown to consist of a plain set, a labio-velarized set, and a palatalized set. In sections 3.0 to 3.4, the basic four vowels [ i , a, i : ,a:] are shown to be plain (colorless) in their underlying forms. I argue that color ( palatality or labiality) is a features of consonants in underlying representations and is spread to vowels by the action of rules and processes. In sections 3.3 to 5.0, the various color spreading processes are described in detail with examples and sample derivations, In sections 6.0 and 7.0 rules are described for making the verbal extensions of REPEATED-ACTION and MOTION-TO-SPEAKER. These verbal extensions are important because they illustrate the complex interaction of the various color spreading processes. Numerous sample derivations are provided."
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402736",
+    "name" : "gude_hoskison1975_o.pdf",
+    "creationDate" : "2010-04-01T11:37:58.304+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7AD4-D",
+    "content" : "/rest/items/item_402737_3/component/file_402736/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "9378a0d44149869c70555637306b150c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1232387,
+    "metadata" : {
+      "title" : "gude_hoskison1975_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1232387
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2034372",
+    "name" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1152548149",
+    "creationDate" : "2014-06-24T08:13:49.499+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-CD96-C",
+    "content" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1152548149",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "6798d698692a738aa70b51c9cb00f3c3",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1152548149",
+      "contentCategory" : "publisher-version",
+      "description" : "OhioLINK, Electronic Theses & Dissertations Center, pdf",
+      "size" : 0
+    }
+  } ]
+}

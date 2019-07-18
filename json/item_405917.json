@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_405917",
+  "versionNumber" : 3,
+  "modificationDate" : "2014-07-15T07:00:37.204+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0019-EBC1-7",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "externe Referenz aktualisiert",
+  "lastModificationDate" : "2014-07-15T07:00:37.204+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8DC9-5",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:23:26.539+0000",
+  "latestRelease" : {
+    "objectId" : "item_405917",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-15T07:00:37.204+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-EBC1-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405917",
+    "versionNumber" : 3,
+    "modificationDate" : "2014-07-15T07:00:37.204+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0019-EBC1-7",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "The phonetics and phonology of Korean prosody",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Sun-Ah",
+        "familyName" : "Jun",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1993",
+    "datePublishedInPrint" : "1993",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "35548",
+      "type" : "OTHER"
+    }, {
+      "id" : "korean_jun1993_o.html",
+      "type" : "OTHER"
+    } ],
+    "publishingInfo" : {
+      "place" : "Columbus",
+      "publisher" : "Ohio State Univ."
+    },
+    "freeKeywords" : "LoC Class: PL915,\nLoC Subject Headings: Korean language",
+    "subjects" : [ {
+      "value" : "kor - Korean",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "XV, 261 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL915,\nLoC Subject Headings: Korean language--Phonology, Korean language--Accents and accentuation, Korean language--Intonation"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_405916",
+    "name" : "korean_jun1993_o.pdf",
+    "creationDate" : "2010-04-01T13:23:25.702+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-8DC8-7",
+    "content" : "/rest/items/item_405917_3/component/file_405916/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "119084224d95597da48dded2c642486f",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7377737,
+    "metadata" : {
+      "title" : "korean_jun1993_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7377737
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2042373",
+    "name" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1220465077",
+    "creationDate" : "2014-07-15T06:58:44.306+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0019-EBC3-3",
+    "content" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1220465077",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ad3ca7dd663096d8355558086e8f0ee5",
+    "checksumAlgorithm" : "MD5",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://rave.ohiolink.edu/etdc/view?acc_num=osu1220465077",
+      "contentCategory" : "any-fulltext",
+      "description" : "OhioLINK Electronic Theses & Dissertations Center, pdf",
+      "size" : 0
+    }
+  } ]
+}

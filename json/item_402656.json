@@ -1,0 +1,137 @@
+{
+  "objectId" : "item_402656",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:50:14.639+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7A5A-3",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:50:14.639+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7A5A-3",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:35:46.646+0000",
+  "latestRelease" : {
+    "objectId" : "item_402656",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:50:14.639+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7A5A-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402656",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:50:14.639+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7A5A-3",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Morphophonologische Untersuchungen an Reduplikationen im Türkischen",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Müller, Hans-Georg",
+        "givenName" : "Hans-Georg",
+        "familyName" : "Müller",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2003",
+    "datePublishedInPrint" : "2003",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "30237",
+      "type" : "OTHER"
+    }, {
+      "id" : "tuerkisch_mueller2003_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "deu" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Tübingen",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: PL101,\nLoC Subject Headings: Turkish language",
+    "subjects" : [ {
+      "value" : "tur - Turkish",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VIII, 348 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402654",
+    "name" : "http://w210.ub.uni-tuebingen.de/dbt/volltexte/2003/809/",
+    "creationDate" : "2010-04-01T11:35:46.128+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A58-7",
+    "content" : "http://w210.ub.uni-tuebingen.de/dbt/volltexte/2003/809/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "87994319798f5f9f6f2465617233fd2a",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://w210.ub.uni-tuebingen.de/dbt/volltexte/2003/809/",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402655",
+    "name" : "tuerkisch_mueller2003_s.pdf",
+    "creationDate" : "2010-04-01T11:35:46.388+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7A59-5",
+    "content" : "/rest/items/item_402656_2/component/file_402655/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "e5c339c149d43559508875f85540fa6c",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2044252,
+    "metadata" : {
+      "title" : "tuerkisch_mueller2003_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2044252
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

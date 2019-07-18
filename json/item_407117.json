@@ -1,0 +1,143 @@
+{
+  "objectId" : "item_407117",
+  "versionNumber" : 6,
+  "modificationDate" : "2014-08-05T10:59:14.601+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-001A-1F97-3",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Quelle: bibliograf. Daten korrigiert",
+  "lastModificationDate" : "2014-08-05T10:59:14.601+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-9471-E",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:54:57.813+0000",
+  "latestRelease" : {
+    "objectId" : "item_407117",
+    "versionNumber" : 6,
+    "modificationDate" : "2014-08-05T10:59:14.601+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1F97-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_407117",
+    "versionNumber" : 6,
+    "modificationDate" : "2014-08-05T10:59:14.601+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-001A-1F97-3",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Phonetic constraints and markedness in the phonotactics of Australian Aboriginal languages",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Philip James",
+        "familyName" : "Hamilton",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "1996",
+    "datePublishedInPrint" : "1996",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "37733",
+      "type" : "OTHER"
+    }, {
+      "id" : "australian_hamilton1996_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Toronto",
+      "publisher" : "Univ. of Toronto"
+    },
+    "sources" : [ {
+      "title" : "Toronto Working Papers in Linguistics : TWPL",
+      "publishingInfo" : {
+        "place" : "Toronto",
+        "publisher" : "Univ."
+      },
+      "genre" : "SERIES"
+    } ],
+    "freeKeywords" : "LoC Class: PL7001, LoC Subject Headings: Aboriginal Australians--Languages",
+    "totalNumberOfPages" : "ix, 362 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL7001, LoC Subject Headings: Aboriginal Australians--Languages--Markedness, Aboriginal Australians--Languages--Phonetics, Aboriginal Australians--Languages--Consonants"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_407116",
+    "name" : "australian_hamilton1996_o.pdf",
+    "creationDate" : "2010-04-01T13:54:57.079+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-9470-0",
+    "content" : "/rest/items/item_407117_6/component/file_407116/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "892bac9f0e7b6943d2ea0d35c4d42c80",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 7334120,
+    "metadata" : {
+      "title" : "australian_hamilton1996_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 7334120
+    },
+    "allowedAudienceIds" : [ "376" ]
+  }, {
+    "objectId" : "file_2034047",
+    "name" : "https://twpl.library.utoronto.ca/index.php/twpl/article/view/6520/0",
+    "creationDate" : "2014-06-19T07:32:06.318+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-001A-1F7F-C",
+    "content" : "https://twpl.library.utoronto.ca/index.php/twpl/article/view/6520/0",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "a91ba9de687e491ed47fe4e6aabb5362",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://twpl.library.utoronto.ca/index.php/twpl/article/view/6520/0",
+      "contentCategory" : "publisher-version",
+      "description" : "Univ. of Toronto, Toronto Working Papers in Linguistics TWPL, pdf",
+      "size" : 0
+    }
+  } ]
+}

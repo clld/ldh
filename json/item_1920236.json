@@ -1,0 +1,156 @@
+{
+  "objectId" : "item_1920236",
+  "versionNumber" : 5,
+  "modificationDate" : "2015-03-13T02:06:10.936+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-724F-D",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-13T02:06:10.936+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0015-1BE6-0",
+  "creator" : {
+    "objectId" : "user_1828475"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2014-02-06T11:40:20.154+0000",
+  "latestRelease" : {
+    "objectId" : "item_1920236",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T02:06:10.936+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-724F-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_1920236",
+    "versionNumber" : 5,
+    "modificationDate" : "2015-03-13T02:06:10.936+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-724F-D",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ ],
+  "metadata" : {
+    "title" : "Military journal of Major Ebenezer Denny, an officer in the revolutionary and Indian wars",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Ebenezer",
+        "familyName" : "Denny",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "Josiah",
+        "familyName" : "Harmar",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "William H.",
+        "familyName" : "Denny",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1859",
+    "genre" : "MONOGRAPH",
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "place" : "Philadelphia",
+      "publisher" : "Historical Society of Pennsylvania"
+    },
+    "freeKeywords" : "LoC Subject Headings: Delaware language, LoC Subject Headings: Shawnee language \nLoC Class: E83.79",
+    "subjects" : [ {
+      "value" : "dep - Pidgin Delaware",
+      "type" : "ISO639_3"
+    }, {
+      "value" : "sjw - Shawnee",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "288 S.",
+    "abstracts" : [ {
+      "value" : "''Vocabulary of words in use with the Delaware and Shawnee Indians''. p. 274-281.\nThe journal extends from May 1, 1781, to May 31, 1795.\nAlso published in Memoirs of the Historical Society of Pennsylvania, vol. 7, Philadelphia, 1860.\nA selection of letters written by General Josiah Harmer, Jan. 19, 1784-Dec. 27, 1796; p. 209-269.\n\nLoC Subject Headings: Indians of North America--Wars--1790-1794; Delaware language--Glossaries/vocabularies/etc.; Shawnee language--Glossaries/vocabularies/etc.; United States--History--Revolution, 1775-178--Personal narratives\nLoC Class: E83.79\n"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_1920234",
+    "name" : "Denny_MilitaryJournal1859.pdf",
+    "creationDate" : "2014-02-06T11:40:16.874+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0015-1BEA-8",
+    "content" : "/rest/items/item_1920236_5/component/file_1920234/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2ff9674531a2e5facd122fc5caefd400",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 17230255,
+    "metadata" : {
+      "title" : "Denny_MilitaryJournal1859.pdf",
+      "contentCategory" : "publisher-version",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 17230255,
+      "rights" : "Public Domain"
+    }
+  }, {
+    "objectId" : "file_1920235",
+    "name" : "https://archive.org/details/militaryjournalo00denn",
+    "creationDate" : "2014-02-06T11:40:17.201+0000",
+    "creator" : {
+      "objectId" : "user_1828475"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "https://archive.org/details/militaryjournalo00denn",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "372302c2271235fae08c433d48a17ec5",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "https://archive.org/details/militaryjournalo00denn",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org",
+      "size" : 0
+    }
+  } ]
+}

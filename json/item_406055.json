@@ -1,0 +1,138 @@
+{
+  "objectId" : "item_406055",
+  "versionNumber" : 5,
+  "modificationDate" : "2011-05-31T10:00:55.938+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8E8B-9",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T10:00:55.938+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8E8B-9",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:27:37.903+0000",
+  "latestRelease" : {
+    "objectId" : "item_406055",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T10:00:55.938+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8E8B-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406055",
+    "versionNumber" : 5,
+    "modificationDate" : "2011-05-31T10:00:55.938+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8E8B-9",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Dictionary of the Asante and Fante language called Tshi (Twi)",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Johann Gottlob",
+        "familyName" : "Christaller",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1933",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "35626",
+      "type" : "OTHER"
+    }, {
+      "id" : "twi_christaller1933_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Basel",
+      "publisher" : "Basel Evang. Missionary Soc."
+    },
+    "freeKeywords" : "LoC Subject Headings: Twi language",
+    "subjects" : [ {
+      "value" : "twi - Twi",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "xxxii, 608 S.",
+    "abstracts" : [ {
+      "value" : "PL8751.2, ISO 639-3 : twi, Twi language --Dictionaries"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406053",
+    "name" : "http://www.pathawi.net/twibible/sources/",
+    "creationDate" : "2010-04-01T13:27:31.181+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E89-D",
+    "content" : "http://www.pathawi.net/twibible/sources/",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "ExceptionReadingStream",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.pathawi.net/twibible/sources/",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406054",
+    "name" : "twi_christaller1933_o.pdf",
+    "creationDate" : "2010-04-01T13:27:32.784+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8E8A-B",
+    "content" : "/rest/items/item_406055_5/component/file_406054/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "2f04633a5d10d12f64f5d508151c0b95",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 50837208,
+    "metadata" : {
+      "title" : "twi_christaller1933_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 50837208,
+      "copyrightDate" : "2010-12-09",
+      "rights" : "not in copyright, Johann Gottlob Christaller 1827-1895"
+    }
+  } ]
+}

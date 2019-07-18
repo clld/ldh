@@ -1,0 +1,128 @@
+{
+  "objectId" : "item_405167",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-06-06T07:54:02.545+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-89A0-A",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:54:02.545+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-89A0-A",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:56:49.215+0000",
+  "latestRelease" : {
+    "objectId" : "item_405167",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:54:02.545+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-89A0-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_405167",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-06-06T07:54:02.545+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-89A0-A",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Guarani I and Work Book (for Peace Corps Volunteers)",
+    "creators" : [ {
+      "organization" : {
+        "name" : "United States / Peace Corps"
+      },
+      "role" : "EDITOR",
+      "type" : "ORGANIZATION"
+    } ],
+    "datePublishedInPrint" : "1995",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "34377",
+      "type" : "OTHER"
+    }, {
+      "id" : "guarani_peacecorps1995_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng", "spa", "grn" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "N.A.",
+      "publisher" : "Peace Corps (Paraguay)"
+    },
+    "freeKeywords" : "LoC Class: PM7171,\nLoC Subject Headings: Guarani language",
+    "subjects" : [ {
+      "value" : "gug - Guaraní, Paraguayan",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "101 S."
+  },
+  "files" : [ {
+    "objectId" : "file_405165",
+    "name" : "http://tinyurl.com/ycohdd",
+    "creationDate" : "2010-04-01T12:56:47.944+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-899E-1",
+    "content" : "http://tinyurl.com/ycohdd",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b6d695e857989e453ace28be8d065efe",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://tinyurl.com/ycohdd",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_405166",
+    "name" : "guarani_peacecorps1995_o.pdf",
+    "creationDate" : "2010-04-01T12:56:48.960+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-899F-0",
+    "content" : "/rest/items/item_405167_2/component/file_405166/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "02726b80e517d59fe54defd69abffb7e",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 2013014,
+    "metadata" : {
+      "title" : "guarani_peacecorps1995_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 2013014
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

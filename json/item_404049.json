@@ -1,0 +1,114 @@
+{
+  "objectId" : "item_404049",
+  "versionNumber" : 4,
+  "modificationDate" : "2011-06-06T07:25:36.565+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-8347-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-06-06T07:25:36.565+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-8347-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T12:33:21.939+0000",
+  "latestRelease" : {
+    "objectId" : "item_404049",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-06-06T07:25:36.565+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8347-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_404049",
+    "versionNumber" : 4,
+    "modificationDate" : "2011-06-06T07:25:36.565+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-8347-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Grammaire algonquine ou des sauvages de\nl'Amerique septentrionelle : avec la description du pays ...",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Louis",
+        "familyName" : "Nicolas",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1674",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "32202",
+      "type" : "OTHER"
+    }, {
+      "id" : "algonquine_nicolas1672_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "fra" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "s.l.",
+      "publisher" : "N.A."
+    },
+    "freeKeywords" : "LoC Subject Headings: Algonquian languages",
+    "totalNumberOfPages" : "135 S.",
+    "abstracts" : [ {
+      "value" : "PM601, ISO 639-3 : -, Algonquian languages"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_404048",
+    "name" : "algonquine_nicolas1672_o.pdf",
+    "creationDate" : "2010-04-01T12:33:21.258+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-8346-A",
+    "content" : "/rest/items/item_404049_4/component/file_404048/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "dfe9705e13617e837145af68887122e0",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 6446622,
+    "metadata" : {
+      "title" : "algonquine_nicolas1672_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 6446622,
+      "copyrightDate" : "2010-11-16",
+      "rights" : "not in copyright, Louis Nicolas ????-1682"
+    }
+  } ]
+}

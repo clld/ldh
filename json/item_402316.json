@@ -1,0 +1,144 @@
+{
+  "objectId" : "item_402316",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-11T11:32:21.051+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-68B6-C",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "Schlagwörter korrigiert",
+  "lastModificationDate" : "2015-03-11T11:32:21.051+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7880-C",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:30:07.874+0000",
+  "latestRelease" : {
+    "objectId" : "item_402316",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T11:32:21.051+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-68B6-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402316",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-11T11:32:21.051+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-68B6-C",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of the Nupe language, together with a vocabulary",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Alexander W.",
+        "familyName" : "Banfield",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    }, {
+      "person" : {
+        "givenName" : "John Lester",
+        "familyName" : "Macintyre"
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1915",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "29615",
+      "type" : "OTHER"
+    }, {
+      "id" : "nupe_banfield1915_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "London",
+      "publisher" : "Society for promoting Christian knowledge"
+    },
+    "freeKeywords" : "LoC Class: PL8577, LoC Subject Headings: Nupe language",
+    "subjects" : [ {
+      "value" : "nup - Nupe-Nupe-Tako",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "viii, 9-186 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PL8577, LoC Subject Headings: Nupe language--Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_402314",
+    "name" : "http://www.archive.org/details/grammarofnupelan00banfrich",
+    "creationDate" : "2010-04-01T11:30:05.588+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "content" : "http://www.archive.org/details/grammarofnupelan00banfrich",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "1f2386b010a69801158715002d9074aa",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www.archive.org/details/grammarofnupelan00banfrich",
+      "contentCategory" : "publisher-version",
+      "description" : "Archive.org, Internet Archive, view online & pdf download",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402315",
+    "name" : "nupe_banfield1915_o.pdf",
+    "creationDate" : "2010-04-01T11:30:06.751+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-787F-1",
+    "content" : "/rest/items/item_402316_3/component/file_402315/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "1b2e5107e3077e1b22805cc71c4a0ba6",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 10523019,
+    "metadata" : {
+      "title" : "nupe_banfield1915_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 10523019
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

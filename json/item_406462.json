@@ -1,0 +1,136 @@
+{
+  "objectId" : "item_406462",
+  "versionNumber" : 3,
+  "modificationDate" : "2013-09-25T11:46:50.736+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0014-56D0-6",
+  "modifier" : {
+    "objectId" : "user_1828475"
+  },
+  "message" : "public domain",
+  "lastModificationDate" : "2013-09-25T11:46:50.736+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-90C4-7",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:38:47.260+0000",
+  "latestRelease" : {
+    "objectId" : "item_406462",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-09-25T11:46:50.736+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-56D0-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406462",
+    "versionNumber" : 3,
+    "modificationDate" : "2013-09-25T11:46:50.736+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0014-56D0-6",
+    "modifier" : {
+      "objectId" : "user_1828475"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "A grammar of the Bengalee language",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "William",
+        "familyName" : "Carey",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "1818",
+    "genre" : "MONOGRAPH",
+    "identifiers" : [ {
+      "id" : "36966",
+      "type" : "OTHER"
+    }, {
+      "id" : "bengalee_carey1818_o.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "eng" ],
+    "publishingInfo" : {
+      "edition" : "4th ed.",
+      "place" : "Serampore",
+      "publisher" : "Mission Press"
+    },
+    "freeKeywords" : "LoC Subject Headings: Bengali language",
+    "subjects" : [ {
+      "value" : "ben - Bengali",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "VII, 113 S.",
+    "abstracts" : [ {
+      "value" : "LoC Class: PK1655,\nLoC Subject Headings: Bengali language --Grammar"
+    } ]
+  },
+  "files" : [ {
+    "objectId" : "file_406460",
+    "name" : "http://books.google.com/books?id=-KUIAAAAQAAJ",
+    "creationDate" : "2010-04-01T13:38:45.890+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0014-56D1-4",
+    "content" : "http://books.google.com/books?id=-KUIAAAAQAAJ",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "37c9769db100aebca0edacac6875fbcb",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://books.google.com/books?id=-KUIAAAAQAAJ",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406461",
+    "name" : "bengalee_carey1818_o.pdf",
+    "creationDate" : "2010-04-01T13:38:46.469+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-90C3-9",
+    "content" : "/rest/items/item_406462_3/component/file_406461/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "c1aa4d97db274d9db8c0cf0ecdf066cf",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 8080493,
+    "metadata" : {
+      "title" : "bengalee_carey1818_o.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 8080493
+    }
+  } ]
+}

@@ -1,0 +1,132 @@
+{
+  "objectId" : "item_402450",
+  "versionNumber" : 2,
+  "modificationDate" : "2011-05-31T11:20:51.191+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0012-7938-8",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Batch release",
+  "lastModificationDate" : "2011-05-31T11:20:51.191+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-7938-8",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T11:31:51.250+0000",
+  "latestRelease" : {
+    "objectId" : "item_402450",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:20:51.191+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7938-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_402450",
+    "versionNumber" : 2,
+    "modificationDate" : "2011-05-31T11:20:51.191+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0012-7938-8",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Die Phylogenese der Sprache und ihre Echos",
+    "creators" : [ {
+      "person" : {
+        "givenName" : "Anke",
+        "familyName" : "Möller",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "EDITOR",
+      "type" : "PERSON"
+    } ],
+    "dateAccepted" : "2001",
+    "datePublishedInPrint" : "2001",
+    "degree" : "PHD",
+    "genre" : "THESIS",
+    "identifiers" : [ {
+      "id" : "29913",
+      "type" : "OTHER"
+    }, {
+      "id" : "phylogenese_moeller2001_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Bochum",
+      "publisher" : " Univ."
+    },
+    "freeKeywords" : "LoC Class: P116,\nLoC Subject Headings: Language and languages --Origin",
+    "totalNumberOfPages" : "265 S."
+  },
+  "files" : [ {
+    "objectId" : "file_402448",
+    "name" : "http://www-brs.ub.ruhr-uni-bochum.de/netahtml/HSS/Diss/MoellerAnke/diss.pdf",
+    "creationDate" : "2010-04-01T11:31:50.605+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-7936-C",
+    "content" : "http://www-brs.ub.ruhr-uni-bochum.de/netahtml/HSS/Diss/MoellerAnke/diss.pdf",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "b3abf8870f8ee088abba90e533980fec",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://www-brs.ub.ruhr-uni-bochum.de/netahtml/HSS/Diss/MoellerAnke/diss.pdf",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_402449",
+    "name" : "phylogenese_moeller2001_s.pdf",
+    "creationDate" : "2010-04-01T11:31:51.053+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-7937-A",
+    "content" : "/rest/items/item_402450_2/component/file_402449/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "33e1fd25e1d58e1b1a1f0b25cfe8e133",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 1370405,
+    "metadata" : {
+      "title" : "phylogenese_moeller2001_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 1370405
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}

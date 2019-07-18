@@ -1,0 +1,135 @@
+{
+  "objectId" : "item_406450",
+  "versionNumber" : 3,
+  "modificationDate" : "2015-03-12T20:56:04.489+0000",
+  "versionState" : "RELEASED",
+  "versionPid" : "hdl:11858/00-001M-0000-0025-6FFC-B",
+  "modifier" : {
+    "objectId" : "user_user42"
+  },
+  "message" : "Auto Batch Update -- LDH Keyword processing",
+  "lastModificationDate" : "2015-03-12T20:56:04.489+0000",
+  "publicState" : "RELEASED",
+  "objectPid" : "hdl:11858/00-001M-0000-0012-90B3-B",
+  "creator" : {
+    "objectId" : "user_284919"
+  },
+  "context" : {
+    "objectId" : "ctx_37005",
+    "name" : "Language Description Heritage",
+    "lastModificationDate" : "2017-05-08T07:55:08.552+0000",
+    "creationDate" : "2008-09-29T13:37:19.474+0000",
+    "creator" : {
+      "objectId" : "user_user42"
+    },
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "creationDate" : "2010-04-01T13:38:12.957+0000",
+  "latestRelease" : {
+    "objectId" : "item_406450",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:56:04.489+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FFC-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "latestVersion" : {
+    "objectId" : "item_406450",
+    "versionNumber" : 3,
+    "modificationDate" : "2015-03-12T20:56:04.489+0000",
+    "versionState" : "RELEASED",
+    "versionPid" : "hdl:11858/00-001M-0000-0025-6FFC-B",
+    "modifier" : {
+      "objectId" : "user_user42"
+    }
+  },
+  "localTags" : [ "multiple_import", "LingLit Import 2010-04-01 10:10" ],
+  "metadata" : {
+    "title" : "Descricao fonetico-fonologica da lingua akwen-xerente",
+    "creators" : [ {
+      "person" : {
+        "completeName" : "Souza, Shelton Lima de",
+        "givenName" : "Shelton Lima de",
+        "familyName" : "Souza",
+        "organizations" : [ {
+          "identifier" : "ou_persistent22",
+          "name" : "External Organizations",
+          "identifierPath" : [ "ou_persistent22" ]
+        } ]
+      },
+      "role" : "AUTHOR",
+      "type" : "PERSON"
+    } ],
+    "datePublishedInPrint" : "2008",
+    "genre" : "BOOK",
+    "identifiers" : [ {
+      "id" : "36962",
+      "type" : "OTHER"
+    }, {
+      "id" : "akwenxerente_souza2008_s.html",
+      "type" : "OTHER"
+    } ],
+    "languages" : [ "por" ],
+    "publishingInfo" : {
+      "edition" : "N.A.",
+      "place" : "Brasilia",
+      "publisher" : "Dep. de Linguistica"
+    },
+    "freeKeywords" : "LoC Class: PM5151, LoC Subject Headings: Ge languages, LoC Subject Headings: Indians of South America --Brazil --Languages, LoC Subject Headings: Brazil --Languages",
+    "subjects" : [ {
+      "value" : "xer - Xerénte",
+      "type" : "ISO639_3"
+    } ],
+    "totalNumberOfPages" : "100 S."
+  },
+  "files" : [ {
+    "objectId" : "file_406448",
+    "name" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=3354",
+    "creationDate" : "2010-04-01T13:38:11.255+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "PUBLIC",
+    "pid" : "hdl:11858/00-001M-0000-0012-90B1-F",
+    "content" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=3354",
+    "storage" : "EXTERNAL_URL",
+    "checksum" : "37b08c05464c4e17234a45c9b2e2f557",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/octet-stream",
+    "size" : 0,
+    "metadata" : {
+      "title" : "http://bdtd.bce.unb.br/tedesimplificado/tde_busca/arquivo.php?codArquivo=3354",
+      "contentCategory" : "publisher-version",
+      "size" : 0
+    }
+  }, {
+    "objectId" : "file_406449",
+    "name" : "akwenxerente_souza2008_s.pdf",
+    "creationDate" : "2010-04-01T13:38:12.849+0000",
+    "creator" : {
+      "objectId" : "user_284919"
+    },
+    "visibility" : "AUDIENCE",
+    "pid" : "hdl:11858/00-001M-0000-0012-90B2-D",
+    "content" : "/rest/items/item_406450_3/component/file_406449/content",
+    "storage" : "INTERNAL_MANAGED",
+    "checksum" : "78cb5512333fcdc055b6ed56337031c8",
+    "checksumAlgorithm" : "MD5",
+    "mimeType" : "application/pdf",
+    "size" : 410290,
+    "metadata" : {
+      "title" : "akwenxerente_souza2008_s.pdf",
+      "contentCategory" : "any-fulltext",
+      "formats" : [ {
+        "value" : "application/pdf",
+        "type" : "dcterms:IMT"
+      } ],
+      "size" : 410290
+    },
+    "allowedAudienceIds" : [ "376" ]
+  } ]
+}
