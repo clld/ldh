@@ -25,8 +25,7 @@
     rights-holder of a suitable publication, please consider making
     your works available under a CC-license.</p>
 <p>One consequence of the CC-license is that the <i>Language Description Heritage</i> collection is in no way intended
-    to be exclusive or restrictive. Any work available here can be (re)published elsewhere, and might thus be available
-    at various places.</p>
+    to be exclusive or restrictive. Most works available here might thus be available at various places.</p>
 
 
 <h2 id="repository">Repository</h2>
