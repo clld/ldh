@@ -1,9 +1,10 @@
 from pyramid.config import Configurator
-from clld.interfaces import IMapMarker
+from clld.interfaces import IMapMarker, IDownload
 from clld_glottologfamily_plugin.util import LanguageByFamilyMapMarker
 
 # we must make sure custom models are known at database initialization!
 from ldh import models
+from ldh import adapters
 
 
 def main(global_config, **settings):
@@ -45,5 +46,9 @@ def main(global_config, **settings):
             id=req.matchdict['id'].split('-')[0],
             _query=req.query_params),
         name='category')
+
+    assert config.registry.unregisterUtility(provided=IDownload, name='dataset.cldf')
+    config.register_download(
+        adapters.BibTeX(models.Description, 'ldh', description="Descriptions as BibTeX"))
 
     return config.make_wsgi_app()
