@@ -17,29 +17,19 @@ def main(global_config, **settings):
 
     # /feed/ -> /sources.atom
     """
-/about/ -> /
-/about/objective/ -> /about
-/archive/ -> /sources
-/category/allgemein/
-/category/iso639_3/
 /comments/feed/
-/contact/ -> /contact
 /feed/ -> /sources.atom
-/for-authors/
-/for-authors/aftersubmission/
-/for-authors/contribute-your-work-to-the-ldh-collection/
-/for-authors/permission-form/
-/for-authors/submitting-content-to-ldh-which-has-already-been-submitted-or-published-by-another-publisher/
-/for-authors/take-care-when-signing-future-contracts-with-publishers/
-/for-authors/take-down-policy/
-/for-authors/what-can-i-do-if-i-do-not-want-to-assign-a-cc-license/
-/for-authors/what-is-a-cc-license/
-/for-authors/what-we-do-to-clear-copyright-status-of-used-material/
-/for-authors/which-cc-license-should-i-choose/
-/for-authors/why-should-i-contribute-my-work/
-/repository/ -> /about#repository
     """
-
+    config.add_301('/about/', lambda req: req.route_url('dataset', id='ldh'))
+    config.add_301('/about/objective/', lambda req: req.route_url('about', _anchor='objectives'))
+    config.add_301('/repository/', lambda req: req.route_url('about', _anchor='repository'))
+    config.add_301('/archive/', lambda req: req.route_url('sources'))
+    config.add_301('/category/iso639_3/', lambda req: req.route_url('languages'))
+    config.add_301('/category/allgemein/', lambda req: req.route_url('languages'))
+    config.add_301('/contact/', lambda req: req.route_url('contact'))
+    config.add_301('/for-authors/', lambda req: req.route_url('help'))
+    config.add_301('/for-authors/{path}/', lambda req: req.route_url('help'))
+    config.add_301('/feed/', lambda req: req.route_url('sources_alt', ext='atom'))
 
     config.add_301(
         '/{year}/{month}/{day}/escidoc{id}/',

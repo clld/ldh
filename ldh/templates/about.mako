@@ -1,6 +1,6 @@
 <%inherit file="home_comp.mako"/>
 
-<h2>Objectives</h2>
+<h2 id="objectives">Objectives</h2>
 
 <p>Although much work is still to be done as for the documentation, description and analysis of the world&#8217;s
     languages, there already exists a large body of scientific contributions dealing with the world&#8217;s linguistic
@@ -35,9 +35,11 @@
     accessibility such as</p>
 <dl>
     <dt>${h.external_link('https://pure.mpg.de', label='PuRe')}</dt>
-    <dd>the Publication Repository system of the Max Planck Society. PuRe is the Open Access Repository of the Max
-        Planck Society, it supports the management, dissemination and re-use of publications and supplementary material.
+    <dd>the Publication Repository system of the Max Planck Society.
     </dd>
     <dt>${h.external_link('https://zotero.org', label='Zenodo')}</dt>
-    <dd></dd>
+    <dd>
+        the publication repository hosted and offered by
+        ${h.external_link("https://home.cern/", label="CERN")}.
+    </dd>
 </dl>

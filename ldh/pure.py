@@ -4,6 +4,7 @@ import re
 
 import attr
 from clldutils.source import Source
+from clldutils.licenses import find
 
 from ldh.util import REPOS
 
@@ -88,7 +89,7 @@ class File(object):
 
     @property
     def license(self):
-        return self.metadata.get('license')
+        return find((self.metadata.get('license') or '').strip())
 
     @classmethod
     def from_value(cls, d):

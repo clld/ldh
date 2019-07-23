@@ -37,11 +37,11 @@ class Description(CustomModelMixin, Source):
     @property
     def permalink_url(self):
         if self.pid_type == 'doi':
-            return 'https://doi.org/{0.doi}'.format(self)
+            return 'https://doi.org/{0.pid}'.format(self)
         return 'http://hdl.handle.net/{0.pid}'.format(self)
 
     @property
     def permalink_label(self):
         if self.pid_type == 'doi':
-            return 'DOI: {0.doi}'.format(self)
+            return 'DOI: {0.pid}'.format(self)
         return 'hdl: {0.pid}'.format(self)

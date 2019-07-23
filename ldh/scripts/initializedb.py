@@ -1,6 +1,7 @@
 import sys
 import pathlib
 
+import attr
 from clld.scripts.util import initializedb, Data
 from clld.db.meta import DBSession
 from clld.db.models import common
@@ -28,14 +29,15 @@ def main(args):
         publisher_url="https://www.shh.mpg.de",
         license="https://creativecommons.org/licenses/by/4.0/",
         domain='ldh.clld.org',
+        contact='ldh@shh.mpg.de',
         jsondata={
             'license_icon': 'cc-by.png',
             'license_name': 'Creative Commons Attribution 4.0 International License'})
     DBSession.add(dataset)
 
-    #
-    # TODO: add editors!
-    #
+    DBSession.add(common.Editor(
+        dataset=dataset,
+        contributor=common.Contributor(id='forkel', name='Robert Forkel')))
 
     ls = set()
     for post in iter_posts():
@@ -56,6 +58,21 @@ def main(args):
                     pid=item.doi or item.pid,
                     pid_type='doi' if item.doi else 'hdl',
                 )
+                DBSession.flush()
+                for file in item.files:
+                    if file.visibility == 'PUBLIC' \
+                            and file.metadata["contentCategory"] == "any-fulltext"\
+                            and file.storage == 'INTERNAL_MANAGED':
+                        assert file.mimeType == 'application/pdf'
+                        DBSession.add(common.Source_files(
+                            id=file.pid.replace('/', '__'),
+                            name=file.name,
+                            object_pk=src.pk,
+                            mime_type=file.mimeType,
+                            jsondata=dict(
+                                size=file.size,
+                                license=attr.asdict(file.license) if file.license else None),
+                        ))
             for iso in item.isocodes:
                 if iso in lbyi:
                     gl = lbyi[iso]

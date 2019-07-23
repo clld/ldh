@@ -12,8 +12,26 @@ import json
 import attr
 from bs4 import BeautifulSoup
 import requests
+from clld.web.util.helpers import external_link, icon
+from clld.web.util.htmllib import HTML
+from clldutils.misc import format_size
 
 REPOS = pathlib.Path(__file__).parent.parent
+
+
+def file_link(file):
+    content = [
+        HTML.a(
+            icon('file'),
+            'PDF ({0})'.format(format_size(file.jsondata['size'])),
+            href='http://hdl.handle.net/' + file.id.replace('__', '/'),
+        )]
+    license = file.jsondata['license']
+    if license:
+        content.append(' licensed under ')
+        content.append(external_link(
+            license['url'], label=license['id'].upper(), title=license['name']))
+    return HTML.span(*content)
 
 
 @attr.s

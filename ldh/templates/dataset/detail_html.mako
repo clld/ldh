@@ -2,23 +2,27 @@
 
 <%def name="sidebar()">
     <div class="well">
-        <h3>Sidebar</h3>
-        <p>
-            Content
-        </p>
+        <h3>Quick Links</h3>
+        <ul>
+            <li><a href="${req.route_url('about', _anchor='objectives')}"><strong>Objectives of LDH</strong></a></li>
+            <li><a href="${req.route_url('about', _anchor='repository')}"><strong>Structure of LDH/Publication
+                Repository</strong></a></li>
+            ##<li><a title="Go to page: for authors" href="/for-authors/"><strong>Information for Authors</strong></a></li>
+            ##<li><strong><a href="http://ldh.clld.org/for-authors/permission-form/">Download permission form</a></strong></li>
+        </ul>
     </div>
 </%def>
 
 <h2>Language Description Heritage</h2>
 <h3 class="subtitle">an OPEN ACCESS DIGITAL LIBRARY</h3>
 
-<p class="lead">The <a title="Go to page: objectives" href="${req.route_url('about')}">goal</a> of the Language
+<p>The <a title="Go to page: objectives" href="${req.route_url('about')}">goal</a> of the Language
     Description Heritage (LDH) Open Access Digital Library is to provide easy access to descriptive material about the
-    world’s languages. This collection is being compiled at the <a title="Go to page of Max Planck Society"
-                                                                   href="http://www.mpg.de/en" target="_blank">Max
-        Planck Society</a> in Germany as an open access digital repository of existing scientific contributions
+    world’s languages. This collection is being compiled at the
+    ${h.external_link("http://www.mpg.de/en", label='Max Planck Society')} in Germany as an open access
+    digital repository of existing scientific contributions
     describing the world-wide linguistic diversity, focussing on traditionally difficult to obtain works.</p>
-<p><a title="Go to page: for authors" href="/for-authors/">Contributing your work</a> to the Language Description
+<p>Contributing your work to the Language Description
     Heritage (LDH) library will benefit you in several ways:</p>
 <ul>
     <li>It will enhance the visibility of your research so other researchers will more easily find it, acknowledge it
@@ -39,11 +43,3 @@
     that this website will not provide fine-grained search and navigation options. We only provide a basic search of
     this website and a search-link to the <a title="about: repository" href="/about/repository/">publication
         repository</a>.</p>
-<p>Quick Links:</p>
-<ul>
-    <li><a title="Go to page: objectives" href="/about/objective/"><strong>Objectives of LDH</strong></a></li>
-    <li><a title="Go to page: repository" href="/repository/"><strong>Structure of LDH/Publication
-        Repository</strong></a></li>
-    <li><a title="Go to page: for authors" href="/for-authors/"><strong>Information for Authors</strong></a></li>
-    <li><strong><a href="http://ldh.clld.org/for-authors/permission-form/">Download permission form</a></strong></li>
-</ul>
