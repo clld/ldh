@@ -53,6 +53,8 @@ def main(args):
                     bibtex_type=EntryType.get(item.bibtex_type),
                     year=item.year,
                     title=item.title,
+                    address=item.publisher.get('place') if item.publisher else None,
+                    publisher=item.publisher.get('publisher') if item.publisher else None,
                     author=' and '.join(item.authors),
                     editor=' and '.join(item.editors),
                     pid=item.doi or item.pid,

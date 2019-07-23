@@ -9,6 +9,9 @@ class BibTeX(Download):
         rec = item.bibtex()
         if item.languages:
             rec['lgcode'] = ', '.join('[{0}]'.format(l.id) for l in item.languages)
+        rec['url'] = item.permalink_url
+        if item.pid_type == 'doi':
+            rec['doi'] = item.pid
         fp.write((str(rec) + '\n\n').encode('utf8'))
 
 
