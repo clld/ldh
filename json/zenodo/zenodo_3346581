@@ -1,0 +1,118 @@
+{
+    "owners": [
+        6062
+    ],
+    "stats": {
+        "version_downloads": 8.0,
+        "version_unique_downloads": 3.0,
+        "version_volume": 22798184.0,
+        "unique_downloads": 3.0,
+        "unique_views": 4.0,
+        "volume": 22798184.0,
+        "downloads": 8.0,
+        "version_views": 11.0,
+        "views": 11.0,
+        "version_unique_views": 4.0
+    },
+    "metadata": {
+        "language": "mka",
+        "contributors": [
+            {
+                "affiliation": "University of Zurich",
+                "orcid": "0000-0002-3969-6549",
+                "type": "DataCurator",
+                "name": "Moran, Steven"
+            }
+        ],
+        "access_right": "open",
+        "relations": {
+            "version": [
+                {
+                    "last_child": {
+                        "pid_value": "3346581",
+                        "pid_type": "recid"
+                    },
+                    "index": 0,
+                    "parent": {
+                        "pid_value": "3346580",
+                        "pid_type": "recid"
+                    },
+                    "count": 1,
+                    "is_last": true
+                }
+            ]
+        },
+        "keywords": [
+            "grammar",
+            "linguistics",
+            "fieldwork",
+            "iso:mka",
+            "glottocode:mbre1244"
+        ],
+        "license": {
+            "id": "CC-BY-4.0"
+        },
+        "related_identifiers": [
+            {
+                "identifier": "10.5281/zenodo.3346580",
+                "relation": "isVersionOf",
+                "scheme": "doi"
+            }
+        ],
+        "resource_type": {
+            "subtype": "book",
+            "title": "Book",
+            "type": "publication"
+        },
+        "title": "A grammar of Pere (Bere, Mbre) of C\u00f4te d'Ivoire",
+        "description": "<p>A grammar of Pere (Bere, Mbre) of C&ocirc;te d&rsquo;Ivoire.&nbsp;Pere (in the literature also spelled P\u025br\u025b, Bere, Mbre) is a seriously endangered language of central C&ocirc;te d&rsquo;Ivoire. It is listed as &ldquo;Mbre&rdquo; in Glottolog (viewed July 2018), code mbre1244, and in ISO 639-3, code mka.</p>",
+        "doi": "10.5281/zenodo.3346581",
+        "communities": [
+            {
+                "id": "ldh"
+            }
+        ],
+        "publication_date": "2019-07-23",
+        "creators": [
+            {
+                "affiliation": "University of Michigan",
+                "orcid": "0000-0002-1918-2137",
+                "name": "Heath, Jeffrey"
+            },
+            {
+                "affiliation": "Universit\u00e9 F\u00e9lix Houphou\u00ebt-Boigny, Abidjan",
+                "name": "Tiot\u00e9, Brahima"
+            }
+        ],
+        "access_right_category": "success"
+    },
+    "conceptrecid": "3346580",
+    "updated": "2019-07-23T19:05:50.402915+00:00",
+    "id": 3346581,
+    "files": [
+        {
+            "size": 2849773,
+            "key": "Heath Tiote Pere grammar 2019 BW.pdf",
+            "type": "pdf",
+            "links": {
+                "self": "https://zenodo.org/api/files/920f75a1-bba8-4748-a280-969a84f0313f/Heath%20Tiote%20Pere%20grammar%202019%20BW.pdf"
+            },
+            "checksum": "md5:4e09028e487bace120b837e8442e3d65",
+            "bucket": "920f75a1-bba8-4748-a280-969a84f0313f"
+        }
+    ],
+    "created": "2019-07-23T08:43:10.471588+00:00",
+    "links": {
+        "latest_html": "https://zenodo.org/record/3346581",
+        "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.3346580.svg",
+        "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.3346581.svg",
+        "html": "https://zenodo.org/record/3346581",
+        "conceptdoi": "https://doi.org/10.5281/zenodo.3346580",
+        "doi": "https://doi.org/10.5281/zenodo.3346581",
+        "bucket": "https://zenodo.org/api/files/920f75a1-bba8-4748-a280-969a84f0313f",
+        "latest": "https://zenodo.org/api/records/3346581"
+    },
+    "doi": "10.5281/zenodo.3346581",
+    "revision": 5,
+    "conceptdoi": "10.5281/zenodo.3346580"
+}

@@ -4,6 +4,7 @@ import json
 from clldutils.clilib import ArgumentParserWithLogging, command
 
 from ldh import pure
+from ldh import zenodo
 from ldh.util import get, REPOS, bs, iter_posts
 
 
@@ -35,6 +36,11 @@ def crawl_ldh(args):
         posts[url] = [pid, read_post(url, pid)]
     with REPOS.joinpath('posts.json').open('w') as fp:
         json.dump(posts, fp, indent=4)
+
+
+@command()
+def crawl_zenodo(args):
+    zenodo.crawl()
 
 
 @command()

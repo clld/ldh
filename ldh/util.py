@@ -40,6 +40,7 @@ class Post(object):
     url = attr.ib()
     pure_url = attr.ib()
     html = attr.ib()
+    zenodo = attr.ib(default=False)
 
     @property
     def pure_item_id(self):
