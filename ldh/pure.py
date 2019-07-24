@@ -118,7 +118,7 @@ class Item(object):
 
     @classmethod
     def from_json(cls, id_):
-        with REPOS.joinpath('json', id_ + '.json').open() as fp:
+        with REPOS.joinpath('json', 'pure', id_ + '.json').open() as fp:
             data = json.load(fp)
 
         identifiers = grouped(data['metadata'].get('identifiers'), 'type', 'id')

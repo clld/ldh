@@ -8,11 +8,13 @@ from clld.db.models import common
 from clld.lib.bibtex import EntryType
 from pyglottolog import Glottolog
 from clld_glottologfamily_plugin.util import load_families
+from clldutils import licenses
 
 import ldh
 from ldh import models
 from ldh.util import iter_posts
 from ldh import pure
+from ldh import zenodo
 
 
 def main(args):
@@ -85,6 +87,48 @@ def main(args):
                     if (item.id, iso) not in ls:
                         DBSession.add(common.LanguageSource(language_pk=l.pk, source_pk=src.pk))
                         ls.add((item.id, iso))
+
+    for item in zenodo.iter_items():
+        src = data.add(
+            models.Description, item.id,
+            id=item.id,
+            description=item['metadata']['title'],
+            name=item.name,
+            bibtex_type=EntryType.get(item.bibtex_type),
+            year=item.year,
+            title=item['metadata']['title'],
+            publisher='Zenodo',
+            author=' and '.join(a['name'] for a in item['metadata']['creators']),
+            pid=item['metadata']['doi'],
+            pid_type='doi',
+        )
+        DBSession.flush()
+        for file in item['files']:
+            license = licenses.find(item['metadata']['license']['id'])
+            DBSession.add(common.Source_files(
+                id=file['checksum'].replace('md5:', ''),
+                name=file['key'],
+                object_pk=src.pk,
+                mime_type='application/' + file['type'],
+                jsondata=dict(
+                    size=file['size'],
+                    license=attr.asdict(license) if license else None),
+            ))
+
+        for kw in item['metadata']['keywords']:
+            if not kw.startswith('iso:'):
+                continue
+            iso = kw.replace('iso:', '')
+            if iso in lbyi:
+                gl = lbyi[iso]
+                l = data['LDHLanguage'].get(iso)
+                if not l:
+                    l = data.add(models.LDHLanguage, iso, id=iso, name=gl.name)
+                DBSession.flush()
+                if (item.id, iso) not in ls:
+                    DBSession.add(common.LanguageSource(language_pk=l.pk, source_pk=src.pk))
+                    ls.add((item.id, iso))
+
 
     load_families(
         data,

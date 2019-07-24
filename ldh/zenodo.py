@@ -3,6 +3,8 @@ from xml.etree import ElementTree as ET
 
 import requests
 from bs4 import BeautifulSoup as bs
+from clldutils.jsonlib import load
+from nameparser import HumanName
 
 from ldh.util import REPOS
 
@@ -57,3 +59,31 @@ def crawl():
         outdir.mkdir()
     for id_ in iter_identifiers('ldh'):
         get(id_.split(':')[-1], outdir)
+
+
+class Item(dict):
+    def __init__(self, p):
+        dict.__init__(self, load(p))
+        self.id = p.stem
+
+    @property
+    def name(self):
+        author_names = [HumanName(c['name']) for c in self['metadata']['creators']]
+        if len(author_names) < 3:
+            res = ' and '.join(a.last for a in author_names)
+        else:
+            res = '{0} et al.'.format(author_names[0].last)
+        return '{0} {1}'.format(res, self.year)
+
+    @property
+    def year(self):
+        return self['metadata']['publication_date'].split('-')[0]
+
+    @property
+    def bibtex_type(self):
+        return self['metadata']['resource_type']['subtype']
+
+
+def iter_items():
+    for p in REPOS.joinpath('json', 'zenodo').glob('*'):
+        yield Item(p)
