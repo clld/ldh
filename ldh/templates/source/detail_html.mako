@@ -2,6 +2,10 @@
 <%namespace name="util" file="../util.mako"/>
 <%! active_menu_item = "sources" %>
 
+<%block name="head">
+    <link rel="canonical" href="${ctx.permalink_url}" />
+</%block>
+
 <h2>${ctx.name}</h2>
 ${ctx.coins(request)|n}
 <a class="btn btn-info" href="${ctx.permalink_url}">${ctx.permalink_label}</a>
