@@ -2,11 +2,13 @@ from pyramid.config import Configurator
 from clld.interfaces import IMapMarker, IDownload
 from clld_glottologfamily_plugin.util import LanguageByFamilyMapMarker
 
-from clld.web import views
-
 # we must make sure custom models are known at database initialization!
 from ldh import models
 from ldh import adapters
+
+_ = lambda s: s
+_('Source')
+_('Sources')
 
 
 def main(global_config, **settings):
