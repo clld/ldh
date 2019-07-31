@@ -81,7 +81,10 @@ class Item(dict):
 
     @property
     def bibtex_type(self):
-        return self['metadata']['resource_type']['subtype']
+        try:
+            return self['metadata']['resource_type']['subtype']
+        except KeyError:
+            return 'misc'
 
 
 def iter_items():

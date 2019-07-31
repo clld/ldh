@@ -1,0 +1,113 @@
+{
+    "conceptdoi": "10.5281/zenodo.3354205",
+    "revision": 3,
+    "updated": "2019-07-30T07:30:53.426726+00:00",
+    "doi": "10.5281/zenodo.3354206",
+    "files": [
+        {
+            "key": "P\u025br\u025b flora fauna.xlsx",
+            "checksum": "md5:5979ca0e877106485b99dd124a0b4657",
+            "type": "xlsx",
+            "size": 65603,
+            "bucket": "5b927dc5-5d3a-4aaf-b563-ffb25b20bcfe",
+            "links": {
+                "self": "https://zenodo.org/api/files/5b927dc5-5d3a-4aaf-b563-ffb25b20bcfe/P%C9%9Br%C9%9B%20flora%20fauna.xlsx"
+            }
+        }
+    ],
+    "id": 3354206,
+    "links": {
+        "latest": "https://zenodo.org/api/records/3354206",
+        "html": "https://zenodo.org/record/3354206",
+        "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.3354205.svg",
+        "conceptdoi": "https://doi.org/10.5281/zenodo.3354205",
+        "latest_html": "https://zenodo.org/record/3354206",
+        "bucket": "https://zenodo.org/api/files/5b927dc5-5d3a-4aaf-b563-ffb25b20bcfe",
+        "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.3354206.svg",
+        "doi": "https://doi.org/10.5281/zenodo.3354206"
+    },
+    "owners": [
+        6062
+    ],
+    "created": "2019-07-29T10:47:28.173743+00:00",
+    "conceptrecid": "3354205",
+    "metadata": {
+        "description": "<p>A lexicon of flora and faun terms for Pere (Bere, Mbre) of C&ocirc;te d&rsquo;Ivoire.&nbsp;Pere (in the literature also spelled P\u025br\u025b, Bere, Mbre) is a seriously endangered language of central C&ocirc;te d&rsquo;Ivoire. It is listed as &ldquo;Mbre&rdquo; in Glottolog (viewed July 2018), code mbre1244, and in ISO 639-3, code mka.</p>",
+        "related_identifiers": [
+            {
+                "identifier": "10.5281/zenodo.3354205",
+                "relation": "isVersionOf",
+                "scheme": "doi"
+            }
+        ],
+        "communities": [
+            {
+                "id": "ldh"
+            }
+        ],
+        "title": "Pere lexicon of flora and fauna",
+        "language": "mka",
+        "keywords": [
+            "lexicon",
+            "linguistics",
+            "iso:mka",
+            "glottocode:mbre1244"
+        ],
+        "doi": "10.5281/zenodo.3354206",
+        "access_right_category": "success",
+        "creators": [
+            {
+                "name": "Heath, Jeffrey",
+                "orcid": "0000-0002-1918-2137",
+                "affiliation": "University of Michigan"
+            }
+        ],
+        "publication_date": "2019-07-29",
+        "license": {
+            "id": "CC-BY-4.0"
+        },
+        "resource_type": {
+            "type": "dataset",
+            "title": "Dataset"
+        },
+        "relations": {
+            "version": [
+                {
+                    "index": 0,
+                    "count": 1,
+                    "parent": {
+                        "pid_type": "recid",
+                        "pid_value": "3354205"
+                    },
+                    "is_last": true,
+                    "last_child": {
+                        "pid_type": "recid",
+                        "pid_value": "3354206"
+                    }
+                }
+            ]
+        },
+        "contributors": [
+            {
+                "name": "Moran, Steven",
+                "orcid": "0000-0002-3969-6549",
+                "affiliation": "University of Zurich",
+                "type": "DataCurator"
+            }
+        ],
+        "notes": "Work in progress",
+        "access_right": "open"
+    },
+    "stats": {
+        "unique_views": 1.0,
+        "downloads": 4.0,
+        "unique_downloads": 3.0,
+        "version_unique_downloads": 3.0,
+        "version_views": 2.0,
+        "version_downloads": 4.0,
+        "version_volume": 262412.0,
+        "volume": 262412.0,
+        "version_unique_views": 1.0,
+        "views": 2.0
+    }
+}

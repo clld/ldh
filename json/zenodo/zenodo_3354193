@@ -1,0 +1,116 @@
+{
+    "conceptdoi": "10.5281/zenodo.3354192",
+    "revision": 4,
+    "updated": "2019-07-30T07:30:56.802594+00:00",
+    "doi": "10.5281/zenodo.3354193",
+    "files": [
+        {
+            "key": "Pere lexicon.xlsx",
+            "checksum": "md5:62564d0ed150fb7ed24305bbd10a34c8",
+            "type": "xlsx",
+            "size": 190492,
+            "bucket": "590aa136-40c7-4e7e-9a94-ee58dc2f61a5",
+            "links": {
+                "self": "https://zenodo.org/api/files/590aa136-40c7-4e7e-9a94-ee58dc2f61a5/Pere%20lexicon.xlsx"
+            }
+        }
+    ],
+    "id": 3354193,
+    "links": {
+        "latest": "https://zenodo.org/api/records/3354193",
+        "html": "https://zenodo.org/record/3354193",
+        "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.3354192.svg",
+        "conceptdoi": "https://doi.org/10.5281/zenodo.3354192",
+        "latest_html": "https://zenodo.org/record/3354193",
+        "bucket": "https://zenodo.org/api/files/590aa136-40c7-4e7e-9a94-ee58dc2f61a5",
+        "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.3354193.svg",
+        "doi": "https://doi.org/10.5281/zenodo.3354193"
+    },
+    "owners": [
+        6062
+    ],
+    "created": "2019-07-29T10:43:59.178441+00:00",
+    "conceptrecid": "3354192",
+    "metadata": {
+        "description": "<p>A lexicon of Pere (Bere, Mbre) of C&ocirc;te d&rsquo;Ivoire.&nbsp;Pere (in the literature also spelled P\u025br\u025b, Bere, Mbre) is a seriously endangered language of central C&ocirc;te d&rsquo;Ivoire. It is listed as &ldquo;Mbre&rdquo; in Glottolog (viewed July 2018), code mbre1244, and in ISO 639-3, code mka.</p>",
+        "related_identifiers": [
+            {
+                "identifier": "10.5281/zenodo.3354192",
+                "relation": "isVersionOf",
+                "scheme": "doi"
+            }
+        ],
+        "communities": [
+            {
+                "id": "ldh"
+            }
+        ],
+        "title": "Pere lexicon",
+        "language": "mka",
+        "keywords": [
+            "lexicon",
+            "linguistics",
+            "iso:mka",
+            "glottocode:mbre1244"
+        ],
+        "doi": "10.5281/zenodo.3354193",
+        "creators": [
+            {
+                "name": "Heath, Jeffrey",
+                "orcid": "0000-0002-1918-2137",
+                "affiliation": "University of Michigan"
+            }
+        ],
+        "access_right_category": "success",
+        "references": [
+            "Heath, Jeffrey, & Tiot\u00e9, Brahima. (2019). A grammar of Pere (Bere, Mbre) of C\u00f4te d'Ivoire. Zenodo. http://doi.org/10.5281/zenodo.3346581"
+        ],
+        "publication_date": "2019-07-29",
+        "license": {
+            "id": "CC-BY-4.0"
+        },
+        "resource_type": {
+            "type": "dataset",
+            "title": "Dataset"
+        },
+        "relations": {
+            "version": [
+                {
+                    "index": 0,
+                    "count": 1,
+                    "parent": {
+                        "pid_type": "recid",
+                        "pid_value": "3354192"
+                    },
+                    "is_last": true,
+                    "last_child": {
+                        "pid_type": "recid",
+                        "pid_value": "3354193"
+                    }
+                }
+            ]
+        },
+        "contributors": [
+            {
+                "name": "Moran, Steven",
+                "orcid": "0000-0002-3969-6549",
+                "affiliation": "University of Zurich",
+                "type": "DataCurator"
+            }
+        ],
+        "notes": "Work in progress.",
+        "access_right": "open"
+    },
+    "stats": {
+        "unique_views": 1.0,
+        "downloads": 3.0,
+        "unique_downloads": 3.0,
+        "version_unique_downloads": 3.0,
+        "version_views": 2.0,
+        "version_downloads": 3.0,
+        "version_volume": 571476.0,
+        "volume": 571476.0,
+        "version_unique_views": 1.0,
+        "views": 2.0
+    }
+}
