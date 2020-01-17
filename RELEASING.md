@@ -4,7 +4,7 @@ Releasing clld/ldh
 
 - add new uploads from Zenodo:
 ```bash
-
+ldh crawl_zenodo
 ```
 - recreate the database. This assumes a soft link `data/concepticon-data`.
 ```bash
