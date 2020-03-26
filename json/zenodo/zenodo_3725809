@@ -1,0 +1,125 @@
+{
+    "doi": "10.5281/zenodo.3725809",
+    "revision": 3,
+    "links": {
+        "doi": "https://doi.org/10.5281/zenodo.3725809",
+        "bucket": "https://zenodo.org/api/files/8c6c56c7-eb30-4735-86f7-933a6ca2e2d4",
+        "conceptdoi": "https://doi.org/10.5281/zenodo.3725808",
+        "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.3725808.svg",
+        "html": "https://zenodo.org/record/3725809",
+        "latest": "https://zenodo.org/api/records/3725809",
+        "latest_html": "https://zenodo.org/record/3725809",
+        "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.3725809.svg"
+    },
+    "stats": {
+        "volume": 4696022.0,
+        "unique_downloads": 2.0,
+        "views": 2.0,
+        "version_unique_views": 2.0,
+        "version_unique_downloads": 2.0,
+        "version_views": 2.0,
+        "version_volume": 4696022.0,
+        "version_downloads": 2.0,
+        "unique_views": 2.0,
+        "downloads": 2.0
+    },
+    "metadata": {
+        "doi": "10.5281/zenodo.3725809",
+        "creators": [
+            {
+                "orcid": "0000-0002-1918-2137",
+                "name": "Heath, Jeffrey",
+                "affiliation": "University of Michigan"
+            }
+        ],
+        "keywords": [
+            "grammar",
+            "linguistics",
+            "fieldwork",
+            "iso:tde",
+            "glottocode:tira1258"
+        ],
+        "publication_date": "2020-03-24",
+        "notes": "Grammar draft dated February 2017",
+        "contributors": [
+            {
+                "orcid": "0000-0002-3969-6549",
+                "name": "Moran, Steven",
+                "type": "DataCurator",
+                "affiliation": "University of Zurich"
+            }
+        ],
+        "access_right_category": "success",
+        "license": {
+            "id": "CC-BY-4.0"
+        },
+        "resource_type": {
+            "title": "Book",
+            "subtype": "book",
+            "type": "publication"
+        },
+        "related_identifiers": [
+            {
+                "identifier": "10.5281/zenodo.3725808",
+                "scheme": "doi",
+                "relation": "isVersionOf"
+            }
+        ],
+        "language": "tde",
+        "access_right": "open",
+        "title": "A Grammar of Tiranige",
+        "communities": [
+            {
+                "id": "ldh"
+            }
+        ],
+        "relations": {
+            "version": [
+                {
+                    "last_child": {
+                        "pid_value": "3725809",
+                        "pid_type": "recid"
+                    },
+                    "is_last": true,
+                    "count": 1,
+                    "parent": {
+                        "pid_value": "3725808",
+                        "pid_type": "recid"
+                    },
+                    "index": 0
+                }
+            ]
+        },
+        "description": "<p>A draft grammar of a Dogon language from the &quot;western&quot; subgroup, spoken in villages above the western cliffs of the Dogon plateau and in villages at the base of the cliffs, Tiranige is part of a block of languages from the &quot;western&quot; subgroup that run from Najamba-Kindige in the northeast down to Penange in the southwest.</p>\n\n<p>It is listed as &ldquo;Tiranige Diga Dogon&rdquo; in Glottolog (viewed March 2020), code tira1258, and in ISO 639-3, code tde.</p>"
+    },
+    "conceptdoi": "10.5281/zenodo.3725808",
+    "created": "2020-03-24T14:16:42.844655+00:00",
+    "files": [
+        {
+            "checksum": "md5:94c5075fed6b8bd5e4e7b8e3298fb48f",
+            "key": "Heath_Tiranige_grammar.docx",
+            "size": 770320,
+            "type": "docx",
+            "links": {
+                "self": "https://zenodo.org/api/files/8c6c56c7-eb30-4735-86f7-933a6ca2e2d4/Heath_Tiranige_grammar.docx"
+            },
+            "bucket": "8c6c56c7-eb30-4735-86f7-933a6ca2e2d4"
+        },
+        {
+            "checksum": "md5:009d8e1950bb80af9b0d466a8b7b7c37",
+            "key": "Heath_Tiranige_grammar.pdf",
+            "size": 2348011,
+            "type": "pdf",
+            "links": {
+                "self": "https://zenodo.org/api/files/8c6c56c7-eb30-4735-86f7-933a6ca2e2d4/Heath_Tiranige_grammar.pdf"
+            },
+            "bucket": "8c6c56c7-eb30-4735-86f7-933a6ca2e2d4"
+        }
+    ],
+    "updated": "2020-03-24T20:20:11.182345+00:00",
+    "id": 3725809,
+    "owners": [
+        6062
+    ],
+    "conceptrecid": "3725808"
+}

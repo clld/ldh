@@ -1,0 +1,125 @@
+{
+    "doi": "10.5281/zenodo.3725819",
+    "revision": 3,
+    "links": {
+        "doi": "https://doi.org/10.5281/zenodo.3725819",
+        "bucket": "https://zenodo.org/api/files/aa2dbfe9-d281-4e32-90d8-1d1dcfb3cf07",
+        "conceptdoi": "https://doi.org/10.5281/zenodo.3725818",
+        "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.3725818.svg",
+        "html": "https://zenodo.org/record/3725819",
+        "latest": "https://zenodo.org/api/records/3725819",
+        "latest_html": "https://zenodo.org/record/3725819",
+        "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.3725819.svg"
+    },
+    "stats": {
+        "volume": 2950750.0,
+        "unique_downloads": 1.0,
+        "views": 1.0,
+        "version_unique_views": 1.0,
+        "version_unique_downloads": 1.0,
+        "version_views": 1.0,
+        "version_volume": 2950750.0,
+        "version_downloads": 1.0,
+        "unique_views": 1.0,
+        "downloads": 1.0
+    },
+    "metadata": {
+        "doi": "10.5281/zenodo.3725819",
+        "creators": [
+            {
+                "orcid": "0000-0002-1918-2137",
+                "name": "Heath, Jeffrey",
+                "affiliation": "University of Michigan"
+            }
+        ],
+        "keywords": [
+            "grammar",
+            "linguistics",
+            "fieldwork",
+            "iso:dtu",
+            "glottocode:tebu1239"
+        ],
+        "publication_date": "2020-03-24",
+        "notes": "Grammar draft dated August 2015",
+        "contributors": [
+            {
+                "orcid": "0000-0002-3969-6549",
+                "name": "Moran, Steven",
+                "type": "DataCurator",
+                "affiliation": "University of Zurich"
+            }
+        ],
+        "access_right_category": "success",
+        "license": {
+            "id": "CC-BY-4.0"
+        },
+        "resource_type": {
+            "title": "Book",
+            "subtype": "book",
+            "type": "publication"
+        },
+        "related_identifiers": [
+            {
+                "identifier": "10.5281/zenodo.3725818",
+                "scheme": "doi",
+                "relation": "isVersionOf"
+            }
+        ],
+        "language": "dtu",
+        "access_right": "open",
+        "title": "A Grammar of Tebul Ure (Dogon, Mali)",
+        "communities": [
+            {
+                "id": "ldh"
+            }
+        ],
+        "relations": {
+            "version": [
+                {
+                    "last_child": {
+                        "pid_value": "3725819",
+                        "pid_type": "recid"
+                    },
+                    "is_last": true,
+                    "count": 1,
+                    "parent": {
+                        "pid_value": "3725818",
+                        "pid_type": "recid"
+                    },
+                    "index": 0
+                }
+            ]
+        },
+        "description": "<p>A draft grammar of a&nbsp;Dogon language from the &quot;western&quot; subgroup,&nbsp;spoken in villages above the eastern cliffs of the Dogon plateau overlooking Bamba (Jamsay language) and Yanda (Yanda Dom) language. Tebul Ure and Yanda Dom form a geographically separate block within the &quot;western&quot; Dogon subgroup which also includes Najamba-Kindige, Dogul Dom, and other languages.</p>\n\n<p>It is listed as &ldquo;Tebul Ure Dogon&rdquo; in Glottolog (viewed March 2020), code tebu1239, and in ISO 639-3, code dtu.</p>"
+    },
+    "conceptdoi": "10.5281/zenodo.3725818",
+    "created": "2020-03-24T14:16:32.156646+00:00",
+    "files": [
+        {
+            "checksum": "md5:1688153e0dec7f1504c5a3ef7bc1d9d7",
+            "key": "Heath_Tebul_Ure_grammar.docx",
+            "size": 1019417,
+            "type": "docx",
+            "links": {
+                "self": "https://zenodo.org/api/files/aa2dbfe9-d281-4e32-90d8-1d1dcfb3cf07/Heath_Tebul_Ure_grammar.docx"
+            },
+            "bucket": "aa2dbfe9-d281-4e32-90d8-1d1dcfb3cf07"
+        },
+        {
+            "checksum": "md5:0e2fd3f7b92f75099c3ea4876d2f47fa",
+            "key": "Heath_Tebul_Ure_grammar.pdf",
+            "size": 2950750,
+            "type": "pdf",
+            "links": {
+                "self": "https://zenodo.org/api/files/aa2dbfe9-d281-4e32-90d8-1d1dcfb3cf07/Heath_Tebul_Ure_grammar.pdf"
+            },
+            "bucket": "aa2dbfe9-d281-4e32-90d8-1d1dcfb3cf07"
+        }
+    ],
+    "updated": "2020-03-24T20:20:11.181513+00:00",
+    "id": 3725819,
+    "owners": [
+        6062
+    ],
+    "conceptrecid": "3725818"
+}
