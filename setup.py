@@ -18,8 +18,9 @@ setup(
     include_package_data=True,
     zip_safe=False,
     install_requires=[
-        'clld',
-        'clldmpg',
+        'clld>=6',
+        'clldmpg>=3.5',
+        'cldfcatalog',
         'clld-glottologfamily-plugin',
         'pyglottolog',
         'sqlalchemy',
@@ -33,7 +34,7 @@ setup(
         'test': [
             'psycopg2',
             'mock',
-            'pytest>=3.1',
+            'pytest>=3.6',
             'pytest-clld>=0.4',
             'pytest-mock',
             'pytest-cov',
@@ -45,7 +46,10 @@ setup(
     },
     test_suite="ldh",
     entry_points={
-        'console_scripts': ['ldh=ldh.__main__:main'],
-        'paste.app_factory': ['main = ldh:main'],
-    }
-)
+        'console_scripts': [
+            'ldh=ldh.__main__:main',
+        ],
+        'paste.app_factory': [
+            'main = ldh:main',
+        ],
+    })

@@ -1,31 +1,40 @@
 import sys
-import json
+import contextlib
 
-from clldutils.clilib import ArgumentParserWithLogging, command
+from clldutils.clilib import register_subcommands, get_parser_and_subparsers, ParserError
+from clldutils.loglib import Logging
 
-from ldh import pure
-from ldh import zenodo
-from ldh.util import get, REPOS, bs, iter_posts
-
-
-@command()
-def crawl_zenodo(args):
-    zenodo.crawl()
+import ldh.commands
 
 
-@command()
-def items(args):
-    for post in iter_posts():
-        if post.pure_item_id:
-            item = pure.Item.from_json(post.pure_item_id)
-            #print(item.authors, item.creators, item.title)
-            print(item.as_source().bibtex())
+def main(args=None, catch_all=False, parsed_args=None, log=None):
+    parser, subparsers = get_parser_and_subparsers('ldh')
+    register_subcommands(subparsers, ldh.commands)
+
+    args = parsed_args or parser.parse_args(args=args)
+
+    if not hasattr(args, "main"):
+        parser.print_help()
+        return 1
+
+    with contextlib.ExitStack() as stack:
+        if not log:  # pragma: no cover
+            stack.enter_context(Logging(args.log, level=args.log_level))
+        else:
+            args.log = log
+        try:
+            return args.main(args) or 0
+        except KeyboardInterrupt:  # pragma: no cover
+            return 0
+        except ParserError as e:
+            print(e)
+            return main([args._command, '-h'])
+        except Exception as e:  # pragma: no cover
+            if catch_all:
+                print(e)
+                return 1
+            raise
 
 
-def main():  # pragma: no cover
-    parser = ArgumentParserWithLogging('ldh')
-    sys.exit(parser.main())
-
-
-if __name__ == '__main__':
-    main()
+if __name__ == '__main__':  # pragma: no cover
+    sys.exit(main() or 0)

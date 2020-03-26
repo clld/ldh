@@ -3,14 +3,12 @@ Releasing clld/ldh
 ==================
 
 - add new uploads from Zenodo:
-```bash
-ldh crawl_zenodo
+```shell script
+ldh crawl
 ```
-- recreate the database. This assumes a soft link `data/concepticon-data`.
+- recreate the database:
 ```bash
-dropdb ldh
-createdb ldh
-python ldh/scripts/initializedb.py development.ini
+ldh initdb --glottolog-version v4.1
 ```
 
 - Create downloads:

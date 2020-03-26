@@ -1,8 +1,5 @@
-import sys
-import pathlib
-
 import attr
-from clld.scripts.util import initializedb, Data
+from clld.scripts.util import Data
 from clld.db.meta import DBSession
 from clld.db.models import common
 from clld.lib.bibtex import EntryType
@@ -19,7 +16,7 @@ from ldh import zenodo
 
 def main(args):
     data = Data()
-    glottolog = Glottolog(pathlib.Path(ldh.__file__).parent.parent.parent.parent.joinpath('glottolog', 'glottolog'))
+    glottolog = Glottolog(args.glottolog)
     languoids = list(glottolog.languoids())
     lbyi = {l.iso: l for l in languoids if l.iso}
 
@@ -135,15 +132,3 @@ def main(args):
         data['LDHLanguage'].values(),
         glottolog_repos=glottolog.repos,
         isolates_icon='tcccccc')
-
-
-def prime_cache(args):
-    """If data needs to be denormalized for lookup, do that here.
-    This procedure should be separate from the db initialization, because
-    it will have to be run periodically whenever data has been updated.
-    """
-
-
-if __name__ == '__main__':  # pragma: no cover
-    initializedb(create=main, prime_cache=prime_cache)
-    sys.exit(0)
