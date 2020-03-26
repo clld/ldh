@@ -25,6 +25,7 @@ setup(
         'pyglottolog',
         'sqlalchemy',
         'waitress',
+        'bs4',
     ],
     extras_require={
         'dev': [
