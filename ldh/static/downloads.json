@@ -1,38 +1,65 @@
 {
     "1.1": {
-        "oid": "EAEA0-BE6C-9540-8F87-0",
         "bitstreams": [
             {
-                "checksum": "cd38047af1298115571c8af52b47f400",
-                "checksum-algorithm": "MD5",
-                "last-modified": 1564574178541,
-                "created": 1564574178515,
-                "bitstreamid": "ldh_description.bib.zip",
                 "filesize": 135820,
-                "content-type": "application/zip"
+                "checksum": "cd38047af1298115571c8af52b47f400",
+                "created": 1564574178515,
+                "content-type": "application/zip",
+                "last-modified": 1564574178541,
+                "checksum-algorithm": "MD5",
+                "bitstreamid": "ldh_description.bib.zip"
             }
         ],
         "metadata": {
             "title": "ldh 1.1 - downloads",
             "creator": "pycdstar"
-        }
+        },
+        "oid": "EAEA0-BE6C-9540-8F87-0"
     },
-    "1.0": {
-        "oid": "EAEA0-A662-A618-386E-0",
+    "1.2": {
         "bitstreams": [
             {
-                "checksum": "e78cc316c1d6d4333f6a7066f124616d",
+                "filesize": 136291,
+                "checksum": "3559d7777927b27727230ae8a997b57d",
+                "created": 1585230125691,
+                "content-type": "application/zip",
+                "last-modified": 1585230125702,
                 "checksum-algorithm": "MD5",
-                "last-modified": 1564067496265,
+                "bitstreamid": "ldh_description.bib.zip"
+            },
+            {
+                "filesize": 22,
+                "checksum": "76cdb2bad9582d23c1f6f4d868218d6c",
+                "created": 1585230123049,
+                "content-type": "application/octet-stream",
+                "last-modified": 1585230123057,
+                "checksum-algorithm": "MD5",
+                "bitstreamid": "ldh_description.bib.zip.mpqexz"
+            }
+        ],
+        "metadata": {
+            "title": "ldh 1.2 - downloads",
+            "creator": "pycdstar"
+        },
+        "oid": "EAEA0-8F15-6319-EF7A-0"
+    },
+    "1.0": {
+        "bitstreams": [
+            {
                 "filesize": 135684,
-                "bitstreamid": "ldh_description.bib.zip",
+                "checksum": "e78cc316c1d6d4333f6a7066f124616d",
                 "created": 1564067496253,
-                "content-type": "application/zip"
+                "content-type": "application/zip",
+                "last-modified": 1564067496265,
+                "checksum-algorithm": "MD5",
+                "bitstreamid": "ldh_description.bib.zip"
             }
         ],
         "metadata": {
             "title": "ldh 1.0 - downloads",
             "creator": "pycdstar"
-        }
+        },
+        "oid": "EAEA0-A662-A618-386E-0"
     }
 }

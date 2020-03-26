@@ -18,7 +18,7 @@ clld-create-downloads development.ini
 
 - Upload the downloads to CDSTAR:
 ```
-clldmpg --version=<version> dl2cdstar
+clldmpg dl2cdstar --version=<version>
 ```
 
 - Make sure the tests pass
