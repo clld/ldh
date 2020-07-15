@@ -109,6 +109,7 @@ def main(args):
                 mime_type='application/' + file['type'],
                 jsondata=dict(
                     size=file['size'],
+                    url=file['links']['self'],
                     license=attr.asdict(license) if license else None),
             ))
 

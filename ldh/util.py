@@ -20,11 +20,14 @@ REPOS = pathlib.Path(__file__).parent.parent
 
 
 def file_link(file):
+    url = file.jsondata.get('url', 'http://hdl.handle.net/' + file.id.replace('__', '/'))
+    suffix = pathlib.Path(url.split('/')[-1]).suffix
     content = [
         HTML.a(
             icon('file'),
-            'PDF ({0})'.format(format_size(file.jsondata['size'])),
-            href='http://hdl.handle.net/' + file.id.replace('__', '/'),
+            '{} ({})'.format(
+                suffix[1:].upper() if suffix else 'PDF', format_size(file.jsondata['size'])),
+            href=url,
         )]
     license = file.jsondata['license']
     if license:
