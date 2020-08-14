@@ -36,7 +36,7 @@
     <dt>${h.external_link('https://pure.mpg.de', label='PuRe')}</dt>
     <dd>the Publication Repository system of the Max Planck Society.
     </dd>
-    <dt>${h.external_link('https://zotero.org', label='Zenodo')}</dt>
+    <dt>${h.external_link('https://zenodo.org', label='Zenodo')}</dt>
     <dd>
         the publication repository hosted and offered by
         ${h.external_link("https://home.cern/", label="CERN")}.
