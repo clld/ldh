@@ -2,13 +2,13 @@
 Releasing clld/ldh
 ==================
 
-- add new uploads from Zenodo:
+- add new uploads from Zenodo's [ldh community](https://zenodo.org/communities/ldh):
 ```shell script
 ldh crawl
 ```
 - recreate the database:
 ```bash
-ldh initdb --glottolog-version v4.1
+ldh initdb --glottolog-version v4.3
 ```
 
 - Create downloads:
