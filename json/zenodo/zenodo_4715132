@@ -1,0 +1,140 @@
+{
+    "files": [
+        {
+            "links": {
+                "self": "https://zenodo.org/api/files/a021c4ec-5637-467f-82da-891344dad4bc/Tiefo%20D%20text%20collection%20April%202021%20BW.pdf"
+            },
+            "checksum": "md5:0e23a132cc79dd2878883c7c615bba2f",
+            "bucket": "a021c4ec-5637-467f-82da-891344dad4bc",
+            "key": "Tiefo D text collection April 2021 BW.pdf",
+            "type": "pdf",
+            "size": 3802870
+        },
+        {
+            "links": {
+                "self": "https://zenodo.org/api/files/a021c4ec-5637-467f-82da-891344dad4bc/Tiefo%20D%20text%20collection%20April%202021%20color.pdf"
+            },
+            "checksum": "md5:70b06c08d2b5031c0c6bcbaacf5873ff",
+            "bucket": "a021c4ec-5637-467f-82da-891344dad4bc",
+            "key": "Tiefo D text collection April 2021 color.pdf",
+            "type": "pdf",
+            "size": 3878174
+        }
+    ],
+    "owners": [
+        6062
+    ],
+    "doi": "10.5281/zenodo.4715132",
+    "stats": {
+        "version_unique_downloads": 12.0,
+        "unique_views": 18.0,
+        "views": 27.0,
+        "version_views": 27.0,
+        "unique_downloads": 12.0,
+        "version_unique_views": 18.0,
+        "volume": 68526964.0,
+        "version_downloads": 18.0,
+        "downloads": 18.0,
+        "version_volume": 68526964.0
+    },
+    "links": {
+        "doi": "https://doi.org/10.5281/zenodo.4715132",
+        "conceptdoi": "https://doi.org/10.5281/zenodo.4715131",
+        "bucket": "https://zenodo.org/api/files/a021c4ec-5637-467f-82da-891344dad4bc",
+        "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.4715131.svg",
+        "html": "https://zenodo.org/record/4715132",
+        "latest_html": "https://zenodo.org/record/4715132",
+        "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.4715132.svg",
+        "latest": "https://zenodo.org/api/records/4715132"
+    },
+    "conceptdoi": "10.5281/zenodo.4715131",
+    "created": "2021-04-23T11:44:34.828635+00:00",
+    "updated": "2021-04-23T12:28:09.524372+00:00",
+    "conceptrecid": "4715131",
+    "revision": 3,
+    "id": 4715132,
+    "metadata": {
+        "access_right_category": "success",
+        "doi": "10.5281/zenodo.4715132",
+        "description": "<p>Transcriptions, translation (English), and notes from recordings of Tiefo-D language (Glottolog code tief1242), i.e. Tiefo of Daramandugu, (SW Burkina Faso). Designed to be used in conjunction with &quot;A grammar of Tiefo-D&quot; (same authors), 10.5281/zenodo.4715103, and with &quot;Tiefo-D Lexicon&quot; (same authors), 10.5281/zenodo.4715136. See appendix in this volume (repeated from the grammar) for how to use the lexicon. The audio files will soon be made available at Deep Blue Data (University of Michigan Libraries).</p>",
+        "contributors": [
+            {
+                "orcid": "0000-0002-3969-6549",
+                "affiliation": "University of Neuch\u00e2tel",
+                "type": "DataCurator",
+                "name": "Moran, Steven"
+            }
+        ],
+        "title": "Tiefo-D Texts from Daramandugu",
+        "language": "tiq",
+        "notes": "Work supported by National Endowment for the Humanities (NEH) grant PD-255909-17.",
+        "relations": {
+            "version": [
+                {
+                    "count": 1,
+                    "index": 0,
+                    "parent": {
+                        "pid_type": "recid",
+                        "pid_value": "4715131"
+                    },
+                    "is_last": true,
+                    "last_child": {
+                        "pid_type": "recid",
+                        "pid_value": "4715132"
+                    }
+                }
+            ]
+        },
+        "access_right": "open",
+        "communities": [
+            {
+                "id": "ldh"
+            }
+        ],
+        "keywords": [
+            "linguistics",
+            "texts",
+            "iso:tiq",
+            "glottocode:tief1242"
+        ],
+        "publication_date": "2021-04-23",
+        "creators": [
+            {
+                "orcid": "0000-0002-1918-2137",
+                "affiliation": "University of Michigan",
+                "name": "Heath, Jeffrey"
+            },
+            {
+                "affiliation": "University of Ouagadougou",
+                "name": "Ouattara, Aminata"
+            }
+        ],
+        "license": {
+            "id": "CC-BY-4.0"
+        },
+        "resource_type": {
+            "subtype": "book",
+            "type": "publication",
+            "title": "Book"
+        },
+        "related_identifiers": [
+            {
+                "scheme": "doi",
+                "identifier": "10.5281/zenodo.4715103",
+                "relation": "isSupplementedBy",
+                "resource_type": "publication-book"
+            },
+            {
+                "scheme": "doi",
+                "identifier": "10.5281/zenodo.4715136",
+                "relation": "isSupplementedBy",
+                "resource_type": "dataset"
+            },
+            {
+                "scheme": "doi",
+                "identifier": "10.5281/zenodo.4715131",
+                "relation": "isVersionOf"
+            }
+        ]
+    }
+}

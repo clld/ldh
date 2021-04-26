@@ -1,8 +1,11 @@
+import pathlib
+
 import attr
-from clld.scripts.util import Data
+from clld.cliutil import Data
 from clld.db.meta import DBSession
 from clld.db.models import common
 from clld.lib.bibtex import EntryType
+from cldfcatalog import Catalog
 from pyglottolog import Glottolog
 from clld_glottologfamily_plugin.util import load_families
 from clldutils import licenses
@@ -13,10 +16,18 @@ from ldh.util import iter_posts
 from ldh import pure
 from ldh import zenodo
 
+PROJECT_DIR = pathlib.Path(__file__).parent.parent.parent.parent
+
 
 def main(args):
-    data = Data()
-    glottolog = Glottolog(args.glottolog)
+    gl_dir = PROJECT_DIR.parent / 'glottolog' / 'glottolog'
+    gl_dir = pathlib.Path(input('Path to clone of glottolog/glottolog [{}]: '.format(gl_dir)) or gl_dir)
+    assert gl_dir.exists()
+    with Catalog(gl_dir, tag=input('Glottolog version: ') or None) as cat:
+        _main(Data(), Glottolog(gl_dir))
+
+
+def _main(data, glottolog):
     languoids = list(glottolog.languoids())
     lbyi = {l.iso: l for l in languoids if l.iso}
 

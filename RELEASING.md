@@ -8,7 +8,7 @@ ldh crawl
 ```
 - recreate the database:
 ```bash
-ldh initdb --glottolog-version v4.3
+clld initdb development.ini
 ```
 
 - Create downloads:

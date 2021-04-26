@@ -1,0 +1,129 @@
+{
+    "files": [
+        {
+            "links": {
+                "self": "https://zenodo.org/api/files/55e0937b-07b7-43fa-8052-47c8c67a91aa/Tiefo-D%20lexicon%20April%202021%20for%20pub.xlsx"
+            },
+            "checksum": "md5:d1b3e297f806484509047c476914dd88",
+            "bucket": "55e0937b-07b7-43fa-8052-47c8c67a91aa",
+            "key": "Tiefo-D lexicon April 2021 for pub.xlsx",
+            "type": "xlsx",
+            "size": 531499
+        }
+    ],
+    "owners": [
+        6062
+    ],
+    "doi": "10.5281/zenodo.4715136",
+    "stats": {
+        "version_unique_downloads": 3.0,
+        "unique_views": 16.0,
+        "views": 20.0,
+        "version_views": 20.0,
+        "unique_downloads": 3.0,
+        "version_unique_views": 16.0,
+        "volume": 4783491.0,
+        "version_downloads": 9.0,
+        "downloads": 9.0,
+        "version_volume": 4783491.0
+    },
+    "links": {
+        "doi": "https://doi.org/10.5281/zenodo.4715136",
+        "conceptdoi": "https://doi.org/10.5281/zenodo.4715135",
+        "bucket": "https://zenodo.org/api/files/55e0937b-07b7-43fa-8052-47c8c67a91aa",
+        "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.4715135.svg",
+        "html": "https://zenodo.org/record/4715136",
+        "latest_html": "https://zenodo.org/record/4715136",
+        "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.4715136.svg",
+        "latest": "https://zenodo.org/api/records/4715136"
+    },
+    "conceptdoi": "10.5281/zenodo.4715135",
+    "created": "2021-04-23T11:44:38.651522+00:00",
+    "updated": "2021-04-23T12:28:09.782876+00:00",
+    "conceptrecid": "4715135",
+    "revision": 3,
+    "id": 4715136,
+    "metadata": {
+        "access_right_category": "success",
+        "doi": "10.5281/zenodo.4715136",
+        "description": "<p>Lexicon of Tiefo-D language of Daramandugu. Designed to be used in conjunction with &quot;A grammar of Tiefo-D of Daramandugu&quot; (same authors), 10.5281/zenodo.4715103, and with &quot;Tiefo-D texts from Daramandugu&quot; (same authors), 10.5281/zenodo.4715132. For how to use the lexicon, see the appendix to the grammar, repeated as an appendix to the texts volume. Some images and video clips illustrating some vocabulary items will be filed soon in Deep Blue data (University of Michigan Libraries).</p>",
+        "contributors": [
+            {
+                "orcid": "0000-0002-3969-6549",
+                "affiliation": "University of Neuch\u00e2tel",
+                "type": "DataCurator",
+                "name": "Moran, Steven"
+            }
+        ],
+        "title": "Tiefo-D lexicon",
+        "language": "tiq",
+        "notes": "Work supported by National Endowment for the Humanities (NEH) grant PD-255909-17.",
+        "relations": {
+            "version": [
+                {
+                    "count": 1,
+                    "index": 0,
+                    "parent": {
+                        "pid_type": "recid",
+                        "pid_value": "4715135"
+                    },
+                    "is_last": true,
+                    "last_child": {
+                        "pid_type": "recid",
+                        "pid_value": "4715136"
+                    }
+                }
+            ]
+        },
+        "access_right": "open",
+        "communities": [
+            {
+                "id": "ldh"
+            }
+        ],
+        "keywords": [
+            "linguistics",
+            "lexicon",
+            "iso:tiq",
+            "glottocode:tief1242"
+        ],
+        "publication_date": "2021-04-23",
+        "creators": [
+            {
+                "orcid": "0000-0002-1918-2137",
+                "affiliation": "University of Michigan",
+                "name": "Heath, Jeffrey"
+            },
+            {
+                "affiliation": "University of Ouagadougou",
+                "name": "Ouattara, Aminata"
+            }
+        ],
+        "license": {
+            "id": "CC-BY-4.0"
+        },
+        "resource_type": {
+            "type": "dataset",
+            "title": "Dataset"
+        },
+        "related_identifiers": [
+            {
+                "scheme": "doi",
+                "identifier": "10.5281/zenodo.4715103",
+                "relation": "isSupplementedBy",
+                "resource_type": "publication-book"
+            },
+            {
+                "scheme": "doi",
+                "identifier": "10.5281/zenodo.4715132",
+                "relation": "isSupplementedBy",
+                "resource_type": "publication-book"
+            },
+            {
+                "scheme": "doi",
+                "identifier": "10.5281/zenodo.4715135",
+                "relation": "isVersionOf"
+            }
+        ]
+    }
+}

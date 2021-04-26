@@ -1,0 +1,140 @@
+{
+    "files": [
+        {
+            "links": {
+                "self": "https://zenodo.org/api/files/38baf377-1fb9-4001-b4ab-a25c7ac32d50/Tiefo%20D%20grammar%20April%202021%20BW.pdf"
+            },
+            "checksum": "md5:70cd6211adf32f57b1a93c330b6628b7",
+            "bucket": "38baf377-1fb9-4001-b4ab-a25c7ac32d50",
+            "key": "Tiefo D grammar April 2021 BW.pdf",
+            "type": "pdf",
+            "size": 6207191
+        },
+        {
+            "links": {
+                "self": "https://zenodo.org/api/files/38baf377-1fb9-4001-b4ab-a25c7ac32d50/Tiefo%20D%20grammar%20April%202021%20color.pdf"
+            },
+            "checksum": "md5:690ccc011f6b8d157ded261fb6950aa3",
+            "bucket": "38baf377-1fb9-4001-b4ab-a25c7ac32d50",
+            "key": "Tiefo D grammar April 2021 color.pdf",
+            "type": "pdf",
+            "size": 6343456
+        }
+    ],
+    "owners": [
+        6062
+    ],
+    "doi": "10.5281/zenodo.4715103",
+    "stats": {
+        "version_unique_downloads": 19.0,
+        "unique_views": 27.0,
+        "views": 38.0,
+        "version_views": 38.0,
+        "unique_downloads": 19.0,
+        "version_unique_views": 27.0,
+        "volume": 136558202.0,
+        "version_downloads": 22.0,
+        "downloads": 22.0,
+        "version_volume": 136558202.0
+    },
+    "links": {
+        "doi": "https://doi.org/10.5281/zenodo.4715103",
+        "conceptdoi": "https://doi.org/10.5281/zenodo.4715102",
+        "bucket": "https://zenodo.org/api/files/38baf377-1fb9-4001-b4ab-a25c7ac32d50",
+        "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.4715102.svg",
+        "html": "https://zenodo.org/record/4715103",
+        "latest_html": "https://zenodo.org/record/4715103",
+        "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.4715103.svg",
+        "latest": "https://zenodo.org/api/records/4715103"
+    },
+    "conceptdoi": "10.5281/zenodo.4715102",
+    "created": "2021-04-23T11:43:51.897021+00:00",
+    "updated": "2021-04-23T12:28:08.390810+00:00",
+    "conceptrecid": "4715102",
+    "revision": 3,
+    "id": 4715103,
+    "metadata": {
+        "access_right_category": "success",
+        "doi": "10.5281/zenodo.4715103",
+        "description": "<p>A grammar of Tiefo-D, Glottolog code tief1242, i.e. Tiefo of Daramandugu (SW Burkina Faso), distinct from Tiefo-N (Tiefo of Nyafogo and Numudara). Designed to be used in conjunction with &quot;Tiefo-D texts from Daramandugu&quot; (same authors), 10.5281/zenodo.4715132, and with &quot;Tiefo-D Lexicon&quot; (same authors), 10.5281/zenodo.4715136. See appendix in the grammar (repeated in the texts volume) for how to use the lexicon.</p>",
+        "contributors": [
+            {
+                "orcid": "0000-0002-3969-6549",
+                "affiliation": "University of Neuch\u00e2tel",
+                "type": "DataCurator",
+                "name": "Moran, Steven"
+            }
+        ],
+        "title": "A Grammar of Tiefo-D of Daramandugu",
+        "language": "tiq",
+        "notes": "Work supported by National Endowment for the Humanities (NEH) grant PD-255909-17.",
+        "relations": {
+            "version": [
+                {
+                    "count": 1,
+                    "index": 0,
+                    "parent": {
+                        "pid_type": "recid",
+                        "pid_value": "4715102"
+                    },
+                    "is_last": true,
+                    "last_child": {
+                        "pid_type": "recid",
+                        "pid_value": "4715103"
+                    }
+                }
+            ]
+        },
+        "access_right": "open",
+        "communities": [
+            {
+                "id": "ldh"
+            }
+        ],
+        "keywords": [
+            "linguistics",
+            "grammar",
+            "iso:tiq",
+            "glottocode:tief1242"
+        ],
+        "publication_date": "2021-04-23",
+        "creators": [
+            {
+                "orcid": "0000-0002-1918-2137",
+                "affiliation": "University of Michigan",
+                "name": "Heath, Jeffrey"
+            },
+            {
+                "affiliation": "University of Ouagadougou",
+                "name": "Ouattara, Aminata"
+            }
+        ],
+        "license": {
+            "id": "CC-BY-4.0"
+        },
+        "resource_type": {
+            "subtype": "book",
+            "type": "publication",
+            "title": "Book"
+        },
+        "related_identifiers": [
+            {
+                "scheme": "doi",
+                "identifier": "10.5281/zenodo.4715132",
+                "relation": "isSupplementedBy",
+                "resource_type": "publication-book"
+            },
+            {
+                "scheme": "doi",
+                "identifier": "10.5281/zenodo.4715136",
+                "relation": "isSupplementedBy",
+                "resource_type": "dataset"
+            },
+            {
+                "scheme": "doi",
+                "identifier": "10.5281/zenodo.4715102",
+                "relation": "isVersionOf"
+            }
+        ]
+    }
+}
