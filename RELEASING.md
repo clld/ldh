@@ -13,7 +13,7 @@ clld initdb development.ini
 
 - Create downloads:
 ```
-clld-create-downloads development.ini 
+clld create_downloads development.ini ldh.clld.org 
 ```
 
 - Upload the downloads to CDSTAR:
