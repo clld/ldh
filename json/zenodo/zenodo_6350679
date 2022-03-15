@@ -1,0 +1,103 @@
+{
+    "files": [
+        {
+            "links": {
+                "self": "https://zenodo.org/api/files/b2a901e1-8547-4228-b081-cb356adcd4d8/Tiranige%20lexicon%202022.csv"
+            },
+            "checksum": "md5:e8ccb64fde4b14dc2f6497a3d7e05424",
+            "bucket": "b2a901e1-8547-4228-b081-cb356adcd4d8",
+            "key": "Tiranige lexicon 2022.csv",
+            "type": "csv",
+            "size": 467098
+        }
+    ],
+    "owners": [
+        210817
+    ],
+    "doi": "10.5281/zenodo.6350679",
+    "stats": {
+        "version_unique_downloads": 4.0,
+        "unique_views": 5.0,
+        "views": 8.0,
+        "version_views": 8.0,
+        "unique_downloads": 4.0,
+        "version_unique_views": 5.0,
+        "volume": 2802588.0,
+        "version_downloads": 6.0,
+        "downloads": 6.0,
+        "version_volume": 2802588.0
+    },
+    "links": {
+        "doi": "https://doi.org/10.5281/zenodo.6350679",
+        "conceptdoi": "https://doi.org/10.5281/zenodo.6350678",
+        "bucket": "https://zenodo.org/api/files/b2a901e1-8547-4228-b081-cb356adcd4d8",
+        "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.6350678.svg",
+        "html": "https://zenodo.org/record/6350679",
+        "latest_html": "https://zenodo.org/record/6350679",
+        "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.6350679.svg",
+        "latest": "https://zenodo.org/api/records/6350679"
+    },
+    "conceptdoi": "10.5281/zenodo.6350678",
+    "created": "2022-03-13T21:51:35.483546+00:00",
+    "updated": "2022-03-14T06:48:14.403339+00:00",
+    "conceptrecid": "6350678",
+    "revision": 3,
+    "id": 6350679,
+    "metadata": {
+        "access_right_category": "success",
+        "doi": "10.5281/zenodo.6350679",
+        "description": "<p>Lexicon of Tiranige, a western Dogon language of east central Mali, in csv spreadsheet form. Columns from left to right (omitting blanks) are:</p>\n\n<p>Tiranige (transcription)<br>\nfinder (English finder list, i.e. usually one-word glosses)<br>\nrecherche (finder list in French)<br>\nEnglish (full English gloss)<br>\nfran&ccedil;ais (full French gloss)<br>\ncode (for certain lexical categories: fauna, flora, body, kinship)<br>\norder/family (for flora-fauna terms)<br>\nspecies (for flora-fauna terms)<br>\nsynonymy (alternative or former species binomials)</p>",
+        "license": {
+            "id": "CC-BY-4.0"
+        },
+        "title": "Tiranige lexicon",
+        "notes": "see also \"A grammar of Tiranige (Dogon, Mali\" also in this collection. Copies of the grammar and lexicon will also be archived online at Deep Blue (University of Michigan Libraries), along with audio recordings.",
+        "relations": {
+            "version": [
+                {
+                    "count": 1,
+                    "index": 0,
+                    "parent": {
+                        "pid_type": "recid",
+                        "pid_value": "6350678"
+                    },
+                    "is_last": true,
+                    "last_child": {
+                        "pid_type": "recid",
+                        "pid_value": "6350679"
+                    }
+                }
+            ]
+        },
+        "communities": [
+            {
+                "id": "ldh"
+            }
+        ],
+        "version": "March 2022",
+        "keywords": [
+            "Dogon",
+            "Tiranige"
+        ],
+        "publication_date": "2022-03-13",
+        "creators": [
+            {
+                "orcid": "0000-0002-1918-2137",
+                "affiliation": "University of Michigan",
+                "name": "Heath, Jeffrey"
+            }
+        ],
+        "access_right": "open",
+        "resource_type": {
+            "type": "dataset",
+            "title": "Dataset"
+        },
+        "related_identifiers": [
+            {
+                "scheme": "doi",
+                "identifier": "10.5281/zenodo.6350678",
+                "relation": "isVersionOf"
+            }
+        ]
+    }
+}

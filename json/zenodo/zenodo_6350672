@@ -1,0 +1,104 @@
+{
+    "files": [
+        {
+            "links": {
+                "self": "https://zenodo.org/api/files/46c49155-24b8-4df0-a11d-010ca54618a4/Tiranige%20grammar%202022.pdf"
+            },
+            "checksum": "md5:e2f7557051a6a7e7632cc7abffd1e782",
+            "bucket": "46c49155-24b8-4df0-a11d-010ca54618a4",
+            "key": "Tiranige grammar 2022.pdf",
+            "type": "pdf",
+            "size": 3235135
+        }
+    ],
+    "owners": [
+        210817
+    ],
+    "doi": "10.5281/zenodo.6350672",
+    "stats": {
+        "version_unique_downloads": 6.0,
+        "unique_views": 6.0,
+        "views": 6.0,
+        "version_views": 6.0,
+        "unique_downloads": 6.0,
+        "version_unique_views": 6.0,
+        "volume": 19410810.0,
+        "version_downloads": 6.0,
+        "downloads": 6.0,
+        "version_volume": 19410810.0
+    },
+    "links": {
+        "doi": "https://doi.org/10.5281/zenodo.6350672",
+        "conceptdoi": "https://doi.org/10.5281/zenodo.6350671",
+        "bucket": "https://zenodo.org/api/files/46c49155-24b8-4df0-a11d-010ca54618a4",
+        "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.6350671.svg",
+        "html": "https://zenodo.org/record/6350672",
+        "latest_html": "https://zenodo.org/record/6350672",
+        "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.6350672.svg",
+        "latest": "https://zenodo.org/api/records/6350672"
+    },
+    "conceptdoi": "10.5281/zenodo.6350671",
+    "created": "2022-03-13T21:30:23.620888+00:00",
+    "updated": "2022-03-14T06:48:18.760153+00:00",
+    "conceptrecid": "6350671",
+    "revision": 3,
+    "id": 6350672,
+    "metadata": {
+        "access_right_category": "success",
+        "doi": "10.5281/zenodo.6350672",
+        "description": "<p>Reference grammar of Tiranige (also known locally as Duleri), spoken on and just under the western cliffs of the Dogon (Bandiagara) Plateau in east central Mali. Texts with interlinears and translations are included at the end. Tiranige belongs to the western Dogon genetic subgroup of the language family. It is geographically intermediate between the Najamba-Kindige-Bondu group to the northeast, and the remaining western Dogon languages to the south and southeast, including Bunoge. Tiranige is notable for having pronominal-subject agreement suffixes on verbs for 1Sg, 2Sg, and third persons, but preverbal subject proclitics for 1Pl and 2Pl. It therefore splits the difference between the suffixing western Dogon languages like the Najamba group, and the southwestern Dogon group including Bunoge which has proclitics for 1Sg, 1Pl, 2Sg, and 2Pl.&nbsp;</p>",
+        "license": {
+            "id": "CC-BY-4.0"
+        },
+        "title": "A grammar of Tiranige (Dogon, Mali)",
+        "notes": "See also \"Tranige lexicon\" in Zenodo. The grammar and lexicon will also be archived online at Deep Blue (University of Michigan Libraries). The recordings on which the text transcriptions are based will also be archived there. Currently Deep Blue has two divisions, documents and data, but they may be merged eventually. The recordings will be under data.",
+        "relations": {
+            "version": [
+                {
+                    "count": 1,
+                    "index": 0,
+                    "parent": {
+                        "pid_type": "recid",
+                        "pid_value": "6350671"
+                    },
+                    "is_last": true,
+                    "last_child": {
+                        "pid_type": "recid",
+                        "pid_value": "6350672"
+                    }
+                }
+            ]
+        },
+        "communities": [
+            {
+                "id": "ldh"
+            }
+        ],
+        "version": "February 2022",
+        "keywords": [
+            "Dogon",
+            "Tiranige"
+        ],
+        "publication_date": "2022-03-13",
+        "creators": [
+            {
+                "orcid": "0000-0002-1918-2137",
+                "affiliation": "University of Michigan",
+                "name": "Heath, Jeffrey"
+            }
+        ],
+        "access_right": "open",
+        "resource_type": {
+            "subtype": "book",
+            "type": "publication",
+            "title": "Book"
+        },
+        "related_identifiers": [
+            {
+                "scheme": "doi",
+                "identifier": "10.5281/zenodo.6350671",
+                "relation": "isVersionOf"
+            }
+        ]
+    }
+}
