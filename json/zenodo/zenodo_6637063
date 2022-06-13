@@ -1,0 +1,117 @@
+{
+    "files": [
+        {
+            "links": {
+                "self": "https://zenodo.org/api/files/1c51bce4-d66e-4a0d-8f74-f51148b39ee7/Monteil%20Langue%20des%20bozo.pdf"
+            },
+            "checksum": "md5:d0bf9d64db155350cfbd90436bac995b",
+            "bucket": "1c51bce4-d66e-4a0d-8f74-f51148b39ee7",
+            "key": "Monteil Langue des bozo.pdf",
+            "type": "pdf",
+            "size": 2199766
+        }
+    ],
+    "owners": [
+        46881
+    ],
+    "doi": "10.5281/zenodo.6637063",
+    "stats": {
+        "version_unique_downloads": 0.0,
+        "unique_views": 0.0,
+        "views": 0.0,
+        "version_views": 0.0,
+        "unique_downloads": 0.0,
+        "version_unique_views": 0.0,
+        "volume": 0.0,
+        "version_downloads": 0.0,
+        "downloads": 0.0,
+        "version_volume": 0.0
+    },
+    "links": {
+        "doi": "https://doi.org/10.5281/zenodo.6637063",
+        "conceptdoi": "https://doi.org/10.5281/zenodo.6637062",
+        "bucket": "https://zenodo.org/api/files/1c51bce4-d66e-4a0d-8f74-f51148b39ee7",
+        "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.6637062.svg",
+        "html": "https://zenodo.org/record/6637063",
+        "latest_html": "https://zenodo.org/record/6637063",
+        "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.6637063.svg",
+        "latest": "https://zenodo.org/api/records/6637063"
+    },
+    "conceptdoi": "10.5281/zenodo.6637062",
+    "created": "2022-06-13T05:14:48.159731+00:00",
+    "updated": "2022-06-13T05:24:22.425104+00:00",
+    "conceptrecid": "6637062",
+    "revision": 2,
+    "id": 6637063,
+    "metadata": {
+        "access_right_category": "success",
+        "doi": "10.5281/zenodo.6637063",
+        "description": "<blockquote>\n<p>Monteil, Charles. 1932. La Langue des Bozo: Population de P&ecirc;cheurs du Niger. Bulletin du Comit&eacute; d&#39;&eacute;tudes historiques et scientifiques de l&#39;Afrique occidentale fran&ccedil;aise 15. 261-399.</p>\n</blockquote>",
+        "contributors": [
+            {
+                "type": "ContactPerson",
+                "name": "Jeffrey Heath"
+            }
+        ],
+        "title": "La Langue des Bozo: Population de P\u00eacheurs du Niger",
+        "language": "fra",
+        "journal": {
+            "volume": "15",
+            "pages": "261-399",
+            "title": "Bulletin du Comit\u00e9 d'\u00e9tudes historiques et scientifiques de l'Afrique occidentale fran\u00e7aise"
+        },
+        "relations": {
+            "version": [
+                {
+                    "count": 1,
+                    "index": 0,
+                    "parent": {
+                        "pid_type": "recid",
+                        "pid_value": "6637062"
+                    },
+                    "is_last": true,
+                    "last_child": {
+                        "pid_type": "recid",
+                        "pid_value": "6637063"
+                    }
+                }
+            ]
+        },
+        "access_right": "open",
+        "communities": [
+            {
+                "id": "ldh"
+            }
+        ],
+        "notes": "Scan of out-of-print work",
+        "keywords": [
+            "glottocode:bozo1252"
+        ],
+        "publication_date": "1932-01-01",
+        "creators": [
+            {
+                "name": "Monteil, Charles"
+            }
+        ],
+        "license": {
+            "id": "CC-BY-4.0"
+        },
+        "resource_type": {
+            "subtype": "article",
+            "type": "publication",
+            "title": "Journal article"
+        },
+        "related_identifiers": [
+            {
+                "scheme": "url",
+                "identifier": "https://glottolog.org/resource/reference/id/hh:s:Monteil:Bozo",
+                "relation": "isReferencedBy"
+            },
+            {
+                "scheme": "doi",
+                "identifier": "10.5281/zenodo.6637062",
+                "relation": "isVersionOf"
+            }
+        ]
+    }
+}

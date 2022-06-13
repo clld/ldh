@@ -1,0 +1,113 @@
+{
+    "files": [
+        {
+            "links": {
+                "self": "https://zenodo.org/api/files/58fd13e0-ba3a-4874-bdcb-e1809a13e47d/Daget%20langue%20bozo.pdf"
+            },
+            "checksum": "md5:14232da91a8454064100c2e10c03edee",
+            "bucket": "58fd13e0-ba3a-4874-bdcb-e1809a13e47d",
+            "key": "Daget langue bozo.pdf",
+            "type": "pdf",
+            "size": 9553790
+        }
+    ],
+    "owners": [
+        46881
+    ],
+    "doi": "10.5281/zenodo.6637051",
+    "stats": {
+        "version_unique_downloads": 0.0,
+        "unique_views": 0.0,
+        "views": 0.0,
+        "version_views": 0.0,
+        "unique_downloads": 0.0,
+        "version_unique_views": 0.0,
+        "volume": 0.0,
+        "version_downloads": 0.0,
+        "downloads": 0.0,
+        "version_volume": 0.0
+    },
+    "links": {
+        "doi": "https://doi.org/10.5281/zenodo.6637051",
+        "conceptdoi": "https://doi.org/10.5281/zenodo.6637050",
+        "bucket": "https://zenodo.org/api/files/58fd13e0-ba3a-4874-bdcb-e1809a13e47d",
+        "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.6637050.svg",
+        "html": "https://zenodo.org/record/6637051",
+        "latest_html": "https://zenodo.org/record/6637051",
+        "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.6637051.svg",
+        "latest": "https://zenodo.org/api/records/6637051"
+    },
+    "conceptdoi": "10.5281/zenodo.6637050",
+    "created": "2022-06-13T05:08:39.944571+00:00",
+    "updated": "2022-06-13T05:23:12.557437+00:00",
+    "conceptrecid": "6637050",
+    "revision": 2,
+    "id": 6637051,
+    "metadata": {
+        "access_right_category": "success",
+        "doi": "10.5281/zenodo.6637051",
+        "description": "<blockquote>\n<p>Daget, Jacques and Konipo, Mamadou and Sanankoua, Mamadou. 1953. La Langue Bozo. (&Eacute;tudes Soudaniennes, I.) Dakar: Institut Fran&ccedil;ais d&#39;Afrique Noire, Governement du Soudan. 275pp.</p>\n</blockquote>",
+        "contributors": [
+            {
+                "type": "ContactPerson",
+                "name": "Jeffrey Heath"
+            }
+        ],
+        "title": "La langue Bozo",
+        "language": "fra",
+        "notes": "Scan of out-of-print work.",
+        "relations": {
+            "version": [
+                {
+                    "count": 1,
+                    "index": 0,
+                    "parent": {
+                        "pid_type": "recid",
+                        "pid_value": "6637050"
+                    },
+                    "is_last": true,
+                    "last_child": {
+                        "pid_type": "recid",
+                        "pid_value": "6637051"
+                    }
+                }
+            ]
+        },
+        "access_right": "open",
+        "communities": [
+            {
+                "id": "ldh"
+            }
+        ],
+        "keywords": [
+            "glottocode:bozo1252",
+            "Language Bozo"
+        ],
+        "publication_date": "1953-01-01",
+        "creators": [
+            {
+                "name": "Jacques Daget"
+            }
+        ],
+        "license": {
+            "id": "CC-BY-4.0"
+        },
+        "resource_type": {
+            "subtype": "book",
+            "type": "publication",
+            "title": "Book"
+        },
+        "related_identifiers": [
+            {
+                "scheme": "url",
+                "identifier": "https://glottolog.org/resource/reference/id/hh:g:Daget:Bozo",
+                "relation": "isReferencedBy"
+            },
+            {
+                "scheme": "doi",
+                "identifier": "10.5281/zenodo.6637050",
+                "relation": "isVersionOf"
+            }
+        ]
+    }
+}
