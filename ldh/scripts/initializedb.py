@@ -102,7 +102,7 @@ def _main(data, glottolog):
             id=item.id,
             description=item['metadata']['title'],
             name=item.name,
-            bibtex_type=EntryType.get(item.bibtex_type),
+            bibtex_type=EntryType.get('misc' if  item.bibtex_type == 'other' else item.bibtex_type),
             year=item.year,
             title=item['metadata']['title'],
             publisher='Zenodo',

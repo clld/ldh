@@ -1,0 +1,114 @@
+{
+    "files": [
+        {
+            "links": {
+                "self": "https://zenodo.org/api/files/cc14ec9b-520c-4043-81a1-876e857fa276/Djenne%CC%81%20Jenaama-Sorogaama%20Bozo%20grammar.pdf"
+            },
+            "checksum": "md5:8e2537cd0c3c70d3e429d4f2a1703208",
+            "bucket": "cc14ec9b-520c-4043-81a1-876e857fa276",
+            "key": "Djenne\u0301 Jenaama-Sorogaama Bozo grammar.pdf",
+            "type": "pdf",
+            "size": 5094081
+        },
+        {
+            "links": {
+                "self": "https://zenodo.org/api/files/cc14ec9b-520c-4043-81a1-876e857fa276/draft%20Djenne%CC%81%20Jenaama%20lexicon%20Nov%202022.xlsx"
+            },
+            "checksum": "md5:8c141527e8c253a1db12f676ed6befe5",
+            "bucket": "cc14ec9b-520c-4043-81a1-876e857fa276",
+            "key": "draft Djenne\u0301 Jenaama lexicon Nov 2022.xlsx",
+            "type": "xlsx",
+            "size": 450844
+        }
+    ],
+    "owners": [
+        210817
+    ],
+    "doi": "10.5281/zenodo.7312207",
+    "stats": {
+        "version_unique_downloads": 16.0,
+        "unique_views": 20.0,
+        "views": 21.0,
+        "version_views": 21.0,
+        "unique_downloads": 16.0,
+        "version_unique_views": 20.0,
+        "volume": 98140071.0,
+        "version_downloads": 22.0,
+        "downloads": 22.0,
+        "version_volume": 98140071.0
+    },
+    "links": {
+        "doi": "https://doi.org/10.5281/zenodo.7312207",
+        "conceptdoi": "https://doi.org/10.5281/zenodo.7312206",
+        "bucket": "https://zenodo.org/api/files/cc14ec9b-520c-4043-81a1-876e857fa276",
+        "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.7312206.svg",
+        "html": "https://zenodo.org/record/7312207",
+        "latest_html": "https://zenodo.org/record/7312207",
+        "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.7312207.svg",
+        "latest": "https://zenodo.org/api/records/7312207"
+    },
+    "conceptdoi": "10.5281/zenodo.7312206",
+    "created": "2022-11-11T01:55:30.864645+00:00",
+    "updated": "2022-11-11T10:03:22.344422+00:00",
+    "conceptrecid": "7312206",
+    "revision": 3,
+    "id": 7312207,
+    "metadata": {
+        "access_right_category": "success",
+        "doi": "10.5281/zenodo.7312207",
+        "description": "<p>grammar and texts of the Jenaama or Sorogaama language (Bozo family, Mande macrofamily) as spoken in villages near Djenn&eacute; in central Mali, West Africa. Attached is nonfinal draft of the lexicon in Excel spreadsheet form with separate pages for nouns, adjectives, verbs, numerals, and &quot;other&quot; (mostly grammatical particles); other pages can be disregarded. There is currently an unresolved issue as to the language name and its geographical demarcation. Sorogaama previously, and Jenaama recently, have been used to denote a wide range of Bozo varieties. Comparison of this grammar and lexicon with those of Cliffs Jenaama (previously uploaded) makes it likely that they belong to different languages; if so, Jenaama is properly applied to Cliffs and Sorogaama is properly applied to the Djenn&eacute;-area varieties.</p>",
+        "language": "eng",
+        "title": "A Grammar of Jenaama-Sorogaama of Djenn\u00e9 (Pondo zone): Mande/Bozo language of Mali",
+        "license": {
+            "id": "CC-BY-4.0"
+        },
+        "notes": "National Science Foundation grant PD-1941828, \"Documentation of Bozo languages of Mali,\"",
+        "relations": {
+            "version": [
+                {
+                    "count": 1,
+                    "index": 0,
+                    "parent": {
+                        "pid_type": "recid",
+                        "pid_value": "7312206"
+                    },
+                    "is_last": true,
+                    "last_child": {
+                        "pid_type": "recid",
+                        "pid_value": "7312207"
+                    }
+                }
+            ]
+        },
+        "communities": [
+            {
+                "id": "ldh"
+            }
+        ],
+        "version": "November 2022",
+        "keywords": [
+            "Bozo, Jenaama, Sorogaama"
+        ],
+        "publication_date": "2022-11-11",
+        "creators": [
+            {
+                "orcid": "0000-0002-1918-2137",
+                "affiliation": "University of Michigan",
+                "name": "Heath, Jeffrey"
+            }
+        ],
+        "access_right": "open",
+        "resource_type": {
+            "subtype": "other",
+            "type": "publication",
+            "title": "Other"
+        },
+        "related_identifiers": [
+            {
+                "scheme": "doi",
+                "identifier": "10.5281/zenodo.7312206",
+                "relation": "isVersionOf"
+            }
+        ]
+    }
+}

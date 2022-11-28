@@ -1,0 +1,123 @@
+{
+    "files": [
+        {
+            "links": {
+                "self": "https://zenodo.org/api/files/3a820e93-bcc9-4d6d-ac4a-baeed5eae774/Cliffs%20Jenaama%20Bozo%20grammar.docx"
+            },
+            "checksum": "md5:142a5e17c65dd92d8e2e734c5d17c1cc",
+            "bucket": "3a820e93-bcc9-4d6d-ac4a-baeed5eae774",
+            "key": "Cliffs Jenaama Bozo grammar.docx",
+            "type": "docx",
+            "size": 1592257
+        },
+        {
+            "links": {
+                "self": "https://zenodo.org/api/files/3a820e93-bcc9-4d6d-ac4a-baeed5eae774/Cliffs%20Jenaama%20Bozo%20grammar.pdf"
+            },
+            "checksum": "md5:b846345b1a62b11b4d0a2d66529f9329",
+            "bucket": "3a820e93-bcc9-4d6d-ac4a-baeed5eae774",
+            "key": "Cliffs Jenaama Bozo grammar.pdf",
+            "type": "pdf",
+            "size": 4861566
+        },
+        {
+            "links": {
+                "self": "https://zenodo.org/api/files/3a820e93-bcc9-4d6d-ac4a-baeed5eae774/draft%20Cliffs%20Jenaama%20lexicon%20Sept%202022.xlsx"
+            },
+            "checksum": "md5:8c9757910a01bc733495c4d13331f67e",
+            "bucket": "3a820e93-bcc9-4d6d-ac4a-baeed5eae774",
+            "key": "draft Cliffs Jenaama lexicon Sept 2022.xlsx",
+            "type": "xlsx",
+            "size": 329243
+        }
+    ],
+    "owners": [
+        210817
+    ],
+    "doi": "10.5281/zenodo.7127001",
+    "stats": {
+        "version_unique_downloads": 21.0,
+        "unique_views": 27.0,
+        "views": 27.0,
+        "version_views": 27.0,
+        "unique_downloads": 21.0,
+        "version_unique_views": 27.0,
+        "volume": 117251275.0,
+        "version_downloads": 28.0,
+        "downloads": 28.0,
+        "version_volume": 117251275.0
+    },
+    "links": {
+        "doi": "https://doi.org/10.5281/zenodo.7127001",
+        "conceptdoi": "https://doi.org/10.5281/zenodo.7127000",
+        "bucket": "https://zenodo.org/api/files/3a820e93-bcc9-4d6d-ac4a-baeed5eae774",
+        "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.7127000.svg",
+        "html": "https://zenodo.org/record/7127001",
+        "latest_html": "https://zenodo.org/record/7127001",
+        "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.7127001.svg",
+        "latest": "https://zenodo.org/api/records/7127001"
+    },
+    "conceptdoi": "10.5281/zenodo.7127000",
+    "created": "2022-09-29T23:05:53.498224+00:00",
+    "updated": "2022-09-30T12:11:19.097056+00:00",
+    "conceptrecid": "7127000",
+    "revision": 3,
+    "id": 7127001,
+    "metadata": {
+        "access_right_category": "success",
+        "doi": "10.5281/zenodo.7127001",
+        "description": "<p>Reference grammar with texts of Cliffs Jenaama, a language of the Bozo family in east central Mali, in docx and pdf formats. Accompanied by draft xlsx lexical spreadsheet.&nbsp;</p>",
+        "language": "eng",
+        "title": "Grammar of Cliffs Jenaama (Bozo, Mali)",
+        "license": {
+            "id": "CC-BY-4.0"
+        },
+        "notes": "funding: National Science Foundation, Documenting Endangered Languages program, grant PD-1941828, \"Documentation of Bozo languages of Mali\"",
+        "relations": {
+            "version": [
+                {
+                    "count": 1,
+                    "index": 0,
+                    "parent": {
+                        "pid_type": "recid",
+                        "pid_value": "7127000"
+                    },
+                    "is_last": true,
+                    "last_child": {
+                        "pid_type": "recid",
+                        "pid_value": "7127001"
+                    }
+                }
+            ]
+        },
+        "communities": [
+            {
+                "id": "ldh"
+            }
+        ],
+        "keywords": [
+            "Bozo languages, Jenaama, Cliffs"
+        ],
+        "publication_date": "2022-09-29",
+        "creators": [
+            {
+                "orcid": "0000-0002-1918-2137",
+                "affiliation": "University of Michigan",
+                "name": "Heath, Jeffrey G."
+            }
+        ],
+        "access_right": "open",
+        "resource_type": {
+            "subtype": "other",
+            "type": "publication",
+            "title": "Other"
+        },
+        "related_identifiers": [
+            {
+                "scheme": "doi",
+                "identifier": "10.5281/zenodo.7127000",
+                "relation": "isVersionOf"
+            }
+        ]
+    }
+}
