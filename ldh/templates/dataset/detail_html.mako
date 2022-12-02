@@ -19,7 +19,7 @@
 <p>The <a title="Go to page: objectives" href="${req.route_url('about')}">goal</a> of the Language
     Description Heritage (LDH) Open Access Library is to provide easy access to descriptive material about the
     world’s languages. This collection is being compiled at the
-    ${h.external_link("https://www.shh.mpg.de/en", label='Max Planck Institute for the Science of Human History')}
+    ${h.external_link("https://www.eva.mpg.de/", label='Max Planck Institute for Evolutionary Anthropology')}
     in Germany as an open access collection of existing scientific contributions
     describing the world-wide linguistic diversity, focussing on traditionally difficult to obtain works.</p>
 <p>More information about the scientific goals of this project is available in the section describing the <a

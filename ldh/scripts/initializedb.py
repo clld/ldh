@@ -34,12 +34,12 @@ def _main(data, glottolog):
     dataset = common.Dataset(
         id='ldh',
         name='Language Description Heritage',
-        publisher_name="Max Planck Institute for the Science of Human History",
-        publisher_place="Jena",
-        publisher_url="https://www.shh.mpg.de",
+        publisher_name="Max Planck Institute for Evolutionary Anthropology",
+        publisher_place="Leipzig",
+        publisher_url="https://www.eva.mpg.de",
         license="https://creativecommons.org/licenses/by/4.0/",
         domain='ldh.clld.org',
-        contact='ldh@shh.mpg.de',
+        contact='ldh@eva.mpg.de',
         jsondata={
             'license_icon': 'cc-by.png',
             'license_name': 'Creative Commons Attribution 4.0 International License'})
