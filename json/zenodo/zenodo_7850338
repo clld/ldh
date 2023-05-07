@@ -1,0 +1,112 @@
+{
+    "files": [
+        {
+            "links": {
+                "self": "https://zenodo.org/api/files/d7993c13-c03d-4608-9eba-85cdd91d0f8d/Heath%20Tebul%20Ure%20grammar%20April%202023.pdf"
+            },
+            "checksum": "md5:3ca2e5721a9f2e5642ed74a667fffc21",
+            "bucket": "d7993c13-c03d-4608-9eba-85cdd91d0f8d",
+            "key": "Heath Tebul Ure grammar April 2023.pdf",
+            "type": "pdf",
+            "size": 4713937
+        },
+        {
+            "links": {
+                "self": "https://zenodo.org/api/files/d7993c13-c03d-4608-9eba-85cdd91d0f8d/Tebul%20Ure%20lexicon%20April%202023.xlsx"
+            },
+            "checksum": "md5:53270da60073a4a9d6846ce29d33792b",
+            "bucket": "d7993c13-c03d-4608-9eba-85cdd91d0f8d",
+            "key": "Tebul Ure lexicon April 2023.xlsx",
+            "type": "xlsx",
+            "size": 404240
+        }
+    ],
+    "owners": [
+        210817
+    ],
+    "doi": "10.5281/zenodo.7850338",
+    "stats": {
+        "version_unique_downloads": 9.0,
+        "unique_views": 10.0,
+        "views": 11.0,
+        "version_views": 11.0,
+        "unique_downloads": 9.0,
+        "version_unique_views": 10.0,
+        "volume": 51853307.0,
+        "version_downloads": 11.0,
+        "downloads": 11.0,
+        "version_volume": 51853307.0
+    },
+    "links": {
+        "doi": "https://doi.org/10.5281/zenodo.7850338",
+        "conceptdoi": "https://doi.org/10.5281/zenodo.7850337",
+        "bucket": "https://zenodo.org/api/files/d7993c13-c03d-4608-9eba-85cdd91d0f8d",
+        "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.7850337.svg",
+        "html": "https://zenodo.org/record/7850338",
+        "latest_html": "https://zenodo.org/record/7850338",
+        "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.7850338.svg",
+        "latest": "https://zenodo.org/api/records/7850338"
+    },
+    "conceptdoi": "10.5281/zenodo.7850337",
+    "created": "2023-04-20T17:57:29.223819+00:00",
+    "updated": "2023-04-21T07:33:08.630677+00:00",
+    "conceptrecid": "7850337",
+    "revision": 3,
+    "id": 7850338,
+    "metadata": {
+        "access_right_category": "success",
+        "doi": "10.5281/zenodo.7850338",
+        "description": "<p>Reference grammar with texts. Tebul Ure (TU) is a small-population Dogon language spoken traditionally on the heights overlooking the Dogon village cluster Bamba, on the eastern cliffs of the Dogon (Bandiagara) Plateau. Its closest genetic neighbors within Dogon are Najamba-Kindige and Yanda Dom. All three are genetically part of &quot;western&quot; Dogon although the western/eastern genetic division does not exactly match the geography.</p>\n\n<p>Also included in this upload is a lexical spreadsheet in xlsx format with English and French glosses. It is based on combining the TU material in a comparative Dogon lexical spreadsheets with the TU material in comparative Dogon flora and fauna spreadsheets. Some of the material in columns toward the left may be disregarded by most end-users. Identifications and groupings of flora-fauna terminology may be useful in (re-)sorting for various purposes.</p>\n\n<p>These documents and additional media (audio files, images of villages) will be archived online in Deep Blue Repositories, University of Michigan Libraries, which is divided into Deep Blue Documents (e.g. pdfs) and Deep Blue Data (including media and spreadsheets). TU materials can be found by searching for &quot;Tebul&quot; or &quot;Heath&quot;. Many documentary-style videos from Central Mali, especially Dogon, are also archived in Deep Blue Data.</p>",
+        "license": {
+            "id": "CC-BY-4.0"
+        },
+        "title": "Grammar of Tebul Ure (Dogon, Mali)",
+        "notes": "fieldwork funded by the US National Science Foundation, Documenting Endangered Languages program, chiefly under grant BCS-0853364 (2009-2012).",
+        "relations": {
+            "version": [
+                {
+                    "count": 1,
+                    "index": 0,
+                    "parent": {
+                        "pid_type": "recid",
+                        "pid_value": "7850337"
+                    },
+                    "is_last": true,
+                    "last_child": {
+                        "pid_type": "recid",
+                        "pid_value": "7850338"
+                    }
+                }
+            ]
+        },
+        "communities": [
+            {
+                "id": "ldh"
+            }
+        ],
+        "keywords": [
+            "Dogon, Tebul Ure, Mali, grammar"
+        ],
+        "publication_date": "2023-04-20",
+        "creators": [
+            {
+                "orcid": "0000-0002-1918-2137",
+                "affiliation": "University of Michigan",
+                "name": "Heath, Jeffrey"
+            }
+        ],
+        "access_right": "open",
+        "resource_type": {
+            "subtype": "other",
+            "type": "publication",
+            "title": "Other"
+        },
+        "related_identifiers": [
+            {
+                "scheme": "doi",
+                "identifier": "10.5281/zenodo.7850337",
+                "relation": "isVersionOf"
+            }
+        ]
+    }
+}

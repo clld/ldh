@@ -1,0 +1,99 @@
+{
+    "files": [
+        {
+            "links": {
+                "self": "https://zenodo.org/api/files/7206fa85-da7e-4179-97a2-ec458463426f/Prost%201956%20La%20langue%20sonay%20complete.pdf"
+            },
+            "checksum": "md5:8d52b006e2982a8eeae45330d2ce0141",
+            "bucket": "7206fa85-da7e-4179-97a2-ec458463426f",
+            "key": "Prost 1956 La langue sonay complete.pdf",
+            "type": "pdf",
+            "size": 25343073
+        }
+    ],
+    "owners": [
+        210817
+    ],
+    "doi": "10.5281/zenodo.7444942",
+    "stats": {
+        "version_unique_downloads": 14.0,
+        "unique_views": 15.0,
+        "views": 17.0,
+        "version_views": 17.0,
+        "unique_downloads": 14.0,
+        "version_unique_views": 15.0,
+        "volume": 405489168.0,
+        "version_downloads": 16.0,
+        "downloads": 16.0,
+        "version_volume": 405489168.0
+    },
+    "links": {
+        "doi": "https://doi.org/10.5281/zenodo.7444942",
+        "conceptdoi": "https://doi.org/10.5281/zenodo.7444941",
+        "bucket": "https://zenodo.org/api/files/7206fa85-da7e-4179-97a2-ec458463426f",
+        "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.7444941.svg",
+        "html": "https://zenodo.org/record/7444942",
+        "latest_html": "https://zenodo.org/record/7444942",
+        "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.7444942.svg",
+        "latest": "https://zenodo.org/api/records/7444942"
+    },
+    "conceptdoi": "10.5281/zenodo.7444941",
+    "created": "2022-12-16T04:06:05.158417+00:00",
+    "updated": "2022-12-16T14:26:33.162539+00:00",
+    "conceptrecid": "7444941",
+    "revision": 3,
+    "id": 7444942,
+    "metadata": {
+        "access_right_category": "success",
+        "doi": "10.5281/zenodo.7444942",
+        "description": "<p>short grammar along with texts and lexicon of the Songhay language of Gao, Mali, also known as Koyraboro Senni.</p>",
+        "license": {
+            "id": "CC-BY-4.0"
+        },
+        "title": "La langue so\u1e45ay et ses dialectes",
+        "relations": {
+            "version": [
+                {
+                    "count": 1,
+                    "index": 0,
+                    "parent": {
+                        "pid_type": "recid",
+                        "pid_value": "7444941"
+                    },
+                    "is_last": true,
+                    "last_child": {
+                        "pid_type": "recid",
+                        "pid_value": "7444942"
+                    }
+                }
+            ]
+        },
+        "communities": [
+            {
+                "id": "ldh"
+            }
+        ],
+        "keywords": [
+            "Songhay language"
+        ],
+        "publication_date": "1956-01-01",
+        "creators": [
+            {
+                "name": "Prost, R. P. A."
+            }
+        ],
+        "access_right": "open",
+        "resource_type": {
+            "subtype": "book",
+            "type": "publication",
+            "title": "Book"
+        },
+        "related_identifiers": [
+            {
+                "scheme": "doi",
+                "identifier": "10.5281/zenodo.7444941",
+                "relation": "isVersionOf"
+            }
+        ]
+    }
+}

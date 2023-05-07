@@ -51,7 +51,6 @@ def main(global_config, **settings):
             _query=req.query_params),
         name='category')
 
-    assert config.registry.unregisterUtility(provided=IDownload, name='dataset.cldf')
     config.register_download(
         adapters.BibTeX(models.Description, 'ldh', description="Descriptions as BibTeX"))
 

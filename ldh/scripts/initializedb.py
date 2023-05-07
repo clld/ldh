@@ -124,7 +124,7 @@ def _main(data, glottolog):
                     license=attr.asdict(license) if license else None),
             ))
 
-        for kw in item['metadata']['keywords']:
+        for kw in item['metadata'].get('keywords', []):
             if not kw.startswith('iso:'):
                 continue
             iso = kw.replace('iso:', '')

@@ -23,7 +23,7 @@ setup(
         'cldfcatalog',
         'clld-glottologfamily-plugin',
         'pyglottolog',
-        'sqlalchemy',
+        'sqlalchemy<2',
         'waitress',
         'bs4',
     ],

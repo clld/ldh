@@ -1,0 +1,96 @@
+{
+    "files": [
+        {
+            "links": {
+                "self": "https://zenodo.org/api/files/8bde6b16-2a78-4d4e-85b5-89b805b84902/Labouret%20Nouvelles%20notes.pdf"
+            },
+            "checksum": "md5:7ad076a2a677a9d6d412a897dc01239f",
+            "bucket": "8bde6b16-2a78-4d4e-85b5-89b805b84902",
+            "key": "Labouret Nouvelles notes.pdf",
+            "type": "pdf",
+            "size": 8151742
+        }
+    ],
+    "owners": [
+        210817
+    ],
+    "doi": "10.5281/zenodo.7445030",
+    "stats": {
+        "version_unique_downloads": 8.0,
+        "unique_views": 10.0,
+        "views": 10.0,
+        "version_views": 10.0,
+        "unique_downloads": 8.0,
+        "version_unique_views": 10.0,
+        "volume": 65213936.0,
+        "version_downloads": 8.0,
+        "downloads": 8.0,
+        "version_volume": 65213936.0
+    },
+    "links": {
+        "doi": "https://doi.org/10.5281/zenodo.7445030",
+        "conceptdoi": "https://doi.org/10.5281/zenodo.7445029",
+        "bucket": "https://zenodo.org/api/files/8bde6b16-2a78-4d4e-85b5-89b805b84902",
+        "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.7445029.svg",
+        "html": "https://zenodo.org/record/7445030",
+        "latest_html": "https://zenodo.org/record/7445030",
+        "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.7445030.svg",
+        "latest": "https://zenodo.org/api/records/7445030"
+    },
+    "conceptdoi": "10.5281/zenodo.7445029",
+    "created": "2022-12-16T04:34:49.724325+00:00",
+    "updated": "2022-12-16T14:26:33.146949+00:00",
+    "conceptrecid": "7445029",
+    "revision": 3,
+    "id": 7445030,
+    "metadata": {
+        "access_right_category": "success",
+        "doi": "10.5281/zenodo.7445030",
+        "description": "<p>supplement to his 1931 work &quot;Les tribus du rameau lobi&quot; (link below) about the languages, ethnography, and history of the Lobi and related ethnicities of southwestern Burkina Faso; this volume contains extensive material on the Dyan (Jaane) people and their language in addition to new material on Lobi.<br>\n<a href=\"https://zenodo.org/record/7444991#.Y5vyrsHMJmo\">https://zenodo.org/record/7444991#.Y5vyrsHMJmo</a></p>",
+        "license": {
+            "id": "CC-BY-4.0"
+        },
+        "title": "Nouvelles notes sur les tribus du rameau lobi",
+        "relations": {
+            "version": [
+                {
+                    "count": 1,
+                    "index": 0,
+                    "parent": {
+                        "pid_type": "recid",
+                        "pid_value": "7445029"
+                    },
+                    "is_last": true,
+                    "last_child": {
+                        "pid_type": "recid",
+                        "pid_value": "7445030"
+                    }
+                }
+            ]
+        },
+        "communities": [
+            {
+                "id": "ldh"
+            }
+        ],
+        "publication_date": "1958-01-01",
+        "creators": [
+            {
+                "name": "Labouret, Henri"
+            }
+        ],
+        "access_right": "open",
+        "resource_type": {
+            "subtype": "book",
+            "type": "publication",
+            "title": "Book"
+        },
+        "related_identifiers": [
+            {
+                "scheme": "doi",
+                "identifier": "10.5281/zenodo.7445029",
+                "relation": "isVersionOf"
+            }
+        ]
+    }
+}
