@@ -3,26 +3,26 @@ Releasing clld/ldh
 ==================
 
 - add new uploads from Zenodo's [ldh community](https://zenodo.org/communities/ldh):
-```shell script
+```shell
 ldh crawl
 ```
 - recreate the database:
-```bash
+```shell
 clld initdb development.ini
 ```
 
 - Create downloads:
-```
+```shell
 clld create_downloads development.ini ldh.clld.org 
 ```
 
 - Upload the downloads to CDSTAR:
-```
+```shell
 clldmpg dl2cdstar --version=<version>
 ```
 
 - Make sure the tests pass
-```
+```shell
 pytest
 ```
 
