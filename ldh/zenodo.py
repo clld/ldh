@@ -19,10 +19,10 @@ OAI_NS = "http://www.openarchives.org/OAI/2.0/"
 def get(id_, outdir, overwrite=False):
     p = outdir.joinpath('zenodo_{0}'.format(id_))
     if (not p.exists()) or overwrite:
-        html = bs(requests.get(
-            'https://zenodo.org/record/{0}/export/json'.format(id_)).text, 'html.parser')
-        rec = json.loads(html.find('pre').text)
-        outdir.joinpath('zenodo_{0}'.format(id_)).write_text(json.dumps(rec, indent=4), encoding='utf8')
+        print('https://zenodo.org/record/{0}/export/json'.format(id_))
+        r = requests.get(
+            'https://zenodo.org/record/{0}/export/json'.format(id_))
+        outdir.joinpath('zenodo_{0}'.format(id_)).write_text(r.text, encoding='utf8')
 
 
 class OAIResponse(object):
@@ -63,12 +63,17 @@ def crawl():
 
 class Item(dict):
     def __init__(self, p):
+        print(p)
         dict.__init__(self, load(p))
         self.id = p.stem
 
     @property
     def name(self):
-        author_names = [HumanName(c['name']) for c in self['metadata']['creators']]
+        author_names = []
+        for c in self['metadata']['creators']:
+            if 'person_or_org' in c:
+                c = c['person_or_org']
+            author_names.append(HumanName(c['name']))
         if len(author_names) < 3:
             res = ' and '.join(a.last for a in author_names)
         else:

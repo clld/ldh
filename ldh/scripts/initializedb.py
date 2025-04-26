@@ -106,18 +106,24 @@ def _main(data, glottolog):
             year=item.year,
             title=item['metadata']['title'],
             publisher='Zenodo',
-            author=' and '.join(a['name'] for a in item['metadata']['creators']),
-            pid=item['metadata']['doi'],
+            author=' and '.join(a.get('person_or_org', a)['name'] for a in item['metadata']['creators']),
+            pid=item['metadata'].get('doi') or item['pids']['doi']['identifier'],
             pid_type='doi',
         )
         DBSession.flush()
-        for file in item['files']:
-            license = licenses.find(item['metadata']['license']['id'])
+        files = item['files']
+        if isinstance(files, dict):
+            files = files['entries'].values()
+        for file in files:
+            if 'license' in item['metadata']:
+                license = licenses.find(item['metadata']['license']['id'])
+            else:
+                license = licenses.find(item['metadata']['rights'][0]['id'].upper())
             DBSession.add(common.Source_files(
                 id=file['checksum'].replace('md5:', ''),
                 name=file['key'],
                 object_pk=src.pk,
-                mime_type='application/' + file['type'],
+                mime_type=file.get('mimetype') or ('application/' + file['type']),
                 jsondata=dict(
                     size=file['size'],
                     url=file['links']['self'],
