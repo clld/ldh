@@ -115,6 +115,8 @@ def _main(data, glottolog):
         if isinstance(files, dict):
             files = files['entries'].values()
         for file in files:
+            if item.id == 'zenodo_15160216':
+                print(file)
             if 'license' in item['metadata']:
                 license = licenses.find(item['metadata']['license']['id'])
             else:
@@ -123,10 +125,10 @@ def _main(data, glottolog):
                 id=file['checksum'].replace('md5:', ''),
                 name=file['key'],
                 object_pk=src.pk,
-                mime_type=file.get('mimetype') or ('application/' + file['type']),
+                mime_type=file.get('mimetype') or 'application/' + file['type'],
                 jsondata=dict(
                     size=file['size'],
-                    url=file['links']['self'],
+                    url=file['links'].get('content', file['links']['self']),
                     license=attr.asdict(license) if license else None),
             ))
 

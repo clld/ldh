@@ -22,6 +22,8 @@ REPOS = pathlib.Path(__file__).parent.parent
 def file_link(file):
     url = file.jsondata.get('url', 'http://hdl.handle.net/' + file.id.replace('__', '/'))
     suffix = pathlib.Path(url.split('/')[-1]).suffix
+    if not suffix:
+        suffix = '.' + file.mime_type.split('/')[-1]
     content = [
         HTML.a(
             icon('file'),
