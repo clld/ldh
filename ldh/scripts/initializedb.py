@@ -1,6 +1,6 @@
 import pathlib
+import dataclasses
 
-import attr
 from clld.cliutil import Data
 from clld.db.meta import DBSession
 from clld.db.models import common
@@ -83,7 +83,7 @@ def _main(data, glottolog):
                             mime_type=file.mimeType,
                             jsondata=dict(
                                 size=file.size,
-                                license=attr.asdict(file.license) if file.license else None),
+                                license=dataclasses.asdict(file.license) if file.license else None),
                         ))
             for iso in item.isocodes:
                 if iso in lbyi:
@@ -115,8 +115,6 @@ def _main(data, glottolog):
         if isinstance(files, dict):
             files = files['entries'].values()
         for file in files:
-            if item.id == 'zenodo_15160216':
-                print(file)
             if 'license' in item['metadata']:
                 license = licenses.find(item['metadata']['license']['id'])
             else:
@@ -129,7 +127,7 @@ def _main(data, glottolog):
                 jsondata=dict(
                     size=file['size'],
                     url=file['links'].get('content', file['links']['self']),
-                    license=attr.asdict(license) if license else None),
+                    license=dataclasses.asdict(license) if license else None),
             ))
 
         for kw in item['metadata'].get('keywords', []):
