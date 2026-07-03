@@ -18,8 +18,8 @@ setup(
     include_package_data=True,
     zip_safe=False,
     install_requires=[
+        'clldmpg>=4.4',
         'clld>=9.2.2',
-        'clldmpg>=4.2',
         'cldfcatalog',
         'clld-glottologfamily-plugin',
         'pyglottolog',
