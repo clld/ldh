@@ -16,10 +16,8 @@ clld initdb development.ini
 clld create_downloads development.ini ldh.clld.org 
 ```
 
-- Upload the downloads to CDSTAR:
-```shell
-clldmpg dl2cdstar --version=<version>
-```
+Unzip the bib and upload it as new version to https://doi.org/10.5281/zenodo.21392221
+as user eva-dlce-zenodo-2
 
 - Make sure the tests pass
 ```shell
